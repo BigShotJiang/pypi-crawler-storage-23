@@ -1,0 +1,11 @@
+{
+  "name": "empfin",
+  "version": "1.8",
+  "summary": "Empirical Finance Tools",
+  "author": "Gustavo Amarante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "empfin-1.8.tar.gz",
+  "download_time": "2026-02-18T14:38:46.909960",
+  "package_url": "https://pypi.org/project/empfin/"
+}

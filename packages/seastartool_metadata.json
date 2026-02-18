@@ -1,0 +1,11 @@
+{
+  "name": "seastartool",
+  "version": "0.11",
+  "summary": "The Sea-faring System for Tagging, Attribution and Redistribution (SeaSTAR) is a GUI and CLI application for processing biodiversity data collected at sea.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seastartool-0.11.tar.gz",
+  "download_time": "2026-02-18T14:39:19.129191",
+  "package_url": "https://pypi.org/project/seastartool/"
+}

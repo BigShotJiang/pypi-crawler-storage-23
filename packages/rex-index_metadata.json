@@ -1,0 +1,11 @@
+{
+  "name": "rex-index",
+  "version": "0.1.7",
+  "summary": "Fast Python symbol search for .venv packages",
+  "author": "Anton Vykhovanets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rex_index-0.1.7.tar.gz",
+  "download_time": "2026-02-18T14:38:41.628998",
+  "package_url": "https://pypi.org/project/rex-index/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pypnusershub",
+  "version": "3.2.0",
+  "summary": "Python lib to authenticate using PN's UsersHub",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/PnX-SI/UsersHub-authentification-module",
+  "download_filename": "pypnusershub-3.2.0.tar.gz",
+  "download_time": "2026-02-18T14:38:47.994502",
+  "package_url": "https://pypi.org/project/pypnusershub/"
+}

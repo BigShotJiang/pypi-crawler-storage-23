@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-ir",
+  "version": "0.2.1",
+  "summary": "PyTorch IR extraction framework for compiler backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytorch_ir-0.2.1.tar.gz",
+  "download_time": "2026-02-18T14:39:08.691714",
+  "package_url": "https://pypi.org/project/pytorch-ir/"
+}

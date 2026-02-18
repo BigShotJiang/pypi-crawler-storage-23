@@ -1,0 +1,11 @@
+{
+  "name": "skst-safe-build",
+  "version": "1.0.0b1",
+  "summary": "A safe builder for falling back to setuptools when scikit_build_core fails due to a missing c compiler.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skst_safe_build-1.0.0b1.tar.gz",
+  "download_time": "2026-02-18T14:38:50.162642",
+  "package_url": "https://pypi.org/project/skst-safe-build/"
+}

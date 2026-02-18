@@ -1,0 +1,11 @@
+{
+  "name": "TracMarkdownMacro",
+  "version": "0.11.10",
+  "summary": "Implements Markdown syntax WikiProcessor as a Trac macro.",
+  "author": "Douglas Clifton",
+  "license": "BSD 3-Clause",
+  "home_page": "https://trac-hacks.org/wiki/MarkdownMacro",
+  "download_filename": "tracmarkdownmacro-0.11.10.tar.gz",
+  "download_time": "2026-02-18T14:38:37.837536",
+  "package_url": "https://pypi.org/project/TracMarkdownMacro/"
+}

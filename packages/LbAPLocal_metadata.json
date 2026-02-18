@@ -1,11 +1,11 @@
 {
   "name": "LbAPLocal",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "Tool to locally run tests for AnalysisProductions",
   "author": "LHCb",
   "license": null,
   "home_page": null,
-  "download_filename": "lbaplocal-0.9.3.tar.gz",
-  "download_time": "2026-02-18T13:53:46.987687",
+  "download_filename": "lbaplocal-0.9.4.tar.gz",
+  "download_time": "2026-02-18T14:38:46.336071",
   "package_url": "https://pypi.org/project/LbAPLocal/"
 }

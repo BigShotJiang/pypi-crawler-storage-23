@@ -1,11 +1,11 @@
 {
   "name": "graphsense-python",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "summary": "GraphSense API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphsense_python-2.9.3.tar.gz",
-  "download_time": "2026-02-18T13:53:31.774239",
+  "download_filename": "graphsense_python-2.9.4.tar.gz",
+  "download_time": "2026-02-18T14:38:44.055824",
   "package_url": "https://pypi.org/project/graphsense-python/"
 }

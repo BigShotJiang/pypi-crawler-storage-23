@@ -1,0 +1,11 @@
+{
+  "name": "teamplify",
+  "version": "0.14.0",
+  "summary": "Teamplify on-premise runner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teamplify-0.14.0.tar.gz",
+  "download_time": "2026-02-18T14:39:14.161551",
+  "package_url": "https://pypi.org/project/teamplify/"
+}

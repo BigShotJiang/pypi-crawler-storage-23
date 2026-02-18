@@ -1,0 +1,11 @@
+{
+  "name": "openedx-learning",
+  "version": "0.33.1",
+  "summary": "Open edX Learning Core (and Tagging)",
+  "author": "David Ormsbee",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/openedx-learning",
+  "download_filename": "openedx_learning-0.33.1.tar.gz",
+  "download_time": "2026-02-18T14:38:52.901040",
+  "package_url": "https://pypi.org/project/openedx-learning/"
+}

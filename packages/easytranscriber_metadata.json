@@ -1,0 +1,11 @@
+{
+  "name": "easytranscriber",
+  "version": "0.1.0",
+  "summary": "Speech recognition with accurate word-level timestamps.",
+  "author": "Faton Rekathati",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easytranscriber-0.1.0.tar.gz",
+  "download_time": "2026-02-18T14:38:56.717693",
+  "package_url": "https://pypi.org/project/easytranscriber/"
+}

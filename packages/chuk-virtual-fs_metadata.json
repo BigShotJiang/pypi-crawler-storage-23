@@ -1,0 +1,11 @@
+{
+  "name": "chuk-virtual-fs",
+  "version": "0.5.1",
+  "summary": "A secure, modular virtual filesystem designed for AI agent sandboxes",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chuk_virtual_fs-0.5.1.tar.gz",
+  "download_time": "2026-02-18T14:39:16.384867",
+  "package_url": "https://pypi.org/project/chuk-virtual-fs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-nodegraph",
+  "version": "0.5.0",
+  "summary": "Node Graph plugin for Mkdocs Material",
+  "author": "JeongYong Hwang",
+  "license": "MIT",
+  "home_page": "https://yonge123.github.io/mkdocs-nodegraph/nodegraph.html",
+  "download_filename": "mkdocs_nodegraph-0.5.0.tar.gz",
+  "download_time": "2026-02-18T14:38:41.048738",
+  "package_url": "https://pypi.org/project/mkdocs-nodegraph/"
+}

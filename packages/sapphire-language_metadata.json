@@ -1,0 +1,11 @@
+{
+  "name": "sapphire-language",
+  "version": "1.7.1",
+  "summary": "A lightweight programming language with a built-in Studio and pygame functions.",
+  "author": "CodeyWaffle@GitHub",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sapphire_language-1.7.1.tar.gz",
+  "download_time": "2026-02-18T14:39:01.105024",
+  "package_url": "https://pypi.org/project/sapphire-language/"
+}

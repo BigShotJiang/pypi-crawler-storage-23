@@ -1,0 +1,11 @@
+{
+  "name": "tdl-xoa-driver",
+  "version": "1.7.6",
+  "summary": "TDL XOA Python API is a Python library providing user-friendly communication interfaces to Teledyne LeCroy Xena Ethernet traffic generation test equipment. It provides a rich collection of APIs that can be used to either write test scripts or develop applications.",
+  "author": "Leonard Yu, Zoltan Hanisch",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/xenanetworks/tdl-xoa-driver",
+  "download_filename": "tdl_xoa_driver-1.7.6.tar.gz",
+  "download_time": "2026-02-18T14:38:42.206811",
+  "package_url": "https://pypi.org/project/tdl-xoa-driver/"
+}

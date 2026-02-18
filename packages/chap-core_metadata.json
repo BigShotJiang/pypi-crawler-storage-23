@@ -1,0 +1,11 @@
+{
+  "name": "chap-core",
+  "version": "1.2.0",
+  "summary": "Climate Health Analysis Platform (CHAP)",
+  "author": null,
+  "license": "AGPLv3 license",
+  "home_page": null,
+  "download_filename": "chap_core-1.2.0-py3-none-any.whl",
+  "download_time": "2026-02-18T14:39:13.619606",
+  "package_url": "https://pypi.org/project/chap-core/"
+}

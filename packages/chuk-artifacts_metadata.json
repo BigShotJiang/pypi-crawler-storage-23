@@ -1,0 +1,11 @@
+{
+  "name": "chuk-artifacts",
+  "version": "0.11",
+  "summary": "Chuk Artifacts provides a production-ready, modular artifact storage system that works seamlessly across multiple storage backends (memory, filesystem, AWS S3, IBM Cloud Object Storage) with Redis or memory-based metadata caching and strict session-based security.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_artifacts-0.11.tar.gz",
+  "download_time": "2026-02-18T14:39:10.864415",
+  "package_url": "https://pypi.org/project/chuk-artifacts/"
+}
