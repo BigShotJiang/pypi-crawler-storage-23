@@ -1,0 +1,11 @@
+{
+  "name": "dtachwrap",
+  "version": "0.1.1",
+  "summary": "Python wrapper for dtach with built-in binary management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtachwrap-0.1.1.tar.gz",
+  "download_time": "2026-02-18T18:29:00.042745",
+  "package_url": "https://pypi.org/project/dtachwrap/"
+}

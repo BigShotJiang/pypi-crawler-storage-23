@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-reranker",
+  "version": "0.1.1",
+  "summary": "Adaptive reranker selection via per-query labeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_reranker-0.1.1.tar.gz",
+  "download_time": "2026-02-18T18:29:14.419475",
+  "package_url": "https://pypi.org/project/adaptive-reranker/"
+}

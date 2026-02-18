@@ -1,11 +1,11 @@
 {
   "name": "genuine2049",
-  "version": "0.1.2",
-  "summary": "إطار عمل لتصميم واجهات المستخدم بتصميم مستقبلي",
+  "version": "0.1.6",
+  "summary": "A futuristic GUI framework inspired by 2049",
   "author": "Ghalib",
   "license": null,
-  "home_page": "https://github.com/your-username/genuine-joi-2049",
-  "download_filename": "genuine2049-0.1.2.tar.gz",
-  "download_time": "2026-02-18T17:40:44.008152",
+  "home_page": null,
+  "download_filename": "genuine2049-0.1.6.tar.gz",
+  "download_time": "2026-02-18T18:29:17.148705",
   "package_url": "https://pypi.org/project/genuine2049/"
 }

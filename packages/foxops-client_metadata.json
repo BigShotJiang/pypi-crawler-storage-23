@@ -1,0 +1,11 @@
+{
+  "name": "foxops-client",
+  "version": "0.5.0",
+  "summary": "Foxops API Client",
+  "author": "Alexander Hungenberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "foxops_client-0.5.0.tar.gz",
+  "download_time": "2026-02-18T18:28:44.667342",
+  "package_url": "https://pypi.org/project/foxops-client/"
+}

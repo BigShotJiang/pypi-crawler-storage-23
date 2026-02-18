@@ -1,0 +1,11 @@
+{
+  "name": "amazon-ads-mcp",
+  "version": "0.2.12",
+  "summary": "Amazon Ads API MCP Server - Implementation for Amazon Advertising API",
+  "author": "Amazon Ads API MCP SDK",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amazon_ads_mcp-0.2.12.tar.gz",
+  "download_time": "2026-02-18T18:28:51.838326",
+  "package_url": "https://pypi.org/project/amazon-ads-mcp/"
+}

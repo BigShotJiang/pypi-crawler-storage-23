@@ -1,0 +1,11 @@
+{
+  "name": "blurt",
+  "version": "0.4.1",
+  "summary": "Talk, don't type. Runs on-device on macOS Apple Silicon. No cloud, no API keys and forever free.",
+  "author": "Satya Borgohain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blurt-0.4.1.tar.gz",
+  "download_time": "2026-02-18T18:28:31.207521",
+  "package_url": "https://pypi.org/project/blurt/"
+}

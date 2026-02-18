@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-bedrock-converse",
+  "version": "0.12.10",
+  "summary": "llama-index llms bedrock converse integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_bedrock_converse-0.12.10.tar.gz",
+  "download_time": "2026-02-18T18:28:34.621943",
+  "package_url": "https://pypi.org/project/llama-index-llms-bedrock-converse/"
+}

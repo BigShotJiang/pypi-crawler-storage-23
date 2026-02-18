@@ -1,0 +1,11 @@
+{
+  "name": "dj-error-panel",
+  "version": "0.1.0",
+  "summary": "Monitor errors and stacktraces right fromn the django admin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_error_panel-0.1.0.tar.gz",
+  "download_time": "2026-02-18T18:28:45.755236",
+  "package_url": "https://pypi.org/project/dj-error-panel/"
+}

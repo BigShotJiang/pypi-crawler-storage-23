@@ -1,0 +1,11 @@
+{
+  "name": "vv-llm",
+  "version": "0.3.73",
+  "summary": "Universal LLM interfaces for multi-provider chat and utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vv_llm-0.3.73.tar.gz",
+  "download_time": "2026-02-18T18:28:39.164159",
+  "package_url": "https://pypi.org/project/vv-llm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentfoundry",
+  "version": "1.4.26",
+  "summary": "AgentFoundry: A modular autonomous AI agent framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentfoundry-1.4.26-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-18T18:29:10.500914",
+  "package_url": "https://pypi.org/project/agentfoundry/"
+}

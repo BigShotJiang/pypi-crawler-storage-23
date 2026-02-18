@@ -1,0 +1,11 @@
+{
+  "name": "logiscout-logger",
+  "version": "0.1.1",
+  "summary": "Python logging library for ingesting logs into LogiScout",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logiscout_logger-0.1.1.tar.gz",
+  "download_time": "2026-02-18T18:29:02.216909",
+  "package_url": "https://pypi.org/project/logiscout-logger/"
+}

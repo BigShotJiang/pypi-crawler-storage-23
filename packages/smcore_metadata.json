@@ -1,0 +1,11 @@
+{
+  "name": "smcore",
+  "version": "1.1.1",
+  "summary": "package providing core agent classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smcore-1.1.1.tar.gz",
+  "download_time": "2026-02-18T18:28:32.922380",
+  "package_url": "https://pypi.org/project/smcore/"
+}

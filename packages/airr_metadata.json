@@ -1,0 +1,11 @@
+{
+  "name": "airr",
+  "version": "1.6.1",
+  "summary": "AIRR Community Data Representation Standard reference library for antibody and TCR sequencing data.",
+  "author": "AIRR Community",
+  "license": "CC BY 4.0",
+  "home_page": "http://docs.airr-community.org",
+  "download_filename": "airr-1.6.1.tar.gz",
+  "download_time": "2026-02-18T18:28:42.472863",
+  "package_url": "https://pypi.org/project/airr/"
+}

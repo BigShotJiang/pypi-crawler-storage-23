@@ -1,0 +1,11 @@
+{
+  "name": "trytond-incoterm",
+  "version": "7.8.2",
+  "summary": "Tryton module for incoterms",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_incoterm-7.8.2.tar.gz",
+  "download_time": "2026-02-18T18:29:16.606016",
+  "package_url": "https://pypi.org/project/trytond-incoterm/"
+}

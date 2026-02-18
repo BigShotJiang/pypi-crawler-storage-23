@@ -1,0 +1,11 @@
+{
+  "name": "trytond-marketing-email",
+  "version": "7.8.1",
+  "summary": "Tryton module to manage marketing mailing lists",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_marketing_email-7.8.1.tar.gz",
+  "download_time": "2026-02-18T18:29:17.691978",
+  "package_url": "https://pypi.org/project/trytond-marketing-email/"
+}
