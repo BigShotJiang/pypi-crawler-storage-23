@@ -1,0 +1,11 @@
+{
+  "name": "verta",
+  "version": "1.0.6",
+  "summary": "VERTA - Virtual Environment Route and Trajectory Analyzer: A Python tool for route and trajectory analysis in virtual environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verta-1.0.6.tar.gz",
+  "download_time": "2026-02-18T09:02:48.263738",
+  "package_url": "https://pypi.org/project/verta/"
+}

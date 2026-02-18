@@ -1,0 +1,11 @@
+{
+  "name": "omni-message-provider",
+  "version": "0.2.9",
+  "summary": "Unified message provider interface for Discord, Slack, Jira, and custom platforms with distributed relay support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omni_message_provider-0.2.9.tar.gz",
+  "download_time": "2026-02-18T09:03:05.782054",
+  "package_url": "https://pypi.org/project/omni-message-provider/"
+}

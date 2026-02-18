@@ -1,0 +1,11 @@
+{
+  "name": "fedivertex",
+  "version": "1.0.0",
+  "summary": "Interface to download and interact with Fedivertex, the Fediverse Graph Dataset",
+  "author": "Marc DAMIE",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "fedivertex-1.0.0.tar.gz",
+  "download_time": "2026-02-18T09:03:05.235800",
+  "package_url": "https://pypi.org/project/fedivertex/"
+}

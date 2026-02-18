@@ -1,0 +1,11 @@
+{
+  "name": "endstone-qqsync-plugin",
+  "version": "0.1.3",
+  "summary": "Endstone QQsync群服互通插件 - 支持双向消息同步、服务器信息查询、管理命令执行",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "endstone_qqsync_plugin-0.1.3-py3-none-any.whl",
+  "download_time": "2026-02-18T09:03:14.833054",
+  "package_url": "https://pypi.org/project/endstone-qqsync-plugin/"
+}

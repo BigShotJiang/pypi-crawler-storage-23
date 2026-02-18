@@ -1,0 +1,11 @@
+{
+  "name": "hotstuff-python-sdk",
+  "version": "0.0.1b9",
+  "summary": "Python SDK for interacting with Hotstuff L1",
+  "author": "hotstuff",
+  "license": "MIT",
+  "home_page": "https://github.com/hotstuff-labs/python-sdk",
+  "download_filename": "hotstuff_python_sdk-0.0.1b9.tar.gz",
+  "download_time": "2026-02-18T09:03:18.128391",
+  "package_url": "https://pypi.org/project/hotstuff-python-sdk/"
+}

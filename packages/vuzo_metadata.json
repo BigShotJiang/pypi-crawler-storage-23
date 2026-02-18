@@ -1,0 +1,11 @@
+{
+  "name": "vuzo",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Vuzo API - unified access to OpenAI, xAI (Grok), and Google models",
+  "author": "Vuzo",
+  "license": null,
+  "home_page": "https://github.com/AurissoRnD/vuzo-unifai",
+  "download_filename": "vuzo-0.1.1.tar.gz",
+  "download_time": "2026-02-18T09:03:11.100059",
+  "package_url": "https://pypi.org/project/vuzo/"
+}

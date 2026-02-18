@@ -1,0 +1,11 @@
+{
+  "name": "sunpeek",
+  "version": "0.7.7",
+  "summary": "Large Solar Thermal Monitoring Tool. Implements the Power Check Method of ISO 24194",
+  "author": "Philip Ohnewein, Daniel Tschopp, Lukas Emberger, Marnoch Hamilton-Jones, Jonathan Cazco, Peter Zauner",
+  "license": null,
+  "home_page": "https://gitlab.com/sunpeek/sunpeek",
+  "download_filename": "sunpeek-0.7.7-py3-none-any.whl",
+  "download_time": "2026-02-18T09:03:07.736329",
+  "package_url": "https://pypi.org/project/sunpeek/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "esp-matter-mfg-tool",
+  "version": "1.0.22",
+  "summary": "A python utility which helps to generate matter manufacturing partitions",
+  "author": "Espressif Systems",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/espressif/esp-matter-tools/tree/main/mfg_tool",
+  "download_filename": "esp_matter_mfg_tool-1.0.22.tar.gz",
+  "download_time": "2026-02-18T09:02:52.759057",
+  "package_url": "https://pypi.org/project/esp-matter-mfg-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nwave-ai",
+  "version": "1.1.16",
+  "summary": "CLI installer for the nWave AI methodology framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwave_ai-1.1.16.tar.gz",
+  "download_time": "2026-02-18T09:03:16.998458",
+  "package_url": "https://pypi.org/project/nwave-ai/"
+}
