@@ -1,0 +1,11 @@
+{
+  "name": "tobacco-mof",
+  "version": "4.0.2",
+  "summary": "Topologically Based Crystal Constructor (ToBaCCo)",
+  "author": "Guobin Zhao",
+  "license": "MIT",
+  "home_page": "https://github.com/sxm13/pypi-dev/tree/main/ToBaCCo",
+  "download_filename": "tobacco_mof-4.0.2.tar.gz",
+  "download_time": "2026-02-18T11:53:32.188587",
+  "package_url": "https://pypi.org/project/tobacco-mof/"
+}

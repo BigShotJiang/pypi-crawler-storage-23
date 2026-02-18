@@ -1,0 +1,11 @@
+{
+  "name": "filemapper",
+  "version": "1.0.2",
+  "summary": "A CLI tool for mapping and transforming CSV files based on YAML configuration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "filemapper-1.0.2.tar.gz",
+  "download_time": "2026-02-18T11:53:03.781889",
+  "package_url": "https://pypi.org/project/filemapper/"
+}

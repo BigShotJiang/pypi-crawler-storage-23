@@ -1,18 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-18T11:05:49.004130
-- **Total Packages**: 93
-- **Total Size**: 39.86 MB
+- **Download Time**: 2026-02-18T11:53:59.065381
+- **Total Packages**: 90
+- **Total Size**: 18.86 MB
 
 ## Packages List
+- PyEIS-CEFIM
+- filemapper
+- atlassian-cli
+- justmyresource
+- anteroom
+- holoviz-utils
+- bojtools
+- neuracore-types
+- mcpXL30
+- jyoti
+- webc
+- weiss-sim
+- jec-api
+- mally-cli
+- arthur-client
+- pypdns
+- django-dato-sync
+- radio-curses
+- flux-networking-shared
+- LazzyORM
+- pdudaemon
+- langxchange
+- swartzi-toolbox
+- enode-host
+- angel-claw
+- portada-s-index
+- easierlit
+- kalimusada
+- flux-probert
+- macloop
+- asknews
+- ragnarbot-ai
+- jsonld-ex
+- OASYS2-ELETTRA-EXTENSIONS
+- oipd
+- bluer-ugv
+- tsagentkit
+- ecdallm
+- linux-do-connect-token
+- intent-cli
+- codespeak-shared
+- codespeak-cli
+- codespeak-api-stubs
+- geocodio-library-python
+- codereviewbuddy
+- tobacco-mof
 - kglite
 - openmac
 - biolmai
 - stonefish-license-manager
 - caul
 - mininn
-- holoviz-utils
 - cs-workflows-helper-libs
 - ab-stats
 - cc-logger
@@ -21,7 +66,6 @@
 - omni-message-provider
 - dissect.target
 - cpfn
-- easierlit
 - vibetuner
 - rasa-sdk
 - moysklad-api
@@ -33,7 +77,6 @@
 - sdexe
 - aioleviton
 - rag-sentinel
-- anteroom
 - docx2everything
 - agent-framework-lib
 - scrapli-scp
@@ -53,49 +96,3 @@
 - csv-detective
 - licatools
 - erbsland-sphinx-ansi
-- ista-daslab-optimizers
-- packse
-- playmolecule
-- aitraining
-- octorules
-- modekeeper
-- pyscript-programming-language
-- aivory-monitor
-- senseid
-- isahitlab
-- django-tree-queries
-- ndslice
-- py-llm-skills
-- unitelabs-sila
-- chicane
-- meshcore
-- pyqt-code-editor
-- memsearch
-- codereviewbuddy
-- opensesame-extension-sigmund
-- jpmml-evaluator
-- argus-scanner
-- ambient-package-update
-- smartllm
-- amygdala
-- jusfltuls
-- acquire
-- AOT-biomaps
-- datashield-opal
-- schedint
-- udata-hydra-csvapi
-- edesto-dev
-- cyberwave-cli
-- pywatemsedem
-- ghost-pc
-- horizon-sdk
-- shotgun-sh
-- opik
-- relace-mcp
-- th2-grpc-read-db
-- wabridge
-- orq-ai-sdk
-- mally-cli
-- cycode
-- gcp-platforms-auto
-- qena-shared-lib

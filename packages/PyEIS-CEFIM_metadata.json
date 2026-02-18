@@ -1,0 +1,11 @@
+{
+  "name": "PyEIS-CEFIM",
+  "version": "0.1.1",
+  "summary": "A Python-based Electrochemical Impedance Spectroscopy simulator and analyzer (CEFIM branch)",
+  "author": "D. Johan De Beer",
+  "license": null,
+  "home_page": "https://github.com/djohandebeer/PyEIS_CEFIM",
+  "download_filename": "pyeis_cefim-0.1.1.tar.gz",
+  "download_time": "2026-02-18T11:53:03.141278",
+  "package_url": "https://pypi.org/project/PyEIS-CEFIM/"
+}

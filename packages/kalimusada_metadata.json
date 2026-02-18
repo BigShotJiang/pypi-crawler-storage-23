@@ -1,0 +1,11 @@
+{
+  "name": "kalimusada",
+  "version": "0.0.2",
+  "summary": "Ma-Chen Financial Chaotic System Solver with Sensitivity Analysis",
+  "author": "Sandy H. S. Herho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kalimusada-0.0.2.tar.gz",
+  "download_time": "2026-02-18T11:53:21.007655",
+  "package_url": "https://pypi.org/project/kalimusada/"
+}

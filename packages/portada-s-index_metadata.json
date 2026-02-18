@@ -1,0 +1,11 @@
+{
+  "name": "portada-s-index",
+  "version": "0.1.0",
+  "summary": "Biblioteca de algoritmos de similitud para desambiguación de términos históricos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "portada_s_index-0.1.0.tar.gz",
+  "download_time": "2026-02-18T11:53:19.728216",
+  "package_url": "https://pypi.org/project/portada-s-index/"
+}

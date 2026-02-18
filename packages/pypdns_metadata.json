@@ -1,0 +1,11 @@
+{
+  "name": "pypdns",
+  "version": "2.3.2",
+  "summary": "Python API for PDNS.",
+  "author": "Raphaël Vinot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypdns-2.3.2.tar.gz",
+  "download_time": "2026-02-18T11:53:13.357612",
+  "package_url": "https://pypi.org/project/pypdns/"
+}

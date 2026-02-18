@@ -1,11 +1,11 @@
 {
   "name": "nitinbasiccalculator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A very basic calculator",
   "author": "Nitin Yadav",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nitinbasiccalculator-0.0.1.tar.gz",
-  "download_time": "2026-02-18T11:05:17.676124",
+  "download_filename": "nitinbasiccalculator-0.0.2.tar.gz",
+  "download_time": "2026-02-18T11:53:52.838735",
   "package_url": "https://pypi.org/project/nitinbasiccalculator/"
 }
