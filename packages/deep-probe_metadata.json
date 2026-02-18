@@ -1,0 +1,11 @@
+{
+  "name": "deep-probe",
+  "version": "0.1.1",
+  "summary": "Research anything, deeply, in one line of code. A Python library wrapping Google Gemini Deep Research API.",
+  "author": "liukaining",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deep_probe-0.1.1.tar.gz",
+  "download_time": "2026-02-18T12:36:57.149815",
+  "package_url": "https://pypi.org/project/deep-probe/"
+}

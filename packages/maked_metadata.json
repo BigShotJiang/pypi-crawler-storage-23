@@ -1,0 +1,11 @@
+{
+  "name": "maked",
+  "version": "0.1.1",
+  "summary": "A CLI tool to execute commands inside Markdown files",
+  "author": "Luis Cruz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maked-0.1.1.tar.gz",
+  "download_time": "2026-02-18T12:36:42.037445",
+  "package_url": "https://pypi.org/project/maked/"
+}

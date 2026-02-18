@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-stripe",
+  "version": "0.0.28",
+  "summary": "A Pulumi package for creating and managing Stripe resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.pulumi.com",
+  "download_filename": "pulumi_stripe-0.0.28.tar.gz",
+  "download_time": "2026-02-18T12:36:49.019732",
+  "package_url": "https://pypi.org/project/pulumi-stripe/"
+}

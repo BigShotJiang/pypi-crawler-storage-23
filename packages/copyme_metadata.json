@@ -1,0 +1,11 @@
+{
+  "name": "copyme",
+  "version": "0.2.2",
+  "summary": "A simple template for Python development",
+  "author": "Iporã Possantti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copyme-0.2.2.tar.gz",
+  "download_time": "2026-02-18T12:36:50.935846",
+  "package_url": "https://pypi.org/project/copyme/"
+}

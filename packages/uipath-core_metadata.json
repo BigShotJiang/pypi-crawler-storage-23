@@ -1,0 +1,11 @@
+{
+  "name": "uipath-core",
+  "version": "0.4.2",
+  "summary": "UiPath Core abstractions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uipath_core-0.4.2.tar.gz",
+  "download_time": "2026-02-18T12:37:01.865400",
+  "package_url": "https://pypi.org/project/uipath-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bioimageio.core",
+  "version": "0.9.6",
+  "summary": "Python specific core utilities for bioimage.io resources (in particular DL models).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioimageio_core-0.9.6.tar.gz",
+  "download_time": "2026-02-18T12:37:06.402848",
+  "package_url": "https://pypi.org/project/bioimageio.core/"
+}

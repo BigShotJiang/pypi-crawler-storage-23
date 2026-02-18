@@ -1,0 +1,11 @@
+{
+  "name": "sensor-routing",
+  "version": "0.2.5",
+  "summary": "Optimal routing for CRNS mobile sensor data collection",
+  "author": "Can Topaclioglu",
+  "license": "EUPL-1.2",
+  "home_page": "https://codebase.helmholtz.cloud/ufz/tb5-smm/met/wg7/sensor-routing",
+  "download_filename": "sensor_routing-0.2.5.tar.gz",
+  "download_time": "2026-02-18T12:37:09.102414",
+  "package_url": "https://pypi.org/project/sensor-routing/"
+}

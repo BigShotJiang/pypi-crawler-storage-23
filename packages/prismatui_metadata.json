@@ -1,0 +1,11 @@
+{
+  "name": "prismatui",
+  "version": "0.3.1",
+  "summary": "A TUI framework based on the idea of \"multi-layered transparency\" composition.",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/prismatui",
+  "download_filename": "prismatui-0.3.1.tar.gz",
+  "download_time": "2026-02-18T12:36:52.820443",
+  "package_url": "https://pypi.org/project/prismatui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nima_io",
+  "version": "0.4.0",
+  "summary": "A project to read microscopy files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nima_io-0.4.0.tar.gz",
+  "download_time": "2026-02-18T12:36:31.439562",
+  "package_url": "https://pypi.org/project/nima_io/"
+}
