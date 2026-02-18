@@ -1,0 +1,11 @@
+{
+  "name": "tuxmake",
+  "version": "1.36.0",
+  "summary": "Thin wrapper to build Linux kernels",
+  "author": "Antonio Terceiro",
+  "license": null,
+  "home_page": "https://tuxmake.org/",
+  "download_filename": "tuxmake-1.36.0.tar.gz",
+  "download_time": "2026-02-18T20:02:56.002915",
+  "package_url": "https://pypi.org/project/tuxmake/"
+}

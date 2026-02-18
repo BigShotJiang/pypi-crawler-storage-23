@@ -1,0 +1,11 @@
+{
+  "name": "solograph",
+  "version": "0.2.4",
+  "summary": "Code intelligence MCP server — multi-project code graph, semantic search, session history, knowledge base, web search",
+  "author": "Rustam Salavatov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solograph-0.2.4.tar.gz",
+  "download_time": "2026-02-18T20:02:37.851282",
+  "package_url": "https://pypi.org/project/solograph/"
+}

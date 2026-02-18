@@ -1,0 +1,11 @@
+{
+  "name": "ptop3",
+  "version": "0.1.2",
+  "summary": "TUI process monitor that groups processes by application",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ptop3-0.1.2.tar.gz",
+  "download_time": "2026-02-18T20:03:00.715216",
+  "package_url": "https://pypi.org/project/ptop3/"
+}

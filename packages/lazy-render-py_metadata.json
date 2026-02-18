@@ -1,0 +1,11 @@
+{
+  "name": "lazy-render-py",
+  "version": "1.0.5",
+  "summary": "Backend helpers for lazy-render - Python version",
+  "author": "Sannu Kumar",
+  "license": null,
+  "home_page": "https://github.com/sannuk79/lazy-render-py",
+  "download_filename": "lazy_render_py-1.0.5.tar.gz",
+  "download_time": "2026-02-18T20:02:41.686168",
+  "package_url": "https://pypi.org/project/lazy-render-py/"
+}

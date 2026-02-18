@@ -1,0 +1,11 @@
+{
+  "name": "foundationallm",
+  "version": "0.9.7.post10",
+  "summary": "Enables integration with the FoundationaLLM platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foundationallm-0.9.7.post10.tar.gz",
+  "download_time": "2026-02-18T20:02:51.658545",
+  "package_url": "https://pypi.org/project/foundationallm/"
+}

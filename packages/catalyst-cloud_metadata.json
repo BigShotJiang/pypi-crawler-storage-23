@@ -1,0 +1,11 @@
+{
+  "name": "catalyst-cloud",
+  "version": "0.1.0",
+  "summary": "Python client for the Catalyst Cloud neuromorphic compute API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catalyst_cloud-0.1.0.tar.gz",
+  "download_time": "2026-02-18T20:02:52.743603",
+  "package_url": "https://pypi.org/project/catalyst-cloud/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "iceframe",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "A DataFrame-like library for working with Apache Iceberg tables",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "iceframe-0.11.0-py3-none-any.whl",
-  "download_time": "2026-02-18T16:42:58.519351",
+  "download_filename": "iceframe-0.11.1.tar.gz",
+  "download_time": "2026-02-18T20:02:49.991554",
   "package_url": "https://pypi.org/project/iceframe/"
 }

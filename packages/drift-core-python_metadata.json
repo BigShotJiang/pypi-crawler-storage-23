@@ -1,0 +1,11 @@
+{
+  "name": "drift-core-python",
+  "version": "0.1.6",
+  "summary": "Python bindings for drift-rust-core",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drift_core_python-0.1.6.tar.gz",
+  "download_time": "2026-02-18T20:02:59.623850",
+  "package_url": "https://pypi.org/project/drift-core-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "enocean-async",
+  "version": "0.1.1",
+  "summary": "An async implementation of the EnOcean Serial Protocol Version 3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enocean_async-0.1.1.tar.gz",
+  "download_time": "2026-02-18T20:02:43.899070",
+  "package_url": "https://pypi.org/project/enocean-async/"
+}

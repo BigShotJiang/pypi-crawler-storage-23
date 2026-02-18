@@ -1,0 +1,11 @@
+{
+  "name": "scribae",
+  "version": "0.1.0",
+  "summary": "CLI that turns local Markdown notes into structured SEO content packages using LLMs while keeping the human in the loop.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scribae-0.1.0.tar.gz",
+  "download_time": "2026-02-18T20:02:23.839865",
+  "package_url": "https://pypi.org/project/scribae/"
+}
