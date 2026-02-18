@@ -1,11 +1,11 @@
 {
   "name": "backboard-usage",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Live token and cost visibility for Backboard apps. Run the server, open the UI, see usage in real time.",
   "author": "Backboard Usage",
   "license": null,
   "home_page": null,
-  "download_filename": "backboard_usage-0.2.1.tar.gz",
-  "download_time": "2026-02-18T22:26:08.206211",
+  "download_filename": "backboard_usage-0.2.3.tar.gz",
+  "download_time": "2026-02-18T23:54:23.723187",
   "package_url": "https://pypi.org/project/backboard-usage/"
 }

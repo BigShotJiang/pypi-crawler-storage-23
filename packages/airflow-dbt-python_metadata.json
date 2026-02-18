@@ -1,0 +1,11 @@
+{
+  "name": "airflow-dbt-python",
+  "version": "3.4.0",
+  "summary": "A collection of Airflow operators, hooks, and utilities to execute dbt commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_dbt_python-3.4.0.tar.gz",
+  "download_time": "2026-02-18T23:54:16.816071",
+  "package_url": "https://pypi.org/project/airflow-dbt-python/"
+}

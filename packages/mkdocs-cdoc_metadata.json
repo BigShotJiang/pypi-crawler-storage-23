@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-cdoc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "MkDocs plugin for C/C++ autodoc (Hawkmoth-like)",
   "author": "Pawel Sikora",
   "license": null,
   "home_page": "https://github.com/pawelsikora/mkdocs-cdoc/",
-  "download_filename": "mkdocs_cdoc-1.0.2.tar.gz",
-  "download_time": "2026-02-18T23:29:43.040527",
+  "download_filename": "mkdocs_cdoc-1.0.3.tar.gz",
+  "download_time": "2026-02-18T23:54:07.887077",
   "package_url": "https://pypi.org/project/mkdocs-cdoc/"
 }

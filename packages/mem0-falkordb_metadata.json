@@ -1,11 +1,11 @@
 {
   "name": "mem0-falkordb",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "FalkorDB graph store plugin for Mem0",
   "author": "mem0-falkordb contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "mem0_falkordb-0.1.0.tar.gz",
-  "download_time": "2026-02-18T22:59:06.110721",
+  "download_filename": "mem0_falkordb-0.2.0.tar.gz",
+  "download_time": "2026-02-18T23:54:06.335904",
   "package_url": "https://pypi.org/project/mem0-falkordb/"
 }

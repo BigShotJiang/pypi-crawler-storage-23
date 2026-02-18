@@ -1,0 +1,11 @@
+{
+  "name": "sparkrun",
+  "version": "0.0.15",
+  "summary": "Launch and manage Docker-based inference workloads on NVIDIA DGX Spark systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparkrun-0.0.15.tar.gz",
+  "download_time": "2026-02-18T23:54:32.212570",
+  "package_url": "https://pypi.org/project/sparkrun/"
+}

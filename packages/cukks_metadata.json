@@ -1,0 +1,11 @@
+{
+  "name": "cukks",
+  "version": "0.1.1",
+  "summary": "PyTorch-compatible encrypted deep learning inference using CKKS homomorphic encryption",
+  "author": "CuKKS Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cukks-0.1.1.tar.gz",
+  "download_time": "2026-02-18T23:54:25.842261",
+  "package_url": "https://pypi.org/project/cukks/"
+}

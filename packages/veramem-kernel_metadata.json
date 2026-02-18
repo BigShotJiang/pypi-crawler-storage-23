@@ -1,0 +1,11 @@
+{
+  "name": "veramem-kernel",
+  "version": "1.0.2",
+  "summary": "Minimal deterministic cognitive kernel for traceable and auditable reasoning systems.",
+  "author": "Julien Lefauconnier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veramem_kernel-1.0.2.tar.gz",
+  "download_time": "2026-02-18T23:53:57.387563",
+  "package_url": "https://pypi.org/project/veramem-kernel/"
+}
