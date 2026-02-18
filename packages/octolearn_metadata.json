@@ -1,11 +1,11 @@
 {
   "name": "octolearn",
-  "version": "0.7.7",
+  "version": "0.8.0",
   "summary": "Structured AutoML Pipeline with Intelligent Dataset Profiling",
   "author": "Ghulam_Muhammad_Nabeel",
   "license": "MIT",
   "home_page": "https://github.com/ghulam-nabeel/octolearn",
-  "download_filename": "octolearn-0.7.7.tar.gz",
-  "download_time": "2026-02-18T12:36:41.400734",
+  "download_filename": "octolearn-0.8.0.tar.gz",
+  "download_time": "2026-02-18T16:42:47.269783",
   "package_url": "https://pypi.org/project/octolearn/"
 }

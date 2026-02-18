@@ -1,0 +1,11 @@
+{
+  "name": "note-python",
+  "version": "2.2.1",
+  "summary": "Cross-platform Python Library for the Blues Wireless Notecard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "note_python-2.2.1.tar.gz",
+  "download_time": "2026-02-18T16:43:21.158967",
+  "package_url": "https://pypi.org/project/note-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mycelium-map",
+  "version": "0.3.3",
+  "summary": "Static analysis tool that maps the hidden network of connections in codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mycelium_map-0.3.3.tar.gz",
+  "download_time": "2026-02-18T16:43:04.985125",
+  "package_url": "https://pypi.org/project/mycelium-map/"
+}

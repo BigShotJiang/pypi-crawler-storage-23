@@ -1,11 +1,11 @@
 {
   "name": "aitraining",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "summary": "Advanced Machine Learning Training Platform - IN DEVELOPMENT",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "aitraining-0.0.40.tar.gz",
-  "download_time": "2026-02-18T11:05:25.270320",
+  "download_filename": "aitraining-0.0.41.tar.gz",
+  "download_time": "2026-02-18T16:42:45.135278",
   "package_url": "https://pypi.org/project/aitraining/"
 }

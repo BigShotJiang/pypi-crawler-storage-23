@@ -1,0 +1,11 @@
+{
+  "name": "automac",
+  "version": "0.1.1",
+  "summary": "An all-in-one automated ML pipeline for feature engineering, optimization, and evaluation.",
+  "author": "Abhishek Sharma",
+  "license": null,
+  "home_page": "https://github.com/jubito-27/ml-automator",
+  "download_filename": "automac-0.1.1.tar.gz",
+  "download_time": "2026-02-18T16:43:08.602534",
+  "package_url": "https://pypi.org/project/automac/"
+}

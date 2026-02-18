@@ -1,0 +1,11 @@
+{
+  "name": "openghg",
+  "version": "0.18.0",
+  "summary": "OpenGHG: A platform for greenhouse​ gas data analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openghg-0.18.0.tar.gz",
+  "download_time": "2026-02-18T16:42:51.580450",
+  "package_url": "https://pypi.org/project/openghg/"
+}

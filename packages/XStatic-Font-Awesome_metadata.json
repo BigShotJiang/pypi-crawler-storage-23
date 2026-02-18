@@ -1,0 +1,11 @@
+{
+  "name": "XStatic-Font-Awesome",
+  "version": "6.2.1.2",
+  "summary": "Font-Awesome 6.2.1 (XStatic packaging standard)",
+  "author": null,
+  "license": "(same as Font-Awesome)",
+  "home_page": "https://github.com/FortAwesome/Font-Awesome",
+  "download_filename": "xstatic_font_awesome-6.2.1.2.tar.gz",
+  "download_time": "2026-02-18T16:43:24.860947",
+  "package_url": "https://pypi.org/project/XStatic-Font-Awesome/"
+}

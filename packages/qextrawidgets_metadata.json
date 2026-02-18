@@ -1,0 +1,11 @@
+{
+  "name": "qextrawidgets",
+  "version": "0.2.11",
+  "summary": "A collection of extra widgets for PySide6 including Emoji Picker, Filterable Table, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qextrawidgets-0.2.11.tar.gz",
+  "download_time": "2026-02-18T16:43:11.708837",
+  "package_url": "https://pypi.org/project/qextrawidgets/"
+}

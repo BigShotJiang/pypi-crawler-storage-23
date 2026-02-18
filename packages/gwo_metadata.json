@@ -1,0 +1,11 @@
+{
+  "name": "gwo",
+  "version": "0.1.6",
+  "summary": "a damn fine wrapper for reverse-enginered gwo api",
+  "author": "RebornEnder",
+  "license": "LICENCE",
+  "home_page": "https://github.com/Reb0rnEnder/GWOApi",
+  "download_filename": "gwo-0.1.6.tar.gz",
+  "download_time": "2026-02-18T16:42:52.091264",
+  "package_url": "https://pypi.org/project/gwo/"
+}
