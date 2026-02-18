@@ -1,0 +1,11 @@
+{
+  "name": "caul",
+  "version": "0.1.1",
+  "summary": "Python implementation of an ASR service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "caul-0.1.1.tar.gz",
+  "download_time": "2026-02-18T11:04:59.733025",
+  "package_url": "https://pypi.org/project/caul/"
+}

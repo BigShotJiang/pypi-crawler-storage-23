@@ -1,0 +1,11 @@
+{
+  "name": "jpmml-evaluator",
+  "version": "0.16.0",
+  "summary": "PMML evaluator library for Python",
+  "author": "Villu Ruusmann",
+  "license": "GNU Affero General Public License (AGPL) version 3.0",
+  "home_page": "https://github.com/jpmml/jpmml-evaluator-python",
+  "download_filename": "jpmml_evaluator-0.16.0.tar.gz",
+  "download_time": "2026-02-18T11:05:34.972815",
+  "package_url": "https://pypi.org/project/jpmml-evaluator/"
+}

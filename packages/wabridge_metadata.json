@@ -1,0 +1,11 @@
+{
+  "name": "wabridge",
+  "version": "0.2.0",
+  "summary": "Python client for WABridge - WhatsApp HTTP API Bridge",
+  "author": "WABridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wabridge-0.2.0.tar.gz",
+  "download_time": "2026-02-18T11:05:45.763244",
+  "package_url": "https://pypi.org/project/wabridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codereviewbuddy",
-  "version": "0.22.1",
+  "version": "0.22.2",
   "summary": "codereview buddy helps your AI agent interact with AI code review--smoothly!",
   "author": "Ismar Iljazovic",
   "license": null,
   "home_page": null,
-  "download_filename": "codereviewbuddy-0.22.1.tar.gz",
-  "download_time": "2026-02-18T10:05:06.556097",
+  "download_filename": "codereviewbuddy-0.22.2.tar.gz",
+  "download_time": "2026-02-18T11:05:33.856011",
   "package_url": "https://pypi.org/project/codereviewbuddy/"
 }

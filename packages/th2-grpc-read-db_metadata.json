@@ -1,0 +1,11 @@
+{
+  "name": "th2-grpc-read-db",
+  "version": "0.0.13rc1",
+  "summary": "th2_grpc_read_db",
+  "author": "TH2-devs",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/th2-net/th2-read-db",
+  "download_filename": "th2_grpc_read_db-0.0.13rc1.tar.gz",
+  "download_time": "2026-02-18T11:05:45.228148",
+  "package_url": "https://pypi.org/project/th2-grpc-read-db/"
+}

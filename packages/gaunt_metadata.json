@@ -1,0 +1,11 @@
+{
+  "name": "gaunt",
+  "version": "0.1.0",
+  "summary": "Python SDK for logging LLM traces to an analytics scoring API.",
+  "author": "LLM Analytics Team",
+  "license": "MIT",
+  "home_page": "https://example.com/gaunt",
+  "download_filename": "gaunt-0.1.0.tar.gz",
+  "download_time": "2026-02-18T11:05:08.540246",
+  "package_url": "https://pypi.org/project/gaunt/"
+}

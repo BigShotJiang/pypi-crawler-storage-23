@@ -1,0 +1,11 @@
+{
+  "name": "modekeeper",
+  "version": "0.1.20",
+  "summary": "ModeKeeper: verify-first, customer-safe read-only agent; apply is licensed and gated",
+  "author": "ModeKeeper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modekeeper-0.1.20.tar.gz",
+  "download_time": "2026-02-18T11:05:26.342246",
+  "package_url": "https://pypi.org/project/modekeeper/"
+}

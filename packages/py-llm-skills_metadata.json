@@ -1,0 +1,11 @@
+{
+  "name": "py-llm-skills",
+  "version": "0.1.2",
+  "summary": "A Python SDK for building LLM with Skills.",
+  "author": "theanupllm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_llm_skills-0.1.2.tar.gz",
+  "download_time": "2026-02-18T11:05:30.096508",
+  "package_url": "https://pypi.org/project/py-llm-skills/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "udata-hydra-csvapi",
+  "version": "0.3.1",
+  "summary": "API for CSV converted by udata-hydra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "udata_hydra_csvapi-0.3.1-py3-none-any.whl",
+  "download_time": "2026-02-18T11:05:40.365231",
+  "package_url": "https://pypi.org/project/udata-hydra-csvapi/"
+}

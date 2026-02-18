@@ -1,0 +1,11 @@
+{
+  "name": "ghost-pc",
+  "version": "0.2.22",
+  "summary": "Control your Windows PC from WhatsApp with AI vision",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghost_pc-0.2.22.tar.gz",
+  "download_time": "2026-02-18T11:05:42.510481",
+  "package_url": "https://pypi.org/project/ghost-pc/"
+}
