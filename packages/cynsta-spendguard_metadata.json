@@ -1,0 +1,11 @@
+{
+  "name": "cynsta-spendguard",
+  "version": "0.2.0",
+  "summary": "SpendGuard SDK and CLI",
+  "author": "Cynsta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cynsta_spendguard-0.2.0.tar.gz",
+  "download_time": "2026-02-18T20:56:47.190809",
+  "package_url": "https://pypi.org/project/cynsta-spendguard/"
+}

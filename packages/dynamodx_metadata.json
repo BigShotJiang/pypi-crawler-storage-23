@@ -1,11 +1,11 @@
 {
   "name": "dynamodx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Developer-friendly library for DynamoDB with single-table design, without ORM lock-in.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dynamodx-0.1.1.tar.gz",
-  "download_time": "2026-02-18T20:02:42.228118",
+  "download_filename": "dynamodx-0.1.2.tar.gz",
+  "download_time": "2026-02-18T20:56:45.632893",
   "package_url": "https://pypi.org/project/dynamodx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "geostats",
+  "version": "1.0.0",
+  "summary": "A suite of geostatistical tools.",
+  "author": "A. Renmin Pretell Ductram",
+  "license": null,
+  "home_page": "https://github.com/RPretellD/geostats",
+  "download_filename": "geostats-1.0.0.tar.gz",
+  "download_time": "2026-02-18T20:56:04.544632",
+  "package_url": "https://pypi.org/project/geostats/"
+}

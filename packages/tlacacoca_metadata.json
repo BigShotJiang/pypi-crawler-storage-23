@@ -1,0 +1,11 @@
+{
+  "name": "tlacacoca",
+  "version": "0.2.0",
+  "summary": "Shared foundation library for TLS-based protocol implementations",
+  "author": "Alan Velasco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tlacacoca-0.2.0.tar.gz",
+  "download_time": "2026-02-18T20:56:28.313759",
+  "package_url": "https://pypi.org/project/tlacacoca/"
+}

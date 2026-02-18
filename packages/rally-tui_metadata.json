@@ -1,0 +1,11 @@
+{
+  "name": "rally-tui",
+  "version": "0.8.3",
+  "summary": "A TUI for Rally (Broadcom) work item management",
+  "author": "Developer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rally_tui-0.8.3.tar.gz",
+  "download_time": "2026-02-18T20:56:35.622512",
+  "package_url": "https://pypi.org/project/rally-tui/"
+}

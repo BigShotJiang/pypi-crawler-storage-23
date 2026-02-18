@@ -1,0 +1,11 @@
+{
+  "name": "omero-annotate-ai",
+  "version": "0.2.2",
+  "summary": "OMERO integration for AI-powered image annotation and segmentation workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omero_annotate_ai-0.2.2.tar.gz",
+  "download_time": "2026-02-18T20:56:40.877861",
+  "package_url": "https://pypi.org/project/omero-annotate-ai/"
+}
