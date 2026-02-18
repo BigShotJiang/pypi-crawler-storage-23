@@ -1,0 +1,11 @@
+{
+  "name": "netzooe-eservice-api",
+  "version": "1.0.0b2",
+  "summary": "A Python wrapper for the unofficial Netz Oberösterreich eService-Portal API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netzooe_eservice_api-1.0.0b2.tar.gz",
+  "download_time": "2026-02-18T21:57:34.313928",
+  "package_url": "https://pypi.org/project/netzooe-eservice-api/"
+}

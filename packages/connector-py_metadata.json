@@ -1,0 +1,11 @@
+{
+  "name": "connector-py",
+  "version": "4.189.0",
+  "summary": "An Abstract Tool to Perform Actions on Integrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "connector_py-4.189.0.tar.gz",
+  "download_time": "2026-02-18T21:57:14.961196",
+  "package_url": "https://pypi.org/project/connector-py/"
+}

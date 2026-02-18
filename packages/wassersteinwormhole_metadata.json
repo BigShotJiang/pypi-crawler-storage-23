@@ -1,0 +1,11 @@
+{
+  "name": "wassersteinwormhole",
+  "version": "0.3.7",
+  "summary": "Transformer based embeddings for Wasserstein Distances",
+  "author": "Doron Haviv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wassersteinwormhole-0.3.7.tar.gz",
+  "download_time": "2026-02-18T21:56:58.460401",
+  "package_url": "https://pypi.org/project/wassersteinwormhole/"
+}

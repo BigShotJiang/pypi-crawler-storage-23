@@ -1,0 +1,11 @@
+{
+  "name": "sendcraft-sdk",
+  "version": "1.0.0",
+  "summary": "Official SendCraft SDK for Python - Send transactional emails and campaigns via the SendCraft API",
+  "author": "SendCraft Team",
+  "license": null,
+  "home_page": "https://sendcraft.online",
+  "download_filename": "sendcraft_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-18T21:57:19.645877",
+  "package_url": "https://pypi.org/project/sendcraft-sdk/"
+}

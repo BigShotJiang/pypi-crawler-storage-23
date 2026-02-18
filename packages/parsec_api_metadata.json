@@ -1,0 +1,11 @@
+{
+  "name": "parsec_api",
+  "version": "0.8.0",
+  "summary": "The official Python library for the Parsec API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "parsec_api-0.8.0.tar.gz",
+  "download_time": "2026-02-18T21:56:56.419567",
+  "package_url": "https://pypi.org/project/parsec_api/"
+}

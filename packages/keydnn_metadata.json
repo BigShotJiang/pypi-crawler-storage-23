@@ -1,0 +1,11 @@
+{
+  "name": "keydnn",
+  "version": "2.1.0",
+  "summary": "KeyDNN is a lightweight deep learning framework with explicit CPU/CUDA execution and clean architectural boundaries.",
+  "author": "keywind",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/keywind127/keydnn_v2",
+  "download_filename": "keydnn-2.1.0.tar.gz",
+  "download_time": "2026-02-18T21:57:18.628259",
+  "package_url": "https://pypi.org/project/keydnn/"
+}

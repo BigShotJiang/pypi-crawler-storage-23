@@ -1,0 +1,11 @@
+{
+  "name": "mojokernel",
+  "version": "26.1.0.post2",
+  "summary": "Jupyter kernel for Mojo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mojokernel-26.1.0.post2.tar.gz",
+  "download_time": "2026-02-18T21:57:22.296013",
+  "package_url": "https://pypi.org/project/mojokernel/"
+}

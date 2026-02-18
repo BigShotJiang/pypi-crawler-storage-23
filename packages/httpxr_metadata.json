@@ -1,0 +1,11 @@
+{
+  "name": "httpxr",
+  "version": "0.30.4",
+  "summary": "A 1:1 Rust port of httpx — same API, faster execution.",
+  "author": "Dominik Peter",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "httpxr-0.30.4.tar.gz",
+  "download_time": "2026-02-18T21:57:32.775010",
+  "package_url": "https://pypi.org/project/httpxr/"
+}

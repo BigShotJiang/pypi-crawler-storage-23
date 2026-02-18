@@ -1,0 +1,11 @@
+{
+  "name": "iagent-pay",
+  "version": "2.1.2",
+  "summary": "The Universal Payment Standard for AI Agents (EVM + Solana)",
+  "author": "iAgent Team",
+  "license": null,
+  "home_page": "https://github.com/agent-pay/sdk",
+  "download_filename": "iagent_pay-2.1.2.tar.gz",
+  "download_time": "2026-02-18T21:56:48.488461",
+  "package_url": "https://pypi.org/project/iagent-pay/"
+}

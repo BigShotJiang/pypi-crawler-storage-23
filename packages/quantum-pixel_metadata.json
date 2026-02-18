@@ -1,11 +1,11 @@
 {
   "name": "quantum-pixel",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "When both YES and NO are existed. Only human with emotions can comprehend.",
   "author": "Linos1391 <linos.coding@gmail.com>",
   "license": null,
   "home_page": null,
-  "download_filename": "quantum_pixel-1.1.0-cp314-cp314-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-18T18:29:04.946659",
+  "download_filename": "quantum_pixel-1.1.2-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-18T21:56:50.606617",
   "package_url": "https://pypi.org/project/quantum-pixel/"
 }

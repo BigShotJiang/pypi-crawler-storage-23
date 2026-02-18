@@ -1,0 +1,11 @@
+{
+  "name": "xrpl-py",
+  "version": "4.5.0",
+  "summary": "A complete Python library for interacting with the XRP ledger",
+  "author": "Mayukha Vadari",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "xrpl_py-4.5.0.tar.gz",
+  "download_time": "2026-02-18T21:57:21.786349",
+  "package_url": "https://pypi.org/project/xrpl-py/"
+}

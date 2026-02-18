@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-propel",
+  "version": "0.2.0",
+  "summary": "MCP server for Propel code review API - submit git diffs for AI-powered code review",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_propel-0.2.0.tar.gz",
+  "download_time": "2026-02-18T21:57:29.097988",
+  "package_url": "https://pypi.org/project/mcp-server-propel/"
+}
