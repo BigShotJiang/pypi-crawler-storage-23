@@ -1,0 +1,11 @@
+{
+  "name": "open-taranis",
+  "version": "0.2.4",
+  "summary": "Python framework for AI agents logic-only coding with streaming, tool calls, and multi-LLM provider support",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "open_taranis-0.2.4.tar.gz",
+  "download_time": "2026-02-18T10:04:42.665171",
+  "package_url": "https://pypi.org/project/open-taranis/"
+}

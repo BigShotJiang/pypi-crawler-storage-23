@@ -1,0 +1,11 @@
+{
+  "name": "prompt-ast",
+  "version": "0.2.5",
+  "summary": "Parse free-form human prompts into a canonical Prompt AST (structured JSON/YAML).",
+  "author": "Chvrr",
+  "license": "MIT",
+  "home_page": "https://github.com/chvr4ai-hub/prompt-ast",
+  "download_filename": "prompt_ast-0.2.5.tar.gz",
+  "download_time": "2026-02-18T10:04:17.270917",
+  "package_url": "https://pypi.org/project/prompt-ast/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_vectorstore_pinecone",
+  "version": "0.9.2",
+  "summary": "Swarmauri Pinecone Vector Store",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_vectorstore_pinecone-0.9.2.tar.gz",
+  "download_time": "2026-02-18T10:04:50.092905",
+  "package_url": "https://pypi.org/project/swarmauri_vectorstore_pinecone/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "causaliq-core",
+  "version": "0.4.0",
+  "summary": "Core utilities and classes for the CausalIQ ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causaliq_core-0.4.0.tar.gz",
+  "download_time": "2026-02-18T10:04:43.722380",
+  "package_url": "https://pypi.org/project/causaliq-core/"
+}

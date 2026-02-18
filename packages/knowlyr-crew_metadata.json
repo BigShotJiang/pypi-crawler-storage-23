@@ -1,0 +1,11 @@
+{
+  "name": "knowlyr-crew",
+  "version": "0.1.29",
+  "summary": "AI Skill Loader - define professional skills in Markdown, load into Claude Code and other AI IDEs via MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knowlyr_crew-0.1.29.tar.gz",
+  "download_time": "2026-02-18T10:04:31.501291",
+  "package_url": "https://pypi.org/project/knowlyr-crew/"
+}

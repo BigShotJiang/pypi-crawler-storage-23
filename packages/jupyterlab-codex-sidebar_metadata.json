@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-codex-sidebar",
+  "version": "0.1.3",
+  "summary": "JupyterLab Codex sidebar with server extension",
+  "author": "ILHO AHN",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jupyterlab_codex_sidebar-0.1.3.tar.gz",
+  "download_time": "2026-02-18T10:04:22.811448",
+  "package_url": "https://pypi.org/project/jupyterlab-codex-sidebar/"
+}

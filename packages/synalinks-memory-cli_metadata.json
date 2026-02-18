@@ -1,0 +1,11 @@
+{
+  "name": "synalinks-memory-cli",
+  "version": "0.0.2",
+  "summary": "CLI for the Synalinks Memory API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synalinks_memory_cli-0.0.2.tar.gz",
+  "download_time": "2026-02-18T10:04:36.284704",
+  "package_url": "https://pypi.org/project/synalinks-memory-cli/"
+}
