@@ -1,0 +1,11 @@
+{
+  "name": "knowlyr-reward",
+  "version": "0.1.2",
+  "summary": "Process-level rubric-based reward computation for Code Agent trajectories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knowlyr_reward-0.1.2.tar.gz",
+  "download_time": "2026-02-18T15:34:03.051577",
+  "package_url": "https://pypi.org/project/knowlyr-reward/"
+}

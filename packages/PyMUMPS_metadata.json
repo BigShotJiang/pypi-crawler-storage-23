@@ -1,0 +1,11 @@
+{
+  "name": "PyMUMPS",
+  "version": "0.4.0",
+  "summary": "Python bindings for MUMPS, a parallel sparse direct solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymumps-0.4.0.tar.gz",
+  "download_time": "2026-02-18T15:34:03.563518",
+  "package_url": "https://pypi.org/project/PyMUMPS/"
+}

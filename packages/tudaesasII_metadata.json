@@ -1,0 +1,11 @@
+{
+  "name": "tudaesasII",
+  "version": "2026.1",
+  "summary": "Python module related to the Master's course SASII at the faculty of Aeropsace Engineering, TU Delft",
+  "author": "Saullo G. P. Castro, Jurij Sodja",
+  "license": "3-Clause BSD",
+  "home_page": "https://github.com/saullocastro/tudaesasII",
+  "download_filename": "tudaesasii-2026.1-py3-none-any.whl",
+  "download_time": "2026-02-18T15:33:43.926481",
+  "package_url": "https://pypi.org/project/tudaesasII/"
+}

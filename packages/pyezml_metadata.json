@@ -1,0 +1,11 @@
+{
+  "name": "pyezml",
+  "version": "0.2.0",
+  "summary": "Beginner-friendly AutoML library for tabular data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyezml-0.2.0.tar.gz",
+  "download_time": "2026-02-18T15:34:01.512374",
+  "package_url": "https://pypi.org/project/pyezml/"
+}

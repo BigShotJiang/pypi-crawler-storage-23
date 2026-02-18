@@ -1,0 +1,11 @@
+{
+  "name": "steamreviews",
+  "version": "0.9.6",
+  "summary": "An API to download Steam reviews",
+  "author": "Wok",
+  "license": null,
+  "home_page": "https://github.com/woctezuma/download-steam-reviews",
+  "download_filename": "steamreviews-0.9.6.tar.gz",
+  "download_time": "2026-02-18T15:33:35.958483",
+  "package_url": "https://pypi.org/project/steamreviews/"
+}

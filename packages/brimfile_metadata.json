@@ -1,0 +1,11 @@
+{
+  "name": "brimfile",
+  "version": "1.4.1",
+  "summary": "A package to read and write to the brim file format, containing spectral data and metadata from Brillouin microscopy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brimfile-1.4.1.tar.gz",
+  "download_time": "2026-02-18T15:33:42.897651",
+  "package_url": "https://pypi.org/project/brimfile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "knowlyr-datacheck",
+  "version": "0.5.1",
+  "summary": "Data quality inspection toolkit - automated validation, anomaly detection, and distribution analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knowlyr_datacheck-0.5.1.tar.gz",
+  "download_time": "2026-02-18T15:34:12.882830",
+  "package_url": "https://pypi.org/project/knowlyr-datacheck/"
+}

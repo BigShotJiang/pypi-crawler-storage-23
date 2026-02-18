@@ -1,0 +1,11 @@
+{
+  "name": "blond",
+  "version": "2.2.4",
+  "summary": "CERN code for simulating longitudinal beam dynamics in synchrotrons.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blond-2.2.4.tar.gz",
+  "download_time": "2026-02-18T15:33:44.440234",
+  "package_url": "https://pypi.org/project/blond/"
+}

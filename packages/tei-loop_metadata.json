@@ -1,11 +1,11 @@
 {
   "name": "tei-loop",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "Target, Evaluate, Improve: A self-improving loop for agentic systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tei_loop-0.1.2.tar.gz",
-  "download_time": "2026-02-18T14:38:49.079621",
+  "download_filename": "tei_loop-0.1.7.tar.gz",
+  "download_time": "2026-02-18T15:33:39.820786",
   "package_url": "https://pypi.org/project/tei-loop/"
 }

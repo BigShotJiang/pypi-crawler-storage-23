@@ -1,0 +1,11 @@
+{
+  "name": "ai-chunking-ctk",
+  "version": "0.2.4",
+  "summary": "Enterprise-grade context-aware semantic chunking library powered by LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_chunking_ctk-0.2.4.tar.gz",
+  "download_time": "2026-02-18T15:33:48.054945",
+  "package_url": "https://pypi.org/project/ai-chunking-ctk/"
+}

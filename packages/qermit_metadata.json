@@ -1,0 +1,11 @@
+{
+  "name": "qermit",
+  "version": "0.9.1",
+  "summary": "Python package for quantum error mitigation.",
+  "author": "Daniel Mills",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qermit-0.9.1.tar.gz",
+  "download_time": "2026-02-18T15:33:37.721545",
+  "package_url": "https://pypi.org/project/qermit/"
+}
