@@ -1,0 +1,11 @@
+{
+  "name": "mlrun-pipelines-kfp-v1-8",
+  "version": "0.6.3",
+  "summary": "MLRun Pipelines adapter package for providing KFP 1.8 compatibility",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mlrun_pipelines_kfp_v1_8-0.6.3.tar.gz",
+  "download_time": "2026-02-18T21:28:46.514624",
+  "package_url": "https://pypi.org/project/mlrun-pipelines-kfp-v1-8/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentcert",
+  "version": "0.2.0",
+  "summary": "Bitcoin-anchored identity certificates for AI agents",
+  "author": "Shaleen Chauhan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentcert-0.2.0.tar.gz",
+  "download_time": "2026-02-18T21:28:23.445112",
+  "package_url": "https://pypi.org/project/agentcert/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rw-cli-keywords",
+  "version": "0.0.28",
+  "summary": "A set of RunWhen published CLI keywords and python libraries for interacting with APIs using CLIs",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "rw_cli_keywords-0.0.28.tar.gz",
+  "download_time": "2026-02-18T21:28:32.236532",
+  "package_url": "https://pypi.org/project/rw-cli-keywords/"
+}

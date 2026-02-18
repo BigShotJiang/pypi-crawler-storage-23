@@ -1,0 +1,11 @@
+{
+  "name": "osmapi",
+  "version": "5.0.0",
+  "summary": "Python wrapper for the OSM API",
+  "author": "Etienne Chové",
+  "license": "GPLv3",
+  "home_page": "https://github.com/metaodi/osmapi",
+  "download_filename": "osmapi-5.0.0.tar.gz",
+  "download_time": "2026-02-18T21:28:42.713730",
+  "package_url": "https://pypi.org/project/osmapi/"
+}

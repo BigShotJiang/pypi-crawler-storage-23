@@ -1,0 +1,11 @@
+{
+  "name": "pyanalytica",
+  "version": "0.4.5",
+  "summary": "A Python analytics workbench for teaching data science",
+  "author": "Ashish Khandelwal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyanalytica-0.4.5.tar.gz",
+  "download_time": "2026-02-18T21:28:28.962932",
+  "package_url": "https://pypi.org/project/pyanalytica/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pivoteer",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Inject pandas DataFrames into Excel templates with table resizing and pivot refresh.",
   "author": "Martin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pivoteer-0.2.1.tar.gz",
-  "download_time": "2026-02-18T20:56:24.127714",
+  "download_filename": "pivoteer-0.2.2.tar.gz",
+  "download_time": "2026-02-18T21:28:55.359179",
   "package_url": "https://pypi.org/project/pivoteer/"
 }

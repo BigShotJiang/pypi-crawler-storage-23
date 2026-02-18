@@ -1,0 +1,11 @@
+{
+  "name": "reboost",
+  "version": "0.10.2",
+  "summary": "New LEGEND Monte-Carlo simulation post-processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reboost-0.10.2.tar.gz",
+  "download_time": "2026-02-18T21:28:19.626158",
+  "package_url": "https://pypi.org/project/reboost/"
+}

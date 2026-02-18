@@ -1,0 +1,11 @@
+{
+  "name": "latch-eval-tools",
+  "version": "0.1.21",
+  "summary": "Shared eval tools for single-cell bench, spatial bench, and future biology benchmarks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latch_eval_tools-0.1.21.tar.gz",
+  "download_time": "2026-02-18T21:28:17.425574",
+  "package_url": "https://pypi.org/project/latch-eval-tools/"
+}

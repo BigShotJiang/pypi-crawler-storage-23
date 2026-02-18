@@ -1,0 +1,11 @@
+{
+  "name": "modelscan",
+  "version": "0.8.8",
+  "summary": "The modelscan package is a cli tool for detecting unsafe operations in model files across various model serialization formats.",
+  "author": "ProtectAI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "modelscan-0.8.8.tar.gz",
+  "download_time": "2026-02-18T21:28:34.986871",
+  "package_url": "https://pypi.org/project/modelscan/"
+}

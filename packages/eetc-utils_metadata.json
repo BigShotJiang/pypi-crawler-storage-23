@@ -1,0 +1,11 @@
+{
+  "name": "eetc-utils",
+  "version": "1.4.0",
+  "summary": "EETC Utils Library",
+  "author": "East Empire Trading Company",
+  "license": "MIT",
+  "home_page": "https://github.com/east-empire-trading-company/eetc-utils",
+  "download_filename": "eetc_utils-1.4.0.tar.gz",
+  "download_time": "2026-02-18T21:28:48.709367",
+  "package_url": "https://pypi.org/project/eetc-utils/"
+}

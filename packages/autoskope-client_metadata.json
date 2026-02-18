@@ -1,0 +1,11 @@
+{
+  "name": "autoskope-client",
+  "version": "1.4.0",
+  "summary": "Python client library for the Autoskope API.",
+  "author": "Nico Liebeskind",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mcisk/autoskope_client",
+  "download_filename": "autoskope_client-1.4.0.tar.gz",
+  "download_time": "2026-02-18T21:28:07.769696",
+  "package_url": "https://pypi.org/project/autoskope-client/"
+}

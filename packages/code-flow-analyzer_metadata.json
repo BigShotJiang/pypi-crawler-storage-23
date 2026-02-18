@@ -1,0 +1,11 @@
+{
+  "name": "code-flow-analyzer",
+  "version": "1.0.0",
+  "summary": "A universal tool to analyze and visualize code flow in any repository",
+  "author": "Platform Team",
+  "license": null,
+  "home_page": "https://github.com/yourorg/code-flow-analyzer",
+  "download_filename": "code_flow_analyzer-1.0.0.tar.gz",
+  "download_time": "2026-02-18T21:28:38.848883",
+  "package_url": "https://pypi.org/project/code-flow-analyzer/"
+}

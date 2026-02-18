@@ -1,0 +1,11 @@
+{
+  "name": "opsyield",
+  "version": "0.1.0",
+  "summary": "OpsYield - Multi-cloud cost optimization, analytics, and governance platform for AWS, Azure, and GCP",
+  "author": "Moiz Ali Moomin",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/opsyield",
+  "download_filename": "opsyield-0.1.0.tar.gz",
+  "download_time": "2026-02-18T21:28:32.778130",
+  "package_url": "https://pypi.org/project/opsyield/"
+}
