@@ -1,11 +1,11 @@
 {
   "name": "obris-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Obris — bring your saved references into AI conversations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "obris_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-18T20:56:03.483509",
+  "download_filename": "obris_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-18T22:59:14.303041",
   "package_url": "https://pypi.org/project/obris-mcp/"
 }

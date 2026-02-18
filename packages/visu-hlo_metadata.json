@@ -1,0 +1,11 @@
+{
+  "name": "visu-hlo",
+  "version": "0.1",
+  "summary": "Displays the HLO representation of (un-)jitted functions as SVG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "visu_hlo-0.1.tar.gz",
+  "download_time": "2026-02-18T22:59:14.953860",
+  "package_url": "https://pypi.org/project/visu-hlo/"
+}

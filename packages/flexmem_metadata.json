@@ -1,0 +1,11 @@
+{
+  "name": "flexmem",
+  "version": "0.1.0",
+  "summary": "Permanent memory for Claude Code sessions. Your intellectual capital, preserved.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexmem-0.1.0.tar.gz",
+  "download_time": "2026-02-18T22:59:09.299506",
+  "package_url": "https://pypi.org/project/flexmem/"
+}

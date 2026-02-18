@@ -1,0 +1,11 @@
+{
+  "name": "pmtvs-ftle",
+  "version": "0.0.1",
+  "summary": "Signal analysis primitives",
+  "author": "Jason Rudder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pmtvs_ftle-0.0.1.tar.gz",
+  "download_time": "2026-02-18T22:58:58.823945",
+  "package_url": "https://pypi.org/project/pmtvs-ftle/"
+}

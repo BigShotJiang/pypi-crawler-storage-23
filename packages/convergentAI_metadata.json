@@ -1,0 +1,11 @@
+{
+  "name": "convergentAI",
+  "version": "1.1.0",
+  "summary": "Multi-agent coherence and coordination for AI systems",
+  "author": "AreteDriver",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "convergentai-1.1.0.tar.gz",
+  "download_time": "2026-02-18T22:59:11.228018",
+  "package_url": "https://pypi.org/project/convergentAI/"
+}

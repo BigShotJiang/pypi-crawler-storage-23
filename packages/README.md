@@ -1,13 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-18T22:26:48.167590
-- **Total Packages**: 86
-- **Total Size**: 66.81 MB
+- **Download Time**: 2026-02-18T22:59:54.826043
+- **Total Packages**: 88
+- **Total Size**: 28.66 MB
 
 ## Packages List
-- checksum-helper
+- bb-integrations-library
+- pmtvs-ftle
+- isoring
+- rowquery
+- esphome
+- spotforecast2-safe
+- pmtvs-lyapunov
+- athena-intelligence
+- plato-sdk-v2
+- kaqing
+- biasclear
+- mem0-falkordb
+- expandai
+- hyrise
+- truss
+- tingbok
+- flexmem
+- spex-cli
+- ddapm-test-agent
+- convergentAI
+- worai
+- crunch-convert
+- fluid-blends
+- obris-mcp
+- visu-hlo
+- nrtk
+- zhijiang
+- erbsland-sphinx-ansi
+- sqlite-muninn
+- mcp-pdf
 - wordlift-sdk
+- uipath
+- voice-vibecoder
+- gxhash
+- pydantic-gitlab-webhooks
+- shellhost
+- yaml-to-schemdraw
+- ciris-verify
+- jimg-ncd
+- crowdstrike-aidr-openai
+- tei-loop
+- hypermedia
+- srdedupe
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
+- rxfoundry.clients.swifty-receiver-api
+- checksum-helper
 - google-parallax
 - marksync
 - tror-yong-ocr
@@ -27,7 +72,6 @@
 - posthoganalytics
 - posthog
 - cjm-transcript-verify
-- shellhost
 - trainkeeper
 - h4ckath0n
 - jentis-llmagentkit
@@ -43,52 +87,10 @@
 - pysilica
 - aiden3drenderer
 - pyinaturalist-convert
-- tei-loop
 - notebooklm-wrapper
 - gitta
 - cattrs
 - jobkit
 - ultra-lean-mcp-proxy
 - claude-mpm
-- kaqing
 - clawd-code-sdk
-- codewords-client
-- riotskillissue
-- openmed
-- rangebar
-- munchboka-edutools
-- draggg
-- signalpilot-ai-internal
-- dycw-pre-commit-hooks
-- terminusgps-notifier
-- slack-sdk
-- clawmetry
-- cohort-ai
-- horizon-sdk
-- cohort
-- regula-documentreader-webclient
-- fastapi-auth-utils
-- rm-utils
-- prior-tools
-- astris
-- codelogician
-- unienv
-- pisa-analysis
-- mcp-vector-search
-- clue-api
-- iconfucius
-- mithril-client
-- edictum
-- crowdstrike-aidr
-- opencosmo
-- cysqlite
-- keep-skill
-- sessionViewForClassApiSqlModel
-- mcpforunityserver
-- mvin
-- labwatch
-- pathview
-- latch-eval-tools
-- cactus-test-definitions
-- uipath-runtime
-- discovery-engine-api
