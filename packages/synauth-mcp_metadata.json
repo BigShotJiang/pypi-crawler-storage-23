@@ -1,0 +1,11 @@
+{
+  "name": "synauth-mcp",
+  "version": "0.1.1",
+  "summary": "SynAuth MCP Server — Biometric approval for AI agent actions via Face ID",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synauth_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-18T17:40:49.375692",
+  "package_url": "https://pypi.org/project/synauth-mcp/"
+}

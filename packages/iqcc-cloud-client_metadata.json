@@ -1,11 +1,11 @@
 {
   "name": "iqcc-cloud-client",
-  "version": "0.16.0",
+  "version": "0.16.2",
   "summary": "Access to IQCC quantum cloud",
   "author": null,
   "license": "BSD3",
   "home_page": null,
-  "download_filename": "iqcc_cloud_client-0.16.0.tar.gz",
-  "download_time": "2026-02-18T14:38:45.172893",
+  "download_filename": "iqcc_cloud_client-0.16.2.tar.gz",
+  "download_time": "2026-02-18T17:40:55.333625",
   "package_url": "https://pypi.org/project/iqcc-cloud-client/"
 }

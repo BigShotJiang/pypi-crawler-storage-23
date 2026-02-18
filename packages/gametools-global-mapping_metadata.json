@@ -1,0 +1,11 @@
+{
+  "name": "gametools-global-mapping",
+  "version": "0.1.49",
+  "summary": "A repo that contains all mapping required by GameTools",
+  "author": "p0lygun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gametools_global_mapping-0.1.49.tar.gz",
+  "download_time": "2026-02-18T17:41:02.241529",
+  "package_url": "https://pypi.org/project/gametools-global-mapping/"
+}

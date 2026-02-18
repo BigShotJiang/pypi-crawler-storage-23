@@ -1,0 +1,11 @@
+{
+  "name": "exqalibur",
+  "version": "1.2.0",
+  "summary": "Cutting-edge optimization for Perceval",
+  "author": "Quandela",
+  "license": "CC BY-NC-ND 4.0",
+  "home_page": null,
+  "download_filename": "exqalibur-1.2.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2026-02-18T17:40:30.462451",
+  "package_url": "https://pypi.org/project/exqalibur/"
+}

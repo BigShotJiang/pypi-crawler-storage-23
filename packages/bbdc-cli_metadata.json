@@ -1,0 +1,11 @@
+{
+  "name": "bbdc-cli",
+  "version": "0.4.0",
+  "summary": "Typer CLI for Bitbucket Data Center",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbdc_cli-0.4.0.tar.gz",
+  "download_time": "2026-02-18T17:41:07.148737",
+  "package_url": "https://pypi.org/project/bbdc-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moat-link-metrics-backend-victoria",
+  "version": "0.0.3",
+  "summary": "VictoriaMetrics backend for MoaT-Link metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_link_metrics_backend_victoria-0.0.3.tar.gz",
+  "download_time": "2026-02-18T17:40:45.615329",
+  "package_url": "https://pypi.org/project/moat-link-metrics-backend-victoria/"
+}

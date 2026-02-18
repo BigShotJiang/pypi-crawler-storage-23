@@ -1,0 +1,11 @@
+{
+  "name": "pygame-cli",
+  "version": "1.0.2",
+  "summary": "A CLI project management library for pygame community edition.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygame_cli-1.0.2.tar.gz",
+  "download_time": "2026-02-18T17:40:25.013053",
+  "package_url": "https://pypi.org/project/pygame-cli/"
+}
