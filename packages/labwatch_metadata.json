@@ -1,11 +1,11 @@
 {
   "name": "labwatch",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Homelab monitoring CLI — system resources, Docker, systemd, HTTP, DNS, VPNs, and more with push notifications via ntfy",
   "author": "Ryan Bretschneider",
   "license": null,
   "home_page": null,
-  "download_filename": "labwatch-0.4.0.tar.gz",
-  "download_time": "2026-02-18T21:57:30.133438",
+  "download_filename": "labwatch-0.5.0.tar.gz",
+  "download_time": "2026-02-18T22:26:45.070094",
   "package_url": "https://pypi.org/project/labwatch/"
 }

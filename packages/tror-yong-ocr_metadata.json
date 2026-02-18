@@ -1,0 +1,11 @@
+{
+  "name": "tror-yong-ocr",
+  "version": "0.0.4",
+  "summary": "Optical Character Recognition Model",
+  "author": "KHUN Kimang",
+  "license": null,
+  "home_page": "https://github.com/kimang18/KrorngAI",
+  "download_filename": "tror_yong_ocr-0.0.4.tar.gz",
+  "download_time": "2026-02-18T22:26:02.849554",
+  "package_url": "https://pypi.org/project/tror-yong-ocr/"
+}

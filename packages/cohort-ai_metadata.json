@@ -1,0 +1,11 @@
+{
+  "name": "cohort-ai",
+  "version": "0.0.1",
+  "summary": "Multi-agent orchestration framework for structured AI deliberation",
+  "author": "Ryan Wheeler",
+  "license": null,
+  "home_page": "https://github.com/rywheeler/cohort",
+  "download_filename": "cohort_ai-0.0.1.tar.gz",
+  "download_time": "2026-02-18T22:26:33.188663",
+  "package_url": "https://pypi.org/project/cohort-ai/"
+}

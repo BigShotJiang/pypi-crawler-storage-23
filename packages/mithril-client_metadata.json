@@ -1,0 +1,11 @@
+{
+  "name": "mithril-client",
+  "version": "0.1.0rc2",
+  "summary": "Mithril CLI and SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mithril_client-0.1.0rc2.tar.gz",
+  "download_time": "2026-02-18T22:26:40.442885",
+  "package_url": "https://pypi.org/project/mithril-client/"
+}

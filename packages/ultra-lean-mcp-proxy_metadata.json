@@ -1,11 +1,11 @@
 {
   "name": "ultra-lean-mcp-proxy",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Ultra Lean MCP Proxy - lightweight optimization proxy for MCP",
   "author": "Lean Agent Protocol",
   "license": null,
   "home_page": null,
-  "download_filename": "ultra_lean_mcp_proxy-0.3.1.tar.gz",
-  "download_time": "2026-02-18T21:28:45.426492",
+  "download_filename": "ultra_lean_mcp_proxy-0.3.2.tar.gz",
+  "download_time": "2026-02-18T22:26:24.315579",
   "package_url": "https://pypi.org/project/ultra-lean-mcp-proxy/"
 }

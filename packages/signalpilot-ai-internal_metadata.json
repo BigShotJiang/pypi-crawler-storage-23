@@ -1,0 +1,11 @@
+{
+  "name": "signalpilot-ai-internal",
+  "version": "0.12.53",
+  "summary": "SignalPilot Agent - Your Jupyter Notebook Assistant",
+  "author": null,
+  "license": "Copyright (c) 2025-2026 SignalPilot Inc. All rights reserved.\n        \n        This software is proprietary and confidential. Unauthorized copying, distribution,\n        modification, or use of this software, via any medium, is strictly prohibited.\n        \n        For licensing inquiries: info@signalpilot.ai\n        Website: https://signalpilot.ai",
+  "home_page": null,
+  "download_filename": "signalpilot_ai_internal-0.12.53.tar.gz",
+  "download_time": "2026-02-18T22:26:30.622255",
+  "package_url": "https://pypi.org/project/signalpilot-ai-internal/"
+}

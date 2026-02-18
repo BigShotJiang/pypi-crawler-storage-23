@@ -1,0 +1,11 @@
+{
+  "name": "jobkit",
+  "version": "0.1.1",
+  "summary": "Open source job hunting toolkit - search jobs, generate tailored resumes and cover letters",
+  "author": "JobKit Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jobkit-0.1.1.tar.gz",
+  "download_time": "2026-02-18T22:26:23.802556",
+  "package_url": "https://pypi.org/project/jobkit/"
+}

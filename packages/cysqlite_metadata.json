@@ -1,0 +1,11 @@
+{
+  "name": "cysqlite",
+  "version": "0.1.8",
+  "summary": "sqlite3 binding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cysqlite-0.1.8.tar.gz",
+  "download_time": "2026-02-18T22:26:42.495322",
+  "package_url": "https://pypi.org/project/cysqlite/"
+}
