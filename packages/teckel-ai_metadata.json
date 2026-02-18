@@ -1,0 +1,11 @@
+{
+  "name": "teckel-ai",
+  "version": "0.1.0",
+  "summary": "Simple SDK for AI trace tracking and RAG observability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teckel_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-18T19:28:23.863688",
+  "package_url": "https://pypi.org/project/teckel-ai/"
+}

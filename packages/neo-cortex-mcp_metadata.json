@@ -1,11 +1,11 @@
 {
   "name": "neo-cortex-mcp",
-  "version": "3.4.0",
+  "version": "4.0.5",
   "summary": "Neo Memory Cortex — Standalone Memory Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neo_cortex_mcp-3.4.0.tar.gz",
-  "download_time": "2026-02-18T15:33:41.362231",
+  "download_filename": "neo_cortex_mcp-4.0.5.tar.gz",
+  "download_time": "2026-02-18T19:28:36.869908",
   "package_url": "https://pypi.org/project/neo-cortex-mcp/"
 }

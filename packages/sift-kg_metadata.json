@@ -1,0 +1,11 @@
+{
+  "name": "sift-kg",
+  "version": "0.7.0",
+  "summary": "Zero-config document-to-knowledge-graph pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sift_kg-0.7.0-py3-none-any.whl",
+  "download_time": "2026-02-18T19:28:13.887087",
+  "package_url": "https://pypi.org/project/sift-kg/"
+}

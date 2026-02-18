@@ -1,0 +1,11 @@
+{
+  "name": "flow-platform-sdk",
+  "version": "0.1.6",
+  "summary": "Python SDK for Uniphore Flow Platform APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flow_platform_sdk-0.1.6.tar.gz",
+  "download_time": "2026-02-18T19:28:52.364547",
+  "package_url": "https://pypi.org/project/flow-platform-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdscompare",
+  "version": "0.3.0rc4",
+  "summary": "Compare CDS annotations from one or multiple GFF files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdscompare-0.3.0rc4.tar.gz",
+  "download_time": "2026-02-18T19:28:37.932750",
+  "package_url": "https://pypi.org/project/cdscompare/"
+}
