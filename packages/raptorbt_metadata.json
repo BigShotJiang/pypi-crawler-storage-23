@@ -1,0 +1,11 @@
+{
+  "name": "raptorbt",
+  "version": "0.3.2.post1",
+  "summary": "High-performance Rust backtesting engine with Python bindings. Drop-in VectorBT replacement with up insanely faster performance at fractional memory footprint.",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.alphabench.in/raptorbt",
+  "download_filename": "raptorbt-0.3.2.post1.tar.gz",
+  "download_time": "2026-02-18T13:53:19.656493",
+  "package_url": "https://pypi.org/project/raptorbt/"
+}

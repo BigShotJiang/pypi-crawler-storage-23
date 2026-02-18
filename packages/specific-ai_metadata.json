@@ -1,0 +1,11 @@
+{
+  "name": "specific-ai",
+  "version": "0.1.7",
+  "summary": "specific.ai python sdk",
+  "author": "specific.ai team",
+  "license": null,
+  "home_page": "https://specific.ai/",
+  "download_filename": "specific_ai-0.1.7.tar.gz",
+  "download_time": "2026-02-18T13:54:00.083785",
+  "package_url": "https://pypi.org/project/specific-ai/"
+}

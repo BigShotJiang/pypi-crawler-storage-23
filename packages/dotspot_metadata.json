@@ -1,0 +1,11 @@
+{
+  "name": "dotspot",
+  "version": "0.0.2",
+  "summary": "A powerful web vulnerability scanner with SQL injection, SSTI, exposed path detection, and AI-powered analysis.",
+  "author": "Sagnik Mukherjee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotspot-0.0.2.tar.gz",
+  "download_time": "2026-02-18T13:53:37.016758",
+  "package_url": "https://pypi.org/project/dotspot/"
+}

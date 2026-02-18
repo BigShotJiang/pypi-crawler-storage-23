@@ -1,0 +1,11 @@
+{
+  "name": "sf2-loader",
+  "version": "1.26",
+  "summary": "This is an easy-to-use soundfonts loader, player and audio renderer in python",
+  "author": "Rainbow-Dreamer",
+  "license": "LGPLv2.1",
+  "home_page": "https://github.com/Rainbow-Dreamer/sf2_loader",
+  "download_filename": "sf2_loader-1.26.tar.gz",
+  "download_time": "2026-02-18T13:53:19.135881",
+  "package_url": "https://pypi.org/project/sf2-loader/"
+}

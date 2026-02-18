@@ -1,0 +1,11 @@
+{
+  "name": "zabel-commons",
+  "version": "1.10.0",
+  "summary": "The Zabel transverse **commons** library",
+  "author": "Martin Lafaix",
+  "license": "Eclipse Public License 2.0",
+  "home_page": "https://github.com/engie-group/zabel",
+  "download_filename": "zabel_commons-1.10.0-py3-none-any.whl",
+  "download_time": "2026-02-18T13:53:11.558755",
+  "package_url": "https://pypi.org/project/zabel-commons/"
+}

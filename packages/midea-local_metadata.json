@@ -1,0 +1,11 @@
+{
+  "name": "midea-local",
+  "version": "6.6.0",
+  "summary": "Control your Midea M-Smart appliances via local area network",
+  "author": "rokam",
+  "license": "MIT",
+  "home_page": "https://github.com/rokam/midea-local",
+  "download_filename": "midea_local-6.6.0.tar.gz",
+  "download_time": "2026-02-18T13:53:27.537392",
+  "package_url": "https://pypi.org/project/midea-local/"
+}
