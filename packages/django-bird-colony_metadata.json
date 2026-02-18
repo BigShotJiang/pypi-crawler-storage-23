@@ -1,0 +1,11 @@
+{
+  "name": "django-bird-colony",
+  "version": "0.14.1",
+  "summary": "A simple Django app for managing a bird breeding colony",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "django_bird_colony-0.14.1.tar.gz",
+  "download_time": "2026-02-18T23:29:59.312202",
+  "package_url": "https://pypi.org/project/django-bird-colony/"
+}

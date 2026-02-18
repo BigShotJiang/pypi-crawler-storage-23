@@ -1,0 +1,11 @@
+{
+  "name": "whoare",
+  "version": "0.2.8",
+  "summary": "Another whois scraper",
+  "author": "Anders Vazquez",
+  "license": null,
+  "home_page": "https://github.com/avdata99/whoare",
+  "download_filename": "whoare-0.2.8.tar.gz",
+  "download_time": "2026-02-18T23:29:46.641921",
+  "package_url": "https://pypi.org/project/whoare/"
+}

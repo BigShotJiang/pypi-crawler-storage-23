@@ -1,0 +1,11 @@
+{
+  "name": "pypdfium2",
+  "version": "5.5.0",
+  "summary": "Python bindings to PDFium",
+  "author": "pypdfium2-team",
+  "license": "BSD-3-Clause, Apache-2.0, dependency licenses",
+  "home_page": "https://github.com/pypdfium2-team/pypdfium2",
+  "download_filename": "pypdfium2-5.5.0.tar.gz",
+  "download_time": "2026-02-18T23:29:33.217524",
+  "package_url": "https://pypi.org/project/pypdfium2/"
+}

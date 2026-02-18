@@ -1,0 +1,11 @@
+{
+  "name": "wikitcms",
+  "version": "2.6.22",
+  "summary": "Fedora QA wiki test management library",
+  "author": "Adam Williamson",
+  "license": "GPLv3+",
+  "home_page": "https://forge.fedoraproject.org/quality/python-wikitcms",
+  "download_filename": "wikitcms-2.6.22.tar.gz",
+  "download_time": "2026-02-18T23:29:40.893308",
+  "package_url": "https://pypi.org/project/wikitcms/"
+}

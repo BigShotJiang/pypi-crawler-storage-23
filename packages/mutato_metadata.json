@@ -1,0 +1,11 @@
+{
+  "name": "mutato",
+  "version": "1.1.1",
+  "summary": "Mutato Synonym Swapping API",
+  "author": "Craig Trim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mutato-1.1.1.tar.gz",
+  "download_time": "2026-02-18T23:30:10.281177",
+  "package_url": "https://pypi.org/project/mutato/"
+}

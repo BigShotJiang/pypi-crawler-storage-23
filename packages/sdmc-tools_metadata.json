@@ -1,0 +1,11 @@
+{
+  "name": "sdmc-tools",
+  "version": "0.0.6",
+  "summary": "Helper utilities for SDMC ad-hoc data processing requests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdmc_tools-0.0.6.tar.gz",
+  "download_time": "2026-02-18T23:29:21.041087",
+  "package_url": "https://pypi.org/project/sdmc-tools/"
+}

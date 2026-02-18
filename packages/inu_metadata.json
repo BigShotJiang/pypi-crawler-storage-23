@@ -1,0 +1,11 @@
+{
+  "name": "inu",
+  "version": "2.5.7",
+  "summary": "Inertial Navigation Utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inu-2.5.7.tar.gz",
+  "download_time": "2026-02-18T23:29:23.224574",
+  "package_url": "https://pypi.org/project/inu/"
+}

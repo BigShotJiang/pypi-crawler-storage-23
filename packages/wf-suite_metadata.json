@@ -1,11 +1,11 @@
 {
   "name": "wf-suite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "APS Wavefront Analysis Tools",
   "author": "Luca Rebuffi, Xianbo Shi",
   "license": "BSD-3",
-  "home_page": "https://github.com/APS-XSD-OPT-Group/Wavefront-Analysis",
-  "download_filename": "wf_suite-1.0.1.tar.gz",
-  "download_time": "2026-02-18T19:28:24.462483",
+  "home_page": "https://github.com/APS-XSD-OPT-Group/WFSuite",
+  "download_filename": "wf_suite-1.0.2.tar.gz",
+  "download_time": "2026-02-18T23:29:58.216838",
   "package_url": "https://pypi.org/project/wf-suite/"
 }

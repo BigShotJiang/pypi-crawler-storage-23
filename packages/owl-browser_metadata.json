@@ -1,0 +1,11 @@
+{
+  "name": "owl-browser",
+  "version": "2.0.6",
+  "summary": "Python SDK for Owl Browser automation - async-first with dynamic OpenAPI method generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owl_browser-2.0.6.tar.gz",
+  "download_time": "2026-02-18T23:29:44.678184",
+  "package_url": "https://pypi.org/project/owl-browser/"
+}

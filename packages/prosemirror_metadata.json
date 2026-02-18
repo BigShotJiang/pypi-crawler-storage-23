@@ -1,0 +1,11 @@
+{
+  "name": "prosemirror",
+  "version": "0.6.0",
+  "summary": "Python implementation of core ProseMirror modules for collaborative editing",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "prosemirror-0.6.0.tar.gz",
+  "download_time": "2026-02-18T23:30:00.419221",
+  "package_url": "https://pypi.org/project/prosemirror/"
+}

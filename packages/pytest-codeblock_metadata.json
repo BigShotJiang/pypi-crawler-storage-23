@@ -1,0 +1,11 @@
+{
+  "name": "pytest-codeblock",
+  "version": "0.5.3",
+  "summary": "Pytest plugin to collect and test code blocks in reStructuredText and Markdown files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_codeblock-0.5.3.tar.gz",
+  "download_time": "2026-02-18T23:29:47.185713",
+  "package_url": "https://pypi.org/project/pytest-codeblock/"
+}

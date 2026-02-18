@@ -1,0 +1,11 @@
+{
+  "name": "stitch-fuzz",
+  "version": "0.1.2",
+  "summary": "STITCH CLI: project setup, inference, and fuzz orchestration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stitch_fuzz-0.1.2.tar.gz",
+  "download_time": "2026-02-18T23:30:03.700278",
+  "package_url": "https://pypi.org/project/stitch-fuzz/"
+}

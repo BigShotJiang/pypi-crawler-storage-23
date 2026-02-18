@@ -1,0 +1,11 @@
+{
+  "name": "dynamiq-sandboxes",
+  "version": "0.3.0",
+  "summary": "Python SDK for Dynamiq Sandboxes - Secure code execution, browser automation, and virtual desktops",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynamiq_sandboxes-0.3.0.tar.gz",
+  "download_time": "2026-02-18T23:29:35.979943",
+  "package_url": "https://pypi.org/project/dynamiq-sandboxes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "miruvor",
+  "version": "0.1.1",
+  "summary": "Python SDK for Zyra SNN Memory Database - Brain-inspired memory for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miruvor-0.1.1.tar.gz",
+  "download_time": "2026-02-18T23:30:01.588558",
+  "package_url": "https://pypi.org/project/miruvor/"
+}

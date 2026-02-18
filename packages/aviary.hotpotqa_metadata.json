@@ -1,0 +1,11 @@
+{
+  "name": "aviary.hotpotqa",
+  "version": "0.33.0",
+  "summary": "HotPotQA environment implemented with aviary",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aviary_hotpotqa-0.33.0.tar.gz",
+  "download_time": "2026-02-18T23:29:57.100521",
+  "package_url": "https://pypi.org/project/aviary.hotpotqa/"
+}
