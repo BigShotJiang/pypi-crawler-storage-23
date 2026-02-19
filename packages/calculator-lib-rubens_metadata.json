@@ -1,0 +1,11 @@
+{
+  "name": "calculator-lib-rubens",
+  "version": "0.1.1",
+  "summary": "A python calculator library.",
+  "author": "Rubens Gomes",
+  "license": null,
+  "home_page": "https://github.com/rubensgomes/calculator-lib/",
+  "download_filename": "calculator_lib_rubens-0.1.1.tar.gz",
+  "download_time": "2026-02-19T01:11:57.224015",
+  "package_url": "https://pypi.org/project/calculator-lib-rubens/"
+}

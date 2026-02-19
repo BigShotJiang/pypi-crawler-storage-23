@@ -1,0 +1,11 @@
+{
+  "name": "llmboost-hub",
+  "version": "0.4.1",
+  "summary": "A lightweight CLI tool for managing LLMBoost™ model images and environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmboost_hub-0.4.1.tar.gz",
+  "download_time": "2026-02-19T01:11:59.712556",
+  "package_url": "https://pypi.org/project/llmboost-hub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "caylent-devcontainer-cli",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "CLI tool for managing Caylent devcontainers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "caylent_devcontainer_cli-2.0.2.tar.gz",
-  "download_time": "2026-02-18T23:54:00.595603",
+  "download_filename": "caylent_devcontainer_cli-2.0.3.tar.gz",
+  "download_time": "2026-02-19T01:12:00.354918",
   "package_url": "https://pypi.org/project/caylent-devcontainer-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "clawlens",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "summary": "ClawLens - Real-time observability dashboard for OpenClaw AI agents",
   "author": "ClawWallet",
   "license": "MIT",
   "home_page": "https://github.com/0xChitlin/clawlens",
-  "download_filename": "clawlens-0.9.3.tar.gz",
-  "download_time": "2026-02-18T23:54:20.485561",
+  "download_filename": "clawlens-0.9.5.tar.gz",
+  "download_time": "2026-02-19T01:11:38.364726",
   "package_url": "https://pypi.org/project/clawlens/"
 }
