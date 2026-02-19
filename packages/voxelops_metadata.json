@@ -1,11 +1,11 @@
 {
   "name": "voxelops",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Clean, simple neuroimaging pipeline automation for brain banks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voxelops-0.2.1-py3-none-any.whl",
-  "download_time": "2026-02-19T12:38:35.904958",
+  "download_filename": "voxelops-0.2.2-py3-none-any.whl",
+  "download_time": "2026-02-19T13:55:48.051177",
   "package_url": "https://pypi.org/project/voxelops/"
 }

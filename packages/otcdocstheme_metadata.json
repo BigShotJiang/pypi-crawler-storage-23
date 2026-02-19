@@ -1,0 +1,11 @@
+{
+  "name": "otcdocstheme",
+  "version": "1.14.2",
+  "summary": "T Cloud Public Docs Theme",
+  "author": "T Cloud Public Ecosystem Squad",
+  "license": null,
+  "home_page": "https://cloud.otc.com",
+  "download_filename": "otcdocstheme-1.14.2.tar.gz",
+  "download_time": "2026-02-19T13:55:04.129796",
+  "package_url": "https://pypi.org/project/otcdocstheme/"
+}

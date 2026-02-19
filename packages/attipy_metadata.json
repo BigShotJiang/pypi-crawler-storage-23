@@ -1,0 +1,11 @@
+{
+  "name": "attipy",
+  "version": "0.0.9",
+  "summary": "A Python library for attitude and linear motion estimation using inertial sensor data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "attipy-0.0.9.tar.gz",
+  "download_time": "2026-02-19T13:55:36.686031",
+  "package_url": "https://pypi.org/project/attipy/"
+}

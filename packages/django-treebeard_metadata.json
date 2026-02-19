@@ -1,11 +1,11 @@
 {
   "name": "django-treebeard",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "summary": "Efficient tree implementations for Django",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_treebeard-5.0.4.tar.gz",
-  "download_time": "2026-02-19T05:18:17.335914",
+  "download_filename": "django_treebeard-5.0.5.tar.gz",
+  "download_time": "2026-02-19T13:55:14.660163",
   "package_url": "https://pypi.org/project/django-treebeard/"
 }

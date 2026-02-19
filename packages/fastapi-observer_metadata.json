@@ -1,11 +1,11 @@
 {
   "name": "fastapi-observer",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Zero-glue FastAPI observability with security presets and runtime controls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_observer-0.2.1.tar.gz",
-  "download_time": "2026-02-19T11:53:30.242006",
+  "download_filename": "fastapi_observer-0.2.4.tar.gz",
+  "download_time": "2026-02-19T13:55:13.635464",
   "package_url": "https://pypi.org/project/fastapi-observer/"
 }

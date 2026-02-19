@@ -1,0 +1,11 @@
+{
+  "name": "pyssp-standard",
+  "version": "0.9.0",
+  "summary": "Simple python package for reading, modifying and creating files, specified in the SSP Standard",
+  "author": "Fredrik Haider",
+  "license": "MIT",
+  "home_page": "https://github.com/pyssporg/pyssp_standard",
+  "download_filename": "pyssp_standard-0.9.0.tar.gz",
+  "download_time": "2026-02-19T13:55:19.260463",
+  "package_url": "https://pypi.org/project/pyssp-standard/"
+}

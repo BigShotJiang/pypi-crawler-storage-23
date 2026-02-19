@@ -1,0 +1,11 @@
+{
+  "name": "depth-tools",
+  "version": "0.7.0",
+  "summary": "A simple pure Python implementation of depth-related calculations.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "depth_tools-0.7.0.tar.gz",
+  "download_time": "2026-02-19T13:55:12.613157",
+  "package_url": "https://pypi.org/project/depth-tools/"
+}

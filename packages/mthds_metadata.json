@@ -1,0 +1,11 @@
+{
+  "name": "mthds",
+  "version": "0.0.2",
+  "summary": "The Python interface for methods — base structures for structured outputs and the base runner for executing methods via API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mthds-0.0.2.tar.gz",
+  "download_time": "2026-02-19T13:55:46.518953",
+  "package_url": "https://pypi.org/project/mthds/"
+}

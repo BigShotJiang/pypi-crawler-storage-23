@@ -1,11 +1,11 @@
 {
   "name": "japan-trading-agents",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Multi-agent AI trading analysis for Japanese stocks — powered by the Japan Finance Data Stack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "japan_trading_agents-0.5.0.tar.gz",
-  "download_time": "2026-02-18T18:28:52.925518",
+  "download_filename": "japan_trading_agents-0.5.2.tar.gz",
+  "download_time": "2026-02-19T13:55:00.815898",
   "package_url": "https://pypi.org/project/japan-trading-agents/"
 }

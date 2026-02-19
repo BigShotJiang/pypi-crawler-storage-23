@@ -1,0 +1,11 @@
+{
+  "name": "pdbeccdutils",
+  "version": "1.0.3",
+  "summary": "Toolkit to parse and process small molecules in wwPDB",
+  "author": "Protein Data Bank in Europe",
+  "license": "Apache License 2.0.",
+  "home_page": null,
+  "download_filename": "pdbeccdutils-1.0.3.tar.gz",
+  "download_time": "2026-02-19T13:55:03.070613",
+  "package_url": "https://pypi.org/project/pdbeccdutils/"
+}
