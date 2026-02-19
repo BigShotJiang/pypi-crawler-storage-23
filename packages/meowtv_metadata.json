@@ -1,0 +1,11 @@
+{
+  "name": "meowtv",
+  "version": "1.1.7",
+  "summary": "CLI for streaming content from MeowTV providers",
+  "author": "MeowTV",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meowtv-1.1.7.tar.gz",
+  "download_time": "2026-02-19T22:58:01.547075",
+  "package_url": "https://pypi.org/project/meowtv/"
+}

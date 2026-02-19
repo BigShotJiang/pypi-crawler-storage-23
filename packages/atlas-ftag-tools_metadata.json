@@ -1,0 +1,11 @@
+{
+  "name": "atlas-ftag-tools",
+  "version": "0.3.1",
+  "summary": "ATLAS Flavour Tagging Tools",
+  "author": "Sam Van Stroud, Philipp Gadow, Alexander Froch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atlas_ftag_tools-0.3.1.tar.gz",
+  "download_time": "2026-02-19T22:58:05.305112",
+  "package_url": "https://pypi.org/project/atlas-ftag-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-bom",
-  "version": "0.3.0",
-  "summary": "Generate AI Bill of Materials (AI-BOM) for AI agents, MCP servers, and their dependencies. Map the full trust chain from agent to vulnerability.",
+  "version": "0.7.0",
+  "summary": "AI Bill of Materials — CVE scanning, blast radius, OWASP LLM Top 10 tagging, and MCP registry for AI agents.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_bom-0.3.0.tar.gz",
-  "download_time": "2026-02-19T07:37:29.762940",
+  "download_filename": "agent_bom-0.7.0.tar.gz",
+  "download_time": "2026-02-19T22:58:02.081484",
   "package_url": "https://pypi.org/project/agent-bom/"
 }

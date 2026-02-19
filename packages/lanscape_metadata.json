@@ -1,11 +1,11 @@
 {
   "name": "lanscape",
-  "version": "2.4.1",
+  "version": "3.0.0",
   "summary": "A python based local network scanner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lanscape-2.4.1.tar.gz",
-  "download_time": "2026-02-18T19:28:31.546564",
+  "download_filename": "lanscape-3.0.0.tar.gz",
+  "download_time": "2026-02-19T22:57:55.005984",
   "package_url": "https://pypi.org/project/lanscape/"
 }

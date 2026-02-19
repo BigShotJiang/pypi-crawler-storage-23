@@ -1,0 +1,11 @@
+{
+  "name": "appium-pytest-kit",
+  "version": "0.1.0",
+  "summary": "Reusable Appium 2.x + pytest mobile test framework",
+  "author": "appium-pytest-kit contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appium_pytest_kit-0.1.0.tar.gz",
+  "download_time": "2026-02-19T22:57:26.413695",
+  "package_url": "https://pypi.org/project/appium-pytest-kit/"
+}

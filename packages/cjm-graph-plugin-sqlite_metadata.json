@@ -1,0 +1,11 @@
+{
+  "name": "cjm-graph-plugin-sqlite",
+  "version": "0.0.4",
+  "summary": "A local, file-backed Context Graph worker for the cjm-plugin-system that implements graph storage, traversal, and querying using SQLite.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-graph-plugin-sqlite",
+  "download_filename": "cjm_graph_plugin_sqlite-0.0.4.tar.gz",
+  "download_time": "2026-02-19T22:58:02.614609",
+  "package_url": "https://pypi.org/project/cjm-graph-plugin-sqlite/"
+}
