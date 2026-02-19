@@ -1,0 +1,11 @@
+{
+  "name": "blocks-control-sdk",
+  "version": "0.2.0rc5",
+  "summary": "A unified Python interface to interact with popular coding agents.",
+  "author": "BlocksOrg",
+  "license": "AGPL",
+  "home_page": "https://github.com/BlocksOrg/blocks-control-sdk",
+  "download_filename": "blocks_control_sdk-0.2.0rc5.tar.gz",
+  "download_time": "2026-02-19T05:17:42.804274",
+  "package_url": "https://pypi.org/project/blocks-control-sdk/"
+}

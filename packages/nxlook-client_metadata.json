@@ -1,0 +1,11 @@
+{
+  "name": "nxlook-client",
+  "version": "0.1.1",
+  "summary": "NxLook Inference library for Epistemic AI models. Non-reverse-engineerable, inference-only.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nxlook_client-0.1.1.tar.gz",
+  "download_time": "2026-02-19T05:17:39.216704",
+  "package_url": "https://pypi.org/project/nxlook-client/"
+}

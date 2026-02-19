@@ -1,0 +1,11 @@
+{
+  "name": "pyextremes",
+  "version": "2.5.0",
+  "summary": "Extreme Value Analysis (EVA) in Python",
+  "author": "George Bocharov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyextremes-2.5.0.tar.gz",
+  "download_time": "2026-02-19T05:17:43.838701",
+  "package_url": "https://pypi.org/project/pyextremes/"
+}

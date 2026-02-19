@@ -1,0 +1,11 @@
+{
+  "name": "vibe-clock",
+  "version": "1.2.1",
+  "summary": "Track AI coding agent usage across Claude Code, Codex, and OpenCode",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_clock-1.2.1.tar.gz",
+  "download_time": "2026-02-19T05:18:16.291450",
+  "package_url": "https://pypi.org/project/vibe-clock/"
+}

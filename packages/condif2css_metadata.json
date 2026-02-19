@@ -1,0 +1,11 @@
+{
+  "name": "condif2css",
+  "version": "0.15.0rc2",
+  "summary": "Evaluate Excel conditional formatting rules and generate reusable CSS classes from openpyxl styles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "condif2css-0.15.0rc2.tar.gz",
+  "download_time": "2026-02-19T05:17:51.548843",
+  "package_url": "https://pypi.org/project/condif2css/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "easierlit",
-  "version": "0.10.5",
+  "version": "0.11.2",
   "summary": "A minimal library to make Chainlit easier to use.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easierlit-0.10.5.tar.gz",
-  "download_time": "2026-02-18T13:53:25.454282",
+  "download_filename": "easierlit-0.11.2.tar.gz",
+  "download_time": "2026-02-19T05:17:55.698258",
   "package_url": "https://pypi.org/project/easierlit/"
 }
