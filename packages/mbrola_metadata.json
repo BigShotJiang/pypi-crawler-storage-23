@@ -1,0 +1,11 @@
+{
+  "name": "mbrola",
+  "version": "0.2.2",
+  "summary": "A Python front-end for the MBROLA speech synthesizer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbrola-0.2.2.tar.gz",
+  "download_time": "2026-02-19T15:30:14.279928",
+  "package_url": "https://pypi.org/project/mbrola/"
+}

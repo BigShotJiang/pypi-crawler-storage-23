@@ -1,0 +1,11 @@
+{
+  "name": "OpenDHW",
+  "version": "0.2.8",
+  "summary": "Tool for generating domestic hot water profiles",
+  "author": "RWTH Aachen University, E.ON Energy Research Center, Institute of Energy Efficient Buildings and Indoor Climate",
+  "license": "MIT",
+  "home_page": "https://github.com/RWTH-EBC/OpenDHW",
+  "download_filename": "opendhw-0.2.8.tar.gz",
+  "download_time": "2026-02-19T15:30:22.103363",
+  "package_url": "https://pypi.org/project/OpenDHW/"
+}

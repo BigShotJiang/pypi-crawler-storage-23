@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-reconcile-model-oca",
+  "version": "18.0.1.1.2",
+  "summary": "This includes the logic moved from Odoo Community to Odoo Enterprise",
+  "author": "Dixmit,Odoo,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-reconcile",
+  "download_filename": "odoo_addon_account_reconcile_model_oca-18.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-02-19T15:30:06.772399",
+  "package_url": "https://pypi.org/project/odoo-addon-account-reconcile-model-oca/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bandeira",
+  "version": "0.1.0",
+  "summary": "Official Python client SDK for Bandeira feature flag service",
+  "author": "Felipe Kafuri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bandeira-0.1.0.tar.gz",
+  "download_time": "2026-02-19T15:30:40.411961",
+  "package_url": "https://pypi.org/project/bandeira/"
+}

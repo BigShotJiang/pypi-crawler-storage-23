@@ -1,0 +1,11 @@
+{
+  "name": "py2many",
+  "version": "0.8",
+  "summary": "Python to Rust, C++, Go, Zig, Mojo & More - Universal Python Transpiler",
+  "author": "Arun Sharma",
+  "license": "MIT",
+  "home_page": "https://github.com/adsharma/py2many",
+  "download_filename": "py2many-0.8-py3-none-any.whl",
+  "download_time": "2026-02-19T15:30:39.893559",
+  "package_url": "https://pypi.org/project/py2many/"
+}

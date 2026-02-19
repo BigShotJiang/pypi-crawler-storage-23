@@ -1,0 +1,11 @@
+{
+  "name": "datashield",
+  "version": "0.3.0",
+  "summary": "DataSHIELD Client Interface in Python.",
+  "author": null,
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "datashield-0.3.0.tar.gz",
+  "download_time": "2026-02-19T15:30:04.126214",
+  "package_url": "https://pypi.org/project/datashield/"
+}

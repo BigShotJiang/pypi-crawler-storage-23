@@ -1,0 +1,11 @@
+{
+  "name": "Werkzeug",
+  "version": "3.1.6",
+  "summary": "The comprehensive WSGI web application library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "werkzeug-3.1.6.tar.gz",
+  "download_time": "2026-02-19T15:30:35.751963",
+  "package_url": "https://pypi.org/project/Werkzeug/"
+}

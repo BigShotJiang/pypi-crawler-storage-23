@@ -1,0 +1,11 @@
+{
+  "name": "icarus-python3",
+  "version": "1.0.0",
+  "summary": "IcarusPython3 is the Python3 build system for first-party Python packages in Icarus Builder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icarus_python3-1.0.0.tar.gz",
+  "download_time": "2026-02-19T15:30:14.798770",
+  "package_url": "https://pypi.org/project/icarus-python3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-fsp",
+  "version": "0.5.2",
+  "summary": "Filter, Sort, and Paginate (FSP) utilities for FastAPI + SQLModel",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_fsp-0.5.2.tar.gz",
+  "download_time": "2026-02-19T15:30:40.932005",
+  "package_url": "https://pypi.org/project/fastapi-fsp/"
+}
