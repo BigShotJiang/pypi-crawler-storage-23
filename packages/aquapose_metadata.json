@@ -1,0 +1,11 @@
+{
+  "name": "aquapose",
+  "version": "1.0.0",
+  "summary": "3D fish pose estimation via differentiable refractive rendering",
+  "author": "Tucker Lancaster",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aquapose-1.0.0.tar.gz",
+  "download_time": "2026-02-19T21:55:15.059261",
+  "package_url": "https://pypi.org/project/aquapose/"
+}

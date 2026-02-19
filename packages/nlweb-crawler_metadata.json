@@ -1,0 +1,11 @@
+{
+  "name": "nlweb-crawler",
+  "version": "0.7.1",
+  "summary": "NLWeb Crawler - Web crawling and indexing service",
+  "author": "nlweb-ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlweb_crawler-0.7.1.tar.gz",
+  "download_time": "2026-02-19T21:55:42.083089",
+  "package_url": "https://pypi.org/project/nlweb-crawler/"
+}

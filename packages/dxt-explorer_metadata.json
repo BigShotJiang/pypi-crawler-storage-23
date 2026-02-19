@@ -1,0 +1,11 @@
+{
+  "name": "dxt-explorer",
+  "version": "0.4",
+  "summary": "DXT Explorer is an interactive web-based log analysis tool to visualize Darshan DXT logs and help understand the I/O behavior.",
+  "author": "Jean Luca Bez, Hammad Ather, Suren Byna",
+  "license": null,
+  "home_page": "https://github.com/hpc-io/dxt-explorer",
+  "download_filename": "dxt_explorer-0.4.tar.gz",
+  "download_time": "2026-02-19T21:55:31.220605",
+  "package_url": "https://pypi.org/project/dxt-explorer/"
+}

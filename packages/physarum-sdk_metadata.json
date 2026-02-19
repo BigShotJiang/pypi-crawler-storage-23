@@ -1,0 +1,11 @@
+{
+  "name": "physarum-sdk",
+  "version": "0.2.4",
+  "summary": "Physarum Intelligence Network Python SDK — MCP tool routing, model selection, and cost optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "physarum_sdk-0.2.4.tar.gz",
+  "download_time": "2026-02-19T21:55:25.010918",
+  "package_url": "https://pypi.org/project/physarum-sdk/"
+}

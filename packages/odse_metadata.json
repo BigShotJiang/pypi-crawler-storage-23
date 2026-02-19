@@ -1,0 +1,11 @@
+{
+  "name": "odse",
+  "version": "0.4.0",
+  "summary": "Open Data Schema for Energy - validation and transformation library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "odse-0.4.0.tar.gz",
+  "download_time": "2026-02-19T21:55:43.619654",
+  "package_url": "https://pypi.org/project/odse/"
+}

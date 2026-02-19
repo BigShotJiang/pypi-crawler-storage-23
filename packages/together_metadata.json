@@ -1,0 +1,11 @@
+{
+  "name": "together",
+  "version": "2.2.0",
+  "summary": "The official Python library for the together API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "together-2.2.0.tar.gz",
+  "download_time": "2026-02-19T21:55:41.563074",
+  "package_url": "https://pypi.org/project/together/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opennexus",
+  "version": "0.1.4",
+  "summary": "Python launcher for the opennexus CLI",
+  "author": "Piotr Yordanov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opennexus-0.1.4.tar.gz",
+  "download_time": "2026-02-19T21:55:23.953171",
+  "package_url": "https://pypi.org/project/opennexus/"
+}

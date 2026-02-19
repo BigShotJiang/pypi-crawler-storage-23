@@ -1,0 +1,11 @@
+{
+  "name": "prelude-sdk",
+  "version": "2.6.44",
+  "summary": "For interacting with the Prelude API",
+  "author": "Prelude Research",
+  "license": null,
+  "home_page": "https://github.com/preludeorg",
+  "download_filename": "prelude_sdk-2.6.44.tar.gz",
+  "download_time": "2026-02-19T21:55:49.318566",
+  "package_url": "https://pypi.org/project/prelude-sdk/"
+}

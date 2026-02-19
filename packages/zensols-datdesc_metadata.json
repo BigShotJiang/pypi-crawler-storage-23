@@ -1,0 +1,11 @@
+{
+  "name": "zensols-datdesc",
+  "version": "1.4.4",
+  "summary": "This API and command line program describes data in tables with metadata and generate LaTeX tables in a `.sty` file from CSV files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_datdesc-1.4.4-py3-none-any.whl",
+  "download_time": "2026-02-19T21:55:35.855542",
+  "package_url": "https://pypi.org/project/zensols-datdesc/"
+}

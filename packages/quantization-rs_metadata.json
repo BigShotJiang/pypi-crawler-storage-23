@@ -1,11 +1,11 @@
 {
   "name": "quantization-rs",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Neural network quantization toolkit for ONNX models",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/AR-Kamal/quantize-rs",
-  "download_filename": "quantization_rs-0.5.0.tar.gz",
-  "download_time": "2026-02-18T15:33:47.538079",
+  "download_filename": "quantization_rs-0.6.0.tar.gz",
+  "download_time": "2026-02-19T21:55:53.992453",
   "package_url": "https://pypi.org/project/quantization-rs/"
 }

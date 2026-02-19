@@ -1,0 +1,11 @@
+{
+  "name": "pantheon-streamlit-javascript",
+  "version": "1.42.1",
+  "summary": "component to run javascript code in streamlit application",
+  "author": "Alexander Balasch & Strings",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pantheon_streamlit_javascript-1.42.1.tar.gz",
+  "download_time": "2026-02-19T21:55:22.394972",
+  "package_url": "https://pypi.org/project/pantheon-streamlit-javascript/"
+}

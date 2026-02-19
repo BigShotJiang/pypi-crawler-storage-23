@@ -1,0 +1,11 @@
+{
+  "name": "devpy-cli",
+  "version": "1.0.2",
+  "summary": "AI-powered DevOps CLI Assistant for local and remote Docker management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devpy_cli-1.0.2.tar.gz",
+  "download_time": "2026-02-19T21:55:15.572321",
+  "package_url": "https://pypi.org/project/devpy-cli/"
+}
