@@ -1,0 +1,11 @@
+{
+  "name": "llm-gemini",
+  "version": "0.29",
+  "summary": "LLM plugin to access Google's Gemini family of models",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_gemini-0.29.tar.gz",
+  "download_time": "2026-02-19T18:06:39.152672",
+  "package_url": "https://pypi.org/project/llm-gemini/"
+}

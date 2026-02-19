@@ -1,0 +1,11 @@
+{
+  "name": "VocabMaster",
+  "version": "0.3.0",
+  "summary": "Master new languages with this CLI tool, designed to help you record vocabulary and create Anki flashcards without the need to manually input translations or example sentences.",
+  "author": "Sébastien De Revière",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vocabmaster-0.3.0.tar.gz",
+  "download_time": "2026-02-19T18:06:51.822055",
+  "package_url": "https://pypi.org/project/VocabMaster/"
+}

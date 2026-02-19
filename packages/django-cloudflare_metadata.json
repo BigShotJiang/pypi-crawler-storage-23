@@ -1,0 +1,11 @@
+{
+  "name": "django-cloudflare",
+  "version": "1.0.0",
+  "summary": "A middleware for Django applications using Cloudflare as a proxy. Allows you to extract and access CF headers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_cloudflare-1.0.0.tar.gz",
+  "download_time": "2026-02-19T18:06:28.726944",
+  "package_url": "https://pypi.org/project/django-cloudflare/"
+}

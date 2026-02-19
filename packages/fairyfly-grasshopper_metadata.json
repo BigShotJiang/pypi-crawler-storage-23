@@ -1,0 +1,11 @@
+{
+  "name": "fairyfly-grasshopper",
+  "version": "0.4.2",
+  "summary": "Fairyfly plugin for Grasshopper.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/fairyfly-grasshopper",
+  "download_filename": "fairyfly_grasshopper-0.4.2.tar.gz",
+  "download_time": "2026-02-19T18:06:54.499706",
+  "package_url": "https://pypi.org/project/fairyfly-grasshopper/"
+}

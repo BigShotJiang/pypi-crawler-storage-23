@@ -1,0 +1,11 @@
+{
+  "name": "pwa-launcher",
+  "version": "1.2.3",
+  "summary": "Cross-platform PWA launcher using Chromium",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pwa_launcher-1.2.3.tar.gz",
+  "download_time": "2026-02-19T18:06:58.329370",
+  "package_url": "https://pypi.org/project/pwa-launcher/"
+}

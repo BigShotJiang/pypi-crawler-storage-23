@@ -1,0 +1,11 @@
+{
+  "name": "alphagenome-ft",
+  "version": "0.1.1",
+  "summary": "Finetuning utilities for AlphaGenome with custom heads and parameter freezing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphagenome_ft-0.1.1.tar.gz",
+  "download_time": "2026-02-19T18:06:35.514782",
+  "package_url": "https://pypi.org/project/alphagenome-ft/"
+}

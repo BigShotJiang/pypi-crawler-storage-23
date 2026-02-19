@@ -1,0 +1,11 @@
+{
+  "name": "apprentice-ai",
+  "version": "0.2.0",
+  "summary": "Adaptive model distillation with coaching — progressively replace expensive API calls with a fine-tuned local model",
+  "author": "Jeremy McEntire",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apprentice_ai-0.2.0.tar.gz",
+  "download_time": "2026-02-19T18:06:20.979852",
+  "package_url": "https://pypi.org/project/apprentice-ai/"
+}

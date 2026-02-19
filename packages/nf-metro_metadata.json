@@ -1,0 +1,11 @@
+{
+  "name": "nf-metro",
+  "version": "0.4.0",
+  "summary": "Generate metro-map-style SVG diagrams from Mermaid graph definitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nf_metro-0.4.0.tar.gz",
+  "download_time": "2026-02-19T18:06:16.853234",
+  "package_url": "https://pypi.org/project/nf-metro/"
+}

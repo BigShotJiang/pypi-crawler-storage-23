@@ -1,11 +1,11 @@
 {
   "name": "mujoco-blueprints",
-  "version": "0.0.1",
-  "summary": null,
+  "version": "0.0.4",
+  "summary": "Blueprints is a Mujoco interface providing many graph manipulation operations and easy runtime data access.",
   "author": "Mortimer von Chappuis",
   "license": null,
-  "home_page": null,
-  "download_filename": "mujoco_blueprints-0.0.1.tar.gz",
-  "download_time": "2026-02-19T12:39:00.934614",
+  "home_page": "https://mujoco-blueprints.readthedocs.io/en/latest/index.html",
+  "download_filename": "mujoco_blueprints-0.0.4.tar.gz",
+  "download_time": "2026-02-19T18:06:52.886797",
   "package_url": "https://pypi.org/project/mujoco-blueprints/"
 }

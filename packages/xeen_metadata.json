@@ -1,11 +1,11 @@
 {
   "name": "xeen",
-  "version": "0.1.5",
-  "summary": "Screenshot capture → edit → crop → publish. One command: xen",
+  "version": "0.1.12",
+  "summary": "Screenshot capture → edit → crop → publish. One command: xeen",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xeen-0.1.5.tar.gz",
-  "download_time": "2026-02-19T16:14:05.991224",
+  "download_filename": "xeen-0.1.12.tar.gz",
+  "download_time": "2026-02-19T18:06:38.578824",
   "package_url": "https://pypi.org/project/xeen/"
 }

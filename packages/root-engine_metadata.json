@@ -1,11 +1,11 @@
 {
   "name": "root-engine",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A lightweight personal AI assistant framework",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "root_engine-0.1.4.tar.gz",
-  "download_time": "2026-02-19T17:14:35.783673",
+  "download_filename": "root_engine-0.1.6.tar.gz",
+  "download_time": "2026-02-19T18:06:49.020304",
   "package_url": "https://pypi.org/project/root-engine/"
 }

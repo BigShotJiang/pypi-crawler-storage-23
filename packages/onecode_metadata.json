@@ -1,0 +1,11 @@
+{
+  "name": "onecode",
+  "version": "1.2.1",
+  "summary": "Python skeleton and library for OneCode projects",
+  "author": "DeepLime",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onecode-1.2.1.tar.gz",
+  "download_time": "2026-02-19T18:07:03.885018",
+  "package_url": "https://pypi.org/project/onecode/"
+}

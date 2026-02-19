@@ -1,0 +1,11 @@
+{
+  "name": "soma-models",
+  "version": "0.1.1",
+  "summary": "Python model implementations for the Soma network, matching the Rust runtime exactly",
+  "author": "Soma Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "soma_models-0.1.1.tar.gz",
+  "download_time": "2026-02-19T18:06:41.635442",
+  "package_url": "https://pypi.org/project/soma-models/"
+}
