@@ -1,0 +1,11 @@
+{
+  "name": "gandalf-csr",
+  "version": "0.1.6",
+  "summary": "Fast path finding in large knowledge graphs",
+  "author": "Max Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/ranking-agent/gandalf",
+  "download_filename": "gandalf_csr-0.1.6.tar.gz",
+  "download_time": "2026-02-19T20:56:31.493748",
+  "package_url": "https://pypi.org/project/gandalf-csr/"
+}

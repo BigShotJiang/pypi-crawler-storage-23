@@ -1,0 +1,11 @@
+{
+  "name": "npkt",
+  "version": "1.0.0",
+  "summary": "AWS Service Control Policy toolkit: lint, analyze, and simulate SCP impact",
+  "author": "NPKT Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "npkt-1.0.0.tar.gz",
+  "download_time": "2026-02-19T20:56:18.062846",
+  "package_url": "https://pypi.org/project/npkt/"
+}

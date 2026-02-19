@@ -1,0 +1,11 @@
+{
+  "name": "unitgrade",
+  "version": "1.0.0.14",
+  "summary": "A student homework/exam evaluation framework build on pythons unittest framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unitgrade-1.0.0.14.tar.gz",
+  "download_time": "2026-02-19T20:56:28.417126",
+  "package_url": "https://pypi.org/project/unitgrade/"
+}

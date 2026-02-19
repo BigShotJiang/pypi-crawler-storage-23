@@ -1,0 +1,11 @@
+{
+  "name": "ChainForgeLedger",
+  "version": "1.0.0",
+  "summary": "A complete blockchain platform library with PoW/PoS consensus, smart contracts, and DeFi applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chainforgeledger-1.0.0.tar.gz",
+  "download_time": "2026-02-19T20:56:23.726091",
+  "package_url": "https://pypi.org/project/ChainForgeLedger/"
+}

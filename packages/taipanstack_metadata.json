@@ -1,0 +1,11 @@
+{
+  "name": "taipanstack",
+  "version": "0.2.8",
+  "summary": "TaipanStack - Modular, secure, and scalable Python stack for robust development",
+  "author": "gabrielima7",
+  "license": "MIT",
+  "home_page": "https://github.com/gabrielima7/TaipanStack",
+  "download_filename": "taipanstack-0.2.8.tar.gz",
+  "download_time": "2026-02-19T20:56:43.614396",
+  "package_url": "https://pypi.org/project/taipanstack/"
+}

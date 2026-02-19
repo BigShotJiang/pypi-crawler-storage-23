@@ -1,0 +1,11 @@
+{
+  "name": "buildrunner",
+  "version": "3.22.1",
+  "summary": "Docker-based build tool",
+  "author": "Adobe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "buildrunner-3.22.1.tar.gz",
+  "download_time": "2026-02-19T20:56:19.091590",
+  "package_url": "https://pypi.org/project/buildrunner/"
+}
