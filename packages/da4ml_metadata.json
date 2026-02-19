@@ -1,0 +1,11 @@
+{
+  "name": "da4ml",
+  "version": "0.5.2",
+  "summary": "Distributed Arithmetic for Machine Learning",
+  "author": null,
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": null,
+  "download_filename": "da4ml-0.5.2-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-02-19T21:23:14.426930",
+  "package_url": "https://pypi.org/project/da4ml/"
+}

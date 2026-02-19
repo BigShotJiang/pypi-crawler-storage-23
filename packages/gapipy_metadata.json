@@ -1,0 +1,11 @@
+{
+  "name": "gapipy",
+  "version": "2.42.0",
+  "summary": "Python client for the G Adventures REST API",
+  "author": "G Adventures",
+  "license": "MIT",
+  "home_page": "https://github.com/gadventures/gapipy",
+  "download_filename": "gapipy-2.42.0.tar.gz",
+  "download_time": "2026-02-19T21:23:36.226748",
+  "package_url": "https://pypi.org/project/gapipy/"
+}

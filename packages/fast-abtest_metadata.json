@@ -1,0 +1,11 @@
+{
+  "name": "fast-abtest",
+  "version": "0.4.2",
+  "summary": "A fast and lightweight A/B testing library for Python.",
+  "author": "Evgenii Eliseev",
+  "license": "MIT",
+  "home_page": "https://github.com/Gifourm/fast-abtest",
+  "download_filename": "fast_abtest-0.4.2.tar.gz",
+  "download_time": "2026-02-19T21:23:33.141750",
+  "package_url": "https://pypi.org/project/fast-abtest/"
+}

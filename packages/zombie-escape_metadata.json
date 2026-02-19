@@ -1,0 +1,11 @@
+{
+  "name": "zombie-escape",
+  "version": "2.2.2",
+  "summary": "Top-down zombie survival game built with pygame.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zombie_escape-2.2.2.tar.gz",
+  "download_time": "2026-02-19T21:23:18.621741",
+  "package_url": "https://pypi.org/project/zombie-escape/"
+}

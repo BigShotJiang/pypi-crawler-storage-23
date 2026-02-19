@@ -1,0 +1,11 @@
+{
+  "name": "hash-forge",
+  "version": "3.1.0",
+  "summary": "Hash Forge is a lightweight Python library designed to simplify the process of hashing and verifying data using a variety of secure hashing algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hash_forge-3.1.0.tar.gz",
+  "download_time": "2026-02-19T21:23:40.844236",
+  "package_url": "https://pypi.org/project/hash-forge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phantom-docs",
+  "version": "0.2.0",
+  "summary": "Automated documentation asset generation for software projects",
+  "author": "Will Buscombe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phantom_docs-0.2.0.tar.gz",
+  "download_time": "2026-02-19T21:23:38.791193",
+  "package_url": "https://pypi.org/project/phantom-docs/"
+}

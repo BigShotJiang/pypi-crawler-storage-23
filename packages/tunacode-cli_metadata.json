@@ -1,11 +1,11 @@
 {
   "name": "tunacode-cli",
-  "version": "0.1.69",
+  "version": "0.1.70",
   "summary": "Your agentic CLI developer.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tunacode_cli-0.1.69.tar.gz",
-  "download_time": "2026-02-19T19:08:31.675898",
+  "download_filename": "tunacode_cli-0.1.70.tar.gz",
+  "download_time": "2026-02-19T21:23:08.667879",
   "package_url": "https://pypi.org/project/tunacode-cli/"
 }

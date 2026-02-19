@@ -1,0 +1,11 @@
+{
+  "name": "next-django",
+  "version": "0.5.1",
+  "summary": "File-system routing para Django, inspirado no Next.js App Router.",
+  "author": "Guilherme Santos",
+  "license": null,
+  "home_page": "https://github.com/guizeroum/next-django",
+  "download_filename": "next_django-0.5.1.tar.gz",
+  "download_time": "2026-02-19T21:23:05.045817",
+  "package_url": "https://pypi.org/project/next-django/"
+}

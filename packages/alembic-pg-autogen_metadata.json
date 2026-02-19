@@ -1,0 +1,11 @@
+{
+  "name": "alembic-pg-autogen",
+  "version": "0.0.2",
+  "summary": "Alembic autogenerate extension for PostgreSQL-specific objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alembic_pg_autogen-0.0.2.tar.gz",
+  "download_time": "2026-02-19T21:23:04.534016",
+  "package_url": "https://pypi.org/project/alembic-pg-autogen/"
+}

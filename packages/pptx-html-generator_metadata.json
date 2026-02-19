@@ -1,0 +1,11 @@
+{
+  "name": "pptx-html-generator",
+  "version": "0.1.0",
+  "summary": "Generate PowerPoint files from JSON with progressive HTML support.",
+  "author": "PPTX HTML Generator Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pptx_html_generator-0.1.0.tar.gz",
+  "download_time": "2026-02-19T21:23:40.331438",
+  "package_url": "https://pypi.org/project/pptx-html-generator/"
+}

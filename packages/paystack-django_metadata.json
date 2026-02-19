@@ -1,11 +1,11 @@
 {
   "name": "paystack-django",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A comprehensive Django integration for Paystack Payment Gateway",
   "author": "Humming Byte",
   "license": "MIT",
   "home_page": "https://github.com/HummingByteDev/paystack-django",
-  "download_filename": "paystack_django-1.1.0.tar.gz",
-  "download_time": "2026-02-19T20:56:40.524664",
+  "download_filename": "paystack_django-1.1.1.tar.gz",
+  "download_time": "2026-02-19T21:23:08.139563",
   "package_url": "https://pypi.org/project/paystack-django/"
 }
