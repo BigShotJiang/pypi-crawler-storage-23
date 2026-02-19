@@ -1,0 +1,11 @@
+{
+  "name": "dd-embed",
+  "version": "0.1.0",
+  "summary": "Shared embedding model abstraction layer for Digital Duck projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dd_embed-0.1.0.tar.gz",
+  "download_time": "2026-02-19T03:47:04.471194",
+  "package_url": "https://pypi.org/project/dd-embed/"
+}

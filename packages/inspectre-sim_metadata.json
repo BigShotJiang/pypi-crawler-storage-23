@@ -1,0 +1,11 @@
+{
+  "name": "inspectre-sim",
+  "version": "0.9.7",
+  "summary": "High-performance RISC-V cycle-accurate system simulator",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/willmccallion/inspectre",
+  "download_filename": "inspectre_sim-0.9.7.tar.gz",
+  "download_time": "2026-02-19T03:46:22.937451",
+  "package_url": "https://pypi.org/project/inspectre-sim/"
+}

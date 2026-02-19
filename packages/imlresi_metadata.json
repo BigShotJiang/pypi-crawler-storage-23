@@ -1,0 +1,11 @@
+{
+  "name": "imlresi",
+  "version": "0.0.12",
+  "summary": "Tools for dealing with IML-Resi PowerDrill data.",
+  "author": "Jonathan Harrington",
+  "license": "MIT",
+  "home_page": "https://github.com/hammockman/imlresi-pypi",
+  "download_filename": "imlresi-0.0.12.tar.gz",
+  "download_time": "2026-02-19T03:46:55.988068",
+  "package_url": "https://pypi.org/project/imlresi/"
+}

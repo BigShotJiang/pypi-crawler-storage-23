@@ -1,0 +1,11 @@
+{
+  "name": "ataraxis-data-structures",
+  "version": "6.0.0",
+  "summary": "Provides classes and structures for storing, manipulating, and sharing data between Python processes.",
+  "author": "Ivan Kondratyev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ataraxis_data_structures-6.0.0.tar.gz",
+  "download_time": "2026-02-19T03:46:49.698929",
+  "package_url": "https://pypi.org/project/ataraxis-data-structures/"
+}

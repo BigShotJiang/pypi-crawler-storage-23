@@ -1,0 +1,11 @@
+{
+  "name": "MsTargetPeaker",
+  "version": "0.3.6",
+  "summary": "A peak-searching procedure to identify optimal chromatographic peak regions for peak integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mstargetpeaker-0.3.6.tar.gz",
+  "download_time": "2026-02-19T03:46:57.586944",
+  "package_url": "https://pypi.org/project/MsTargetPeaker/"
+}

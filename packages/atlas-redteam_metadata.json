@@ -1,11 +1,11 @@
 {
   "name": "atlas-redteam",
-  "version": "2.0.0a1.dev29",
+  "version": "2.0.0a1.dev33",
   "summary": "Next-generation AWS Cloud Adversary Emulation platform",
   "author": "Omar",
   "license": null,
   "home_page": null,
-  "download_filename": "atlas_redteam-2.0.0a1.dev29.tar.gz",
-  "download_time": "2026-02-18T21:57:20.700530",
+  "download_filename": "atlas_redteam-2.0.0a1.dev33.tar.gz",
+  "download_time": "2026-02-19T03:46:38.768844",
   "package_url": "https://pypi.org/project/atlas-redteam/"
 }

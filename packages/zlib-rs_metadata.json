@@ -1,0 +1,11 @@
+{
+  "name": "zlib-rs",
+  "version": "0.1.2",
+  "summary": "High-performance, memory-safe Python bindings for zlib-rs (Rust). Up to 22x faster than CPython zlib.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zlib_rs-0.1.2.tar.gz",
+  "download_time": "2026-02-19T03:46:41.895258",
+  "package_url": "https://pypi.org/project/zlib-rs/"
+}

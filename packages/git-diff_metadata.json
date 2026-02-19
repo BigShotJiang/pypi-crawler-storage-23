@@ -1,0 +1,11 @@
+{
+  "name": "git-diff",
+  "version": "0.1.0",
+  "summary": "Beautiful git viewer in your browser — like GitHub, but local. Diffs, history, blame, compare branches/SHAs, contributors, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_diff-0.1.0.tar.gz",
+  "download_time": "2026-02-19T03:46:46.582640",
+  "package_url": "https://pypi.org/project/git-diff/"
+}

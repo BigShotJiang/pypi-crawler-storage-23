@@ -1,0 +1,11 @@
+{
+  "name": "csvdb-py",
+  "version": "0.2.17",
+  "summary": "Python bindings for csvdb: convert between SQLite, DuckDB, CSV, and Parquet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csvdb_py-0.2.17.tar.gz",
+  "download_time": "2026-02-19T03:46:42.416180",
+  "package_url": "https://pypi.org/project/csvdb-py/"
+}

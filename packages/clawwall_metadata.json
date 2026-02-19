@@ -1,0 +1,11 @@
+{
+  "name": "clawwall",
+  "version": "0.2.1",
+  "summary": "Outbound DLP for OpenClaw — hard regex blocks secrets & PII from leaving the machine. Domain control, no LLM.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Stanxy/clawguard",
+  "download_filename": "clawwall-0.2.1.tar.gz",
+  "download_time": "2026-02-19T03:46:44.487998",
+  "package_url": "https://pypi.org/project/clawwall/"
+}
