@@ -1,0 +1,11 @@
+{
+  "name": "prefactor-http",
+  "version": "0.1.0",
+  "summary": "HTTP client library for Prefactor API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prefactor_http-0.1.0.tar.gz",
+  "download_time": "2026-02-19T23:25:13.179221",
+  "package_url": "https://pypi.org/project/prefactor-http/"
+}

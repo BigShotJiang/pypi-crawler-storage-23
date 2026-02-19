@@ -1,11 +1,11 @@
 {
   "name": "testrail-api-module",
-  "version": "0.6.6",
+  "version": "0.7.0",
   "summary": "A comprehensive Python wrapper for the TestRail API with enhanced error handling and performance improvements",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testrail_api_module-0.6.6.tar.gz",
-  "download_time": "2026-02-19T21:55:12.470087",
+  "download_filename": "testrail_api_module-0.7.0.tar.gz",
+  "download_time": "2026-02-19T23:24:43.679368",
   "package_url": "https://pypi.org/project/testrail-api-module/"
 }

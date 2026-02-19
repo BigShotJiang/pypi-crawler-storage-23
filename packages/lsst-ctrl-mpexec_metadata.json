@@ -1,0 +1,11 @@
+{
+  "name": "lsst-ctrl-mpexec",
+  "version": "30.2026.500",
+  "summary": "Pipeline execution infrastructure for the Rubin Observatory LSST Science Pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_ctrl_mpexec-30.2026.500.tar.gz",
+  "download_time": "2026-02-19T23:24:58.237262",
+  "package_url": "https://pypi.org/project/lsst-ctrl-mpexec/"
+}

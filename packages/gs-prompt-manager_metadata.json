@@ -1,0 +1,11 @@
+{
+  "name": "gs-prompt-manager",
+  "version": "0.0.5",
+  "summary": "A lightweight Python package for managing and organizing prompt templates with auto-discovery and variable substitution.",
+  "author": "Guan Huang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gs_prompt_manager-0.0.5.tar.gz",
+  "download_time": "2026-02-19T23:25:08.602295",
+  "package_url": "https://pypi.org/project/gs-prompt-manager/"
+}

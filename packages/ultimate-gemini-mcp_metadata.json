@@ -1,0 +1,11 @@
+{
+  "name": "ultimate-gemini-mcp",
+  "version": "3.0.18",
+  "summary": "Gemini 3 Pro Image MCP server with advanced features: high-resolution output (1K-4K), reference images (up to 14), Google Search grounding, and thinking mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ultimate_gemini_mcp-3.0.18-py3-none-any.whl",
+  "download_time": "2026-02-19T23:24:41.286184",
+  "package_url": "https://pypi.org/project/ultimate-gemini-mcp/"
+}

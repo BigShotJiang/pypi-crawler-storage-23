@@ -1,0 +1,11 @@
+{
+  "name": "agentsteer",
+  "version": "0.2.0",
+  "summary": "Runtime protection for AI coding agents",
+  "author": "Ram Rachum",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentsteer-0.2.0.tar.gz",
+  "download_time": "2026-02-19T23:25:14.375784",
+  "package_url": "https://pypi.org/project/agentsteer/"
+}

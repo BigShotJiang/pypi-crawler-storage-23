@@ -1,0 +1,11 @@
+{
+  "name": "simpleml-auronss",
+  "version": "0.1.0",
+  "summary": "A lightweight, educational scikit-learn-like machine learning library",
+  "author": "Serge Auronss Gbaguidi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simpleml_auronss-0.1.0.tar.gz",
+  "download_time": "2026-02-19T23:25:10.857864",
+  "package_url": "https://pypi.org/project/simpleml-auronss/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "noscroll",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Pull, don't scroll. RSS aggregator with LLM-powered summarization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noscroll-0.1.5.tar.gz",
-  "download_time": "2026-02-19T22:58:09.074002",
+  "download_filename": "noscroll-0.1.6.tar.gz",
+  "download_time": "2026-02-19T23:24:46.652218",
   "package_url": "https://pypi.org/project/noscroll/"
 }

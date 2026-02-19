@@ -1,0 +1,11 @@
+{
+  "name": "altiusone-ai",
+  "version": "1.2.2",
+  "summary": "Python SDK for AltiusOne AI Service - OCR, Embeddings, Chat, and Extraction",
+  "author": "Altius Academy SNC",
+  "license": null,
+  "home_page": "https://github.com/akouni/altiusoneai",
+  "download_filename": "altiusone_ai-1.2.2.tar.gz",
+  "download_time": "2026-02-19T23:24:55.951146",
+  "package_url": "https://pypi.org/project/altiusone-ai/"
+}

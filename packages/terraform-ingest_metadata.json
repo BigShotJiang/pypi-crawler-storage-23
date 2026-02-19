@@ -1,0 +1,11 @@
+{
+  "name": "terraform-ingest",
+  "version": "0.1.22",
+  "summary": "A terraform multi-repo module AI RAG ingestion engine that accepts a YAML file of terraform git repository sources, downloads them locally using existing credentials, creates JSON summaries of their purpose, inputs, outputs, and providers on the main and git tag branches for ingestion via a RAG pipeline into a vector database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terraform_ingest-0.1.22.tar.gz",
+  "download_time": "2026-02-19T23:25:31.169447",
+  "package_url": "https://pypi.org/project/terraform-ingest/"
+}

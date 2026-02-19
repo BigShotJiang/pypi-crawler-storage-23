@@ -1,11 +1,11 @@
 {
   "name": "vibefoundry",
-  "version": "0.1.166",
+  "version": "0.1.168",
   "summary": "A local IDE for data science workflows with script running, metadata generation, and GitHub Codespace sync",
   "author": "VibeFoundry",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibefoundry-0.1.166.tar.gz",
-  "download_time": "2026-02-18T20:56:22.574419",
+  "download_filename": "vibefoundry-0.1.168.tar.gz",
+  "download_time": "2026-02-19T23:24:45.501396",
   "package_url": "https://pypi.org/project/vibefoundry/"
 }

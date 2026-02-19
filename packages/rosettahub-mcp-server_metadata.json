@@ -1,11 +1,11 @@
 {
   "name": "rosettahub-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for managing RosettaHUB student AWS cloud accounts via SOAP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rosettahub_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-02-19T22:57:32.911064",
+  "download_filename": "rosettahub_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-19T23:25:17.176748",
   "package_url": "https://pypi.org/project/rosettahub-mcp-server/"
 }

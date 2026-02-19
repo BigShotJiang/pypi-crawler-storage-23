@@ -1,11 +1,11 @@
 {
   "name": "pyreplab",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "Persistent Python REPL for LLM CLI tools",
   "author": "Zhimin Zou",
   "license": null,
   "home_page": null,
-  "download_filename": "pyreplab-0.3.5.tar.gz",
-  "download_time": "2026-02-19T21:55:51.397118",
+  "download_filename": "pyreplab-0.3.7.tar.gz",
+  "download_time": "2026-02-19T23:24:47.829312",
   "package_url": "https://pypi.org/project/pyreplab/"
 }

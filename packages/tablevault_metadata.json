@@ -1,0 +1,11 @@
+{
+  "name": "tablevault",
+  "version": "0.2.1",
+  "summary": "Centralized data repository for cross-process data filtering in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tablevault-0.2.1.tar.gz",
+  "download_time": "2026-02-19T23:25:23.110517",
+  "package_url": "https://pypi.org/project/tablevault/"
+}
