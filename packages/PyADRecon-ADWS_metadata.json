@@ -1,11 +1,11 @@
 {
   "name": "PyADRecon-ADWS",
-  "version": "0.3.1",
+  "version": "0.3.5",
   "summary": "Python Active Directory Reconnaissance Tool (ADRecon port) using ADWS with NTLM support.",
   "author": "LRVT",
   "license": null,
   "home_page": null,
-  "download_filename": "pyadrecon_adws-0.3.1-py3-none-any.whl",
-  "download_time": "2026-02-19T01:11:37.144789",
+  "download_filename": "pyadrecon_adws-0.3.5-py3-none-any.whl",
+  "download_time": "2026-02-19T09:04:18.346536",
   "package_url": "https://pypi.org/project/PyADRecon-ADWS/"
 }

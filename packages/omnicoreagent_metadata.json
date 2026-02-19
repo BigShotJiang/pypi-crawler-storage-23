@@ -1,0 +1,11 @@
+{
+  "name": "omnicoreagent",
+  "version": "0.3.8",
+  "summary": "OmniCoreAgent is a powerful Python AI Agent framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnicoreagent-0.3.8.tar.gz",
+  "download_time": "2026-02-19T09:04:15.656047",
+  "package_url": "https://pypi.org/project/omnicoreagent/"
+}

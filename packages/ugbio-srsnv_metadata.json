@@ -1,0 +1,11 @@
+{
+  "name": "ugbio-srsnv",
+  "version": "1.21.2",
+  "summary": "Ultima Genomics SRSNV utils",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ugbio_srsnv-1.21.2.tar.gz",
+  "download_time": "2026-02-19T09:04:04.683902",
+  "package_url": "https://pypi.org/project/ugbio-srsnv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "artifactr",
+  "version": "0.3.0",
+  "summary": "Manage AI artifacts across multiple configurations, tools, & repositories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "artifactr-0.3.0.tar.gz",
+  "download_time": "2026-02-19T09:04:14.619059",
+  "package_url": "https://pypi.org/project/artifactr/"
+}

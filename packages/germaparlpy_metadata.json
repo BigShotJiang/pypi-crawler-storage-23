@@ -1,0 +1,11 @@
+{
+  "name": "germaparlpy",
+  "version": "1.0.6",
+  "summary": "The GermaParlPy Python package provides functionality to deserialize, serialize, manage, and query the GermaParlTEI corpus and derived corpora.",
+  "author": "Marlon-Benedikt George",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "germaparlpy-1.0.6.tar.gz",
+  "download_time": "2026-02-19T09:04:25.187783",
+  "package_url": "https://pypi.org/project/germaparlpy/"
+}

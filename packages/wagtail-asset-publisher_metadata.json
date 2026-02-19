@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-asset-publisher",
+  "version": "0.2.0",
+  "summary": "Publish page-level CSS/JS assets from Wagtail CMS to static storage with optional Tailwind CSS JIT compilation",
+  "author": "kkm-horikawa",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wagtail_asset_publisher-0.2.0.tar.gz",
+  "download_time": "2026-02-19T09:04:02.526117",
+  "package_url": "https://pypi.org/project/wagtail-asset-publisher/"
+}

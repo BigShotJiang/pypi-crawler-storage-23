@@ -1,0 +1,11 @@
+{
+  "name": "is-42",
+  "version": "0.1.0",
+  "summary": "The ultimate answer detection package. Detects 42 in any conceivable form.",
+  "author": "is-42 contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "is_42-0.1.0.tar.gz",
+  "download_time": "2026-02-19T09:04:29.827239",
+  "package_url": "https://pypi.org/project/is-42/"
+}

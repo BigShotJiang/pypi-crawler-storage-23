@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-mr-commenter",
+  "version": "2.0.3",
+  "summary": "Post and idempotently update comments on GitLab merge requests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitlab_mr_commenter-2.0.3.tar.gz",
+  "download_time": "2026-02-19T09:04:19.878576",
+  "package_url": "https://pypi.org/project/gitlab-mr-commenter/"
+}

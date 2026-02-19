@@ -1,0 +1,11 @@
+{
+  "name": "lsst-dax-obscore",
+  "version": "30.2026.800",
+  "summary": "Conversion of Butler datasets to ObsCore format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_dax_obscore-30.2026.800.tar.gz",
+  "download_time": "2026-02-19T09:04:39.712910",
+  "package_url": "https://pypi.org/project/lsst-dax-obscore/"
+}

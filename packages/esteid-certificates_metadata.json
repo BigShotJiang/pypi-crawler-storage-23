@@ -1,0 +1,11 @@
+{
+  "name": "esteid-certificates",
+  "version": "1.0.5",
+  "summary": "Certificates for Estonian e-identity services",
+  "author": "Thorgate",
+  "license": "ISC",
+  "home_page": "https://github.com/thorgate/esteid-certificates",
+  "download_filename": "esteid_certificates-1.0.5.tar.gz",
+  "download_time": "2026-02-19T09:04:41.295521",
+  "package_url": "https://pypi.org/project/esteid-certificates/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edms-client-api",
+  "version": "1.2.0",
+  "summary": "EDMS Client Api",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edms_client_api-1.2.0.tar.gz",
+  "download_time": "2026-02-19T09:04:48.036752",
+  "package_url": "https://pypi.org/project/edms-client-api/"
+}

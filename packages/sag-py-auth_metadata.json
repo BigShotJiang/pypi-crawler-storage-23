@@ -1,0 +1,11 @@
+{
+  "name": "sag-py-auth",
+  "version": "1.2.5",
+  "summary": "Keycloak authentication for python projects",
+  "author": "Samhammer AG",
+  "license": "MIT",
+  "home_page": "https://github.com/SamhammerAG/sag_py_auth",
+  "download_filename": "sag_py_auth-1.2.5.tar.gz",
+  "download_time": "2026-02-19T09:04:34.578250",
+  "package_url": "https://pypi.org/project/sag-py-auth/"
+}
