@@ -1,11 +1,11 @@
 {
   "name": "opentargets-otter",
-  "version": "26.0.0",
+  "version": "26.0.1",
   "summary": "Open Targets Task ExcutoR",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentargets_otter-26.0.0.tar.gz",
-  "download_time": "2026-02-18T13:53:35.943080",
+  "download_filename": "opentargets_otter-26.0.1.tar.gz",
+  "download_time": "2026-02-19T16:14:07.090988",
   "package_url": "https://pypi.org/project/opentargets-otter/"
 }

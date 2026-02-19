@@ -1,0 +1,11 @@
+{
+  "name": "geonames_tagger",
+  "version": "1.0.2",
+  "summary": "followthemoney query dsl and io helpers",
+  "author": "OCCRP Data Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geonames_tagger-1.0.2.tar.gz",
+  "download_time": "2026-02-19T16:14:08.246419",
+  "package_url": "https://pypi.org/project/geonames_tagger/"
+}

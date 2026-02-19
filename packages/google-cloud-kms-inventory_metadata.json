@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-kms-inventory",
+  "version": "0.5.0",
+  "summary": "Google Cloud Kms Inventory API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-kms-inventory",
+  "download_filename": "google_cloud_kms_inventory-0.5.0.tar.gz",
+  "download_time": "2026-02-19T16:14:27.435224",
+  "package_url": "https://pypi.org/project/google-cloud-kms-inventory/"
+}

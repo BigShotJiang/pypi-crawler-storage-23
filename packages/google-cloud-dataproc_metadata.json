@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-dataproc",
+  "version": "5.25.0",
+  "summary": "Google Cloud Dataproc API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dataproc",
+  "download_filename": "google_cloud_dataproc-5.25.0.tar.gz",
+  "download_time": "2026-02-19T16:14:23.518201",
+  "package_url": "https://pypi.org/project/google-cloud-dataproc/"
+}

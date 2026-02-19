@@ -1,0 +1,11 @@
+{
+  "name": "syn-commodore",
+  "version": "1.32.0",
+  "summary": "Commodore provides opinionated tenant-aware management of Kapitan inventories and templates. Commodore uses Kapitan for the heavy lifting of rendering templates and resolving a hierachical configuration structure.",
+  "author": "VSHN AG",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "syn_commodore-1.32.0.tar.gz",
+  "download_time": "2026-02-19T16:14:33.512672",
+  "package_url": "https://pypi.org/project/syn-commodore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clerk-backend-api",
+  "version": "5.0.2",
+  "summary": "Python Client SDK for clerk.dev",
+  "author": "Clerk",
+  "license": null,
+  "home_page": "https://github.com/clerk/clerk-sdk-python.git",
+  "download_filename": "clerk_backend_api-5.0.2.tar.gz",
+  "download_time": "2026-02-19T16:14:14.776767",
+  "package_url": "https://pypi.org/project/clerk-backend-api/"
+}

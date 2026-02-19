@@ -1,0 +1,11 @@
+{
+  "name": "pymetranet",
+  "version": "0.4.0",
+  "summary": "Python Metranet library",
+  "author": "Eldes",
+  "license": "BSD-3-Clause license",
+  "home_page": "https://www.eldesradar.com",
+  "download_filename": "pymetranet-0.4.0.tar.gz",
+  "download_time": "2026-02-19T16:14:30.766653",
+  "package_url": "https://pypi.org/project/pymetranet/"
+}

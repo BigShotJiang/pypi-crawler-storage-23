@@ -1,0 +1,11 @@
+{
+  "name": "typeguard",
+  "version": "4.5.1",
+  "summary": "Run-time type checker for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typeguard-4.5.1.tar.gz",
+  "download_time": "2026-02-19T16:14:04.327645",
+  "package_url": "https://pypi.org/project/typeguard/"
+}

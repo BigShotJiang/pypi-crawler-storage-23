@@ -1,0 +1,11 @@
+{
+  "name": "scdataloader",
+  "version": "2.1.2",
+  "summary": "a dataloader for single cell data in lamindb",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scdataloader-2.1.2.tar.gz",
+  "download_time": "2026-02-19T16:14:02.608693",
+  "package_url": "https://pypi.org/project/scdataloader/"
+}

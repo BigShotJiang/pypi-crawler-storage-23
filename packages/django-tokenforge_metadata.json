@@ -1,0 +1,11 @@
+{
+  "name": "django-tokenforge",
+  "version": "1.0.0",
+  "summary": "Stateless Bearer token authentication for Django REST Framework — HMAC-SHA256 access tokens, rotating refresh tokens with replay detection, and cross-subdomain exchange tokens.",
+  "author": "Oluwatosin Amokeodo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tokenforge-1.0.0.tar.gz",
+  "download_time": "2026-02-19T16:14:19.624875",
+  "package_url": "https://pypi.org/project/django-tokenforge/"
+}

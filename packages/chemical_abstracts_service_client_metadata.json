@@ -1,0 +1,11 @@
+{
+  "name": "chemical_abstracts_service_client",
+  "version": "0.0.1",
+  "summary": "An API client to the Chemical Abstracts Service (CAS)",
+  "author": "Charles Tapley Hoyt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemical_abstracts_service_client-0.0.1.tar.gz",
+  "download_time": "2026-02-19T16:14:09.684768",
+  "package_url": "https://pypi.org/project/chemical_abstracts_service_client/"
+}

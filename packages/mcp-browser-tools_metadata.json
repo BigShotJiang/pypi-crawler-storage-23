@@ -1,0 +1,11 @@
+{
+  "name": "mcp-browser-tools",
+  "version": "0.2.2",
+  "summary": "MCP服务器提供浏览器自动化功能，帮助AI模型获取网页信息",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_browser_tools-0.2.2.tar.gz",
+  "download_time": "2026-02-19T16:14:15.860054",
+  "package_url": "https://pypi.org/project/mcp-browser-tools/"
+}

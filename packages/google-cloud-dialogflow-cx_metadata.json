@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-dialogflow-cx",
+  "version": "2.4.0",
+  "summary": "Google Cloud Dialogflow Cx API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dialogflow-cx",
+  "download_filename": "google_cloud_dialogflow_cx-2.4.0.tar.gz",
+  "download_time": "2026-02-19T16:14:26.906913",
+  "package_url": "https://pypi.org/project/google-cloud-dialogflow-cx/"
+}
