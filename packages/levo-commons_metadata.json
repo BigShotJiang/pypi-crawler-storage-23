@@ -1,0 +1,11 @@
+{
+  "name": "levo-commons",
+  "version": "0.2.30",
+  "summary": "Common code between Levo CLI and test plans.",
+  "author": "Levo Inc",
+  "license": null,
+  "home_page": "https://github.com/levoai/levo-commons",
+  "download_filename": "levo_commons-0.2.30.tar.gz",
+  "download_time": "2026-02-19T07:37:15.022495",
+  "package_url": "https://pypi.org/project/levo-commons/"
+}

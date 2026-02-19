@@ -1,0 +1,11 @@
+{
+  "name": "upnext",
+  "version": "0.0.3",
+  "summary": "Background jobs and APIs for Python. Like Modal, but self-hostable.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upnext-0.0.3.tar.gz",
+  "download_time": "2026-02-19T07:36:52.130808",
+  "package_url": "https://pypi.org/project/upnext/"
+}

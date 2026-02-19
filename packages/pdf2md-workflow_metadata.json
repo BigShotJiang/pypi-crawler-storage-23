@@ -1,0 +1,11 @@
+{
+  "name": "pdf2md-workflow",
+  "version": "0.1.0",
+  "summary": "A componentized PDF to Markdown conversion workflow",
+  "author": "Drehabwen",
+  "license": "MIT",
+  "home_page": "https://github.com/Drehabwen/Openrehab-vibepaper-read",
+  "download_filename": "pdf2md_workflow-0.1.0.tar.gz",
+  "download_time": "2026-02-19T07:36:54.190500",
+  "package_url": "https://pypi.org/project/pdf2md-workflow/"
+}

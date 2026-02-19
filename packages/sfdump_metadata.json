@@ -1,0 +1,11 @@
+{
+  "name": "sfdump",
+  "version": "2.7.2",
+  "summary": "Salesforce data export and archival tool with verification, SQLite database, and Streamlit viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfdump-2.7.2.tar.gz",
+  "download_time": "2026-02-19T07:37:02.460720",
+  "package_url": "https://pypi.org/project/sfdump/"
+}

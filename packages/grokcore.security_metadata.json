@@ -1,0 +1,11 @@
+{
+  "name": "grokcore.security",
+  "version": "5.1",
+  "summary": "Grok-like configuration for Zope security components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grokcore_security-5.1.tar.gz",
+  "download_time": "2026-02-19T07:37:22.302758",
+  "package_url": "https://pypi.org/project/grokcore.security/"
+}

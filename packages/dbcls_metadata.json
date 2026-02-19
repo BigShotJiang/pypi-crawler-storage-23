@@ -1,0 +1,11 @@
+{
+  "name": "dbcls",
+  "version": "1.1.25",
+  "summary": "dbcls is a versatile client that supports various databases",
+  "author": "Maksim Nikitenko",
+  "license": "BSD",
+  "home_page": "https://github.com/Sets88/dbcls",
+  "download_filename": "dbcls-1.1.25.tar.gz",
+  "download_time": "2026-02-19T07:37:27.200939",
+  "package_url": "https://pypi.org/project/dbcls/"
+}

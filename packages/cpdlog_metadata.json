@@ -1,0 +1,11 @@
+{
+  "name": "cpdlog",
+  "version": "0.2.0",
+  "summary": "Record and build reports on Engineering CPD Activities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpdlog-0.2.0.tar.gz",
+  "download_time": "2026-02-19T07:37:20.773711",
+  "package_url": "https://pypi.org/project/cpdlog/"
+}
