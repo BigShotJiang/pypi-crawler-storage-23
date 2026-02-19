@@ -1,0 +1,11 @@
+{
+  "name": "montecarlodata",
+  "version": "0.157.0",
+  "summary": "Monte Carlo's CLI",
+  "author": "Monte Carlo Data, Inc",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": "https://www.montecarlodata.com/",
+  "download_filename": "montecarlodata-0.157.0.tar.gz",
+  "download_time": "2026-02-19T19:08:53.056428",
+  "package_url": "https://pypi.org/project/montecarlodata/"
+}

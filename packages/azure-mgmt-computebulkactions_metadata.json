@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-computebulkactions",
+  "version": "1.0.0b1",
+  "summary": "Microsoft Azure Computebulkactions Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_computebulkactions-1.0.0b1.tar.gz",
+  "download_time": "2026-02-19T19:08:33.750496",
+  "package_url": "https://pypi.org/project/azure-mgmt-computebulkactions/"
+}

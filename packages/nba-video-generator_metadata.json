@@ -1,0 +1,11 @@
+{
+  "name": "nba-video-generator",
+  "version": "2.0.22",
+  "summary": "Generates video highlights for an NBA player.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nba_video_generator-2.0.22.tar.gz",
+  "download_time": "2026-02-19T19:08:19.183009",
+  "package_url": "https://pypi.org/project/nba-video-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wgc-runner",
+  "version": "4.0.2",
+  "summary": "Pytest plugin and fixtures for WGC QA framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wgc_runner-4.0.2.tar.gz",
+  "download_time": "2026-02-19T19:08:49.466631",
+  "package_url": "https://pypi.org/project/wgc-runner/"
+}

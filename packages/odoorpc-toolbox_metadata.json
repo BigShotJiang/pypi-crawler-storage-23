@@ -1,11 +1,11 @@
 {
   "name": "odoorpc-toolbox",
-  "version": "0.4.0",
-  "summary": "Helper Functions for OdooRPC.",
+  "version": "0.6.0",
+  "summary": "Helper functions for Odoo server operations via internalized JSON-RPC.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoorpc_toolbox-0.4.0.tar.gz",
-  "download_time": "2026-02-19T14:42:10.127059",
+  "download_filename": "odoorpc_toolbox-0.6.0.tar.gz",
+  "download_time": "2026-02-19T19:08:45.217332",
   "package_url": "https://pypi.org/project/odoorpc-toolbox/"
 }

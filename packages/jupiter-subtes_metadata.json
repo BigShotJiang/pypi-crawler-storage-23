@@ -1,11 +1,11 @@
 {
   "name": "jupiter-subtes",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Biblioteca para automatização web nos sistemas do Tesouro do Estado do Rio de Janeiro",
   "author": "EOP/SUPCONC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jupiter_subtes-0.1.2.tar.gz",
-  "download_time": "2026-02-19T17:13:53.789599",
+  "download_filename": "jupiter_subtes-0.1.5.tar.gz",
+  "download_time": "2026-02-19T19:08:28.536534",
   "package_url": "https://pypi.org/project/jupiter-subtes/"
 }
