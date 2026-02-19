@@ -1,0 +1,11 @@
+{
+  "name": "lmodify",
+  "version": "0.5.0",
+  "summary": "LMODify: Create LMOD packages based on Singularity images for HPC environments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmodify-0.5.0.tar.gz",
+  "download_time": "2026-02-19T14:41:46.117278",
+  "package_url": "https://pypi.org/project/lmodify/"
+}

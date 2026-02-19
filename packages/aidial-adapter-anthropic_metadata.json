@@ -1,11 +1,11 @@
 {
   "name": "aidial-adapter-anthropic",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Package implementing adapter from DIAL Chat Completions API to Anthropic API",
   "author": "EPAM RAIL",
   "license": "Apache-2.0",
   "home_page": "https://epam-rail.com",
-  "download_filename": "aidial_adapter_anthropic-0.3.0.tar.gz",
-  "download_time": "2026-02-18T16:42:41.393284",
+  "download_filename": "aidial_adapter_anthropic-0.4.0.tar.gz",
+  "download_time": "2026-02-19T14:42:11.754102",
   "package_url": "https://pypi.org/project/aidial-adapter-anthropic/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pypi-json",
+  "version": "0.5.0.post1",
+  "summary": "PyPI JSON API client library",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/repo-helper/pypi-json",
+  "download_filename": "pypi_json-0.5.0.post1.tar.gz",
+  "download_time": "2026-02-19T14:42:32.363688",
+  "package_url": "https://pypi.org/project/pypi-json/"
+}

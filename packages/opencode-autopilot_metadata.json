@@ -1,0 +1,11 @@
+{
+  "name": "opencode-autopilot",
+  "version": "0.1.0b1",
+  "summary": "Autonomous overnight engineer for OpenCode projects. Bootstrap, build, and improve while you sleep.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencode_autopilot-0.1.0b1.tar.gz",
+  "download_time": "2026-02-19T14:42:01.906701",
+  "package_url": "https://pypi.org/project/opencode-autopilot/"
+}

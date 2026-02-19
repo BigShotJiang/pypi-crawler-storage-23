@@ -1,0 +1,11 @@
+{
+  "name": "propre-cli",
+  "version": "0.1.1",
+  "summary": "Analyze, restructure, and harden vibe-coded projects for production. Architecture-level linting, secret detection, and code quality enforcement in one CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "propre_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-19T14:42:16.411938",
+  "package_url": "https://pypi.org/project/propre-cli/"
+}

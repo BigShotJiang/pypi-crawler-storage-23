@@ -1,0 +1,11 @@
+{
+  "name": "indico-patcher",
+  "version": "0.3.2",
+  "summary": "The Swiss Army knife to customize Indico",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indico_patcher-0.3.2-py3-none-any.whl",
+  "download_time": "2026-02-19T14:41:55.266172",
+  "package_url": "https://pypi.org/project/indico-patcher/"
+}

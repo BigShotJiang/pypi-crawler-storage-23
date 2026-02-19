@@ -1,0 +1,11 @@
+{
+  "name": "openmodule",
+  "version": "17.0.0",
+  "summary": "Libraries for developing the arivo openmodule",
+  "author": "ARIVO",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://gitlab.com/arivo-public/device-python/openmodule.git",
+  "download_filename": "openmodule-17.0.0.tar.gz",
+  "download_time": "2026-02-19T14:42:31.838097",
+  "package_url": "https://pypi.org/project/openmodule/"
+}

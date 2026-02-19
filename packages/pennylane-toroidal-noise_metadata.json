@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-toroidal-noise",
+  "version": "0.1.0",
+  "summary": "Toroidal dephasing noise channel for PennyLane — spectral-gap suppression on T² lattices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pennylane_toroidal_noise-0.1.0.tar.gz",
+  "download_time": "2026-02-19T14:42:24.988300",
+  "package_url": "https://pypi.org/project/pennylane-toroidal-noise/"
+}

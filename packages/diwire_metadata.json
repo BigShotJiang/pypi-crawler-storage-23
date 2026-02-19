@@ -1,0 +1,11 @@
+{
+  "name": "diwire",
+  "version": "1.0.2",
+  "summary": "A lightweight, type-safe dependency injection container with automatic wiring, scoped lifetimes, and zero dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diwire-1.0.2.tar.gz",
+  "download_time": "2026-02-19T14:42:33.966017",
+  "package_url": "https://pypi.org/project/diwire/"
+}

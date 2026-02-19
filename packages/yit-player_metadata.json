@@ -1,0 +1,11 @@
+{
+  "name": "yit-player",
+  "version": "2.0.1",
+  "summary": "Fire-and-Forget Music CLI",
+  "author": "Yit Team",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "yit_player-2.0.1.tar.gz",
+  "download_time": "2026-02-19T14:42:16.938649",
+  "package_url": "https://pypi.org/project/yit-player/"
+}

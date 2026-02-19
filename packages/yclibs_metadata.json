@@ -1,11 +1,11 @@
 {
   "name": "yclibs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Shared Python utilities and helpers for database and date operations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yclibs-0.1.0.tar.gz",
-  "download_time": "2026-02-18T13:53:50.675307",
+  "download_filename": "yclibs-0.2.0.tar.gz",
+  "download_time": "2026-02-19T14:42:26.099686",
   "package_url": "https://pypi.org/project/yclibs/"
 }

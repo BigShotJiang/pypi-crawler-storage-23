@@ -1,11 +1,11 @@
 {
   "name": "justmyresource",
-  "version": "0.1.0",
+  "version": "1.1.1",
   "summary": "Resource discovery and resolution library for Python",
-  "author": "Kaj Siebert",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/kws/justmyresource",
-  "download_filename": "justmyresource-0.1.0.tar.gz",
-  "download_time": "2026-02-18T11:53:05.043277",
+  "home_page": null,
+  "download_filename": "justmyresource-1.1.1.tar.gz",
+  "download_time": "2026-02-19T14:42:07.442583",
   "package_url": "https://pypi.org/project/justmyresource/"
 }

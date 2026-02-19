@@ -1,0 +1,11 @@
+{
+  "name": "flower-garden-cli",
+  "version": "2.0.0",
+  "summary": "Beautiful CLI flower garden game - water flowers and watch them grow into stunning patterns!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flower_garden_cli-2.0.0.tar.gz",
+  "download_time": "2026-02-19T14:41:53.110189",
+  "package_url": "https://pypi.org/project/flower-garden-cli/"
+}
