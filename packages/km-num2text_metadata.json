@@ -1,0 +1,11 @@
+{
+  "name": "km-num2text",
+  "version": "1.0.0",
+  "summary": "This is a small project built for converting from number (roman or khmer) to text based.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "km_num2text-1.0.0.tar.gz",
+  "download_time": "2026-02-19T06:35:25.820817",
+  "package_url": "https://pypi.org/project/km-num2text/"
+}

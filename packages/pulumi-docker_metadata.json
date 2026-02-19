@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-docker",
+  "version": "4.11.0",
+  "summary": "A Pulumi package for interacting with Docker in Pulumi programs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_docker-4.11.0.tar.gz",
+  "download_time": "2026-02-19T06:35:47.152468",
+  "package_url": "https://pypi.org/project/pulumi-docker/"
+}

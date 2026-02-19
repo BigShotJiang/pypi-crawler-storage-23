@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-pulse",
+  "version": "1.2.0",
+  "summary": "An intelligent arXiv literature crawler and analyzer for physics research",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arxiv_pulse-1.2.0-py3-none-any.whl",
+  "download_time": "2026-02-19T06:35:27.616557",
+  "package_url": "https://pypi.org/project/arxiv-pulse/"
+}

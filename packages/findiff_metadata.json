@@ -1,0 +1,11 @@
+{
+  "name": "findiff",
+  "version": "0.13.0",
+  "summary": "A Python package for finite difference derivatives in any number of dimensions.",
+  "author": "Matthias Baer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "findiff-0.13.0.tar.gz",
+  "download_time": "2026-02-19T06:35:21.490767",
+  "package_url": "https://pypi.org/project/findiff/"
+}

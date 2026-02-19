@@ -1,0 +1,11 @@
+{
+  "name": "aiops-sdk",
+  "version": "0.1.6",
+  "summary": "AIOps Platform SDK — exception capture, heartbeat, and Flask integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiops_sdk-0.1.6.tar.gz",
+  "download_time": "2026-02-19T06:35:48.223634",
+  "package_url": "https://pypi.org/project/aiops-sdk/"
+}

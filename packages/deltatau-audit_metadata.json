@@ -1,11 +1,11 @@
 {
   "name": "deltatau-audit",
-  "version": "0.4.7",
+  "version": "0.5.1",
   "summary": "Time Robustness Audit for RL agents — measures timing reliance, deployment robustness, and stress resilience",
   "author": "maruyamakoju",
   "license": null,
   "home_page": null,
-  "download_filename": "deltatau_audit-0.4.7.tar.gz",
-  "download_time": "2026-02-19T05:17:37.132261",
+  "download_filename": "deltatau_audit-0.5.1.tar.gz",
+  "download_time": "2026-02-19T06:35:44.424520",
   "package_url": "https://pypi.org/project/deltatau-audit/"
 }

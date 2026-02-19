@@ -1,0 +1,11 @@
+{
+  "name": "porkbun",
+  "version": "1.0.0",
+  "summary": "Command-line tool for managing Porkbun domains and DNS records",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "porkbun-1.0.0.tar.gz",
+  "download_time": "2026-02-19T06:35:13.204445",
+  "package_url": "https://pypi.org/project/porkbun/"
+}

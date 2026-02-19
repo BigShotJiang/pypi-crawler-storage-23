@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-mongodbatlas",
+  "version": "4.4.0",
+  "summary": "A Pulumi package for creating and managing mongodbatlas cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_mongodbatlas-4.4.0.tar.gz",
+  "download_time": "2026-02-19T06:35:18.127161",
+  "package_url": "https://pypi.org/project/pulumi-mongodbatlas/"
+}

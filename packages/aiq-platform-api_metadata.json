@@ -1,0 +1,11 @@
+{
+  "name": "aiq-platform-api",
+  "version": "1.0.38",
+  "summary": "Utility functions for AttackIQ Platform API usage",
+  "author": "Rajesh Sharma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiq_platform_api-1.0.38.tar.gz",
+  "download_time": "2026-02-19T06:35:30.796179",
+  "package_url": "https://pypi.org/project/aiq-platform-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-boot",
+  "version": "0.0.50",
+  "summary": "FastAPI tools",
+  "author": "hfdy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_boot-0.0.50.tar.gz",
+  "download_time": "2026-02-19T06:35:29.214263",
+  "package_url": "https://pypi.org/project/fastapi-boot/"
+}

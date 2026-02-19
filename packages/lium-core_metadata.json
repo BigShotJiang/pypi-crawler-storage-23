@@ -1,0 +1,11 @@
+{
+  "name": "lium-core",
+  "version": "0.1.0",
+  "summary": "Shared core library for Lium platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lium_core-0.1.0.tar.gz",
+  "download_time": "2026-02-19T06:35:19.813636",
+  "package_url": "https://pypi.org/project/lium-core/"
+}

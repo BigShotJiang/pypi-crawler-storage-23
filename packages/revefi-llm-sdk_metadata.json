@@ -1,0 +1,11 @@
+{
+  "name": "revefi-llm-sdk",
+  "version": "0.1.2",
+  "summary": "LLM observability SDK for Revefi - Traceloop-based monitoring with custom ingestor service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "revefi_llm_sdk-0.1.2.tar.gz",
+  "download_time": "2026-02-19T06:35:23.153082",
+  "package_url": "https://pypi.org/project/revefi-llm-sdk/"
+}

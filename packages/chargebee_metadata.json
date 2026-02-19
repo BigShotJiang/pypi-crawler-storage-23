@@ -1,0 +1,11 @@
+{
+  "name": "chargebee",
+  "version": "3.18.2",
+  "summary": "Python wrapper for the Chargebee Subscription Billing API",
+  "author": "Chargebee",
+  "license": null,
+  "home_page": "https://apidocs.chargebee.com/docs/api?lang=python",
+  "download_filename": "chargebee-3.18.2.tar.gz",
+  "download_time": "2026-02-19T06:35:31.870867",
+  "package_url": "https://pypi.org/project/chargebee/"
+}
