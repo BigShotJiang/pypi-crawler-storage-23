@@ -1,0 +1,11 @@
+{
+  "name": "dbhydra",
+  "version": "2.3.7",
+  "summary": "Data science friendly ORM combining Python",
+  "author": "DovaX",
+  "license": null,
+  "home_page": "https://github.com/DovaX/dbhydra",
+  "download_filename": "dbhydra-2.3.7.tar.gz",
+  "download_time": "2026-02-19T11:53:32.853524",
+  "package_url": "https://pypi.org/project/dbhydra/"
+}

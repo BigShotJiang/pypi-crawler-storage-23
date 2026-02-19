@@ -1,0 +1,11 @@
+{
+  "name": "hyperspacedb",
+  "version": "2.0.0",
+  "summary": "Fastest Hyperbolic Vector DB Client",
+  "author": "YARlabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperspacedb-2.0.0.tar.gz",
+  "download_time": "2026-02-19T11:53:10.000423",
+  "package_url": "https://pypi.org/project/hyperspacedb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "merilang",
+  "version": "3.0.0",
+  "summary": "Merilang — a desi-flavoured programming language with a full compiler front-end",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "merilang-3.0.0.tar.gz",
+  "download_time": "2026-02-19T11:53:16.746852",
+  "package_url": "https://pypi.org/project/merilang/"
+}

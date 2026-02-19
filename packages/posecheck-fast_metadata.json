@@ -1,0 +1,11 @@
+{
+  "name": "posecheck-fast",
+  "version": "0.1.13",
+  "summary": "Fast docking evaluation metrics: symmetry-corrected RMSD and PoseBusters filters",
+  "author": "Nikolenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "posecheck_fast-0.1.13.tar.gz",
+  "download_time": "2026-02-19T11:53:02.084823",
+  "package_url": "https://pypi.org/project/posecheck-fast/"
+}

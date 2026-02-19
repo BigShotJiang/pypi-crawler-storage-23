@@ -1,0 +1,11 @@
+{
+  "name": "pyluos",
+  "version": "3.1.0",
+  "summary": "Python library to set the high level behavior of your device based on Luos embedded system.",
+  "author": "Luos",
+  "license": "MIT",
+  "home_page": "https://docs.luos.io/pages/high/pyluos.html",
+  "download_filename": "pyluos-3.1.0.tar.gz",
+  "download_time": "2026-02-19T11:53:33.900046",
+  "package_url": "https://pypi.org/project/pyluos/"
+}

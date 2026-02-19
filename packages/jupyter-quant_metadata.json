@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-quant",
+  "version": "2602.1",
+  "summary": "Jupyter quant research environment. ",
+  "author": "gnzsnz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_quant-2602.1.tar.gz",
+  "download_time": "2026-02-19T11:53:29.730442",
+  "package_url": "https://pypi.org/project/jupyter-quant/"
+}

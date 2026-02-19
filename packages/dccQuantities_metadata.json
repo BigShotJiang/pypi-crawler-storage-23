@@ -1,0 +1,11 @@
+{
+  "name": "dccQuantities",
+  "version": "2.0.0",
+  "summary": "Python classes for working with DDC calibration data",
+  "author": "Vanessa Stehr, Thomas Bruns",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dccquantities-2.0.0.tar.gz",
+  "download_time": "2026-02-19T11:53:13.127735",
+  "package_url": "https://pypi.org/project/dccQuantities/"
+}

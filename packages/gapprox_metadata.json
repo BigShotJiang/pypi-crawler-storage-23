@@ -1,0 +1,11 @@
+{
+  "name": "gapprox",
+  "version": "0.6.0",
+  "summary": "toolkit to find the approximate function of a graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gapprox-0.6.0.tar.gz",
+  "download_time": "2026-02-19T11:53:27.655167",
+  "package_url": "https://pypi.org/project/gapprox/"
+}

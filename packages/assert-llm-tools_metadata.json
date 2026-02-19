@@ -1,0 +1,11 @@
+{
+  "name": "assert-llm-tools",
+  "version": "0.9.6",
+  "summary": "Automated Summary Scoring & Evaluation of Retained Text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "assert_llm_tools-0.9.6.tar.gz",
+  "download_time": "2026-02-19T11:53:01.572968",
+  "package_url": "https://pypi.org/project/assert-llm-tools/"
+}

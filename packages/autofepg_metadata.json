@@ -1,0 +1,11 @@
+{
+  "name": "autofepg",
+  "version": "0.2.0",
+  "summary": "AutoFE - Playground: Automatic Feature Engineering & Selection for Kaggle Playground Competitions",
+  "author": "AutoFE-PG Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/thomastschinkel/autofepg",
+  "download_filename": "autofepg-0.2.0.tar.gz",
+  "download_time": "2026-02-19T11:53:08.976730",
+  "package_url": "https://pypi.org/project/autofepg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataio-artpark",
+  "version": "0.4.0b16",
+  "summary": "Postgres and FASTAPI based Dataset Management System (DMS), with a CLI and SDK for interacting with the API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataio_artpark-0.4.0b16.tar.gz",
+  "download_time": "2026-02-19T11:53:23.463991",
+  "package_url": "https://pypi.org/project/dataio-artpark/"
+}

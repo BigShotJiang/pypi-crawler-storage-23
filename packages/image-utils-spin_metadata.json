@@ -1,11 +1,11 @@
 {
   "name": "image-utils-spin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A simple CLI and Python tool to rotate images",
   "author": "uzi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "image_utils_spin-0.1.2.tar.gz",
-  "download_time": "2026-02-18T17:40:29.368748",
+  "download_filename": "image_utils_spin-0.1.3.tar.gz",
+  "download_time": "2026-02-19T11:53:15.207035",
   "package_url": "https://pypi.org/project/image-utils-spin/"
 }

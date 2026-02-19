@@ -1,0 +1,11 @@
+{
+  "name": "pyomp",
+  "version": "0.5.1",
+  "summary": "Python OpenMP library based on Numba",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyomp-0.5.1.tar.gz",
+  "download_time": "2026-02-19T11:53:10.542747",
+  "package_url": "https://pypi.org/project/pyomp/"
+}

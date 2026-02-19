@@ -1,0 +1,11 @@
+{
+  "name": "venomqa",
+  "version": "0.6.2",
+  "summary": "Autonomous API QA agent — define actions and invariants, explore every state path automatically.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "venomqa-0.6.2-py3-none-any.whl",
+  "download_time": "2026-02-19T11:53:05.375813",
+  "package_url": "https://pypi.org/project/venomqa/"
+}
