@@ -1,0 +1,11 @@
+{
+  "name": "safe-push",
+  "version": "0.1.0",
+  "summary": "An educational CLI tool to prevent accidental sensitive data exposure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_push-0.1.0.tar.gz",
+  "download_time": "2026-02-19T20:22:37.586973",
+  "package_url": "https://pypi.org/project/safe-push/"
+}

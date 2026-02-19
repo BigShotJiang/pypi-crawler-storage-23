@@ -1,0 +1,11 @@
+{
+  "name": "testio-mcp",
+  "version": "0.5.1",
+  "summary": "Model Context Protocol server for TestIO Customer API integration",
+  "author": "TestIO MCP Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "testio_mcp-0.5.1.tar.gz",
+  "download_time": "2026-02-19T20:22:25.253508",
+  "package_url": "https://pypi.org/project/testio-mcp/"
+}

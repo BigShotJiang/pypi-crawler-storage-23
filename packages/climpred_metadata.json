@@ -1,0 +1,11 @@
+{
+  "name": "climpred",
+  "version": "2.6.0",
+  "summary": "\"\"\"Verification of weather and climate forecasts and prediction.\"\"\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "climpred-2.6.0.tar.gz",
+  "download_time": "2026-02-19T20:22:06.470264",
+  "package_url": "https://pypi.org/project/climpred/"
+}

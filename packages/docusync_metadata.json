@@ -1,0 +1,11 @@
+{
+  "name": "docusync",
+  "version": "2.2.0",
+  "summary": "CLI tool for syncing documentation from multiple repositories for Docusaurus",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docusync-2.2.0.tar.gz",
+  "download_time": "2026-02-19T20:22:29.586772",
+  "package_url": "https://pypi.org/project/docusync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hindsight-crewai",
+  "version": "0.4.13",
+  "summary": "CrewAI memory integration via Hindsight - persistent memory for AI agent crews",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hindsight_crewai-0.4.13.tar.gz",
+  "download_time": "2026-02-19T20:22:36.530361",
+  "package_url": "https://pypi.org/project/hindsight-crewai/"
+}

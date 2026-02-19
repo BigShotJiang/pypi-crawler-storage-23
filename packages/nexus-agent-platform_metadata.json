@@ -1,11 +1,11 @@
 {
   "name": "nexus-agent-platform",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "AI agent platform with MCP tool integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexus_agent_platform-0.3.2.tar.gz",
-  "download_time": "2026-02-19T16:14:00.410702",
+  "download_filename": "nexus_agent_platform-0.3.6.tar.gz",
+  "download_time": "2026-02-19T20:22:14.042219",
   "package_url": "https://pypi.org/project/nexus-agent-platform/"
 }

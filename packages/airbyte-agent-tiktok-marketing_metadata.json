@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-tiktok-marketing",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Airbyte Tiktok-Marketing Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_tiktok_marketing-0.1.1.tar.gz",
-  "download_time": "2026-02-18T21:57:07.218631",
+  "download_filename": "airbyte_agent_tiktok_marketing-0.1.3.tar.gz",
+  "download_time": "2026-02-19T20:22:38.118952",
   "package_url": "https://pypi.org/project/airbyte-agent-tiktok-marketing/"
 }

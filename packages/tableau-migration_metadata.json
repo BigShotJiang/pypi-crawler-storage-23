@@ -1,0 +1,11 @@
+{
+  "name": "tableau-migration",
+  "version": "6.0.0",
+  "summary": "Tableau Migration SDK",
+  "author": "Salesforce, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tableau_migration-6.0.0.tar.gz",
+  "download_time": "2026-02-19T20:22:05.377426",
+  "package_url": "https://pypi.org/project/tableau-migration/"
+}

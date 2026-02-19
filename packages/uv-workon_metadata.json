@@ -1,0 +1,11 @@
+{
+  "name": "uv-workon",
+  "version": "0.7.3",
+  "summary": "Tools to activate and run virtual environments from central location",
+  "author": "William P. Krekelberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_workon-0.7.3.tar.gz",
+  "download_time": "2026-02-19T20:22:35.463732",
+  "package_url": "https://pypi.org/project/uv-workon/"
+}
