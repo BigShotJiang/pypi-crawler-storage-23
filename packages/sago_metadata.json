@@ -1,11 +1,11 @@
 {
   "name": "sago",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Spec-Aware Generation Orchestrator - turns markdown specs into working code",
   "author": "oha",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sago-0.1.0.tar.gz",
-  "download_time": "2026-02-18T15:33:32.766427",
+  "download_filename": "sago-0.1.1.tar.gz",
+  "download_time": "2026-02-19T08:09:05.372786",
   "package_url": "https://pypi.org/project/sago/"
 }

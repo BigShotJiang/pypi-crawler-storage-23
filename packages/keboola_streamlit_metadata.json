@@ -1,0 +1,11 @@
+{
+  "name": "keboola_streamlit",
+  "version": "0.1.5",
+  "summary": "A Python library that simplifies Keboola SAPI integration in Streamlit apps.",
+  "author": "pandyandy, yustme",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "keboola_streamlit-0.1.5.tar.gz",
+  "download_time": "2026-02-19T08:09:04.287749",
+  "package_url": "https://pypi.org/project/keboola_streamlit/"
+}

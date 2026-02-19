@@ -1,0 +1,11 @@
+{
+  "name": "chatwoot-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for Chatwoot API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chatwoot_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-19T08:09:24.113441",
+  "package_url": "https://pypi.org/project/chatwoot-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coxdev",
+  "version": "0.1.5",
+  "summary": "Library for computing Cox deviance",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "coxdev-0.1.5.tar.gz",
+  "download_time": "2026-02-19T08:09:05.932799",
+  "package_url": "https://pypi.org/project/coxdev/"
+}

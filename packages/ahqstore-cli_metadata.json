@@ -1,0 +1,11 @@
+{
+  "name": "ahqstore-cli",
+  "version": "0.15.0",
+  "summary": "A modern Python wrapper for the ahqstore CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ahqstore_cli-0.15.0.tar.gz",
+  "download_time": "2026-02-19T08:08:53.596603",
+  "package_url": "https://pypi.org/project/ahqstore-cli/"
+}

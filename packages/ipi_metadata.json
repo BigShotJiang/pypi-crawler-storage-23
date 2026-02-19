@@ -1,0 +1,11 @@
+{
+  "name": "ipi",
+  "version": "3.1.9",
+  "summary": "A Python interface for ab initio path integral molecular dynamics simulations",
+  "author": "The i-PI developers",
+  "license": null,
+  "home_page": "http://ipi-code.org",
+  "download_filename": "ipi-3.1.9-py3-none-any.whl",
+  "download_time": "2026-02-19T08:09:09.567480",
+  "package_url": "https://pypi.org/project/ipi/"
+}

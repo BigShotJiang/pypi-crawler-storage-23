@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-codelinks",
+  "version": "1.2.0",
+  "summary": "Fast Source Code Traceability for Sphinx-Needs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_codelinks-1.2.0.tar.gz",
+  "download_time": "2026-02-19T08:09:24.632389",
+  "package_url": "https://pypi.org/project/sphinx-codelinks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seagrin",
+  "version": "0.1.1",
+  "summary": "A Python wrapper for the Metron API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seagrin-0.1.1.tar.gz",
+  "download_time": "2026-02-19T08:09:13.741378",
+  "package_url": "https://pypi.org/project/seagrin/"
+}

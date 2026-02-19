@@ -1,0 +1,11 @@
+{
+  "name": "openrehab-pdf",
+  "version": "0.1.0",
+  "summary": "OpenRehab PDF to Markdown conversion tool for rehabilitation medicine research",
+  "author": "Drehabwen",
+  "license": "MIT",
+  "home_page": "https://github.com/Drehabwen/Openrehab-vibepaper-read",
+  "download_filename": "openrehab_pdf-0.1.0.tar.gz",
+  "download_time": "2026-02-19T08:09:13.222321",
+  "package_url": "https://pypi.org/project/openrehab-pdf/"
+}
