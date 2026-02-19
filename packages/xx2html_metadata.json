@@ -1,0 +1,11 @@
+{
+  "name": "xx2html",
+  "version": "0.17.0rc1",
+  "summary": "Convert XLSX workbooks to single styled HTML file with support for conditional formatting and in-cell images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xx2html-0.17.0rc1.tar.gz",
+  "download_time": "2026-02-19T17:14:24.451721",
+  "package_url": "https://pypi.org/project/xx2html/"
+}

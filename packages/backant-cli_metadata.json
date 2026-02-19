@@ -1,0 +1,11 @@
+{
+  "name": "backant-cli",
+  "version": "0.7.1",
+  "summary": "A CLI tool to generate backant backend projects",
+  "author": "Pavel Hegler",
+  "license": null,
+  "home_page": "https://github.com/backant/backant-cli",
+  "download_filename": "backant_cli-0.7.1-py3-none-any.whl",
+  "download_time": "2026-02-19T17:13:52.046263",
+  "package_url": "https://pypi.org/project/backant-cli/"
+}

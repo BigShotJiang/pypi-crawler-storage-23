@@ -1,0 +1,11 @@
+{
+  "name": "atlas-consortia-jobq",
+  "version": "0.1.2",
+  "summary": "Package to facilitate queueing of jobs using Redis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atlas_consortia_jobq-0.1.2.tar.gz",
+  "download_time": "2026-02-19T17:14:31.431288",
+  "package_url": "https://pypi.org/project/atlas-consortia-jobq/"
+}

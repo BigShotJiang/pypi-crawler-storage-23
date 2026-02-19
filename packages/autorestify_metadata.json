@@ -1,0 +1,11 @@
+{
+  "name": "autorestify",
+  "version": "1.0.2",
+  "summary": "Dynamic API generator from JSON models with automatic schema inference.",
+  "author": "Mikael Aurio Martins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autorestify-1.0.2.tar.gz",
+  "download_time": "2026-02-19T17:14:40.068409",
+  "package_url": "https://pypi.org/project/autorestify/"
+}

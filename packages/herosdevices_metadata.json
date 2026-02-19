@@ -1,0 +1,11 @@
+{
+  "name": "herosdevices",
+  "version": "0.8.8",
+  "summary": "Python representations (think drivers) of frequently used lab equipment.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "herosdevices-0.8.8.tar.gz",
+  "download_time": "2026-02-19T17:14:33.038654",
+  "package_url": "https://pypi.org/project/herosdevices/"
+}

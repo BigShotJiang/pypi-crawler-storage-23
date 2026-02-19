@@ -1,0 +1,11 @@
+{
+  "name": "billionverify",
+  "version": "1.0.3",
+  "summary": "Official BillionVerify Python SDK for email verification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "billionverify-1.0.3.tar.gz",
+  "download_time": "2026-02-19T17:14:28.210935",
+  "package_url": "https://pypi.org/project/billionverify/"
+}

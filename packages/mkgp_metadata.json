@@ -1,0 +1,11 @@
+{
+  "name": "mkgp",
+  "version": "3.1.3",
+  "summary": "Classes for Gaussian Process Regression fitting of ND data with errorbars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkgp-3.1.3.tar.gz",
+  "download_time": "2026-02-19T17:14:05.533270",
+  "package_url": "https://pypi.org/project/mkgp/"
+}

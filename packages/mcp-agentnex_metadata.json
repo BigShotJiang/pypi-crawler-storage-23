@@ -1,0 +1,11 @@
+{
+  "name": "mcp-agentnex",
+  "version": "0.1.9",
+  "summary": "MCP Server for AgentNEX - Bridge between NEXA AI and AgentNEX Backend",
+  "author": "AgentNEX Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_agentnex-0.1.9.tar.gz",
+  "download_time": "2026-02-19T17:14:17.450723",
+  "package_url": "https://pypi.org/project/mcp-agentnex/"
+}

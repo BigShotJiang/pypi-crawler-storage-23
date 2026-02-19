@@ -1,11 +1,11 @@
 {
   "name": "ecapi-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "ECAPI SDK for Python",
   "author": "EaseCation",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ecapi_sdk-0.1.1.tar.gz",
-  "download_time": "2026-02-19T16:14:34.568691",
+  "download_filename": "ecapi_sdk-0.1.2.tar.gz",
+  "download_time": "2026-02-19T17:13:53.232619",
   "package_url": "https://pypi.org/project/ecapi-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "autodocstring-tool",
+  "version": "0.1.0",
+  "summary": "Automated Python docstring generator and enforcer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autodocstring_tool-0.1.0.tar.gz",
+  "download_time": "2026-02-19T17:14:21.759476",
+  "package_url": "https://pypi.org/project/autodocstring-tool/"
+}

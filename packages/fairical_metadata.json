@@ -1,0 +1,11 @@
+{
+  "name": "fairical",
+  "version": "2.0.2",
+  "summary": "Fairical is a Python library to assess adjustable demographically fair Machine Learning (ML) systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairical-2.0.2.tar.gz",
+  "download_time": "2026-02-19T17:14:20.137526",
+  "package_url": "https://pypi.org/project/fairical/"
+}
