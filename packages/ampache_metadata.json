@@ -1,0 +1,11 @@
+{
+  "name": "ampache",
+  "version": "6.9.1",
+  "summary": "Python library for Ampache XML & JSON API",
+  "author": "Lachlan de Waard (lachlan-00)",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ampache/python3-ampache",
+  "download_filename": "ampache-6.9.1.tar.gz",
+  "download_time": "2026-02-19T10:04:17.816532",
+  "package_url": "https://pypi.org/project/ampache/"
+}

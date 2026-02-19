@@ -1,0 +1,11 @@
+{
+  "name": "starterkit-ci",
+  "version": "0.2.1",
+  "summary": "Helpers for Starterkit Continuous Integration",
+  "author": "LHCb Starterkit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "starterkit_ci-0.2.1.tar.gz",
+  "download_time": "2026-02-19T10:04:37.649228",
+  "package_url": "https://pypi.org/project/starterkit-ci/"
+}

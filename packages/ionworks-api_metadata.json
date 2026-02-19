@@ -1,0 +1,11 @@
+{
+  "name": "ionworks-api",
+  "version": "0.1.6",
+  "summary": "Python client for interacting with the Ionworks API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ionworks_api-0.1.6.tar.gz",
+  "download_time": "2026-02-19T10:04:40.283759",
+  "package_url": "https://pypi.org/project/ionworks-api/"
+}

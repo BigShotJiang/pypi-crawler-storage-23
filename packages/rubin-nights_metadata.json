@@ -1,0 +1,11 @@
+{
+  "name": "rubin-nights",
+  "version": "0.12.0",
+  "summary": "Tools to access Rubin nightly observing data",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "rubin_nights-0.12.0.tar.gz",
+  "download_time": "2026-02-19T10:04:20.931431",
+  "package_url": "https://pypi.org/project/rubin-nights/"
+}

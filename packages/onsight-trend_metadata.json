@@ -1,0 +1,11 @@
+{
+  "name": "onsight-trend",
+  "version": "0.1.0",
+  "summary": "Time-series trend analysis for any parameter (pressure, rate, temperature, etc.)",
+  "author": "Onsight Trend",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onsight_trend-0.1.0.tar.gz",
+  "download_time": "2026-02-19T10:04:46.571325",
+  "package_url": "https://pypi.org/project/onsight-trend/"
+}

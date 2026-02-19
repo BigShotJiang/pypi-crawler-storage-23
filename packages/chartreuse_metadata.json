@@ -1,0 +1,11 @@
+{
+  "name": "chartreuse",
+  "version": "6.2.0",
+  "summary": "Helper for Alembic migrations within Kubernetes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chartreuse-6.2.0.tar.gz",
+  "download_time": "2026-02-19T10:04:40.802343",
+  "package_url": "https://pypi.org/project/chartreuse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "edesto-dev",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "Teach AI coding agents to compile, flash, and validate firmware on real hardware. One command to bridge any agent and any board.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edesto_dev-0.4.0.tar.gz",
-  "download_time": "2026-02-18T11:05:40.899936",
+  "download_filename": "edesto_dev-0.7.0.tar.gz",
+  "download_time": "2026-02-19T10:04:25.166593",
   "package_url": "https://pypi.org/project/edesto-dev/"
 }

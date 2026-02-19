@@ -1,0 +1,11 @@
+{
+  "name": "gazu",
+  "version": "1.1.4",
+  "summary": "Gazu is a client for Zou, the API to store the data of your CG production.",
+  "author": "CG Wire",
+  "license": "GNU Library or Lesser General Public License (LGPL)",
+  "home_page": "https://gazu.cg-wire.com/",
+  "download_filename": "gazu-1.1.4.tar.gz",
+  "download_time": "2026-02-19T10:04:23.037388",
+  "package_url": "https://pypi.org/project/gazu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pypizza",
-  "version": "0.4",
+  "version": "0.6",
   "summary": "Pizza Python Project Manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypizza-0.4.tar.gz",
-  "download_time": "2026-02-19T07:36:50.079712",
+  "download_filename": "pypizza-0.6.tar.gz",
+  "download_time": "2026-02-19T10:04:44.493765",
   "package_url": "https://pypi.org/project/pypizza/"
 }

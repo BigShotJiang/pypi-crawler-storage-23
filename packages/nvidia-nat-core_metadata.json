@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-core",
-  "version": "1.5.0a20260218",
+  "version": "1.5.0a20260219",
   "summary": "Core library for NVIDIA NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_core-1.5.0a20260218-py3-none-any.whl",
-  "download_time": "2026-02-18T10:04:18.370357",
+  "download_filename": "nvidia_nat_core-1.5.0a20260219-py3-none-any.whl",
+  "download_time": "2026-02-19T10:04:11.587808",
   "package_url": "https://pypi.org/project/nvidia-nat-core/"
 }

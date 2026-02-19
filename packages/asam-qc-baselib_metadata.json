@@ -1,0 +1,11 @@
+{
+  "name": "asam-qc-baselib",
+  "version": "1.1.0",
+  "summary": "Python base library for ASAM Quality Checker Framework",
+  "author": "Patrick Abrahão",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "asam_qc_baselib-1.1.0.tar.gz",
+  "download_time": "2026-02-19T10:04:34.522404",
+  "package_url": "https://pypi.org/project/asam-qc-baselib/"
+}
