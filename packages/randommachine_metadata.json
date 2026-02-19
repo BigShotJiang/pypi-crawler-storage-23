@@ -1,11 +1,11 @@
 {
   "name": "randommachine",
-  "version": "0.1.0",
-  "summary": "Random ensemble learning with LightGBM and CatBoost",
+  "version": "0.1.2",
+  "summary": "Random ensemble learning",
   "author": "Ghiffary Rifqialdi",
   "license": null,
   "home_page": "https://github.com/ghiffaryr/randommachine",
-  "download_filename": "randommachine-0.1.0.tar.gz",
-  "download_time": "2026-02-18T23:54:10.455373",
+  "download_filename": "randommachine-0.1.2.tar.gz",
+  "download_time": "2026-02-19T11:08:14.417751",
   "package_url": "https://pypi.org/project/randommachine/"
 }

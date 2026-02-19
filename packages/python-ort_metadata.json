@@ -1,0 +1,11 @@
+{
+  "name": "python-ort",
+  "version": "0.6.2",
+  "summary": "A Python Ort model serialization library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_ort-0.6.2.tar.gz",
+  "download_time": "2026-02-19T11:08:13.904482",
+  "package_url": "https://pypi.org/project/python-ort/"
+}

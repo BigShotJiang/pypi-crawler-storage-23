@@ -1,0 +1,11 @@
+{
+  "name": "pertdb",
+  "version": "2.1.1",
+  "summary": "Registries for perturbations and their targets [`source <https://github.com/laminlabs/pertdb/blob/main/pertdb/models.py>`__].",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pertdb-2.1.1.tar.gz",
+  "download_time": "2026-02-19T11:07:47.410472",
+  "package_url": "https://pypi.org/project/pertdb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pypi-angular-devtools",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Prebuilt Angular DevTools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypi_angular_devtools-0.0.3.tar.gz",
-  "download_time": "2026-02-19T06:35:29.740690",
+  "download_filename": "pypi_angular_devtools-0.0.6.tar.gz",
+  "download_time": "2026-02-19T11:07:43.768196",
   "package_url": "https://pypi.org/project/pypi-angular-devtools/"
 }

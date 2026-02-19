@@ -1,11 +1,11 @@
 {
   "name": "py-pve-cloud",
-  "version": "0.15.11",
+  "version": "0.16.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_pve_cloud-0.15.11.tar.gz",
-  "download_time": "2026-02-19T07:37:09.718530",
+  "download_filename": "py_pve_cloud-0.16.0.tar.gz",
+  "download_time": "2026-02-19T11:07:46.900493",
   "package_url": "https://pypi.org/project/py-pve-cloud/"
 }

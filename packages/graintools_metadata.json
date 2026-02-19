@@ -1,0 +1,11 @@
+{
+  "name": "graintools",
+  "version": "0.1",
+  "summary": "Grain segmentation from Laue patterns",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graintools-0.1.tar.gz",
+  "download_time": "2026-02-19T11:07:33.942528",
+  "package_url": "https://pypi.org/project/graintools/"
+}

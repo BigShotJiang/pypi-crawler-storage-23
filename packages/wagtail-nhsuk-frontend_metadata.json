@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-nhsuk-frontend",
+  "version": "2.0.0",
+  "summary": "NHSUK Frontend Styles for Wagtail",
+  "author": "Paul Flynn",
+  "license": null,
+  "home_page": "https://github.com/nhsuk/wagtail-nhsuk-frontend",
+  "download_filename": "wagtail_nhsuk_frontend-2.0.0.tar.gz",
+  "download_time": "2026-02-19T11:08:08.198045",
+  "package_url": "https://pypi.org/project/wagtail-nhsuk-frontend/"
+}

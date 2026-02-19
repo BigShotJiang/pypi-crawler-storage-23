@@ -1,0 +1,11 @@
+{
+  "name": "akerbp-mlpet",
+  "version": "6.0.3",
+  "summary": "Package to prepare well log data for ML projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "akerbp_mlpet-6.0.3.tar.gz",
+  "download_time": "2026-02-19T11:07:51.634960",
+  "package_url": "https://pypi.org/project/akerbp-mlpet/"
+}
