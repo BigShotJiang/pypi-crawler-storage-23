@@ -1,0 +1,11 @@
+{
+  "name": "pkg-resources-backport",
+  "version": "1.0.0",
+  "summary": "snapshot of last pkg_resources module from setuptools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkg_resources_backport-1.0.0.tar.gz",
+  "download_time": "2026-02-19T22:21:30.129722",
+  "package_url": "https://pypi.org/project/pkg-resources-backport/"
+}

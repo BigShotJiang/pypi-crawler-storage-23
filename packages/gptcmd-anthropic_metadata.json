@@ -1,0 +1,11 @@
+{
+  "name": "gptcmd-anthropic",
+  "version": "2.3.0",
+  "summary": "Anthropic model support for Gptcmd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptcmd_anthropic-2.3.0.tar.gz",
+  "download_time": "2026-02-19T22:21:23.902672",
+  "package_url": "https://pypi.org/project/gptcmd-anthropic/"
+}

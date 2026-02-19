@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.ALDashboard",
+  "version": "1.1.1",
+  "summary": "Dashboard for some admin tasks",
+  "author": "Quinten Steenhuis",
+  "license": null,
+  "home_page": "https://github.com/SuffolkLITLab/docassemble-ALDashboard",
+  "download_filename": "docassemble_aldashboard-1.1.1.tar.gz",
+  "download_time": "2026-02-19T22:21:59.991494",
+  "package_url": "https://pypi.org/project/docassemble.ALDashboard/"
+}

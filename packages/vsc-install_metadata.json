@@ -1,0 +1,11 @@
+{
+  "name": "vsc-install",
+  "version": "0.24.0",
+  "summary": "vsc-install provides shared setuptools functions and classes for python libraries developed by UGent's HPC group",
+  "author": "Stijn De Weirdt;Andy Georges;Jens Timmerman",
+  "license": "LGPLv2+",
+  "home_page": "https://github.com/hpcugent/vsc-install",
+  "download_filename": "vsc_install-0.24.0.tar.gz",
+  "download_time": "2026-02-19T22:21:13.556146",
+  "package_url": "https://pypi.org/project/vsc-install/"
+}

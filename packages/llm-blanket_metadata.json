@@ -1,0 +1,11 @@
+{
+  "name": "llm-blanket",
+  "version": "0.1.1",
+  "summary": "Unified Python library for LLM APIs (OpenAI, Anthropic, Gemini, xAI, Groq, custom)",
+  "author": "Yoseph Berhanu Alebachew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_blanket-0.1.1.tar.gz",
+  "download_time": "2026-02-19T22:21:42.424057",
+  "package_url": "https://pypi.org/project/llm-blanket/"
+}

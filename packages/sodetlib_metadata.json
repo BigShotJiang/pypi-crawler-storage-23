@@ -1,0 +1,11 @@
+{
+  "name": "sodetlib",
+  "version": "0.6.4",
+  "summary": "Simons Observatory detector readout library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sodetlib-0.6.4.tar.gz",
+  "download_time": "2026-02-19T22:21:19.338710",
+  "package_url": "https://pypi.org/project/sodetlib/"
+}

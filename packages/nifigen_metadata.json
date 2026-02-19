@@ -1,11 +1,11 @@
 {
   "name": "nifigen",
-  "version": "2.0.1",
+  "version": "2.2.0",
   "summary": "nifigen",
   "author": "nifigen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nifigen-2.0.1-py3-none-any.whl",
-  "download_time": "2026-02-19T21:55:48.802049",
+  "download_filename": "nifigen-2.2.0-py3-none-any.whl",
+  "download_time": "2026-02-19T22:21:53.301449",
   "package_url": "https://pypi.org/project/nifigen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "socialseed-e2e",
+  "version": "0.1.4",
+  "summary": "Framework E2E para testing de APIs REST con Playwright",
+  "author": "Dairon Pérez Frías",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "socialseed_e2e-0.1.4.tar.gz",
+  "download_time": "2026-02-19T22:21:21.722487",
+  "package_url": "https://pypi.org/project/socialseed-e2e/"
+}
