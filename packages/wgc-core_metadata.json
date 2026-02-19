@@ -1,11 +1,11 @@
 {
   "name": "wgc-core",
-  "version": "4.0.2",
+  "version": "4.0.5",
   "summary": "Core package for WGC QA framework: config, logger, exceptions, file templates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wgc_core-4.0.2.tar.gz",
-  "download_time": "2026-02-19T19:08:13.903840",
+  "download_filename": "wgc_core-4.0.5.tar.gz",
+  "download_time": "2026-02-19T19:48:59.456389",
   "package_url": "https://pypi.org/project/wgc-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sardis-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Sardis - Payment OS for the Agent Economy",
+  "author": "Sardis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_langchain-0.1.0.tar.gz",
+  "download_time": "2026-02-19T19:48:57.374082",
+  "package_url": "https://pypi.org/project/sardis-langchain/"
+}

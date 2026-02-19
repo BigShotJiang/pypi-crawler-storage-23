@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-grasshopper",
+  "version": "1.70.6",
+  "summary": "Ladybug plugin for Grasshopper.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug-grasshopper",
+  "download_filename": "ladybug_grasshopper-1.70.6.tar.gz",
+  "download_time": "2026-02-19T19:48:30.626185",
+  "package_url": "https://pypi.org/project/ladybug-grasshopper/"
+}

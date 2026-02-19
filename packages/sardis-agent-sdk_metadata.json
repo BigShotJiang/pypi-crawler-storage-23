@@ -1,0 +1,11 @@
+{
+  "name": "sardis-agent-sdk",
+  "version": "0.1.0",
+  "summary": "Anthropic Claude Agent SDK integration for Sardis payments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_agent_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-19T19:48:55.807788",
+  "package_url": "https://pypi.org/project/sardis-agent-sdk/"
+}

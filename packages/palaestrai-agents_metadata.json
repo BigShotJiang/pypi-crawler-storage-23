@@ -1,0 +1,11 @@
+{
+  "name": "palaestrai-agents",
+  "version": "3.6.0",
+  "summary": "Implementation of src-algorithms for ARL.",
+  "author": "Eric MSP Veith <eric.veith@offis.de>",
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "palaestrai_agents-3.6.0.tar.gz",
+  "download_time": "2026-02-19T19:48:34.277470",
+  "package_url": "https://pypi.org/project/palaestrai-agents/"
+}

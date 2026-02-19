@@ -1,0 +1,11 @@
+{
+  "name": "dsbc",
+  "version": "1.0.2",
+  "summary": "DeepSeek Balance Checker - CLI tool to check DeepSeek API account balances",
+  "author": "Merlos",
+  "license": "MIT",
+  "home_page": "https://github.com/merlos/dsbc",
+  "download_filename": "dsbc-1.0.2.tar.gz",
+  "download_time": "2026-02-19T19:48:41.107957",
+  "package_url": "https://pypi.org/project/dsbc/"
+}

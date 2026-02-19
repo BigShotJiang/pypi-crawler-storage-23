@@ -1,0 +1,11 @@
+{
+  "name": "ansys-fluent-core",
+  "version": "0.37.2",
+  "summary": "PyFluent provides Pythonic access to Ansys Fluent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_fluent_core-0.37.2-py3-none-any.whl",
+  "download_time": "2026-02-19T19:48:54.246049",
+  "package_url": "https://pypi.org/project/ansys-fluent-core/"
+}

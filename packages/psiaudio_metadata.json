@@ -1,0 +1,11 @@
+{
+  "name": "psiaudio",
+  "version": "0.4.4",
+  "summary": "Audio tools supporting psiexperiment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psiaudio-0.4.4.tar.gz",
+  "download_time": "2026-02-19T19:48:42.684829",
+  "package_url": "https://pypi.org/project/psiaudio/"
+}

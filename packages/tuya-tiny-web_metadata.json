@@ -1,0 +1,11 @@
+{
+  "name": "tuya-tiny-web",
+  "version": "1.7.2",
+  "summary": "A tiny web interface for Tuya devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuya_tiny_web-1.7.2.tar.gz",
+  "download_time": "2026-02-19T19:48:46.340527",
+  "package_url": "https://pypi.org/project/tuya-tiny-web/"
+}

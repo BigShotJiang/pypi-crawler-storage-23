@@ -1,0 +1,11 @@
+{
+  "name": "magicc",
+  "version": "0.1.0",
+  "summary": "MAGICC: Metagenome-Assembled Genome Inference of Completeness and Contamination",
+  "author": "Renmao Tian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magicc-0.1.0.tar.gz",
+  "download_time": "2026-02-19T19:48:49.517527",
+  "package_url": "https://pypi.org/project/magicc/"
+}

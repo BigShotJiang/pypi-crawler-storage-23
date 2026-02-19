@@ -1,11 +1,11 @@
 {
   "name": "cozempic",
-  "version": "0.7.0",
-  "summary": "Context cleaning for Claude Code — remove the bloat, keep everything that matters, protect Agent Teams from context loss",
+  "version": "0.7.2",
+  "summary": "2x the effective context with smart weight-loss for Claude Code — prune bloated sessions, protect agent teams from compaction, monitor token usage with MCP tools",
   "author": "Ruya AI, Junaid Qureshi",
   "license": null,
   "home_page": null,
-  "download_filename": "cozempic-0.7.0.tar.gz",
-  "download_time": "2026-02-18T21:56:56.929017",
+  "download_filename": "cozempic-0.7.2.tar.gz",
+  "download_time": "2026-02-19T19:49:04.238790",
   "package_url": "https://pypi.org/project/cozempic/"
 }

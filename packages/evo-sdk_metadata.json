@@ -1,0 +1,11 @@
+{
+  "name": "evo-sdk",
+  "version": "0.1.20",
+  "summary": "Python SDK for using Seequent Evo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_sdk-0.1.20.tar.gz",
+  "download_time": "2026-02-19T19:48:27.405705",
+  "package_url": "https://pypi.org/project/evo-sdk/"
+}

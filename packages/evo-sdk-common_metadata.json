@@ -1,0 +1,11 @@
+{
+  "name": "evo-sdk-common",
+  "version": "0.5.18",
+  "summary": "Python package that establishes a common framework for use by client libraries that interact with Seequent Evo APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_sdk_common-0.5.18.tar.gz",
+  "download_time": "2026-02-19T19:48:31.145894",
+  "package_url": "https://pypi.org/project/evo-sdk-common/"
+}
