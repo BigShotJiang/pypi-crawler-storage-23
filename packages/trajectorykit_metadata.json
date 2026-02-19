@@ -1,0 +1,11 @@
+{
+  "name": "trajectorykit",
+  "version": "0.1.0",
+  "summary": "A lightweight, local-first agentic framework with tool calling, recursive sub-agents, and full execution tracing.",
+  "author": "William Lugoloobi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trajectorykit-0.1.0.tar.gz",
+  "download_time": "2026-02-19T23:52:25.355426",
+  "package_url": "https://pypi.org/project/trajectorykit/"
+}

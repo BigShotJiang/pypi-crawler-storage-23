@@ -1,0 +1,11 @@
+{
+  "name": "datasette-endpoints",
+  "version": "0.1",
+  "summary": "Plugin to add a /-/endpoints debug page listing all configured endpoints",
+  "author": "Datasette",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_endpoints-0.1.tar.gz",
+  "download_time": "2026-02-19T23:52:00.620181",
+  "package_url": "https://pypi.org/project/datasette-endpoints/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aport-agent-guardrails",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "APort Agent Guardrail — shared core for AI agent and LLM frameworks (pre-action authorization)",
   "author": "APort Technologies Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aport_agent_guardrails-1.0.8.tar.gz",
-  "download_time": "2026-02-19T20:56:14.385953",
+  "download_filename": "aport_agent_guardrails-1.0.9.tar.gz",
+  "download_time": "2026-02-19T23:51:56.173519",
   "package_url": "https://pypi.org/project/aport-agent-guardrails/"
 }

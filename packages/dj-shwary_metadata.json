@@ -1,0 +1,11 @@
+{
+  "name": "dj-shwary",
+  "version": "0.1.4",
+  "summary": "Intégration Django officielle pour le SDK de paiement Shwary.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_shwary-0.1.4.tar.gz",
+  "download_time": "2026-02-19T23:52:25.904599",
+  "package_url": "https://pypi.org/project/dj-shwary/"
+}

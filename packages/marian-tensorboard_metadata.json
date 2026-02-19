@@ -1,0 +1,11 @@
+{
+  "name": "marian-tensorboard",
+  "version": "0.2.2",
+  "summary": "TensorBoard integration for Marian NMT",
+  "author": "Roman Grundkiewicz",
+  "license": "MIT",
+  "home_page": "https://github.com/marian-nmt/marian-tensorboard",
+  "download_filename": "marian_tensorboard-0.2.2.tar.gz",
+  "download_time": "2026-02-19T23:51:59.524072",
+  "package_url": "https://pypi.org/project/marian-tensorboard/"
+}

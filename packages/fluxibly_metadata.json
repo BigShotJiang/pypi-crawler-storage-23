@@ -1,0 +1,11 @@
+{
+  "name": "fluxibly",
+  "version": "1.0.0",
+  "summary": "Modular Agentic Framework — LLM + Agent + Tools with MCP support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluxibly-1.0.0.tar.gz",
+  "download_time": "2026-02-19T23:51:50.711496",
+  "package_url": "https://pypi.org/project/fluxibly/"
+}

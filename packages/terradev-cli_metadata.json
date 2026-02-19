@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "2.9.1",
-  "summary": "BYOAPI: Cross-cloud GPU provisioning with HuggingFace Spaces smart deployment",
-  "author": null,
-  "license": "BUSL-1.1",
-  "home_page": null,
-  "download_filename": "terradev_cli-2.9.1.tar.gz",
-  "download_time": "2026-02-19T20:22:10.307882",
+  "version": "2.9.3",
+  "summary": "Real multi-cloud GPU arbitrage — provision across 9 clouds in parallel",
+  "author": "Terradev Team",
+  "license": null,
+  "home_page": "https://github.com/theoddden/terradev",
+  "download_filename": "terradev_cli-2.9.3.tar.gz",
+  "download_time": "2026-02-19T23:52:12.660639",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flask-production",
+  "version": "3.1.9",
+  "summary": "cherrypy server for Flask + task scheduler and monitor",
+  "author": "Shashank Gopikrishna",
+  "license": "MIT",
+  "home_page": "https://github.com/shashfrankenstien/Flask_Production",
+  "download_filename": "flask_production-3.1.9.tar.gz",
+  "download_time": "2026-02-19T23:52:03.854347",
+  "package_url": "https://pypi.org/project/flask-production/"
+}

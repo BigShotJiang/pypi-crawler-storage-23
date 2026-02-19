@@ -1,0 +1,11 @@
+{
+  "name": "pyfaktory",
+  "version": "0.2.11",
+  "summary": "Faktory Client Python (Producer and Consumer/Worker)",
+  "author": "Ghiles Meddour",
+  "license": "MIT",
+  "home_page": "https://github.com/ghilesmeddour/faktory_worker_python",
+  "download_filename": "pyfaktory-0.2.11.tar.gz",
+  "download_time": "2026-02-19T23:52:22.050793",
+  "package_url": "https://pypi.org/project/pyfaktory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keystroke-sender",
+  "version": "0.1.0",
+  "summary": "Chrome Native Messaging host that simulates OS-level keystrokes and mouse clicks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keystroke_sender-0.1.0.tar.gz",
+  "download_time": "2026-02-19T23:52:23.139256",
+  "package_url": "https://pypi.org/project/keystroke-sender/"
+}
