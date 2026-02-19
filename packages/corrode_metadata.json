@@ -1,0 +1,11 @@
+{
+  "name": "corrode",
+  "version": "0.1.2",
+  "summary": "A Rust-like Result type for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corrode-0.1.2.tar.gz",
+  "download_time": "2026-02-19T12:38:22.734563",
+  "package_url": "https://pypi.org/project/corrode/"
+}

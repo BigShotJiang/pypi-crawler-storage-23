@@ -1,0 +1,11 @@
+{
+  "name": "pheme",
+  "version": "21.11.3",
+  "summary": "report-generation-service",
+  "author": "Greenbone AG",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pheme-21.11.3.tar.gz",
+  "download_time": "2026-02-19T12:38:25.388733",
+  "package_url": "https://pypi.org/project/pheme/"
+}

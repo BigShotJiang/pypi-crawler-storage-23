@@ -1,0 +1,11 @@
+{
+  "name": "influxdb3-python",
+  "version": "0.18.0",
+  "summary": "Community Python client for InfluxDB 3.0",
+  "author": "InfluxData",
+  "license": null,
+  "home_page": "https://github.com/InfluxCommunity/influxdb3-python",
+  "download_filename": "influxdb3_python-0.18.0.tar.gz",
+  "download_time": "2026-02-19T12:38:34.334233",
+  "package_url": "https://pypi.org/project/influxdb3-python/"
+}

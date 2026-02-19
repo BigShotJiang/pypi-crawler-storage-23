@@ -1,0 +1,11 @@
+{
+  "name": "undore-rbac",
+  "version": "1.1.8",
+  "summary": "RBAC System for Ascender Framework from Undore!",
+  "author": "Undore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "undore_rbac-1.1.8.tar.gz",
+  "download_time": "2026-02-19T12:38:26.426663",
+  "package_url": "https://pypi.org/project/undore-rbac/"
+}

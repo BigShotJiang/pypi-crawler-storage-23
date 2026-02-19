@@ -1,0 +1,11 @@
+{
+  "name": "dynamodb-zero-etl-s3tables",
+  "version": "0.1.2",
+  "summary": "AWS CDK L3 construct that creates a complete zero-ETL integration from Amazon DynamoDB to Amazon S3 Tables (Apache Iceberg)",
+  "author": "Lee Hannigan<lhnng@amazon.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/LeeroyHannigan/dynamodb-zero-etl-s3tables.git",
+  "download_filename": "dynamodb_zero_etl_s3tables-0.1.2.tar.gz",
+  "download_time": "2026-02-19T12:38:56.218319",
+  "package_url": "https://pypi.org/project/dynamodb-zero-etl-s3tables/"
+}

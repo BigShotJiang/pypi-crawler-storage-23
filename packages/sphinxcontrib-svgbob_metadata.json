@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-svgbob",
+  "version": "0.3.2",
+  "summary": "A Sphinx extension to convert ASCII diagrams to SVGs with Svgbob.",
+  "author": null,
+  "license": null,
+  "home_page": "https://pypi.org/projects/sphinxcontrib-svgbob",
+  "download_filename": "sphinxcontrib_svgbob-0.3.2.tar.gz",
+  "download_time": "2026-02-19T12:38:48.947441",
+  "package_url": "https://pypi.org/project/sphinxcontrib-svgbob/"
+}

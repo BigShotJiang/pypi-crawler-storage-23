@@ -1,0 +1,11 @@
+{
+  "name": "articlealpha",
+  "version": "0.1.0",
+  "summary": "Python client for ArticleAlpha Wikipedia-based market attention data.",
+  "author": "ArticleAlpha",
+  "license": null,
+  "home_page": "https://github.com/articlealpha/articlealpha",
+  "download_filename": "articlealpha-0.1.0.tar.gz",
+  "download_time": "2026-02-19T12:38:35.385781",
+  "package_url": "https://pypi.org/project/articlealpha/"
+}

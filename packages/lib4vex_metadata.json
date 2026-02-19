@@ -1,0 +1,11 @@
+{
+  "name": "lib4vex",
+  "version": "0.2.2",
+  "summary": "VEX generator and consumer library",
+  "author": "Anthony Harrison",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/anthonyharrison/lib4vex",
+  "download_filename": "lib4vex-0.2.2-py3-none-any.whl",
+  "download_time": "2026-02-19T12:38:47.383902",
+  "package_url": "https://pypi.org/project/lib4vex/"
+}

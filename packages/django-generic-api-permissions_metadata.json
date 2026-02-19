@@ -1,0 +1,11 @@
+{
+  "name": "django-generic-api-permissions",
+  "version": "3.0.1",
+  "summary": "Generic API permissions and visibilities for Django",
+  "author": "Adfinis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_generic_api_permissions-3.0.1.tar.gz",
+  "download_time": "2026-02-19T12:39:06.233777",
+  "package_url": "https://pypi.org/project/django-generic-api-permissions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rpa-quaestvm",
-  "version": "1.6.1",
+  "version": "1.6.4",
   "summary": "Abstrações e utilidades da biblioteca pyautogui e outras ferramentas de RPA",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpa_quaestvm-1.6.1.tar.gz",
-  "download_time": "2026-02-19T11:53:07.438782",
+  "download_filename": "rpa_quaestvm-1.6.4.tar.gz",
+  "download_time": "2026-02-19T12:38:49.468274",
   "package_url": "https://pypi.org/project/rpa-quaestvm/"
 }

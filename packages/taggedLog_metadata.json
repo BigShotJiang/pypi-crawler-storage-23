@@ -1,0 +1,11 @@
+{
+  "name": "taggedLog",
+  "version": "1.0.3",
+  "summary": "structured log for python",
+  "author": "epsilonkn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taggedlog-1.0.3.tar.gz",
+  "download_time": "2026-02-19T12:38:46.865146",
+  "package_url": "https://pypi.org/project/taggedLog/"
+}
