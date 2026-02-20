@@ -1,11 +1,11 @@
 {
   "name": "dtu-env",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "DTU course environment manager — install and manage conda environments for DTU courses",
   "author": "DTU Python Support",
   "license": null,
   "home_page": null,
-  "download_filename": "dtu_env-1.4.0.tar.gz",
-  "download_time": "2026-02-20T14:12:03.114987",
+  "download_filename": "dtu_env-1.4.1.tar.gz",
+  "download_time": "2026-02-20T16:58:17.556009",
   "package_url": "https://pypi.org/project/dtu-env/"
 }

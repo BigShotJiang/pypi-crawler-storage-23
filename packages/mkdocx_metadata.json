@@ -1,0 +1,11 @@
+{
+  "name": "mkdocx",
+  "version": "0.1.3",
+  "summary": "Export MkDocs Material markdown files to clean DOCX documents using pandoc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocx-0.1.3.tar.gz",
+  "download_time": "2026-02-20T16:58:15.470454",
+  "package_url": "https://pypi.org/project/mkdocx/"
+}

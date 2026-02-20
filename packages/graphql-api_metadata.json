@@ -1,0 +1,11 @@
+{
+  "name": "graphql-api",
+  "version": "1.6.5",
+  "summary": "A framework for building Python GraphQL APIs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphql_api-1.6.5.tar.gz",
+  "download_time": "2026-02-20T16:58:31.477030",
+  "package_url": "https://pypi.org/project/graphql-api/"
+}

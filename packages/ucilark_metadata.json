@@ -1,0 +1,11 @@
+{
+  "name": "ucilark",
+  "version": "0.3",
+  "summary": "UCI parser and encoder library in python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucilark-0.3.tar.gz",
+  "download_time": "2026-02-20T16:58:47.528286",
+  "package_url": "https://pypi.org/project/ucilark/"
+}

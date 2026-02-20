@@ -1,0 +1,11 @@
+{
+  "name": "osp-provider-runtime",
+  "version": "0.2.11",
+  "summary": "Thin runtime harness for OSP providers (RabbitMQ transport + contract execution).",
+  "author": "OSP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "osp_provider_runtime-0.2.11.tar.gz",
+  "download_time": "2026-02-20T16:58:16.529084",
+  "package_url": "https://pypi.org/project/osp-provider-runtime/"
+}

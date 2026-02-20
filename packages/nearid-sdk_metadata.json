@@ -1,0 +1,11 @@
+{
+  "name": "nearid-sdk",
+  "version": "0.1.12",
+  "summary": "NearID Python SDK",
+  "author": "NearID",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nearid_sdk-0.1.12.tar.gz",
+  "download_time": "2026-02-20T16:58:06.192197",
+  "package_url": "https://pypi.org/project/nearid-sdk/"
+}

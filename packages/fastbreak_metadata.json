@@ -1,0 +1,11 @@
+{
+  "name": "fastbreak",
+  "version": "0.0.3",
+  "summary": "Async NBA statistics API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastbreak-0.0.3.tar.gz",
+  "download_time": "2026-02-20T16:58:39.747833",
+  "package_url": "https://pypi.org/project/fastbreak/"
+}

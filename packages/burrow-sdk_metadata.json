@@ -1,0 +1,11 @@
+{
+  "name": "burrow-sdk",
+  "version": "0.5.0",
+  "summary": "Prompt injection firewall SDK for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "burrow_sdk-0.5.0.tar.gz",
+  "download_time": "2026-02-20T16:58:11.874141",
+  "package_url": "https://pypi.org/project/burrow-sdk/"
+}

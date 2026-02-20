@@ -1,11 +1,11 @@
 {
   "name": "wolfxl",
-  "version": "0.3.0",
-  "summary": "Fast, openpyxl-compatible Excel I/O with Rust backend and built-in formula engine (62 functions, financial, date, text, lookup, conditional stats)",
+  "version": "0.3.1",
+  "summary": "Fast, openpyxl-compatible Excel I/O with Rust backend and built-in formula engine (67 functions, financial, date, time, text, lookup, conditional stats)",
   "author": "Wolfgang Schoenberger",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wolfxl-0.3.0.tar.gz",
-  "download_time": "2026-02-20T14:11:57.118398",
+  "download_filename": "wolfxl-0.3.1.tar.gz",
+  "download_time": "2026-02-20T16:58:45.987220",
   "package_url": "https://pypi.org/project/wolfxl/"
 }

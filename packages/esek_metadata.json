@@ -1,0 +1,11 @@
+{
+  "name": "esek",
+  "version": "0.1.29",
+  "summary": "Effect size estimation and statistics library",
+  "author": "ESEK",
+  "license": "MIT",
+  "home_page": "https://github.com/nadavWeisler/esek",
+  "download_filename": "esek-0.1.29.tar.gz",
+  "download_time": "2026-02-20T16:58:18.579999",
+  "package_url": "https://pypi.org/project/esek/"
+}

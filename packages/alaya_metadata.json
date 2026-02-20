@@ -1,0 +1,11 @@
+{
+  "name": "alaya",
+  "version": "1.0.0",
+  "summary": "LMM - Classical QUBO Optimizer with Digital Dharma (no D-Wave required)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alaya-1.0.0.tar.gz",
+  "download_time": "2026-02-20T16:58:25.260749",
+  "package_url": "https://pypi.org/project/alaya/"
+}

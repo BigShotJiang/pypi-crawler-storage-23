@@ -1,0 +1,11 @@
+{
+  "name": "kubectl-mcp-server",
+  "version": "1.24.0",
+  "summary": "A Model Context Protocol (MCP) server for Kubernetes with 270+ tools, 8 resources, and 8 prompts",
+  "author": "Rohit Ghumare",
+  "license": null,
+  "home_page": "https://github.com/rohitg00/kubectl-mcp-server",
+  "download_filename": "kubectl_mcp_server-1.24.0.tar.gz",
+  "download_time": "2026-02-20T16:58:19.094881",
+  "package_url": "https://pypi.org/project/kubectl-mcp-server/"
+}

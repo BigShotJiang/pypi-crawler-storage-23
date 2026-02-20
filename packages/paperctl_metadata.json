@@ -1,0 +1,11 @@
+{
+  "name": "paperctl",
+  "version": "2.0.0",
+  "summary": "CLI tool for querying SolarWinds Observability logs",
+  "author": "Jonathan Moss",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "paperctl-2.0.0.tar.gz",
+  "download_time": "2026-02-20T16:58:27.364131",
+  "package_url": "https://pypi.org/project/paperctl/"
+}

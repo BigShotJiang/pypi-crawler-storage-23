@@ -1,0 +1,11 @@
+{
+  "name": "domain-check-mcp",
+  "version": "0.1.0",
+  "summary": "RDAP-first domain availability checking MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "domain_check_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-20T16:58:19.606537",
+  "package_url": "https://pypi.org/project/domain-check-mcp/"
+}

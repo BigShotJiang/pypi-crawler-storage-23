@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-amount-to-text",
+  "version": "18.0.1.0.0.2",
+  "summary": "Localizza le valute in italiano per amount_to_text",
+  "author": "Sergio Zanchetta - Associazione PNLug APS,Ecosoft Co. Ltd,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_amount_to_text-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-20T16:58:34.099969",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-amount-to-text/"
+}

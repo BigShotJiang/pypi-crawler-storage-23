@@ -1,0 +1,11 @@
+{
+  "name": "anomalib-orobix",
+  "version": "0.7.0.dev151",
+  "summary": "Orobix anomalib fork",
+  "author": "Intel OpenVINO",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/orobix/quadra",
+  "download_filename": "anomalib_orobix-0.7.0.dev151.tar.gz",
+  "download_time": "2026-02-20T16:58:31.993888",
+  "package_url": "https://pypi.org/project/anomalib-orobix/"
+}
