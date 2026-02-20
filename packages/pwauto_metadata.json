@@ -1,11 +1,11 @@
 {
   "name": "pwauto",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A high-efficiency UI automation framework based on Playwright",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pwauto-0.1.2.tar.gz",
-  "download_time": "2026-02-20T08:31:10.190268",
+  "download_filename": "pwauto-0.1.3.tar.gz",
+  "download_time": "2026-02-20T09:08:16.179541",
   "package_url": "https://pypi.org/project/pwauto/"
 }

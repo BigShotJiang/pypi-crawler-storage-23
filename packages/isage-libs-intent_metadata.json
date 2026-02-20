@@ -1,0 +1,11 @@
+{
+  "name": "isage-libs-intent",
+  "version": "0.1.0.5",
+  "summary": "SAGE Libs Intent (L3) - Keyword-based and LLM-based intent classification for conversational AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_libs_intent-0.1.0.5.tar.gz",
+  "download_time": "2026-02-20T09:08:17.741479",
+  "package_url": "https://pypi.org/project/isage-libs-intent/"
+}

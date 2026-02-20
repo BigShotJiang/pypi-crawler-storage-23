@@ -1,0 +1,11 @@
+{
+  "name": "esp-pylib",
+  "version": "0.1.3",
+  "summary": "Python library for logging, utils and constants for Espressif Systems' Python projects",
+  "author": "Espressif Systems",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "esp_pylib-0.1.3.tar.gz",
+  "download_time": "2026-02-20T09:07:42.550351",
+  "package_url": "https://pypi.org/project/esp-pylib/"
+}

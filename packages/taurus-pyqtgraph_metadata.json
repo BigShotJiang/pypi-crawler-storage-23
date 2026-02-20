@@ -1,0 +1,11 @@
+{
+  "name": "taurus-pyqtgraph",
+  "version": "0.9.8",
+  "summary": "Taurus extension providing pyqtgraph-based widgets",
+  "author": "Taurus Community",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/taurus-org/taurus_pyqtgraph",
+  "download_filename": "taurus_pyqtgraph-0.9.8.tar.gz",
+  "download_time": "2026-02-20T09:08:15.104202",
+  "package_url": "https://pypi.org/project/taurus-pyqtgraph/"
+}

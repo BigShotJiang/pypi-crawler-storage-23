@@ -1,0 +1,11 @@
+{
+  "name": "wind_ae",
+  "version": "1.0.1",
+  "summary": "1D relaxation Parker wind model with metal and X-ray physics based on Murray-Clay et al. (2009)",
+  "author": "Madelyn Broome, John McCann, Ruth Murray-Clay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wind_ae-1.0.1.tar.gz",
+  "download_time": "2026-02-20T09:07:55.213236",
+  "package_url": "https://pypi.org/project/wind_ae/"
+}

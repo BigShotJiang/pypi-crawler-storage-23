@@ -1,0 +1,11 @@
+{
+  "name": "slurm-script-generator",
+  "version": "0.2.1",
+  "summary": "Generate slurm scripts.",
+  "author": "Max",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurm_script_generator-0.2.1.tar.gz",
+  "download_time": "2026-02-20T09:08:20.423469",
+  "package_url": "https://pypi.org/project/slurm-script-generator/"
+}

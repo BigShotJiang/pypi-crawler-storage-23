@@ -1,11 +1,11 @@
 {
   "name": "optimuslib",
-  "version": "0.0.71",
+  "version": "0.0.74",
   "summary": "Function Library for mostly used codes",
   "author": "Shomi",
   "license": null,
   "home_page": null,
-  "download_filename": "optimuslib-0.0.71.tar.gz",
-  "download_time": "2026-02-20T08:31:11.234685",
+  "download_filename": "optimuslib-0.0.74.tar.gz",
+  "download_time": "2026-02-20T09:08:08.766508",
   "package_url": "https://pypi.org/project/optimuslib/"
 }

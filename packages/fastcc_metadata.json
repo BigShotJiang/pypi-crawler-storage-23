@@ -1,0 +1,11 @@
+{
+  "name": "fastcc",
+  "version": "5.2.2",
+  "summary": "Lightweight, efficient and developer-friendly framework for mqtt communication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastcc-5.2.2.tar.gz",
+  "download_time": "2026-02-20T09:08:03.048938",
+  "package_url": "https://pypi.org/project/fastcc/"
+}

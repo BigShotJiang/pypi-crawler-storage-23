@@ -1,11 +1,11 @@
 {
   "name": "voiceterm",
-  "version": "1.0.86",
+  "version": "1.0.87",
   "summary": "Voice-first terminal HUD for Codex and Claude with local Whisper STT",
   "author": "Justin Guida",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voiceterm-1.0.86.tar.gz",
-  "download_time": "2026-02-20T05:08:32.619086",
+  "download_filename": "voiceterm-1.0.87.tar.gz",
+  "download_time": "2026-02-20T09:07:49.456173",
   "package_url": "https://pypi.org/project/voiceterm/"
 }

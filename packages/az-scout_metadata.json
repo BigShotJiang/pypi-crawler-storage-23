@@ -1,11 +1,11 @@
 {
   "name": "az-scout",
-  "version": "2026.2.5",
+  "version": "2026.2.6",
   "summary": "Azure SKU scout — explore availability zones, capacity, pricing, and plan VM deployments across subscriptions",
   "author": "Ludovic Rivallain",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "az_scout-2026.2.5.tar.gz",
-  "download_time": "2026-02-19T17:14:13.026491",
+  "download_filename": "az_scout-2026.2.6.tar.gz",
+  "download_time": "2026-02-20T09:07:52.048695",
   "package_url": "https://pypi.org/project/az-scout/"
 }

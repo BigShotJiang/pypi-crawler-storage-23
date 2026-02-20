@@ -1,0 +1,11 @@
+{
+  "name": "isage-vdb",
+  "version": "0.2.0.1",
+  "summary": "High-Performance Vector Database with Pluggable ANNS Architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_vdb-0.2.0.1-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-20T09:08:21.467422",
+  "package_url": "https://pypi.org/project/isage-vdb/"
+}

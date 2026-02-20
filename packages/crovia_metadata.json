@@ -1,0 +1,11 @@
+{
+  "name": "crovia",
+  "version": "1.2.1",
+  "summary": "Crovia — The Global Standard for AI Training Data Attribution. Cryptographic proofs, absence verification, and automatic royalty settlement.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "crovia-1.2.1-py3-none-any.whl",
+  "download_time": "2026-02-20T09:07:39.250455",
+  "package_url": "https://pypi.org/project/crovia/"
+}

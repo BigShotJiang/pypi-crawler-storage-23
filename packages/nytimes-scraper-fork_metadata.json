@@ -1,0 +1,11 @@
+{
+  "name": "nytimes-scraper-fork",
+  "version": "1.1.3.dev1",
+  "summary": "Scrape article metadata and comments from NYTimes",
+  "author": "Tim Pietz",
+  "license": "MIT",
+  "home_page": "https://github.com/ietz/nytimes-scraper",
+  "download_filename": "nytimes_scraper_fork-1.1.3.dev1.tar.gz",
+  "download_time": "2026-02-20T09:07:50.492511",
+  "package_url": "https://pypi.org/project/nytimes-scraper-fork/"
+}

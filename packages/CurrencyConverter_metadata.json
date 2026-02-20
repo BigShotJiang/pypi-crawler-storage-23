@@ -1,0 +1,11 @@
+{
+  "name": "CurrencyConverter",
+  "version": "0.18.15",
+  "summary": "A currency converter using the European Central Bank data.",
+  "author": "Alex Prengère",
+  "license": null,
+  "home_page": "https://github.com/alexprengere/currencyconverter",
+  "download_filename": "currencyconverter-0.18.15.tar.gz",
+  "download_time": "2026-02-20T09:08:11.945618",
+  "package_url": "https://pypi.org/project/CurrencyConverter/"
+}
