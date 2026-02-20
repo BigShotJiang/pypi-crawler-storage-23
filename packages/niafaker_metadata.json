@@ -1,0 +1,11 @@
+{
+  "name": "niafaker",
+  "version": "1.0.0",
+  "summary": "Fake data generator localized for African regions — names, phones, addresses, mobile money, national IDs, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "niafaker-1.0.0.tar.gz",
+  "download_time": "2026-02-20T05:08:37.682375",
+  "package_url": "https://pypi.org/project/niafaker/"
+}

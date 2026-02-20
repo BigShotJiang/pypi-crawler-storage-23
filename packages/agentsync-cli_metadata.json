@@ -1,0 +1,11 @@
+{
+  "name": "agentsync-cli",
+  "version": "0.1.0",
+  "summary": "Sync MCP server configs and rules across AI coding agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentsync_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-20T05:08:52.343715",
+  "package_url": "https://pypi.org/project/agentsync-cli/"
+}

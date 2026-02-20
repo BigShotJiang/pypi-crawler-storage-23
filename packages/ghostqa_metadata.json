@@ -1,0 +1,11 @@
+{
+  "name": "ghostqa",
+  "version": "0.1.0",
+  "summary": "AI persona-based behavioral testing for web apps. No test scripts. YAML-configured. Vision-powered.",
+  "author": "SyncTek LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostqa-0.1.0.tar.gz",
+  "download_time": "2026-02-20T05:08:48.384610",
+  "package_url": "https://pypi.org/project/ghostqa/"
+}

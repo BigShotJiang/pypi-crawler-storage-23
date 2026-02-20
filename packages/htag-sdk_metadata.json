@@ -1,11 +1,11 @@
 {
   "name": "htag-sdk",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "Official Python SDK for the HtAG Location Intelligence API — address search, property data, and market analytics for Australia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "htag_sdk-0.6.0.tar.gz",
-  "download_time": "2026-02-19T08:09:20.992678",
+  "download_filename": "htag_sdk-0.8.0.tar.gz",
+  "download_time": "2026-02-20T05:08:58.962120",
   "package_url": "https://pypi.org/project/htag-sdk/"
 }

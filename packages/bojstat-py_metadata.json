@@ -1,11 +1,11 @@
 {
   "name": "bojstat-py",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "日本銀行API向けPythonクライアント",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bojstat_py-0.1.3.tar.gz",
-  "download_time": "2026-02-19T10:04:12.636447",
+  "download_filename": "bojstat_py-0.1.6.tar.gz",
+  "download_time": "2026-02-20T05:08:37.138836",
   "package_url": "https://pypi.org/project/bojstat-py/"
 }

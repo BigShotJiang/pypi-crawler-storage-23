@@ -1,0 +1,11 @@
+{
+  "name": "purrfectkit",
+  "version": "0.2.8",
+  "summary": "**PurrfectKit** is a Python library for effortless Retrieval-Augmented Generation (RAG) workflows.",
+  "author": "SUWALUTIONS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "purrfectkit-0.2.8.tar.gz",
+  "download_time": "2026-02-20T05:08:57.801362",
+  "package_url": "https://pypi.org/project/purrfectkit/"
+}

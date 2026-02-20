@@ -1,11 +1,11 @@
 {
   "name": "sift-gateway",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Keep big MCP responses out of your context window. Query them.",
   "author": "zmaciel",
   "license": null,
   "home_page": null,
-  "download_filename": "sift_gateway-0.2.4.tar.gz",
-  "download_time": "2026-02-19T20:22:26.311020",
+  "download_filename": "sift_gateway-0.2.5.tar.gz",
+  "download_time": "2026-02-20T05:08:50.626130",
   "package_url": "https://pypi.org/project/sift-gateway/"
 }

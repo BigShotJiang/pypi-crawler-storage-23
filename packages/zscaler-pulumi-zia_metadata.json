@@ -1,0 +1,11 @@
+{
+  "name": "zscaler-pulumi-zia",
+  "version": "1.2.0",
+  "summary": "A Pulumi package for creating and managing zia cloud resources.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://www.zscaler.com",
+  "download_filename": "zscaler_pulumi_zia-1.2.0.tar.gz",
+  "download_time": "2026-02-20T05:09:01.130160",
+  "package_url": "https://pypi.org/project/zscaler-pulumi-zia/"
+}

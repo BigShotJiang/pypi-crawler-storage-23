@@ -1,0 +1,11 @@
+{
+  "name": "autoflake",
+  "version": "2.3.3",
+  "summary": "Removes unused imports and unused variables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoflake-2.3.3.tar.gz",
+  "download_time": "2026-02-20T05:08:21.326133",
+  "package_url": "https://pypi.org/project/autoflake/"
+}

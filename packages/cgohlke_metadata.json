@@ -1,0 +1,11 @@
+{
+  "name": "cgohlke",
+  "version": "2026.2.20",
+  "summary": "Install all packages by cgohlke",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "cgohlke-2026.2.20-py3-none-any.whl",
+  "download_time": "2026-02-20T05:08:52.885452",
+  "package_url": "https://pypi.org/project/cgohlke/"
+}

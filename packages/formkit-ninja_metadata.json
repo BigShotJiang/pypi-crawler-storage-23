@@ -1,0 +1,11 @@
+{
+  "name": "formkit-ninja",
+  "version": "2.1",
+  "summary": "A Django-Ninja backend to specify FormKit schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "formkit_ninja-2.1.tar.gz",
+  "download_time": "2026-02-20T05:08:47.290965",
+  "package_url": "https://pypi.org/project/formkit-ninja/"
+}

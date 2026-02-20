@@ -1,0 +1,11 @@
+{
+  "name": "cdktn-provider-azuread",
+  "version": "15.1.0",
+  "summary": "Prebuilt azuread Provider for CDK Terrain (cdktn)",
+  "author": "CDK Terrain Maintainers",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktn-io/cdktn-provider-azuread.git",
+  "download_filename": "cdktn_provider_azuread-15.1.0.tar.gz",
+  "download_time": "2026-02-20T05:08:16.219917",
+  "package_url": "https://pypi.org/project/cdktn-provider-azuread/"
+}

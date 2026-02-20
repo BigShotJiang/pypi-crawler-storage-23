@@ -1,11 +1,11 @@
 {
   "name": "geepers-kernel",
-  "version": "1.1.0",
-  "summary": "Core infrastructure for the geepers agent system — LLM providers, orchestration, data clients, and MCP server",
+  "version": "1.2.0",
+  "summary": "Foundation library for the geepers ecosystem — LLM providers, config management, data fetching, and utilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geepers_kernel-1.1.0.tar.gz",
-  "download_time": "2026-02-19T06:35:19.252503",
+  "download_filename": "geepers_kernel-1.2.0.tar.gz",
+  "download_time": "2026-02-20T05:08:57.248176",
   "package_url": "https://pypi.org/project/geepers-kernel/"
 }
