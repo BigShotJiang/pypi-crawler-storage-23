@@ -1,0 +1,11 @@
+{
+  "name": "nufftax",
+  "version": "0.4.0",
+  "summary": "Pure JAX implementation of Non-Uniform FFT",
+  "author": "Geoffroy Oudoumanessah, Jacopo Iollo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nufftax-0.4.0.tar.gz",
+  "download_time": "2026-02-20T14:11:30.083155",
+  "package_url": "https://pypi.org/project/nufftax/"
+}

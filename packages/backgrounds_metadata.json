@@ -1,0 +1,11 @@
+{
+  "name": "backgrounds",
+  "version": "0.1.4",
+  "summary": "A set of tools for LISA stochastic gravitational wave detection",
+  "author": "Quentin Baghi",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "backgrounds-0.1.4.tar.gz",
+  "download_time": "2026-02-20T14:12:04.162151",
+  "package_url": "https://pypi.org/project/backgrounds/"
+}

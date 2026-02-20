@@ -1,0 +1,11 @@
+{
+  "name": "revox",
+  "version": "0.0.3",
+  "summary": "The official Python library for the revox API",
+  "author": "Revox",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "revox-0.0.3.tar.gz",
+  "download_time": "2026-02-20T14:11:41.080863",
+  "package_url": "https://pypi.org/project/revox/"
+}

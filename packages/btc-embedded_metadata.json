@@ -1,0 +1,11 @@
+{
+  "name": "btc-embedded",
+  "version": "25.3.2",
+  "summary": "API wrapper for BTC EmbeddedPlatform REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "btc_embedded-25.3.2.tar.gz",
+  "download_time": "2026-02-20T14:11:33.140884",
+  "package_url": "https://pypi.org/project/btc-embedded/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-synology-sync",
+  "version": "0.2.3",
+  "summary": "Bidirectional Obsidian vault sync to Synology Drive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_synology_sync-0.2.3.tar.gz",
+  "download_time": "2026-02-20T14:11:59.464697",
+  "package_url": "https://pypi.org/project/obsidian-synology-sync/"
+}

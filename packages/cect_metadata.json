@@ -1,0 +1,11 @@
+{
+  "name": "cect",
+  "version": "0.2.7",
+  "summary": "C. elegans Connectome Toolbox",
+  "author": "OpenWorm contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/openworm/ConnectomeToolbox",
+  "download_filename": "cect-0.2.7.tar.gz",
+  "download_time": "2026-02-20T14:11:25.583211",
+  "package_url": "https://pypi.org/project/cect/"
+}

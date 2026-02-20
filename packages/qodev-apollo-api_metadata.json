@@ -1,0 +1,11 @@
+{
+  "name": "qodev-apollo-api",
+  "version": "0.1.0",
+  "summary": "Async Python client for Apollo.io CRM API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qodev_apollo_api-0.1.0.tar.gz",
+  "download_time": "2026-02-20T14:12:02.031655",
+  "package_url": "https://pypi.org/project/qodev-apollo-api/"
+}

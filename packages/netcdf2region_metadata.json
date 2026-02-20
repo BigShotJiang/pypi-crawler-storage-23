@@ -1,0 +1,11 @@
+{
+  "name": "netcdf2region",
+  "version": "0.1.5",
+  "summary": "Aggregate NetCDF data to regions using spatial weights",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netcdf2region-0.1.5.tar.gz",
+  "download_time": "2026-02-20T14:11:52.507763",
+  "package_url": "https://pypi.org/project/netcdf2region/"
+}

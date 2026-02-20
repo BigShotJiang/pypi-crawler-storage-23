@@ -1,11 +1,11 @@
 {
   "name": "qdrive",
-  "version": "0.2.56",
+  "version": "0.2.57",
   "summary": "Dataset management and measurement library for scientific data",
   "author": "QHarbor team",
   "license": null,
   "home_page": null,
-  "download_filename": "qdrive-0.2.56-py3-none-any.whl",
-  "download_time": "2026-02-19T15:30:24.740910",
+  "download_filename": "qdrive-0.2.57-py3-none-any.whl",
+  "download_time": "2026-02-20T14:11:49.897234",
   "package_url": "https://pypi.org/project/qdrive/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fasttransfer-mcp",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol (MCP) server for FastTransfer, enabling efficient data transfer between database systems.",
+  "author": "Arpe.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasttransfer_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-20T14:11:51.434298",
+  "package_url": "https://pypi.org/project/fasttransfer-mcp/"
+}

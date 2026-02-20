@@ -1,0 +1,11 @@
+{
+  "name": "flip-utils",
+  "version": "0.1.0",
+  "summary": "FLIP - Federated Learning for Imaging Platform library built on NVIDIA FLARE",
+  "author": "AI Centre for Value Based Healthcare, Guy's and St Thomas' NHS Foundation Trust, King's College London",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flip_utils-0.1.0.tar.gz",
+  "download_time": "2026-02-20T14:11:34.699803",
+  "package_url": "https://pypi.org/project/flip-utils/"
+}
