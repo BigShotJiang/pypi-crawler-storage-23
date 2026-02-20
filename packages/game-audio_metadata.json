@@ -1,0 +1,11 @@
+{
+  "name": "game-audio",
+  "version": "2.1.0",
+  "summary": "Python bindings for Game Audio Module - a C++ audio system built on miniaudio",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "game_audio-2.1.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-20T23:49:39.217903",
+  "package_url": "https://pypi.org/project/game-audio/"
+}

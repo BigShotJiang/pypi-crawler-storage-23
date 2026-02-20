@@ -1,0 +1,11 @@
+{
+  "name": "rfswarm-agent",
+  "version": "1.5.3",
+  "summary": "rfswarm Agent",
+  "author": "damies13",
+  "license": null,
+  "home_page": "https://github.com/damies13/rfswarm",
+  "download_filename": "rfswarm_agent-1.5.3.tar.gz",
+  "download_time": "2026-02-20T23:49:19.808561",
+  "package_url": "https://pypi.org/project/rfswarm-agent/"
+}

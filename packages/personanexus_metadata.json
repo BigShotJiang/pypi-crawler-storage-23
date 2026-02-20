@@ -1,0 +1,11 @@
+{
+  "name": "personanexus",
+  "version": "0.0.1",
+  "summary": "Define AI agent personalities in YAML, not code. Psychological frameworks (OCEAN/DISC), behavioral modes, mood states, and interaction protocols — compiled to system prompts for any LLM.",
+  "author": "Jim Rowan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "personanexus-0.0.1.tar.gz",
+  "download_time": "2026-02-20T23:49:30.817230",
+  "package_url": "https://pypi.org/project/personanexus/"
+}

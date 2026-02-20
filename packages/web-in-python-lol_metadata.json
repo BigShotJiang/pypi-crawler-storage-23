@@ -1,11 +1,11 @@
 {
   "name": "web-in-python-lol",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A responsive, Python-only UI engine for rapid dashboards",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "web_in_python_lol-0.2.0.tar.gz",
-  "download_time": "2026-02-20T22:19:33.820772",
+  "download_filename": "web_in_python_lol-0.2.1.tar.gz",
+  "download_time": "2026-02-20T23:49:56.040663",
   "package_url": "https://pypi.org/project/web-in-python-lol/"
 }

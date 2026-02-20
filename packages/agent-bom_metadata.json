@@ -1,11 +1,11 @@
 {
   "name": "agent-bom",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "AI Bill of Materials (AI-BOM) generator — CVE scanning, blast radius, enterprise remediation plans, OWASP LLM Top 10 + MITRE ATLAS + NIST AI RMF threat mapping, LLM-powered enrichment, OpenClaw discovery, MCP runtime introspection, and MCP registry for AI agents.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_bom-0.13.0.tar.gz",
-  "download_time": "2026-02-20T21:57:27.390332",
+  "download_filename": "agent_bom-0.14.0.tar.gz",
+  "download_time": "2026-02-20T23:49:47.633604",
   "package_url": "https://pypi.org/project/agent-bom/"
 }

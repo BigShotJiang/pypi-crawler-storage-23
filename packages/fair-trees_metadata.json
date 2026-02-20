@@ -1,11 +1,11 @@
 {
   "name": "fair-trees",
-  "version": "3.1.8",
+  "version": "3.1.9",
   "summary": "Fairness-aware decision tree and random forest classifiers",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "fair_trees-3.1.8.tar.gz",
-  "download_time": "2026-02-20T23:20:21.042874",
+  "download_filename": "fair_trees-3.1.9.tar.gz",
+  "download_time": "2026-02-20T23:49:38.693992",
   "package_url": "https://pypi.org/project/fair-trees/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tvminer",
+  "version": "0.22.1",
+  "summary": "Thin wrapper around inference: load_model and predict_batch for batch frame results.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tvminer-0.22.1.tar.gz",
+  "download_time": "2026-02-20T23:49:51.836934",
+  "package_url": "https://pypi.org/project/tvminer/"
+}
