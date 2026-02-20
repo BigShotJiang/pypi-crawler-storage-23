@@ -1,0 +1,11 @@
+{
+  "name": "pexpect-serialspawn",
+  "version": "0.0.5",
+  "summary": "Interact with serial devices using pexpect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pexpect_serialspawn-0.0.5.tar.gz",
+  "download_time": "2026-02-20T10:30:16.834182",
+  "package_url": "https://pypi.org/project/pexpect-serialspawn/"
+}

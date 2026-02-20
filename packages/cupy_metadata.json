@@ -1,0 +1,11 @@
+{
+  "name": "cupy",
+  "version": "14.0.1",
+  "summary": "CuPy: NumPy & SciPy for GPU",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cupy-14.0.1.tar.gz",
+  "download_time": "2026-02-20T10:30:16.316012",
+  "package_url": "https://pypi.org/project/cupy/"
+}

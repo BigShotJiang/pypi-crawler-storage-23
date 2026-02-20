@@ -1,0 +1,11 @@
+{
+  "name": "filehash-tool",
+  "version": "2.2.7",
+  "summary": "本CLI工具用于计算、存储、验证磁盘文件的hash值，可检查文件是否被篡改。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "filehash_tool-2.2.7.tar.gz",
+  "download_time": "2026-02-20T10:30:45.517295",
+  "package_url": "https://pypi.org/project/filehash-tool/"
+}

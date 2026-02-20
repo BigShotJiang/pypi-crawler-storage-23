@@ -1,0 +1,11 @@
+{
+  "name": "akida",
+  "version": "2.19.1",
+  "summary": "Akida Execution Engine",
+  "author": "Matthieu Hernandez",
+  "license": "Proprietary",
+  "home_page": "https://doc.brainchipinc.com",
+  "download_filename": "akida-2.19.1-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-02-20T10:30:43.957864",
+  "package_url": "https://pypi.org/project/akida/"
+}

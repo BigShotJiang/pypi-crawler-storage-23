@@ -1,0 +1,11 @@
+{
+  "name": "indestructibleeco-ai",
+  "version": "1.0.0",
+  "summary": "AI generation + YAML governance service for IndestructibleEco platform",
+  "author": "IndestructibleEco Platform Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "indestructibleeco_ai-1.0.0.tar.gz",
+  "download_time": "2026-02-20T10:30:27.790911",
+  "package_url": "https://pypi.org/project/indestructibleeco-ai/"
+}

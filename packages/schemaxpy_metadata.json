@@ -1,0 +1,11 @@
+{
+  "name": "schemaxpy",
+  "version": "0.2.0",
+  "summary": "Python SDK and CLI for Databricks Unity Catalog schema management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "schemaxpy-0.2.0.tar.gz",
+  "download_time": "2026-02-20T10:30:35.097179",
+  "package_url": "https://pypi.org/project/schemaxpy/"
+}

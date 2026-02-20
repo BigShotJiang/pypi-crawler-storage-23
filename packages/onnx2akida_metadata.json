@@ -1,0 +1,11 @@
+{
+  "name": "onnx2akida",
+  "version": "0.7.0",
+  "summary": "Evaluates the compatibility of an ONNX model with Akida.",
+  "author": "Brainchip",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx2akida-0.7.0.tar.gz",
+  "download_time": "2026-02-20T10:30:36.657716",
+  "package_url": "https://pypi.org/project/onnx2akida/"
+}

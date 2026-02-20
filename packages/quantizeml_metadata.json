@@ -1,0 +1,11 @@
+{
+  "name": "quantizeml",
+  "version": "1.2.3",
+  "summary": "Base layers and quantization tools",
+  "author": "Kevin Tsiknos",
+  "license": "Apache 2.0",
+  "home_page": "https://doc.brainchipinc.com",
+  "download_filename": "quantizeml-1.2.3.tar.gz",
+  "download_time": "2026-02-20T10:30:40.294115",
+  "package_url": "https://pypi.org/project/quantizeml/"
+}

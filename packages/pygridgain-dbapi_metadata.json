@@ -1,0 +1,11 @@
+{
+  "name": "pygridgain-dbapi",
+  "version": "9.1.18",
+  "summary": "GridGain 9 DB API Driver",
+  "author": "GridGain Systems",
+  "license": "Copyright (C) GridGain Systems. All Rights Reserved.",
+  "home_page": "https://www.gridgain.com",
+  "download_filename": "pygridgain_dbapi-9.1.18.tar.gz",
+  "download_time": "2026-02-20T10:30:02.144017",
+  "package_url": "https://pypi.org/project/pygridgain-dbapi/"
+}

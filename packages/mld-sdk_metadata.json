@@ -1,11 +1,11 @@
 {
   "name": "mld-sdk",
-  "version": "0.6.5",
+  "version": "0.7.0",
   "summary": "MLD Plugin SDK - Build analysis plugins for the MLD platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mld_sdk-0.6.5.tar.gz",
-  "download_time": "2026-02-20T09:08:23.015710",
+  "download_filename": "mld_sdk-0.7.0.tar.gz",
+  "download_time": "2026-02-20T10:30:34.578125",
   "package_url": "https://pypi.org/project/mld-sdk/"
 }
