@@ -1,0 +1,11 @@
+{
+  "name": "trainsight",
+  "version": "0.2.0",
+  "summary": "AI Training Intelligence Dashboard - Live GPU telemetry, anomaly detection, and training diagnostics",
+  "author": "Pratham Patel",
+  "license": "TrainSight Community License v1.0",
+  "home_page": null,
+  "download_filename": "trainsight-0.2.0.tar.gz",
+  "download_time": "2026-02-20T07:56:48.149813",
+  "package_url": "https://pypi.org/project/trainsight/"
+}

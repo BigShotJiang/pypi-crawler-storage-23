@@ -1,0 +1,11 @@
+{
+  "name": "bam2plot",
+  "version": "0.4.0",
+  "summary": "Plot of coverage from bam file",
+  "author": "William Rosenbaum",
+  "license": "MIT",
+  "home_page": "https://github.com/willros/bam2plot",
+  "download_filename": "bam2plot-0.4.0.tar.gz",
+  "download_time": "2026-02-20T07:56:37.381735",
+  "package_url": "https://pypi.org/project/bam2plot/"
+}

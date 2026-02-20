@@ -1,11 +1,11 @@
 {
   "name": "wordlift-sdk",
-  "version": "4.0.2",
+  "version": "5.1.0",
   "summary": "Python toolkit for orchestrating WordLift imports and structured data workflows.",
   "author": "David Riccitelli",
   "license": null,
   "home_page": null,
-  "download_filename": "wordlift_sdk-4.0.2.tar.gz",
-  "download_time": "2026-02-19T09:04:40.747741",
+  "download_filename": "wordlift_sdk-5.1.0.tar.gz",
+  "download_time": "2026-02-20T07:56:21.536636",
   "package_url": "https://pypi.org/project/wordlift-sdk/"
 }

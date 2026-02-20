@@ -1,0 +1,11 @@
+{
+  "name": "pystrayfix",
+  "version": "0.19.7",
+  "summary": "Provides systray integration",
+  "author": "Moses Palmér",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/AuroraWright/pystrayfix",
+  "download_filename": "pystrayfix-0.19.7.tar.gz",
+  "download_time": "2026-02-20T07:56:54.951097",
+  "package_url": "https://pypi.org/project/pystrayfix/"
+}

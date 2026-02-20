@@ -1,0 +1,11 @@
+{
+  "name": "mojentic",
+  "version": "1.2.1",
+  "summary": "Mojentic is an agentic framework that aims to provide a simple and flexible way to assemble teams of agents to solve complex problems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mojentic-1.2.1.tar.gz",
+  "download_time": "2026-02-20T07:56:35.209210",
+  "package_url": "https://pypi.org/project/mojentic/"
+}
