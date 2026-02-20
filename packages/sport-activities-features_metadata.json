@@ -1,0 +1,11 @@
+{
+  "name": "sport-activities-features",
+  "version": "0.5.4",
+  "summary": "A minimalistic toolbox for extracting features from sport activity files",
+  "author": "Iztok Fister Jr.",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/sport-activities-features",
+  "download_filename": "sport_activities_features-0.5.4.tar.gz",
+  "download_time": "2026-02-20T21:57:28.931996",
+  "package_url": "https://pypi.org/project/sport-activities-features/"
+}

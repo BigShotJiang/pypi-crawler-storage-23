@@ -1,0 +1,11 @@
+{
+  "name": "veeam-ports-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for querying Veeam product network port requirements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veeam_ports_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-20T21:57:38.265473",
+  "package_url": "https://pypi.org/project/veeam-ports-mcp/"
+}

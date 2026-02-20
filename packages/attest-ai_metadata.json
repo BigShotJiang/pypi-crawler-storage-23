@@ -1,11 +1,11 @@
 {
   "name": "attest-ai",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Test framework for AI agents",
   "author": "Attest Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "attest_ai-0.2.0.tar.gz",
-  "download_time": "2026-02-18T23:30:05.915651",
+  "download_filename": "attest_ai-0.4.0.tar.gz",
+  "download_time": "2026-02-20T21:57:44.009619",
   "package_url": "https://pypi.org/project/attest-ai/"
 }

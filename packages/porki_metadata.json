@@ -1,11 +1,11 @@
 {
   "name": "porki",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Agentic orchestration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "porki-0.6.1.tar.gz",
-  "download_time": "2026-02-20T21:44:22.336268",
+  "download_filename": "porki-0.6.2.tar.gz",
+  "download_time": "2026-02-20T21:57:25.756166",
   "package_url": "https://pypi.org/project/porki/"
 }

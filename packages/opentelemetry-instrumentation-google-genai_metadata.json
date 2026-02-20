@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-google-genai",
+  "version": "0.7b0",
+  "summary": "OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_google_genai-0.7b0.tar.gz",
+  "download_time": "2026-02-20T21:57:26.290224",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-google-genai/"
+}

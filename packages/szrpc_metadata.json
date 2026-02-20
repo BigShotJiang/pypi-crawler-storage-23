@@ -1,11 +1,11 @@
 {
   "name": "szrpc",
-  "version": "2026.2.1",
+  "version": "2026.2.3",
   "summary": " Simple ZeroMQ RPC in Python",
   "author": "Michel Fodje",
   "license": "MIT",
   "home_page": "https://github.com/michel4j/swift-rpc",
-  "download_filename": "szrpc-2026.2.1.tar.gz",
-  "download_time": "2026-02-20T20:01:59.684260",
+  "download_filename": "szrpc-2026.2.3.tar.gz",
+  "download_time": "2026-02-20T21:57:45.546983",
   "package_url": "https://pypi.org/project/szrpc/"
 }
