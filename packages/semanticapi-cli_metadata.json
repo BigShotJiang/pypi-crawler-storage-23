@@ -1,11 +1,11 @@
 {
   "name": "semanticapi-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "CLI for Semantic API — discover and query 700+ APIs with natural language",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "semanticapi_cli-0.1.2.tar.gz",
-  "download_time": "2026-02-20T20:20:23.335260",
+  "download_filename": "semanticapi_cli-0.1.3.tar.gz",
+  "download_time": "2026-02-20T20:53:29.652335",
   "package_url": "https://pypi.org/project/semanticapi-cli/"
 }

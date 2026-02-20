@@ -1,0 +1,11 @@
+{
+  "name": "custom-stock-bar",
+  "version": "0.1.4",
+  "summary": "Tool for convert any price to Custom Bar price",
+  "author": "Beilak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custom_stock_bar-0.1.4.tar.gz",
+  "download_time": "2026-02-20T20:53:23.333631",
+  "package_url": "https://pypi.org/project/custom-stock-bar/"
+}

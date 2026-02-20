@@ -1,0 +1,11 @@
+{
+  "name": "redfish-service-validator",
+  "version": "3.0.0",
+  "summary": "Redfish Service Validator",
+  "author": "DMTF, https://www.dmtf.org/standards/feedback",
+  "license": "BSD 3-clause \"New\" or \"Revised License\"",
+  "home_page": "https://github.com/DMTF/Redfish-Protocol-Validator",
+  "download_filename": "redfish_service_validator-3.0.0.tar.gz",
+  "download_time": "2026-02-20T20:53:22.812562",
+  "package_url": "https://pypi.org/project/redfish-service-validator/"
+}

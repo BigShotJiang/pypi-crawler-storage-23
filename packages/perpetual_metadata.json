@@ -1,0 +1,11 @@
+{
+  "name": "perpetual",
+  "version": "1.8.0",
+  "summary": "A self-generalizing gradient boosting machine that doesn't need hyperparameter optimization",
+  "author": null,
+  "license": null,
+  "home_page": "https://perpetual-ml.com",
+  "download_filename": "perpetual-1.8.0.tar.gz",
+  "download_time": "2026-02-20T20:53:27.042908",
+  "package_url": "https://pypi.org/project/perpetual/"
+}

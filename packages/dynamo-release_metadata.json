@@ -1,0 +1,11 @@
+{
+  "name": "dynamo-release",
+  "version": "1.5.2",
+  "summary": "Mapping Vector Field of Single Cells",
+  "author": "Xiaojie Qiu, Yan Zhang, Ke Ni",
+  "license": "BSD",
+  "home_page": "https://github.com/aristoteleo/dynamo-release",
+  "download_filename": "dynamo_release-1.5.2.tar.gz",
+  "download_time": "2026-02-20T20:53:30.701188",
+  "package_url": "https://pypi.org/project/dynamo-release/"
+}
