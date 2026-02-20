@@ -1,0 +1,11 @@
+{
+  "name": "e2e-type-converter",
+  "version": "0.1.2",
+  "summary": "Python类型转换兼容层，支持所有标准数据类型和第三方库类型之间的双向转换",
+  "author": "John-is-playing",
+  "license": "MIT",
+  "home_page": "https://github.com/John-is-playing/everything2everything",
+  "download_filename": "e2e_type_converter-0.1.2.tar.gz",
+  "download_time": "2026-02-20T14:59:13.113992",
+  "package_url": "https://pypi.org/project/e2e-type-converter/"
+}

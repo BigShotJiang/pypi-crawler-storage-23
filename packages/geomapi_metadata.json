@@ -1,0 +1,11 @@
+{
+  "name": "geomapi",
+  "version": "1.0.3",
+  "summary": "A standard library to manage geomatic data",
+  "author": "Bassier M., De Geyter S., De Winter H., Vermandere J. @ Geomatics KU Leuven",
+  "license": "MIT",
+  "home_page": "https://ku-leuven-geomatics.github.io/geomapi/index.html",
+  "download_filename": "geomapi-1.0.3.tar.gz",
+  "download_time": "2026-02-20T14:59:43.167975",
+  "package_url": "https://pypi.org/project/geomapi/"
+}

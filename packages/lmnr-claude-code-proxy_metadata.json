@@ -1,0 +1,11 @@
+{
+  "name": "lmnr-claude-code-proxy",
+  "version": "0.1.13",
+  "summary": "Thin proxy server for Claude Code and Laminar tracing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmnr_claude_code_proxy-0.1.13.tar.gz",
+  "download_time": "2026-02-20T14:59:46.666872",
+  "package_url": "https://pypi.org/project/lmnr-claude-code-proxy/"
+}

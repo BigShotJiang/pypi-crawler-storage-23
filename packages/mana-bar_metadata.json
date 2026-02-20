@@ -1,0 +1,11 @@
+{
+  "name": "mana-bar",
+  "version": "0.1.13",
+  "summary": "A task flow management tool for syncing todo files with taskwarrior",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mana_bar-0.1.13.tar.gz",
+  "download_time": "2026-02-20T14:58:55.562143",
+  "package_url": "https://pypi.org/project/mana-bar/"
+}

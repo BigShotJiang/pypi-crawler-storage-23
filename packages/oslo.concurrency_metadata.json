@@ -1,0 +1,11 @@
+{
+  "name": "oslo.concurrency",
+  "version": "7.4.0",
+  "summary": "Oslo Concurrency library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oslo_concurrency-7.4.0.tar.gz",
+  "download_time": "2026-02-20T14:59:23.425688",
+  "package_url": "https://pypi.org/project/oslo.concurrency/"
+}

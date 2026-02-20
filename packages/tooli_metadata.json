@@ -1,0 +1,11 @@
+{
+  "name": "tooli",
+  "version": "6.0.0",
+  "summary": "The agent-native CLI framework for Python",
+  "author": "tooli developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tooli-6.0.0.tar.gz",
+  "download_time": "2026-02-20T14:59:01.512713",
+  "package_url": "https://pypi.org/project/tooli/"
+}

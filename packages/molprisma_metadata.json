@@ -1,0 +1,11 @@
+{
+  "name": "molprisma",
+  "version": "1.0.0",
+  "summary": "Tool for fast inspection of PDB molecular files inside the terminal",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/molprisma",
+  "download_filename": "molprisma-1.0.0.tar.gz",
+  "download_time": "2026-02-20T14:59:04.872157",
+  "package_url": "https://pypi.org/project/molprisma/"
+}

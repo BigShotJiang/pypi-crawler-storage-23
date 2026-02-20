@@ -1,0 +1,11 @@
+{
+  "name": "bc-al-chunker",
+  "version": "0.1.0",
+  "summary": "Static analysis and RAG-optimized chunking for Business Central AL files",
+  "author": "Andrijan Tasevski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bc_al_chunker-0.1.0.tar.gz",
+  "download_time": "2026-02-20T14:58:54.420607",
+  "package_url": "https://pypi.org/project/bc-al-chunker/"
+}

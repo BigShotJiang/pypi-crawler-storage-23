@@ -1,0 +1,11 @@
+{
+  "name": "uk-gp-practices",
+  "version": "0.1.0",
+  "summary": "Query UK GP practices (surgeries) via NHS ODS Data Search & Export CSV reports.",
+  "author": "Joshua Evans",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uk_gp_practices-0.1.0.tar.gz",
+  "download_time": "2026-02-20T14:59:09.171102",
+  "package_url": "https://pypi.org/project/uk-gp-practices/"
+}

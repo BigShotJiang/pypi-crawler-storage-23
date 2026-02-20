@@ -1,11 +1,11 @@
 {
   "name": "caddy-in-the-middle",
-  "version": "0.4.8",
+  "version": "0.5.0",
   "summary": "Testcontainers module for CaddyInTheMiddle",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "caddy_in_the_middle-0.4.8.tar.gz",
-  "download_time": "2026-02-19T23:25:06.139071",
+  "download_filename": "caddy_in_the_middle-0.5.0.tar.gz",
+  "download_time": "2026-02-20T14:59:29.006088",
   "package_url": "https://pypi.org/project/caddy-in-the-middle/"
 }

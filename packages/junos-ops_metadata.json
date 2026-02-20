@@ -1,0 +1,11 @@
+{
+  "name": "junos-ops",
+  "version": "0.6.2",
+  "summary": "Automated JUNOS package management tool for Juniper Networks devices",
+  "author": "AIKAWA Shigechika",
+  "license": null,
+  "home_page": null,
+  "download_filename": "junos_ops-0.6.2.tar.gz",
+  "download_time": "2026-02-20T14:59:30.660343",
+  "package_url": "https://pypi.org/project/junos-ops/"
+}
