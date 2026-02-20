@@ -1,0 +1,11 @@
+{
+  "name": "meitingtrunk",
+  "version": "0.3",
+  "summary": "An open source reference management tool developed in PyQt5 and Python3.",
+  "author": "Guangzhi XU",
+  "license": null,
+  "home_page": "https://github.com/Xunius/MeiTingTrunk",
+  "download_filename": "meitingtrunk-0.3.tar.gz",
+  "download_time": "2026-02-20T12:02:32.827581",
+  "package_url": "https://pypi.org/project/meitingtrunk/"
+}

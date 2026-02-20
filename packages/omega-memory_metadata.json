@@ -1,0 +1,11 @@
+{
+  "name": "omega-memory",
+  "version": "0.10.5",
+  "summary": "Persistent memory for AI coding agents — #1 on LongMemEval benchmark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omega_memory-0.10.5.tar.gz",
+  "download_time": "2026-02-20T12:02:29.649081",
+  "package_url": "https://pypi.org/project/omega-memory/"
+}

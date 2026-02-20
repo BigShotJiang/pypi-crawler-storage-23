@@ -1,0 +1,11 @@
+{
+  "name": "commitmessagegenerator",
+  "version": "2.5.0",
+  "summary": "Generate commit messages with AI (Google Gemini) automatically using `git diff`.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "commitmessagegenerator-2.5.0.tar.gz",
+  "download_time": "2026-02-20T12:02:46.910994",
+  "package_url": "https://pypi.org/project/commitmessagegenerator/"
+}

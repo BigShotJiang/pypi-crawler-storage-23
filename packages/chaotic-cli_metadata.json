@@ -1,0 +1,11 @@
+{
+  "name": "chaotic-cli",
+  "version": "0.1.0a15",
+  "summary": "CLI for Chaotic issue tracking system",
+  "author": "Third Bear Solutions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chaotic_cli-0.1.0a15.tar.gz",
+  "download_time": "2026-02-20T12:02:39.105230",
+  "package_url": "https://pypi.org/project/chaotic-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mengram-ai",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "summary": "Human-like memory for AI — semantic, episodic & procedural. Experience-driven procedures, Cognitive Profile, unified search, memory agents. Free open-source Mem0 alternative.",
   "author": "Ali Baizhanov",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mengram_ai-2.8.0.tar.gz",
-  "download_time": "2026-02-20T10:30:36.138258",
+  "download_filename": "mengram_ai-2.9.0.tar.gz",
+  "download_time": "2026-02-20T12:02:28.479744",
   "package_url": "https://pypi.org/project/mengram-ai/"
 }

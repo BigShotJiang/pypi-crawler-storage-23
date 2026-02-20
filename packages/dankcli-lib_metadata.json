@@ -1,11 +1,11 @@
 {
   "name": "dankcli-lib",
-  "version": "0.5.9",
+  "version": "0.6.3",
   "summary": "Patched CLI Meme Generator/Caption Maker to automatically add whitespace and text to top and bottom",
   "author": "TheMrRedSlime",
   "license": "MIT",
-  "home_page": "https://github.com/TheMrRedSlime/dankcli",
-  "download_filename": "dankcli_lib-0.5.9-2-py3-none-any.whl",
-  "download_time": "2026-02-20T11:46:00.550954",
+  "home_page": null,
+  "download_filename": "dankcli_lib-0.6.3.tar.gz",
+  "download_time": "2026-02-20T12:02:39.624152",
   "package_url": "https://pypi.org/project/dankcli-lib/"
 }

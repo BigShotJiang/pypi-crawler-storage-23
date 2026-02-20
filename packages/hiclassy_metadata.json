@@ -1,0 +1,11 @@
+{
+  "name": "hiclassy",
+  "version": "3.3.4.1",
+  "summary": "Python interface to the Cosmological Boltzmann code hi_class",
+  "author": "Emilio Bellini, Ignacy Sawicki, Miguel Zumalacarregui, ... and many more (see webpage)",
+  "license": null,
+  "home_page": "http://www.class-code.net",
+  "download_filename": "hiclassy-3.3.4.1.tar.gz",
+  "download_time": "2026-02-20T12:02:48.524137",
+  "package_url": "https://pypi.org/project/hiclassy/"
+}

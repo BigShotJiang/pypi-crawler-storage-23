@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-common-sql",
+  "version": "1.31.0",
+  "summary": "Provider package apache-airflow-providers-common-sql for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_common_sql-1.31.0.tar.gz",
+  "download_time": "2026-02-20T12:02:23.232985",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-common-sql/"
+}

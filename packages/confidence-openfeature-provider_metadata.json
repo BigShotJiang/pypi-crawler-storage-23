@@ -1,0 +1,11 @@
+{
+  "name": "confidence-openfeature-provider",
+  "version": "0.4.1",
+  "summary": "Confidence OpenFeature provider for local flag resolution using WebAssembly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "confidence_openfeature_provider-0.4.1.tar.gz",
+  "download_time": "2026-02-20T12:02:52.742365",
+  "package_url": "https://pypi.org/project/confidence-openfeature-provider/"
+}
