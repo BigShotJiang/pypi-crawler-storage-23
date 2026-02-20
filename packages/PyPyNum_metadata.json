@@ -1,0 +1,11 @@
+{
+  "name": "PyPyNum",
+  "version": "1.18.0",
+  "summary": "PyPyNum is a versatile Python math lib. It features modules for math, data analysis, arrays, crypto, physics, RNG, data proc, stats, eq solving, image proc, interp, matrix calc, and high-prec math. Designed for scientific computing, data science, and ML, it offers efficient, general-purpose tools.",
+  "author": "Shen Jiayi",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/PythonSJL/PyPyNum",
+  "download_filename": "pypynum-1.18.0.tar.gz",
+  "download_time": "2026-02-20T09:57:38.308046",
+  "package_url": "https://pypi.org/project/PyPyNum/"
+}

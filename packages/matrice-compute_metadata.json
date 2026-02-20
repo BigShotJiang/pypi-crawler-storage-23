@@ -1,0 +1,11 @@
+{
+  "name": "matrice-compute",
+  "version": "0.1.63",
+  "summary": "Common server utilities for Matrice.ai services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matrice_compute-0.1.63.tar.gz",
+  "download_time": "2026-02-20T09:56:57.621848",
+  "package_url": "https://pypi.org/project/matrice-compute/"
+}

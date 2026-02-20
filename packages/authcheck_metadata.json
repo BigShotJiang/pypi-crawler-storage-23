@@ -1,0 +1,11 @@
+{
+  "name": "authcheck",
+  "version": "0.0.27",
+  "summary": "Find if characret is registered in auth",
+  "author": "Aleksey Misyagin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "authcheck-0.0.27-py3-none-any.whl",
+  "download_time": "2026-02-20T09:56:54.011816",
+  "package_url": "https://pypi.org/project/authcheck/"
+}

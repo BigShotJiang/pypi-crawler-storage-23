@@ -1,11 +1,11 @@
 {
   "name": "marty-cli",
-  "version": "0.2.7",
+  "version": "0.2.9",
   "summary": "My Python CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marty_cli-0.2.7.tar.gz",
-  "download_time": "2026-02-20T09:07:51.529093",
+  "download_filename": "marty_cli-0.2.9.tar.gz",
+  "download_time": "2026-02-20T09:56:58.132891",
   "package_url": "https://pypi.org/project/marty-cli/"
 }
