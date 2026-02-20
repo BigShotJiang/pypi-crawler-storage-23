@@ -1,0 +1,11 @@
+{
+  "name": "malwar",
+  "version": "0.2.1",
+  "summary": "Malware detection engine for agentic skills (SKILL.md)",
+  "author": "Veritas Aequitas Holdings LLC",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "malwar-0.2.1.tar.gz",
+  "download_time": "2026-02-20T22:19:30.731601",
+  "package_url": "https://pypi.org/project/malwar/"
+}

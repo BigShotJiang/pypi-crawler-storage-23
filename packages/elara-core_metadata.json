@@ -1,0 +1,11 @@
+{
+  "name": "elara-core",
+  "version": "0.14.0",
+  "summary": "Persistent presence, mood, memory, and self-awareness for AI assistants",
+  "author": "Nenad Vasić",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elara_core-0.14.0.tar.gz",
+  "download_time": "2026-02-20T22:19:42.055979",
+  "package_url": "https://pypi.org/project/elara-core/"
+}

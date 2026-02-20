@@ -1,11 +1,11 @@
 {
   "name": "drp-cli",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Drop text and files from the command line — get a link instantly.",
   "author": "Vic Nas",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drp_cli-0.2.9.tar.gz",
-  "download_time": "2026-02-20T21:44:13.966595",
+  "download_filename": "drp_cli-0.2.10.tar.gz",
+  "download_time": "2026-02-20T22:19:20.412973",
   "package_url": "https://pypi.org/project/drp-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openhands-agent-server",
+  "version": "1.11.5",
+  "summary": "OpenHands Agent Server - REST/WebSocket interface for OpenHands AI Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openhands_agent_server-1.11.5.tar.gz",
+  "download_time": "2026-02-20T22:19:07.916183",
+  "package_url": "https://pypi.org/project/openhands-agent-server/"
+}

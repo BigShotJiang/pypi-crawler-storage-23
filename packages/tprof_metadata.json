@@ -1,0 +1,11 @@
+{
+  "name": "tprof",
+  "version": "1.2.0",
+  "summary": "A targeting profiler.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tprof-1.2.0.tar.gz",
+  "download_time": "2026-02-20T22:19:23.518459",
+  "package_url": "https://pypi.org/project/tprof/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "TruthTorchLM",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "TruthTorchLM is an open-source library designed to assess truthfulness in language models' outputs. The library integrates state-of-the-art methods, offers comprehensive benchmarking tools across various tasks, and enables seamless integration with popular frameworks like Huggingface and LiteLLM.",
   "author": "Yavuz Faruk Bakman",
   "license": null,
   "home_page": null,
-  "download_filename": "truthtorchlm-0.1.18.tar.gz",
-  "download_time": "2026-02-20T21:44:36.241593",
+  "download_filename": "truthtorchlm-0.1.19.tar.gz",
+  "download_time": "2026-02-20T22:19:40.509360",
   "package_url": "https://pypi.org/project/TruthTorchLM/"
 }
