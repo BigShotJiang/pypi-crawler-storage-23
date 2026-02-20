@@ -1,11 +1,11 @@
 {
   "name": "codetrust",
-  "version": "2.6.1",
-  "summary": "AI code safety platform — 280 rules, 10 enforcement layers, 5 enterprise services. AI Governance Gateway blocks destructive AI agent actions (76 real-time rules). Hallucination Detection verifies imports against PyPI/npm/crates.io/Go/Maven/NuGet/RubyGems/Packagist. Trust Score tracks safety drift. CVE scanning, license compliance, cross-file analysis, auto-fix PRs, RBAC. 44 API endpoints, 21 MCP tools, 1795 tests. CLI, VS Code extension, GitHub Action, MCP server.",
+  "version": "2.7.0",
+  "summary": "AI code safety platform — 280 rules, 10 enforcement layers, 5 enterprise services. AI Governance Gateway blocks destructive AI agent actions (76 real-time rules). Hallucination Detection verifies imports against PyPI/npm/crates.io/Go/Maven/NuGet/RubyGems/Packagist. Trust Score tracks safety drift. CVE scanning, license compliance, cross-file analysis, auto-fix PRs, RBAC. 45 API endpoints, 21 MCP tools, 1898 tests. CLI, VS Code extension, GitHub Action, MCP server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codetrust-2.6.1-py3-none-any.whl",
-  "download_time": "2026-02-20T10:30:24.146338",
+  "download_filename": "codetrust-2.7.0.tar.gz",
+  "download_time": "2026-02-20T17:35:08.930877",
   "package_url": "https://pypi.org/project/codetrust/"
 }

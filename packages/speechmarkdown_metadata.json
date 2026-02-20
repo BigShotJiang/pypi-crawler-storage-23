@@ -1,0 +1,11 @@
+{
+  "name": "speechmarkdown",
+  "version": "1.0.2",
+  "summary": "Speech Markdown library for Python.",
+  "author": "Takeshi Teshima",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "speechmarkdown-1.0.2.tar.gz",
+  "download_time": "2026-02-20T17:35:02.141789",
+  "package_url": "https://pypi.org/project/speechmarkdown/"
+}

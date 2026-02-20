@@ -1,0 +1,11 @@
+{
+  "name": "ytstudio-cli",
+  "version": "0.1.1",
+  "summary": "CLI tool to manage and analyze your YouTube channel from the terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytstudio_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-20T17:35:12.015109",
+  "package_url": "https://pypi.org/project/ytstudio-cli/"
+}

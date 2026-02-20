@@ -1,0 +1,11 @@
+{
+  "name": "ai-content-autopilot",
+  "version": "1.0.2",
+  "summary": "Python SDK for the Visibly Content Autopilot API - Pull API client, HMAC webhook verification, and Flask Blueprint.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_content_autopilot-1.0.2.tar.gz",
+  "download_time": "2026-02-20T17:35:20.262843",
+  "package_url": "https://pypi.org/project/ai-content-autopilot/"
+}
