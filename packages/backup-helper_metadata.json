@@ -1,0 +1,11 @@
+{
+  "name": "backup-helper",
+  "version": "0.3.1",
+  "summary": "Helper tool for creating plain-file cold-storage archives including checksum files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backup_helper-0.3.1-py3-none-any.whl",
+  "download_time": "2026-02-20T21:15:55.259184",
+  "package_url": "https://pypi.org/project/backup-helper/"
+}

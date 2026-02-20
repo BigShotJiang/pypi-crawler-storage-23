@@ -1,0 +1,11 @@
+{
+  "name": "amazon-braket-algorithm-library",
+  "version": "1.7.3",
+  "summary": "An open source library of quantum computing algorithms implemented on Amazon Braket",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-braket/amazon-braket-algorithm-library",
+  "download_filename": "amazon_braket_algorithm_library-1.7.3.tar.gz",
+  "download_time": "2026-02-20T21:16:03.090773",
+  "package_url": "https://pypi.org/project/amazon-braket-algorithm-library/"
+}

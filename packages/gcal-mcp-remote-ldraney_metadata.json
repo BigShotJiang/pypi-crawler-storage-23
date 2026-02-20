@@ -1,0 +1,11 @@
+{
+  "name": "gcal-mcp-remote-ldraney",
+  "version": "0.2.0",
+  "summary": "Remote MCP connector wrapping gcal-mcp with Google OAuth 2.0 over Streamable HTTP",
+  "author": "Lucas Draney",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcal_mcp_remote_ldraney-0.2.0.tar.gz",
+  "download_time": "2026-02-20T21:15:52.170759",
+  "package_url": "https://pypi.org/project/gcal-mcp-remote-ldraney/"
+}

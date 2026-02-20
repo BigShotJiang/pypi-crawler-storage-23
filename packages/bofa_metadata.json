@@ -1,11 +1,11 @@
 {
   "name": "bofa",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "summary": "Have you heard of bofa?",
   "author": "jonathan343",
   "license": null,
   "home_page": null,
-  "download_filename": "bofa-0.0.2.tar.gz",
-  "download_time": "2026-02-19T22:57:53.934286",
+  "download_filename": "bofa-0.1.1.tar.gz",
+  "download_time": "2026-02-20T21:16:13.116611",
   "package_url": "https://pypi.org/project/bofa/"
 }

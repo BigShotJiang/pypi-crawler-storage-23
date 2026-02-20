@@ -1,0 +1,11 @@
+{
+  "name": "db-robust-clust",
+  "version": "0.1.7",
+  "summary": "Apply distance based robust clustering for mixed data.",
+  "author": "Fabio Scielzo Ortiz",
+  "license": null,
+  "home_page": "https://github.com/FabioScielzoOrtiz/db_robust_clust",
+  "download_filename": "db_robust_clust-0.1.7.tar.gz",
+  "download_time": "2026-02-20T21:16:04.629413",
+  "package_url": "https://pypi.org/project/db-robust-clust/"
+}

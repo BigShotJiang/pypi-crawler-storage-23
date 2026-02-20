@@ -1,11 +1,11 @@
 {
   "name": "pyhausbus",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "summary": "Python based library for accessing haus-bus.de modules. Inteded to be used in a Home Assistant integration.",
   "author": "Hermann Hoeschen",
   "license": null,
   "home_page": "https://www.haus-bus.de/",
-  "download_filename": "pyhausbus-1.0.47.tar.gz",
-  "download_time": "2026-02-20T20:01:25.308261",
+  "download_filename": "pyhausbus-1.0.48.tar.gz",
+  "download_time": "2026-02-20T21:16:29.217484",
   "package_url": "https://pypi.org/project/pyhausbus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "microperf",
+  "version": "1.0.2",
+  "summary": "A small tool using perf to provide more performance insights.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microperf-1.0.2.tar.gz",
+  "download_time": "2026-02-20T21:16:08.274307",
+  "package_url": "https://pypi.org/project/microperf/"
+}
