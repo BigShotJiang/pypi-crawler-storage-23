@@ -1,0 +1,11 @@
+{
+  "name": "mathrobo",
+  "version": "0.0.3",
+  "summary": "basic mathematical library for robotics reserach",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mathrobo-0.0.3.tar.gz",
+  "download_time": "2026-02-20T08:30:57.097631",
+  "package_url": "https://pypi.org/project/mathrobo/"
+}

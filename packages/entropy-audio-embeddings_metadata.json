@@ -1,0 +1,11 @@
+{
+  "name": "entropy-audio-embeddings",
+  "version": "0.1.0",
+  "summary": "entropy-audio-embeddings: audio mapping to low dimensional metric space",
+  "author": "Fernando Luque",
+  "license": null,
+  "home_page": "https://github.com/fluques/entropy_audio_embeddings",
+  "download_filename": "entropy_audio_embeddings-0.1.0.tar.gz",
+  "download_time": "2026-02-20T08:30:55.030744",
+  "package_url": "https://pypi.org/project/entropy-audio-embeddings/"
+}

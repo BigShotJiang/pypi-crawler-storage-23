@@ -1,11 +1,11 @@
 {
   "name": "richforms",
-  "version": "0.3.0",
-  "summary": "Rich terminal forms generated from Pydantic models.",
+  "version": "0.4.0",
+  "summary": "Turn Pydantic models into interactive Rich terminal forms — with built-in Click & Typer integrations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "richforms-0.3.0.tar.gz",
-  "download_time": "2026-02-20T07:56:26.174705",
+  "download_filename": "richforms-0.4.0.tar.gz",
+  "download_time": "2026-02-20T08:31:02.876910",
   "package_url": "https://pypi.org/project/richforms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "s33-modem-mon",
+  "version": "0.1.1",
+  "summary": "Tools for monitoring S33 modems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "s33_modem_mon-0.1.1.tar.gz",
+  "download_time": "2026-02-20T08:30:43.769273",
+  "package_url": "https://pypi.org/project/s33-modem-mon/"
+}

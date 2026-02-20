@@ -1,0 +1,11 @@
+{
+  "name": "davybot",
+  "version": "0.1.2",
+  "summary": "Dawei AI Assistant - Server Package (Backend + Frontend)",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "davybot-0.1.2.tar.gz",
+  "download_time": "2026-02-20T08:30:54.445383",
+  "package_url": "https://pypi.org/project/davybot/"
+}

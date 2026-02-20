@@ -1,0 +1,11 @@
+{
+  "name": "py-oprun",
+  "version": "0.0.1",
+  "summary": "Python connector for oprun",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_oprun-0.0.1.tar.gz",
+  "download_time": "2026-02-20T08:31:21.044406",
+  "package_url": "https://pypi.org/project/py-oprun/"
+}

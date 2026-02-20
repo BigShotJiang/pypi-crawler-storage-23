@@ -1,0 +1,11 @@
+{
+  "name": "yamlgraph",
+  "version": "0.4.48",
+  "summary": "YAML-first framework for building LLM pipelines with LangGraph",
+  "author": "Sami Heikkinen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yamlgraph-0.4.48.tar.gz",
+  "download_time": "2026-02-20T08:31:16.387011",
+  "package_url": "https://pypi.org/project/yamlgraph/"
+}

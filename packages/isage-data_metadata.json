@@ -1,11 +1,11 @@
 {
   "name": "isage-data",
-  "version": "0.2.3.1",
+  "version": "0.2.3.2",
   "summary": "SAGE Data - Unified data loaders for memory benchmark datasets (LongMemEval, Locomo, MemAgentBench, etc.)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_data-0.2.3.1.tar.gz",
-  "download_time": "2026-02-20T07:56:52.822291",
+  "download_filename": "isage_data-0.2.3.2-py2.py3-none-any.whl",
+  "download_time": "2026-02-20T08:31:20.534975",
   "package_url": "https://pypi.org/project/isage-data/"
 }
