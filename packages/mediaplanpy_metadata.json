@@ -1,0 +1,11 @@
+{
+  "name": "mediaplanpy",
+  "version": "3.0.1",
+  "summary": "Python SDK for Media Plan Open Data Standard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mediaplanpy-3.0.1.tar.gz",
+  "download_time": "2026-02-20T20:20:08.430471",
+  "package_url": "https://pypi.org/project/mediaplanpy/"
+}

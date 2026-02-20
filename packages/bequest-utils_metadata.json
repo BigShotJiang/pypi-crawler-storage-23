@@ -1,0 +1,11 @@
+{
+  "name": "bequest-utils",
+  "version": "1.0.0",
+  "summary": "Complete toolkit for Telegram bots",
+  "author": "Bequest",
+  "license": null,
+  "home_page": "https://pypi.org/project/bequest-utils",
+  "download_filename": "bequest_utils-1.0.0-py3-none-any.whl",
+  "download_time": "2026-02-20T20:19:54.162026",
+  "package_url": "https://pypi.org/project/bequest-utils/"
+}

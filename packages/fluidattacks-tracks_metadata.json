@@ -1,11 +1,11 @@
 {
   "name": "fluidattacks-tracks",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Python library for usage analytics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluidattacks_tracks-0.11.1.tar.gz",
-  "download_time": "2026-02-19T22:21:15.115475",
+  "download_filename": "fluidattacks_tracks-0.11.2.tar.gz",
+  "download_time": "2026-02-20T20:20:04.245062",
   "package_url": "https://pypi.org/project/fluidattacks-tracks/"
 }

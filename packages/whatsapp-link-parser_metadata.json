@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-link-parser",
+  "version": "0.2.1",
+  "summary": "Extract, classify, and enrich links from WhatsApp chat exports",
+  "author": "Sreeram Ramasubramanian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatsapp_link_parser-0.2.1.tar.gz",
+  "download_time": "2026-02-20T20:20:05.811576",
+  "package_url": "https://pypi.org/project/whatsapp-link-parser/"
+}

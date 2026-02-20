@@ -1,0 +1,11 @@
+{
+  "name": "controlgate",
+  "version": "0.1.0",
+  "summary": "NIST RMF Cloud Security Hardening — Pre-Commit & Pre-Merge Compliance Gate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "controlgate-0.1.0.tar.gz",
+  "download_time": "2026-02-20T20:20:18.407823",
+  "package_url": "https://pypi.org/project/controlgate/"
+}

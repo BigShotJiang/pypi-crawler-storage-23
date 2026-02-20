@@ -1,0 +1,11 @@
+{
+  "name": "easybuild",
+  "version": "5.2.1",
+  "summary": "EasyBuild is a software build and installation framework that allows you to manage (scientific) software on High Performance Computing (HPC) systems in an efficient way.",
+  "author": "EasyBuild community",
+  "license": "GPLv2",
+  "home_page": "https://easybuild.io",
+  "download_filename": "easybuild-5.2.1.tar.gz",
+  "download_time": "2026-02-20T20:20:16.825753",
+  "package_url": "https://pypi.org/project/easybuild/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "get-pfm",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "PFM - Pure Fucking Magic. AI agent output container format.",
   "author": "Jason Sutter",
   "license": null,
   "home_page": null,
-  "download_filename": "get_pfm-0.1.1.tar.gz",
-  "download_time": "2026-02-20T07:56:44.576618",
+  "download_filename": "get_pfm-0.1.3.tar.gz",
+  "download_time": "2026-02-20T20:19:54.684098",
   "package_url": "https://pypi.org/project/get-pfm/"
 }

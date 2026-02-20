@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-command",
+  "version": "1.2.0",
+  "summary": "The Pulumi Command Provider enables you to execute commands and scripts either locally or remotely as part of the Pulumi resource model.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_command-1.2.0.tar.gz",
+  "download_time": "2026-02-20T20:20:15.255387",
+  "package_url": "https://pypi.org/project/pulumi-command/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "HugeNats",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Wrapper de int para numeros naturales grandes con slicing por bits",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hugenats-0.1.4.tar.gz",
-  "download_time": "2026-02-19T12:38:25.907667",
+  "download_filename": "hugenats-0.1.5.tar.gz",
+  "download_time": "2026-02-20T20:20:20.042716",
   "package_url": "https://pypi.org/project/HugeNats/"
 }

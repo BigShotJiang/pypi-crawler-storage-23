@@ -1,0 +1,11 @@
+{
+  "name": "agentshare",
+  "version": "0.1.0",
+  "summary": "Unifying layer for AI coding agents - share skills and context across Claude Code, Cursor, and Windsurf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentshare-0.1.0.tar.gz",
+  "download_time": "2026-02-20T20:19:50.941445",
+  "package_url": "https://pypi.org/project/agentshare/"
+}

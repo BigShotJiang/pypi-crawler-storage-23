@@ -1,0 +1,11 @@
+{
+  "name": "trusys-llm-scan",
+  "version": "1.0.8",
+  "summary": "A Python-based code scanning tool for AI/LLM-specific vulnerabilities",
+  "author": "Spydra",
+  "license": "MIT",
+  "home_page": "https://github.com/spydra-tech/truscan",
+  "download_filename": "trusys_llm_scan-1.0.8.tar.gz",
+  "download_time": "2026-02-20T20:20:30.232895",
+  "package_url": "https://pypi.org/project/trusys-llm-scan/"
+}

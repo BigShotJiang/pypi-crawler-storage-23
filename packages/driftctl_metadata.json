@@ -1,0 +1,11 @@
+{
+  "name": "driftctl",
+  "version": "0.1.0",
+  "summary": "Persistent project state, guardrails, and drift detection for AI coding agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "driftctl-0.1.0.tar.gz",
+  "download_time": "2026-02-20T20:20:17.885046",
+  "package_url": "https://pypi.org/project/driftctl/"
+}

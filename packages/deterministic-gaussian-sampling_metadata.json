@@ -1,0 +1,11 @@
+{
+  "name": "deterministic-gaussian-sampling",
+  "version": "0.0.1",
+  "summary": "Python library for Localized Distribution (LCD)-based Gaussian sampling.",
+  "author": "Aaron Preus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deterministic_gaussian_sampling-0.0.1.tar.gz",
+  "download_time": "2026-02-20T20:20:35.506795",
+  "package_url": "https://pypi.org/project/deterministic-gaussian-sampling/"
+}

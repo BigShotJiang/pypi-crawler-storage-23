@@ -1,0 +1,11 @@
+{
+  "name": "OpenReservoirComputing",
+  "version": "0.2.0",
+  "summary": "GPU accelerated implementations of common RC architectures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openreservoircomputing-0.2.0-py3-none-any.whl",
+  "download_time": "2026-02-20T20:20:34.969048",
+  "package_url": "https://pypi.org/project/OpenReservoirComputing/"
+}

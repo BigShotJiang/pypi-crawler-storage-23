@@ -1,11 +1,11 @@
 {
   "name": "rightnow-ai",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Python SDK for the Arabic API by RightNow — chat, embeddings, STT, TTS for Arabic",
   "author": "RightNow AI",
   "license": null,
   "home_page": null,
-  "download_filename": "rightnow_ai-0.2.1.tar.gz",
-  "download_time": "2026-02-20T11:46:22.643534",
+  "download_filename": "rightnow_ai-0.2.3.tar.gz",
+  "download_time": "2026-02-20T20:20:06.860827",
   "package_url": "https://pypi.org/project/rightnow-ai/"
 }

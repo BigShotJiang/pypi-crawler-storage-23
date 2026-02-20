@@ -1,0 +1,11 @@
+{
+  "name": "gauntlet-ai",
+  "version": "0.2.0",
+  "summary": "Prompt injection detection for LLM applications",
+  "author": "Gauntlet Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gauntlet_ai-0.2.0.tar.gz",
+  "download_time": "2026-02-20T20:20:19.522288",
+  "package_url": "https://pypi.org/project/gauntlet-ai/"
+}

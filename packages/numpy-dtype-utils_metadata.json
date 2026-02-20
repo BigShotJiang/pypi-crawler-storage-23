@@ -1,0 +1,11 @@
+{
+  "name": "numpy-dtype-utils",
+  "version": "0.3.4",
+  "summary": "Advanced data type handling, gaze estimation, and dataset utilities for NumPy.",
+  "author": "Takumi Sekiguchi",
+  "license": null,
+  "home_page": "https://github.com/yourusername/numpy-dtype-utils",
+  "download_filename": "numpy_dtype_utils-0.3.4.tar.gz",
+  "download_time": "2026-02-20T20:20:26.553486",
+  "package_url": "https://pypi.org/project/numpy-dtype-utils/"
+}
