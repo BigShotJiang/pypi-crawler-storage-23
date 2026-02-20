@@ -1,11 +1,11 @@
 {
   "name": "file-modification-checker",
-  "version": "0.1.2",
-  "summary": "A fast CLI tool to check for modificationa",
+  "version": "0.2.0",
+  "summary": "A fast CLI tool to check for modifications.",
   "author": "Arel Umut Koyluoglu",
   "license": null,
   "home_page": null,
-  "download_filename": "file_modification_checker-0.1.2.tar.gz",
-  "download_time": "2026-02-20T22:19:18.874761",
+  "download_filename": "file_modification_checker-0.2.0.tar.gz",
+  "download_time": "2026-02-20T23:04:12.646853",
   "package_url": "https://pypi.org/project/file-modification-checker/"
 }

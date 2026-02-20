@@ -1,0 +1,11 @@
+{
+  "name": "neverliie-ai-sdk",
+  "version": "0.1.0",
+  "summary": "Minimal AI SDK for OpenAI, Anthropic, Google, and Mistral - optimized for Nuitka compilation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neverliie_ai_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-20T23:04:13.803058",
+  "package_url": "https://pypi.org/project/neverliie-ai-sdk/"
+}

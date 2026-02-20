@@ -1,0 +1,11 @@
+{
+  "name": "mail-swarms",
+  "version": "1.3.6",
+  "summary": "Multi-Agent Interface Layer reference implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mail_swarms-1.3.6.tar.gz",
+  "download_time": "2026-02-20T23:03:29.931630",
+  "package_url": "https://pypi.org/project/mail-swarms/"
+}
