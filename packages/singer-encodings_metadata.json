@@ -1,0 +1,11 @@
+{
+  "name": "singer-encodings",
+  "version": "0.4.0",
+  "summary": "Singer.io encodings library",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "http://singer.io",
+  "download_filename": "singer_encodings-0.4.0.tar.gz",
+  "download_time": "2026-02-20T11:06:09.453118",
+  "package_url": "https://pypi.org/project/singer-encodings/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "syneto_api",
-  "version": "0.3.64",
+  "version": "0.3.65",
   "summary": "Syneto Client API library",
   "author": "Syneto",
   "license": "Proprietary",
   "home_page": "https://github.com/SynetoNet/syneto-api",
-  "download_filename": "syneto_api-0.3.64.tar.gz",
-  "download_time": "2026-02-20T08:30:57.617356",
+  "download_filename": "syneto_api-0.3.65.tar.gz",
+  "download_time": "2026-02-20T11:06:41.833930",
   "package_url": "https://pypi.org/project/syneto_api/"
 }

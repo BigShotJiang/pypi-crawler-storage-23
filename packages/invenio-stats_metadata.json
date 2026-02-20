@@ -1,0 +1,11 @@
+{
+  "name": "invenio-stats",
+  "version": "6.1.0",
+  "summary": "Invenio module for collecting statistics.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-stats",
+  "download_filename": "invenio_stats-6.1.0.tar.gz",
+  "download_time": "2026-02-20T11:06:23.874226",
+  "package_url": "https://pypi.org/project/invenio-stats/"
+}

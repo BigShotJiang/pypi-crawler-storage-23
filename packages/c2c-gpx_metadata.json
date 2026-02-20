@@ -1,11 +1,11 @@
 {
   "name": "c2c-gpx",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "tool for exporting camptocamp searches into gpx files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "c2c_gpx-0.0.2.tar.gz",
-  "download_time": "2026-02-20T10:30:28.307545",
+  "download_filename": "c2c_gpx-0.0.4.tar.gz",
+  "download_time": "2026-02-20T11:06:14.086783",
   "package_url": "https://pypi.org/project/c2c-gpx/"
 }

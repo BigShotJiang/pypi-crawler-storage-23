@@ -1,0 +1,11 @@
+{
+  "name": "alfasim-score",
+  "version": "1.1.0",
+  "summary": "Python package to convert the SCORE input JSON to Alfacase",
+  "author": "ESSS",
+  "license": "MIT license",
+  "home_page": "https://github.com/ESSS/alfasim-score",
+  "download_filename": "alfasim_score-1.1.0.tar.gz",
+  "download_time": "2026-02-20T11:06:03.819626",
+  "package_url": "https://pypi.org/project/alfasim-score/"
+}

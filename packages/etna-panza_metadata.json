@@ -1,0 +1,11 @@
+{
+  "name": "etna-panza",
+  "version": "4.2.1",
+  "summary": "Library to manage environments and jobs based on Quixote blueprints",
+  "author": "Clément \"Doom\" Doumergue",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "etna_panza-4.2.1.tar.gz",
+  "download_time": "2026-02-20T11:06:26.961819",
+  "package_url": "https://pypi.org/project/etna-panza/"
+}

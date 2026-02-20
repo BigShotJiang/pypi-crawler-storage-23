@@ -1,0 +1,11 @@
+{
+  "name": "nuclear-shape",
+  "version": "0.1.1",
+  "summary": "Python package for analysing nuclear shape from 3D-genome models generated from Hi-C data.",
+  "author": "Rudi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nuclear_shape-0.1.1.tar.gz",
+  "download_time": "2026-02-20T11:06:33.139586",
+  "package_url": "https://pypi.org/project/nuclear-shape/"
+}

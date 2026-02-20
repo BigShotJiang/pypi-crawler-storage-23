@@ -1,11 +1,11 @@
 {
   "name": "datajunction-server",
-  "version": "0.0.67",
+  "version": "0.0.69",
   "summary": "DataJunction server library for running to a DataJunction server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datajunction_server-0.0.67.tar.gz",
-  "download_time": "2026-02-19T11:08:20.306860",
+  "download_filename": "datajunction_server-0.0.69.tar.gz",
+  "download_time": "2026-02-20T11:06:12.026697",
   "package_url": "https://pypi.org/project/datajunction-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "SafePDF",
+  "version": "1.0.12",
+  "summary": "A safe PDF manipulation tool",
+  "author": "Mehmet Cagri Aksoy",
+  "license": null,
+  "home_page": "https://github.com/mcagriaksoy/safepdf",
+  "download_filename": "safepdf-1.0.12.tar.gz",
+  "download_time": "2026-02-20T11:06:04.330422",
+  "package_url": "https://pypi.org/project/SafePDF/"
+}

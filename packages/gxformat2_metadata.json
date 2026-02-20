@@ -1,0 +1,11 @@
+{
+  "name": "gxformat2",
+  "version": "0.22.0",
+  "summary": "Galaxy Workflow Format 2 Descriptions",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/gxformat2",
+  "download_filename": "gxformat2-0.22.0.tar.gz",
+  "download_time": "2026-02-20T11:06:18.749224",
+  "package_url": "https://pypi.org/project/gxformat2/"
+}

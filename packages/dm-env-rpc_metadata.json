@@ -1,0 +1,11 @@
+{
+  "name": "dm-env-rpc",
+  "version": "1.1.7",
+  "summary": "A networking protocol for agent-environment communication.",
+  "author": "DeepMind",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "dm_env_rpc-1.1.7.tar.gz",
+  "download_time": "2026-02-20T11:06:10.481510",
+  "package_url": "https://pypi.org/project/dm-env-rpc/"
+}

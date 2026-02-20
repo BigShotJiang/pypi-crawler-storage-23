@@ -1,0 +1,11 @@
+{
+  "name": "dataskillhub",
+  "version": "1.8.0",
+  "summary": "Anonymisation et filtrage des termes dans le CV, décoration et style des CV produits.",
+  "author": "Xin Yao",
+  "license": null,
+  "home_page": "https://gitlab-datalyo.francecentral.cloudapp.azure.com/dossier-de-comp-tences/dossiercompetence",
+  "download_filename": "dataskillhub-1.8.0-py3-none-any.whl",
+  "download_time": "2026-02-20T11:06:27.474991",
+  "package_url": "https://pypi.org/project/dataskillhub/"
+}
