@@ -1,0 +1,11 @@
+{
+  "name": "insufficient-effort",
+  "version": "1.6.2",
+  "summary": "Python library for detecting Insufficient Effort Responding (IER) in survey data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "insufficient_effort-1.6.2.tar.gz",
+  "download_time": "2026-02-20T07:14:13.979478",
+  "package_url": "https://pypi.org/project/insufficient-effort/"
+}

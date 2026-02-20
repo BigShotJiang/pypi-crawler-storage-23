@@ -1,0 +1,11 @@
+{
+  "name": "hyperstack-py",
+  "version": "1.2.0",
+  "summary": "Cloud memory for AI agents. 3 lines to integrate. No SDK dependencies.",
+  "author": "CascadeAI",
+  "license": "MIT",
+  "home_page": "https://cascadeai.dev",
+  "download_filename": "hyperstack_py-1.2.0.tar.gz",
+  "download_time": "2026-02-20T07:14:02.476618",
+  "package_url": "https://pypi.org/project/hyperstack-py/"
+}

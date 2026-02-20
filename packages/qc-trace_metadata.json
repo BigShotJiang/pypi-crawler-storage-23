@@ -1,11 +1,11 @@
 {
   "name": "qc-trace",
-  "version": "0.4.35",
+  "version": "0.4.38",
   "summary": "Multi-CLI session tracking and normalization for QuickCall",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qc_trace-0.4.35.tar.gz",
-  "download_time": "2026-02-20T03:40:46.304262",
+  "download_filename": "qc_trace-0.4.38.tar.gz",
+  "download_time": "2026-02-20T07:14:11.336484",
   "package_url": "https://pypi.org/project/qc-trace/"
 }

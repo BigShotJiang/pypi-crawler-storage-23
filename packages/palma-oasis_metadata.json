@@ -1,0 +1,11 @@
+{
+  "name": "palma-oasis",
+  "version": "1.2.0",
+  "summary": "PALMA: Phyto-Aquifer Long-Wave Microclimate Analysis - Oasis Health Monitoring Framework",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://palma-oasis.netlify.app",
+  "download_filename": "palma_oasis-1.2.0.tar.gz",
+  "download_time": "2026-02-20T07:14:19.162826",
+  "package_url": "https://pypi.org/project/palma-oasis/"
+}
