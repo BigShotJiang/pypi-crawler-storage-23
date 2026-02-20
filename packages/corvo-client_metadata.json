@@ -1,0 +1,11 @@
+{
+  "name": "corvo-client",
+  "version": "0.2.0",
+  "summary": "Python client for Corvo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corvo_client-0.2.0.tar.gz",
+  "download_time": "2026-02-20T21:44:00.992422",
+  "package_url": "https://pypi.org/project/corvo-client/"
+}

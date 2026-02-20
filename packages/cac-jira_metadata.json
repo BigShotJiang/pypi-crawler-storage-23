@@ -1,11 +1,11 @@
 {
   "name": "cac-jira",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "summary": "A command-line interface for interacting with Jira",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cac_jira-0.6.2.tar.gz",
-  "download_time": "2026-02-20T21:16:04.117057",
+  "download_filename": "cac_jira-0.6.4.tar.gz",
+  "download_time": "2026-02-20T21:43:55.218149",
   "package_url": "https://pypi.org/project/cac-jira/"
 }

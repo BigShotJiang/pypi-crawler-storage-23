@@ -1,0 +1,11 @@
+{
+  "name": "orchestra-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server testing and orchestration tool",
+  "author": "Ahaan Chaudhuri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orchestra_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-20T21:44:45.115705",
+  "package_url": "https://pypi.org/project/orchestra-mcp/"
+}

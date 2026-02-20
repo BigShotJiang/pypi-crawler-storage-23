@@ -1,11 +1,11 @@
 {
   "name": "diagrid-core",
-  "version": "0.1.3",
+  "version": "0.1.9",
   "summary": "Diagrid Core - Shared auth and Catalyst API client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diagrid_core-0.1.3.tar.gz",
-  "download_time": "2026-02-18T21:28:54.273423",
+  "download_filename": "diagrid_core-0.1.9.tar.gz",
+  "download_time": "2026-02-20T21:44:33.668700",
   "package_url": "https://pypi.org/project/diagrid-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "e2llm-medsynth",
+  "version": "0.1.0",
+  "summary": "Synthetic medical record generator with realistic schema variance across locales",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e2llm_medsynth-0.1.0.tar.gz",
+  "download_time": "2026-02-20T21:43:58.416307",
+  "package_url": "https://pypi.org/project/e2llm-medsynth/"
+}

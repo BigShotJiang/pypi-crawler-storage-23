@@ -1,11 +1,11 @@
 {
   "name": "glyphh",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Hyperdimensional Computing SDK and Runtime",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glyphh-0.4.0.tar.gz",
-  "download_time": "2026-02-20T11:46:42.505472",
+  "download_filename": "glyphh-0.4.1.tar.gz",
+  "download_time": "2026-02-20T21:43:58.930400",
   "package_url": "https://pypi.org/project/glyphh/"
 }

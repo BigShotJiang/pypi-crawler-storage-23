@@ -1,11 +1,11 @@
 {
   "name": "folderbot",
-  "version": "0.1.81",
+  "version": "0.1.82",
   "summary": "Telegram bot for chatting with your folder using LLMs",
   "author": "Jorge Cardona",
   "license": null,
   "home_page": null,
-  "download_filename": "folderbot-0.1.81.tar.gz",
-  "download_time": "2026-02-20T20:01:49.871585",
+  "download_filename": "folderbot-0.1.82.tar.gz",
+  "download_time": "2026-02-20T21:44:41.985683",
   "package_url": "https://pypi.org/project/folderbot/"
 }

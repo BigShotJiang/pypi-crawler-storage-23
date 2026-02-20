@@ -1,0 +1,11 @@
+{
+  "name": "linden",
+  "version": "0.5.1",
+  "summary": "A Python framework for building AI agents with multi-provider LLM support, persistent memory, and function calling capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linden-0.5.1.tar.gz",
+  "download_time": "2026-02-20T21:44:24.909427",
+  "package_url": "https://pypi.org/project/linden/"
+}

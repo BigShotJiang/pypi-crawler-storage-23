@@ -1,0 +1,11 @@
+{
+  "name": "pipattack-demo",
+  "version": "0.1.0",
+  "summary": "A benign PoC for school security auditing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipattack_demo-0.1.0.tar.gz",
+  "download_time": "2026-02-20T21:44:33.157393",
+  "package_url": "https://pypi.org/project/pipattack-demo/"
+}

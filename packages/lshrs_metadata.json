@@ -1,0 +1,11 @@
+{
+  "name": "lshrs",
+  "version": "0.1.1b2",
+  "summary": "Redis-backed Locality Sensitive Hashing toolkit for fast approximate nearest neighbor search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lshrs-0.1.1b2.tar.gz",
+  "download_time": "2026-02-20T21:44:16.594444",
+  "package_url": "https://pypi.org/project/lshrs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "atk-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "AI Toolkit - Manage AI development tools through a git-backed, declarative manifest",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "atk_cli-0.0.3.tar.gz",
-  "download_time": "2026-02-20T20:20:33.395118",
+  "download_filename": "atk_cli-0.0.4.tar.gz",
+  "download_time": "2026-02-20T21:44:35.212828",
   "package_url": "https://pypi.org/project/atk-cli/"
 }

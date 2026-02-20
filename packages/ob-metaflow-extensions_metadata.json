@@ -1,0 +1,11 @@
+{
+  "name": "ob-metaflow-extensions",
+  "version": "1.6.11",
+  "summary": "Outerbounds Platform Extensions for Metaflow",
+  "author": "Outerbounds, Inc.",
+  "license": "Commercial",
+  "home_page": null,
+  "download_filename": "ob_metaflow_extensions-1.6.11.tar.gz",
+  "download_time": "2026-02-20T21:44:09.845976",
+  "package_url": "https://pypi.org/project/ob-metaflow-extensions/"
+}
