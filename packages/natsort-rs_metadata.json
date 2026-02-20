@@ -1,0 +1,11 @@
+{
+  "name": "natsort-rs",
+  "version": "0.1.18",
+  "summary": "A blazing fast natural sorting library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "natsort_rs-0.1.18.tar.gz",
+  "download_time": "2026-02-20T23:20:14.745243",
+  "package_url": "https://pypi.org/project/natsort-rs/"
+}

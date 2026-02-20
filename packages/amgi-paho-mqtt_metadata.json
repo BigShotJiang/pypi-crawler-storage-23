@@ -1,11 +1,11 @@
 {
   "name": "amgi-paho-mqtt",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "summary": "AMGI MQTT Server",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "amgi_paho_mqtt-0.35.0.tar.gz",
-  "download_time": "2026-02-18T21:57:10.805909",
+  "download_filename": "amgi_paho_mqtt-0.36.0.tar.gz",
+  "download_time": "2026-02-20T23:20:45.195750",
   "package_url": "https://pypi.org/project/amgi-paho-mqtt/"
 }

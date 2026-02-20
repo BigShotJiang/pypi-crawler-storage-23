@@ -1,11 +1,11 @@
 {
   "name": "amgi-kafka-event-source-mapping",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "summary": "Kafka event source mapping adaptor for AMGI applications",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "amgi_kafka_event_source_mapping-0.35.0.tar.gz",
-  "download_time": "2026-02-18T21:57:13.868863",
+  "download_filename": "amgi_kafka_event_source_mapping-0.36.0.tar.gz",
+  "download_time": "2026-02-20T23:20:47.307166",
   "package_url": "https://pypi.org/project/amgi-kafka-event-source-mapping/"
 }

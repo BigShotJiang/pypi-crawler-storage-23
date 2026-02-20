@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-zettelkasten",
+  "version": "0.5.0",
+  "summary": "Add Zettelkasten features to MkDocs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_zettelkasten-0.5.0.tar.gz",
+  "download_time": "2026-02-20T23:20:07.044031",
+  "package_url": "https://pypi.org/project/mkdocs-zettelkasten/"
+}

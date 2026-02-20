@@ -1,0 +1,11 @@
+{
+  "name": "gpype",
+  "version": "3.0.9",
+  "summary": "A Python Software Development Kit for BCI/Neuroscience Applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpype-3.0.9-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-02-20T23:20:08.724345",
+  "package_url": "https://pypi.org/project/gpype/"
+}

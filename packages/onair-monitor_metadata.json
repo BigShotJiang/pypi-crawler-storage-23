@@ -1,0 +1,11 @@
+{
+  "name": "onair-monitor",
+  "version": "0.1.1",
+  "summary": "Linux daemon that detects camera usage and notifies Home Assistant via webhooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onair_monitor-0.1.1.tar.gz",
+  "download_time": "2026-02-20T23:20:20.466897",
+  "package_url": "https://pypi.org/project/onair-monitor/"
+}

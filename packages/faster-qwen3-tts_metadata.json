@@ -1,0 +1,11 @@
+{
+  "name": "faster-qwen3-tts",
+  "version": "0.1.0",
+  "summary": "Real-time Qwen3-TTS inference using manual CUDA graph capture",
+  "author": "Andres Marafioti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "faster_qwen3_tts-0.1.0.tar.gz",
+  "download_time": "2026-02-20T23:20:34.228851",
+  "package_url": "https://pypi.org/project/faster-qwen3-tts/"
+}

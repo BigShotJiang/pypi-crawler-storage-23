@@ -1,11 +1,11 @@
 {
   "name": "simgen-vla",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "VLA: Zero-Error GPU Arithmetic for PyTorch. Exact results, every calculation.",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://simgen.dev",
-  "download_filename": "simgen_vla-2.5.0-py3-none-any.whl",
-  "download_time": "2026-02-20T22:19:11.549738",
+  "download_filename": "simgen_vla-2.6.0.tar.gz",
+  "download_time": "2026-02-20T23:20:50.577245",
   "package_url": "https://pypi.org/project/simgen-vla/"
 }

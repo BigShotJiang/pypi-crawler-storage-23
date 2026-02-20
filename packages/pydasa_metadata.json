@@ -1,11 +1,11 @@
 {
   "name": "pydasa",
-  "version": "0.6.17",
+  "version": "0.6.19",
   "summary": "PyDASA is a Python library for dimensional analysis using the Buckingham Pi theorem across scientific and engineering domains.",
   "author": "@SFAM",
   "license": null,
   "home_page": "https://github.com/DASA-Design/PyDASA",
-  "download_filename": "pydasa-0.6.17.tar.gz",
-  "download_time": "2026-02-20T23:03:49.459340",
+  "download_filename": "pydasa-0.6.19.tar.gz",
+  "download_time": "2026-02-20T23:20:12.981189",
   "package_url": "https://pypi.org/project/pydasa/"
 }
