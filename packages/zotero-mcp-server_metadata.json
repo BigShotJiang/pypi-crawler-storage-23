@@ -1,0 +1,11 @@
+{
+  "name": "zotero-mcp-server",
+  "version": "0.1.3",
+  "summary": "A Model Context Protocol server for Zotero",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zotero_mcp_server-0.1.3.tar.gz",
+  "download_time": "2026-02-20T18:08:13.712720",
+  "package_url": "https://pypi.org/project/zotero-mcp-server/"
+}

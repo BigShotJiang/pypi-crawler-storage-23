@@ -1,0 +1,11 @@
+{
+  "name": "ai-reviewbot",
+  "version": "1.0.0a6",
+  "summary": "AI-powered code review agent for CI/CD pipelines",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_reviewbot-1.0.0a6.tar.gz",
+  "download_time": "2026-02-20T18:07:51.981899",
+  "package_url": "https://pypi.org/project/ai-reviewbot/"
+}

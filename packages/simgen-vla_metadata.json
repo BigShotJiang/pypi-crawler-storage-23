@@ -1,11 +1,11 @@
 {
   "name": "simgen-vla",
-  "version": "2.0.1",
+  "version": "2.0.5",
   "summary": "SimGen VLA: TRUE ZERO ERROR GPU computation. Every calculation. Zero error.",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://simgen.dev",
-  "download_filename": "simgen_vla-2.0.1.tar.gz",
-  "download_time": "2026-02-20T15:36:22.126726",
+  "download_filename": "simgen_vla-2.0.5.tar.gz",
+  "download_time": "2026-02-20T18:08:16.637995",
   "package_url": "https://pypi.org/project/simgen-vla/"
 }

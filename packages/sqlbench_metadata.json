@@ -1,11 +1,11 @@
 {
   "name": "sqlbench",
-  "version": "0.1.56",
+  "version": "0.1.59",
   "summary": "A multi-database SQL workbench with support for IBM i, MySQL, and PostgreSQL",
   "author": "Jim",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlbench-0.1.56.tar.gz",
-  "download_time": "2026-02-20T14:58:52.673581",
+  "download_filename": "sqlbench-0.1.59.tar.gz",
+  "download_time": "2026-02-20T18:08:06.040374",
   "package_url": "https://pypi.org/project/sqlbench/"
 }

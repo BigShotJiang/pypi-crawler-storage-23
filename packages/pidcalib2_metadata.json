@@ -1,0 +1,11 @@
+{
+  "name": "pidcalib2",
+  "version": "1.5.0",
+  "summary": "A set of tools for estimating LHCb PID efficiencies",
+  "author": "Daniel Cervenkov",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://gitlab.cern.ch/lhcb-rta/pidcalib2",
+  "download_filename": "pidcalib2-1.5.0.tar.gz",
+  "download_time": "2026-02-20T18:07:49.245215",
+  "package_url": "https://pypi.org/project/pidcalib2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-blogger",
+  "version": "0.2.15",
+  "summary": "A simple blogger library",
+  "author": "Aleksey Sergeyev",
+  "license": null,
+  "home_page": "https://github.com/athenova/simple_blogger",
+  "download_filename": "simple_blogger-0.2.15.tar.gz",
+  "download_time": "2026-02-20T18:08:25.940223",
+  "package_url": "https://pypi.org/project/simple-blogger/"
+}

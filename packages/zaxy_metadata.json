@@ -1,11 +1,11 @@
 {
   "name": "zaxy",
-  "version": "0.2.1",
-  "summary": "Lightweight Python utility for efficient code writing.",
+  "version": "0.3.0",
+  "summary": "Lightweight Python utility library: one-liner helpers for beginners (smart input, print shortcuts, files, random)",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "zaxy-0.2.1.tar.gz",
-  "download_time": "2026-02-20T13:24:30.420405",
+  "download_filename": "zaxy-0.3.0.tar.gz",
+  "download_time": "2026-02-20T18:07:54.078607",
   "package_url": "https://pypi.org/project/zaxy/"
 }

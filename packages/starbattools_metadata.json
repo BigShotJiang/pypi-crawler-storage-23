@@ -1,0 +1,11 @@
+{
+  "name": "starbattools",
+  "version": "0.2",
+  "summary": "Lib RPG StarBat: mobs, ataque, magia, poções, vida infinita",
+  "author": "StarBat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starbattools-0.2.tar.gz",
+  "download_time": "2026-02-20T18:08:20.574318",
+  "package_url": "https://pypi.org/project/starbattools/"
+}

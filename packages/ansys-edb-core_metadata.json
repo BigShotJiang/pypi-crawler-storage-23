@@ -1,0 +1,11 @@
+{
+  "name": "ansys-edb-core",
+  "version": "0.2.6",
+  "summary": "A python wrapper for Ansys Edb service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_edb_core-0.2.6.tar.gz",
+  "download_time": "2026-02-20T18:07:54.627045",
+  "package_url": "https://pypi.org/project/ansys-edb-core/"
+}

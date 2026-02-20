@@ -1,0 +1,11 @@
+{
+  "name": "dragonfly-schema",
+  "version": "2.0.2",
+  "summary": "Dragonfly Data-Model Objects",
+  "author": "Ladybug Tools",
+  "license": "MIT",
+  "home_page": "https://github.com/ladybug-tools/dragonfly-schema",
+  "download_filename": "dragonfly_schema-2.0.2.tar.gz",
+  "download_time": "2026-02-20T18:08:18.427394",
+  "package_url": "https://pypi.org/project/dragonfly-schema/"
+}

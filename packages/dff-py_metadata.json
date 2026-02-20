@@ -1,0 +1,11 @@
+{
+  "name": "dff-py",
+  "version": "0.1.7",
+  "summary": "A simple differential fuzzing framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dff_py-0.1.7.tar.gz",
+  "download_time": "2026-02-20T18:08:01.025066",
+  "package_url": "https://pypi.org/project/dff-py/"
+}

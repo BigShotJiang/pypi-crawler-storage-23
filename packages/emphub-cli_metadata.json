@@ -1,0 +1,11 @@
+{
+  "name": "emphub-cli",
+  "version": "0.2.0",
+  "summary": "CLI tools to interface with EMPHub",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emphub_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-20T18:08:06.582524",
+  "package_url": "https://pypi.org/project/emphub-cli/"
+}
