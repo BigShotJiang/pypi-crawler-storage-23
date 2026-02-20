@@ -1,0 +1,11 @@
+{
+  "name": "dagster-ssh",
+  "version": "0.28.15",
+  "summary": "Package for ssh Dagster framework components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_ssh-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:06:03.952667",
+  "package_url": "https://pypi.org/project/dagster-ssh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dagster-papertrail",
+  "version": "0.28.15",
+  "summary": "Package for papertrail Dagster framework components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_papertrail-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:06:13.292768",
+  "package_url": "https://pypi.org/project/dagster-papertrail/"
+}

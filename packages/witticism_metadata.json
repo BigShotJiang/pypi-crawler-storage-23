@@ -1,0 +1,11 @@
+{
+  "name": "witticism",
+  "version": "0.8.1",
+  "summary": "WhisperX-powered global transcription and push-to-talk application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "witticism-0.8.1.tar.gz",
+  "download_time": "2026-02-20T19:05:35.532131",
+  "package_url": "https://pypi.org/project/witticism/"
+}

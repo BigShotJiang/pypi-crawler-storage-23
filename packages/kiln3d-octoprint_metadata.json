@@ -1,0 +1,11 @@
+{
+  "name": "kiln3d-octoprint",
+  "version": "0.2.1",
+  "summary": "Agent-friendly CLI for OctoPrint 3D printer management",
+  "author": "OctoPrint CLI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiln3d_octoprint-0.2.1.tar.gz",
+  "download_time": "2026-02-20T19:06:11.218499",
+  "package_url": "https://pypi.org/project/kiln3d-octoprint/"
+}

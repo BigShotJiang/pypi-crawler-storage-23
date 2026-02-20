@@ -1,11 +1,11 @@
 {
   "name": "dagster-prometheus",
-  "version": "0.28.14",
+  "version": "0.28.15",
   "summary": "A Dagster integration for prometheus",
-  "author": "Dagster Labs",
-  "license": "Apache-2.0",
-  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-prometheus",
-  "download_filename": "dagster_prometheus-0.28.14.tar.gz",
-  "download_time": "2026-02-20T15:36:46.202718",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_prometheus-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:06:16.921979",
   "package_url": "https://pypi.org/project/dagster-prometheus/"
 }

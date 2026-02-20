@@ -1,11 +1,11 @@
 {
   "name": "project-handbook",
-  "version": "0.0.22",
+  "version": "0.0.24",
   "summary": "Installed ph CLI for Project Handbook",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "project_handbook-0.0.22.tar.gz",
-  "download_time": "2026-02-20T14:11:59.979127",
+  "download_filename": "project_handbook-0.0.24.tar.gz",
+  "download_time": "2026-02-20T19:05:53.079658",
   "package_url": "https://pypi.org/project/project-handbook/"
 }

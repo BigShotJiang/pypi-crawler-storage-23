@@ -1,0 +1,11 @@
+{
+  "name": "dagster-github",
+  "version": "0.28.15",
+  "summary": "A Github client resource for interacting with the github API with a github App",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_github-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:06:16.401807",
+  "package_url": "https://pypi.org/project/dagster-github/"
+}

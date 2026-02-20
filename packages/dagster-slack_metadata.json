@@ -1,11 +1,11 @@
 {
   "name": "dagster-slack",
-  "version": "0.28.14",
+  "version": "0.28.15",
   "summary": "A Slack client resource for posting to Slack",
-  "author": "Dagster Labs",
-  "license": "Apache-2.0",
-  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-slack",
-  "download_filename": "dagster_slack-0.28.14.tar.gz",
-  "download_time": "2026-02-20T15:37:03.428494",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_slack-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:05:46.360583",
   "package_url": "https://pypi.org/project/dagster-slack/"
 }

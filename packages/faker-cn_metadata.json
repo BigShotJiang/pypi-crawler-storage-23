@@ -1,11 +1,11 @@
 {
   "name": "faker-cn",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "The most rigorous and realistic Chinese Persona Provider for Python Faker.",
   "author": "LING71671",
   "license": null,
   "home_page": "https://github.com/LING71671/faker-cn",
-  "download_filename": "faker_cn-0.1.0.tar.gz",
-  "download_time": "2026-02-20T18:07:52.777828",
+  "download_filename": "faker_cn-0.1.2.tar.gz",
+  "download_time": "2026-02-20T19:05:54.654792",
   "package_url": "https://pypi.org/project/faker-cn/"
 }

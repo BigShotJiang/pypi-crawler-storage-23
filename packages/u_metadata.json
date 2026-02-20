@@ -1,11 +1,11 @@
 {
   "name": "u",
-  "version": "2.0",
+  "version": "2.1",
   "summary": "Statically typed units",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "u-2.0.tar.gz",
-  "download_time": "2026-02-18T20:56:44.058471",
+  "download_filename": "u-2.1.tar.gz",
+  "download_time": "2026-02-20T19:05:38.645424",
   "package_url": "https://pypi.org/project/u/"
 }

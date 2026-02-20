@@ -1,0 +1,11 @@
+{
+  "name": "django-annotator",
+  "version": "2.2.15",
+  "summary": "Implementation of annotatorjs's Storage/Search API.",
+  "author": "PsypherPunk",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "django_annotator-2.2.15.tar.gz",
+  "download_time": "2026-02-20T19:06:03.434369",
+  "package_url": "https://pypi.org/project/django-annotator/"
+}

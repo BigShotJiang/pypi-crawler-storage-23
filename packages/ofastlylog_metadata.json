@@ -1,0 +1,11 @@
+{
+  "name": "ofastlylog",
+  "version": "0.2.0",
+  "summary": "Process fastly OSM logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ofastlylog-0.2.0.tar.gz",
+  "download_time": "2026-02-20T19:05:39.155373",
+  "package_url": "https://pypi.org/project/ofastlylog/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dagster-cloud-examples",
-  "version": "1.12.14",
+  "version": "1.12.15",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dagster_cloud_examples-1.12.14.tar.gz",
-  "download_time": "2026-02-20T15:36:44.101808",
+  "download_filename": "dagster_cloud_examples-1.12.15.tar.gz",
+  "download_time": "2026-02-20T19:05:40.691650",
   "package_url": "https://pypi.org/project/dagster-cloud-examples/"
 }

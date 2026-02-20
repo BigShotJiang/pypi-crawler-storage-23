@@ -1,0 +1,11 @@
+{
+  "name": "dagster-k8s",
+  "version": "0.28.15",
+  "summary": "A Dagster integration for k8s",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_k8s-0.28.15.tar.gz",
+  "download_time": "2026-02-20T19:05:56.723440",
+  "package_url": "https://pypi.org/project/dagster-k8s/"
+}
