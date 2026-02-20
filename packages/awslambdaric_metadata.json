@@ -1,0 +1,11 @@
+{
+  "name": "awslambdaric",
+  "version": "4.0.0",
+  "summary": "AWS Lambda Runtime Interface Client for Python",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": "https://github.com/aws/aws-lambda-python-runtime-interface-client",
+  "download_filename": "awslambdaric-4.0.0.tar.gz",
+  "download_time": "2026-02-20T16:08:02.060806",
+  "package_url": "https://pypi.org/project/awslambdaric/"
+}

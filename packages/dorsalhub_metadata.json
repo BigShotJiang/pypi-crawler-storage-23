@@ -1,0 +1,11 @@
+{
+  "name": "dorsalhub",
+  "version": "0.6.0",
+  "summary": "Dorsal is a local-first metadata generation and management toolkit.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dorsalhub-0.6.0.tar.gz",
+  "download_time": "2026-02-20T16:08:20.280045",
+  "package_url": "https://pypi.org/project/dorsalhub/"
+}

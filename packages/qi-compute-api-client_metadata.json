@@ -1,0 +1,11 @@
+{
+  "name": "qi-compute-api-client",
+  "version": "0.58.0",
+  "summary": "An API client for the Compute Job Manager of Quantum Inspire.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qi_compute_api_client-0.58.0.tar.gz",
+  "download_time": "2026-02-20T16:07:48.098226",
+  "package_url": "https://pypi.org/project/qi-compute-api-client/"
+}

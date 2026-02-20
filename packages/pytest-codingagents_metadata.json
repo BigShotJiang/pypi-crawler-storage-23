@@ -1,11 +1,11 @@
 {
   "name": "pytest-codingagents",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Pytest plugin for testing real coding agents via their SDK",
   "author": "Stefan Brunner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_codingagents-0.2.2.tar.gz",
-  "download_time": "2026-02-19T18:06:20.399592",
+  "download_filename": "pytest_codingagents-0.2.4.tar.gz",
+  "download_time": "2026-02-20T16:08:29.018563",
   "package_url": "https://pypi.org/project/pytest-codingagents/"
 }

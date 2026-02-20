@@ -1,0 +1,11 @@
+{
+  "name": "aiosonic",
+  "version": "0.31.1",
+  "summary": "Async HTTP/WebSocket client",
+  "author": "Johanderson Mogollon",
+  "license": "MIT",
+  "home_page": "https://aiosonic.readthedocs.io/en/latest/",
+  "download_filename": "aiosonic-0.31.1.tar.gz",
+  "download_time": "2026-02-20T16:08:24.883604",
+  "package_url": "https://pypi.org/project/aiosonic/"
+}

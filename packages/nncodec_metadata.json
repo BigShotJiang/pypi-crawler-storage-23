@@ -1,0 +1,11 @@
+{
+  "name": "nncodec",
+  "version": "2.1.0",
+  "summary": "Fraunhofer HHI implementation of the Neural Network Coding (NNC) Standard",
+  "author": "Paul Haase, Daniel Becking",
+  "license": "BSD",
+  "home_page": "https://hhi.fraunhofer.de",
+  "download_filename": "nncodec-2.1.0.tar.gz",
+  "download_time": "2026-02-20T16:08:23.857616",
+  "package_url": "https://pypi.org/project/nncodec/"
+}

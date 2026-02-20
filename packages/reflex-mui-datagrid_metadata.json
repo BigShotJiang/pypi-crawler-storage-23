@@ -1,0 +1,11 @@
+{
+  "name": "reflex-mui-datagrid",
+  "version": "0.1.10",
+  "summary": "Reflex wrapper for the MUI X DataGrid (v8) React component with polars LazyFrame support",
+  "author": "antonkulaga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reflex_mui_datagrid-0.1.10.tar.gz",
+  "download_time": "2026-02-20T16:07:57.873962",
+  "package_url": "https://pypi.org/project/reflex-mui-datagrid/"
+}

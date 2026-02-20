@@ -1,0 +1,11 @@
+{
+  "name": "dxf2geo",
+  "version": "0.1.4",
+  "summary": "Convert CAD DXF data into geospatial formats and visualisations using GeoPandas/Pyogrio.",
+  "author": "Keiran Suchak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dxf2geo-0.1.4.tar.gz",
+  "download_time": "2026-02-20T16:08:07.222146",
+  "package_url": "https://pypi.org/project/dxf2geo/"
+}

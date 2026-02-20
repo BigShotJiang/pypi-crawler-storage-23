@@ -1,11 +1,11 @@
 {
   "name": "0din-jef",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Jailbreak Evaluation Module",
   "author": "jiwu-moz",
   "license": null,
   "home_page": null,
-  "download_filename": "0din_jef-0.4.0.tar.gz",
-  "download_time": "2026-02-19T21:55:36.368776",
+  "download_filename": "0din_jef-0.5.1.tar.gz",
+  "download_time": "2026-02-20T16:07:52.215420",
   "package_url": "https://pypi.org/project/0din-jef/"
 }

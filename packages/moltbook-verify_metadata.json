@@ -1,0 +1,11 @@
+{
+  "name": "moltbook-verify",
+  "version": "1.0.0",
+  "summary": "Verification challenge solver for Moltbook.com — degarbles lobster math and auto-verifies agent posts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moltbook_verify-1.0.0.tar.gz",
+  "download_time": "2026-02-20T16:08:08.765388",
+  "package_url": "https://pypi.org/project/moltbook-verify/"
+}
