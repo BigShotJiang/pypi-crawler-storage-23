@@ -1,0 +1,11 @@
+{
+  "name": "easybuild-easyblocks",
+  "version": "5.2.1",
+  "summary": "Python modules which implement support for installing particular  (groups of) software packages with EasyBuild.",
+  "author": "EasyBuild community",
+  "license": "GPLv2",
+  "home_page": "https://easybuild.io",
+  "download_filename": "easybuild_easyblocks-5.2.1.tar.gz",
+  "download_time": "2026-02-20T20:01:16.434191",
+  "package_url": "https://pypi.org/project/easybuild-easyblocks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lockin",
+  "version": "0.5.0",
+  "summary": "CLI focus blocker for macOS — block distracting websites and apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lockin-0.5.0.tar.gz",
+  "download_time": "2026-02-20T20:01:53.118802",
+  "package_url": "https://pypi.org/project/lockin/"
+}

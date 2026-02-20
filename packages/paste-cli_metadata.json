@@ -1,0 +1,11 @@
+{
+  "name": "paste-cli",
+  "version": "0.2.1",
+  "summary": "A lightweight macOS clipboard manager with history, search, and an interactive picker.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paste_cli-0.2.1.tar.gz",
+  "download_time": "2026-02-20T20:01:25.890101",
+  "package_url": "https://pypi.org/project/paste-cli/"
+}

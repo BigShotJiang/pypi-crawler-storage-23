@@ -1,11 +1,11 @@
 {
   "name": "keeper-pam-webrtc-rs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Keeper PAM WebRTC for Python - A secure, stable, and high-performance Tube API for Python, providing WebRTC-based secure tunneling with enterprise-grade security and reliability optimizations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keeper_pam_webrtc_rs-2.0.0.tar.gz",
-  "download_time": "2026-02-20T18:08:08.880048",
+  "download_filename": "keeper_pam_webrtc_rs-2.0.1.tar.gz",
+  "download_time": "2026-02-20T20:01:58.574473",
   "package_url": "https://pypi.org/project/keeper-pam-webrtc-rs/"
 }

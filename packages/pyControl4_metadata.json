@@ -1,0 +1,11 @@
+{
+  "name": "pyControl4",
+  "version": "2.0.0",
+  "summary": "Python 3 asyncio package for interacting with Control4 systems",
+  "author": "lawtancool",
+  "license": null,
+  "home_page": "https://github.com/lawtancool/pyControl4",
+  "download_filename": "pycontrol4-2.0.0.tar.gz",
+  "download_time": "2026-02-20T20:01:56.932001",
+  "package_url": "https://pypi.org/project/pyControl4/"
+}

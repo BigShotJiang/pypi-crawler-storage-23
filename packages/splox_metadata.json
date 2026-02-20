@@ -1,0 +1,11 @@
+{
+  "name": "splox",
+  "version": "0.0.7",
+  "summary": "Official Python SDK for the Splox API — run workflows, manage chats, and monitor execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splox-0.0.7.tar.gz",
+  "download_time": "2026-02-20T20:01:12.591492",
+  "package_url": "https://pypi.org/project/splox/"
+}

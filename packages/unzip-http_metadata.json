@@ -1,0 +1,11 @@
+{
+  "name": "unzip-http",
+  "version": "0.7",
+  "summary": "extract files from .zip files over http without downloading entire archive",
+  "author": "Saul Pwanson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unzip_http-0.7.tar.gz",
+  "download_time": "2026-02-20T20:01:33.330508",
+  "package_url": "https://pypi.org/project/unzip-http/"
+}
