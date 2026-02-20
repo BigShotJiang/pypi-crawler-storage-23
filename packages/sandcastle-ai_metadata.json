@@ -1,11 +1,11 @@
 {
   "name": "sandcastle-ai",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Production-ready workflow orchestrator for AI agents. Define pipelines in YAML, run locally with zero config, scale to production.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sandcastle_ai-0.9.0-py3-none-any.whl",
-  "download_time": "2026-02-19T19:08:54.107892",
+  "download_filename": "sandcastle_ai-0.10.0-py3-none-any.whl",
+  "download_time": "2026-02-20T13:24:17.517420",
   "package_url": "https://pypi.org/project/sandcastle-ai/"
 }

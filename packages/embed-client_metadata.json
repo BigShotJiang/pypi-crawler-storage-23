@@ -1,0 +1,11 @@
+{
+  "name": "embed-client",
+  "version": "3.1.7.24",
+  "summary": "Async client for Embedding Service API with comprehensive authentication, SSL/TLS, and mTLS support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embed_client-3.1.7.24.tar.gz",
+  "download_time": "2026-02-20T13:24:13.903631",
+  "package_url": "https://pypi.org/project/embed-client/"
+}

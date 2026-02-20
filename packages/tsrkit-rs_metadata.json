@@ -1,11 +1,11 @@
 {
   "name": "tsrkit-rs",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "Python Bindings for Erasure coding using reed-solomon-simd, matching the JAM graypaper.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tsrkit_rs-0.1.0.tar.gz",
-  "download_time": "2026-02-20T12:02:40.662057",
+  "download_filename": "tsrkit_rs-0.1.1.tar.gz",
+  "download_time": "2026-02-20T13:24:33.011010",
   "package_url": "https://pypi.org/project/tsrkit-rs/"
 }

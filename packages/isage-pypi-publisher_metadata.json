@@ -1,11 +1,11 @@
 {
   "name": "isage-pypi-publisher",
-  "version": "0.1.9.7",
+  "version": "0.1.9.9",
   "summary": "Python bytecode compiler and PyPI publishing toolkit for monorepos",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_pypi_publisher-0.1.9.7.tar.gz",
-  "download_time": "2026-02-19T15:30:05.705151",
+  "download_filename": "isage_pypi_publisher-0.1.9.9.tar.gz",
+  "download_time": "2026-02-20T13:24:19.575112",
   "package_url": "https://pypi.org/project/isage-pypi-publisher/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stac-api-validator",
+  "version": "0.6.8",
+  "summary": "STAC API Validator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stac_api_validator-0.6.8.tar.gz",
+  "download_time": "2026-02-20T13:24:06.158619",
+  "package_url": "https://pypi.org/project/stac-api-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vd-dlt-notion-schema",
+  "version": "0.1.1",
+  "summary": "Notion connector schema, defaults, and documentation for vd-dlt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vd_dlt_notion_schema-0.1.1.tar.gz",
+  "download_time": "2026-02-20T13:24:22.684781",
+  "package_url": "https://pypi.org/project/vd-dlt-notion-schema/"
+}

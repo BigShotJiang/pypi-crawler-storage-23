@@ -1,0 +1,11 @@
+{
+  "name": "hid_data_transfer_lib",
+  "version": "0.3.10",
+  "summary": "HiDALGO Data Transfer library provides methods to transfer data between different data providers and consumers using NIFI pipelines",
+  "author": "Jesús Gorroñogoitia",
+  "license": "APL-2.0",
+  "home_page": null,
+  "download_filename": "hid_data_transfer_lib-0.3.10.tar.gz",
+  "download_time": "2026-02-20T13:23:56.876284",
+  "package_url": "https://pypi.org/project/hid_data_transfer_lib/"
+}

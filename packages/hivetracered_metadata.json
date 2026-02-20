@@ -1,0 +1,11 @@
+{
+  "name": "hivetracered",
+  "version": "1.0.13",
+  "summary": "LLM Red Teaming Framework for defensive security research",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hivetracered-1.0.13.tar.gz",
+  "download_time": "2026-02-20T13:23:52.244392",
+  "package_url": "https://pypi.org/project/hivetracered/"
+}

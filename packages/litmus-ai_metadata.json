@@ -1,11 +1,11 @@
 {
   "name": "litmus-ai",
-  "version": "0.1.7",
-  "summary": "A Python SDK for Hallucination Detection using Linear Algebra",
+  "version": "0.2.1",
+  "summary": "A Python SDK for Hallucination Detection — powered by Litmus AI",
   "author": "Litmus AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litmus_ai-0.1.7.tar.gz",
-  "download_time": "2026-02-19T13:55:44.474697",
+  "download_filename": "litmus_ai-0.2.1.tar.gz",
+  "download_time": "2026-02-20T13:24:10.776397",
   "package_url": "https://pypi.org/project/litmus-ai/"
 }

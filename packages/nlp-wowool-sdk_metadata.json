@@ -1,0 +1,11 @@
+{
+  "name": "nlp-wowool-sdk",
+  "version": "3.6.0",
+  "summary": "Wowool SDK",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "nlp_wowool_sdk-3.6.0-py3-none-any.whl",
+  "download_time": "2026-02-20T13:23:57.901678",
+  "package_url": "https://pypi.org/project/nlp-wowool-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gevent-runner",
+  "version": "0.0.1",
+  "summary": "The greenlet launch tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gevent_runner-0.0.1.tar.gz",
+  "download_time": "2026-02-20T13:24:35.080950",
+  "package_url": "https://pypi.org/project/gevent-runner/"
+}

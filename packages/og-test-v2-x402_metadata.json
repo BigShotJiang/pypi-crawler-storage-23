@@ -1,0 +1,11 @@
+{
+  "name": "og-test-v2-x402",
+  "version": "0.0.10",
+  "summary": "x402 Payment Protocol SDK for Python",
+  "author": "Coinbase",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "og_test_v2_x402-0.0.10.tar.gz",
+  "download_time": "2026-02-20T13:23:54.308855",
+  "package_url": "https://pypi.org/project/og-test-v2-x402/"
+}
