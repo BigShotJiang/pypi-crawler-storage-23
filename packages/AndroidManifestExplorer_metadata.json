@@ -1,0 +1,11 @@
+{
+  "name": "AndroidManifestExplorer",
+  "version": "1.0.0",
+  "summary": "A professional tool to automate attack surface detection in Android applications by parsing Manifest files.",
+  "author": "Mateo Fumis",
+  "license": null,
+  "home_page": "https://github.com/mateofumis/AndroidManifestExplorer",
+  "download_filename": "androidmanifestexplorer-1.0.0.tar.gz",
+  "download_time": "2026-02-20T01:07:53.681969",
+  "package_url": "https://pypi.org/project/AndroidManifestExplorer/"
+}

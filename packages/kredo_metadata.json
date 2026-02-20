@@ -1,11 +1,11 @@
 {
   "name": "kredo",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "Portable agent attestation protocol — Ed25519-signed skill certifications",
   "author": "Jim Motes, Vanguard",
   "license": null,
   "home_page": null,
-  "download_filename": "kredo-0.6.0.tar.gz",
-  "download_time": "2026-02-18T19:28:39.529894",
+  "download_filename": "kredo-0.8.0.tar.gz",
+  "download_time": "2026-02-20T01:08:21.034905",
   "package_url": "https://pypi.org/project/kredo/"
 }

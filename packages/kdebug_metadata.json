@@ -1,11 +1,11 @@
 {
   "name": "kdebug",
-  "version": "0.5.0",
-  "summary": "Universal Kubernetes Debug Container Utility",
+  "version": "0.6.0",
+  "summary": "TUI for Kubernetes Debug Containers",
   "author": "Jesse Goodier",
   "license": null,
   "home_page": null,
-  "download_filename": "kdebug-0.5.0.tar.gz",
-  "download_time": "2026-02-18T21:57:19.137121",
+  "download_filename": "kdebug-0.6.0.tar.gz",
+  "download_time": "2026-02-20T01:07:56.008829",
   "package_url": "https://pypi.org/project/kdebug/"
 }

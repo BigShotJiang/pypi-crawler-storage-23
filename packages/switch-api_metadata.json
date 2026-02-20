@@ -1,0 +1,11 @@
+{
+  "name": "switch-api",
+  "version": "0.6.13",
+  "summary": "A complete package for data ingestion into the Switch Automation Platform.",
+  "author": "Switch Automation Pty Ltd.",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "switch_api-0.6.13.tar.gz",
+  "download_time": "2026-02-20T01:08:24.320844",
+  "package_url": "https://pypi.org/project/switch-api/"
+}

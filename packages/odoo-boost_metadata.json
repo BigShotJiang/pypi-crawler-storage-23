@@ -1,0 +1,11 @@
+{
+  "name": "odoo-boost",
+  "version": "0.4.1",
+  "summary": "AI coding agents with deep introspection into running Odoo instances via MCP tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_boost-0.4.1.tar.gz",
+  "download_time": "2026-02-20T01:07:58.331404",
+  "package_url": "https://pypi.org/project/odoo-boost/"
+}

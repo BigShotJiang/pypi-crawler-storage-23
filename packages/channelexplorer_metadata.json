@@ -1,0 +1,11 @@
+{
+  "name": "channelexplorer",
+  "version": "0.2.0",
+  "summary": "Neural network activation channel explorer for TensorFlow and PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "channelexplorer-0.2.0-py3-none-any.whl",
+  "download_time": "2026-02-20T01:07:50.775052",
+  "package_url": "https://pypi.org/project/channelexplorer/"
+}

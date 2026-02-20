@@ -1,0 +1,11 @@
+{
+  "name": "cccc-pair",
+  "version": "0.4.1",
+  "summary": "Global multi-agent delivery kernel with working groups, scopes, and an append-only collaboration ledger",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cccc_pair-0.4.1.tar.gz",
+  "download_time": "2026-02-20T01:07:37.921484",
+  "package_url": "https://pypi.org/project/cccc-pair/"
+}

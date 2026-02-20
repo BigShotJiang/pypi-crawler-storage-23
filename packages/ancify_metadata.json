@@ -1,0 +1,11 @@
+{
+  "name": "ancify",
+  "version": "1.3.0",
+  "summary": "Ancestral allele polarization pipeline using outgroup species",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ancify-1.3.0.tar.gz",
+  "download_time": "2026-02-20T01:07:58.910017",
+  "package_url": "https://pypi.org/project/ancify/"
+}

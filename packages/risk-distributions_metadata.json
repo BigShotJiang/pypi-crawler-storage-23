@@ -1,0 +1,11 @@
+{
+  "name": "risk-distributions",
+  "version": "2.3.0",
+  "summary": "Components for building distributions. Compatible for use with ``vivarium``",
+  "author": "The risk_distributions developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/risk_distributions",
+  "download_filename": "risk_distributions-2.3.0.tar.gz",
+  "download_time": "2026-02-20T01:07:59.490023",
+  "package_url": "https://pypi.org/project/risk-distributions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zensols-zotsite",
+  "version": "1.3.0",
+  "summary": "This program exports your local [Zotero] library to a usable HTML website with following features.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_zotsite-1.3.0-py3-none-any.whl",
+  "download_time": "2026-02-20T01:08:07.311358",
+  "package_url": "https://pypi.org/project/zensols-zotsite/"
+}

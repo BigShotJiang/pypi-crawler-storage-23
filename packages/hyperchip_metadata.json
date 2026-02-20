@@ -1,0 +1,11 @@
+{
+  "name": "hyperchip",
+  "version": "0.0.1",
+  "summary": "Chip satellite imagery into ML-ready training data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperchip-0.0.1.tar.gz",
+  "download_time": "2026-02-20T01:07:54.262402",
+  "package_url": "https://pypi.org/project/hyperchip/"
+}

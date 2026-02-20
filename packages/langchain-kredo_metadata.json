@@ -1,11 +1,11 @@
 {
   "name": "langchain-kredo",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "LangChain integration for the Kredo agent attestation protocol",
   "author": "Jim Motes, Vanguard",
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_kredo-0.3.1.tar.gz",
-  "download_time": "2026-02-18T12:37:31.362579",
+  "download_filename": "langchain_kredo-0.3.3.tar.gz",
+  "download_time": "2026-02-20T01:08:10.046917",
   "package_url": "https://pypi.org/project/langchain-kredo/"
 }

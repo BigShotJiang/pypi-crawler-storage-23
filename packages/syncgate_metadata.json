@@ -1,0 +1,11 @@
+{
+  "name": "syncgate",
+  "version": "0.9.0",
+  "summary": "Lightweight multi-storage routing and sync abstraction layer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syncgate-0.9.0.tar.gz",
+  "download_time": "2026-02-20T01:07:57.172332",
+  "package_url": "https://pypi.org/project/syncgate/"
+}
