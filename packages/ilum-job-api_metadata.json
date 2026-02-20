@@ -1,0 +1,11 @@
+{
+  "name": "ilum-job-api",
+  "version": "6.6.1",
+  "summary": "Ilum job python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ilum_job_api-6.6.1.tar.gz",
+  "download_time": "2026-02-20T11:46:14.318405",
+  "package_url": "https://pypi.org/project/ilum-job-api/"
+}

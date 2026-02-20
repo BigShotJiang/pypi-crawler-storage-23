@@ -1,0 +1,11 @@
+{
+  "name": "greedyFAS",
+  "version": "1.19.4",
+  "summary": "A tool to compare protein feature architectures",
+  "author": "Julian Dosch",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/BIONF/FAS",
+  "download_filename": "greedyfas-1.19.4.tar.gz",
+  "download_time": "2026-02-20T11:46:03.831136",
+  "package_url": "https://pypi.org/project/greedyFAS/"
+}

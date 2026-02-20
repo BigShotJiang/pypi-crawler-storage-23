@@ -1,0 +1,11 @@
+{
+  "name": "databricks-sqlalchemy",
+  "version": "2.0.9",
+  "summary": "Databricks SQLAlchemy plugin for Python",
+  "author": "Databricks",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_sqlalchemy-2.0.9.tar.gz",
+  "download_time": "2026-02-20T11:46:41.986939",
+  "package_url": "https://pypi.org/project/databricks-sqlalchemy/"
+}

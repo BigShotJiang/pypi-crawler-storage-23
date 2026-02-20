@@ -1,0 +1,11 @@
+{
+  "name": "playerdatapy",
+  "version": "1.8.2",
+  "summary": "Python client for the PlayerData GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "playerdatapy-1.8.2.tar.gz",
+  "download_time": "2026-02-20T11:46:33.674460",
+  "package_url": "https://pypi.org/project/playerdatapy/"
+}

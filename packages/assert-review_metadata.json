@@ -1,0 +1,11 @@
+{
+  "name": "assert-review",
+  "version": "0.1.1",
+  "summary": "LLM-based compliance note evaluation for financial services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "assert_review-0.1.1.tar.gz",
+  "download_time": "2026-02-20T11:46:20.566004",
+  "package_url": "https://pypi.org/project/assert-review/"
+}

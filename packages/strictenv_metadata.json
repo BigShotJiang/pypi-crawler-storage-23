@@ -1,0 +1,11 @@
+{
+  "name": "strictenv",
+  "version": "0.1.2",
+  "summary": "Strictly typed environment variable parsing and validation with msgspec.",
+  "author": "Francisco Romero Ruiz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "strictenv-0.1.2.tar.gz",
+  "download_time": "2026-02-20T11:46:05.462348",
+  "package_url": "https://pypi.org/project/strictenv/"
+}

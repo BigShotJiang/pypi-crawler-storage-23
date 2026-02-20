@@ -1,0 +1,11 @@
+{
+  "name": "asr_eval",
+  "version": "0.3.0",
+  "summary": "Evaluation tools for Automatic Speech Recognition",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asr_eval-0.3.0.tar.gz",
+  "download_time": "2026-02-20T11:46:26.888841",
+  "package_url": "https://pypi.org/project/asr_eval/"
+}

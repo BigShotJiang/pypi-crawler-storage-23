@@ -1,0 +1,11 @@
+{
+  "name": "line-solver",
+  "version": "3.0.3.5",
+  "summary": "Open source queueing theory solvers",
+  "author": "Giuliano Casale",
+  "license": "BSD-3",
+  "home_page": "https://line-solver.sourceforge.net",
+  "download_filename": "line_solver-3.0.3.5.tar.gz",
+  "download_time": "2026-02-20T11:46:02.277523",
+  "package_url": "https://pypi.org/project/line-solver/"
+}

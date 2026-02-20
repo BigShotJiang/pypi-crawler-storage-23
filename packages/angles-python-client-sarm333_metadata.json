@@ -1,0 +1,11 @@
+{
+  "name": "angles-python-client-sarm333",
+  "version": "1.0.1",
+  "summary": "Python client for the Angles Dashboard API",
+  "author": "AnglesHQ community",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "angles_python_client_sarm333-1.0.1.tar.gz",
+  "download_time": "2026-02-20T11:46:02.796240",
+  "package_url": "https://pypi.org/project/angles-python-client-sarm333/"
+}
