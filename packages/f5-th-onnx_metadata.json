@@ -1,0 +1,11 @@
+{
+  "name": "f5-th-onnx",
+  "version": "0.0.3",
+  "summary": "Text-to-Speech (TTS) ภาษาไทย — เครื่องมือสร้างเสียงพูดจากข้อความ ด้วยโมเดล F5-TTS ที่ปรับแต่งให้อยู่ในรูปแบบ ONNX ให้สามารถรันบน GPU ขนาดเล็กกว่าและใช้ทรัพยากรน้อยกว่า",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "f5_th_onnx-0.0.3-py3-none-any.whl",
+  "download_time": "2026-02-20T06:08:55.083453",
+  "package_url": "https://pypi.org/project/f5-th-onnx/"
+}

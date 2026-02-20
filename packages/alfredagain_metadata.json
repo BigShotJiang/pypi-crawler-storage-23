@@ -1,11 +1,11 @@
 {
   "name": "alfredagain",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "Domain-agnostic LLM orchestration engine built on LangGraph",
   "author": "Vigne",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alfredagain-2.0.0-py3-none-any.whl",
-  "download_time": "2026-02-19T06:35:38.420282",
+  "download_filename": "alfredagain-2.2.0.tar.gz",
+  "download_time": "2026-02-20T06:08:33.590737",
   "package_url": "https://pypi.org/project/alfredagain/"
 }

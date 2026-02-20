@@ -1,0 +1,11 @@
+{
+  "name": "lite-mamba",
+  "version": "1.0.2",
+  "summary": "Pure-TensorFlow lightweight Mamba with multi-dilated causal conv front-end",
+  "author": "Md Robiuddin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Mrrobi/lite_mamba",
+  "download_filename": "lite_mamba-1.0.2.tar.gz",
+  "download_time": "2026-02-20T06:08:37.243358",
+  "package_url": "https://pypi.org/project/lite-mamba/"
+}

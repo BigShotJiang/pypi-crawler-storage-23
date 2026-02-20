@@ -1,0 +1,11 @@
+{
+  "name": "latincy-readers",
+  "version": "1.2.0",
+  "summary": "Corpus readers for Latin texts with LatinCy/spaCy integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latincy_readers-1.2.0.tar.gz",
+  "download_time": "2026-02-20T06:08:28.658437",
+  "package_url": "https://pypi.org/project/latincy-readers/"
+}

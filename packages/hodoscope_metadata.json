@@ -1,11 +1,11 @@
 {
   "name": "hodoscope",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Library for analyzing AI agent trajectories — extract actions, summarize, embed, and visualize.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hodoscope-0.2.2.tar.gz",
-  "download_time": "2026-02-20T03:40:45.228355",
+  "download_filename": "hodoscope-0.2.3.tar.gz",
+  "download_time": "2026-02-20T06:08:42.454436",
   "package_url": "https://pypi.org/project/hodoscope/"
 }

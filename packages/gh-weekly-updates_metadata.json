@@ -1,0 +1,11 @@
+{
+  "name": "gh-weekly-updates",
+  "version": "0.1.1",
+  "summary": "Automatically discover and summarise your weekly GitHub impact",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gh_weekly_updates-0.1.1.tar.gz",
+  "download_time": "2026-02-20T06:08:19.800468",
+  "package_url": "https://pypi.org/project/gh-weekly-updates/"
+}

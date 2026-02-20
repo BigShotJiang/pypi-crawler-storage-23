@@ -1,0 +1,11 @@
+{
+  "name": "csharp_like_file",
+  "version": "0.0.7",
+  "summary": "System.IO.File-like in Python.",
+  "author": "yueyinqiu",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "csharp_like_file-0.0.7.tar.gz",
+  "download_time": "2026-02-20T06:08:43.500977",
+  "package_url": "https://pypi.org/project/csharp_like_file/"
+}

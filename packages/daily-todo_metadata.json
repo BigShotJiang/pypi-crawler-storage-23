@@ -1,0 +1,11 @@
+{
+  "name": "daily-todo",
+  "version": "0.2.0",
+  "summary": "Daily TODO CLI：Markdown 日程 + LLM 生成/更新/总结",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daily_todo-0.2.0.tar.gz",
+  "download_time": "2026-02-20T06:08:30.753514",
+  "package_url": "https://pypi.org/project/daily-todo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-azuread",
+  "version": "6.8.0",
+  "summary": "A Pulumi package for creating and managing Azure Active Directory (Azure AD) cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_azuread-6.8.0.tar.gz",
+  "download_time": "2026-02-20T06:08:32.550938",
+  "package_url": "https://pypi.org/project/pulumi-azuread/"
+}
