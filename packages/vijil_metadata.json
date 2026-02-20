@@ -1,0 +1,11 @@
+{
+  "name": "vijil",
+  "version": "0.1.58",
+  "summary": "Python Client for Vijil",
+  "author": "Subho Majumdar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vijil-0.1.58.tar.gz",
+  "download_time": "2026-02-20T15:36:46.721416",
+  "package_url": "https://pypi.org/project/vijil/"
+}

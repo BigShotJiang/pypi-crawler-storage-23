@@ -1,0 +1,11 @@
+{
+  "name": "sirio",
+  "version": "0.1.59",
+  "summary": "Sirio",
+  "author": "Pasquale Rombolà",
+  "license": "BSD",
+  "home_page": "https://github.com/pask-xx/sirio.git",
+  "download_filename": "sirio-0.1.59.tar.gz",
+  "download_time": "2026-02-20T15:36:19.466868",
+  "package_url": "https://pypi.org/project/sirio/"
+}

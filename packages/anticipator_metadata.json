@@ -1,11 +1,11 @@
 {
   "name": "anticipator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Runtime threat detection for multi-agent AI systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anticipator-0.1.5.tar.gz",
-  "download_time": "2026-02-20T14:59:36.574929",
+  "download_filename": "anticipator-0.1.6.tar.gz",
+  "download_time": "2026-02-20T15:36:18.946786",
   "package_url": "https://pypi.org/project/anticipator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "proprioceptive-cradle",
+  "version": "0.2.0",
+  "summary": "Behavioral adapter generation for language models via fiber-bundle probes",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "proprioceptive_cradle-0.2.0.tar.gz",
+  "download_time": "2026-02-20T15:36:19.987366",
+  "package_url": "https://pypi.org/project/proprioceptive-cradle/"
+}

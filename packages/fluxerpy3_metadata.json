@@ -1,0 +1,11 @@
+{
+  "name": "fluxerpy3",
+  "version": "0.1.1",
+  "summary": "A Python wrapper for the Fluxer.web API, similar to discord.py",
+  "author": "beennnii",
+  "license": "MIT",
+  "home_page": "https://github.com/beennnii/fluxerpy",
+  "download_filename": "fluxerpy3-0.1.1.tar.gz",
+  "download_time": "2026-02-20T15:36:15.261666",
+  "package_url": "https://pypi.org/project/fluxerpy3/"
+}

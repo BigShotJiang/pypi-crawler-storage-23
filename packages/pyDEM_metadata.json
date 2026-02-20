@@ -1,0 +1,11 @@
+{
+  "name": "pyDEM",
+  "version": "1.2.1",
+  "summary": "Software for calculating Topographic Wetness Index (TWI)",
+  "author": "Creare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydem-1.2.1.tar.gz",
+  "download_time": "2026-02-20T15:36:27.870935",
+  "package_url": "https://pypi.org/project/pyDEM/"
+}

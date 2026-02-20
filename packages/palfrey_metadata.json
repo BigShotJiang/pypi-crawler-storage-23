@@ -1,11 +1,11 @@
 {
   "name": "palfrey",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A clean-room ASGI server with Uvicorn-compatible CLI and behavior mapping.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "palfrey-0.1.1.tar.gz",
-  "download_time": "2026-02-19T21:55:41.042041",
+  "download_filename": "palfrey-0.1.2.tar.gz",
+  "download_time": "2026-02-20T15:36:43.059185",
   "package_url": "https://pypi.org/project/palfrey/"
 }

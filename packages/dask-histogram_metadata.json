@@ -1,0 +1,11 @@
+{
+  "name": "dask-histogram",
+  "version": "2026.2.0",
+  "summary": "Histogramming with Dask.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dask_histogram-2026.2.0.tar.gz",
+  "download_time": "2026-02-20T15:36:37.833165",
+  "package_url": "https://pypi.org/project/dask-histogram/"
+}

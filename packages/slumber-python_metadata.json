@@ -1,0 +1,11 @@
+{
+  "name": "slumber-python",
+  "version": "5.1.0",
+  "summary": "Python bindings for Slumber, the source-based REST/HTTP client",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://slumber.lucaspickering.me",
+  "download_filename": "slumber_python-5.1.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-20T15:36:21.064774",
+  "package_url": "https://pypi.org/project/slumber-python/"
+}
