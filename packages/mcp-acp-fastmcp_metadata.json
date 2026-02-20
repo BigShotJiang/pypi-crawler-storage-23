@@ -1,0 +1,11 @@
+{
+  "name": "mcp-acp-fastmcp",
+  "version": "0.2.3",
+  "summary": "MCP server for Ambient Code Platform (ACP) session management - list, delete, debug, and manage AgenticSession resources via the public API",
+  "author": "Ambient Code Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_acp_fastmcp-0.2.3.tar.gz",
+  "download_time": "2026-02-20T03:40:51.042080",
+  "package_url": "https://pypi.org/project/mcp-acp-fastmcp/"
+}

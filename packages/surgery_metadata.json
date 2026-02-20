@@ -1,0 +1,11 @@
+{
+  "name": "surgery",
+  "version": "0.1.2",
+  "summary": "Precision-focused offline CLI for viewing, editing, and stripping metadata from any media or document file",
+  "author": "Ankit Chaubey",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ankit-chaubey/media-metadata-surgery",
+  "download_filename": "surgery-0.1.2.tar.gz",
+  "download_time": "2026-02-20T03:41:04.331235",
+  "package_url": "https://pypi.org/project/surgery/"
+}

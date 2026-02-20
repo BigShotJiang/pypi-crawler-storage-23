@@ -1,0 +1,11 @@
+{
+  "name": "twitterxscraper",
+  "version": "1.1.5",
+  "summary": "A Python CLI tool for scraping public X (Twitter) profile tweets using Playwright and exporting structured results to a CSV file without requiring API keys.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twitterxscraper-1.1.5.tar.gz",
+  "download_time": "2026-02-20T03:41:24.062128",
+  "package_url": "https://pypi.org/project/twitterxscraper/"
+}

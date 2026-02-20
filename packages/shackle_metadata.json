@@ -1,11 +1,11 @@
 {
   "name": "shackle",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Enterprise-grade async-first AI agent orchestration framework",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "shackle-0.2.1-py3-none-any.whl",
-  "download_time": "2026-02-19T09:04:33.498705",
+  "download_filename": "shackle-0.3.1-py3-none-any.whl",
+  "download_time": "2026-02-20T03:41:02.613228",
   "package_url": "https://pypi.org/project/shackle/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cfn_lint_serverless",
+  "version": "0.3.5",
+  "summary": "Serverless rules for cfn-lint",
+  "author": "Amazon Web Service",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfn_lint_serverless-0.3.5.tar.gz",
+  "download_time": "2026-02-20T03:41:03.208916",
+  "package_url": "https://pypi.org/project/cfn_lint_serverless/"
+}

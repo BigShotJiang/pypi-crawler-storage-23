@@ -1,11 +1,11 @@
 {
   "name": "isage-sage-benchmark",
-  "version": "0.1.0.5",
+  "version": "0.1.0.6",
   "summary": "SAGE Benchmark - SAGE framework-specific system-level benchmarks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_sage_benchmark-0.1.0.5.tar.gz",
-  "download_time": "2026-02-19T20:22:14.588222",
+  "download_filename": "isage_sage_benchmark-0.1.0.6.tar.gz",
+  "download_time": "2026-02-20T03:41:02.091747",
   "package_url": "https://pypi.org/project/isage-sage-benchmark/"
 }

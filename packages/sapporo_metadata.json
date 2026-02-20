@@ -1,0 +1,11 @@
+{
+  "name": "sapporo",
+  "version": "2.2.2",
+  "summary": "The sapporo-service is a standard implementation conforming to the Global Alliance for Genomics and Health (GA4GH) Workflow Execution Service (WES) API specification.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sapporo-2.2.2-py3-none-any.whl",
+  "download_time": "2026-02-20T03:41:06.473812",
+  "package_url": "https://pypi.org/project/sapporo/"
+}
