@@ -1,0 +1,11 @@
+{
+  "name": "soracli",
+  "version": "1.0.0",
+  "summary": "Real-time terminal ambient environment engine that synchronizes real-world weather conditions with animated terminal simulations",
+  "author": "SoraCLI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soracli-1.0.0.tar.gz",
+  "download_time": "2026-02-21T09:52:53.193602",
+  "package_url": "https://pypi.org/project/soracli/"
+}

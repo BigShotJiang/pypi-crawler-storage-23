@@ -1,11 +1,11 @@
 {
   "name": "xorfice",
-  "version": "0.1.12",
+  "version": "0.1.15",
   "summary": "SOTA Multimodal Inference Engine (S2S, I2I, V2V) for Xoron-Dev.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xorfice-0.1.12.tar.gz",
-  "download_time": "2026-02-21T09:21:06.239380",
+  "download_filename": "xorfice-0.1.15.tar.gz",
+  "download_time": "2026-02-21T09:52:40.889346",
   "package_url": "https://pypi.org/project/xorfice/"
 }

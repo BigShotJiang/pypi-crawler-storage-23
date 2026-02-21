@@ -1,0 +1,11 @@
+{
+  "name": "vegamdb",
+  "version": "0.1.0",
+  "summary": "A high-performance vector database written in C++ with Python bindings",
+  "author": "Naredla Ajay Kumar Reddy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vegamdb-0.1.0.tar.gz",
+  "download_time": "2026-02-21T09:52:53.703745",
+  "package_url": "https://pypi.org/project/vegamdb/"
+}

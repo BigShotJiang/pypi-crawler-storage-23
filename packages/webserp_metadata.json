@@ -1,0 +1,11 @@
+{
+  "name": "webserp",
+  "version": "0.1.2",
+  "summary": "Metasearch CLI — query multiple search engines in parallel with browser impersonation",
+  "author": "PaperBoardOfficial",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webserp-0.1.2.tar.gz",
+  "download_time": "2026-02-21T09:52:34.310243",
+  "package_url": "https://pypi.org/project/webserp/"
+}

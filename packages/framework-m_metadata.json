@@ -1,0 +1,11 @@
+{
+  "name": "framework-m",
+  "version": "0.4.15",
+  "summary": "A modern, metadata-driven business application framework",
+  "author": "Framework M Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framework_m-0.4.15.tar.gz",
+  "download_time": "2026-02-21T09:52:37.823977",
+  "package_url": "https://pypi.org/project/framework-m/"
+}

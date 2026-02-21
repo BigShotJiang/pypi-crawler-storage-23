@@ -1,0 +1,11 @@
+{
+  "name": "rusmppyc",
+  "version": "0.4.0a2",
+  "summary": "An async SMPP v5 Python client powered by Rust",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "rusmppyc-0.4.0a2.tar.gz",
+  "download_time": "2026-02-21T09:52:42.557412",
+  "package_url": "https://pypi.org/project/rusmppyc/"
+}

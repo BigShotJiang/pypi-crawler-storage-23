@@ -1,0 +1,11 @@
+{
+  "name": "pygtkspellcheck",
+  "version": "5.0.4",
+  "summary": "A simple but quite powerful spellchecking library for GTK written in pure Python.",
+  "author": "Maximilian Köhl",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/koehlma/pygtkspellcheck",
+  "download_filename": "pygtkspellcheck-5.0.4.tar.gz",
+  "download_time": "2026-02-21T09:52:32.197584",
+  "package_url": "https://pypi.org/project/pygtkspellcheck/"
+}

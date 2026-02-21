@@ -1,11 +1,11 @@
 {
   "name": "gabay",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "A self-hosted, Telegram-first AI assistant for productivity.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gabay-0.1.1.tar.gz",
-  "download_time": "2026-02-21T09:20:57.391866",
+  "download_filename": "gabay-0.1.5.tar.gz",
+  "download_time": "2026-02-21T09:52:40.377700",
   "package_url": "https://pypi.org/project/gabay/"
 }

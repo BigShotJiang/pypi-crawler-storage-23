@@ -1,0 +1,11 @@
+{
+  "name": "mcp-watchdog",
+  "version": "0.1.1",
+  "summary": "MCP security proxy that detects and blocks all known MCP attack classes",
+  "author": "Bountyy Oy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_watchdog-0.1.1.tar.gz",
+  "download_time": "2026-02-21T09:53:03.317227",
+  "package_url": "https://pypi.org/project/mcp-watchdog/"
+}

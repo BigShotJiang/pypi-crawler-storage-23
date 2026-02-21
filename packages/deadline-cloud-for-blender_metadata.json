@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-for-blender",
+  "version": "0.6.1",
+  "summary": "AWS Deadline Cloud for Blender",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_for_blender-0.6.1.tar.gz",
+  "download_time": "2026-02-21T09:52:43.069200",
+  "package_url": "https://pypi.org/project/deadline-cloud-for-blender/"
+}

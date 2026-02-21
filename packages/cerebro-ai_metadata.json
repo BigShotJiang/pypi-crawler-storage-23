@@ -1,0 +1,11 @@
+{
+  "name": "cerebro-ai",
+  "version": "1.5.3",
+  "summary": "A cognitive memory system for AI agents — 49 MCP tools for persistent memory, causal reasoning, and predictive intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cerebro_ai-1.5.3.tar.gz",
+  "download_time": "2026-02-21T09:52:56.991874",
+  "package_url": "https://pypi.org/project/cerebro-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "framework-m-standard",
+  "version": "0.3.2",
+  "summary": "Default adapters for Framework M (SQLAlchemy, Redis, Litestar)",
+  "author": "Framework M Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framework_m_standard-0.3.2.tar.gz",
+  "download_time": "2026-02-21T09:52:36.795417",
+  "package_url": "https://pypi.org/project/framework-m-standard/"
+}

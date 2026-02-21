@@ -1,0 +1,11 @@
+{
+  "name": "onql-client",
+  "version": "0.1.4",
+  "summary": "ONQL Python client",
+  "author": "Paras Virk",
+  "license": "MIT",
+  "home_page": "https://onql.org",
+  "download_filename": "onql_client-0.1.4.tar.gz",
+  "download_time": "2026-02-21T09:52:49.942856",
+  "package_url": "https://pypi.org/project/onql-client/"
+}

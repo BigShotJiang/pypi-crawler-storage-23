@@ -1,0 +1,11 @@
+{
+  "name": "room-env",
+  "version": "3.0.6",
+  "summary": "The Room environment",
+  "author": "Taewoon Kim",
+  "license": null,
+  "home_page": "https://github.com/humemai/room-env",
+  "download_filename": "room_env-3.0.6.tar.gz",
+  "download_time": "2026-02-21T09:53:08.966743",
+  "package_url": "https://pypi.org/project/room-env/"
+}
