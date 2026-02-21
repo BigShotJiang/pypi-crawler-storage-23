@@ -1,11 +1,11 @@
 {
   "name": "atlas-asset-client",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "summary": "Async HTTP client for Atlas Command.",
   "author": "ATLAS Team",
   "license": null,
   "home_page": null,
-  "download_filename": "atlas_asset_client-0.3.13.tar.gz",
-  "download_time": "2026-02-20T16:58:51.673153",
+  "download_filename": "atlas_asset_client-0.3.14.tar.gz",
+  "download_time": "2026-02-21T09:21:15.852649",
   "package_url": "https://pypi.org/project/atlas-asset-client/"
 }

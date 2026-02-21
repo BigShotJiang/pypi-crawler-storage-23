@@ -1,0 +1,11 @@
+{
+  "name": "clickpesa-python-sdk",
+  "version": "0.1.0",
+  "summary": "Production-grade Python SDK for the ClickPesa API — sync & async, collections, payouts, BillPay and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickpesa_python_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-21T09:21:02.947494",
+  "package_url": "https://pypi.org/project/clickpesa-python-sdk/"
+}

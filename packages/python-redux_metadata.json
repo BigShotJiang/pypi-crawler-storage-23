@@ -1,0 +1,11 @@
+{
+  "name": "python-redux",
+  "version": "0.25.3",
+  "summary": "Redux implementation for Python (Binary Extension)",
+  "author": "Sassan Haradji",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sassanh/python-redux/",
+  "download_filename": "python_redux-0.25.3.tar.gz",
+  "download_time": "2026-02-21T09:21:07.835337",
+  "package_url": "https://pypi.org/project/python-redux/"
+}

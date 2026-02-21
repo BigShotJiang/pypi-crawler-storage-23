@@ -1,0 +1,11 @@
+{
+  "name": "video-extensions",
+  "version": "1.0.0",
+  "summary": "Check if a file or extension is a video type, and iterate over 36 known video file formats including mp4, mov, avi, mkv, and more. Python port of video-extensions npm package.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_extensions-1.0.0.tar.gz",
+  "download_time": "2026-02-21T09:21:02.413270",
+  "package_url": "https://pypi.org/project/video-extensions/"
+}

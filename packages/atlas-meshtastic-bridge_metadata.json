@@ -1,11 +1,11 @@
 {
   "name": "atlas-meshtastic-bridge",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "Reliable offline bridge for Atlas Command over Meshtastic radios.",
   "author": "ATLAS Team",
   "license": null,
   "home_page": null,
-  "download_filename": "atlas_meshtastic_bridge-0.1.19.tar.gz",
-  "download_time": "2026-02-20T16:58:37.683628",
+  "download_filename": "atlas_meshtastic_bridge-0.1.20.tar.gz",
+  "download_time": "2026-02-21T09:21:11.055652",
   "package_url": "https://pypi.org/project/atlas-meshtastic-bridge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "glm-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for ZhipuAI GLM — chat and text embeddings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glm_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-21T09:21:14.264340",
+  "package_url": "https://pypi.org/project/glm-mcp/"
+}

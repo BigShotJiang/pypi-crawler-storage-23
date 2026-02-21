@@ -1,0 +1,11 @@
+{
+  "name": "gges",
+  "version": "0.0.1",
+  "summary": "Geography and Environmental Science",
+  "author": "Songyan Zhu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/songyanzhu/gges",
+  "download_filename": "gges-0.0.1.tar.gz",
+  "download_time": "2026-02-21T09:21:10.519565",
+  "package_url": "https://pypi.org/project/gges/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chrome-cookies-to-playwright",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Export Chrome cookies to Playwright storage state format (macOS)",
   "author": "Richard Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "chrome_cookies_to_playwright-0.1.0.tar.gz",
-  "download_time": "2026-02-21T08:53:44.509180",
+  "download_filename": "chrome_cookies_to_playwright-0.1.1.tar.gz",
+  "download_time": "2026-02-21T09:21:04.104157",
   "package_url": "https://pypi.org/project/chrome-cookies-to-playwright/"
 }
