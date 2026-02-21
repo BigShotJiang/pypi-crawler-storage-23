@@ -1,11 +1,11 @@
 {
   "name": "dagmc-h5m-file-inspector",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "Extracts information from DAGMC h5m files including volumes number, material tags",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagmc_h5m_file_inspector-0.6.5-py3-none-any.whl",
-  "download_time": "2026-02-19T18:06:33.372071",
+  "download_filename": "dagmc_h5m_file_inspector-0.6.6-py3-none-any.whl",
+  "download_time": "2026-02-21T21:55:15.407700",
   "package_url": "https://pypi.org/project/dagmc-h5m-file-inspector/"
 }

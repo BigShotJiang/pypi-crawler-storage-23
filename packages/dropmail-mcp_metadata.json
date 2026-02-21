@@ -1,11 +1,11 @@
 {
   "name": "dropmail-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for the DropMail temporary email service",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dropmail_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-20T20:20:03.200151",
+  "download_filename": "dropmail_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-21T21:55:25.322623",
   "package_url": "https://pypi.org/project/dropmail-mcp/"
 }

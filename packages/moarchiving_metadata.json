@@ -1,0 +1,11 @@
+{
+  "name": "moarchiving",
+  "version": "1.1.0",
+  "summary": "This package implements a non-dominated archive for 2, 3 or 4 objectives with hypervolume indicator and uncrowded hypervolume improvement computation.",
+  "author": "Nikolaus Hansen, Nace Sever, Mila Nedic, Tea Tusar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "moarchiving-1.1.0.tar.gz",
+  "download_time": "2026-02-21T21:55:32.578066",
+  "package_url": "https://pypi.org/project/moarchiving/"
+}

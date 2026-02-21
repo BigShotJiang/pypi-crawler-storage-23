@@ -1,0 +1,11 @@
+{
+  "name": "SVG2DrawIOLib",
+  "version": "1.2.2",
+  "summary": "Generate DrawIO shape libraries from SVGs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "svg2drawiolib-1.2.2.tar.gz",
+  "download_time": "2026-02-21T21:55:30.484156",
+  "package_url": "https://pypi.org/project/SVG2DrawIOLib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "calced",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A notepad calculator that evaluates expressions in text files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calced-0.1.0.tar.gz",
-  "download_time": "2026-02-19T18:07:01.647007",
+  "download_filename": "calced-0.2.0.tar.gz",
+  "download_time": "2026-02-21T21:55:23.261896",
   "package_url": "https://pypi.org/project/calced/"
 }

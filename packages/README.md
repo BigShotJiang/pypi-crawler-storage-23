@@ -1,16 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-21T21:39:16.636097
-- **Total Packages**: 87
-- **Total Size**: 36.47 MB
+- **Download Time**: 2026-02-21T21:55:55.087867
+- **Total Packages**: 90
+- **Total Size**: 21.02 MB
 
 ## Packages List
-- sqlglotc
+- holidata
+- embedding-visualizer
+- open-strix
+- datarepr
+- keephive
+- coding-agent-tools
+- gtop
+- multirtc
+- deriva-ml
+- ciris-verify
+- laminarnet
+- chuk-term
 - sanatan-verse-sdk
+- dagmc-h5m-file-inspector
+- cjm-transcript-vad-align
+- forecast-solar
+- hanzo-cli
+- science-mode-4
+- hanzo
+- aicippy
+- yaml-reference
+- fs-report
+- simplebayes
+- agentcage
+- pgplan
+- predicate-authority-sidecar
+- monitorat
+- siq
+- calced
+- netschoolpy
+- gmdbuilder
+- dve-lumipy-testing
+- dropmail-mcp
+- id3-classification
+- OpenEXR
+- lemurian
+- fraiseql
+- dominus-sdk-python
+- lottery-tui
+- albums
+- simmetry
+- tomlhold
+- SVG2DrawIOLib
+- wowipy
+- luminesce-sdk
+- keep-skill
+- moarchiving
+- tsgettoolbox
+- ai-voice-answers
+- langchain-callback-parquet-logger
+- cjm-fasthtml-web-audio
 - wisent
+- sqlglotc
 - mathformer
-- logifyx
 - regionate
 - exaai-agent
 - flex-evals
@@ -24,7 +73,6 @@
 - optopsy
 - bsplyne
 - Rheel-Data-Management
-- coding-agent-tools
 - jsf-core
 - fix-cli
 - AVPlay
@@ -45,51 +93,6 @@
 - gpkit-models
 - karaoke-gen
 - synth-nmr
-- lottery-tui
 - anteroom
 - soprano-sdk
 - fileseq
-- tomfaulkner-arq
-- atlasbridge
-- tgcore
-- PyADRecon
-- napari-etminflux-data-viewer
-- aicippy
-- pytest-bec-e2e
-- bec-server
-- bec-lib
-- bec-ipython-client
-- flowquery
-- winebox
-- semantic-cache-mcp
-- boneio
-- agentward
-- py-llmify
-- PyADRecon-ADWS
-- open-strix
-- aiinbx
-- nats-fasterapi
-- elara-core
-- visor-vari
-- sso-zenna
-- lukhed-markets
-- hdrive-etc
-- jleechanorg-pr-automation
-- django-watchman
-- jleechanorg-orchestration
-- gtop
-- atlassian-jira-mcp
-- core-tests
-- ethercat-master
-- PyPDFForm
-- wmill-pg
-- wmill
-- windmill-api
-- attestant
-- mcp-bouncer
-- booklet
-- mcp-memory-service
-- accelforge
-- atlas-agent
-- lukhed-basic-utils
-- libinspector
