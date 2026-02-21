@@ -1,0 +1,11 @@
+{
+  "name": "mailcheck-dev",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the MailCheck.dev email verification API. Verify emails, detect disposable addresses, check DNS/SPF/DKIM/DMARC, and bulk verify lists.",
+  "author": "MailCheck.dev",
+  "license": "MIT",
+  "home_page": "https://mailcheck.dev",
+  "download_filename": "mailcheck_dev-1.0.0.tar.gz",
+  "download_time": "2026-02-21T19:22:29.392749",
+  "package_url": "https://pypi.org/project/mailcheck-dev/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyportainer",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "summary": "Asynchronous Python client for the Portainer API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyportainer-1.0.28.tar.gz",
-  "download_time": "2026-02-21T10:17:57.775883",
+  "download_filename": "pyportainer-1.0.29.tar.gz",
+  "download_time": "2026-02-21T19:22:41.366865",
   "package_url": "https://pypi.org/project/pyportainer/"
 }

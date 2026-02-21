@@ -1,0 +1,11 @@
+{
+  "name": "unifi-backup",
+  "version": "0.3.0",
+  "summary": "A simple tool to fetch backups from the UniFi Network Application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unifi_backup-0.3.0.tar.gz",
+  "download_time": "2026-02-21T19:22:40.257689",
+  "package_url": "https://pypi.org/project/unifi-backup/"
+}

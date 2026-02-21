@@ -1,11 +1,11 @@
 {
   "name": "venver",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "Automatically activate, and deactivate virutal environments when entering or leaving directories.",
   "author": "Narvin Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "venver-0.5.2.tar.gz",
-  "download_time": "2026-02-21T05:36:23.453902",
+  "download_filename": "venver-0.5.4.tar.gz",
+  "download_time": "2026-02-21T19:22:25.081192",
   "package_url": "https://pypi.org/project/venver/"
 }

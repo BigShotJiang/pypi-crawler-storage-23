@@ -1,11 +1,11 @@
 {
   "name": "zoommap-converter",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A Python CLI tool for converting Leaflet to Zoommap.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zoommap_converter-0.5.0.tar.gz",
-  "download_time": "2026-02-21T18:59:17.691207",
+  "download_filename": "zoommap_converter-0.5.1.tar.gz",
+  "download_time": "2026-02-21T19:22:32.074129",
   "package_url": "https://pypi.org/project/zoommap-converter/"
 }

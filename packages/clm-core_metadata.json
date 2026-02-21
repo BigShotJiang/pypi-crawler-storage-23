@@ -1,0 +1,11 @@
+{
+  "name": "clm-core",
+  "version": "1.0.4",
+  "summary": "Natural Language compressor for LLMs (Compressed Language Model).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clm_core-1.0.4.tar.gz",
+  "download_time": "2026-02-21T19:22:14.257283",
+  "package_url": "https://pypi.org/project/clm-core/"
+}

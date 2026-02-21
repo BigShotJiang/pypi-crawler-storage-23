@@ -1,0 +1,11 @@
+{
+  "name": "zenius-downloader",
+  "version": "0.2.0",
+  "summary": "Automatically sync new DDR simfiles from Zenius-I-Vanisher to your local Stepmania Songs folder",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zenius_downloader-0.2.0.tar.gz",
+  "download_time": "2026-02-21T19:22:21.310888",
+  "package_url": "https://pypi.org/project/zenius-downloader/"
+}

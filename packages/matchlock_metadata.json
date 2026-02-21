@@ -1,0 +1,11 @@
+{
+  "name": "matchlock",
+  "version": "0.1.23",
+  "summary": "Python SDK for Matchlock sandbox",
+  "author": "Matchlock Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matchlock-0.1.23.tar.gz",
+  "download_time": "2026-02-21T19:22:35.379726",
+  "package_url": "https://pypi.org/project/matchlock/"
+}

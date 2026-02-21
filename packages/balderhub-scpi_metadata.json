@@ -1,11 +1,11 @@
 {
   "name": "balderhub-scpi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "balderhub-scpi: BalderHub project for interacting with programmable instruments over the SCPI protocol",
   "author": "Max Stahlschmidt",
   "license": "MIT",
   "home_page": "https://hub.balder.dev/projects/scpi",
-  "download_filename": "balderhub_scpi-0.0.1.tar.gz",
-  "download_time": "2026-02-21T11:15:48.594842",
+  "download_filename": "balderhub_scpi-0.0.2.tar.gz",
+  "download_time": "2026-02-21T19:22:41.901742",
   "package_url": "https://pypi.org/project/balderhub-scpi/"
 }

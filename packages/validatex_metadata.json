@@ -1,0 +1,11 @@
+{
+  "name": "validatex",
+  "version": "1.0.0",
+  "summary": "A powerful data quality validation framework inspired by Great Expectations",
+  "author": "Kaviarasan Mani",
+  "license": null,
+  "home_page": "https://github.com/kaviarasanmani/ValidateX",
+  "download_filename": "validatex-1.0.0.tar.gz",
+  "download_time": "2026-02-21T19:22:15.866724",
+  "package_url": "https://pypi.org/project/validatex/"
+}
