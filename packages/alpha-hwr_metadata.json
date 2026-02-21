@@ -1,0 +1,11 @@
+{
+  "name": "alpha-hwr",
+  "version": "0.5.0",
+  "summary": "Modern Python library and CLI for Grundfos ALPHA HWR pumps via Bluetooth Low Energy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alpha_hwr-0.5.0.tar.gz",
+  "download_time": "2026-02-21T22:59:51.704806",
+  "package_url": "https://pypi.org/project/alpha-hwr/"
+}

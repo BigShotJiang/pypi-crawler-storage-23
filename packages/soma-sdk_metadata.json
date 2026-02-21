@@ -1,11 +1,11 @@
 {
   "name": "soma-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python SDK for the Soma network",
   "author": "Soma Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "soma_sdk-0.1.2.tar.gz",
-  "download_time": "2026-02-19T21:55:20.845023",
+  "download_filename": "soma_sdk-0.1.3.tar.gz",
+  "download_time": "2026-02-21T23:00:00.037598",
   "package_url": "https://pypi.org/project/soma-sdk/"
 }

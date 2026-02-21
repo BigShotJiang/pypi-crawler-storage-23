@@ -1,0 +1,11 @@
+{
+  "name": "fluxflow",
+  "version": "0.8.0",
+  "summary": "Core model and inference for FluxFlow text-to-image generation",
+  "author": "Daniele Camisani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluxflow-0.8.0.tar.gz",
+  "download_time": "2026-02-21T22:59:35.928724",
+  "package_url": "https://pypi.org/project/fluxflow/"
+}

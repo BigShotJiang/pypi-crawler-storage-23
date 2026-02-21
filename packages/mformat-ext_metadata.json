@@ -1,0 +1,11 @@
+{
+  "name": "mformat-ext",
+  "version": "0.4",
+  "summary": "Uniform way to write simple text extended with DOCX and ODT files",
+  "author": "Tom Björkholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mformat_ext-0.4.tar.gz",
+  "download_time": "2026-02-21T23:00:05.781165",
+  "package_url": "https://pypi.org/project/mformat-ext/"
+}

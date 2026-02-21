@@ -1,0 +1,11 @@
+{
+  "name": "lobstr-core",
+  "version": "0.4.0",
+  "summary": "Nostr crypto primitives and relay client for autonomous agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lobstr_core-0.4.0.tar.gz",
+  "download_time": "2026-02-21T22:59:57.954663",
+  "package_url": "https://pypi.org/project/lobstr-core/"
+}

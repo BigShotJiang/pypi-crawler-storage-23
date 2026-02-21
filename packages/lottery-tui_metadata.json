@@ -1,11 +1,11 @@
 {
   "name": "lottery-tui",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A terminal user interface for lottery games.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lottery_tui-0.2.2.tar.gz",
-  "download_time": "2026-02-21T22:14:20.559032",
+  "download_filename": "lottery_tui-0.2.3.tar.gz",
+  "download_time": "2026-02-21T22:59:36.463922",
   "package_url": "https://pypi.org/project/lottery-tui/"
 }

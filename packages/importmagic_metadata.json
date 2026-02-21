@@ -1,0 +1,11 @@
+{
+  "name": "importmagic",
+  "version": "0.2.0",
+  "summary": "Python Import Magic - automagically add, remove and manage imports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "importmagic-0.2.0.tar.gz",
+  "download_time": "2026-02-21T23:00:04.737132",
+  "package_url": "https://pypi.org/project/importmagic/"
+}
