@@ -1,11 +1,11 @@
 {
   "name": "clawie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI + TUI control plane for ZeroClaw provisioning and channel operations",
   "author": "Clawie Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawie-0.1.0.tar.gz",
-  "download_time": "2026-02-20T07:56:44.066522",
+  "download_filename": "clawie-0.1.1.tar.gz",
+  "download_time": "2026-02-21T23:45:10.428089",
   "package_url": "https://pypi.org/project/clawie/"
 }

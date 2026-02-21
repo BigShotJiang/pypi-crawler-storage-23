@@ -1,11 +1,11 @@
 {
   "name": "projectnetzero",
-  "version": "0.3.1",
+  "version": "3.2",
   "summary": "Optimize your Python code for lower CO2 emissions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "projectnetzero-0.3.1-py3-none-any.whl",
-  "download_time": "2026-02-21T23:24:25.026204",
+  "download_filename": "projectnetzero-3.2.tar.gz",
+  "download_time": "2026-02-21T23:45:07.162350",
   "package_url": "https://pypi.org/project/projectnetzero/"
 }

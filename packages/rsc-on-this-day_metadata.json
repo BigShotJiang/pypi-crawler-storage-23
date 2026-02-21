@@ -1,0 +1,11 @@
+{
+  "name": "rsc-on-this-day",
+  "version": "0.5.0.post1",
+  "summary": "Displays Royal Society of Chemistry \"On This Day\" facts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/domdfcoding/rsc-on-this-day",
+  "download_filename": "rsc_on_this_day-0.5.0.post1.tar.gz",
+  "download_time": "2026-02-21T23:45:05.072971",
+  "package_url": "https://pypi.org/project/rsc-on-this-day/"
+}

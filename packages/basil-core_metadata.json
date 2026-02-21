@@ -1,11 +1,11 @@
 {
   "name": "basil-core",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "summary": "BASIL-CORE: Bayesian Analytic Sampling and Integrating Library - Compiled and low-dependency utilities",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "basil_core-1.2.2.tar.gz",
-  "download_time": "2026-02-19T23:51:46.855229",
+  "download_filename": "basil_core-1.2.4.tar.gz",
+  "download_time": "2026-02-21T23:45:08.872825",
   "package_url": "https://pypi.org/project/basil-core/"
 }

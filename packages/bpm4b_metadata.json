@@ -1,0 +1,11 @@
+{
+  "name": "bpm4b",
+  "version": "1.0.0",
+  "summary": "MP3 to M4B Audiobook Converter - Convert MP3 files to M4B format with chapter support",
+  "author": "Jdjchelp",
+  "license": null,
+  "home_page": "https://github.com/jdjchelp-jpg/bpm4b",
+  "download_filename": "bpm4b-1.0.0.tar.gz",
+  "download_time": "2026-02-21T23:44:55.782775",
+  "package_url": "https://pypi.org/project/bpm4b/"
+}
