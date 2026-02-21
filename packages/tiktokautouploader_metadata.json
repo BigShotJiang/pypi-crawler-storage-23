@@ -1,0 +1,11 @@
+{
+  "name": "tiktokautouploader",
+  "version": "5.7",
+  "summary": "Python TikTok uploader that lets you upload Tiktoks or schedule TikToks automatically with trending/favorited sounds, hashtags and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiktokautouploader-5.7.tar.gz",
+  "download_time": "2026-02-21T11:36:24.578808",
+  "package_url": "https://pypi.org/project/tiktokautouploader/"
+}

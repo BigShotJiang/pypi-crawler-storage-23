@@ -1,11 +1,11 @@
 {
   "name": "Mudabbir",
-  "version": "0.4.409",
+  "version": "0.5.3",
   "summary": "Mudabbir: the AI agent that runs on your laptop, not a datacenter.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mudabbir-0.4.409-py3-none-any.whl",
-  "download_time": "2026-02-20T09:57:35.740682",
+  "download_filename": "mudabbir-0.5.3-py3-none-any.whl",
+  "download_time": "2026-02-21T11:36:40.661085",
   "package_url": "https://pypi.org/project/Mudabbir/"
 }

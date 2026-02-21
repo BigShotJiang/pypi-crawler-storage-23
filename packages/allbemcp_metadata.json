@@ -1,11 +1,11 @@
 {
   "name": "allbemcp",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Turn any Python library into an MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "allbemcp-2.0.0.tar.gz",
-  "download_time": "2026-02-20T11:46:36.272111",
+  "download_filename": "allbemcp-2.1.0.tar.gz",
+  "download_time": "2026-02-21T11:36:37.009028",
   "package_url": "https://pypi.org/project/allbemcp/"
 }

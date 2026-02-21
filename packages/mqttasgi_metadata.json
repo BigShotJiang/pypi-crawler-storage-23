@@ -1,0 +1,11 @@
+{
+  "name": "mqttasgi",
+  "version": "2.0.0",
+  "summary": "MQTT ASGI Protocol Server",
+  "author": "Santiago Ivulich",
+  "license": "MIT",
+  "home_page": "https://github.com/sivulich/mqttasgi",
+  "download_filename": "mqttasgi-2.0.0.tar.gz",
+  "download_time": "2026-02-21T11:36:42.701841",
+  "package_url": "https://pypi.org/project/mqttasgi/"
+}

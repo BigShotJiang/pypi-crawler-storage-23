@@ -1,11 +1,11 @@
 {
   "name": "openclaw-stock-kit",
-  "version": "3.0.6",
+  "version": "3.0.8",
   "summary": "Korean stock market data & trading toolkit — CLI direct call",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openclaw_stock_kit-3.0.6-py3-none-any.whl",
-  "download_time": "2026-02-21T07:35:23.294197",
+  "download_filename": "openclaw_stock_kit-3.0.8-py3-none-any.whl",
+  "download_time": "2026-02-21T11:36:20.430590",
   "package_url": "https://pypi.org/project/openclaw-stock-kit/"
 }

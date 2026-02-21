@@ -1,0 +1,11 @@
+{
+  "name": "python-tgpt",
+  "version": "0.8.4",
+  "summary": "Interact with AI without API key",
+  "author": "Smartwa",
+  "license": "MIT",
+  "home_page": "https://github.com/Simatwa/python-tgpt",
+  "download_filename": "python_tgpt-0.8.4.tar.gz",
+  "download_time": "2026-02-21T11:36:43.724516",
+  "package_url": "https://pypi.org/project/python-tgpt/"
+}

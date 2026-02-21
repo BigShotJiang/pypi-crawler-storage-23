@@ -1,11 +1,11 @@
 {
   "name": "skivvy",
-  "version": "0.708",
+  "version": "0.709",
   "summary": "A simple tool for testing JSON/HTTP APIs",
   "author": "Jonas Holmer",
   "license": null,
   "home_page": null,
-  "download_filename": "skivvy-0.708.tar.gz",
-  "download_time": "2026-02-21T09:52:57.502912",
+  "download_filename": "skivvy-0.709.tar.gz",
+  "download_time": "2026-02-21T11:36:38.026676",
   "package_url": "https://pypi.org/project/skivvy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyfooda",
+  "version": "0.4.0",
+  "summary": "Python API for USDA FoodData Central with LLM-powered food aggregation",
+  "author": "Jerome",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfooda-0.4.0.tar.gz",
+  "download_time": "2026-02-21T11:36:27.288517",
+  "package_url": "https://pypi.org/project/pyfooda/"
+}

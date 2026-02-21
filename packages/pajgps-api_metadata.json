@@ -1,0 +1,11 @@
+{
+  "name": "pajgps-api",
+  "version": "0.1.1",
+  "summary": "A Python library to interact with the PAJ GPS API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pajgps_api-0.1.1.tar.gz",
+  "download_time": "2026-02-21T11:36:46.315220",
+  "package_url": "https://pypi.org/project/pajgps-api/"
+}
