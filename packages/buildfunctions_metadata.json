@@ -1,0 +1,11 @@
+{
+  "name": "buildfunctions",
+  "version": "0.2.4",
+  "summary": "The Buildfunctions SDK for Agents: Hardware-isolated CPU and GPU Sandboxes with runtime controls for untrusted AI actions",
+  "author": "Buildfunctions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "buildfunctions-0.2.4.tar.gz",
+  "download_time": "2026-02-21T03:32:01.258508",
+  "package_url": "https://pypi.org/project/buildfunctions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-tap",
-  "version": "0.3.2",
+  "version": "0.4.2",
   "summary": "The last MCP server you install by hand. Discover, install, and configure MCP servers from inside your AI assistant.",
   "author": "Felipe Stenzel",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_tap-0.3.2.tar.gz",
-  "download_time": "2026-02-20T03:41:03.735723",
+  "download_filename": "mcp_tap-0.4.2.tar.gz",
+  "download_time": "2026-02-21T03:31:49.770754",
   "package_url": "https://pypi.org/project/mcp-tap/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pydotaconstants",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Add your description here",
   "author": "r41ngee",
   "license": null,
   "home_page": null,
-  "download_filename": "pydotaconstants-0.2.0.tar.gz",
-  "download_time": "2026-02-20T23:49:20.395161",
+  "download_filename": "pydotaconstants-0.3.2.tar.gz",
+  "download_time": "2026-02-21T03:32:19.204014",
   "package_url": "https://pypi.org/project/pydotaconstants/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "predicate-contracts",
+  "version": "0.4.6",
+  "summary": "Shared typed contracts for Predicate authority and integrations.",
+  "author": "Predicate Systems",
+  "license": null,
+  "home_page": null,
+  "download_filename": "predicate_contracts-0.4.6.tar.gz",
+  "download_time": "2026-02-21T03:32:00.120138",
+  "package_url": "https://pypi.org/project/predicate-contracts/"
+}

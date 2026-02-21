@@ -1,0 +1,11 @@
+{
+  "name": "message-db-py",
+  "version": "0.3.2",
+  "summary": "The Python interface to the MessageDB Event Store and Message Store",
+  "author": "Subhash Bhushan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "message_db_py-0.3.2.tar.gz",
+  "download_time": "2026-02-21T03:32:27.456133",
+  "package_url": "https://pypi.org/project/message-db-py/"
+}

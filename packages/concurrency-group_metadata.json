@@ -1,11 +1,11 @@
 {
   "name": "concurrency-group",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Utilities for managing threads and processes in a structured way",
   "author": "Imbue, Josh Albrecht, Hynek Urban",
   "license": null,
   "home_page": null,
-  "download_filename": "concurrency_group-0.1.2.tar.gz",
-  "download_time": "2026-02-20T23:20:56.338545",
+  "download_filename": "concurrency_group-0.1.4.tar.gz",
+  "download_time": "2026-02-21T03:32:32.333702",
   "package_url": "https://pypi.org/project/concurrency-group/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-employee-id",
+  "version": "18.0.1.0.0.4",
+  "summary": "Employee ID",
+  "author": "CorporateHub, Michael Telahun Makonnen, OpenSynergy Indonesia, Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr",
+  "download_filename": "odoo_addon_hr_employee_id-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-02-21T03:32:20.862689",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-employee-id/"
+}

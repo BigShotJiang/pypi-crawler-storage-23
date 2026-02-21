@@ -1,0 +1,11 @@
+{
+  "name": "gravity-sdk",
+  "version": "0.1.0",
+  "summary": "Python server SDK for fetching Gravity ads",
+  "author": "Gravity Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gravity_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-21T03:31:57.793215",
+  "package_url": "https://pypi.org/project/gravity-sdk/"
+}
