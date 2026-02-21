@@ -1,11 +1,11 @@
 {
   "name": "pysilica",
-  "version": "0.8.14",
+  "version": "0.8.15",
   "summary": "A command line tool for creating workspaces for agents on top of piku",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysilica-0.8.14.tar.gz",
-  "download_time": "2026-02-21T03:32:22.019765",
+  "download_filename": "pysilica-0.8.15.tar.gz",
+  "download_time": "2026-02-21T04:56:52.796348",
   "package_url": "https://pypi.org/project/pysilica/"
 }

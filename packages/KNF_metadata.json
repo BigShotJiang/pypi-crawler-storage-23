@@ -1,0 +1,11 @@
+{
+  "name": "KNF",
+  "version": "1.0.3",
+  "summary": "Automated Descriptor Engine for SNCI, SCDI, and 9D KNF",
+  "author": "Prasanna Kulkarni",
+  "license": "MIT",
+  "home_page": "https://github.com/Prasanna163/KNF",
+  "download_filename": "knf-1.0.3.tar.gz",
+  "download_time": "2026-02-21T04:56:55.722055",
+  "package_url": "https://pypi.org/project/KNF/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sparkstart",
+  "version": "1.0.1",
+  "summary": "Create a new project in seconds, not hours. sparkstart handles all the boring setup so you can start coding immediately.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sparkstart-1.0.1.tar.gz",
+  "download_time": "2026-02-21T04:56:44.700343",
+  "package_url": "https://pypi.org/project/sparkstart/"
+}

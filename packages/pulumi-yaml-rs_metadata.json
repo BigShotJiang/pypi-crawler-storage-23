@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-yaml-rs",
+  "version": "0.1.0",
+  "summary": "Python bindings for the Rust Pulumi YAML engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_yaml_rs-0.1.0-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-21T04:56:27.890290",
+  "package_url": "https://pypi.org/project/pulumi-yaml-rs/"
+}

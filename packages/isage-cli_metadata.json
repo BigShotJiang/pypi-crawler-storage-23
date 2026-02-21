@@ -1,11 +1,11 @@
 {
   "name": "isage-cli",
-  "version": "0.2.4.13",
+  "version": "0.2.4.15",
   "summary": "SAGE Command Line Interface - Unified CLI for SAGE platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_cli-0.2.4.13-py2.py3-none-any.whl",
-  "download_time": "2026-02-20T08:30:47.992690",
+  "download_filename": "isage_cli-0.2.4.15.tar.gz",
+  "download_time": "2026-02-21T04:57:03.044287",
   "package_url": "https://pypi.org/project/isage-cli/"
 }

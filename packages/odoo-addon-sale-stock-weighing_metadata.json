@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-stock-weighing",
+  "version": "15.0.1.0.0.3",
+  "summary": "Weight assistant extension sales",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-weighing",
+  "download_filename": "odoo_addon_sale_stock_weighing-15.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-02-21T04:57:04.097025",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-stock-weighing/"
+}

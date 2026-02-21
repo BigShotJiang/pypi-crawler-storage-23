@@ -1,0 +1,11 @@
+{
+  "name": "run-mcp-servers-with-aws-lambda",
+  "version": "0.5.9",
+  "summary": "Run Model Context Protocol (MCP) servers with AWS Lambda",
+  "author": "Amazon Web Services",
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "run_mcp_servers_with_aws_lambda-0.5.9.tar.gz",
+  "download_time": "2026-02-21T04:56:31.787578",
+  "package_url": "https://pypi.org/project/run-mcp-servers-with-aws-lambda/"
+}

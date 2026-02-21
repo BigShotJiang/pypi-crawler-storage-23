@@ -1,0 +1,11 @@
+{
+  "name": "multi-user-gymnasium",
+  "version": "0.1.2",
+  "summary": "A platform for running interactive experiments in the browser with standard simulation environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multi_user_gymnasium-0.1.2.tar.gz",
+  "download_time": "2026-02-21T04:56:38.852331",
+  "package_url": "https://pypi.org/project/multi-user-gymnasium/"
+}

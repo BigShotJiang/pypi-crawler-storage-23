@@ -1,0 +1,11 @@
+{
+  "name": "modelbenchx",
+  "version": "1.0.5",
+  "summary": "A lightweight toolkit for benchmarking ML model inference performance.",
+  "author": "Praveen Amujuri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelbenchx-1.0.5.tar.gz",
+  "download_time": "2026-02-21T04:56:26.622480",
+  "package_url": "https://pypi.org/project/modelbenchx/"
+}

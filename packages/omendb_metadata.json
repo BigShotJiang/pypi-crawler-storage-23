@@ -1,0 +1,11 @@
+{
+  "name": "omendb",
+  "version": "0.0.29",
+  "summary": "Fast embedded vector database with HNSW + ACORN-1 filtered search",
+  "author": "OmenDB Team",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "omendb-0.0.29.tar.gz",
+  "download_time": "2026-02-21T04:56:35.040849",
+  "package_url": "https://pypi.org/project/omendb/"
+}

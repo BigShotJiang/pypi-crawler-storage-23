@@ -1,0 +1,11 @@
+{
+  "name": "rustyzipper",
+  "version": "1.1.1",
+  "summary": "A high-performance, secure file compression library with password protection",
+  "author": "RustyZip Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "rustyzipper-1.1.1.tar.gz",
+  "download_time": "2026-02-21T04:56:48.659483",
+  "package_url": "https://pypi.org/project/rustyzipper/"
+}
