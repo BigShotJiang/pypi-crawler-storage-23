@@ -1,0 +1,11 @@
+{
+  "name": "minhashlib",
+  "version": "0.1.0",
+  "summary": "A fast and minimal minhashing based similarity checking library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minhashlib-0.1.0.tar.gz",
+  "download_time": "2026-02-21T10:17:31.214037",
+  "package_url": "https://pypi.org/project/minhashlib/"
+}

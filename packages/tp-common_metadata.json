@@ -1,11 +1,11 @@
 {
   "name": "tp-common",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "summary": null,
   "author": "Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "tp_common-0.0.25.tar.gz",
-  "download_time": "2026-02-20T11:46:21.089744",
+  "download_filename": "tp_common-0.0.26.tar.gz",
+  "download_time": "2026-02-21T10:17:21.165966",
   "package_url": "https://pypi.org/project/tp-common/"
 }

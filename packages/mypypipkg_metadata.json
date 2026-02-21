@@ -1,11 +1,11 @@
 {
   "name": "mypypipkg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Short description of my package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypypipkg-0.1.0.tar.gz",
-  "download_time": "2026-02-20T21:44:06.735426",
+  "download_filename": "mypypipkg-0.1.1.tar.gz",
+  "download_time": "2026-02-21T10:17:40.575145",
   "package_url": "https://pypi.org/project/mypypipkg/"
 }
