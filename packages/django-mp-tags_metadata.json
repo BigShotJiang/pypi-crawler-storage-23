@@ -1,0 +1,11 @@
+{
+  "name": "django-mp-tags",
+  "version": "2.0.1",
+  "summary": "Django tags apps",
+  "author": "Paul Maigutyak",
+  "license": "MIT",
+  "home_page": "https://github.com/pmaigutyak/mp-tags",
+  "download_filename": "django_mp_tags-2.0.1.tar.gz",
+  "download_time": "2026-02-21T11:15:47.507458",
+  "package_url": "https://pypi.org/project/django-mp-tags/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "unpdf-markdown",
-  "version": "0.1.10",
+  "version": "0.2.1",
   "summary": "Python bindings for unpdf - High-performance PDF content extraction",
   "author": "iyulab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unpdf_markdown-0.1.10-py3-none-any.whl",
-  "download_time": "2026-02-19T11:53:35.474346",
+  "download_filename": "unpdf_markdown-0.2.1-py3-none-any.whl",
+  "download_time": "2026-02-21T11:16:03.650067",
   "package_url": "https://pypi.org/project/unpdf-markdown/"
 }

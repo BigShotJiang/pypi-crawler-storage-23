@@ -1,0 +1,11 @@
+{
+  "name": "prysmai",
+  "version": "0.2.1",
+  "summary": "Prysm AI — The observability layer for LLM applications. Full trace capture, real-time dashboard, alerting, cost tracking, and multi-provider support (OpenAI, Anthropic, Google Gemini, vLLM, Ollama). One line of code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prysmai-0.2.1.tar.gz",
+  "download_time": "2026-02-21T11:15:29.608357",
+  "package_url": "https://pypi.org/project/prysmai/"
+}

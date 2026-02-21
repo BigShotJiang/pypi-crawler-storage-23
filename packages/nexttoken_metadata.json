@@ -1,0 +1,11 @@
+{
+  "name": "nexttoken",
+  "version": "0.3.0",
+  "summary": "NextToken SDK - Simple client for the NextToken APIs and Gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexttoken-0.3.0.tar.gz",
+  "download_time": "2026-02-21T11:15:54.330320",
+  "package_url": "https://pypi.org/project/nexttoken/"
+}

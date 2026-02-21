@@ -1,0 +1,11 @@
+{
+  "name": "tkinterweb",
+  "version": "4.21.0",
+  "summary": "HTML/CSS widgets for Tkinter",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Andereoo/TkinterWeb",
+  "download_filename": "tkinterweb-4.21.0.tar.gz",
+  "download_time": "2026-02-21T11:15:33.497360",
+  "package_url": "https://pypi.org/project/tkinterweb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "philcalc",
-  "version": "0.1.7",
+  "version": "0.1.14",
   "summary": "Minimal symbolic CLI calculator powered by SymPy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "philcalc-0.1.7.tar.gz",
-  "download_time": "2026-02-20T05:08:31.540898",
+  "download_filename": "philcalc-0.1.14.tar.gz",
+  "download_time": "2026-02-21T11:15:45.843994",
   "package_url": "https://pypi.org/project/philcalc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-mp-manufacturers",
+  "version": "2.0.0",
+  "summary": "Django manufacturers app",
+  "author": "Paul Maigutyak",
+  "license": "MIT",
+  "home_page": "https://github.com/pmaigutyak/mp-manufacturers",
+  "download_filename": "django_mp_manufacturers-2.0.0.tar.gz",
+  "download_time": "2026-02-21T11:16:14.424213",
+  "package_url": "https://pypi.org/project/django-mp-manufacturers/"
+}
