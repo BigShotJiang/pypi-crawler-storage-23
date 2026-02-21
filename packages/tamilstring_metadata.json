@@ -1,11 +1,11 @@
 {
   "name": "tamilstring",
-  "version": "2.1.2626",
+  "version": "2.2.0",
   "summary": "tamilstring helps to handle tamil unicode characters lot more easier",
   "author": "boopalan",
   "license": "MIT",
   "home_page": "https://gitlab.com/boopalan-dev/tamilstring",
-  "download_filename": "tamilstring-2.1.2626.tar.gz",
-  "download_time": "2026-02-21T05:36:32.557651",
+  "download_filename": "tamilstring-2.2.0.tar.gz",
+  "download_time": "2026-02-21T06:08:09.966753",
   "package_url": "https://pypi.org/project/tamilstring/"
 }

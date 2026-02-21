@@ -1,0 +1,11 @@
+{
+  "name": "pdf-oxide",
+  "version": "0.3.8",
+  "summary": "Fast Python PDF library for text extraction, markdown conversion, and document processing. Rust-powered, 2.1ms mean latency.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/yfedoseev/pdf_oxide",
+  "download_filename": "pdf_oxide-0.3.8-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-21T06:08:10.512624",
+  "package_url": "https://pypi.org/project/pdf-oxide/"
+}

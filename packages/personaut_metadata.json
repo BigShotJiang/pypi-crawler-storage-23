@@ -1,11 +1,11 @@
 {
   "name": "personaut",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A Python SDK for creating and simulating AI personas with emotional states, personality traits, and memory",
   "author": "Personaut Team",
   "license": null,
   "home_page": null,
-  "download_filename": "personaut-0.3.2.tar.gz",
-  "download_time": "2026-02-21T04:56:58.006948",
+  "download_filename": "personaut-0.3.3.tar.gz",
+  "download_time": "2026-02-21T06:07:43.315987",
   "package_url": "https://pypi.org/project/personaut/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bdshare",
+  "version": "1.2.0",
+  "summary": "A utility for crawling historical and Real-time Quotes of DSE(Dhaka Stock Exchange)",
+  "author": "Raisul Islam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bdshare-1.2.0.tar.gz",
+  "download_time": "2026-02-21T06:08:19.351151",
+  "package_url": "https://pypi.org/project/bdshare/"
+}

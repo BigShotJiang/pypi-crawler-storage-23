@@ -1,0 +1,11 @@
+{
+  "name": "vsrvrt",
+  "version": "1.1.0",
+  "summary": "Vapoursynth plugin for RVRT (Recurrent Video Restoration Transformer)",
+  "author": "Lyra Vhess",
+  "license": "CC-BY-NC-4.0",
+  "home_page": "https://github.com/Lyra-Vhess/vs-rvrt",
+  "download_filename": "vsrvrt-1.1.0.tar.gz",
+  "download_time": "2026-02-21T06:08:06.787234",
+  "package_url": "https://pypi.org/project/vsrvrt/"
+}

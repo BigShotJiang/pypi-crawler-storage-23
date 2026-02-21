@@ -1,0 +1,11 @@
+{
+  "name": "kaggle-notebook-deploy",
+  "version": "0.1.2",
+  "summary": "A CLI tool to deploy Kaggle Notebooks with git push via GitHub Actions",
+  "author": "yasunorim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaggle_notebook_deploy-0.1.2.tar.gz",
+  "download_time": "2026-02-21T06:07:56.895388",
+  "package_url": "https://pypi.org/project/kaggle-notebook-deploy/"
+}

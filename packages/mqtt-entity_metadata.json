@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-entity",
+  "version": "1.1.1",
+  "summary": "MQTT client supporting Home Assistant MQTT entity auto-discovery",
+  "author": "Johann Kellerman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqtt_entity-1.1.1.tar.gz",
+  "download_time": "2026-02-21T06:08:25.110937",
+  "package_url": "https://pypi.org/project/mqtt-entity/"
+}

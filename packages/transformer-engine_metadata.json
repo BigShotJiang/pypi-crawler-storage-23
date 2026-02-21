@@ -1,0 +1,11 @@
+{
+  "name": "transformer-engine",
+  "version": "2.12.0",
+  "summary": "Transformer acceleration library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transformer_engine-2.12.0-py3-none-any.whl",
+  "download_time": "2026-02-21T06:07:47.496668",
+  "package_url": "https://pypi.org/project/transformer-engine/"
+}

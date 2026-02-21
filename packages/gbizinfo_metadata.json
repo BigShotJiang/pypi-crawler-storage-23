@@ -1,11 +1,11 @@
 {
   "name": "gbizinfo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "gBizINFO REST API v2 client library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gbizinfo-0.1.0.tar.gz",
-  "download_time": "2026-02-21T05:36:21.377261",
+  "download_filename": "gbizinfo-0.1.1.tar.gz",
+  "download_time": "2026-02-21T06:08:06.250994",
   "package_url": "https://pypi.org/project/gbizinfo/"
 }

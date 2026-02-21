@@ -1,0 +1,11 @@
+{
+  "name": "nanobanana-cli",
+  "version": "20260221.55128",
+  "summary": "CLI tool for generating and editing images using Google's Gemini API or OpenRouter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanobanana_cli-20260221.55128.tar.gz",
+  "download_time": "2026-02-21T06:08:12.065257",
+  "package_url": "https://pypi.org/project/nanobanana-cli/"
+}

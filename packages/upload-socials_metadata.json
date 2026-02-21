@@ -1,0 +1,11 @@
+{
+  "name": "upload-socials",
+  "version": "1.2.0",
+  "summary": "A Python library to automate video uploads to YouTube.",
+  "author": "AMAMazing",
+  "license": null,
+  "home_page": "https://github.com/AMAMazing/upload-socials",
+  "download_filename": "upload_socials-1.2.0.tar.gz",
+  "download_time": "2026-02-21T06:07:51.716644",
+  "package_url": "https://pypi.org/project/upload-socials/"
+}
