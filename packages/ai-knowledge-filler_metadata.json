@@ -1,0 +1,11 @@
+{
+  "name": "ai-knowledge-filler",
+  "version": "0.2.0",
+  "summary": "Knowledge engineering system — transforms LLMs into deterministic Obsidian file generators",
+  "author": "Petro Nzrnk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_knowledge_filler-0.2.0.tar.gz",
+  "download_time": "2026-02-21T16:19:25.287047",
+  "package_url": "https://pypi.org/project/ai-knowledge-filler/"
+}

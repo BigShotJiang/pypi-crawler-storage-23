@@ -1,0 +1,11 @@
+{
+  "name": "disortpp",
+  "version": "1.1",
+  "summary": "DisORT++ — Discrete Ordinates Radiative Transfer solver",
+  "author": "Daniel Kitzmann",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "disortpp-1.1.tar.gz",
+  "download_time": "2026-02-21T16:19:03.426126",
+  "package_url": "https://pypi.org/project/disortpp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spacr-nightly",
+  "version": "1.2.2",
+  "summary": "Spatial phenotype analysis of crisp screens (SpaCr)",
+  "author": "Einar Birnir Olafsson",
+  "license": null,
+  "home_page": "https://github.com/EinarOlafsson/spacr",
+  "download_filename": "spacr_nightly-1.2.2-py3-none-any.whl",
+  "download_time": "2026-02-21T16:19:22.687681",
+  "package_url": "https://pypi.org/project/spacr-nightly/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyhaveibeenpwned",
+  "version": "0.3.3",
+  "summary": "Library to query HaveIBeenPwned and breach data providers",
+  "author": "Shane Scott",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/Hackman238/pyHaveIBeenPwned",
+  "download_filename": "pyhaveibeenpwned-0.3.3.tar.gz",
+  "download_time": "2026-02-21T16:19:03.945631",
+  "package_url": "https://pypi.org/project/pyhaveibeenpwned/"
+}

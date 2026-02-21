@@ -1,0 +1,11 @@
+{
+  "name": "hyperstack-langgraph",
+  "version": "1.5.0",
+  "summary": "Memory Hub for LangGraph agents. Typed graph memory with episodic/semantic/working APIs, decision replay, agent trust scoring, and git-style branching. Zero LLM cost.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperstack_langgraph-1.5.0.tar.gz",
+  "download_time": "2026-02-21T16:19:19.013781",
+  "package_url": "https://pypi.org/project/hyperstack-langgraph/"
+}

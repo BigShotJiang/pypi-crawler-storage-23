@@ -1,11 +1,11 @@
 {
   "name": "pulse5ctl",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "CLI & MCP server for Pulse 5 speaker LED control over BLE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulse5ctl-1.9.0.tar.gz",
-  "download_time": "2026-02-21T15:57:31.100082",
+  "download_filename": "pulse5ctl-1.9.1.tar.gz",
+  "download_time": "2026-02-21T16:19:14.863351",
   "package_url": "https://pypi.org/project/pulse5ctl/"
 }

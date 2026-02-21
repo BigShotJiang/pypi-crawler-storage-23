@@ -1,11 +1,11 @@
 {
   "name": "cocosearch",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Local-first code search via MCP/CLI",
   "author": "VioletCranberry",
   "license": null,
   "home_page": null,
-  "download_filename": "cocosearch-0.1.20.tar.gz",
-  "download_time": "2026-02-20T22:19:31.246456",
+  "download_filename": "cocosearch-0.1.21.tar.gz",
+  "download_time": "2026-02-21T16:18:58.708682",
   "package_url": "https://pypi.org/project/cocosearch/"
 }
