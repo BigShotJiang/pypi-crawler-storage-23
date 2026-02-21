@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-db-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for read-only WordPress MySQL/MariaDB database exploration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wordpress_db_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-21T18:59:17.169756",
+  "package_url": "https://pypi.org/project/wordpress-db-mcp/"
+}

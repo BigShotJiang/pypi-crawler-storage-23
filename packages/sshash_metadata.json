@@ -1,11 +1,11 @@
 {
   "name": "sshash",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python bindings for the sshash compressed k-mer dictionary",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sshash-0.1.0.tar.gz",
-  "download_time": "2026-02-21T05:36:57.578860",
+  "download_filename": "sshash-0.2.0.tar.gz",
+  "download_time": "2026-02-21T18:58:57.669359",
   "package_url": "https://pypi.org/project/sshash/"
 }

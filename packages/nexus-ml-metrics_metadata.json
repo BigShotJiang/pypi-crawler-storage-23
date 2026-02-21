@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ml-metrics",
+  "version": "0.0.1",
+  "summary": "NEXUS: A Novel Energy eXamination Using Switching-activity-based Tokens — Physics-grounded energy efficiency framework for machine learning systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_ml_metrics-0.0.1.tar.gz",
+  "download_time": "2026-02-21T18:59:06.148449",
+  "package_url": "https://pypi.org/project/nexus-ml-metrics/"
+}

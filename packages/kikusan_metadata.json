@@ -1,11 +1,11 @@
 {
   "name": "kikusan",
-  "version": "0.22.3",
+  "version": "0.23.0",
   "summary": "Search and download music from YouTube Music with lyrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kikusan-0.22.3.tar.gz",
-  "download_time": "2026-02-18T20:56:47.713437",
+  "download_filename": "kikusan-0.23.0.tar.gz",
+  "download_time": "2026-02-21T18:59:16.647897",
   "package_url": "https://pypi.org/project/kikusan/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rulechef",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Learn rule-based models from examples and LLM interactions",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rulechef-0.1.1.tar.gz",
-  "download_time": "2026-02-19T23:25:19.503374",
+  "download_filename": "rulechef-0.1.2.tar.gz",
+  "download_time": "2026-02-21T18:59:31.306462",
   "package_url": "https://pypi.org/project/rulechef/"
 }

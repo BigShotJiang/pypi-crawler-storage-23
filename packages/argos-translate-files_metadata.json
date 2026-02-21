@@ -1,11 +1,11 @@
 {
   "name": "argos-translate-files",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Translate files with Argos Translate",
   "author": "S. Thuret",
   "license": null,
   "home_page": "https://github.com/LibreTranslate/argos-translate-files",
-  "download_filename": "argos_translate_files-1.4.2-py3-none-any.whl",
-  "download_time": "2026-02-21T18:20:47.512143",
+  "download_filename": "argos_translate_files-1.4.3-py3-none-any.whl",
+  "download_time": "2026-02-21T18:59:33.411233",
   "package_url": "https://pypi.org/project/argos-translate-files/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sandlerchemeq",
+  "version": "0.3.0",
+  "summary": "A package implementing computational tools for chemical equilibrium calculations based on Chemical, Biochemical, and Engineering Thermodynamics (5th edition) by Stan Sandler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sandlerchemeq-0.3.0.tar.gz",
+  "download_time": "2026-02-21T18:58:51.241052",
+  "package_url": "https://pypi.org/project/sandlerchemeq/"
+}

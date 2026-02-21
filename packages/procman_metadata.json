@@ -1,0 +1,11 @@
+{
+  "name": "procman",
+  "version": "2.3.2",
+  "summary": "Tabbed GUI to start/stop/monitor programs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "procman-2.3.2.tar.gz",
+  "download_time": "2026-02-21T18:59:27.622815",
+  "package_url": "https://pypi.org/project/procman/"
+}

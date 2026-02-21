@@ -1,11 +1,11 @@
 {
   "name": "MCPower",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Monte Carlo Power Analysis for Statistical Models",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mcpower-0.5.2.tar.gz",
-  "download_time": "2026-02-20T16:07:43.448213",
+  "download_filename": "mcpower-0.5.3.tar.gz",
+  "download_time": "2026-02-21T18:59:04.585739",
   "package_url": "https://pypi.org/project/MCPower/"
 }
