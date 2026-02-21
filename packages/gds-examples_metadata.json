@@ -1,11 +1,11 @@
 {
   "name": "gds-examples",
-  "version": "0.1.1",
-  "summary": "Tutorial examples for gds-framework — five complete domain models demonstrating every framework feature",
+  "version": "0.1.2",
+  "summary": "Tutorial examples for gds-framework — six complete domain models demonstrating every framework feature",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gds_examples-0.1.1.tar.gz",
-  "download_time": "2026-02-21T07:01:37.890994",
+  "download_filename": "gds_examples-0.1.2.tar.gz",
+  "download_time": "2026-02-21T08:23:33.564483",
   "package_url": "https://pypi.org/project/gds-examples/"
 }

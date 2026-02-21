@@ -1,0 +1,11 @@
+{
+  "name": "gds-core",
+  "version": "0.1.0",
+  "summary": "GDS ecosystem monorepo — typed compositional specifications for complex systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gds_core-0.1.0.tar.gz",
+  "download_time": "2026-02-21T08:23:30.495782",
+  "package_url": "https://pypi.org/project/gds-core/"
+}

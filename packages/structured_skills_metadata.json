@@ -1,11 +1,11 @@
 {
   "name": "structured_skills",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Structured Skills for Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structured_skills-0.1.1.tar.gz",
-  "download_time": "2026-02-21T03:32:26.376879",
+  "download_filename": "structured_skills-0.1.2.tar.gz",
+  "download_time": "2026-02-21T08:23:25.640681",
   "package_url": "https://pypi.org/project/structured_skills/"
 }

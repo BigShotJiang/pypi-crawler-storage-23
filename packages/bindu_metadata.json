@@ -1,0 +1,11 @@
+{
+  "name": "bindu",
+  "version": "2026.8.7",
+  "summary": "A protocol framework for agent-to-agent communication",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bindu-2026.8.7.tar.gz",
+  "download_time": "2026-02-21T08:23:47.875033",
+  "package_url": "https://pypi.org/project/bindu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentfs-sdk",
+  "version": "0.6.2",
+  "summary": "AgentFS Python SDK - A filesystem and key-value store for AI agents",
+  "author": "Turso",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentfs_sdk-0.6.2.tar.gz",
+  "download_time": "2026-02-21T08:23:31.523072",
+  "package_url": "https://pypi.org/project/agentfs-sdk/"
+}

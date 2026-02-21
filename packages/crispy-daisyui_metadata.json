@@ -1,0 +1,11 @@
+{
+  "name": "crispy-daisyui",
+  "version": "0.12.2",
+  "summary": "A DaisyUI package for Django Crispy Forms",
+  "author": "Fabian Geiger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crispy_daisyui-0.12.2.tar.gz",
+  "download_time": "2026-02-21T08:23:26.151107",
+  "package_url": "https://pypi.org/project/crispy-daisyui/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "probekit",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "summary": "A versatile kit for training and using linear probes on neural network activations.",
   "author": "Probekit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "probekit-0.1.1.tar.gz",
-  "download_time": "2026-02-18T20:03:03.458399",
+  "download_filename": "probekit-0.2.2.tar.gz",
+  "download_time": "2026-02-21T08:23:55.088987",
   "package_url": "https://pypi.org/project/probekit/"
 }

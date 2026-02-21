@@ -1,0 +1,11 @@
+{
+  "name": "grimoireplot",
+  "version": "0.0.1",
+  "summary": "GrimoirePlot is a live dashboard of plotly-compatible plots of remote data",
+  "author": "William Droz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grimoireplot-0.0.1.tar.gz",
+  "download_time": "2026-02-21T08:23:44.712743",
+  "package_url": "https://pypi.org/project/grimoireplot/"
+}

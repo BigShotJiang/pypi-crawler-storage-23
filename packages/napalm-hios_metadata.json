@@ -1,11 +1,11 @@
 {
   "name": "napalm-hios",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "NAPALM driver for HiOS network switches by Belden",
   "author": "Adam Rickards",
   "license": null,
   "home_page": "https://github.com/AdamRickards/napalm-hios",
-  "download_filename": "napalm_hios-1.1.1.tar.gz",
-  "download_time": "2026-02-21T05:37:03.305932",
+  "download_filename": "napalm_hios-1.2.0.tar.gz",
+  "download_time": "2026-02-21T08:23:42.539171",
   "package_url": "https://pypi.org/project/napalm-hios/"
 }

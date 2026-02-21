@@ -1,11 +1,11 @@
 {
   "name": "pichu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "⚡ pichu — code, compile, conquer",
   "author": "pichu Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "pichu-0.1.2.tar.gz",
-  "download_time": "2026-02-21T04:56:28.962557",
+  "download_filename": "pichu-0.1.3.tar.gz",
+  "download_time": "2026-02-21T08:23:28.322765",
   "package_url": "https://pypi.org/project/pichu/"
 }
