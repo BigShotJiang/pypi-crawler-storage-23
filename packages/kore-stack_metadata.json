@@ -1,11 +1,11 @@
 {
   "name": "kore-stack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Complete cognitive middleware stack for LLMs. Memory + routing + cache + observability in one install.",
   "author": "iafiscal",
   "license": null,
   "home_page": null,
-  "download_filename": "kore_stack-0.1.0.tar.gz",
-  "download_time": "2026-02-21T11:36:33.952872",
+  "download_filename": "kore_stack-0.1.1.tar.gz",
+  "download_time": "2026-02-21T15:57:23.441162",
   "package_url": "https://pypi.org/project/kore-stack/"
 }

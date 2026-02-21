@@ -1,11 +1,11 @@
 {
   "name": "jadegate",
-  "version": "1.1.0",
-  "summary": "Deterministic Security for AI Agent Skills",
+  "version": "1.1.1",
+  "summary": "Deterministic Security for AI Agent Skills — 104 verified skills with Ed25519 signature chain",
   "author": "JadeGate",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jadegate-1.1.0.tar.gz",
-  "download_time": "2026-02-21T15:41:59.956491",
+  "download_filename": "jadegate-1.1.1.tar.gz",
+  "download_time": "2026-02-21T15:57:23.983193",
   "package_url": "https://pypi.org/project/jadegate/"
 }

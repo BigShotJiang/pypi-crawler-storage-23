@@ -1,11 +1,11 @@
 {
   "name": "lattice-memory",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Local-first, bicameral memory system for AI agents — remember, evolve, search",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "lattice_memory-0.1.1.tar.gz",
-  "download_time": "2026-02-21T11:54:17.185257",
+  "download_filename": "lattice_memory-0.1.2.tar.gz",
+  "download_time": "2026-02-21T15:57:10.579380",
   "package_url": "https://pypi.org/project/lattice-memory/"
 }
