@@ -1,0 +1,11 @@
+{
+  "name": "skfeaturellm",
+  "version": "0.0.8",
+  "summary": "LLM-powered feature engineering with scikit-learn API compatibility",
+  "author": "Roberto Corti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skfeaturellm-0.0.8.tar.gz",
+  "download_time": "2026-02-21T19:44:59.626842",
+  "package_url": "https://pypi.org/project/skfeaturellm/"
+}

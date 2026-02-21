@@ -1,0 +1,11 @@
+{
+  "name": "grdl-sartoolbox",
+  "version": "0.1.0",
+  "summary": "Python port of NGA MATLAB SAR Toolbox - SAR processing algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grdl_sartoolbox-0.1.0.tar.gz",
+  "download_time": "2026-02-21T19:44:49.700829",
+  "package_url": "https://pypi.org/project/grdl-sartoolbox/"
+}

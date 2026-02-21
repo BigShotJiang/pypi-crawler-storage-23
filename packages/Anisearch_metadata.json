@@ -1,11 +1,11 @@
 {
   "name": "Anisearch",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "Declarative GraphQL query builder for the AniList API.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "anisearch-2.0.0.tar.gz",
-  "download_time": "2026-02-21T06:08:18.313086",
+  "download_filename": "anisearch-3.0.0.tar.gz",
+  "download_time": "2026-02-21T19:45:05.847834",
   "package_url": "https://pypi.org/project/Anisearch/"
 }

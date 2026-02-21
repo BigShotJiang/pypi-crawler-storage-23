@@ -1,11 +1,11 @@
 {
   "name": "gando",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A framework based on Django that has tried to gather together the tools needed in the process of creating a large project.",
   "author": "Hydra",
   "license": null,
   "home_page": "https://github.com/navidsoleymani/gando.git",
-  "download_filename": "gando-1.0.5.tar.gz",
-  "download_time": "2026-02-21T12:25:46.764995",
+  "download_filename": "gando-1.0.6.tar.gz",
+  "download_time": "2026-02-21T19:44:56.505307",
   "package_url": "https://pypi.org/project/gando/"
 }

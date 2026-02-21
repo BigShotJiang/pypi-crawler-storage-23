@@ -1,0 +1,11 @@
+{
+  "name": "steady-queue",
+  "version": "0.1.7",
+  "summary": "An asynchronous task library for Django that supports delayed tasks, concurrency controls, recurring tasks, pausing queues, numeric priorities per task, priorities by queue order and bulk enqueueing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "steady_queue-0.1.7.tar.gz",
+  "download_time": "2026-02-21T19:45:05.333840",
+  "package_url": "https://pypi.org/project/steady-queue/"
+}
