@@ -1,0 +1,11 @@
+{
+  "name": "tokensense",
+  "version": "0.1.0",
+  "summary": "AI orchestration engine — semantic retrieval, context compression, and intelligent model routing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokensense-0.1.0.tar.gz",
+  "download_time": "2026-02-21T23:23:59.259212",
+  "package_url": "https://pypi.org/project/tokensense/"
+}

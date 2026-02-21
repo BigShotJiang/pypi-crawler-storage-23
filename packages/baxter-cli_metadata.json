@@ -1,11 +1,11 @@
 {
   "name": "baxter-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Baxter CLI - a terminal coding agent",
   "author": "Baxter",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "baxter_cli-0.1.1.tar.gz",
-  "download_time": "2026-02-21T22:59:54.323480",
+  "download_filename": "baxter_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-21T23:24:13.739158",
   "package_url": "https://pypi.org/project/baxter-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "z21aio",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Async Python library for Z21 DCC command station communication",
   "author": "botmonster",
   "license": null,
   "home_page": null,
-  "download_filename": "z21aio-1.0.3.tar.gz",
-  "download_time": "2026-02-21T01:06:51.899662",
+  "download_filename": "z21aio-1.0.5.tar.gz",
+  "download_time": "2026-02-21T23:24:12.696541",
   "package_url": "https://pypi.org/project/z21aio/"
 }

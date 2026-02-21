@@ -1,0 +1,11 @@
+{
+  "name": "minchin.pelican.plugins.nojekyll",
+  "version": "1.2.1",
+  "summary": "Pelican plugin that adds a `.nojekyll` file to the output root. Useful for publishing to Github Pages. Written in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minchin_pelican_plugins_nojekyll-1.2.1.tar.gz",
+  "download_time": "2026-02-21T23:24:03.627212",
+  "package_url": "https://pypi.org/project/minchin.pelican.plugins.nojekyll/"
+}

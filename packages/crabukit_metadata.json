@@ -1,11 +1,11 @@
 {
   "name": "crabukit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Security scanner for OpenClaw skills",
   "author": "Moltatron",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crabukit-0.1.1.tar.gz",
-  "download_time": "2026-02-21T07:57:44.039648",
+  "download_filename": "crabukit-0.1.2.tar.gz",
+  "download_time": "2026-02-21T23:24:14.783624",
   "package_url": "https://pypi.org/project/crabukit/"
 }
