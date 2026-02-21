@@ -1,11 +1,11 @@
 {
   "name": "nowfycore",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Nowfy core runtime package (pure layer)",
   "author": "AGeekApple",
   "license": null,
   "home_page": null,
-  "download_filename": "nowfycore-1.0.11.tar.gz",
-  "download_time": "2026-02-21T11:54:11.191235",
+  "download_filename": "nowfycore-1.0.12.tar.gz",
+  "download_time": "2026-02-21T21:15:46.260969",
   "package_url": "https://pypi.org/project/nowfycore/"
 }

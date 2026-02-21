@@ -1,11 +1,11 @@
 {
   "name": "kernel",
-  "version": "0.36.0",
+  "version": "0.36.1",
   "summary": "The official Python library for the kernel API",
   "author": "Kernel",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kernel-0.36.0.tar.gz",
-  "download_time": "2026-02-21T18:20:49.067143",
+  "download_filename": "kernel-0.36.1.tar.gz",
+  "download_time": "2026-02-21T21:15:38.768653",
   "package_url": "https://pypi.org/project/kernel/"
 }

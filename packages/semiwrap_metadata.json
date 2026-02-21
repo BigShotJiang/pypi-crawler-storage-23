@@ -1,0 +1,11 @@
+{
+  "name": "semiwrap",
+  "version": "0.3.0",
+  "summary": "Semi-automated tool to wrap C++ code for use by python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semiwrap-0.3.0.tar.gz",
+  "download_time": "2026-02-21T21:15:41.850268",
+  "package_url": "https://pypi.org/project/semiwrap/"
+}

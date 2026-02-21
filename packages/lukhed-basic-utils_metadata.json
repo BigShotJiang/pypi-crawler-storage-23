@@ -1,0 +1,11 @@
+{
+  "name": "lukhed-basic-utils",
+  "version": "1.6.11",
+  "summary": "A collection of basic utility functions",
+  "author": "lukhed",
+  "license": null,
+  "home_page": "https://github.com/lukhed/lukhed_basic_utils",
+  "download_filename": "lukhed_basic_utils-1.6.11.tar.gz",
+  "download_time": "2026-02-21T21:15:21.562033",
+  "package_url": "https://pypi.org/project/lukhed-basic-utils/"
+}

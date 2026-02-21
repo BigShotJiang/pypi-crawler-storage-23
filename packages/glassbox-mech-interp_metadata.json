@@ -1,0 +1,11 @@
+{
+  "name": "glassbox-mech-interp",
+  "version": "2.0.0",
+  "summary": "Glassbox 2.0 — Open-source mechanistic interpretability for transformer models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassbox_mech_interp-2.0.0.tar.gz",
+  "download_time": "2026-02-21T21:15:35.480816",
+  "package_url": "https://pypi.org/project/glassbox-mech-interp/"
+}

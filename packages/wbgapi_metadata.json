@@ -1,0 +1,11 @@
+{
+  "name": "wbgapi",
+  "version": "1.0.13",
+  "summary": "wbgapi provides a comprehensive interface to the World Bank's data and metadata APIs",
+  "author": "Tim Herzog",
+  "license": "MIT",
+  "home_page": "https://github.com/tgherzog/wbgapi",
+  "download_filename": "wbgapi-1.0.13.tar.gz",
+  "download_time": "2026-02-21T21:15:36.507011",
+  "package_url": "https://pypi.org/project/wbgapi/"
+}

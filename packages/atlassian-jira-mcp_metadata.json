@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-jira-mcp",
+  "version": "2.0.0",
+  "summary": "MCP server for Jira with dual auth (Cloud + Data Center), full CRUD, JQL search, workflows, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atlassian_jira_mcp-2.0.0.tar.gz",
+  "download_time": "2026-02-21T21:15:11.380558",
+  "package_url": "https://pypi.org/project/atlassian-jira-mcp/"
+}

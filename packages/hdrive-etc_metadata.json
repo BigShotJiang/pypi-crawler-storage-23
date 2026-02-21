@@ -1,0 +1,11 @@
+{
+  "name": "hdrive-etc",
+  "version": "0.2.0",
+  "summary": "Python SDK for Henschel Robotics HDrive servo motors over EtherCAT",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdrive_etc-0.2.0.tar.gz",
+  "download_time": "2026-02-21T21:15:08.744547",
+  "package_url": "https://pypi.org/project/hdrive-etc/"
+}

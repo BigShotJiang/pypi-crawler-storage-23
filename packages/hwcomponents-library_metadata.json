@@ -1,11 +1,11 @@
 {
   "name": "hwcomponents-library",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "summary": "A library of hardware components for energy estimation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hwcomponents_library-1.0.46.tar.gz",
-  "download_time": "2026-02-19T20:56:45.167035",
+  "download_filename": "hwcomponents_library-1.0.47.tar.gz",
+  "download_time": "2026-02-21T21:15:39.793015",
   "package_url": "https://pypi.org/project/hwcomponents-library/"
 }

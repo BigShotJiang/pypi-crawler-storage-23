@@ -1,0 +1,11 @@
+{
+  "name": "naijalingo-tts-2",
+  "version": "0.1.1",
+  "summary": "9jaLingo TTS-2: Text-to-Speech for Nigerian Languages — English (Nigerian Accent), Hausa, Igbo, Yoruba, Pidgin with Voice Cloning",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "naijalingo_tts_2-0.1.1.tar.gz",
+  "download_time": "2026-02-21T21:15:34.910490",
+  "package_url": "https://pypi.org/project/naijalingo-tts-2/"
+}

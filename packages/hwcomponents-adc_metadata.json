@@ -1,0 +1,11 @@
+{
+  "name": "hwcomponents-adc",
+  "version": "1.0.19",
+  "summary": "A package for estimating the energy and area of Analog-Digital Converters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hwcomponents_adc-1.0.19.tar.gz",
+  "download_time": "2026-02-21T21:15:40.823558",
+  "package_url": "https://pypi.org/project/hwcomponents-adc/"
+}

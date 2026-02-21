@@ -1,0 +1,11 @@
+{
+  "name": "django-watchman",
+  "version": "1.4.0",
+  "summary": "django-watchman exposes a status endpoint for your backing services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_watchman-1.4.0.tar.gz",
+  "download_time": "2026-02-21T21:15:09.845696",
+  "package_url": "https://pypi.org/project/django-watchman/"
+}

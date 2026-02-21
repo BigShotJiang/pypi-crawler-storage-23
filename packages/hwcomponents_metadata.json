@@ -1,11 +1,11 @@
 {
   "name": "hwcomponents",
-  "version": "1.0.95",
+  "version": "1.0.96",
   "summary": "Hardware Component Area, Energy, Latency, and Leak Power Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hwcomponents-1.0.95.tar.gz",
-  "download_time": "2026-02-19T20:56:44.654862",
+  "download_filename": "hwcomponents-1.0.96.tar.gz",
+  "download_time": "2026-02-21T21:15:39.281412",
   "package_url": "https://pypi.org/project/hwcomponents/"
 }
