@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-waveform",
+  "version": "0.0.1a0",
+  "summary": "balderhub-waveform: BalderHub Project for working with waveforms",
+  "author": "Max Stahlschmidt",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/waveform",
+  "download_filename": "balderhub_waveform-0.0.1a0.tar.gz",
+  "download_time": "2026-02-21T14:50:59.881304",
+  "package_url": "https://pypi.org/project/balderhub-waveform/"
+}

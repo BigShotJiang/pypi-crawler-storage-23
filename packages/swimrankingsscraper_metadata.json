@@ -1,11 +1,11 @@
 {
   "name": "swimrankingsscraper",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A scraper for swimrankings.net",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swimrankingsscraper-0.1.5.tar.gz",
-  "download_time": "2026-02-21T13:55:02.448342",
+  "download_filename": "swimrankingsscraper-0.1.6.tar.gz",
+  "download_time": "2026-02-21T14:51:15.350689",
   "package_url": "https://pypi.org/project/swimrankingsscraper/"
 }

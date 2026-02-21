@@ -1,0 +1,11 @@
+{
+  "name": "ucode-agent-sdk",
+  "version": "0.1.1",
+  "summary": "UCode agent execution SDK – LangGraph, tools, MCP, checkpoints",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ucode_agent_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-21T14:51:27.916059",
+  "package_url": "https://pypi.org/project/ucode-agent-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-trends-mcp",
+  "version": "1.0.2",
+  "summary": "MCP Server for Google Trends keyword analysis via pytrends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_trends_mcp-1.0.2.tar.gz",
+  "download_time": "2026-02-21T14:51:19.511129",
+  "package_url": "https://pypi.org/project/google-trends-mcp/"
+}

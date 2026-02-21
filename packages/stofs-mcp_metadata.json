@@ -1,0 +1,11 @@
+{
+  "name": "stofs-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for NOAA STOFS storm surge forecast access and validation against CO-OPS observations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stofs_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-21T14:51:24.267985",
+  "package_url": "https://pypi.org/project/stofs-mcp/"
+}

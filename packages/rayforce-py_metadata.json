@@ -1,11 +1,11 @@
 {
   "name": "rayforce-py",
-  "version": "0.5.11",
+  "version": "0.6.0",
   "summary": "Python bindings for RayforceDB",
   "author": "Karim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rayforce_py-0.5.11-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-19T15:30:20.545998",
+  "download_filename": "rayforce_py-0.6.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-21T14:50:52.046397",
   "package_url": "https://pypi.org/project/rayforce-py/"
 }

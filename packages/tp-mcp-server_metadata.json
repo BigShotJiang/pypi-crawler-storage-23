@@ -1,0 +1,11 @@
+{
+  "name": "tp-mcp-server",
+  "version": "0.2.2",
+  "summary": "A Model Context Protocol server for TrainingPeaks with analytics focus",
+  "author": "Viet Anh Chu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tp_mcp_server-0.2.2.tar.gz",
+  "download_time": "2026-02-21T14:50:58.336097",
+  "package_url": "https://pypi.org/project/tp-mcp-server/"
+}

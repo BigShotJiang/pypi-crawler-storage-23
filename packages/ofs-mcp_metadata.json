@@ -1,0 +1,11 @@
+{
+  "name": "ofs-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for NOAA Operational Forecast System (OFS) regional ocean model access",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ofs_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-21T14:51:23.758771",
+  "package_url": "https://pypi.org/project/ofs-mcp/"
+}

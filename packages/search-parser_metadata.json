@@ -1,0 +1,11 @@
+{
+  "name": "search-parser",
+  "version": "0.3.0",
+  "summary": "Parse Google, Bing, and DuckDuckGo HTML search results into JSON, Markdown, or dict — with auto-detection",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "search_parser-0.3.0.tar.gz",
+  "download_time": "2026-02-21T14:50:54.761894",
+  "package_url": "https://pypi.org/project/search-parser/"
+}
