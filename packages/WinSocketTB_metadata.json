@@ -1,0 +1,11 @@
+{
+  "name": "WinSocketTB",
+  "version": "1.4.3",
+  "summary": "A module in Python 3 consisting of a toolbox to handle sockets under Windows for various purposes",
+  "author": "PCigales",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/PCigales/WinSocketTB",
+  "download_filename": "winsockettb-1.4.3.tar.gz",
+  "download_time": "2026-02-21T16:53:48.918326",
+  "package_url": "https://pypi.org/project/WinSocketTB/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "arborize",
-  "version": "7.2.2",
+  "version": "7.2.3",
   "summary": "Write descriptions for NEURON cell models in an Arbor-like manner for both the Arbor and",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arborize-7.2.2.tar.gz",
-  "download_time": "2026-02-21T13:16:01.021209",
+  "download_filename": "arborize-7.2.3.tar.gz",
+  "download_time": "2026-02-21T16:53:14.866251",
   "package_url": "https://pypi.org/project/arborize/"
 }

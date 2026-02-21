@@ -1,0 +1,11 @@
+{
+  "name": "gds-stockflow",
+  "version": "0.1.0",
+  "summary": "Declarative stock-flow DSL over GDS semantics — system dynamics with formal guarantees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gds_stockflow-0.1.0.tar.gz",
+  "download_time": "2026-02-21T16:53:32.211238",
+  "package_url": "https://pypi.org/project/gds-stockflow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyqck",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "PyQuick is the developer toolchain for Python APIs",
   "author": "PyQuick Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyqck-0.1.2.tar.gz",
-  "download_time": "2026-02-20T13:24:27.318646",
+  "download_filename": "pyqck-0.1.3.tar.gz",
+  "download_time": "2026-02-21T16:53:05.429686",
   "package_url": "https://pypi.org/project/pyqck/"
 }

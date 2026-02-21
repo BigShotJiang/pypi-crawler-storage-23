@@ -1,0 +1,11 @@
+{
+  "name": "proxyflare",
+  "version": "0.1.0",
+  "summary": "Cloudflare Workers Proxy Management CLI",
+  "author": "fer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxyflare-0.1.0.tar.gz",
+  "download_time": "2026-02-21T16:53:28.060892",
+  "package_url": "https://pypi.org/project/proxyflare/"
+}

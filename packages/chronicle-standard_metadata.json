@@ -1,0 +1,11 @@
+{
+  "name": "chronicle-standard",
+  "version": "0.9.0",
+  "summary": "Defensibility scoring for RAG and evals. Event-sourced evidence, claims, and defensibility; standalone scorer and .chronicle verifier.",
+  "author": "Chronicle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chronicle_standard-0.9.0.tar.gz",
+  "download_time": "2026-02-21T16:53:22.803446",
+  "package_url": "https://pypi.org/project/chronicle-standard/"
+}

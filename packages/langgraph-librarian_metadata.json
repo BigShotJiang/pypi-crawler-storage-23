@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-librarian",
+  "version": "0.1.0",
+  "summary": "Intelligent context management for LangGraph chatbots using the Librarian select-then-hydrate architecture",
+  "author": "Amir Pinkert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph_librarian-0.1.0.tar.gz",
+  "download_time": "2026-02-21T16:53:27.537845",
+  "package_url": "https://pypi.org/project/langgraph-librarian/"
+}

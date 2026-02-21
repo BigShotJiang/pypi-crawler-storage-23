@@ -1,11 +1,11 @@
 {
   "name": "ttscli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Command-line interface for text-to-speech with voice cloning",
   "author": "Voicebox Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ttscli-0.1.0.tar.gz",
-  "download_time": "2026-02-21T16:19:23.728995",
+  "download_filename": "ttscli-0.1.1.tar.gz",
+  "download_time": "2026-02-21T16:53:43.161168",
   "package_url": "https://pypi.org/project/ttscli/"
 }

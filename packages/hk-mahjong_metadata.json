@@ -1,0 +1,11 @@
+{
+  "name": "hk-mahjong",
+  "version": "0.1.0",
+  "summary": "Hong Kong style mahjong in the terminal — play against 3 AI opponents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hk_mahjong-0.1.0.tar.gz",
+  "download_time": "2026-02-21T16:53:42.121815",
+  "package_url": "https://pypi.org/project/hk-mahjong/"
+}

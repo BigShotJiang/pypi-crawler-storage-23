@@ -1,11 +1,11 @@
 {
   "name": "colab-grading-client",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Client functions for colab notebook to access AI teaching and grading assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colab_grading_client-1.0.5.tar.gz",
-  "download_time": "2026-02-21T13:55:03.529107",
+  "download_filename": "colab_grading_client-1.0.7.tar.gz",
+  "download_time": "2026-02-21T16:53:21.236551",
   "package_url": "https://pypi.org/project/colab-grading-client/"
 }

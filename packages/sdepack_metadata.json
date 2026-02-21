@@ -1,11 +1,11 @@
 {
   "name": "sdepack",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "Runge-Kutta Numerical Integration Stochastic Differential Equations for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdepack-0.0.1.tar.gz",
-  "download_time": "2026-02-20T07:56:48.658752",
+  "download_filename": "sdepack-0.0.5-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl",
+  "download_time": "2026-02-21T16:53:36.392318",
   "package_url": "https://pypi.org/project/sdepack/"
 }

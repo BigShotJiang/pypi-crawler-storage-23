@@ -1,0 +1,11 @@
+{
+  "name": "cassachange",
+  "version": "1.0.0",
+  "summary": "Cassandra schema migration tool — versioned CQL migrations for Cassandra & AstraDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cassachange-1.0.0.tar.gz",
+  "download_time": "2026-02-21T16:53:34.303465",
+  "package_url": "https://pypi.org/project/cassachange/"
+}

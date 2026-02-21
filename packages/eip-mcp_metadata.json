@@ -1,11 +1,11 @@
 {
   "name": "eip-mcp",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "MCP server for the Exploit Intelligence Platform — vulnerability and exploit intelligence for AI assistants",
   "author": "Exploit Intelligence Platform",
   "license": null,
   "home_page": null,
-  "download_filename": "eip_mcp-0.3.3.tar.gz",
-  "download_time": "2026-02-21T15:16:19.600226",
+  "download_filename": "eip_mcp-0.3.4.tar.gz",
+  "download_time": "2026-02-21T16:53:44.204085",
   "package_url": "https://pypi.org/project/eip-mcp/"
 }

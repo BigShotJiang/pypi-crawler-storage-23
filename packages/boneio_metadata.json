@@ -1,0 +1,11 @@
+{
+  "name": "boneio",
+  "version": "1.1.0",
+  "summary": "Python App for BoneIO",
+  "author": null,
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "boneio-1.1.0.tar.gz",
+  "download_time": "2026-02-21T16:53:25.962521",
+  "package_url": "https://pypi.org/project/boneio/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gxhash",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Python bindings for GxHash",
   "author": null,
   "license": null,
   "home_page": "https://github.com/winstxnhdw/gxhash",
-  "download_filename": "gxhash-0.4.1.tar.gz",
-  "download_time": "2026-02-18T22:59:21.144316",
+  "download_filename": "gxhash-0.5.0.tar.gz",
+  "download_time": "2026-02-21T16:53:29.102063",
   "package_url": "https://pypi.org/project/gxhash/"
 }
