@@ -1,11 +1,11 @@
 {
   "name": "flowquery",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "summary": "A declarative query language for data processing pipelines",
   "author": "FlowQuery Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flowquery-1.0.35.tar.gz",
-  "download_time": "2026-02-21T15:16:38.487466",
+  "download_filename": "flowquery-1.0.36.tar.gz",
+  "download_time": "2026-02-21T21:38:58.030528",
   "package_url": "https://pypi.org/project/flowquery/"
 }

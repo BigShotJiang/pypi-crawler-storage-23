@@ -1,0 +1,11 @@
+{
+  "name": "qmrun",
+  "version": "0.2.0",
+  "summary": "Orca6 input file generator from SDF files",
+  "author": "Armando Navarro-Vázquez",
+  "license": "MIT",
+  "home_page": "https://github.com/NMRDev/qmrun",
+  "download_filename": "qmrun-0.2.0.tar.gz",
+  "download_time": "2026-02-21T21:38:42.146282",
+  "package_url": "https://pypi.org/project/qmrun/"
+}

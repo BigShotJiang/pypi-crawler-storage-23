@@ -1,0 +1,11 @@
+{
+  "name": "inboard",
+  "version": "0.87.0",
+  "summary": "Docker images and utilities to power your Python APIs and help you ship faster.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inboard-0.87.0.tar.gz",
+  "download_time": "2026-02-21T21:38:44.368853",
+  "package_url": "https://pypi.org/project/inboard/"
+}

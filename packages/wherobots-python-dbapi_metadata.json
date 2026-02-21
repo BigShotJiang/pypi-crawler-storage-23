@@ -1,0 +1,11 @@
+{
+  "name": "wherobots-python-dbapi",
+  "version": "0.23.2",
+  "summary": "Python DB-API driver for Wherobots DB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wherobots_python_dbapi-0.23.2.tar.gz",
+  "download_time": "2026-02-21T21:38:42.687303",
+  "package_url": "https://pypi.org/project/wherobots-python-dbapi/"
+}

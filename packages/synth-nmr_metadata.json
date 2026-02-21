@@ -1,11 +1,11 @@
 {
   "name": "synth-nmr",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "summary": "NMR spectroscopy calculations for protein structures",
   "author": "George Elkins",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synth_nmr-0.5.0.tar.gz",
-  "download_time": "2026-02-20T22:19:28.142722",
+  "download_filename": "synth_nmr-0.6.1.tar.gz",
+  "download_time": "2026-02-21T21:38:49.933254",
   "package_url": "https://pypi.org/project/synth-nmr/"
 }
