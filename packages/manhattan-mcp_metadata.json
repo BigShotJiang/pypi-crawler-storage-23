@@ -1,11 +1,11 @@
 {
   "name": "manhattan-mcp",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Manhattan MCP Server - Token-Efficient Codebase Navigation (GitMem) for AI Agents",
   "author": "Agent Architects Studio",
   "license": null,
   "home_page": null,
-  "download_filename": "manhattan_mcp-0.2.5.tar.gz",
-  "download_time": "2026-02-21T17:49:38.402954",
+  "download_filename": "manhattan_mcp-0.2.6.tar.gz",
+  "download_time": "2026-02-21T18:21:16.594068",
   "package_url": "https://pypi.org/project/manhattan-mcp/"
 }

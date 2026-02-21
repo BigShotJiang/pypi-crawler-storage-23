@@ -1,0 +1,11 @@
+{
+  "name": "langextract-hybrid-llm-regex",
+  "version": "1.0.4",
+  "summary": "LangExtract hybrid provider — combines deterministic rule/regex extraction with LLM fallback for cost savings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langextract_hybrid_llm_regex-1.0.4.tar.gz",
+  "download_time": "2026-02-21T18:21:00.025704",
+  "package_url": "https://pypi.org/project/langextract-hybrid-llm-regex/"
+}

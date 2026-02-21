@@ -1,11 +1,11 @@
 {
   "name": "reline",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reline-1.4.2.tar.gz",
-  "download_time": "2026-02-21T15:16:26.624131",
+  "download_filename": "reline-1.4.3.tar.gz",
+  "download_time": "2026-02-21T18:21:15.537269",
   "package_url": "https://pypi.org/project/reline/"
 }

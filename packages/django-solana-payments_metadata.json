@@ -1,0 +1,11 @@
+{
+  "name": "django-solana-payments",
+  "version": "0.1.2",
+  "summary": "A plug-and-play Django library for accepting online payments via the Solana blockchain",
+  "author": "Artemooon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_solana_payments-0.1.2.tar.gz",
+  "download_time": "2026-02-21T18:21:25.875246",
+  "package_url": "https://pypi.org/project/django-solana-payments/"
+}

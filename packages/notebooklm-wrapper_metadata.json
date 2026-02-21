@@ -1,11 +1,11 @@
 {
   "name": "notebooklm-wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pythonic wrapper for NotebookLM via notebooklm-mcp-cli MCP server",
   "author": "ai-chitect",
   "license": null,
   "home_page": null,
-  "download_filename": "notebooklm_wrapper-0.1.1.tar.gz",
-  "download_time": "2026-02-20T11:46:40.431973",
+  "download_filename": "notebooklm_wrapper-0.1.2.tar.gz",
+  "download_time": "2026-02-21T18:21:31.586214",
   "package_url": "https://pypi.org/project/notebooklm-wrapper/"
 }

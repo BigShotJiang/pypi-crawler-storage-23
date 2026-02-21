@@ -1,0 +1,11 @@
+{
+  "name": "meteorica",
+  "version": "1.0.0",
+  "summary": "Celestial Messengers: A Comprehensive Physico-Chemical Framework for Extraterrestrial Materials",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://meteorica-science.netlify.app",
+  "download_filename": "meteorica-1.0.0.tar.gz",
+  "download_time": "2026-02-21T18:21:06.722967",
+  "package_url": "https://pypi.org/project/meteorica/"
+}

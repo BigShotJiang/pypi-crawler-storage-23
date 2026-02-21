@@ -1,0 +1,11 @@
+{
+  "name": "BobrTools",
+  "version": "0.1.33",
+  "summary": "Tools designed to simplify routine tasks for analysts, enabling faster and more efficient data processing and analysis",
+  "author": "Artsem Bobr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bobrtools-0.1.33.tar.gz",
+  "download_time": "2026-02-21T18:20:58.998104",
+  "package_url": "https://pypi.org/project/BobrTools/"
+}
