@@ -1,11 +1,11 @@
 {
   "name": "petnetizen-feeder",
-  "version": "0.3.5",
+  "version": "0.3.8",
   "summary": "Python BLE library for Petnetizen automatic pet feeders (Home Assistant–friendly)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "petnetizen_feeder-0.3.5.tar.gz",
-  "download_time": "2026-02-19T22:21:14.605504",
+  "download_filename": "petnetizen_feeder-0.3.8.tar.gz",
+  "download_time": "2026-02-21T20:15:03.402837",
   "package_url": "https://pypi.org/project/petnetizen-feeder/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "terragenai",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "summary": "A minimal example CLI package.",
   "author": "Eshika Malgari",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terragenai-0.0.8.tar.gz",
-  "download_time": "2026-02-20T17:34:42.619329",
+  "download_filename": "terragenai-0.0.11.tar.gz",
+  "download_time": "2026-02-21T20:15:11.255494",
   "package_url": "https://pypi.org/project/terragenai/"
 }

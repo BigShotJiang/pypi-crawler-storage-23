@@ -1,15 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-21T19:57:26.191993
-- **Total Packages**: 83
-- **Total Size**: 19.36 MB
+- **Download Time**: 2026-02-21T20:15:29.641110
+- **Total Packages**: 80
+- **Total Size**: 38.48 MB
 
 ## Packages List
+- vecgrep
+- moirepy
+- lanscape
+- gemini-web-mcp-cli
+- predicate-authority-sidecar
+- foundry-sandbox
+- django-routines-tr
+- memctl
 - undore-rbac
+- xr-cli
+- greenplanet-energy-api
+- pulse5ctl
+- google-docs-mcp-server
+- accelforge
+- devmemory
+- xpresspay
+- aurumaide
+- glotter2-core
+- pypnm-docsis
+- adbflow
+- hive-hook
+- mohini-voice-emotion
+- value-network
+- ofd-validator
+- litellm-proxy-extras
+- skir-client
+- pepedpid
+- dcert
+- buganise
+- tigerflow-ml
+- llm-orchestra
+- backer-cli
+- petnetizen-feeder
+- anki-cli
+- hanzo-tools-mcp
+- hnt-nf-jira-library
+- clawagents
+- secretzero
+- hanzo-tools-browser
+- noai-watermark
+- hanzo-tools-core
+- patchpal
+- onionfy
+- wp_python
+- fullbleed
+- pyfrc
+- terragenai
+- hallucinator
 - vgi-rpc
 - bicep-whatif-advisor
-- google-docs-mcp-server
 - google-workspace-unlimited
 - axm-audit
 - dj-control-room
@@ -32,60 +78,11 @@
 - laminarnet
 - ai-agent-governance
 - jetsontools
-- predicate-authority-sidecar
 - myogait
 - youam
 - drp-cli
-- django-routines-tr
 - libretranslate
 - aiobmsble
 - claude-mpm
 - core-dev-tools
 - namel3ss
-- lanscape
-- blockapily
-- deriva-ml
-- foundry-sandbox
-- ntfsdump
-- langchain-pollinations
-- zenius-downloader
-- tessera-core
-- physiodsp
-- llm-classifier
-- loreguard-cli
-- grdl-sartoolbox
-- sandlerchemeq
-- grdl-runtime
-- dbwarden
-- faker-cn
-- annal
-- grdl-imagej
-- claude-history
-- leaf-framework
-- semantic-cache-mcp
-- validatex
-- cyberdash
-- gando
-- wisent
-- pyNMMS
-- bugsink
-- nexo-schemas
-- skfeaturellm
-- yt-dlp-ejs
-- stratos-core
-- gjalla
-- accelforge
-- helm-mcp
-- zombie-escape
-- wxmp
-- mcp-server-odoo
-- qa-automation-python
-- steady-queue
-- Anisearch
-- nimoh-be-django-base
-- grdl
-- airweave-sdk
-- mindglow
-- agentcage
-- pulse5ctl
-- fmd-api

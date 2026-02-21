@@ -1,0 +1,11 @@
+{
+  "name": "ofd-validator",
+  "version": "0.5.1",
+  "summary": "High-performance validation library for the Open Filament Database",
+  "author": "Open Filament Collective",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ofd_validator-0.5.1.tar.gz",
+  "download_time": "2026-02-21T20:14:58.245075",
+  "package_url": "https://pypi.org/project/ofd-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xr-cli",
+  "version": "0.1.2",
+  "summary": "X (Twitter) research CLI — search, profile, timeline, cache",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xr_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-21T20:14:50.253763",
+  "package_url": "https://pypi.org/project/xr-cli/"
+}

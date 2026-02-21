@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-core",
+  "version": "0.3.0",
+  "summary": "DEPRECATED: Use hanzo-tools instead. This package re-exports from hanzo-tools for backwards compatibility.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_core-0.3.0.tar.gz",
+  "download_time": "2026-02-21T20:15:08.053897",
+  "package_url": "https://pypi.org/project/hanzo-tools-core/"
+}

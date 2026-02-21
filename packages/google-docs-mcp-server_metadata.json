@@ -1,11 +1,11 @@
 {
   "name": "google-docs-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Google Docs with full tab support",
   "author": "gigabrainobserver",
   "license": null,
   "home_page": null,
-  "download_filename": "google_docs_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-02-21T19:56:41.778643",
+  "download_filename": "google_docs_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-21T20:14:51.916521",
   "package_url": "https://pypi.org/project/google-docs-mcp-server/"
 }

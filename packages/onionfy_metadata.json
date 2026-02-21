@@ -1,0 +1,11 @@
+{
+  "name": "onionfy",
+  "version": "0.1.0",
+  "summary": "ProxyChains alternative for Windows - Route any Python code through Tor",
+  "author": "mohammedcha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onionfy-0.1.0.tar.gz",
+  "download_time": "2026-02-21T20:15:09.120119",
+  "package_url": "https://pypi.org/project/onionfy/"
+}

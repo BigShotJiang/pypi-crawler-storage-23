@@ -1,0 +1,11 @@
+{
+  "name": "mohini-voice-emotion",
+  "version": "1.0.0",
+  "summary": "Voice emotion analysis engine — detect emotional state from audio for AI response calibration",
+  "author": "Darshan Joshi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mohini_voice_emotion-1.0.0.tar.gz",
+  "download_time": "2026-02-21T20:14:57.214123",
+  "package_url": "https://pypi.org/project/mohini-voice-emotion/"
+}
