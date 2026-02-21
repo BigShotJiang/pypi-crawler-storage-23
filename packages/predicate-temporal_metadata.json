@@ -1,0 +1,11 @@
+{
+  "name": "predicate-temporal",
+  "version": "0.1.0",
+  "summary": "Temporal.io Worker Interceptor for Predicate Authority Zero-Trust authorization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "predicate_temporal-0.1.0.tar.gz",
+  "download_time": "2026-02-21T17:49:41.031489",
+  "package_url": "https://pypi.org/project/predicate-temporal/"
+}

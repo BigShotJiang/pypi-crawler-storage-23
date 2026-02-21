@@ -1,0 +1,11 @@
+{
+  "name": "aws-event-proxy",
+  "version": "0.1.0",
+  "summary": "AWS Lambda handler that proxies events to a configurable HTTP endpoint",
+  "author": "Nick Heap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_event_proxy-0.1.0.tar.gz",
+  "download_time": "2026-02-21T17:49:36.840934",
+  "package_url": "https://pypi.org/project/aws-event-proxy/"
+}

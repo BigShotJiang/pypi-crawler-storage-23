@@ -1,0 +1,11 @@
+{
+  "name": "empathy-engine",
+  "version": "1.2.0",
+  "summary": "Mechanistic Empathy Engine — Open-source framework for generating empathy games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "empathy_engine-1.2.0.tar.gz",
+  "download_time": "2026-02-21T17:49:21.664193",
+  "package_url": "https://pypi.org/project/empathy-engine/"
+}

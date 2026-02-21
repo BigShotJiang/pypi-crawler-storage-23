@@ -1,0 +1,11 @@
+{
+  "name": "g-gremlin-dynamics-mcp",
+  "version": "0.1.1",
+  "summary": "Standalone Dynamics 365 / Dataverse MCP server launcher for g-gremlin.",
+  "author": "FoundryOps",
+  "license": null,
+  "home_page": null,
+  "download_filename": "g_gremlin_dynamics_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-21T17:49:21.140183",
+  "package_url": "https://pypi.org/project/g-gremlin-dynamics-mcp/"
+}

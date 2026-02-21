@@ -1,11 +1,11 @@
 {
   "name": "geodistpy",
-  "version": "0.2.1",
+  "version": "1.0.1",
   "summary": "For fast geodesic calculations",
   "author": "Pawan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geodistpy-0.2.1.tar.gz",
-  "download_time": "2026-02-21T11:54:30.903216",
+  "download_filename": "geodistpy-1.0.1.tar.gz",
+  "download_time": "2026-02-21T17:49:43.114533",
   "package_url": "https://pypi.org/project/geodistpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sustain-parser",
+  "version": "0.2.0",
+  "summary": "Teaching repo: parse sustainability report PDFs into a section tree + per-section text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sustain_parser-0.2.0.tar.gz",
+  "download_time": "2026-02-21T17:49:14.883480",
+  "package_url": "https://pypi.org/project/sustain-parser/"
+}

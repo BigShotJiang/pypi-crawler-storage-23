@@ -1,0 +1,11 @@
+{
+  "name": "python-doctor",
+  "version": "0.2.1",
+  "summary": "One command. One score. Built for AI agents. Scans Python codebases and returns a 0-100 health score.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_doctor-0.2.1.tar.gz",
+  "download_time": "2026-02-21T17:49:09.637384",
+  "package_url": "https://pypi.org/project/python-doctor/"
+}

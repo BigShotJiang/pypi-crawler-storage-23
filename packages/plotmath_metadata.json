@@ -1,11 +1,11 @@
 {
   "name": "plotmath",
-  "version": "0.3.16",
+  "version": "0.3.17",
   "summary": "Automatically generates textbook graphs for mathematical functions.",
   "author": "René Alexander Ask",
   "license": null,
   "home_page": "https://github.com/reneaas/plotmath",
-  "download_filename": "plotmath-0.3.16.tar.gz",
-  "download_time": "2026-02-21T16:18:56.627164",
+  "download_filename": "plotmath-0.3.17.tar.gz",
+  "download_time": "2026-02-21T17:49:50.954646",
   "package_url": "https://pypi.org/project/plotmath/"
 }

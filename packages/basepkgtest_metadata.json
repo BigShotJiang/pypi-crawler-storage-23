@@ -1,0 +1,11 @@
+{
+  "name": "basepkgtest",
+  "version": "0.0.3",
+  "summary": "一个 lg 上传的测试代码包, 可以被其他任何人进行引入使用。",
+  "author": "lg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "basepkgtest-0.0.3.tar.gz",
+  "download_time": "2026-02-21T17:49:39.969112",
+  "package_url": "https://pypi.org/project/basepkgtest/"
+}

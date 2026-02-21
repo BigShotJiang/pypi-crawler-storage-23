@@ -1,11 +1,11 @@
 {
   "name": "rcgram",
-  "version": "0.4.0",
+  "version": "0.4.0.post1",
   "summary": "Async Telegram library with direct access.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rcgram-0.4.0.tar.gz",
-  "download_time": "2026-02-21T17:18:50.450386",
+  "download_filename": "rcgram-0.4.0.post1.tar.gz",
+  "download_time": "2026-02-21T17:49:37.361140",
   "package_url": "https://pypi.org/project/rcgram/"
 }

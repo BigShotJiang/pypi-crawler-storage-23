@@ -1,0 +1,11 @@
+{
+  "name": "jucrypt",
+  "version": "0.2.0",
+  "summary": "Experimental symmetric cipher using user-provided narrative text as key material.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jucrypt-0.2.0.tar.gz",
+  "download_time": "2026-02-21T17:49:45.734745",
+  "package_url": "https://pypi.org/project/jucrypt/"
+}

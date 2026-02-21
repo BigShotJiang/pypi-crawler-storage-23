@@ -1,11 +1,11 @@
 {
   "name": "automaweb",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Biblioteca para automatização web (Chrome, Edge, Firefox) e manipulação de arquivos no SO.",
   "author": "João Braga",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "automaweb-0.2.3.tar.gz",
-  "download_time": "2026-02-20T18:08:22.800719",
+  "download_filename": "automaweb-0.2.5.tar.gz",
+  "download_time": "2026-02-21T17:49:17.489970",
   "package_url": "https://pypi.org/project/automaweb/"
 }

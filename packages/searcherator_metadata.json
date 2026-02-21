@@ -1,11 +1,11 @@
 {
   "name": "searcherator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Async web search client using Brave Search API with built-in caching, rate limiting, and batch processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "searcherator-0.1.1.tar.gz",
-  "download_time": "2026-02-18T17:40:59.655444",
+  "download_filename": "searcherator-0.1.2.tar.gz",
+  "download_time": "2026-02-21T17:49:30.619907",
   "package_url": "https://pypi.org/project/searcherator/"
 }

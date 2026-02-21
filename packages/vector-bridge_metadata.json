@@ -1,0 +1,11 @@
+{
+  "name": "vector-bridge",
+  "version": "0.0.21",
+  "summary": "A client library for accessing VectorBridge.ai: API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vector_bridge-0.0.21.tar.gz",
+  "download_time": "2026-02-21T17:49:46.783957",
+  "package_url": "https://pypi.org/project/vector-bridge/"
+}
