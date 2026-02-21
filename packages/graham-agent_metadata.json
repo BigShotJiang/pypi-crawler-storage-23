@@ -1,11 +1,11 @@
 {
   "name": "graham-agent",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Fullscreen TUI stock screener inspired by Benjamin Graham",
   "author": "graham",
   "license": null,
   "home_page": null,
-  "download_filename": "graham_agent-0.3.2.tar.gz",
-  "download_time": "2026-02-21T14:50:54.153961",
+  "download_filename": "graham_agent-0.3.3.tar.gz",
+  "download_time": "2026-02-21T15:16:46.860011",
   "package_url": "https://pypi.org/project/graham-agent/"
 }

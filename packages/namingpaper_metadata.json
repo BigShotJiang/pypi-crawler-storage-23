@@ -1,0 +1,11 @@
+{
+  "name": "namingpaper",
+  "version": "0.2.6",
+  "summary": "CLI tool to rename academic papers using AI-extracted metadata",
+  "author": "DanTsai0903",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "namingpaper-0.2.6.tar.gz",
+  "download_time": "2026-02-21T15:16:45.714274",
+  "package_url": "https://pypi.org/project/namingpaper/"
+}

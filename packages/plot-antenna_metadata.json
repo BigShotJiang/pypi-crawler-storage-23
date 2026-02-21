@@ -1,0 +1,11 @@
+{
+  "name": "plot-antenna",
+  "version": "2.4",
+  "summary": "Antenna plotting program for plotting antenna simulation results",
+  "author": "Ralf Schlatterbeck",
+  "license": null,
+  "home_page": "https://github.com/schlatterbeck/plot-antenna",
+  "download_filename": "plot_antenna-2.4.tar.gz",
+  "download_time": "2026-02-21T15:16:17.314965",
+  "package_url": "https://pypi.org/project/plot-antenna/"
+}

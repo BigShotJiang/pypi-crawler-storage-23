@@ -1,11 +1,11 @@
 {
   "name": "google-workspace-unlimited",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "summary": "Comprehensive MCP server for Google Workspace integration - 72+ tools across Gmail, Drive, Docs, Sheets, Slides, Calendar, Forms, Chat, and Photos with OAuth 2.1 + PKCE authentication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "google_workspace_unlimited-1.7.0.tar.gz",
-  "download_time": "2026-02-21T13:55:16.593492",
+  "download_filename": "google_workspace_unlimited-1.7.2.tar.gz",
+  "download_time": "2026-02-21T15:16:39.341160",
   "package_url": "https://pypi.org/project/google-workspace-unlimited/"
 }

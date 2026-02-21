@@ -1,0 +1,11 @@
+{
+  "name": "disjoint-set",
+  "version": "0.9.0",
+  "summary": "Disjoint Set data structure implementation for Python",
+  "author": "Maciej Rapacz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "disjoint_set-0.9.0.tar.gz",
+  "download_time": "2026-02-21T15:16:30.707341",
+  "package_url": "https://pypi.org/project/disjoint-set/"
+}

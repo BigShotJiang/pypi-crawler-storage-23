@@ -1,11 +1,11 @@
 {
   "name": "PyADRecon",
-  "version": "0.12.5",
+  "version": "0.12.7",
   "summary": "Python Active Directory Reconnaissance Tool (ADRecon port) with NTLM and Kerberos support.",
   "author": "LRVT",
   "license": null,
   "home_page": null,
-  "download_filename": "pyadrecon-0.12.5.tar.gz",
-  "download_time": "2026-02-21T14:18:40.297830",
+  "download_filename": "pyadrecon-0.12.7.tar.gz",
+  "download_time": "2026-02-21T15:16:21.298350",
   "package_url": "https://pypi.org/project/PyADRecon/"
 }

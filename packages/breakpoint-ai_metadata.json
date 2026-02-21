@@ -1,0 +1,11 @@
+{
+  "name": "breakpoint-ai",
+  "version": "0.1.6",
+  "summary": "Local-first decision engine for baseline vs candidate LLM output checks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "breakpoint_ai-0.1.6.tar.gz",
+  "download_time": "2026-02-21T15:16:27.647758",
+  "package_url": "https://pypi.org/project/breakpoint-ai/"
+}

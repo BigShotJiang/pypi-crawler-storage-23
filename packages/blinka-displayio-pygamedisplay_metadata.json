@@ -1,0 +1,11 @@
+{
+  "name": "blinka-displayio-pygamedisplay",
+  "version": "4.0.1",
+  "summary": "Use CircuitPython displayio code on PC and Raspberry Pi outputting to a PyGame window instead of a physical display.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blinka_displayio_pygamedisplay-4.0.1.tar.gz",
+  "download_time": "2026-02-21T15:16:32.235049",
+  "package_url": "https://pypi.org/project/blinka-displayio-pygamedisplay/"
+}
