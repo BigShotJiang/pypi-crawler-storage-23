@@ -1,0 +1,11 @@
+{
+  "name": "tdewolff-minify",
+  "version": "2.24.9",
+  "summary": "Go minifiers for web formats",
+  "author": "Taco de Wolff",
+  "license": "MIT",
+  "home_page": "https://github.com/tdewolff/minify",
+  "download_filename": "tdewolff_minify-2.24.9.tar.gz",
+  "download_time": "2026-02-21T13:16:27.232104",
+  "package_url": "https://pypi.org/project/tdewolff-minify/"
+}

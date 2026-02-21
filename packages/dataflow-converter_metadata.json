@@ -1,0 +1,11 @@
+{
+  "name": "dataflow-converter",
+  "version": "0.1.0",
+  "summary": "A powerful data format conversion tool",
+  "author": "James Hu",
+  "license": null,
+  "home_page": "https://github.com/jameshuh/dataflow",
+  "download_filename": "dataflow_converter-0.1.0.tar.gz",
+  "download_time": "2026-02-21T13:16:38.184972",
+  "package_url": "https://pypi.org/project/dataflow-converter/"
+}

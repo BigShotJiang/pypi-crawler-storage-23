@@ -1,0 +1,11 @@
+{
+  "name": "eye-annotation-tool",
+  "version": "1.0.0",
+  "summary": "A tool for annotating pupil and iris in eye images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eye_annotation_tool-1.0.0.tar.gz",
+  "download_time": "2026-02-21T13:16:20.903224",
+  "package_url": "https://pypi.org/project/eye-annotation-tool/"
+}

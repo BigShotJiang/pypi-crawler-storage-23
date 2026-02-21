@@ -1,0 +1,11 @@
+{
+  "name": "CrossRename",
+  "version": "1.5.0",
+  "summary": "Harmonize file and directory names for Linux, Windows and macOS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crossrename-1.5.0.tar.gz",
+  "download_time": "2026-02-21T13:16:12.042259",
+  "package_url": "https://pypi.org/project/CrossRename/"
+}

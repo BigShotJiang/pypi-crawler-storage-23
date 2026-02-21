@@ -1,11 +1,11 @@
 {
   "name": "canopy-optimizer",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "Institutional-grade hierarchical portfolio optimization (HRP, HERC, NCO) with data loading, metrics, and backtesting — by Anagatam Technologies",
   "author": "Anagatam Technologies",
-  "license": "Apache-2.0",
-  "home_page": "https://github.com/Anagatam/Canopy",
-  "download_filename": "canopy_optimizer-3.0.0.tar.gz",
-  "download_time": "2026-02-21T07:57:51.736632",
+  "license": null,
+  "home_page": null,
+  "download_filename": "canopy_optimizer-3.0.2.tar.gz",
+  "download_time": "2026-02-21T13:16:21.947927",
   "package_url": "https://pypi.org/project/canopy-optimizer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sso-zenna",
+  "version": "0.1.2",
+  "summary": "Python клиент для взаимодействия с MS Auth Service API",
+  "author": "Артем Костюченко",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "sso_zenna-0.1.2.tar.gz",
+  "download_time": "2026-02-21T13:16:36.109448",
+  "package_url": "https://pypi.org/project/sso-zenna/"
+}

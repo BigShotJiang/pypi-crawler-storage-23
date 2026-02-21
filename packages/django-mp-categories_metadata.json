@@ -1,0 +1,11 @@
+{
+  "name": "django-mp-categories",
+  "version": "4.0.1",
+  "summary": "Django categories app",
+  "author": "Paul Maigutyak",
+  "license": "MIT",
+  "home_page": "https://github.com/pmaigutyak/mp-categories",
+  "download_filename": "django_mp_categories-4.0.1.tar.gz",
+  "download_time": "2026-02-21T13:16:34.544158",
+  "package_url": "https://pypi.org/project/django-mp-categories/"
+}

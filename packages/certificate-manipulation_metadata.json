@@ -1,0 +1,11 @@
+{
+  "name": "certificate-manipulation",
+  "version": "1.0.0",
+  "summary": "Consolidate, split, filter certificates.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "certificate_manipulation-1.0.0.tar.gz",
+  "download_time": "2026-02-21T13:16:21.421942",
+  "package_url": "https://pypi.org/project/certificate-manipulation/"
+}

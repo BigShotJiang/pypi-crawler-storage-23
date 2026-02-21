@@ -1,0 +1,11 @@
+{
+  "name": "scim-sanity",
+  "version": "0.5.1",
+  "summary": "A CLI tool for validating SCIM 2.0 User, Group, Agent, and AgenticApplication payloads (RFC 7643/7644)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scim_sanity-0.5.1.tar.gz",
+  "download_time": "2026-02-21T13:16:30.394396",
+  "package_url": "https://pypi.org/project/scim-sanity/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "my-demo-package-koktel131",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A simple demo package for learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "my_demo_package_koktel131-0.0.2.tar.gz",
-  "download_time": "2026-02-21T08:23:54.041095",
+  "download_filename": "my_demo_package_koktel131-0.0.3.tar.gz",
+  "download_time": "2026-02-21T13:16:10.999130",
   "package_url": "https://pypi.org/project/my-demo-package-koktel131/"
 }

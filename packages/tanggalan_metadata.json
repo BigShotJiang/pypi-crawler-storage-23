@@ -1,0 +1,11 @@
+{
+  "name": "tanggalan",
+  "version": "1.1.1",
+  "summary": "Pustaka lengkap untuk konversi Kalender Jawa.",
+  "author": "bect",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "tanggalan-1.1.1.tar.gz",
+  "download_time": "2026-02-21T13:16:03.716570",
+  "package_url": "https://pypi.org/project/tanggalan/"
+}
