@@ -1,0 +1,11 @@
+{
+  "name": "dokku-api",
+  "version": "1.2.9",
+  "summary": "A RESTful API for managing applications and resources on a Dokku platform.",
+  "author": "JeanExtreme002",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dokku_api-1.2.9.tar.gz",
+  "download_time": "2026-02-21T05:36:46.153282",
+  "package_url": "https://pypi.org/project/dokku-api/"
+}

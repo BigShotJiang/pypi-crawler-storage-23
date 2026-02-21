@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-reusable-blocks",
+  "version": "0.8.2",
+  "summary": "Reusable content blocks with slot-based templating for Wagtail CMS",
+  "author": "kkm-horikawa",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wagtail_reusable_blocks-0.8.2.tar.gz",
+  "download_time": "2026-02-21T05:36:51.341423",
+  "package_url": "https://pypi.org/project/wagtail-reusable-blocks/"
+}

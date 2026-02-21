@@ -1,11 +1,11 @@
 {
   "name": "clig",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "Command Line Interface Generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clig-0.6.1.tar.gz",
-  "download_time": "2026-02-19T21:55:34.309109",
+  "download_filename": "clig-0.6.3.tar.gz",
+  "download_time": "2026-02-21T05:36:38.832436",
   "package_url": "https://pypi.org/project/clig/"
 }

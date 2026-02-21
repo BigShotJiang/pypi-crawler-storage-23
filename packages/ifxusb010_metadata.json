@@ -1,0 +1,11 @@
+{
+  "name": "ifxusb010",
+  "version": "0.1.6",
+  "summary": "Python API for Infineon USB010 dongle. Allows Python users to control the USB010 dongle.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ifxusb010-0.1.6.tar.gz",
+  "download_time": "2026-02-21T05:36:43.550594",
+  "package_url": "https://pypi.org/project/ifxusb010/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quotes-convert",
+  "version": "1.1.0",
+  "summary": "Convert matching double-quotes to single-quotes or vice versa in strings and streams. Inspired by the popular to-single-quotes npm package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quotes_convert-1.1.0.tar.gz",
+  "download_time": "2026-02-21T05:36:39.872817",
+  "package_url": "https://pypi.org/project/quotes-convert/"
+}

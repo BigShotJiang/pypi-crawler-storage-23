@@ -1,0 +1,11 @@
+{
+  "name": "pindakaas",
+  "version": "0.4.1",
+  "summary": "Boolean satisfiability (SAT) library with efficient encoding of complex constraints and solver interaction",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/pindakaashq/pindakaas",
+  "download_filename": "pindakaas-0.4.1.tar.gz",
+  "download_time": "2026-02-21T05:36:40.406838",
+  "package_url": "https://pypi.org/project/pindakaas/"
+}

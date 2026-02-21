@@ -1,0 +1,11 @@
+{
+  "name": "open-games-spec",
+  "version": "0.1.0",
+  "summary": "Typed DSL for Compositional Game Theory — define, verify, and report on open game patterns",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_games_spec-0.1.0.tar.gz",
+  "download_time": "2026-02-21T05:36:59.127954",
+  "package_url": "https://pypi.org/project/open-games-spec/"
+}
