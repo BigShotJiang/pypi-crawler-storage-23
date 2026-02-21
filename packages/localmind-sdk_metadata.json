@@ -1,0 +1,11 @@
+{
+  "name": "localmind-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for LocalMind API - chat, documents, semantic search, and conversation management",
+  "author": "Federico Calo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "localmind_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-21T11:54:22.026014",
+  "package_url": "https://pypi.org/project/localmind-sdk/"
+}

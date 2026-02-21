@@ -1,0 +1,11 @@
+{
+  "name": "my-ip-cli",
+  "version": "1.0.0",
+  "summary": "Simple terminal command to show public IP information",
+  "author": "Mohammadreza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_ip_cli-1.0.0.tar.gz",
+  "download_time": "2026-02-21T11:54:26.077364",
+  "package_url": "https://pypi.org/project/my-ip-cli/"
+}

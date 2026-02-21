@@ -1,0 +1,11 @@
+{
+  "name": "lghorizon",
+  "version": "0.9.12",
+  "summary": "Python client for Liberty Global Horizon settop boxes",
+  "author": "Rudolf Offereins",
+  "license": "MIT license",
+  "home_page": "https://github.com/sholofly/LGHorizon-python",
+  "download_filename": "lghorizon-0.9.12.tar.gz",
+  "download_time": "2026-02-21T11:54:27.121982",
+  "package_url": "https://pypi.org/project/lghorizon/"
+}

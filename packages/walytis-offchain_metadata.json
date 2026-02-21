@@ -1,0 +1,11 @@
+{
+  "name": "walytis-offchain",
+  "version": "0.5.3",
+  "summary": "An overlay for the Walytis blockchain that stores block content off-chain and securely shares it only with trusted peers, using `walytis_identities`.",
+  "author": "emendir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "walytis_offchain-0.5.3.tar.gz",
+  "download_time": "2026-02-21T11:54:19.340263",
+  "package_url": "https://pypi.org/project/walytis-offchain/"
+}
