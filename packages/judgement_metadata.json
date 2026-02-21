@@ -1,11 +1,11 @@
 {
   "name": "judgement",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A multiplayer card game called Judgement",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "judgement-0.1.1-py3-none-any.whl",
-  "download_time": "2026-02-21T22:14:11.241399",
+  "download_filename": "judgement-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-21T22:44:25.192715",
   "package_url": "https://pypi.org/project/judgement/"
 }

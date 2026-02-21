@@ -1,0 +1,11 @@
+{
+  "name": "quran-transcript",
+  "version": "0.5.2",
+  "summary": "Quran Phonetic Script with addional quarnic utils",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quran_transcript-0.5.2.tar.gz",
+  "download_time": "2026-02-21T22:44:32.991095",
+  "package_url": "https://pypi.org/project/quran-transcript/"
+}

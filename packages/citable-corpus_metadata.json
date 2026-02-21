@@ -1,0 +1,11 @@
+{
+  "name": "citable-corpus",
+  "version": "0.2.0",
+  "summary": "A Python library for working with a corpus of texts canonically citable by CtsUrn.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citable_corpus-0.2.0.tar.gz",
+  "download_time": "2026-02-21T22:44:36.149149",
+  "package_url": "https://pypi.org/project/citable-corpus/"
+}

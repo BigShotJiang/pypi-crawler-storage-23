@@ -1,11 +1,11 @@
 {
   "name": "mcp-atlassian-extended",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Extended MCP tools for Jira and Confluence — attachments, agile boards, sprints, calendars",
   "author": "vish288",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_atlassian_extended-0.0.1.tar.gz",
-  "download_time": "2026-02-21T22:14:19.436579",
+  "download_filename": "mcp_atlassian_extended-0.0.2.tar.gz",
+  "download_time": "2026-02-21T22:44:59.264769",
   "package_url": "https://pypi.org/project/mcp-atlassian-extended/"
 }

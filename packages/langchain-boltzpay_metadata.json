@@ -1,0 +1,11 @@
+{
+  "name": "langchain-boltzpay",
+  "version": "0.1.1",
+  "summary": "LangChain tools for BoltzPay — pay for API data with AI agents",
+  "author": "BoltzPay Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_boltzpay-0.1.1.tar.gz",
+  "download_time": "2026-02-21T22:44:10.829347",
+  "package_url": "https://pypi.org/project/langchain-boltzpay/"
+}
