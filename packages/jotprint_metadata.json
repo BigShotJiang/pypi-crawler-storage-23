@@ -1,0 +1,11 @@
+{
+  "name": "jotprint",
+  "version": "0.1.0",
+  "summary": "Una forma sencilla de imprimir textos con separadores personalizados",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jotprint-0.1.0.tar.gz",
+  "download_time": "2026-02-21T20:56:47.661999",
+  "package_url": "https://pypi.org/project/jotprint/"
+}

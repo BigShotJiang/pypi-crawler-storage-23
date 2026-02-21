@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-21T20:42:17.079902
-- **Total Packages**: 92
-- **Total Size**: 53.24 MB
+- **Download Time**: 2026-02-21T20:57:26.191629
+- **Total Packages**: 88
+- **Total Size**: 29.49 MB
 
 ## Packages List
+- sqliteai-vector
+- mlxgame
+- aenir
+- streamable
+- agentward
+- leaf-example
+- vllm-sr
+- amazon-ads-mcp
+- fs-report
+- keephive
+- mcp-memory-service
+- lanscape
+- eventum-generator
+- fastapi-telemetry
+- fastapi-correlation
+- shandu
+- kopipasta
+- jotprint
+- ollama-scout
+- cmxflow
+- anteroom
+- py-uds
+- nanoathens
+- zombie-squirrel
+- gqlitedb
+- overlay.library
+- overlay.language
+- leaf-framework
+- cs-models
+- valentina-python-client
+- snaptrade-python-sdk
+- dbt-fabric-samdebruyn
+- agent-integrity-proto
+- greenplanet-energy-api
+- langchoin
+- claude-mpm
+- mindroom
+- jsf-core
+- tables
+- RLGT
+- mkgp
+- polygon-mcp-server
+- ndarrow
 - meta-ads-collector
 - yt-dlp
 - secretzero
@@ -22,7 +65,6 @@
 - pop-python
 - reline
 - gagiteck
-- jsf-core
 - styrened
 - ntfsfind
 - pytgcli
@@ -38,13 +80,10 @@
 - munchboka-edutools
 - glon
 - ura-efris-sdk
-- lanscape
 - claw-swarm
-- leaf-framework
 - mcpforunityserver
 - rhinomcp-mod
 - ansel-sh
-- keephive
 - clawagents
 - dp-sequential-events
 - autogen-ext-snaprender
@@ -55,46 +94,3 @@
 - antaris-context
 - antaris-guard
 - antaris-memory
-- antaris-contracts
-- halt-rate
-- skyward
-- glm-mcp
-- adbflow
-- shieldai
-- anki-cli
-- intentgraph
-- projectdavid
-- foundry-sandbox
-- claude-mpm
-- okareo
-- moirepy
-- aiden3drenderer
-- axi-control
-- c2cwsgiutils
-- core-dev-tools
-- karaoke-gen
-- XXSim
-- plimsoll-protocol
-- aiogram-webhook
-- xtrading-models
-- attune-ai
-- ida-hcli
-- sipstuff
-- hvrt
-- graham-agent
-- jleechanorg-pr-automation
-- fetcherpay
-- pyptv
-- sports-skills
-- vecgrep
-- jleechanorg-orchestration
-- django-tasks-inprocess
-- kevros
-- ntfsdump
-- controlgate
-- agent-memory-inspector
-- continual-foragax
-- django-routines-tr
-- ergodic-insurance
-- gandalf-csr
-- Fileseq

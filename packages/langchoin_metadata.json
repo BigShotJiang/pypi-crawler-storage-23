@@ -1,0 +1,11 @@
+{
+  "name": "langchoin",
+  "version": "0.1.0",
+  "summary": "LangChoin is an open-source framework for building LLM-powered applications.",
+  "author": "EchoCode",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchoin-0.1.0.tar.gz",
+  "download_time": "2026-02-21T20:56:57.151200",
+  "package_url": "https://pypi.org/project/langchoin/"
+}

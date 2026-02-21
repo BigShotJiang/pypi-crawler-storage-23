@@ -1,11 +1,11 @@
 {
   "name": "greenplanet-energy-api",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Python API client for Green Planet Energy electricity pricing data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "greenplanet_energy_api-0.1.7.tar.gz",
-  "download_time": "2026-02-21T20:14:50.789575",
+  "download_filename": "greenplanet_energy_api-0.1.8.tar.gz",
+  "download_time": "2026-02-21T20:56:56.579478",
   "package_url": "https://pypi.org/project/greenplanet-energy-api/"
 }

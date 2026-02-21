@@ -1,11 +1,11 @@
 {
   "name": "zmk-studio-api",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Rust + Python client for the ZMK Studio RPC API (Serial + BLE)",
   "author": "Stephan Rumswinkel",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zmk_studio_api-0.1.1.tar.gz",
-  "download_time": "2026-02-21T17:18:49.360603",
+  "download_filename": "zmk_studio_api-0.2.0.tar.gz",
+  "download_time": "2026-02-21T20:57:04.315905",
   "package_url": "https://pypi.org/project/zmk-studio-api/"
 }

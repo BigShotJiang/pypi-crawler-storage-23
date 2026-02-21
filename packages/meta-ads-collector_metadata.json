@@ -1,11 +1,11 @@
 {
   "name": "meta-ads-collector",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Collect ads from the Meta (Facebook) Ad Library -- no API key required",
   "author": "Yossef",
   "license": null,
   "home_page": null,
-  "download_filename": "meta_ads_collector-1.1.0.tar.gz",
-  "download_time": "2026-02-21T17:18:52.599988",
+  "download_filename": "meta_ads_collector-1.2.0.tar.gz",
+  "download_time": "2026-02-21T20:57:02.447667",
   "package_url": "https://pypi.org/project/meta-ads-collector/"
 }

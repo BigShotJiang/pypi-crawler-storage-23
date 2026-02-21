@@ -1,0 +1,11 @@
+{
+  "name": "agent-integrity-proto",
+  "version": "0.2.1",
+  "summary": "Agent Integrity Protocol — real-time thinking block analysis for AI agent alignment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_integrity_proto-0.2.1.tar.gz",
+  "download_time": "2026-02-21T20:56:56.002388",
+  "package_url": "https://pypi.org/project/agent-integrity-proto/"
+}
