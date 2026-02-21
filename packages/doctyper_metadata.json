@@ -1,0 +1,11 @@
+{
+  "name": "doctyper",
+  "version": "0.24.1.post2",
+  "summary": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doctyper-0.24.1.post2.tar.gz",
+  "download_time": "2026-02-21T22:14:22.175081",
+  "package_url": "https://pypi.org/project/doctyper/"
+}

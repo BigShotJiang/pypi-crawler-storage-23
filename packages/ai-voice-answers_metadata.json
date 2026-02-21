@@ -1,11 +1,11 @@
 {
   "name": "ai-voice-answers",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A click-to-talk interface that turns voice questions into spoken AI answers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_voice_answers-0.1.4.tar.gz",
-  "download_time": "2026-02-21T21:55:33.608632",
+  "download_filename": "ai_voice_answers-0.1.5.tar.gz",
+  "download_time": "2026-02-21T22:14:15.621123",
   "package_url": "https://pypi.org/project/ai-voice-answers/"
 }

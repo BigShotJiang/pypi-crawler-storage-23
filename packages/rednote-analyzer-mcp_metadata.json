@@ -1,0 +1,11 @@
+{
+  "name": "rednote-analyzer-mcp",
+  "version": "0.1.2",
+  "summary": "An MCP server that enables LLMs to analyze, understand, and generate RedNote (小红书) content through structured tools and prompts.",
+  "author": "ShellyDeng08",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rednote_analyzer_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-21T22:14:36.210771",
+  "package_url": "https://pypi.org/project/rednote-analyzer-mcp/"
+}

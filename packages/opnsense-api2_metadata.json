@@ -1,0 +1,11 @@
+{
+  "name": "opnsense-api2",
+  "version": "0.7.3",
+  "summary": "OPNsense Python API bindings",
+  "author": "Park0 Janssen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opnsense_api2-0.7.3.tar.gz",
+  "download_time": "2026-02-21T22:14:10.705704",
+  "package_url": "https://pypi.org/project/opnsense-api2/"
+}

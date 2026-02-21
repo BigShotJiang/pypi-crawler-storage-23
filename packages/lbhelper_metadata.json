@@ -1,11 +1,11 @@
 {
   "name": "lbhelper",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "lbhelper is a collection of utilities helps you build your live-build based live image",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lbhelper-0.1.4.tar.gz",
-  "download_time": "2026-02-21T11:16:00.889517",
+  "download_filename": "lbhelper-0.1.5.tar.gz",
+  "download_time": "2026-02-21T22:14:17.825737",
   "package_url": "https://pypi.org/project/lbhelper/"
 }

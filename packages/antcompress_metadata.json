@@ -1,0 +1,11 @@
+{
+  "name": "antcompress",
+  "version": "0.3.0",
+  "summary": "🐜 Ant — High-ratio lossless compressor + Agent Mode that saves 70–90% AI tokens on code repos",
+  "author": "Ayobami Oluwaseunfunmi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "antcompress-0.3.0.tar.gz",
+  "download_time": "2026-02-21T22:14:08.474322",
+  "package_url": "https://pypi.org/project/antcompress/"
+}

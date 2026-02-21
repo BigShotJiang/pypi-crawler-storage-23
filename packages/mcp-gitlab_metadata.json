@@ -1,0 +1,11 @@
+{
+  "name": "mcp-gitlab",
+  "version": "0.0.1",
+  "summary": "MCP server for GitLab API — projects, MRs, pipelines, CI/CD variables, approvals, and more",
+  "author": "vish288",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_gitlab-0.0.1.tar.gz",
+  "download_time": "2026-02-21T22:14:21.093113",
+  "package_url": "https://pypi.org/project/mcp-gitlab/"
+}

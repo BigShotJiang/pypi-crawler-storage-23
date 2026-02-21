@@ -1,0 +1,11 @@
+{
+  "name": "tgcrypto-rs",
+  "version": "2.1.13",
+  "summary": "High-performance Rust-powered TgCrypto module providing secure and optimized MTProto cryptography for Pyrogram.",
+  "author": "Troublescope",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/troublescope/tgcrypto-rs",
+  "download_filename": "tgcrypto_rs-2.1.13.tar.gz",
+  "download_time": "2026-02-21T22:14:37.884097",
+  "package_url": "https://pypi.org/project/tgcrypto-rs/"
+}

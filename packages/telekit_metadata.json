@@ -1,0 +1,11 @@
+{
+  "name": "telekit",
+  "version": "1.11.0",
+  "summary": "Declarative, developer-friendly library for building Telegram bots",
+  "author": "romashka",
+  "license": "MIT",
+  "home_page": "https://github.com/Romashkaa/telekit",
+  "download_filename": "telekit-1.11.0.tar.gz",
+  "download_time": "2026-02-21T22:14:12.330647",
+  "package_url": "https://pypi.org/project/telekit/"
+}

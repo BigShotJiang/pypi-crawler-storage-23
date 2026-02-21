@@ -1,11 +1,11 @@
 {
   "name": "embedding-visualizer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Visualize text embeddings with interactive plots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embedding_visualizer-0.1.0.tar.gz",
-  "download_time": "2026-02-21T21:55:09.097919",
+  "download_filename": "embedding_visualizer-0.1.2.tar.gz",
+  "download_time": "2026-02-21T22:14:38.955964",
   "package_url": "https://pypi.org/project/embedding-visualizer/"
 }

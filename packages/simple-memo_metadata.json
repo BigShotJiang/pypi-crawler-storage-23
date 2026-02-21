@@ -1,0 +1,11 @@
+{
+  "name": "simple-memo",
+  "version": "0.2.0",
+  "summary": "A simple, MIT-licensed CLI for Apple Notes & Reminders on macOS",
+  "author": "Nenad Nikolin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_memo-0.2.0.tar.gz",
+  "download_time": "2026-02-21T22:14:17.291731",
+  "package_url": "https://pypi.org/project/simple-memo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "awx-mcp-server",
-  "version": "1.1.5",
-  "summary": "AWX MCP Server - Control AWX/Ansible Tower through the Model Context Protocol",
+  "version": "1.1.6",
+  "summary": "AWX MCP Server - Control AWX/AAP/Ansible Tower through the Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "awx_mcp_server-1.1.5.tar.gz",
-  "download_time": "2026-02-21T19:56:53.427458",
+  "download_filename": "awx_mcp_server-1.1.6.tar.gz",
+  "download_time": "2026-02-21T22:14:22.711820",
   "package_url": "https://pypi.org/project/awx-mcp-server/"
 }
