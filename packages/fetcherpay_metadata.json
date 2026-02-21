@@ -1,0 +1,11 @@
+{
+  "name": "fetcherpay",
+  "version": "1.0.0",
+  "summary": "FetcherPay Python SDK",
+  "author": "FetcherPay",
+  "license": null,
+  "home_page": "https://github.com/fetcherpay/fetcherpay-python",
+  "download_filename": "fetcherpay-1.0.0.tar.gz",
+  "download_time": "2026-02-21T20:42:09.358992",
+  "package_url": "https://pypi.org/project/fetcherpay/"
+}

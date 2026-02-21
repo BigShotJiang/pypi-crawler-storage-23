@@ -1,0 +1,11 @@
+{
+  "name": "django-tasks-inprocess",
+  "version": "0.0.1a1",
+  "summary": "A Django Tasks backend inspired by Starlette's In-process Background Workers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tasks_inprocess-0.0.1a1.tar.gz",
+  "download_time": "2026-02-21T20:42:11.919375",
+  "package_url": "https://pypi.org/project/django-tasks-inprocess/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hvrt",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "summary": "Hierarchical Variance-Retaining Transformer (HVRT) — variance-aware sample transformation for tabular data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hvrt-2.1.0.tar.gz",
-  "download_time": "2026-02-20T23:49:16.615851",
+  "download_filename": "hvrt-2.1.2.tar.gz",
+  "download_time": "2026-02-21T20:42:07.812985",
   "package_url": "https://pypi.org/project/hvrt/"
 }

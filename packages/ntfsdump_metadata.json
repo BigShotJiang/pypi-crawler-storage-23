@@ -1,11 +1,11 @@
 {
   "name": "ntfsdump",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "An efficient tool for extracting files, directories, and alternate data streams directly from NTFS image files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ntfsdump-3.0.2.tar.gz",
-  "download_time": "2026-02-21T19:44:46.112650",
+  "download_filename": "ntfsdump-3.0.3.tar.gz",
+  "download_time": "2026-02-21T20:42:12.938932",
   "package_url": "https://pypi.org/project/ntfsdump/"
 }

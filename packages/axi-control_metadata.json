@@ -1,11 +1,11 @@
 {
   "name": "axi-control",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axi_control-0.1.2.tar.gz",
-  "download_time": "2026-02-21T07:57:47.123692",
+  "download_filename": "axi_control-0.1.3.tar.gz",
+  "download_time": "2026-02-21T20:42:02.062526",
   "package_url": "https://pypi.org/project/axi-control/"
 }

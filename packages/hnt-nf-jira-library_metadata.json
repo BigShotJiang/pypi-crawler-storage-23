@@ -1,11 +1,11 @@
 {
   "name": "hnt-nf-jira-library",
-  "version": "0.4.34",
+  "version": "0.4.35",
   "summary": "Lib to access nf from Jira",
   "author": "Guillerme Rezende Manhaes",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "hnt_nf_jira_library-0.4.34.tar.gz",
-  "download_time": "2026-02-21T20:15:04.948888",
+  "download_filename": "hnt_nf_jira_library-0.4.35.tar.gz",
+  "download_time": "2026-02-21T20:41:42.882303",
   "package_url": "https://pypi.org/project/hnt-nf-jira-library/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-ckeditor-5",
+  "version": "0.2.20",
+  "summary": "CKEditor 5 for Django.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_ckeditor_5-0.2.20.tar.gz",
+  "download_time": "2026-02-21T20:41:30.657777",
+  "package_url": "https://pypi.org/project/django-ckeditor-5/"
+}
