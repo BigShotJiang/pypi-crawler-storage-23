@@ -1,0 +1,11 @@
+{
+  "name": "looselips",
+  "version": "0.2.0",
+  "summary": "Scan your LLM chat exports for personal information",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "looselips-0.2.0.tar.gz",
+  "download_time": "2026-02-21T13:54:47.689116",
+  "package_url": "https://pypi.org/project/looselips/"
+}

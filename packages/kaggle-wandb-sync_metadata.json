@@ -1,0 +1,11 @@
+{
+  "name": "kaggle-wandb-sync",
+  "version": "0.1.0",
+  "summary": "A CLI tool to sync W&B offline runs from Kaggle Notebooks via GitHub Actions",
+  "author": "yasunorim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaggle_wandb_sync-0.1.0.tar.gz",
+  "download_time": "2026-02-21T13:54:56.418613",
+  "package_url": "https://pypi.org/project/kaggle-wandb-sync/"
+}

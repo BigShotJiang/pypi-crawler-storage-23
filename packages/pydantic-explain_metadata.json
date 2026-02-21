@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-explain",
+  "version": "0.0.1a0",
+  "summary": "Human-readable error messages for Pydantic validation errors.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_explain-0.0.1a0.tar.gz",
+  "download_time": "2026-02-21T13:54:48.265804",
+  "package_url": "https://pypi.org/project/pydantic-explain/"
+}

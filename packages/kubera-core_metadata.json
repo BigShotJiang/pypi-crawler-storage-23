@@ -1,11 +1,11 @@
 {
   "name": "kubera-core",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Personal asset management backend",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kubera_core-0.1.1.tar.gz",
-  "download_time": "2026-02-21T10:17:16.528749",
+  "download_filename": "kubera_core-0.2.1.tar.gz",
+  "download_time": "2026-02-21T13:54:54.596556",
   "package_url": "https://pypi.org/project/kubera-core/"
 }

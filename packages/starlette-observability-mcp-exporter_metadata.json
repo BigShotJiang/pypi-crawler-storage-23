@@ -1,0 +1,11 @@
+{
+  "name": "starlette-observability-mcp-exporter",
+  "version": "0.1.0",
+  "summary": "Benign slopsquatting research package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_observability_mcp_exporter-0.1.0.tar.gz",
+  "download_time": "2026-02-21T13:54:36.176577",
+  "package_url": "https://pypi.org/project/starlette-observability-mcp-exporter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "naked-web",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "The Swiss Army Knife for Web Scraping, Search, and Browser Automation - dual Selenium + Playwright engines under one clean API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "naked_web-1.1.0.tar.gz",
-  "download_time": "2026-02-21T11:36:23.049216",
+  "download_filename": "naked_web-1.2.0.tar.gz",
+  "download_time": "2026-02-21T13:55:12.255295",
   "package_url": "https://pypi.org/project/naked-web/"
 }

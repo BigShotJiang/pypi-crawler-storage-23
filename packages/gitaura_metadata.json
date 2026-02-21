@@ -1,0 +1,11 @@
+{
+  "name": "gitaura",
+  "version": "0.1.3",
+  "summary": "A Python CLI for git repository analytics: commits, file churn, branches, hotspots",
+  "author": "Harsh Nagarkar",
+  "license": "MIT",
+  "home_page": "https://github.com/HarshNagarkar17/gitaura",
+  "download_filename": "gitaura-0.1.3.tar.gz",
+  "download_time": "2026-02-21T13:54:56.994383",
+  "package_url": "https://pypi.org/project/gitaura/"
+}
