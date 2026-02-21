@@ -1,11 +1,11 @@
 {
   "name": "bussdcc",
-  "version": "0.20.1",
+  "version": "0.22.1",
   "summary": "A cybernetic runtime for Python, providing a resilient core for managing devices, services, and processes in autonomous or IoT systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc-0.20.1.tar.gz",
-  "download_time": "2026-02-18T23:29:20.496143",
+  "download_filename": "bussdcc-0.22.1.tar.gz",
+  "download_time": "2026-02-21T14:19:06.227202",
   "package_url": "https://pypi.org/project/bussdcc/"
 }

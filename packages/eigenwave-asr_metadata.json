@@ -1,11 +1,11 @@
 {
   "name": "eigenwave-asr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "EigenWave-ASR: High-Performance Speech Recognition with Multi-Scale Robin Features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eigenwave_asr-1.0.0.tar.gz",
-  "download_time": "2026-02-21T13:54:51.142422",
+  "download_filename": "eigenwave_asr-1.0.1.tar.gz",
+  "download_time": "2026-02-21T14:19:07.954312",
   "package_url": "https://pypi.org/project/eigenwave-asr/"
 }

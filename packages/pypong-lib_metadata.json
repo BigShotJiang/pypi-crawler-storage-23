@@ -1,0 +1,11 @@
+{
+  "name": "pypong-lib",
+  "version": "1.0.2",
+  "summary": "The Pong library for Python. Build terminal Pong games in minutes!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypong_lib-1.0.2.tar.gz",
+  "download_time": "2026-02-21T14:18:27.972641",
+  "package_url": "https://pypi.org/project/pypong-lib/"
+}

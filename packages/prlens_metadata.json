@@ -1,11 +1,11 @@
 {
   "name": "prlens",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "AI-powered GitHub PR code reviewer for teams",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prlens-0.1.5.tar.gz",
-  "download_time": "2026-02-21T10:17:55.540825",
+  "download_filename": "prlens-0.1.7.tar.gz",
+  "download_time": "2026-02-21T14:18:44.397197",
   "package_url": "https://pypi.org/project/prlens/"
 }

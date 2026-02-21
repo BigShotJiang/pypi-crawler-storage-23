@@ -1,11 +1,11 @@
 {
   "name": "wetg",
-  "version": "7.1.2",
+  "version": "7.1.3",
   "summary": "WETG v7 Super Weox — One-File Telegram Bot Engine. Write Telegram bots in a simple scripting language.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wetg-7.1.2.tar.gz",
-  "download_time": "2026-02-21T12:25:23.823201",
+  "download_filename": "wetg-7.1.3.tar.gz",
+  "download_time": "2026-02-21T14:18:34.882654",
   "package_url": "https://pypi.org/project/wetg/"
 }

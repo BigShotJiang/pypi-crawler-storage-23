@@ -1,0 +1,11 @@
+{
+  "name": "byteforge-telegram",
+  "version": "0.1.5",
+  "summary": "Generic Telegram bot notification and webhook management library",
+  "author": "Jason Byteforge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byteforge_telegram-0.1.5.tar.gz",
+  "download_time": "2026-02-21T14:18:55.653109",
+  "package_url": "https://pypi.org/project/byteforge-telegram/"
+}

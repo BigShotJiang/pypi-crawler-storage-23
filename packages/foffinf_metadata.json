@@ -1,0 +1,11 @@
+{
+  "name": "foffinf",
+  "version": "0.3",
+  "summary": "A way to use stdlib's logging with the new Format Specification Mini-Language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foffinf-0.3.tar.gz",
+  "download_time": "2026-02-21T14:19:02.510022",
+  "package_url": "https://pypi.org/project/foffinf/"
+}

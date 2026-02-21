@@ -1,11 +1,11 @@
 {
   "name": "prlens-core",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Core review engine for prlens — AI-powered GitHub PR code reviewer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prlens_core-0.1.5.tar.gz",
-  "download_time": "2026-02-21T10:17:56.690130",
+  "download_filename": "prlens_core-0.1.7.tar.gz",
+  "download_time": "2026-02-21T14:18:45.548172",
   "package_url": "https://pypi.org/project/prlens-core/"
 }

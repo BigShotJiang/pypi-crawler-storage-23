@@ -1,11 +1,11 @@
 {
   "name": "anylabeling",
-  "version": "0.4.31",
+  "version": "0.4.33",
   "summary": "Effortless data labeling with AI support",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "anylabeling-0.4.31.tar.gz",
-  "download_time": "2026-02-21T13:54:53.449656",
+  "download_filename": "anylabeling-0.4.33.tar.gz",
+  "download_time": "2026-02-21T14:18:51.198627",
   "package_url": "https://pypi.org/project/anylabeling/"
 }
