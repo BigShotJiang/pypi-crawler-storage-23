@@ -1,16 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-21T19:45:22.155813
-- **Total Packages**: 81
-- **Total Size**: 23.37 MB
+- **Download Time**: 2026-02-21T19:57:26.191993
+- **Total Packages**: 83
+- **Total Size**: 19.36 MB
 
 ## Packages List
+- undore-rbac
+- vgi-rpc
+- bicep-whatif-advisor
+- google-docs-mcp-server
+- google-workspace-unlimited
+- axm-audit
+- dj-control-room
+- spectrik
+- pydantic-wizard
+- kaggle-wandb-sync
+- predicate-authority
+- scpn-fusion
+- predicate-contracts
+- aiogram-webhook
+- keephive
+- flake8-sqlalchemy2
+- evercoast-cli
+- git-pnp
+- rhetor
+- wse-server
+- pyrudof
+- bup
 - awx-mcp-server
+- laminarnet
+- ai-agent-governance
+- jetsontools
+- predicate-authority-sidecar
+- myogait
+- youam
+- drp-cli
+- django-routines-tr
 - libretranslate
 - aiobmsble
 - claude-mpm
-- evercoast-cli
 - core-dev-tools
 - namel3ss
 - lanscape
@@ -25,7 +54,6 @@
 - llm-classifier
 - loreguard-cli
 - grdl-sartoolbox
-- predicate-authority-sidecar
 - sandlerchemeq
 - grdl-runtime
 - dbwarden
@@ -39,7 +67,6 @@
 - cyberdash
 - gando
 - wisent
-- laminarnet
 - pyNMMS
 - bugsink
 - nexo-schemas
@@ -51,39 +78,14 @@
 - helm-mcp
 - zombie-escape
 - wxmp
-- wse-server
 - mcp-server-odoo
 - qa-automation-python
 - steady-queue
 - Anisearch
 - nimoh-be-django-base
-- drp-cli
 - grdl
 - airweave-sdk
 - mindglow
 - agentcage
 - pulse5ctl
 - fmd-api
-- buganise
-- knowledge-fidelity
-- xyzgraph
-- mcpforunityserver
-- clm-core
-- orbis-pay-sdk
-- aiogram-ui-router
-- charter-governance
-- tiny-agent-os
-- tkutils
-- foliotrack
-- null-client
-- aiinbx
-- value-network
-- cmd2
-- lazyssh
-- wp_python
-- venver
-- autotimm
-- memmap-replay-buffer
-- chitin-engine-lib
-- librelyrics-spotify
-- nearid-sdk

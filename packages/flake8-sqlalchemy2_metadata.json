@@ -1,11 +1,11 @@
 {
   "name": "flake8-sqlalchemy2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "flake8 plugin for SQLAlchemy 2.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flake8_sqlalchemy2-0.2.0.tar.gz",
-  "download_time": "2026-02-20T19:05:50.996463",
+  "download_filename": "flake8_sqlalchemy2-0.3.0.tar.gz",
+  "download_time": "2026-02-21T19:56:48.945674",
   "package_url": "https://pypi.org/project/flake8-sqlalchemy2/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "foundry-sandbox",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "summary": "Docker-based sandbox environment for running Claude Code with isolated credentials",
   "author": "Foundry Works",
   "license": null,
   "home_page": null,
-  "download_filename": "foundry_sandbox-0.19.0.tar.gz",
-  "download_time": "2026-02-21T19:44:45.601091",
+  "download_filename": "foundry_sandbox-0.19.1.tar.gz",
+  "download_time": "2026-02-21T19:57:03.132667",
   "package_url": "https://pypi.org/project/foundry-sandbox/"
 }

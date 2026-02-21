@@ -1,11 +1,11 @@
 {
   "name": "evercoast-cli",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Evercoast CLI — upload files to your company's S3 bucket",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evercoast_cli-0.1.6.tar.gz",
-  "download_time": "2026-02-21T19:44:41.708320",
+  "download_filename": "evercoast_cli-0.1.7.tar.gz",
+  "download_time": "2026-02-21T19:56:49.488627",
   "package_url": "https://pypi.org/project/evercoast-cli/"
 }
