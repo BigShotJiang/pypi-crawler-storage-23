@@ -1,0 +1,11 @@
+{
+  "name": "vyasa",
+  "version": "0.3.36",
+  "summary": "A lightweight, elegant blogging platform built with FastHTML",
+  "author": "Yeshwanth",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yeshwanth/vyasa",
+  "download_filename": "vyasa-0.3.36.tar.gz",
+  "download_time": "2026-02-21T07:01:05.858485",
+  "package_url": "https://pypi.org/project/vyasa/"
+}

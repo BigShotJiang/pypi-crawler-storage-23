@@ -1,11 +1,11 @@
 {
   "name": "gds-viz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Mermaid diagram renderers for gds-framework specifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gds_viz-0.1.0.tar.gz",
-  "download_time": "2026-02-21T05:36:58.610688",
+  "download_filename": "gds_viz-0.1.1.tar.gz",
+  "download_time": "2026-02-21T07:01:38.956609",
   "package_url": "https://pypi.org/project/gds-viz/"
 }

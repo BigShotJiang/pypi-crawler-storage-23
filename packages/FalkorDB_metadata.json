@@ -1,0 +1,11 @@
+{
+  "name": "FalkorDB",
+  "version": "1.6.0",
+  "summary": "Python client for interacting with FalkorDB database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "falkordb-1.6.0.tar.gz",
+  "download_time": "2026-02-21T07:01:27.547671",
+  "package_url": "https://pypi.org/project/FalkorDB/"
+}

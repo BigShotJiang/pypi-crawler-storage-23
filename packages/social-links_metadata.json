@@ -1,0 +1,11 @@
+{
+  "name": "social-links",
+  "version": "1.3.1",
+  "summary": "Python library to validate, sanitize, and detect social media URLs. Support for LinkedIn, Instagram, TikTok, X/Twitter, GitHub, Facebook, YouTube, and 50+ platforms. Features automatic URL normalization and zero dependencies. Easy to use, regex-powered, and customizable.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "social_links-1.3.1.tar.gz",
+  "download_time": "2026-02-21T07:01:24.225329",
+  "package_url": "https://pypi.org/project/social-links/"
+}

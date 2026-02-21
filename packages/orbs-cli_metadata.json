@@ -1,0 +1,11 @@
+{
+  "name": "orbs-cli",
+  "version": "0.2.0",
+  "summary": "Orbs - an automation framework for Web, Mobile (Appium), and API testing designed to grow with your team",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orbs_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-21T07:01:17.235423",
+  "package_url": "https://pypi.org/project/orbs-cli/"
+}

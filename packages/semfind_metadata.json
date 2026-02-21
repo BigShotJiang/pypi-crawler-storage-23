@@ -1,0 +1,11 @@
+{
+  "name": "semfind",
+  "version": "0.1.2",
+  "summary": "Semantic grep for the terminal — search files by meaning, not pattern",
+  "author": "PaperBoardOfficial",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semfind-0.1.2.tar.gz",
+  "download_time": "2026-02-21T07:01:13.999534",
+  "package_url": "https://pypi.org/project/semfind/"
+}

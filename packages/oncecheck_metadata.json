@@ -1,0 +1,11 @@
+{
+  "name": "oncecheck",
+  "version": "0.7.3",
+  "summary": "A terminal-first CLI tool that scans iOS, Android, and Web projects for launch-critical compliance risks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oncecheck-0.7.3.tar.gz",
+  "download_time": "2026-02-21T07:01:19.372605",
+  "package_url": "https://pypi.org/project/oncecheck/"
+}

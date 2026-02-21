@@ -1,11 +1,11 @@
 {
   "name": "lumenova-beacon",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "summary": "Lumenova Beacon SDK - A Python SDK for observability tracing with OpenTelemetry-compatible span export",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lumenova_beacon-2.4.6.tar.gz",
-  "download_time": "2026-02-20T15:36:56.116274",
+  "download_filename": "lumenova_beacon-2.4.7.tar.gz",
+  "download_time": "2026-02-21T07:01:06.931056",
   "package_url": "https://pypi.org/project/lumenova-beacon/"
 }

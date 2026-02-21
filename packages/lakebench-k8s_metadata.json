@@ -1,11 +1,11 @@
 {
   "name": "lakebench-k8s",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Deploy and benchmark lakehouse stacks on Kubernetes",
   "author": "Andrew Sillifant",
   "license": null,
   "home_page": null,
-  "download_filename": "lakebench_k8s-1.0.5.tar.gz",
-  "download_time": "2026-02-21T06:08:05.209172",
+  "download_filename": "lakebench_k8s-1.0.7.tar.gz",
+  "download_time": "2026-02-21T07:01:02.052510",
   "package_url": "https://pypi.org/project/lakebench-k8s/"
 }

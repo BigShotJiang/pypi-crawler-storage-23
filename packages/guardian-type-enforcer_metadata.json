@@ -1,0 +1,11 @@
+{
+  "name": "guardian-type-enforcer",
+  "version": "2.0.0",
+  "summary": "Maximum performance runtime type enforcement using CPython C API.",
+  "author": "Senior Python Engineer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "guardian_type_enforcer-2.0.0.tar.gz",
+  "download_time": "2026-02-21T07:01:02.617300",
+  "package_url": "https://pypi.org/project/guardian-type-enforcer/"
+}
