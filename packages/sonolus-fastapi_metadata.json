@@ -1,11 +1,11 @@
 {
   "name": "sonolus-fastapi",
-  "version": "0.5.6",
+  "version": "0.5.6.3",
   "summary": "FastAPI wrapper for Sonolus server creation and management This project is still under development.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sonolus_fastapi-0.5.6.tar.gz",
-  "download_time": "2026-02-19T12:38:58.843159",
+  "download_filename": "sonolus_fastapi-0.5.6.3.tar.gz",
+  "download_time": "2026-02-21T08:54:06.091893",
   "package_url": "https://pypi.org/project/sonolus-fastapi/"
 }

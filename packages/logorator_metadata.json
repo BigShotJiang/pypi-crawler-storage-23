@@ -1,11 +1,11 @@
 {
   "name": "logorator",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "A powerful decorator-based logging library with automatic depth tracking, log levels, smart argument formatting, and full async support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logorator-2.0.2.tar.gz",
-  "download_time": "2026-02-21T08:23:27.232655",
+  "download_filename": "logorator-2.0.3.tar.gz",
+  "download_time": "2026-02-21T08:53:53.203913",
   "package_url": "https://pypi.org/project/logorator/"
 }

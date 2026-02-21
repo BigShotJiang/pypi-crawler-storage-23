@@ -1,11 +1,11 @@
 {
   "name": "TikLocal",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "summary": "A local media server that combines the features of TikTok and Pinterest",
   "author": "ChanMo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tiklocal-0.8.5.tar.gz",
-  "download_time": "2026-02-20T15:36:17.908156",
+  "download_filename": "tiklocal-0.8.6.tar.gz",
+  "download_time": "2026-02-21T08:53:49.622815",
   "package_url": "https://pypi.org/project/TikLocal/"
 }

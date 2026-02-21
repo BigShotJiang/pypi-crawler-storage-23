@@ -1,0 +1,11 @@
+{
+  "name": "long-run-agent",
+  "version": "2.0.0",
+  "summary": "A powerful framework for managing long-running AI Agent tasks",
+  "author": "Long-Running Agent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "long_run_agent-2.0.0.tar.gz",
+  "download_time": "2026-02-21T08:54:15.318022",
+  "package_url": "https://pypi.org/project/long-run-agent/"
+}

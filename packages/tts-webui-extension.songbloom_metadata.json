@@ -1,11 +1,11 @@
 {
   "name": "tts-webui-extension.songbloom",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A template extension for TTS Generation WebUI",
   "author": "rsxdalv",
   "license": null,
   "home_page": null,
-  "download_filename": "tts_webui_extension_songbloom-0.1.4-py3-none-any.whl",
-  "download_time": "2026-02-21T07:57:42.506675",
+  "download_filename": "tts_webui_extension_songbloom-0.1.5-py3-none-any.whl",
+  "download_time": "2026-02-21T08:53:58.829345",
   "package_url": "https://pypi.org/project/tts-webui-extension.songbloom/"
 }

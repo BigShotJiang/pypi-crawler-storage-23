@@ -1,0 +1,11 @@
+{
+  "name": "geosai",
+  "version": "0.0.1",
+  "summary": "For faster proccessing geofile",
+  "author": "Songyan Zhu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/songyanzhu/geosai",
+  "download_filename": "geosai-0.0.1.tar.gz",
+  "download_time": "2026-02-21T08:53:46.555474",
+  "package_url": "https://pypi.org/project/geosai/"
+}

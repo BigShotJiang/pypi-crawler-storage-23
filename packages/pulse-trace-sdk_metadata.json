@@ -1,0 +1,11 @@
+{
+  "name": "pulse-trace-sdk",
+  "version": "0.2.4",
+  "summary": "Pulse Python SDK for tracing LLM providers",
+  "author": "Pulse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pulse_trace_sdk-0.2.4.tar.gz",
+  "download_time": "2026-02-21T08:53:47.068823",
+  "package_url": "https://pypi.org/project/pulse-trace-sdk/"
+}

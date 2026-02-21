@@ -1,11 +1,11 @@
 {
   "name": "kevros",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for the Kevros A2A Governance Gateway — cryptographic action verification, hash-chained provenance, and compliance packaging for AI agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kevros-0.1.0.tar.gz",
-  "download_time": "2026-02-21T08:23:34.074157",
+  "download_filename": "kevros-0.2.0.tar.gz",
+  "download_time": "2026-02-21T08:54:10.194668",
   "package_url": "https://pypi.org/project/kevros/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ppdeep",
+  "version": "20260221",
+  "summary": "Pure-Python library for computing fuzzy hashes (ssdeep)",
+  "author": "Marcin Ulikowski",
+  "license": "ASL 2.0",
+  "home_page": "https://github.com/elceef/ppdeep",
+  "download_filename": "ppdeep-20260221.tar.gz",
+  "download_time": "2026-02-21T08:54:15.828753",
+  "package_url": "https://pypi.org/project/ppdeep/"
+}
