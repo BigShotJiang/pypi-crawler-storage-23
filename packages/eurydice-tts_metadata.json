@@ -1,0 +1,11 @@
+{
+  "name": "eurydice-tts",
+  "version": "0.2.0",
+  "summary": "Text-to-speech library bridging to Orpheus TTS model - bringing text to life",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eurydice_tts-0.2.0.tar.gz",
+  "download_time": "2026-02-21T15:42:21.826901",
+  "package_url": "https://pypi.org/project/eurydice-tts/"
+}

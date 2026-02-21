@@ -1,0 +1,11 @@
+{
+  "name": "codeix",
+  "version": "0.5.0",
+  "summary": "Fast semantic code search for AI agents — find symbols, references, and callers across any codebase",
+  "author": "Montane Tech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeix-0.5.0.tar.gz",
+  "download_time": "2026-02-21T15:42:13.158225",
+  "package_url": "https://pypi.org/project/codeix/"
+}

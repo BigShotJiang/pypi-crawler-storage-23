@@ -1,0 +1,11 @@
+{
+  "name": "eidos-engine",
+  "version": "1.3.0",
+  "summary": "A scalable and flexible ETL framework for distributed data processing.",
+  "author": "Kevin Zezel Gomes, Felipe Bizzo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eidos_engine-1.3.0.tar.gz",
+  "download_time": "2026-02-21T15:42:14.771570",
+  "package_url": "https://pypi.org/project/eidos-engine/"
+}

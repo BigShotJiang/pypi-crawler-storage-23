@@ -1,11 +1,11 @@
 {
   "name": "safai",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "summary": "CLI that cleans up folder by intelligently organizing it",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safai-0.4.6.tar.gz",
-  "download_time": "2026-02-21T15:16:14.051571",
+  "download_filename": "safai-0.4.7.tar.gz",
+  "download_time": "2026-02-21T15:42:31.531183",
   "package_url": "https://pypi.org/project/safai/"
 }

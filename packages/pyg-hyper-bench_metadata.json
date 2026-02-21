@@ -1,0 +1,11 @@
+{
+  "name": "pyg-hyper-bench",
+  "version": "0.1.0",
+  "summary": "Comprehensive benchmarking framework for hypergraph learning with PyTorch Lightning integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyg_hyper_bench-0.1.0.tar.gz",
+  "download_time": "2026-02-21T15:41:56.616010",
+  "package_url": "https://pypi.org/project/pyg-hyper-bench/"
+}

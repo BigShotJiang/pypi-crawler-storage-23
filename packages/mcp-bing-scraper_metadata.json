@@ -1,0 +1,11 @@
+{
+  "name": "mcp-bing-scraper",
+  "version": "0.1.1",
+  "summary": "Free Bing search MCP server for Claude Code - No API key required",
+  "author": "Bing Search MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_bing_scraper-0.1.1.tar.gz",
+  "download_time": "2026-02-21T15:42:03.962082",
+  "package_url": "https://pypi.org/project/mcp-bing-scraper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hetudb",
+  "version": "0.1.0",
+  "summary": "河图：基于ECS理念，整合数据库和逻辑的游戏服务器框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hetudb-0.1.0.tar.gz",
+  "download_time": "2026-02-21T15:42:16.455077",
+  "package_url": "https://pypi.org/project/hetudb/"
+}

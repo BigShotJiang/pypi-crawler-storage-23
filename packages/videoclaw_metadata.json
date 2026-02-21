@@ -1,0 +1,11 @@
+{
+  "name": "videoclaw",
+  "version": "0.1.1",
+  "summary": "AI 视频创作 CLI 工具，给 Claude Code 用",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "videoclaw-0.1.1.tar.gz",
+  "download_time": "2026-02-21T15:42:27.757824",
+  "package_url": "https://pypi.org/project/videoclaw/"
+}
