@@ -1,0 +1,11 @@
+{
+  "name": "nano-crucible",
+  "version": "2.0.0",
+  "summary": "Python Client for Crucible - National Archive for NSRC Observations",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "nano_crucible-2.0.0.tar.gz",
+  "download_time": "2026-02-21T01:06:23.022659",
+  "package_url": "https://pypi.org/project/nano-crucible/"
+}

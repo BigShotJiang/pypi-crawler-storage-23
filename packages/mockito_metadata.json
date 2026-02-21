@@ -1,0 +1,11 @@
+{
+  "name": "mockito",
+  "version": "1.5.5",
+  "summary": "Spying framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mockito-1.5.5.tar.gz",
+  "download_time": "2026-02-21T01:06:26.034474",
+  "package_url": "https://pypi.org/project/mockito/"
+}

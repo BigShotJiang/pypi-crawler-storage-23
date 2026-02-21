@@ -1,0 +1,11 @@
+{
+  "name": "csdoc",
+  "version": "0.1.2",
+  "summary": "Documentation generator for Csound projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csdoc-0.1.2.tar.gz",
+  "download_time": "2026-02-21T01:06:25.061624",
+  "package_url": "https://pypi.org/project/csdoc/"
+}

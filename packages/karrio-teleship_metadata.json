@@ -1,11 +1,11 @@
 {
   "name": "karrio-teleship",
-  "version": "2026.1.12",
+  "version": "2026.1.13",
   "summary": "Karrio - Teleship Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_teleship-2026.1.12-py3-none-any.whl",
-  "download_time": "2026-02-20T23:03:34.536897",
+  "download_filename": "karrio_teleship-2026.1.13-py3-none-any.whl",
+  "download_time": "2026-02-21T01:06:57.558548",
   "package_url": "https://pypi.org/project/karrio-teleship/"
 }

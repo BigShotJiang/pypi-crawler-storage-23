@@ -1,0 +1,11 @@
+{
+  "name": "preduce",
+  "version": "0.2.0",
+  "summary": "Compress LLM prompts 50%+ while preserving meaning. Lightweight API client.",
+  "author": "Eddy Ding",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "preduce-0.2.0.tar.gz",
+  "download_time": "2026-02-21T01:06:15.806413",
+  "package_url": "https://pypi.org/project/preduce/"
+}

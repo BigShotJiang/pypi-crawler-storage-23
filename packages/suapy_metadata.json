@@ -1,0 +1,11 @@
+{
+  "name": "suapy",
+  "version": "1.0.0",
+  "summary": "Uma biblioteca Python incrível e em pt-BR focada na vida do aluno acessando a API do SUAP (IFRN).",
+  "author": "Kellyson",
+  "license": "MIT",
+  "home_page": "https://github.com/kellyson71/suapy",
+  "download_filename": "suapy-1.0.0.tar.gz",
+  "download_time": "2026-02-21T01:06:49.274777",
+  "package_url": "https://pypi.org/project/suapy/"
+}
