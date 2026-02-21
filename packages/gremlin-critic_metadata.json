@@ -1,11 +1,11 @@
 {
   "name": "gremlin-critic",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Pre-ship risk critic (CLI + Python library) — surfaces breaking risk scenarios before they reach production",
   "author": "Abhi",
   "license": null,
   "home_page": null,
-  "download_filename": "gremlin_critic-0.2.2.tar.gz",
-  "download_time": "2026-02-20T20:53:33.908966",
+  "download_filename": "gremlin_critic-0.3.0.tar.gz",
+  "download_time": "2026-02-21T23:57:49.667891",
   "package_url": "https://pypi.org/project/gremlin-critic/"
 }

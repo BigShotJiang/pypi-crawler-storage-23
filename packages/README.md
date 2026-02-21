@@ -1,11 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-21T23:45:27.680025
-- **Total Packages**: 82
-- **Total Size**: 19.68 MB
+- **Download Time**: 2026-02-21T23:58:21.214138
+- **Total Packages**: 88
+- **Total Size**: 20.2 MB
 
 ## Packages List
+- flet-webview
+- flet-video
+- flet-secure-storage
+- sapiens-attention
+- flet-rive
+- flet-permission-handler
+- flet-map
+- pytgcli
+- flet-lottie
+- flet-geolocator
+- flet-flashlight
+- autonomous-app
+- flet-datatable2
+- steer-materials
+- flet-color-pickers
+- flet-code-editor
+- flet-charts
+- flet-audio-recorder
+- flet-audio
+- jamma
+- flet-ads
+- flet-web
+- claude-mpm
+- steer-core
+- flet-desktop-light
+- fenliu
+- superoptix
+- gremlin-critic
+- breakpoint-ai
+- openpurse
+- flet-desktop
+- govpal-reach
+- flet-cli
+- flet
+- navigator-auth
+- coding-academy-lecture-manager
+- catrole
+- fluxflow-ui
+- weaviate-orm
+- tollbooth-dpyc
+- navigator-session
+- overlay.library
+- overlay.language
+- thisispamela
+- sanna
+- projectnetzero
+- surfinguard
+- cad-to-dagmc
+- sapiens-model
+- kaggle-wandb-sync
+- langgraphics
+- pyltover
+- discovery-engine-api
+- speakhuman
+- contextpilot
+- mem0-matrix-mcp
+- voice-vibecoder
+- laminarnet
 - isaac-acp
 - pyplotdesigner
 - usecli
@@ -16,13 +74,11 @@
 - foundry-sandbox
 - eitype
 - aivora
-- weaviate-orm
 - extractforms
 - bedrock-server-manager
 - nv-ingest
 - nv-ingest-client
 - nv-ingest-api
-- pytgcli
 - pytest-gremlins
 - wisent
 - lanscape
@@ -36,55 +92,5 @@
 - buildaquery
 - keep-skill
 - kaggle-notebook-deploy
-- kaggle-wandb-sync
 - occystrap
 - amcl-server
-- shandu
-- deltacycle
-- nats-fasterapi
-- checkdmarc
-- pyltover
-- rsc-on-this-day
-- hhi
-- plane-cli
-- ciris-verify
-- projectnetzero
-- sqlfp
-- hh-applicant-tool
-- basil-core
-- skyward
-- tinybeans-sync
-- clawie
-- cleanvibe
-- djinn-bot-cli
-- akios
-- fluxflow-training
-- tokensense
-- speakhuman
-- featrixsphere
-- nebulauth-sdk
-- tmux-mcp
-- tollbooth-dpyc
-- sanatan-verse-sdk
-- minchin.pelican.plugins.nojekyll
-- loreguard-cli
-- varo-to-monarch
-- sapiens-model
-- identibench
-- velar-sdk
-- verdictswarm-mcp
-- dj-control-room
-- pygents
-- tldr-common
-- mcp-gitlab
-- overlay.library
-- overlay.language
-- table-stream
-- z21aio
-- netscope-mcp
-- baxter-cli
-- meta-ads-mcp
-- crabukit
-- deriva-ml
-- threshold-mcp
-- agentcage

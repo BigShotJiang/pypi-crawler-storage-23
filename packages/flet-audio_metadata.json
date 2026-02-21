@@ -1,0 +1,11 @@
+{
+  "name": "flet-audio",
+  "version": "0.80.5",
+  "summary": "Provides audio integration and playback in Flet apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_audio-0.80.5.tar.gz",
+  "download_time": "2026-02-21T23:57:44.913400",
+  "package_url": "https://pypi.org/project/flet-audio/"
+}

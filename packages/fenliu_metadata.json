@@ -1,0 +1,11 @@
+{
+  "name": "fenliu",
+  "version": "0.1.0",
+  "summary": "monitor and filter fediverse hashtags to pass on to fedibooster for boosting",
+  "author": "marvin8",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "fenliu-0.1.0.tar.gz",
+  "download_time": "2026-02-21T23:57:48.569436",
+  "package_url": "https://pypi.org/project/fenliu/"
+}

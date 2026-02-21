@@ -1,11 +1,11 @@
 {
   "name": "speakhuman",
-  "version": "0.1.0",
-  "summary": "Python humanize utilities - Rust-accelerated fork of humanize",
+  "version": "0.1.1",
+  "summary": "Rust-accelerated fork of the Python humanize library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speakhuman-0.1.0.tar.gz",
-  "download_time": "2026-02-21T23:23:59.797920",
+  "download_filename": "speakhuman-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-21T23:58:03.261357",
   "package_url": "https://pypi.org/project/speakhuman/"
 }

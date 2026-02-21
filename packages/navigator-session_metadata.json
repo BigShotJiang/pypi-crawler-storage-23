@@ -1,0 +1,11 @@
+{
+  "name": "navigator-session",
+  "version": "0.9.0",
+  "summary": "Navigator Session allows us to store user-specific data into session object.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "navigator_session-0.9.0.tar.gz",
+  "download_time": "2026-02-21T23:57:56.486587",
+  "package_url": "https://pypi.org/project/navigator-session/"
+}

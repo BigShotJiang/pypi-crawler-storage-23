@@ -1,11 +1,11 @@
 {
   "name": "cad-to-dagmc",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "summary": "Converts CAD files to a DAGMC h5m file",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cad_to_dagmc-0.11.3.tar.gz",
-  "download_time": "2026-02-20T20:53:41.738107",
+  "download_filename": "cad_to_dagmc-0.11.4.tar.gz",
+  "download_time": "2026-02-21T23:58:00.135482",
   "package_url": "https://pypi.org/project/cad-to-dagmc/"
 }

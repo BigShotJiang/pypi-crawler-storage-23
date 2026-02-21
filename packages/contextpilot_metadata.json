@@ -1,0 +1,11 @@
+{
+  "name": "contextpilot",
+  "version": "0.3.4",
+  "summary": "Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse",
+  "author": "Yinsicheng Jiang, Chivier Humber",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "contextpilot-0.3.4.tar.gz",
+  "download_time": "2026-02-21T23:58:03.781551",
+  "package_url": "https://pypi.org/project/contextpilot/"
+}

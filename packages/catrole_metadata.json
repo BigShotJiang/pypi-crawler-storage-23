@@ -1,11 +1,11 @@
 {
   "name": "catrole",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "summary": "AWS IAM Role/Policy permission viewer — see what a role or policy can do",
   "author": "Chowdhury Faizal Ahammed, Neal Dreher",
   "license": null,
   "home_page": null,
-  "download_filename": "catrole-0.1.7.tar.gz",
-  "download_time": "2026-02-20T16:58:40.826316",
+  "download_filename": "catrole-0.2.1.tar.gz",
+  "download_time": "2026-02-21T23:57:54.400595",
   "package_url": "https://pypi.org/project/catrole/"
 }

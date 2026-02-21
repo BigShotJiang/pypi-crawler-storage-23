@@ -1,0 +1,11 @@
+{
+  "name": "mem0-matrix-mcp",
+  "version": "0.1.0",
+  "summary": "Mem0 MCP Server with HTTP API for Matrix Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mem0_matrix_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-21T23:58:04.302273",
+  "package_url": "https://pypi.org/project/mem0-matrix-mcp/"
+}
