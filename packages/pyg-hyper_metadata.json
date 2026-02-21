@@ -1,0 +1,11 @@
+{
+  "name": "pyg-hyper",
+  "version": "0.1.1",
+  "summary": "Unified interface for PyTorch Geometric Hypergraph Learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyg_hyper-0.1.1.tar.gz",
+  "download_time": "2026-02-21T17:19:17.701350",
+  "package_url": "https://pypi.org/project/pyg-hyper/"
+}

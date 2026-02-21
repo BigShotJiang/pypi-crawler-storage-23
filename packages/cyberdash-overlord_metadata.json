@@ -1,0 +1,11 @@
+{
+  "name": "cyberdash-overlord",
+  "version": "1.0.0",
+  "summary": "A modern hacker-style TUI dashboard for Linux and Termux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyberdash_overlord-1.0.0.tar.gz",
+  "download_time": "2026-02-21T17:18:56.345985",
+  "package_url": "https://pypi.org/project/cyberdash-overlord/"
+}

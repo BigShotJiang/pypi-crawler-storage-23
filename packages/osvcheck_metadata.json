@@ -1,0 +1,11 @@
+{
+  "name": "osvcheck",
+  "version": "1.0.1",
+  "summary": "Security vulnerability scanner for Python dependencies",
+  "author": "David Nugent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osvcheck-1.0.1.tar.gz",
+  "download_time": "2026-02-21T17:19:22.078291",
+  "package_url": "https://pypi.org/project/osvcheck/"
+}

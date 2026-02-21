@@ -1,0 +1,11 @@
+{
+  "name": "llm-talk",
+  "version": "0.1.0",
+  "summary": "LLM-to-LLM interview framework for evaluating conversational capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_talk-0.1.0.tar.gz",
+  "download_time": "2026-02-21T17:19:01.678986",
+  "package_url": "https://pypi.org/project/llm-talk/"
+}

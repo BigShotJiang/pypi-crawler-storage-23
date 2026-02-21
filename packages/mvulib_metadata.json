@@ -1,11 +1,11 @@
 {
   "name": "mvulib",
-  "version": "2.0.0",
-  "summary": "Maximum Variance Unfolding (MVU) dimensionality reduction technique.",
+  "version": "1.2.1",
+  "summary": "A Python interface to Maximum Variance Unfolding",
   "author": "Rikard Stanić",
   "license": null,
   "home_page": null,
-  "download_filename": "mvulib-2.0.0.tar.gz",
-  "download_time": "2026-02-21T16:53:04.909582",
+  "download_filename": "mvulib-1.2.1.tar.gz",
+  "download_time": "2026-02-21T17:19:17.171412",
   "package_url": "https://pypi.org/project/mvulib/"
 }

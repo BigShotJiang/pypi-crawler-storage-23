@@ -1,11 +1,11 @@
 {
   "name": "wheezy.http",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "summary": "A lightweight http request-response library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wheezy_http-3.2.3.tar.gz",
-  "download_time": "2026-02-18T13:53:21.772395",
+  "download_filename": "wheezy_http-3.2.4.tar.gz",
+  "download_time": "2026-02-21T17:19:23.681110",
   "package_url": "https://pypi.org/project/wheezy.http/"
 }

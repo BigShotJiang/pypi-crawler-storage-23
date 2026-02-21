@@ -1,0 +1,11 @@
+{
+  "name": "qmk-via-api",
+  "version": "0.6.0",
+  "summary": "VIA api implementation for QMK-based keyboards",
+  "author": "Stephan Rumswinkel",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "qmk_via_api-0.6.0.tar.gz",
+  "download_time": "2026-02-21T17:19:06.479391",
+  "package_url": "https://pypi.org/project/qmk-via-api/"
+}

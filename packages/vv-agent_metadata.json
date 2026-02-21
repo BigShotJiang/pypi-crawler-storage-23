@@ -1,11 +1,11 @@
 {
   "name": "vv-agent",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Vector Vein inspired agent framework with cycle runtime, tools and memory management",
   "author": "andersonby",
   "license": null,
   "home_page": null,
-  "download_filename": "vv_agent-0.1.4.tar.gz",
-  "download_time": "2026-02-21T08:23:47.299654",
+  "download_filename": "vv_agent-0.1.6.tar.gz",
+  "download_time": "2026-02-21T17:18:47.708319",
   "package_url": "https://pypi.org/project/vv-agent/"
 }

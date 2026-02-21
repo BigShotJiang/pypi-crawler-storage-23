@@ -1,11 +1,11 @@
 {
   "name": "helm-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "MCP server exposing all Helm CLI capabilities via the Model Context Protocol",
   "author": "sreengineer",
   "license": null,
   "home_page": null,
-  "download_filename": "helm_mcp-0.1.8.tar.gz",
-  "download_time": "2026-02-21T16:53:28.583728",
+  "download_filename": "helm_mcp-0.1.9.tar.gz",
+  "download_time": "2026-02-21T17:19:20.466523",
   "package_url": "https://pypi.org/project/helm-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-clearplaintext",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Django template filter for cleaning up whitespace in plain text",
   "author": "Aidas Bendoraitis",
   "license": null,
   "home_page": null,
-  "download_filename": "django_clearplaintext-1.0.2.tar.gz",
-  "download_time": "2026-02-21T12:25:25.914244",
+  "download_filename": "django_clearplaintext-1.1.0.tar.gz",
+  "download_time": "2026-02-21T17:18:54.207676",
   "package_url": "https://pypi.org/project/django-clearplaintext/"
 }

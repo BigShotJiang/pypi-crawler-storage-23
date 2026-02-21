@@ -1,0 +1,11 @@
+{
+  "name": "walytis-mutability",
+  "version": "0.1.9",
+  "summary": "An overlay for the Walytis blockchain that provides the feature of mutable blocks.",
+  "author": "emendir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "walytis_mutability-0.1.9.tar.gz",
+  "download_time": "2026-02-21T17:19:08.677304",
+  "package_url": "https://pypi.org/project/walytis-mutability/"
+}

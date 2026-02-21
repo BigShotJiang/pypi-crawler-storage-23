@@ -1,11 +1,11 @@
 {
   "name": "endra",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "summary": "A fully distributed, no-servers, peer-to-peer encrypted messaging protocol.",
   "author": "emendir",
   "license": null,
   "home_page": null,
-  "download_filename": "endra-0.6.8.tar.gz",
-  "download_time": "2026-02-21T11:54:20.415547",
+  "download_filename": "endra-0.6.9.tar.gz",
+  "download_time": "2026-02-21T17:19:08.148607",
   "package_url": "https://pypi.org/project/endra/"
 }

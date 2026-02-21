@@ -1,11 +1,11 @@
 {
   "name": "slideflow-presentations",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Automated Google Slides presentation builder with charts and data replacements.",
   "author": "Joe Broadhead, Tom Lovett",
   "license": null,
   "home_page": null,
-  "download_filename": "slideflow_presentations-0.0.4.tar.gz",
-  "download_time": "2026-02-19T21:23:39.820022",
+  "download_filename": "slideflow_presentations-0.0.5.tar.gz",
+  "download_time": "2026-02-21T17:18:57.407177",
   "package_url": "https://pypi.org/project/slideflow-presentations/"
 }
