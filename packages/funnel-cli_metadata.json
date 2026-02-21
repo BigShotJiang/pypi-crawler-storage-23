@@ -1,0 +1,11 @@
+{
+  "name": "funnel-cli",
+  "version": "1.0.0",
+  "summary": "Expose your local services to the internet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funnel_cli-1.0.0.tar.gz",
+  "download_time": "2026-02-21T07:35:50.958442",
+  "package_url": "https://pypi.org/project/funnel-cli/"
+}

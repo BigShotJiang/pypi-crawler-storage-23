@@ -1,0 +1,11 @@
+{
+  "name": "indiapins",
+  "version": "1.0.6",
+  "summary": "Python package for mapping pins to the place where it belong",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indiapins-1.0.6.tar.gz",
+  "download_time": "2026-02-21T07:35:31.125630",
+  "package_url": "https://pypi.org/project/indiapins/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aex",
+  "version": "2.0.0",
+  "summary": "AEX v2.0 — local-first AI execution governance kernel with deterministic accounting, idempotent admission, and tamper-evident ledger replay.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aex-2.0.0.tar.gz",
+  "download_time": "2026-02-21T07:35:37.911355",
+  "package_url": "https://pypi.org/project/aex/"
+}

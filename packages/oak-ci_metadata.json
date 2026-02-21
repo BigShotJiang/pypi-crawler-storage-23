@@ -1,11 +1,11 @@
 {
   "name": "oak-ci",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "summary": "CLI toolkit for AI-powered development workflows - spec-driven development, RFC/ARC management, and shared conventions across AI coding agents",
   "author": "Chris Kirby",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oak_ci-1.2.2.tar.gz",
-  "download_time": "2026-02-20T22:19:03.779150",
+  "download_filename": "oak_ci-1.2.4.tar.gz",
+  "download_time": "2026-02-21T07:35:45.706642",
   "package_url": "https://pypi.org/project/oak-ci/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-bgp-soo",
+  "version": "0.1.0",
+  "summary": "Nautobot app for modeling BGP Site of Origin (SoO) extended communities.",
+  "author": "EGATE Networks Inc.",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_app_bgp_soo-0.1.0.tar.gz",
+  "download_time": "2026-02-21T07:35:35.839374",
+  "package_url": "https://pypi.org/project/nautobot-app-bgp-soo/"
+}

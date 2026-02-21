@@ -1,0 +1,11 @@
+{
+  "name": "friday-neural-os",
+  "version": "1.8.0",
+  "summary": "EDITH Neural OS: Advanced AI Agent with OS automation, security suite, and smart memory.",
+  "author": "Shivansh Pancholi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "friday_neural_os-1.8.0.tar.gz",
+  "download_time": "2026-02-21T07:35:19.143348",
+  "package_url": "https://pypi.org/project/friday-neural-os/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tranfi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Streaming ETL language + runtime",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tranfi-0.1.0.tar.gz",
-  "download_time": "2026-02-21T07:01:10.231591",
+  "download_filename": "tranfi-0.1.1.tar.gz",
+  "download_time": "2026-02-21T07:35:53.607783",
   "package_url": "https://pypi.org/project/tranfi/"
 }

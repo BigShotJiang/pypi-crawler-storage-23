@@ -1,0 +1,11 @@
+{
+  "name": "t402",
+  "version": "1.11.1",
+  "summary": "t402: An internet native payments protocol",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "t402-1.11.1.tar.gz",
+  "download_time": "2026-02-21T07:35:54.651040",
+  "package_url": "https://pypi.org/project/t402/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "readmerator",
+  "version": "0.1.2",
+  "summary": "Fetch and cache README files for Python dependencies to use with AI assistants",
+  "author": "Arved Klöhn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "readmerator-0.1.2.tar.gz",
+  "download_time": "2026-02-21T07:35:18.620063",
+  "package_url": "https://pypi.org/project/readmerator/"
+}
