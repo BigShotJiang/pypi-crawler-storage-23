@@ -1,0 +1,11 @@
+{
+  "name": "project-to-epub",
+  "version": "0.1.5",
+  "summary": "Convert a software project directory into an EPUB file for offline code reading",
+  "author": "Project-to-EPUB Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_to_epub-0.1.5.tar.gz",
+  "download_time": "2026-02-21T07:57:45.567764",
+  "package_url": "https://pypi.org/project/project-to-epub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "log-auth",
+  "version": "1.0.1",
+  "summary": "Reusable Flask authentication module",
+  "author": "Mathys Vitry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "log_auth-1.0.1.tar.gz",
+  "download_time": "2026-02-21T07:57:50.713922",
+  "package_url": "https://pypi.org/project/log-auth/"
+}

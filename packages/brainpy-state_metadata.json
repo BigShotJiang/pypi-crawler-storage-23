@@ -1,0 +1,11 @@
+{
+  "name": "brainpy-state",
+  "version": "0.0.4",
+  "summary": "brainpy.state: stateful spiking neural network models in BrainPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainpy_state-0.0.4.tar.gz",
+  "download_time": "2026-02-21T07:57:35.868736",
+  "package_url": "https://pypi.org/project/brainpy-state/"
+}

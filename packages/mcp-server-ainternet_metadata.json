@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-ainternet",
+  "version": "0.1.0",
+  "summary": "MCP Server for AInternet - AI-to-AI communication with AINS (.aint domains) and I-Poll messaging",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_ainternet-0.1.0.tar.gz",
+  "download_time": "2026-02-21T07:57:32.747632",
+  "package_url": "https://pypi.org/project/mcp-server-ainternet/"
+}

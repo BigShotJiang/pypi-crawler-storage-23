@@ -1,11 +1,11 @@
 {
   "name": "pytest-difftest",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Blazingly fast test selection for pytest - only run tests affected by your changes (Rust-powered)",
   "author": "Paul Milesi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_difftest-0.1.2.tar.gz",
-  "download_time": "2026-02-19T22:21:54.321514",
+  "download_filename": "pytest_difftest-0.2.0.tar.gz",
+  "download_time": "2026-02-21T07:57:48.146854",
   "package_url": "https://pypi.org/project/pytest-difftest/"
 }
