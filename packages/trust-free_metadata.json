@@ -1,0 +1,11 @@
+{
+  "name": "trust-free",
+  "version": "3.0.0",
+  "summary": "TRUST - Decision Trees with Sparse Elastic Net leaves, Random Forest accuracy and automated explanations",
+  "author": "Albert Dorador Chalar",
+  "license": "Proprietary - Permissive Binary Only",
+  "home_page": "https://whiteboxlab.ai/",
+  "download_filename": "trust_free-3.0.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-21T12:25:36.320904",
+  "package_url": "https://pypi.org/project/trust-free/"
+}

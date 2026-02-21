@@ -1,11 +1,11 @@
 {
   "name": "seqmat",
-  "version": "0.1.48",
+  "version": "0.1.51",
   "summary": "Lightning-fast gene manipulation and analysis library.",
   "author": "Nicolas Lynn Vila",
   "license": null,
   "home_page": "https://github.com/nicolasalynn/seqmat",
-  "download_filename": "seqmat-0.1.48.tar.gz",
-  "download_time": "2026-02-20T05:08:31.015597",
+  "download_filename": "seqmat-0.1.51.tar.gz",
+  "download_time": "2026-02-21T12:25:28.515408",
   "package_url": "https://pypi.org/project/seqmat/"
 }

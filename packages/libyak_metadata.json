@@ -1,0 +1,11 @@
+{
+  "name": "libyak",
+  "version": "0.10.0",
+  "summary": "Python bindings for Yak — yet another kontainer. A layered, embeddable file-in-file storage system.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "libyak-0.10.0.tar.gz",
+  "download_time": "2026-02-21T12:25:45.688436",
+  "package_url": "https://pypi.org/project/libyak/"
+}
