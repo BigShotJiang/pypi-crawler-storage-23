@@ -1,0 +1,11 @@
+{
+  "name": "gcp-pipeline-beam",
+  "version": "1.0.0",
+  "summary": "Beam ingestion library for GCP data pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcp_pipeline_beam-1.0.0.tar.gz",
+  "download_time": "2026-02-22T21:01:12.328894",
+  "package_url": "https://pypi.org/project/gcp-pipeline-beam/"
+}

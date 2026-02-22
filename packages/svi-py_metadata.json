@@ -1,0 +1,11 @@
+{
+  "name": "svi-py",
+  "version": "0.2.0",
+  "summary": "Stochastic volatility inspired parametrizations of the implied volatility surface in Python!",
+  "author": "Marwin Steiner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "svi_py-0.2.0.tar.gz",
+  "download_time": "2026-02-22T21:01:14.379782",
+  "package_url": "https://pypi.org/project/svi-py/"
+}

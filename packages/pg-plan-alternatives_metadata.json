@@ -1,0 +1,11 @@
+{
+  "name": "pg-plan-alternatives",
+  "version": "0.1.0",
+  "summary": "An eBPF-based tool to show all query plans considered by PostgreSQL during query planning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pg_plan_alternatives-0.1.0.tar.gz",
+  "download_time": "2026-02-22T21:01:13.866285",
+  "package_url": "https://pypi.org/project/pg-plan-alternatives/"
+}

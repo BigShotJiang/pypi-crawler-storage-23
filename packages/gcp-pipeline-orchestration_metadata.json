@@ -1,0 +1,11 @@
+{
+  "name": "gcp-pipeline-orchestration",
+  "version": "1.0.0",
+  "summary": "Orchestration library for GCP data pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcp_pipeline_orchestration-1.0.0.tar.gz",
+  "download_time": "2026-02-22T21:01:11.299211",
+  "package_url": "https://pypi.org/project/gcp-pipeline-orchestration/"
+}

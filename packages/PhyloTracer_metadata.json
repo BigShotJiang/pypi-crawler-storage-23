@@ -1,0 +1,11 @@
+{
+  "name": "PhyloTracer",
+  "version": "1.0.1",
+  "summary": "A toolkit for gene tree rooting, gene duplication identification, ortholog retrieval, phylogenetic noise elimination, species hybridization detection, and visualization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phylotracer-1.0.1.tar.gz",
+  "download_time": "2026-02-22T21:01:05.012170",
+  "package_url": "https://pypi.org/project/PhyloTracer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nexus-library",
+  "version": "0.1.2",
+  "summary": "AI tracing and instrumentation library for LangChain and manual tracing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_library-0.1.2.tar.gz",
+  "download_time": "2026-02-22T21:01:37.100889",
+  "package_url": "https://pypi.org/project/nexus-library/"
+}
