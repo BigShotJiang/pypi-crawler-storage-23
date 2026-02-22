@@ -1,11 +1,11 @@
 {
   "name": "pykyber",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Kyber post-quantum key encapsulation in Rust",
   "author": "PyKyber Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pykyber-0.1.2.tar.gz",
-  "download_time": "2026-02-21T06:08:09.448942",
+  "download_filename": "pykyber-0.1.5.tar.gz",
+  "download_time": "2026-02-22T19:24:31.742802",
   "package_url": "https://pypi.org/project/pykyber/"
 }

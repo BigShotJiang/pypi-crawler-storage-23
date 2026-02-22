@@ -1,11 +1,11 @@
 {
   "name": "uEdition-Editor",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uedition_editor-2.2.2.tar.gz",
-  "download_time": "2026-02-22T19:00:07.018145",
+  "download_filename": "uedition_editor-2.2.3.tar.gz",
+  "download_time": "2026-02-22T19:24:03.945709",
   "package_url": "https://pypi.org/project/uEdition-Editor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "krasis",
-  "version": "0.1.24",
+  "version": "0.1.26",
   "summary": "Hybrid LLM runtime — minimal VRAM, always-on GPU prefill, optimised CPU inference",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "krasis-0.1.24.tar.gz",
-  "download_time": "2026-02-22T18:22:24.384787",
+  "download_filename": "krasis-0.1.26.tar.gz",
+  "download_time": "2026-02-22T19:24:24.536186",
   "package_url": "https://pypi.org/project/krasis/"
 }

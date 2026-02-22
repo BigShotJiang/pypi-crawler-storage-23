@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-state",
+  "version": "19.0.1.0.0.2",
+  "summary": "Provides fields to be able to contemplate the tracking statesand also adds a global fields",
+  "author": "Trey (www.trey.es), FactorLibre, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/delivery-carrier",
+  "download_filename": "odoo_addon_delivery_state-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-22T19:23:58.376814",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-state/"
+}

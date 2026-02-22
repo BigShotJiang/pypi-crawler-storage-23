@@ -1,11 +1,11 @@
 {
   "name": "prefab-ui",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "The agentic frontend framework that even humans can use.",
   "author": "Jeremiah Lowin",
   "license": null,
   "home_page": null,
-  "download_filename": "prefab_ui-0.4.0.tar.gz",
-  "download_time": "2026-02-22T18:59:59.479773",
+  "download_filename": "prefab_ui-0.4.1.tar.gz",
+  "download_time": "2026-02-22T19:24:07.965196",
   "package_url": "https://pypi.org/project/prefab-ui/"
 }

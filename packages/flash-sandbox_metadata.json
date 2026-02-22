@@ -1,11 +1,11 @@
 {
   "name": "flash-sandbox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python SDK for interacting with the Sandbox Orchestrator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flash_sandbox-0.1.1.tar.gz",
-  "download_time": "2026-02-20T20:02:01.319101",
+  "download_filename": "flash_sandbox-0.1.2.tar.gz",
+  "download_time": "2026-02-22T19:23:45.645814",
   "package_url": "https://pypi.org/project/flash-sandbox/"
 }

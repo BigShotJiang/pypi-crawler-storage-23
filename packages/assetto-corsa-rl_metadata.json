@@ -1,11 +1,11 @@
 {
   "name": "assetto-corsa-rl",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Reinforcement Learning toolkit for Assetto Corsa and Car Racing environments",
   "author": "Assetto Corsa RL Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "assetto_corsa_rl-0.1.5.tar.gz",
-  "download_time": "2026-02-19T23:52:27.554567",
+  "download_filename": "assetto_corsa_rl-0.1.6.tar.gz",
+  "download_time": "2026-02-22T19:24:25.098157",
   "package_url": "https://pypi.org/project/assetto-corsa-rl/"
 }

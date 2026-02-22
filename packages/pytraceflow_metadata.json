@@ -1,11 +1,11 @@
 {
   "name": "pytraceflow",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "Post-mortem Python trace profiler that emits JSON plus an HTML viewer and OTLP exporter.",
   "author": "FlowTrace maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "pytraceflow-0.1.16.tar.gz",
-  "download_time": "2026-02-22T19:00:27.934122",
+  "download_filename": "pytraceflow-0.1.18.tar.gz",
+  "download_time": "2026-02-22T19:24:00.055523",
   "package_url": "https://pypi.org/project/pytraceflow/"
 }

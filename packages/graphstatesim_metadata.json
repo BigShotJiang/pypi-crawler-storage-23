@@ -1,11 +1,11 @@
 {
   "name": "graphstatesim",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A fast stabilizer simulator using a graph state representation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphstatesim-0.2.2-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2026-02-22T19:00:10.908063",
+  "download_filename": "graphstatesim-0.2.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-22T19:24:30.627064",
   "package_url": "https://pypi.org/project/graphstatesim/"
 }
