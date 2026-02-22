@@ -1,0 +1,11 @@
+{
+  "name": "sayou",
+  "version": "0.2.2",
+  "summary": "A file-system inspired context store for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sayou-0.2.2.tar.gz",
+  "download_time": "2026-02-22T11:54:31.211742",
+  "package_url": "https://pypi.org/project/sayou/"
+}

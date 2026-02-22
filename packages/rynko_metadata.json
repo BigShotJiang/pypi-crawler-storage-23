@@ -1,0 +1,11 @@
+{
+  "name": "rynko",
+  "version": "1.2.2",
+  "summary": "Official Python SDK for Rynko - Generate PDFs and Excel files from templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rynko-1.2.2.tar.gz",
+  "download_time": "2026-02-22T11:54:39.851990",
+  "package_url": "https://pypi.org/project/rynko/"
+}

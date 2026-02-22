@@ -1,11 +1,11 @@
 {
   "name": "needyourhands-mcp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "NeedYourHands MCP Server - AI agents hire and pay humans for real-world tasks via MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "needyourhands_mcp-0.1.2.tar.gz",
-  "download_time": "2026-02-22T11:15:11.885165",
+  "download_filename": "needyourhands_mcp-0.1.3.tar.gz",
+  "download_time": "2026-02-22T11:54:38.763705",
   "package_url": "https://pypi.org/project/needyourhands-mcp/"
 }

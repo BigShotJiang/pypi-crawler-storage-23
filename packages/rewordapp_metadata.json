@@ -1,0 +1,11 @@
+{
+  "name": "rewordapp",
+  "version": "0.3.1",
+  "summary": "A versatile Python utility that transforms text into readable yet obfuscated form, designed for remote work and contract development scenarios. It helps safeguard data integrity and confidentiality by ensuring sensitive information remains protected while still maintaining usability for testing, automation, and collaborative workflows across diverse environments.",
+  "author": "Tuyen Mathew Duong",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Geeks-Trident-LLC/rewordapp",
+  "download_filename": "rewordapp-0.3.1.tar.gz",
+  "download_time": "2026-02-22T11:54:46.312935",
+  "package_url": "https://pypi.org/project/rewordapp/"
+}

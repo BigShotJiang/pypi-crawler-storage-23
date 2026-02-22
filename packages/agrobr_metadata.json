@@ -1,11 +1,11 @@
 {
   "name": "agrobr",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Dados agrícolas brasileiros em uma linha de código",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agrobr-0.11.1-py3-none-any.whl",
-  "download_time": "2026-02-21T22:14:15.065782",
+  "download_filename": "agrobr-0.11.2-py3-none-any.whl",
+  "download_time": "2026-02-22T11:54:26.039209",
   "package_url": "https://pypi.org/project/agrobr/"
 }

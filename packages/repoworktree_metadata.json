@@ -1,0 +1,11 @@
+{
+  "name": "repoworktree",
+  "version": "0.1.0",
+  "summary": "Isolated workspaces for repo-managed multi-repository projects using git worktree + symlink",
+  "author": "Vela Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repoworktree-0.1.0.tar.gz",
+  "download_time": "2026-02-22T11:54:30.652222",
+  "package_url": "https://pypi.org/project/repoworktree/"
+}

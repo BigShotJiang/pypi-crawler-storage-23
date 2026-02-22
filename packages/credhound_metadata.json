@@ -1,0 +1,11 @@
+{
+  "name": "credhound",
+  "version": "2.2.0",
+  "summary": "🐕 CredHound - 로컬 파일 보안 credential 탐지 도구 (업계 표준 준수)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "credhound-2.2.0.tar.gz",
+  "download_time": "2026-02-22T11:54:32.279748",
+  "package_url": "https://pypi.org/project/credhound/"
+}

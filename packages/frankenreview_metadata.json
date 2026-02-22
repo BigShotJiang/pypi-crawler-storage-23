@@ -1,11 +1,11 @@
 {
   "name": "frankenreview",
-  "version": "11.6.6",
+  "version": "11.6.7",
   "summary": "A multi-layered, agentic, context-aware, zero-cost code reviewer",
   "author": "SNiPERxDD",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "frankenreview-11.6.6.tar.gz",
-  "download_time": "2026-02-22T11:15:13.926979",
+  "download_filename": "frankenreview-11.6.7.tar.gz",
+  "download_time": "2026-02-22T11:54:30.090609",
   "package_url": "https://pypi.org/project/frankenreview/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uwxpy",
+  "version": "1.0.4",
+  "summary": "A Python toolkit for generating, editing, and posting AI-powered images to X using Uwgen API, Gemini Vison, and Tweety.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uwxpy-1.0.4.tar.gz",
+  "download_time": "2026-02-22T11:54:33.899391",
+  "package_url": "https://pypi.org/project/uwxpy/"
+}
