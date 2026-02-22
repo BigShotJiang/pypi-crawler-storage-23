@@ -1,0 +1,11 @@
+{
+  "name": "mocket",
+  "version": "3.14.1",
+  "summary": "Socket Mock Framework - for all kinds of socket animals, web-clients included - with gevent/asyncio/SSL support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mocket-3.14.1.tar.gz",
+  "download_time": "2026-02-22T21:59:25.537568",
+  "package_url": "https://pypi.org/project/mocket/"
+}

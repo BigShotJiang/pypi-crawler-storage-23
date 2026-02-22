@@ -1,0 +1,11 @@
+{
+  "name": "mcp-http-transport",
+  "version": "0.1.0",
+  "summary": "HTTP/SSE transport for MCP servers with hot reload support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_http_transport-0.1.0.tar.gz",
+  "download_time": "2026-02-22T21:59:21.721831",
+  "package_url": "https://pypi.org/project/mcp-http-transport/"
+}

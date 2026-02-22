@@ -1,11 +1,11 @@
 {
   "name": "llmcalc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Calculate LLM token costs from llmlite pricing data",
   "author": "Aman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmcalc-0.1.0.tar.gz",
-  "download_time": "2026-02-22T21:47:14.878993",
+  "download_filename": "llmcalc-0.1.1.tar.gz",
+  "download_time": "2026-02-22T21:59:34.984834",
   "package_url": "https://pypi.org/project/llmcalc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "live-stocks",
+  "version": "0.0.6",
+  "summary": "Gets the live price of stocks and cryto. Also has graphing capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "live_stocks-0.0.6.tar.gz",
+  "download_time": "2026-02-22T21:59:14.396670",
+  "package_url": "https://pypi.org/project/live-stocks/"
+}

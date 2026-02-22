@@ -1,0 +1,11 @@
+{
+  "name": "yirifi-ops-auth-client",
+  "version": "3.4.0",
+  "summary": "Authentication client library for Yirifi Ops microsites with RBAC support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yirifi_ops_auth_client-3.4.0.tar.gz",
+  "download_time": "2026-02-22T21:59:39.340830",
+  "package_url": "https://pypi.org/project/yirifi-ops-auth-client/"
+}

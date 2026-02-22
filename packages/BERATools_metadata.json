@@ -1,11 +1,11 @@
 {
   "name": "BERATools",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An advanced forest line feature analysis platform",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "beratools-0.3.0.tar.gz",
-  "download_time": "2026-02-19T21:55:24.497585",
+  "download_filename": "beratools-0.3.1.tar.gz",
+  "download_time": "2026-02-22T21:59:40.595984",
   "package_url": "https://pypi.org/project/BERATools/"
 }

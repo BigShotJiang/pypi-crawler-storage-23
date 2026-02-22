@@ -1,0 +1,11 @@
+{
+  "name": "pycorerelator",
+  "version": "0.0.3",
+  "summary": "A package for quantitative stratigraphic correlation across geological core and physical log data",
+  "author": "Larry Syu-Heng Lai",
+  "license": null,
+  "home_page": "https://github.com/GeoLarryLai/pyCoreRelator",
+  "download_filename": "pycorerelator-0.0.3.tar.gz",
+  "download_time": "2026-02-22T21:59:28.901641",
+  "package_url": "https://pypi.org/project/pycorerelator/"
+}

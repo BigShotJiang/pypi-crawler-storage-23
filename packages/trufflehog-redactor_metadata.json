@@ -1,0 +1,11 @@
+{
+  "name": "trufflehog-redactor",
+  "version": "0.1.0",
+  "summary": "Interactive TUI for redacting secrets found by TruffleHog",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trufflehog_redactor-0.1.0.tar.gz",
+  "download_time": "2026-02-22T21:59:56.046933",
+  "package_url": "https://pypi.org/project/trufflehog-redactor/"
+}

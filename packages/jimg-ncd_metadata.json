@@ -1,11 +1,11 @@
 {
   "name": "jimg-ncd",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "summary": null,
   "author": "Jakub Kubis - JBS",
   "license": null,
   "home_page": null,
-  "download_filename": "jimg_ncd-0.1.10.tar.gz",
-  "download_time": "2026-02-22T19:00:06.436166",
+  "download_filename": "jimg_ncd-0.2.0.tar.gz",
+  "download_time": "2026-02-22T21:59:39.886695",
   "package_url": "https://pypi.org/project/jimg-ncd/"
 }

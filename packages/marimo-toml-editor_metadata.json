@@ -1,11 +1,11 @@
 {
   "name": "marimo-toml-editor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Interactive TOML config editor widget for Jupyter and marimo notebooks",
   "author": "Javier Rodríguez Martínez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "marimo_toml_editor-0.1.0.tar.gz",
-  "download_time": "2026-02-21T18:21:09.300536",
+  "download_filename": "marimo_toml_editor-0.1.1.tar.gz",
+  "download_time": "2026-02-22T21:59:41.718404",
   "package_url": "https://pypi.org/project/marimo-toml-editor/"
 }

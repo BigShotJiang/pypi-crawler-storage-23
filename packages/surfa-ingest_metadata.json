@@ -1,0 +1,11 @@
+{
+  "name": "surfa-ingest",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for Surfa Analytics - Ingest live traffic events",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "surfa_ingest-0.2.0.tar.gz",
+  "download_time": "2026-02-22T21:59:21.177825",
+  "package_url": "https://pypi.org/project/surfa-ingest/"
+}
