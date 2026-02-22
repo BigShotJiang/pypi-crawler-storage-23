@@ -1,0 +1,11 @@
+{
+  "name": "crossref-local",
+  "version": "0.5.4",
+  "summary": "Local CrossRef database with 167M+ works and full-text search",
+  "author": "Yusuke Watanabe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crossref_local-0.5.4.tar.gz",
+  "download_time": "2026-02-22T12:27:07.634767",
+  "package_url": "https://pypi.org/project/crossref-local/"
+}

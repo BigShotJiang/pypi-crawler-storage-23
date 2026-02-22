@@ -1,11 +1,11 @@
 {
   "name": "megobari",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Telegram bot bridging to Claude Code — use as CLI or embed as a library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "megobari-0.1.0.tar.gz",
-  "download_time": "2026-02-21T22:14:13.974629",
+  "download_filename": "megobari-0.1.1.tar.gz",
+  "download_time": "2026-02-22T12:27:19.149583",
   "package_url": "https://pypi.org/project/megobari/"
 }

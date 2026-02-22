@@ -1,11 +1,11 @@
 {
   "name": "tantrumpy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Your Python app's last words — dramatic, rude, comic, or philosophical exit messages.",
   "author": "hemupadhyay26",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tantrumpy-1.0.0.tar.gz",
-  "download_time": "2026-02-22T11:15:17.504170",
+  "download_filename": "tantrumpy-1.1.0.tar.gz",
+  "download_time": "2026-02-22T12:27:15.492486",
   "package_url": "https://pypi.org/project/tantrumpy/"
 }

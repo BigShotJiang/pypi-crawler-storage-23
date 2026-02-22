@@ -1,0 +1,11 @@
+{
+  "name": "cvefinder-io",
+  "version": "1.0.0",
+  "summary": "Official CLI for CVEFinder.io API",
+  "author": "CVEFinder.io",
+  "license": "MIT",
+  "home_page": "https://github.com/CVEFinder/cli",
+  "download_filename": "cvefinder_io-1.0.0.tar.gz",
+  "download_time": "2026-02-22T12:26:37.129777",
+  "package_url": "https://pypi.org/project/cvefinder-io/"
+}

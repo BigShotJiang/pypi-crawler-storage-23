@@ -1,0 +1,11 @@
+{
+  "name": "deep-variable",
+  "version": "0.1.1",
+  "summary": "Deep Variable is a lightweight, zero-dependency Python utility designed to eliminate KeyError and TypeError crashes when working with deeply nested data structures",
+  "author": "Yashas G V",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deep_variable-0.1.1.tar.gz",
+  "download_time": "2026-02-22T12:26:39.782254",
+  "package_url": "https://pypi.org/project/deep-variable/"
+}

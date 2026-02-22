@@ -1,11 +1,11 @@
 {
   "name": "astra-engine",
-  "version": "0.0.2b10",
+  "version": "0.0.2b13",
   "summary": "A high-performance WhatsApp Web automation library for Python.",
   "author": "Aman Kumar Pandey",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "astra_engine-0.0.2b10.tar.gz",
-  "download_time": "2026-02-22T11:15:11.376859",
+  "download_filename": "astra_engine-0.0.2b13.tar.gz",
+  "download_time": "2026-02-22T12:26:41.908959",
   "package_url": "https://pypi.org/project/astra-engine/"
 }

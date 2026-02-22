@@ -1,0 +1,11 @@
+{
+  "name": "dgbowl-schemas",
+  "version": "125",
+  "summary": "schemas for the dgbowl suite of tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dgbowl_schemas-125.tar.gz",
+  "download_time": "2026-02-22T12:26:57.113618",
+  "package_url": "https://pypi.org/project/dgbowl-schemas/"
+}

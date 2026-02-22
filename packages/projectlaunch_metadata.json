@@ -1,11 +1,11 @@
 {
   "name": "projectlaunch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Simple GitHub Push Tool for Students & Developers",
   "author": "Madhan",
   "license": null,
   "home_page": "https://github.com/madhan112007/test-project_launch",
-  "download_filename": "projectlaunch-1.0.1.tar.gz",
-  "download_time": "2026-02-22T11:54:15.855555",
+  "download_filename": "projectlaunch-1.0.2.tar.gz",
+  "download_time": "2026-02-22T12:27:20.699639",
   "package_url": "https://pypi.org/project/projectlaunch/"
 }

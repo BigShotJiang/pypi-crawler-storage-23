@@ -1,0 +1,11 @@
+{
+  "name": "uv-sbom-bin",
+  "version": "1.2.0",
+  "summary": "Python wrapper for uv-sbom - SBOM generation tool for uv projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uv_sbom_bin-1.2.0.tar.gz",
+  "download_time": "2026-02-22T12:27:18.631264",
+  "package_url": "https://pypi.org/project/uv-sbom-bin/"
+}

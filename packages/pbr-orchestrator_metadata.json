@@ -1,0 +1,11 @@
+{
+  "name": "pbr-orchestrator",
+  "version": "0.1.0",
+  "summary": "PBR Orchestrator — Plan → Build → Review pipeline for AI agent sub-tasks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pbr_orchestrator-0.1.0.tar.gz",
+  "download_time": "2026-02-22T12:26:49.198309",
+  "package_url": "https://pypi.org/project/pbr-orchestrator/"
+}

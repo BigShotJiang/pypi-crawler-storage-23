@@ -1,0 +1,11 @@
+{
+  "name": "kingdom-cli",
+  "version": "0.2",
+  "summary": "A markdown file-based CLI for software development with multi-agent council design, markdown tickets, and background worker loops.",
+  "author": "James Robinson-Bohnslav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kingdom_cli-0.2.tar.gz",
+  "download_time": "2026-02-22T12:26:50.265712",
+  "package_url": "https://pypi.org/project/kingdom-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qtodo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "qTodo - A todo application",
   "author": "Dhanush",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qtodo-0.1.4.tar.gz",
-  "download_time": "2026-02-22T11:36:33.635207",
+  "download_filename": "qtodo-0.1.5.tar.gz",
+  "download_time": "2026-02-22T12:27:03.083216",
   "package_url": "https://pypi.org/project/qtodo/"
 }

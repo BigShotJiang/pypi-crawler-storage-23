@@ -1,11 +1,11 @@
 {
   "name": "tars-robot",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "TARS robot control library with daemon, dashboard, and SDK",
   "author": "TARS Team",
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "tars_robot-0.5.3.tar.gz",
-  "download_time": "2026-02-22T11:54:42.537530",
+  "download_filename": "tars_robot-0.5.4.tar.gz",
+  "download_time": "2026-02-22T12:27:12.840187",
   "package_url": "https://pypi.org/project/tars-robot/"
 }
