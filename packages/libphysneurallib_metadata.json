@@ -1,11 +1,11 @@
 {
   "name": "libphysneurallib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Deep learning library for biosignal processing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "libphysneurallib-0.1.0.tar.gz",
-  "download_time": "2026-02-19T16:14:21.820752",
+  "download_filename": "libphysneurallib-0.1.1.tar.gz",
+  "download_time": "2026-02-22T11:15:15.453705",
   "package_url": "https://pypi.org/project/libphysneurallib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-sensory",
+  "version": "0.4.0",
+  "summary": "Multi-Sensory AI Communication - Morse, Braille, SSTV/REFLUX encode+decode for off-grid AI networks. Complete sensory loop!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_sensory-0.4.0.tar.gz",
+  "download_time": "2026-02-22T11:15:18.607056",
+  "package_url": "https://pypi.org/project/mcp-server-sensory/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sipstuff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "SIP telephony automation toolkit: place calls via PJSIP, play WAV/TTS audio, record and transcribe responses",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sipstuff-0.0.1.tar.gz",
-  "download_time": "2026-02-21T20:42:07.301825",
+  "download_filename": "sipstuff-0.0.2.tar.gz",
+  "download_time": "2026-02-22T11:15:36.455239",
   "package_url": "https://pypi.org/project/sipstuff/"
 }

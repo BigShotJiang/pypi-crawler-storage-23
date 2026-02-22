@@ -1,11 +1,11 @@
 {
   "name": "tibet-audit",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "Compliance Health Scanner with Checkpoint Code - Cross-border semantic translation for AI governance. Like Lynis, but for regulations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tibet_audit-0.15.0.tar.gz",
-  "download_time": "2026-02-22T10:47:01.576525",
+  "download_filename": "tibet_audit-0.15.1.tar.gz",
+  "download_time": "2026-02-22T11:15:21.742025",
   "package_url": "https://pypi.org/project/tibet-audit/"
 }

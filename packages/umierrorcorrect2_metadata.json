@@ -1,11 +1,11 @@
 {
   "name": "umierrorcorrect2",
-  "version": "0.32.4",
+  "version": "0.33.0",
   "summary": "Pipeline for analyzing barcoded amplicon sequencing data with Unique Molecular Identifiers (UMI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "umierrorcorrect2-0.32.4.tar.gz",
-  "download_time": "2026-02-21T15:16:18.458204",
+  "download_filename": "umierrorcorrect2-0.33.0.tar.gz",
+  "download_time": "2026-02-22T11:15:33.901487",
   "package_url": "https://pypi.org/project/umierrorcorrect2/"
 }

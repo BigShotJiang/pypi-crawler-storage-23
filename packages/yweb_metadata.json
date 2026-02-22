@@ -1,0 +1,11 @@
+{
+  "name": "yweb",
+  "version": "0.1.1",
+  "summary": "FastAPI基础类库，提供响应封装、中间件、ORM、认证、日志等基础功能",
+  "author": "YAFO-AI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yweb-0.1.1.tar.gz",
+  "download_time": "2026-02-22T11:15:15.964781",
+  "package_url": "https://pypi.org/project/yweb/"
+}

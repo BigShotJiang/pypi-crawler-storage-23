@@ -1,11 +1,11 @@
 {
   "name": "autogui-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-driven screen automation MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autogui_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-22T10:47:27.060141",
+  "download_filename": "autogui_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-22T11:15:34.925143",
   "package_url": "https://pypi.org/project/autogui-mcp/"
 }

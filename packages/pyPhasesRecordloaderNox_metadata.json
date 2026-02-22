@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderNox",
+  "version": "0.2.1",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyphasesrecordloadernox-0.2.1.tar.gz",
+  "download_time": "2026-02-22T11:15:14.941735",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderNox/"
+}
