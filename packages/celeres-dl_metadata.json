@@ -1,0 +1,11 @@
+{
+  "name": "celeres-dl",
+  "version": "0.1.0",
+  "summary": "Celeres Data Loader — A Parallel Data Loading System with Constant-Memory Shuffling for Scalable Deep Learning Training.",
+  "author": "Nimbus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celeres_dl-0.1.0.tar.gz",
+  "download_time": "2026-02-22T07:06:32.992282",
+  "package_url": "https://pypi.org/project/celeres-dl/"
+}

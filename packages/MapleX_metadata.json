@@ -1,0 +1,11 @@
+{
+  "name": "MapleX",
+  "version": "3.0.0",
+  "summary": "A Python library for simple logging, json file operations, Maple file format operations, and console color utilities.",
+  "author": "Ryuji Hazama",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maplex-3.0.0.tar.gz",
+  "download_time": "2026-02-22T07:07:00.464629",
+  "package_url": "https://pypi.org/project/MapleX/"
+}

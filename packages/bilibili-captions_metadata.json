@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-captions",
+  "version": "0.1.20260222.2",
+  "summary": "B站字幕下载工具，支持 API 获取和 Whisper ASR 生成",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bilibili_captions-0.1.20260222.2.tar.gz",
+  "download_time": "2026-02-22T07:06:21.570695",
+  "package_url": "https://pypi.org/project/bilibili-captions/"
+}

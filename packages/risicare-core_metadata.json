@@ -1,0 +1,11 @@
+{
+  "name": "risicare-core",
+  "version": "0.1.1",
+  "summary": "Core types and taxonomy for Risicare Agent Self-Healing Infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "risicare_core-0.1.1.tar.gz",
+  "download_time": "2026-02-22T07:06:33.532437",
+  "package_url": "https://pypi.org/project/risicare-core/"
+}

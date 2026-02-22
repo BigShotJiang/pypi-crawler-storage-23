@@ -1,11 +1,11 @@
 {
   "name": "leaf-example",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Leaf Adapter with a basic example function. Creating a measurement message every x interval.",
   "author": "Jasper Koehorst",
   "license": null,
   "home_page": null,
-  "download_filename": "leaf_example-0.2.0.tar.gz",
-  "download_time": "2026-02-21T20:56:40.580322",
+  "download_filename": "leaf_example-0.2.1.tar.gz",
+  "download_time": "2026-02-22T07:07:02.557410",
   "package_url": "https://pypi.org/project/leaf-example/"
 }

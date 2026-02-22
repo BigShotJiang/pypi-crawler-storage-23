@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-plus-32",
-  "version": "2.5.26",
+  "version": "2.5.27",
   "summary": "cdk8s+ is a software development framework that provides high level abstractions for authoring Kubernetes applications. cdk8s-plus-32 synthesizes Kubernetes manifests for Kubernetes 1.32.0",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-plus.git",
-  "download_filename": "cdk8s_plus_32-2.5.26.tar.gz",
-  "download_time": "2026-02-18T12:36:40.075586",
+  "download_filename": "cdk8s_plus_32-2.5.27.tar.gz",
+  "download_time": "2026-02-22T07:06:58.369816",
   "package_url": "https://pypi.org/project/cdk8s-plus-32/"
 }

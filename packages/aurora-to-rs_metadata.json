@@ -1,11 +1,11 @@
 {
   "name": "aurora-to-rs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Lean Aurora PostgreSQL to Redshift loader via copy_expert + S3 COPY",
-  "author": "Ankit Goel",
-  "license": null,
-  "home_page": "https://github.com/ankitgoel888/aurora_to_rs",
-  "download_filename": "aurora_to_rs-0.1.2.tar.gz",
-  "download_time": "2026-02-22T06:05:55.384392",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aurora_to_rs-0.1.3.tar.gz",
+  "download_time": "2026-02-22T07:06:47.590219",
   "package_url": "https://pypi.org/project/aurora-to-rs/"
 }

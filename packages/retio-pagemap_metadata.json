@@ -1,11 +1,11 @@
 {
   "name": "retio-pagemap",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Structured web page representation for AI agents — 97% HTML token reduction",
   "author": "Retio AI",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "retio_pagemap-0.5.0.tar.gz",
-  "download_time": "2026-02-21T05:36:31.001487",
+  "download_filename": "retio_pagemap-0.5.2.tar.gz",
+  "download_time": "2026-02-22T07:06:57.226505",
   "package_url": "https://pypi.org/project/retio-pagemap/"
 }

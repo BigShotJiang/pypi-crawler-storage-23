@@ -1,0 +1,11 @@
+{
+  "name": "OsakaProgrammingLanguage",
+  "version": "0.1.1",
+  "summary": "Osaka Programming Language CLI (interpreter + VM + equivalence lock)",
+  "author": "GeorgeBushfan - James Alexander",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osakaprogramminglanguage-0.1.1.tar.gz",
+  "download_time": "2026-02-22T07:06:29.774894",
+  "package_url": "https://pypi.org/project/OsakaProgrammingLanguage/"
+}

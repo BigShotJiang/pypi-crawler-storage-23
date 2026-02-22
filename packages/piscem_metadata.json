@@ -1,11 +1,11 @@
 {
   "name": "piscem",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python bindings for the piscem k-mer mapping engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piscem-0.1.0.tar.gz",
-  "download_time": "2026-02-22T06:05:49.882357",
+  "download_filename": "piscem-0.1.2.tar.gz",
+  "download_time": "2026-02-22T07:06:36.219946",
   "package_url": "https://pypi.org/project/piscem/"
 }
