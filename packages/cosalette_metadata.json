@@ -1,11 +1,11 @@
 {
   "name": "cosalette",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "an opinionated Python framework for building IoT-to-MQTT bridge applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cosalette-0.1.0.tar.gz",
-  "download_time": "2026-02-21T16:53:44.726349",
+  "download_filename": "cosalette-0.1.1.tar.gz",
+  "download_time": "2026-02-22T10:16:52.297124",
   "package_url": "https://pypi.org/project/cosalette/"
 }

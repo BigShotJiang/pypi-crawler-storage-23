@@ -1,11 +1,11 @@
 {
   "name": "ghostscraper",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "A Playwright-based web scraper with persistent caching, parallel scraping, progress callbacks, and multiple output formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ghostscraper-0.4.0.tar.gz",
-  "download_time": "2026-02-22T08:56:26.219345",
+  "download_filename": "ghostscraper-0.4.3.tar.gz",
+  "download_time": "2026-02-22T10:16:42.518879",
   "package_url": "https://pypi.org/project/ghostscraper/"
 }

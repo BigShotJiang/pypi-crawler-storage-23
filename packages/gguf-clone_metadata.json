@@ -1,11 +1,11 @@
 {
   "name": "gguf-clone",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Create optimized quants by using similar GGUFs as templates",
   "author": "spicyneuron",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gguf_clone-0.1.6.tar.gz",
-  "download_time": "2026-02-22T09:22:11.036196",
+  "download_filename": "gguf_clone-0.1.7.tar.gz",
+  "download_time": "2026-02-22T10:16:55.437057",
   "package_url": "https://pypi.org/project/gguf-clone/"
 }

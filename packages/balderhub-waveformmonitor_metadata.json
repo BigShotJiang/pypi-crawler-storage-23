@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-waveformmonitor",
+  "version": "0.0.1a0",
+  "summary": "balderhub-waveformmonitor: BalderHub Project for working with waveform monitor devices like programmable oscilloscopes",
+  "author": "Max Stahlschmidt",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/waveformmonitor",
+  "download_filename": "balderhub_waveformmonitor-0.0.1a0.tar.gz",
+  "download_time": "2026-02-22T10:16:15.927384",
+  "package_url": "https://pypi.org/project/balderhub-waveformmonitor/"
+}

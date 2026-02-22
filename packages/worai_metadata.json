@@ -1,11 +1,11 @@
 {
   "name": "worai",
-  "version": "3.4.0",
+  "version": "4.1.2",
   "summary": "AI-powered CLI for WordLift knowledge graph and SEO workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worai-3.4.0.tar.gz",
-  "download_time": "2026-02-19T14:42:11.211149",
+  "download_filename": "worai-4.1.2.tar.gz",
+  "download_time": "2026-02-22T10:16:21.353491",
   "package_url": "https://pypi.org/project/worai/"
 }
