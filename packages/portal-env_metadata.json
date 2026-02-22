@@ -1,0 +1,11 @@
+{
+  "name": "portal-env",
+  "version": "0.9.0",
+  "summary": "A package that simplifies RL development by conveniently running RL environments in isolated Docker containers, avoiding dependencies conflicts. The agent interacts with the isolated environment through a Gymnasium interface that functions as a relay.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "portal_env-0.9.0.tar.gz",
+  "download_time": "2026-02-22T14:51:30.804722",
+  "package_url": "https://pypi.org/project/portal-env/"
+}

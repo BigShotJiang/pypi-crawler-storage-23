@@ -1,0 +1,11 @@
+{
+  "name": "spend-hawk-sdk",
+  "version": "0.1.1",
+  "summary": "Automatic LLM cost tracking for OpenAI, Anthropic, and Google Generative AI",
+  "author": "Spend Hawk",
+  "license": null,
+  "home_page": "https://github.com/spend-hawk/spend-hawk-sdk",
+  "download_filename": "spend_hawk_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-22T14:52:01.038063",
+  "package_url": "https://pypi.org/project/spend-hawk-sdk/"
+}

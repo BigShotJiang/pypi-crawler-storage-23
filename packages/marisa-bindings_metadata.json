@@ -1,0 +1,11 @@
+{
+  "name": "marisa-bindings",
+  "version": "1.0.5",
+  "summary": "Thin Python bindings for the C++ MARISA Trie library implemented using SWIG.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marisa_bindings-1.0.5.tar.gz",
+  "download_time": "2026-02-22T14:51:42.939412",
+  "package_url": "https://pypi.org/project/marisa-bindings/"
+}

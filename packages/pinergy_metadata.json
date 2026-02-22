@@ -1,0 +1,11 @@
+{
+  "name": "pinergy",
+  "version": "0.1.0",
+  "summary": "Python client for the Pinergy API (reverse-engineered from Android app)",
+  "author": "Pinergy Client",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pinergy-0.1.0.tar.gz",
+  "download_time": "2026-02-22T14:51:33.362997",
+  "package_url": "https://pypi.org/project/pinergy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyprobe-plots",
-  "version": "0.1.13",
+  "version": "0.1.16",
   "summary": "Variable probing based debugger for Python DSP debugging",
   "author": "PyProbe Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyprobe_plots-0.1.13-py3-none-any.whl",
-  "download_time": "2026-02-22T11:54:24.937265",
+  "download_filename": "pyprobe_plots-0.1.16-py3-none-any.whl",
+  "download_time": "2026-02-22T14:51:32.340534",
   "package_url": "https://pypi.org/project/pyprobe-plots/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tensorbored",
-  "version": "2.21.0rc1771610248",
+  "version": "2.21.0rc1771770890",
   "summary": "TensorBored: a PyTorch-first TensorBoard fork",
   "author": "TensorBored authors",
-  "license": "Apache 2.0",
+  "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/Demonstrandum/tensorbored",
-  "download_filename": "tensorbored-2.21.0rc1771610248-py3-none-any.whl",
-  "download_time": "2026-02-20T18:07:59.456920",
+  "download_filename": "tensorbored-2.21.0rc1771770890-py3-none-any.whl",
+  "download_time": "2026-02-22T14:51:55.922673",
   "package_url": "https://pypi.org/project/tensorbored/"
 }

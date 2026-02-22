@@ -1,11 +1,11 @@
 {
   "name": "strictyamlx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An extension of StrictYAML that adds more expressive schema tools for validation.",
   "author": "Muneeb ur Rahman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strictyamlx-0.1.0.tar.gz",
-  "download_time": "2026-02-22T14:22:27.135594",
+  "download_filename": "strictyamlx-0.1.1.tar.gz",
+  "download_time": "2026-02-22T14:51:35.165882",
   "package_url": "https://pypi.org/project/strictyamlx/"
 }

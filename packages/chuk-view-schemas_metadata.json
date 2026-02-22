@@ -1,0 +1,11 @@
+{
+  "name": "chuk-view-schemas",
+  "version": "0.1.1",
+  "summary": "Pydantic v2 schemas and FastMCP decorators for chuk-mcp-ui Views",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_view_schemas-0.1.1.tar.gz",
+  "download_time": "2026-02-22T14:51:49.662578",
+  "package_url": "https://pypi.org/project/chuk-view-schemas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isotropic",
+  "version": "0.8.0",
+  "summary": "A Python package for isotropic error analysis in quantum computing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isotropic-0.8.0.tar.gz",
+  "download_time": "2026-02-22T14:51:37.780767",
+  "package_url": "https://pypi.org/project/isotropic/"
+}
