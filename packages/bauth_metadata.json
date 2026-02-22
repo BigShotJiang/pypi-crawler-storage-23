@@ -1,0 +1,11 @@
+{
+  "name": "bauth",
+  "version": "0.7.0",
+  "summary": "Authentication Utility for a bastion AWS account paradigm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bauth-0.7.0-py3-none-any.whl",
+  "download_time": "2026-02-22T18:22:50.680377",
+  "package_url": "https://pypi.org/project/bauth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lcsb-icommands",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "iRODS client for automatic data ingestion via OAuth2/Keycloak",
   "author": "Sandesh Patil",
   "license": "MIT",
   "home_page": "https://gitlab.com/uniluxembourg/lcsb/BioCore/RDMS/irods/lcsb-icai",
-  "download_filename": "lcsb_icommands-1.1.1.tar.gz",
-  "download_time": "2026-02-22T17:49:40.274834",
+  "download_filename": "lcsb_icommands-1.1.2.tar.gz",
+  "download_time": "2026-02-22T18:22:22.840516",
   "package_url": "https://pypi.org/project/lcsb-icommands/"
 }

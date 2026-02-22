@@ -1,11 +1,11 @@
 {
   "name": "vespwood",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Declarative framework for LLMs",
   "author": null,
   "license": "Apache",
   "home_page": null,
-  "download_filename": "vespwood-1.0.0.tar.gz",
-  "download_time": "2026-02-22T16:55:13.879426",
+  "download_filename": "vespwood-1.0.2.tar.gz",
+  "download_time": "2026-02-22T18:22:27.472794",
   "package_url": "https://pypi.org/project/vespwood/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hypercli-sdk",
-  "version": "0.9.0",
+  "version": "0.9.2",
   "summary": "Python SDK for HyperCLI - GPU orchestration and LLM API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypercli_sdk-0.9.0.tar.gz",
-  "download_time": "2026-02-22T10:16:35.796557",
+  "download_filename": "hypercli_sdk-0.9.2.tar.gz",
+  "download_time": "2026-02-22T18:22:39.386264",
   "package_url": "https://pypi.org/project/hypercli-sdk/"
 }

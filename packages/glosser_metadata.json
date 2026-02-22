@@ -1,0 +1,11 @@
+{
+  "name": "glosser",
+  "version": "0.0.1",
+  "summary": "Automatically annotates research PDFs with citations and abbreviation expansions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glosser-0.0.1.tar.gz",
+  "download_time": "2026-02-22T18:22:48.568980",
+  "package_url": "https://pypi.org/project/glosser/"
+}
