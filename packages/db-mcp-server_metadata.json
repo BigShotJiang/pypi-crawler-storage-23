@@ -1,11 +1,11 @@
 {
   "name": "db-mcp-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "MCP server for MySQL and MongoDB databases — one instance per database, no Docker required",
   "author": "Ing. Luca Stucchi",
   "license": null,
   "home_page": null,
-  "download_filename": "db_mcp_server-1.0.3.tar.gz",
-  "download_time": "2026-02-22T19:45:00.158032",
+  "download_filename": "db_mcp_server-1.0.4.tar.gz",
+  "download_time": "2026-02-22T19:57:48.109368",
   "package_url": "https://pypi.org/project/db-mcp-server/"
 }

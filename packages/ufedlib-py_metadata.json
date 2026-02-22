@@ -1,0 +1,11 @@
+{
+  "name": "ufedlib-py",
+  "version": "1.0.0",
+  "summary": "ufedlib_py is Python port of UFEDLib (.ufdr/report.xml parser)",
+  "author": "Rahul Bali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ufedlib_py-1.0.0.tar.gz",
+  "download_time": "2026-02-22T19:57:50.689548",
+  "package_url": "https://pypi.org/project/ufedlib-py/"
+}

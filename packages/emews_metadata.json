@@ -1,0 +1,11 @@
+{
+  "name": "emews",
+  "version": "0.9.1",
+  "summary": "Network traffic automation and prototyping.",
+  "author": "Brian Ricks",
+  "license": "GPL-3.0-only",
+  "home_page": "https://mews.sv.cmu.edu/research/emews/",
+  "download_filename": "emews-0.9.1.tar.gz",
+  "download_time": "2026-02-22T19:57:42.419210",
+  "package_url": "https://pypi.org/project/emews/"
+}

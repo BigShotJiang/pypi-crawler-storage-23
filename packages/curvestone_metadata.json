@@ -1,0 +1,11 @@
+{
+  "name": "curvestone",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Curvestone compliance API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "curvestone-0.1.0.tar.gz",
+  "download_time": "2026-02-22T19:57:41.907892",
+  "package_url": "https://pypi.org/project/curvestone/"
+}

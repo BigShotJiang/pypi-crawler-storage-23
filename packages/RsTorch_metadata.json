@@ -1,0 +1,11 @@
+{
+  "name": "RsTorch",
+  "version": "0.1.0a2",
+  "summary": "PyTorch-compatible deep learning framework in Rust - Python bindings",
+  "author": "ToRSh Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/cool-japan/torsh/",
+  "download_filename": "rstorch-0.1.0a2.tar.gz",
+  "download_time": "2026-02-22T19:57:28.397547",
+  "package_url": "https://pypi.org/project/RsTorch/"
+}
