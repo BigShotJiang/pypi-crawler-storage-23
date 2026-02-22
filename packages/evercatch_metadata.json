@@ -1,0 +1,11 @@
+{
+  "name": "evercatch",
+  "version": "0.0.1",
+  "summary": "Official Python SDK for Evercatch webhook infrastructure platform.",
+  "author": "Evercatch",
+  "license": "MIT",
+  "home_page": "https://git.psmattas.com/evercatch/evercatch-python",
+  "download_filename": "evercatch-0.0.1.tar.gz",
+  "download_time": "2026-02-22T23:17:47.176666",
+  "package_url": "https://pypi.org/project/evercatch/"
+}

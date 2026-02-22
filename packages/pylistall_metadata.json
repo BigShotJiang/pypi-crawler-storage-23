@@ -1,11 +1,11 @@
 {
   "name": "pylistall",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Copy file contents under a directory to clipboard with tree and optional git log.",
   "author": "urntt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pylistall-0.2.0.tar.gz",
-  "download_time": "2026-02-21T13:55:11.170543",
+  "download_filename": "pylistall-0.2.1.tar.gz",
+  "download_time": "2026-02-22T23:17:52.375406",
   "package_url": "https://pypi.org/project/pylistall/"
 }

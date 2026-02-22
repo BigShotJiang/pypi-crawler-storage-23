@@ -1,0 +1,11 @@
+{
+  "name": "autorelease",
+  "version": "0.7.1",
+  "summary": "Tools to keep the release process clean.",
+  "author": "David W.H. Swenson",
+  "license": "MIT",
+  "home_page": "https://github.com/dwhswenson/autorelease",
+  "download_filename": "autorelease-0.7.1.tar.gz",
+  "download_time": "2026-02-22T23:18:23.305909",
+  "package_url": "https://pypi.org/project/autorelease/"
+}

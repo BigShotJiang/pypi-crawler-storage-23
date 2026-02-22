@@ -1,11 +1,11 @@
 {
   "name": "yoto-api",
-  "version": "2.2.2",
+  "version": "2.2.4",
   "summary": "A python package that makes it a bit easier to work with the yoto play API. Not associated with Yoto in any way.",
   "author": "cdnninja",
   "license": "MIT license",
   "home_page": "https://github.com/cdnninja/yoto_api",
-  "download_filename": "yoto_api-2.2.2.tar.gz",
-  "download_time": "2026-02-22T22:49:41.669874",
+  "download_filename": "yoto_api-2.2.4.tar.gz",
+  "download_time": "2026-02-22T23:17:54.427667",
   "package_url": "https://pypi.org/project/yoto-api/"
 }

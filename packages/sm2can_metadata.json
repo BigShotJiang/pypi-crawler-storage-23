@@ -1,11 +1,11 @@
 {
   "name": "sm2can",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Open-source macOS/Linux driver for SM2 Pro J2534 CAN adapters",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sm2can-0.2.0.tar.gz",
-  "download_time": "2026-02-22T22:49:52.904139",
+  "download_filename": "sm2can-0.2.1.tar.gz",
+  "download_time": "2026-02-22T23:17:48.761497",
   "package_url": "https://pypi.org/project/sm2can/"
 }

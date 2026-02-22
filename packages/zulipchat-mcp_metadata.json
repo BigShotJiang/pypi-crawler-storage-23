@@ -1,11 +1,11 @@
 {
   "name": "zulipchat-mcp",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "MCP server for Zulip Chat integration with comprehensive tool support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zulipchat_mcp-0.5.1.tar.gz",
-  "download_time": "2026-02-22T17:19:43.135139",
+  "download_filename": "zulipchat_mcp-0.5.2.tar.gz",
+  "download_time": "2026-02-22T23:18:08.491133",
   "package_url": "https://pypi.org/project/zulipchat-mcp/"
 }

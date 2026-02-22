@@ -1,0 +1,11 @@
+{
+  "name": "HardwareMon",
+  "version": "2.0.2",
+  "summary": "A hardware monitoring script",
+  "author": "Louis",
+  "license": null,
+  "home_page": "https://github.com/louisboii747/HardwareMon",
+  "download_filename": "hardwaremon-2.0.2.tar.gz",
+  "download_time": "2026-02-22T23:17:55.969328",
+  "package_url": "https://pypi.org/project/HardwareMon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipgrip",
+  "version": "0.13.0",
+  "summary": "Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm",
+  "author": "ddelange",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ddelange/pipgrip",
+  "download_filename": "pipgrip-0.13.0.tar.gz",
+  "download_time": "2026-02-22T23:18:00.650511",
+  "package_url": "https://pypi.org/project/pipgrip/"
+}

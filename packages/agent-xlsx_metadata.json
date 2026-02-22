@@ -1,11 +1,11 @@
 {
   "name": "agent-xlsx",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "XLSX file CLI built with Agent Experience (AX) in mind.",
   "author": "Akshay Petta",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_xlsx-0.3.0.tar.gz",
-  "download_time": "2026-02-21T16:53:46.837075",
+  "download_filename": "agent_xlsx-0.4.0.tar.gz",
+  "download_time": "2026-02-22T23:18:03.856505",
   "package_url": "https://pypi.org/project/agent-xlsx/"
 }

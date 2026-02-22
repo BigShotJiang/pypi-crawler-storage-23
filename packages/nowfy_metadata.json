@@ -1,11 +1,11 @@
 {
   "name": "nowfy",
-  "version": "1.1.49",
+  "version": "1.1.51",
   "summary": "Nowfy unified plugin package with integrated runtime core and services",
   "author": "AGeekApple",
   "license": null,
   "home_page": null,
-  "download_filename": "nowfy-1.1.49.tar.gz",
-  "download_time": "2026-02-22T08:56:05.212429",
+  "download_filename": "nowfy-1.1.51.tar.gz",
+  "download_time": "2026-02-22T23:18:02.818486",
   "package_url": "https://pypi.org/project/nowfy/"
 }

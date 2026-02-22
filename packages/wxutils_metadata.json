@@ -1,0 +1,11 @@
+{
+  "name": "wxutils",
+  "version": "2026.1.0",
+  "summary": "utilities and convenience functions for wxPython",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxutils-2026.1.0.tar.gz",
+  "download_time": "2026-02-22T23:18:15.016415",
+  "package_url": "https://pypi.org/project/wxutils/"
+}

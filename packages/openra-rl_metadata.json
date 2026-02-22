@@ -1,11 +1,11 @@
 {
   "name": "openra-rl",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Play Red Alert with AI agents — LLMs, scripted bots, or RL",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "openra_rl-0.3.0.tar.gz",
-  "download_time": "2026-02-21T15:42:28.317659",
+  "download_filename": "openra_rl-0.3.1.tar.gz",
+  "download_time": "2026-02-22T23:17:59.104766",
   "package_url": "https://pypi.org/project/openra-rl/"
 }

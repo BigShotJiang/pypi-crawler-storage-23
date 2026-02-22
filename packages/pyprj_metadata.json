@@ -1,11 +1,11 @@
 {
   "name": "pyprj",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "An opinionated CLI tool to manage python projects.",
   "author": "Diogo Rossi",
   "license": null,
   "home_page": null,
-  "download_filename": "pyprj-0.8.0.tar.gz",
-  "download_time": "2026-02-22T22:49:24.463999",
+  "download_filename": "pyprj-0.8.1.tar.gz",
+  "download_time": "2026-02-22T23:18:13.993886",
   "package_url": "https://pypi.org/project/pyprj/"
 }
