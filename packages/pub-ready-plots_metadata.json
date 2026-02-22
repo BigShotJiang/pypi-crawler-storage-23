@@ -1,0 +1,11 @@
+{
+  "name": "pub-ready-plots",
+  "version": "1.3",
+  "summary": "Easy publication-ready matplotlib plots for ML papers and posters.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pub_ready_plots-1.3.tar.gz",
+  "download_time": "2026-02-22T17:49:43.655316",
+  "package_url": "https://pypi.org/project/pub-ready-plots/"
+}

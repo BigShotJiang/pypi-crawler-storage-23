@@ -1,0 +1,11 @@
+{
+  "name": "aiohutils",
+  "version": "0.24.1",
+  "summary": "A small library to for aiohttp projects.",
+  "author": "5j9",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "aiohutils-0.24.1.tar.gz",
+  "download_time": "2026-02-22T17:49:44.896285",
+  "package_url": "https://pypi.org/project/aiohutils/"
+}

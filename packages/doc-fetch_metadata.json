@@ -1,11 +1,11 @@
 {
   "name": "doc-fetch",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "Dynamic documentation fetching CLI that converts entire documentation sites to single markdown files for AI/LLM consumption",
   "author": "AlphaTechini",
   "license": "MIT",
   "home_page": "https://github.com/AlphaTechini/doc-fetch",
-  "download_filename": "doc_fetch-2.4.1.tar.gz",
-  "download_time": "2026-02-22T17:19:48.138292",
+  "download_filename": "doc_fetch-2.4.2.tar.gz",
+  "download_time": "2026-02-22T17:49:58.738546",
   "package_url": "https://pypi.org/project/doc-fetch/"
 }

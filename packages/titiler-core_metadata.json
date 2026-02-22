@@ -1,0 +1,11 @@
+{
+  "name": "titiler-core",
+  "version": "1.2.0",
+  "summary": "A modern dynamic tile server built on top of FastAPI and Rasterio/GDAL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "titiler_core-1.2.0.tar.gz",
+  "download_time": "2026-02-22T17:49:48.889003",
+  "package_url": "https://pypi.org/project/titiler-core/"
+}

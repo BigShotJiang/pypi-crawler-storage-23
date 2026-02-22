@@ -1,0 +1,11 @@
+{
+  "name": "librelyrics-deezer",
+  "version": "1.0.0",
+  "summary": "Deezer lyrics provider plugin for LibreLyrics",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "librelyrics_deezer-1.0.0.tar.gz",
+  "download_time": "2026-02-22T17:49:50.771133",
+  "package_url": "https://pypi.org/project/librelyrics-deezer/"
+}

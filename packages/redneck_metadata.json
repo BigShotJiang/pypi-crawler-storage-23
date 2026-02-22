@@ -1,11 +1,11 @@
 {
   "name": "redneck",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "A small, plugin-driven, declarative modpack builder,",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redneck-0.1.0.tar.gz",
-  "download_time": "2026-02-22T17:19:40.305232",
+  "download_filename": "redneck-0.1.5.tar.gz",
+  "download_time": "2026-02-22T17:50:04.962322",
   "package_url": "https://pypi.org/project/redneck/"
 }

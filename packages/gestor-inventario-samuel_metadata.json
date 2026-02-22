@@ -1,11 +1,11 @@
 {
   "name": "gestor-inventario-samuel",
-  "version": "2.0",
+  "version": "2.1",
   "summary": "Un gestor de inventario creado con GTK3 y SQLite.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gestor_inventario_samuel-2.0.tar.gz",
-  "download_time": "2026-02-22T14:22:52.925485",
+  "download_filename": "gestor_inventario_samuel-2.1.tar.gz",
+  "download_time": "2026-02-22T17:49:46.024149",
   "package_url": "https://pypi.org/project/gestor-inventario-samuel/"
 }
