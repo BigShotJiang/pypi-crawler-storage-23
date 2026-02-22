@@ -1,0 +1,11 @@
+{
+  "name": "jaraco.packaging",
+  "version": "10.4.0",
+  "summary": "tools to supplement packaging Python releases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaraco_packaging-10.4.0.tar.gz",
+  "download_time": "2026-02-22T16:55:29.768142",
+  "package_url": "https://pypi.org/project/jaraco.packaging/"
+}

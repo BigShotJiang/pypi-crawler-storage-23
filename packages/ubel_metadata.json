@@ -1,0 +1,11 @@
+{
+  "name": "ubel",
+  "version": "0.2.0",
+  "summary": "Supply-chain dependency firewall for: Python, Node, PHP, Ubuntu, Debian, Red Hat, and Almalinux.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubel-0.2.0.tar.gz",
+  "download_time": "2026-02-22T16:55:11.129329",
+  "package_url": "https://pypi.org/project/ubel/"
+}

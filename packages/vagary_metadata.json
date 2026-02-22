@@ -1,0 +1,11 @@
+{
+  "name": "vagary",
+  "version": "0.0.4",
+  "summary": "Lightweight VM-based GUI testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vagary-0.0.4.tar.gz",
+  "download_time": "2026-02-22T16:55:30.812036",
+  "package_url": "https://pypi.org/project/vagary/"
+}

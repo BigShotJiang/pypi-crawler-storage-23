@@ -1,0 +1,11 @@
+{
+  "name": "agentwork-mcp",
+  "version": "0.1.2",
+  "summary": "Official MCP server for Agentwork — delegate tasks to AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentwork_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-22T16:55:29.246392",
+  "package_url": "https://pypi.org/project/agentwork-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hexdag",
-  "version": "0.5.0.dev6",
+  "version": "0.7.0.dev5",
   "summary": "Lightweight DAG orchestration framework with enterprise pipeline capabilities",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hexdag-0.5.0.dev6.tar.gz",
-  "download_time": "2026-02-21T08:23:22.043386",
+  "download_filename": "hexdag-0.7.0.dev5.tar.gz",
+  "download_time": "2026-02-22T16:55:17.660505",
   "package_url": "https://pypi.org/project/hexdag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "marshmallow-generic",
+  "version": "4.0.0",
+  "summary": "Generic schema with full typing support and minimal boilerplate",
+  "author": null,
+  "license": "Apache Software License Version 2.0",
+  "home_page": null,
+  "download_filename": "marshmallow_generic-4.0.0.tar.gz",
+  "download_time": "2026-02-22T16:55:46.877081",
+  "package_url": "https://pypi.org/project/marshmallow-generic/"
+}

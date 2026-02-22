@@ -1,0 +1,11 @@
+{
+  "name": "woo-ext",
+  "version": "0.1.0",
+  "summary": "Extended functions for woocommerce client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "woo_ext-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-22T16:55:07.290945",
+  "package_url": "https://pypi.org/project/woo-ext/"
+}

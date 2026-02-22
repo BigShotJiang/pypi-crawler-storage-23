@@ -1,11 +1,11 @@
 {
   "name": "straindesign",
-  "version": "1.16",
+  "version": "1.17",
   "summary": "Computational strain design package for the COBRApy framework",
   "author": "Philipp Schneider",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/klamt-lab/straindesign.git",
-  "download_filename": "straindesign-1.16.tar.gz",
-  "download_time": "2026-02-22T15:19:35.702728",
+  "download_filename": "straindesign-1.17.tar.gz",
+  "download_time": "2026-02-22T16:55:25.344784",
   "package_url": "https://pypi.org/project/straindesign/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lit-ollama",
+  "version": "0.1.0",
+  "summary": "Replace ollama with LitServe",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lit_ollama-0.1.0.tar.gz",
+  "download_time": "2026-02-22T16:55:08.974293",
+  "package_url": "https://pypi.org/project/lit-ollama/"
+}

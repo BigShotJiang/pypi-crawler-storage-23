@@ -1,0 +1,11 @@
+{
+  "name": "grillycompression",
+  "version": "0.1.0",
+  "summary": "Activation, KV-cache, and communication compression pipelines — optional grilly extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grillycompression-0.1.0.tar.gz",
+  "download_time": "2026-02-22T16:55:11.685338",
+  "package_url": "https://pypi.org/project/grillycompression/"
+}

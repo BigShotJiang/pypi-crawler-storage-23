@@ -1,0 +1,11 @@
+{
+  "name": "grillyinference",
+  "version": "0.1.0",
+  "summary": "Native fp16 inference engine for Llama models — optional grilly extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grillyinference-0.1.0.tar.gz",
+  "download_time": "2026-02-22T16:55:27.673996",
+  "package_url": "https://pypi.org/project/grillyinference/"
+}

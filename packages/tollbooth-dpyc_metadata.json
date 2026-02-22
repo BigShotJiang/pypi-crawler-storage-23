@@ -1,11 +1,11 @@
 {
   "name": "tollbooth-dpyc",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "Don't Pester Your Customer — Bitcoin Lightning micropayments for MCP servers",
   "author": "Lonnie VanZandt",
   "license": null,
   "home_page": null,
-  "download_filename": "tollbooth_dpyc-0.1.14.tar.gz",
-  "download_time": "2026-02-21T23:57:55.966690",
+  "download_filename": "tollbooth_dpyc-0.1.16.tar.gz",
+  "download_time": "2026-02-22T16:55:16.598983",
   "package_url": "https://pypi.org/project/tollbooth-dpyc/"
 }
