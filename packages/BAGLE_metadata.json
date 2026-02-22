@@ -1,11 +1,11 @@
 {
   "name": "BAGLE",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "BAGLE (Bayesian Analysis of Gravitational Lensing Events) is a package to model and fit microlensing events.",
   "author": "T. Dex Bhadra, Michael Medford, Casey Lam, Macy Huston, Edward Broadberry, Jeff Chen, Andrew Scharf, Sean Terry, Nijaid Arredondo",
   "license": null,
   "home_page": null,
-  "download_filename": "bagle-1.0.4.tar.gz",
-  "download_time": "2026-02-21T17:19:24.760376",
+  "download_filename": "bagle-1.0.5.tar.gz",
+  "download_time": "2026-02-22T15:59:11.566821",
   "package_url": "https://pypi.org/project/BAGLE/"
 }

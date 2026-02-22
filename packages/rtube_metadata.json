@@ -1,11 +1,11 @@
 {
   "name": "rtube",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Streaming platform from scratch",
   "author": "Richard Dally",
   "license": null,
   "home_page": null,
-  "download_filename": "rtube-0.9.0.tar.gz",
-  "download_time": "2026-02-21T17:19:03.802632",
+  "download_filename": "rtube-0.9.1.tar.gz",
+  "download_time": "2026-02-22T15:59:01.190484",
   "package_url": "https://pypi.org/project/rtube/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "smello",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Capture outgoing HTTP requests and inspect them in a local web dashboard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smello-0.3.1.tar.gz",
-  "download_time": "2026-02-20T21:57:46.574699",
+  "download_filename": "smello-0.4.0.tar.gz",
+  "download_time": "2026-02-22T15:59:23.622647",
   "package_url": "https://pypi.org/project/smello/"
 }

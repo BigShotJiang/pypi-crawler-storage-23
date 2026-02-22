@@ -1,0 +1,11 @@
+{
+  "name": "tomskit-cli",
+  "version": "0.8.0",
+  "summary": "tomskit CLI: Create projects based on tomskit development framework, focusing on business logic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomskit_cli-0.8.0-py3-none-any.whl",
+  "download_time": "2026-02-22T15:59:12.586260",
+  "package_url": "https://pypi.org/project/tomskit-cli/"
+}

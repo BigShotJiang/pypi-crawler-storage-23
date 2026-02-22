@@ -1,0 +1,11 @@
+{
+  "name": "gptquerytools",
+  "version": "0.0.3",
+  "summary": "GPTQuery is a modular Python framework for building, orchestrating, and deploying AI-powered tools across domains.",
+  "author": "Mauricio Mandujano Manriquez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptquerytools-0.0.3.tar.gz",
+  "download_time": "2026-02-22T15:59:33.577954",
+  "package_url": "https://pypi.org/project/gptquerytools/"
+}

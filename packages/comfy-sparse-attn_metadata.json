@@ -1,11 +1,11 @@
 {
   "name": "comfy-sparse-attn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Sparse / variable-length attention dispatch for ComfyUI custom nodes",
   "author": "Andrea Pozzetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfy_sparse_attn-0.0.2.tar.gz",
-  "download_time": "2026-02-22T15:43:53.124336",
+  "download_filename": "comfy_sparse_attn-0.0.3.tar.gz",
+  "download_time": "2026-02-22T15:59:11.055353",
   "package_url": "https://pypi.org/project/comfy-sparse-attn/"
 }
