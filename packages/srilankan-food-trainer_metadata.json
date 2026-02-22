@@ -1,0 +1,11 @@
+{
+  "name": "srilankan-food-trainer",
+  "version": "0.2.1",
+  "summary": "Easy-to-use library for extending Sri Lankan food recognition models",
+  "author": "Hashini Ranasinghe",
+  "license": null,
+  "home_page": "https://github.com/ranasinghehashini/srilankan-food-trainer",
+  "download_filename": "srilankan_food_trainer-0.2.1.tar.gz",
+  "download_time": "2026-02-22T06:05:41.135132",
+  "package_url": "https://pypi.org/project/srilankan-food-trainer/"
+}

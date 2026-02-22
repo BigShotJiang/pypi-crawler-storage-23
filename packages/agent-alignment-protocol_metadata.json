@@ -1,0 +1,11 @@
+{
+  "name": "agent-alignment-protocol",
+  "version": "0.3.0",
+  "summary": "Agent Alignment Protocol - The missing alignment layer for the agent protocol stack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_alignment_protocol-0.3.0.tar.gz",
+  "download_time": "2026-02-22T06:06:21.110365",
+  "package_url": "https://pypi.org/project/agent-alignment-protocol/"
+}

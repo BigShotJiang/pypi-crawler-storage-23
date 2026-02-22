@@ -1,11 +1,11 @@
 {
   "name": "overlay.library",
-  "version": "0.1.0",
-  "summary": "Overlay Language standard library — built-in definitions for the Overlay Language",
-  "author": "Yang, Bo",
+  "version": "0.2.0",
+  "summary": "The Overlay language standard library — built-in definitions for the Overlay language",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "overlay_library-0.1.0.tar.gz",
-  "download_time": "2026-02-18T09:02:54.378622",
+  "download_filename": "overlay_library-0.2.0.tar.gz",
+  "download_time": "2026-02-22T06:05:58.672994",
   "package_url": "https://pypi.org/project/overlay.library/"
 }

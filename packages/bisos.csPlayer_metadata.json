@@ -1,0 +1,11 @@
+{
+  "name": "bisos.csPlayer",
+  "version": "0.18",
+  "summary": "bisos.csPlayer: Blee-CS-Player: A Blee (ByStar Libre-Halaal Emacs Environment) CS (Command Services) Player.",
+  "author": "Mohsen Banan",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "bisos_csplayer-0.18.tar.gz",
+  "download_time": "2026-02-22T06:05:48.804117",
+  "package_url": "https://pypi.org/project/bisos.csPlayer/"
+}

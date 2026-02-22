@@ -1,0 +1,11 @@
+{
+  "name": "danger-decompyler",
+  "version": "0.1.0",
+  "summary": "A Python 3.12 compatible .pyc decompiler wrapper around pycdc",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourname/danger-decompyler",
+  "download_filename": "danger_decompyler-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-22T06:06:06.834217",
+  "package_url": "https://pypi.org/project/danger-decompyler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fallrisk-itpuf",
+  "version": "0.1.0",
+  "summary": "Biometric identity verification for AI models — challenge-response fingerprinting with cryptographic guarantees.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fallrisk_itpuf-0.1.0.tar.gz",
+  "download_time": "2026-02-22T06:05:49.325726",
+  "package_url": "https://pypi.org/project/fallrisk-itpuf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "overlay.language",
-  "version": "0.1.0",
-  "summary": "Overlay Language runtime — a composition-based programming language built on Overlay-Calculus",
-  "author": "Yang, Bo",
+  "version": "0.2.0",
+  "summary": "A dependency injection framework with pytest-fixture syntax, plus a configuration language for declarative programming",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "overlay_language-0.1.0.tar.gz",
-  "download_time": "2026-02-18T09:02:54.904916",
+  "download_filename": "overlay_language-0.2.0.tar.gz",
+  "download_time": "2026-02-22T06:05:59.220226",
   "package_url": "https://pypi.org/project/overlay.language/"
 }

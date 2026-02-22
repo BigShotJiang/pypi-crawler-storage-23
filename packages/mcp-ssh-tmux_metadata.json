@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ssh-tmux",
+  "version": "0.1.0",
+  "summary": "MCP server for persistent SSH sessions via local tmux",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ssh_tmux-0.1.0.tar.gz",
+  "download_time": "2026-02-22T06:06:20.589633",
+  "package_url": "https://pypi.org/project/mcp-ssh-tmux/"
+}

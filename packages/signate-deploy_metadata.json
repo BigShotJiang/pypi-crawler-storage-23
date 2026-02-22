@@ -1,11 +1,11 @@
 {
   "name": "signate-deploy",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A CLI tool to automate SIGNATE competition workflows via GitHub Actions",
   "author": "yasunorim",
   "license": null,
   "home_page": null,
-  "download_filename": "signate_deploy-0.1.4.tar.gz",
-  "download_time": "2026-02-22T05:13:10.064480",
+  "download_filename": "signate_deploy-0.1.6.tar.gz",
+  "download_time": "2026-02-22T06:06:17.186662",
   "package_url": "https://pypi.org/project/signate-deploy/"
 }
