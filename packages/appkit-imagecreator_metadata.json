@@ -1,11 +1,11 @@
 {
   "name": "appkit-imagecreator",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "Add your description here",
   "author": "Jens Rehpöhler",
   "license": null,
   "home_page": null,
-  "download_filename": "appkit_imagecreator-1.6.0.tar.gz",
-  "download_time": "2026-02-22T14:51:47.606153",
+  "download_filename": "appkit_imagecreator-1.6.1.tar.gz",
+  "download_time": "2026-02-22T21:28:00.526778",
   "package_url": "https://pypi.org/project/appkit-imagecreator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "know-cli",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Context Intelligence for AI Coding Agents — smart, token-budgeted code context",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "know_cli-0.8.3.tar.gz",
-  "download_time": "2026-02-22T14:51:35.678865",
+  "download_filename": "know_cli-0.8.4.tar.gz",
+  "download_time": "2026-02-22T21:27:48.521704",
   "package_url": "https://pypi.org/project/know-cli/"
 }
