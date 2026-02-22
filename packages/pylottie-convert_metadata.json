@@ -1,0 +1,11 @@
+{
+  "name": "pylottie-convert",
+  "version": "0.1.1.dev3",
+  "summary": "High performance Lottie renderer powered by rlottie",
+  "author": "Hoang Anh Nguyen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylottie_convert-0.1.1.dev3-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-22T05:13:16.258905",
+  "package_url": "https://pypi.org/project/pylottie-convert/"
+}

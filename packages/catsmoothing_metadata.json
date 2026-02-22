@@ -1,0 +1,11 @@
+{
+  "name": "catsmoothing",
+  "version": "0.4.0",
+  "summary": "Smoothing Shapely geometries using Catmull-Rom spline",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/cheginit/catsmoothing",
+  "download_filename": "catsmoothing-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-02-22T05:13:05.960929",
+  "package_url": "https://pypi.org/project/catsmoothing/"
+}

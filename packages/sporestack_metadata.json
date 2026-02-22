@@ -1,0 +1,11 @@
+{
+  "name": "sporestack",
+  "version": "15.0.0",
+  "summary": "SporeStack API library and CLI for launching servers with Monero or Bitcoin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sporestack-15.0.0.tar.gz",
+  "download_time": "2026-02-22T05:13:28.155370",
+  "package_url": "https://pypi.org/project/sporestack/"
+}

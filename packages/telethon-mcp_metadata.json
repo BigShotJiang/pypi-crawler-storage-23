@@ -1,0 +1,11 @@
+{
+  "name": "telethon-mcp",
+  "version": "1.0.0",
+  "summary": "Telegram MCP Server — control Telegram through Claude using Telethon. 46 tools for messaging, chats, contacts, media, admin, and advanced features.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telethon_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-22T05:13:23.013739",
+  "package_url": "https://pypi.org/project/telethon-mcp/"
+}

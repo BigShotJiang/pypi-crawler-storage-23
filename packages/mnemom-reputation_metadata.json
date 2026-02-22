@@ -1,0 +1,11 @@
+{
+  "name": "mnemom-reputation",
+  "version": "0.1.0",
+  "summary": "Client SDK for Mnemom reputation scores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemom_reputation-0.1.0.tar.gz",
+  "download_time": "2026-02-22T05:13:00.278887",
+  "package_url": "https://pypi.org/project/mnemom-reputation/"
+}

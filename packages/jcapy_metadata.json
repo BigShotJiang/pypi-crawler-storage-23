@@ -1,11 +1,11 @@
 {
   "name": "jcapy",
-  "version": "4.1.8",
+  "version": "4.1.9",
   "summary": "JCapy CLI - One-Army Orchestrator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jcapy-4.1.8.tar.gz",
-  "download_time": "2026-02-18T16:42:59.596370",
+  "download_filename": "jcapy-4.1.9.tar.gz",
+  "download_time": "2026-02-22T05:13:13.151704",
   "package_url": "https://pypi.org/project/jcapy/"
 }

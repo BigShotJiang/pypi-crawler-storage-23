@@ -1,11 +1,11 @@
 {
   "name": "ppt-mcp",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Real-time PowerPoint control via COM automation — an MCP server with 136 tools for AI agents",
   "author": "ykuwai",
   "license": null,
   "home_page": null,
-  "download_filename": "ppt_mcp-0.1.7.tar.gz",
-  "download_time": "2026-02-22T03:56:32.071224",
+  "download_filename": "ppt_mcp-0.1.9.tar.gz",
+  "download_time": "2026-02-22T05:13:04.924936",
   "package_url": "https://pypi.org/project/ppt-mcp/"
 }

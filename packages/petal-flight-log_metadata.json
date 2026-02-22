@@ -1,0 +1,11 @@
+{
+  "name": "petal-flight-log",
+  "version": "0.2.7",
+  "summary": "A petal for creating flight logs and download Ulog files from PXHawk",
+  "author": null,
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "petal_flight_log-0.2.7.tar.gz",
+  "download_time": "2026-02-22T05:13:13.665831",
+  "package_url": "https://pypi.org/project/petal-flight-log/"
+}

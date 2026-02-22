@@ -1,0 +1,11 @@
+{
+  "name": "homebridge-mcp",
+  "version": "1.0.0",
+  "summary": "Homebridge MCP Server — monitor and control your Homebridge smart home devices through Claude. 7 tools for device listing, status, search, logs, restart, and config.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "homebridge_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-22T05:13:21.990173",
+  "package_url": "https://pypi.org/project/homebridge-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emotionics",
+  "version": "0.1.2",
+  "summary": "Emotionics API (Python library)",
+  "author": "Kouhei Takagi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "emotionics-0.1.2.tar.gz",
+  "download_time": "2026-02-22T05:13:03.346336",
+  "package_url": "https://pypi.org/project/emotionics/"
+}

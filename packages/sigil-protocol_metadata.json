@@ -1,0 +1,11 @@
+{
+  "name": "sigil-protocol",
+  "version": "0.1.0",
+  "summary": "SIGIL security layer for AI agent tool calls — scans MCP tool arguments for leaked secrets, enforces policies, and writes audit logs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sigil_protocol-0.1.0.tar.gz",
+  "download_time": "2026-02-22T05:12:54.019901",
+  "package_url": "https://pypi.org/project/sigil-protocol/"
+}
