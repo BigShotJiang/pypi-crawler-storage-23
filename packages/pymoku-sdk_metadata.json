@@ -1,0 +1,11 @@
+{
+  "name": "pymoku-sdk",
+  "version": "0.4",
+  "summary": "CLI tool to create pymoku projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymoku_sdk-0.4.tar.gz",
+  "download_time": "2026-02-22T09:22:13.591757",
+  "package_url": "https://pypi.org/project/pymoku-sdk/"
+}

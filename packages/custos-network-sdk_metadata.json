@@ -1,0 +1,11 @@
+{
+  "name": "custos-network-sdk",
+  "version": "0.1.0",
+  "summary": "Proof-of-work for AI agents — add on-chain accountability to any agent framework in 3 lines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custos_network_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-22T09:22:28.638960",
+  "package_url": "https://pypi.org/project/custos-network-sdk/"
+}

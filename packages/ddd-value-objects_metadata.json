@@ -1,0 +1,11 @@
+{
+  "name": "ddd-value-objects",
+  "version": "0.2.1.1",
+  "summary": "A collection of base classes for Domain-Driven Design (DDD) value objects and entities in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddd_value_objects-0.2.1.1.tar.gz",
+  "download_time": "2026-02-22T09:22:05.343342",
+  "package_url": "https://pypi.org/project/ddd-value-objects/"
+}

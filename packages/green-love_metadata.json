@@ -1,11 +1,11 @@
 {
   "name": "green-love",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "PyTorch training estimator plugin — benchmark locally, estimate full training cost/time/CO₂, compare against Crusoe Cloud GPUs",
   "author": "Green Love Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "green_love-0.1.9.tar.gz",
-  "download_time": "2026-02-22T08:55:48.300836",
+  "download_filename": "green_love-0.2.1.tar.gz",
+  "download_time": "2026-02-22T09:22:14.101905",
   "package_url": "https://pypi.org/project/green-love/"
 }

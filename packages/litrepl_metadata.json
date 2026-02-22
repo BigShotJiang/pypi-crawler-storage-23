@@ -1,0 +1,11 @@
+{
+  "name": "litrepl",
+  "version": "3.14.1",
+  "summary": "Litrepl evaluates code from LaTeX/Markdown verbatim sections.",
+  "author": "Sergei Mironov",
+  "license": null,
+  "home_page": "https://github.com/sergei-mironov/litrepl",
+  "download_filename": "litrepl-3.14.1.tar.gz",
+  "download_time": "2026-02-22T09:22:15.150168",
+  "package_url": "https://pypi.org/project/litrepl/"
+}

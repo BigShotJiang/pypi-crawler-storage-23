@@ -1,0 +1,11 @@
+{
+  "name": "cryptoservice",
+  "version": "2.0.0",
+  "summary": "A cryptocurrency trading info package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cryptoservice-2.0.0.tar.gz",
+  "download_time": "2026-02-22T09:22:20.328637",
+  "package_url": "https://pypi.org/project/cryptoservice/"
+}

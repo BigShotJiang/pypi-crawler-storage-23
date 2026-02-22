@@ -1,11 +1,11 @@
 {
   "name": "qry",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Ultra-fast file search and processing tool",
   "author": "Tom Sapletta",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qry-0.2.10.tar.gz",
-  "download_time": "2026-02-22T08:56:04.088597",
+  "download_filename": "qry-0.2.11.tar.gz",
+  "download_time": "2026-02-22T09:22:27.102415",
   "package_url": "https://pypi.org/project/qry/"
 }

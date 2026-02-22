@@ -1,11 +1,11 @@
 {
   "name": "contextualbandits",
-  "version": "0.3.29",
+  "version": "0.3.30",
   "summary": "Python Implementations of Algorithms for Contextual Bandits",
   "author": "David Cortes",
   "license": null,
   "home_page": "https://github.com/david-cortes/contextualbandits",
-  "download_filename": "contextualbandits-0.3.29.tar.gz",
-  "download_time": "2026-02-22T08:55:54.212942",
+  "download_filename": "contextualbandits-0.3.30.tar.gz",
+  "download_time": "2026-02-22T09:22:08.973379",
   "package_url": "https://pypi.org/project/contextualbandits/"
 }
