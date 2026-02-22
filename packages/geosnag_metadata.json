@@ -1,0 +1,11 @@
+{
+  "name": "geosnag",
+  "version": "0.2.0",
+  "summary": "Auto-enrich photos with GPS coordinates from other photos taken nearby in time",
+  "author": "GeoSnag Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geosnag-0.2.0.tar.gz",
+  "download_time": "2026-02-22T09:53:45.143282",
+  "package_url": "https://pypi.org/project/geosnag/"
+}

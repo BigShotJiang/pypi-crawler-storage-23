@@ -1,0 +1,11 @@
+{
+  "name": "stsdb",
+  "version": "0.1.1",
+  "summary": "Deterministic Slay the Spire card and relic query toolset",
+  "author": "Taardisaa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stsdb-0.1.1.tar.gz",
+  "download_time": "2026-02-22T09:53:26.043969",
+  "package_url": "https://pypi.org/project/stsdb/"
+}

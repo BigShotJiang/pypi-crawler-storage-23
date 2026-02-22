@@ -1,0 +1,11 @@
+{
+  "name": "pyscan-yb",
+  "version": "0.1.0",
+  "summary": "A fast Python file scanner written in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyscan_yb-0.1.0.tar.gz",
+  "download_time": "2026-02-22T09:53:34.719963",
+  "package_url": "https://pypi.org/project/pyscan-yb/"
+}

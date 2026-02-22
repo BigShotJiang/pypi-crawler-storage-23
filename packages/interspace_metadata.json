@@ -1,0 +1,11 @@
+{
+  "name": "interspace",
+  "version": "0.0.11",
+  "summary": "Interspace provides different types of distance and similarity functions for vectors, sequences, and distributions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "interspace-0.0.11.tar.gz",
+  "download_time": "2026-02-22T09:53:04.376546",
+  "package_url": "https://pypi.org/project/interspace/"
+}

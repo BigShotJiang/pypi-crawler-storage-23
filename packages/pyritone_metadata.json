@@ -1,0 +1,11 @@
+{
+  "name": "pyritone",
+  "version": "0.1.0",
+  "summary": "Python client for the Py-Ritone Baritone bridge",
+  "author": "Py-Ritone",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyritone-0.1.0.tar.gz",
+  "download_time": "2026-02-22T09:53:20.426984",
+  "package_url": "https://pypi.org/project/pyritone/"
+}

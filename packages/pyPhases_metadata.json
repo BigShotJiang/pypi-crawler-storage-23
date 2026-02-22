@@ -1,0 +1,11 @@
+{
+  "name": "pyPhases",
+  "version": "1.6.0",
+  "summary": "A Framework for creating a boilerplate template for ai projects that are ready for MLOps",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt/pyPhases",
+  "download_filename": "pyphases-1.6.0.tar.gz",
+  "download_time": "2026-02-22T09:53:11.025189",
+  "package_url": "https://pypi.org/project/pyPhases/"
+}

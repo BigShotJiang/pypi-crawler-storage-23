@@ -1,11 +1,11 @@
 {
   "name": "rcommerz-logger-python",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Production-ready structured logging for Python/FastAPI microservices with OpenTelemetry support",
   "author": "RCOMMERZ",
   "license": "MIT",
   "home_page": "https://github.com/rcommerz/logger-python",
-  "download_filename": "rcommerz_logger_python-1.0.0.tar.gz",
-  "download_time": "2026-02-22T08:55:52.611804",
+  "download_filename": "rcommerz_logger_python-1.0.1.tar.gz",
+  "download_time": "2026-02-22T09:53:46.161972",
   "package_url": "https://pypi.org/project/rcommerz-logger-python/"
 }

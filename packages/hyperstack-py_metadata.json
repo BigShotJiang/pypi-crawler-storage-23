@@ -1,11 +1,11 @@
 {
   "name": "hyperstack-py",
-  "version": "1.5.2",
-  "summary": "Memory Hub for AI agents. Typed graph memory with episodic/semantic/working surfaces, decision replay, utility-weighted edges, git-style branching, and zero-friction markdown ingest. Includes can(), plan(), and auto_remember() for agent coordination. Zero LLM cost.",
+  "version": "1.5.4",
+  "summary": "The Agent Provenance Graph for AI agents. Timestamped facts, auditable decisions, deterministic trust. Prove what agents knew, trace why they knew it, coordinate without an LLM in the loop. $0 per operation.",
   "author": "CascadeAI",
   "license": "MIT",
   "home_page": "https://cascadeai.dev",
-  "download_filename": "hyperstack_py-1.5.2.tar.gz",
-  "download_time": "2026-02-22T03:56:44.777462",
+  "download_filename": "hyperstack_py-1.5.4.tar.gz",
+  "download_time": "2026-02-22T09:53:31.656601",
   "package_url": "https://pypi.org/project/hyperstack-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tibet",
+  "version": "1.0.0",
+  "summary": "TIBET - The Trust Kernel for AI. Audit as a Precondition, Not an Afterthought.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet-1.0.0.tar.gz",
+  "download_time": "2026-02-22T09:53:07.435839",
+  "package_url": "https://pypi.org/project/tibet/"
+}
