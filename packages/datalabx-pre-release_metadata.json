@@ -1,0 +1,11 @@
+{
+  "name": "datalabx-pre-release",
+  "version": "0.1.0b10",
+  "summary": "DataLabX v0.1.0b10 Pre-Release - First Public Release with Class-Based API & Flexible Data Loading.",
+  "author": "Kshitij Sharma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datalabx_pre_release-0.1.0b10.tar.gz",
+  "download_time": "2026-02-22T14:22:35.908373",
+  "package_url": "https://pypi.org/project/datalabx-pre-release/"
+}

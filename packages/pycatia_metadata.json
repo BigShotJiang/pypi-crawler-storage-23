@@ -1,0 +1,11 @@
+{
+  "name": "pycatia",
+  "version": "0.9.4",
+  "summary": "A python module to interface with the CATIA V5 COM object.",
+  "author": "Paul Bourne",
+  "license": null,
+  "home_page": "https://github.com/evereux/pycatia",
+  "download_filename": "pycatia-0.9.4.tar.gz",
+  "download_time": "2026-02-22T14:22:59.417194",
+  "package_url": "https://pypi.org/project/pycatia/"
+}

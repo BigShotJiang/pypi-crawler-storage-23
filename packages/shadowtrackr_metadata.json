@@ -1,0 +1,11 @@
+{
+  "name": "shadowtrackr",
+  "version": "4.7",
+  "summary": "A python API for ShadowTrackr",
+  "author": "Bas van Schaik",
+  "license": "MIT",
+  "home_page": "https://github.com/shadowtrackr/python_API",
+  "download_filename": "shadowtrackr-4.7.tar.gz",
+  "download_time": "2026-02-22T14:22:36.545374",
+  "package_url": "https://pypi.org/project/shadowtrackr/"
+}

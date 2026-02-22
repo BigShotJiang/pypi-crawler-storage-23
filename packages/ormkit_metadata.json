@@ -1,0 +1,11 @@
+{
+  "name": "ormkit",
+  "version": "0.1.4",
+  "summary": "A blazingly fast Python ORM powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ormkit-0.1.4.tar.gz",
+  "download_time": "2026-02-22T14:23:02.974014",
+  "package_url": "https://pypi.org/project/ormkit/"
+}

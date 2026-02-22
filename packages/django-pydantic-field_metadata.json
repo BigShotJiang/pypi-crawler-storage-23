@@ -1,0 +1,11 @@
+{
+  "name": "django-pydantic-field",
+  "version": "0.5.4",
+  "summary": "Type-Safe Pydantic Schemas for Django JSONFields",
+  "author": "Savva Surenkov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pydantic_field-0.5.4.tar.gz",
+  "download_time": "2026-02-22T14:22:33.834921",
+  "package_url": "https://pypi.org/project/django-pydantic-field/"
+}
