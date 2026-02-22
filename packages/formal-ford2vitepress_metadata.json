@@ -1,0 +1,11 @@
+{
+  "name": "formal-ford2vitepress",
+  "version": "0.2.15",
+  "summary": "FORMAL: Fortran FORD VitePress Markdown Documentation HTML generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "formal_ford2vitepress-0.2.15.tar.gz",
+  "download_time": "2026-02-22T20:45:55.299129",
+  "package_url": "https://pypi.org/project/formal-ford2vitepress/"
+}

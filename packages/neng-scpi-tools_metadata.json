@@ -1,11 +1,11 @@
 {
   "name": "neng-scpi-tools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Shared SCPI serial/WiFi communication tools and GUI widgets for NEnG instruments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neng_scpi_tools-0.1.1.tar.gz",
-  "download_time": "2026-02-22T20:16:30.824331",
+  "download_filename": "neng_scpi_tools-0.1.2.tar.gz",
+  "download_time": "2026-02-22T20:46:04.163320",
   "package_url": "https://pypi.org/project/neng-scpi-tools/"
 }

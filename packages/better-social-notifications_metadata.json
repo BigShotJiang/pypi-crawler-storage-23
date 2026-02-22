@@ -1,11 +1,11 @@
 {
   "name": "better-social-notifications",
-  "version": "3.0.1",
+  "version": "3.0.3",
   "summary": "Python app to send notifications with lower latency from social networks like YouTube and Twitch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "better_social_notifications-3.0.1.tar.gz",
-  "download_time": "2026-02-22T05:13:24.037111",
+  "download_filename": "better_social_notifications-3.0.3.tar.gz",
+  "download_time": "2026-02-22T20:45:49.911257",
   "package_url": "https://pypi.org/project/better-social-notifications/"
 }

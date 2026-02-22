@@ -1,0 +1,11 @@
+{
+  "name": "granite-common",
+  "version": "0.4.0",
+  "summary": "Input and output processing for IBM Granite models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "granite_common-0.4.0.tar.gz",
+  "download_time": "2026-02-22T20:46:01.072399",
+  "package_url": "https://pypi.org/project/granite-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azamat-weather-cli",
+  "version": "0.1.0",
+  "summary": "CLI для проверки погоды",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azamat_weather_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-22T20:45:31.819157",
+  "package_url": "https://pypi.org/project/azamat-weather-cli/"
+}
