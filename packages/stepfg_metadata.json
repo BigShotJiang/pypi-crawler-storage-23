@@ -1,0 +1,11 @@
+{
+  "name": "stepfg",
+  "version": "2.0.0",
+  "summary": "Convert 2D polygon cross-sections into 3D STEP files via extrusion",
+  "author": "Martin Berz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stepfg-2.0.0.tar.gz",
+  "download_time": "2026-02-22T23:47:57.341214",
+  "package_url": "https://pypi.org/project/stepfg/"
+}

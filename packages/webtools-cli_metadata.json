@@ -1,11 +1,11 @@
 {
   "name": "webtools-cli",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Advanced Web Intelligence & Scraping Toolkit with CLI and Web UI",
   "author": "Abhinav Adarsh",
   "license": null,
   "home_page": null,
-  "download_filename": "webtools_cli-1.1.4.tar.gz",
-  "download_time": "2026-02-22T23:17:50.319762",
+  "download_filename": "webtools_cli-1.1.5.tar.gz",
+  "download_time": "2026-02-22T23:47:59.989152",
   "package_url": "https://pypi.org/project/webtools-cli/"
 }

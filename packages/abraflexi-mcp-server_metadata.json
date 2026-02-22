@@ -1,0 +1,11 @@
+{
+  "name": "abraflexi-mcp-server",
+  "version": "1.0.0",
+  "summary": "A comprehensive MCP server for AbraFlexi integration",
+  "author": "Vítězslav Dvořák",
+  "license": null,
+  "home_page": "https://github.com/VitexSoftware/abraflexi-mcp-server",
+  "download_filename": "abraflexi_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-02-22T23:48:01.555919",
+  "package_url": "https://pypi.org/project/abraflexi-mcp-server/"
+}

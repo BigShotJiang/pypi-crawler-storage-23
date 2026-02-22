@@ -1,11 +1,11 @@
 {
   "name": "tracia",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "LLM prompt management and tracing SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracia-0.3.0.tar.gz",
-  "download_time": "2026-02-22T17:49:41.973565",
+  "download_filename": "tracia-0.3.1.tar.gz",
+  "download_time": "2026-02-22T23:48:03.809341",
   "package_url": "https://pypi.org/project/tracia/"
 }

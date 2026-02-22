@@ -1,0 +1,11 @@
+{
+  "name": "syspathmodif",
+  "version": "1.7.0",
+  "summary": "This library offers concise manners to modify list sys.path. The user should not need to directly interact with that list.",
+  "author": "Guyllaume Rousseau",
+  "license": "MIT",
+  "home_page": "https://github.com/GRV96/syspathmodif",
+  "download_filename": "syspathmodif-1.7.0.tar.gz",
+  "download_time": "2026-02-22T23:48:26.378089",
+  "package_url": "https://pypi.org/project/syspathmodif/"
+}

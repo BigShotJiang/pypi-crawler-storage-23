@@ -1,0 +1,11 @@
+{
+  "name": "neng-wifi-tools",
+  "version": "0.1.1",
+  "summary": "WiFi configuration, OTA firmware updates, and device scanning for NEnG instruments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neng_wifi_tools-0.1.1.tar.gz",
+  "download_time": "2026-02-22T23:47:53.176764",
+  "package_url": "https://pypi.org/project/neng-wifi-tools/"
+}

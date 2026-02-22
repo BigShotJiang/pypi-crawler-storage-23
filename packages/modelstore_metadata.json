@@ -1,0 +1,11 @@
+{
+  "name": "modelstore",
+  "version": "0.0.82",
+  "summary": "modelstore is a library for versioning, exporting, storing, and loading machine learning models",
+  "author": "Neal Lathia",
+  "license": "Please refer to the readme",
+  "home_page": "https://github.com/operatorai/modelstore",
+  "download_filename": "modelstore-0.0.82.tar.gz",
+  "download_time": "2026-02-22T23:48:10.107416",
+  "package_url": "https://pypi.org/project/modelstore/"
+}

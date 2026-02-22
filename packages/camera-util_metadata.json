@@ -1,0 +1,11 @@
+{
+  "name": "camera-util",
+  "version": "1.4.0",
+  "summary": "Python wrapper for USB, spin, Raspi, Jetson Nano cameras. Works on Windows, Raspian (inlc Bullseye), JetsonNano, MacOS",
+  "author": "Urs Utzinger",
+  "license": "MIT",
+  "home_page": "https://github.com/uutzinger/camera",
+  "download_filename": "camera_util-1.4.0.tar.gz",
+  "download_time": "2026-02-22T23:47:43.255641",
+  "package_url": "https://pypi.org/project/camera-util/"
+}

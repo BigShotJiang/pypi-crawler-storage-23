@@ -1,0 +1,11 @@
+{
+  "name": "bloom-cli",
+  "version": "0.1.2",
+  "summary": "CLI coding agent powered by Pollinations.ai",
+  "author": "Ilm-Alan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bloom_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-22T23:48:00.510538",
+  "package_url": "https://pypi.org/project/bloom-cli/"
+}

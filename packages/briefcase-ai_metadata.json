@@ -1,0 +1,11 @@
+{
+  "name": "briefcase-ai",
+  "version": "2.1.25",
+  "summary": "Python SDK for AI observability, replay, and decision tracking - Rust-powered performance",
+  "author": "Briefcase AI Team",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "briefcase_ai-2.1.25.tar.gz",
+  "download_time": "2026-02-22T23:47:41.693247",
+  "package_url": "https://pypi.org/project/briefcase-ai/"
+}
