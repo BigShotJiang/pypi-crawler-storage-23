@@ -1,0 +1,11 @@
+{
+  "name": "core-etl",
+  "version": "3.1.0",
+  "summary": "This project/library contains common elements related to ETL processes...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "core_etl-3.1.0.tar.gz",
+  "download_time": "2026-02-22T22:23:42.450662",
+  "package_url": "https://pypi.org/project/core-etl/"
+}

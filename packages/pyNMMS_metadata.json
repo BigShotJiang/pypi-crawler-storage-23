@@ -1,11 +1,11 @@
 {
   "name": "pyNMMS",
-  "version": "0.1.3",
-  "summary": "Non-Monotonic Multi-Succedent sequent calculus — propositional NMMS from Hlobil & Brandom 2025",
+  "version": "0.2.0",
+  "summary": "Non-Monotonic Multi-Succedent sequent calculus — propositional NMMS with restricted quantifiers, from Hlobil & Brandom 2025",
   "author": "Bradley P. Allen",
   "license": null,
   "home_page": null,
-  "download_filename": "pynmms-0.1.3.tar.gz",
-  "download_time": "2026-02-21T19:44:58.077216",
+  "download_filename": "pynmms-0.2.0.tar.gz",
+  "download_time": "2026-02-22T22:24:15.328299",
   "package_url": "https://pypi.org/project/pyNMMS/"
 }

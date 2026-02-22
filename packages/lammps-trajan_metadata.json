@@ -1,11 +1,11 @@
 {
   "name": "lammps-trajan",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "LAMMPS trajectory file analysis utility",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "lammps_trajan-0.0.11.tar.gz",
-  "download_time": "2026-02-22T19:57:36.688901",
+  "download_filename": "lammps_trajan-0.0.12.tar.gz",
+  "download_time": "2026-02-22T22:23:58.468041",
   "package_url": "https://pypi.org/project/lammps-trajan/"
 }

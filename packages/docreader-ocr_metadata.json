@@ -1,0 +1,11 @@
+{
+  "name": "docreader-ocr",
+  "version": "0.1.2",
+  "summary": "Document OCR pipeline: classify → detect fields → recognize text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docreader_ocr-0.1.2.tar.gz",
+  "download_time": "2026-02-22T22:23:59.613921",
+  "package_url": "https://pypi.org/project/docreader-ocr/"
+}

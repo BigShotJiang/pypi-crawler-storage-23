@@ -1,0 +1,11 @@
+{
+  "name": "cathedral",
+  "version": "0.1.0",
+  "summary": "A Pythonic probabilistic programming library inspired by Church and WebPPL",
+  "author": "Andrew Giessel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cathedral-0.1.0.tar.gz",
+  "download_time": "2026-02-22T22:23:48.880651",
+  "package_url": "https://pypi.org/project/cathedral/"
+}

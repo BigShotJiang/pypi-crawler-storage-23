@@ -1,11 +1,11 @@
 {
   "name": "alloc",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Engineer-first training calibration: estimate VRAM fit, profile short runs, and pick GPU configs under real budget constraints.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alloc-0.0.1.tar.gz",
-  "download_time": "2026-02-21T09:21:33.455970",
+  "download_filename": "alloc-0.0.3.tar.gz",
+  "download_time": "2026-02-22T22:23:51.072259",
   "package_url": "https://pypi.org/project/alloc/"
 }

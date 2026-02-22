@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-httpexample",
+  "version": "2.0",
+  "summary": "Adds example directive for sphinx-contrib httpdomain",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "sphinxcontrib_httpexample-2.0.tar.gz",
+  "download_time": "2026-02-22T22:24:03.320248",
+  "package_url": "https://pypi.org/project/sphinxcontrib-httpexample/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-maker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Auto-generate MCP servers from any data source. Zero code required.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_maker-0.2.0.tar.gz",
-  "download_time": "2026-02-22T19:44:29.344047",
+  "download_filename": "mcp_maker-0.2.1.tar.gz",
+  "download_time": "2026-02-22T22:24:09.020632",
   "package_url": "https://pypi.org/project/mcp-maker/"
 }

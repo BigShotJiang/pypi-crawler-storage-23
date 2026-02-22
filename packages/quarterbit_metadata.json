@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "19.0.2",
+  "version": "19.1.2",
   "summary": "AXIOM Full Stack - Train 70B on H100 with VLA 100% trainable weights (0.75 bytes/param)",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-19.0.2-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-22T20:17:09.781842",
+  "download_filename": "quarterbit-19.1.2-cp312-cp312-manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-22T22:23:44.643560",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

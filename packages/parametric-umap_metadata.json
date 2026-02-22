@@ -1,0 +1,11 @@
+{
+  "name": "parametric-umap",
+  "version": "0.2.0",
+  "summary": "A streamlined and fast implementation of parametric UMAP using PyTorch and FAISS",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "parametric_umap-0.2.0.tar.gz",
+  "download_time": "2026-02-22T22:24:23.181176",
+  "package_url": "https://pypi.org/project/parametric-umap/"
+}

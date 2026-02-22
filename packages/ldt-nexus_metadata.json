@@ -1,11 +1,11 @@
 {
   "name": "ldt-nexus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Reactive data-tree management with pathlib-hybrid interface",
   "author": "SnayperTihCreator",
   "license": null,
   "home_page": null,
-  "download_filename": "ldt_nexus-1.1.0.tar.gz",
-  "download_time": "2026-02-22T21:59:57.100561",
+  "download_filename": "ldt_nexus-1.1.1.tar.gz",
+  "download_time": "2026-02-22T22:24:15.881333",
   "package_url": "https://pypi.org/project/ldt-nexus/"
 }

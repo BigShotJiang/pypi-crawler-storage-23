@@ -1,0 +1,11 @@
+{
+  "name": "jbqlab",
+  "version": "1.0.1",
+  "summary": "A local-first quantitative backtesting and strategy analytics toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jbqlab-1.0.1.tar.gz",
+  "download_time": "2026-02-22T22:23:53.766169",
+  "package_url": "https://pypi.org/project/jbqlab/"
+}

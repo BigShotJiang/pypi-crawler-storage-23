@@ -1,0 +1,11 @@
+{
+  "name": "uup-builder",
+  "version": "0.1.1",
+  "summary": "Python Module for building an iso from uup dump files.",
+  "author": "Cairnstew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uup_builder-0.1.1.tar.gz",
+  "download_time": "2026-02-22T22:24:18.545527",
+  "package_url": "https://pypi.org/project/uup-builder/"
+}

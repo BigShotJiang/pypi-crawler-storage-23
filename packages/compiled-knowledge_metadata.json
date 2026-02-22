@@ -1,0 +1,11 @@
+{
+  "name": "compiled-knowledge",
+  "version": "4.2.3",
+  "summary": "A Python package for compiling and querying discrete probabilistic graphical models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "compiled_knowledge-4.2.3.tar.gz",
+  "download_time": "2026-02-22T22:24:00.653877",
+  "package_url": "https://pypi.org/project/compiled-knowledge/"
+}
