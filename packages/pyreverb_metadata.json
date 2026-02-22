@@ -1,0 +1,11 @@
+{
+  "name": "pyreverb",
+  "version": "1.7.4",
+  "summary": "Multiplayer library",
+  "author": "Labo",
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "pyreverb-1.7.4.tar.gz",
+  "download_time": "2026-02-22T18:59:46.082489",
+  "package_url": "https://pypi.org/project/pyreverb/"
+}

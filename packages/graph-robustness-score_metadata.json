@@ -1,11 +1,11 @@
 {
   "name": "graph-robustness-score",
-  "version": "0.1.0",
-  "summary": "Simple scalar robustness score for networks: spectral gap − singular-value variance + clustering proxy (demo) / Ollivier–Ricci (full)",
+  "version": "0.1.1",
+  "summary": "Simple scalar robustness score for networks: spectral gap − singular-value variance + Ollivier–Ricci curvature",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graph_robustness_score-0.1.0.tar.gz",
-  "download_time": "2026-02-22T08:21:43.507057",
+  "download_filename": "graph_robustness_score-0.1.1.tar.gz",
+  "download_time": "2026-02-22T19:00:05.305298",
   "package_url": "https://pypi.org/project/graph-robustness-score/"
 }

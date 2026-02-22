@@ -1,0 +1,11 @@
+{
+  "name": "irtorch",
+  "version": "0.5.3",
+  "summary": "IRTorch: An item response theory package for python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "irtorch-0.5.3.tar.gz",
+  "download_time": "2026-02-22T18:59:55.197958",
+  "package_url": "https://pypi.org/project/irtorch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markus-moss",
+  "version": "0.1.1",
+  "summary": "Run MOSS plagiarism detector on MarkUs submissions",
+  "author": "Sophia Huynh, Sam Maldonado, Misha Schwartz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markus_moss-0.1.1.tar.gz",
+  "download_time": "2026-02-22T19:00:08.165152",
+  "package_url": "https://pypi.org/project/markus-moss/"
+}

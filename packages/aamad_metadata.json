@@ -1,0 +1,11 @@
+{
+  "name": "aamad",
+  "version": "0.3.0",
+  "summary": "AI-Assisted Multi-Agent Development framework artifacts and installer",
+  "author": "Synaptic AI Consulting",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aamad-0.3.0.tar.gz",
+  "download_time": "2026-02-22T18:59:48.956173",
+  "package_url": "https://pypi.org/project/aamad/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "memctl",
-  "version": "0.12.4",
+  "version": "0.13.0",
   "summary": "A Unix-native memory control plane for LLM orchestration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memctl-0.12.4.tar.gz",
-  "download_time": "2026-02-22T17:50:10.637392",
+  "download_filename": "memctl-0.13.0.tar.gz",
+  "download_time": "2026-02-22T19:00:29.634727",
   "package_url": "https://pypi.org/project/memctl/"
 }

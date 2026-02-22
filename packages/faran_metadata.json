@@ -1,11 +1,11 @@
 {
   "name": "faran",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A library providing performant NumPy & JAX implementations of an MPPI planner, along with implementation of related algorithms/tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faran-0.2.4.tar.gz",
-  "download_time": "2026-02-22T13:25:48.133510",
+  "download_filename": "faran-0.2.5.tar.gz",
+  "download_time": "2026-02-22T19:00:27.371470",
   "package_url": "https://pypi.org/project/faran/"
 }

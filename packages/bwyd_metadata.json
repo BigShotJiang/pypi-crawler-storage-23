@@ -1,0 +1,11 @@
+{
+  "name": "bwyd",
+  "version": "0.3.0",
+  "summary": "The seed crazy idea here is to consider how human cooks behave like robots, following recipes as instructions.",
+  "author": "derwen.ai",
+  "license": null,
+  "home_page": "https://github.com/DerwenAI/bwyd",
+  "download_filename": "bwyd-0.3.0.tar.gz",
+  "download_time": "2026-02-22T18:59:52.921929",
+  "package_url": "https://pypi.org/project/bwyd/"
+}

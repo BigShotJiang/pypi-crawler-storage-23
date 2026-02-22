@@ -1,0 +1,11 @@
+{
+  "name": "asterrdetection",
+  "version": "0.8",
+  "summary": "A package that identifies semantic errors in faulty code by comparing it against a set of expected correct code versions.",
+  "author": "Badmavasan KIROUCHENASSAMY",
+  "license": null,
+  "home_page": "https://github.com/Badmavasan/ast-error-detection",
+  "download_filename": "asterrdetection-0.8.tar.gz",
+  "download_time": "2026-02-22T18:59:52.359583",
+  "package_url": "https://pypi.org/project/asterrdetection/"
+}
