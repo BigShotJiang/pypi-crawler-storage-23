@@ -1,0 +1,11 @@
+{
+  "name": "justmytype",
+  "version": "0.3.0",
+  "summary": "Cross-platform font discovery and resolution library for Python",
+  "author": "Kaj Siebert",
+  "license": "MIT",
+  "home_page": "https://github.com/kws/justmytype",
+  "download_filename": "justmytype-0.3.0.tar.gz",
+  "download_time": "2026-02-22T08:56:14.333738",
+  "package_url": "https://pypi.org/project/justmytype/"
+}

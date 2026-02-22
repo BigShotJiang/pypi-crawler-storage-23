@@ -1,0 +1,11 @@
+{
+  "name": "vmlinux-to-elf",
+  "version": "1.1.0",
+  "summary": "A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)",
+  "author": "Marin Moulinier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmlinux_to_elf-1.1.0.tar.gz",
+  "download_time": "2026-02-22T08:56:21.904694",
+  "package_url": "https://pypi.org/project/vmlinux-to-elf/"
+}

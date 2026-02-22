@@ -1,0 +1,11 @@
+{
+  "name": "nbforager",
+  "version": "1.2.0",
+  "summary": "Python package designed to assist in working with the Netbox REST API. The filter parameters are identical to those in the Web UI filter form. It replaces brief data with full information, and Netbox objects are represented as a recursive multidimensional dictionary.",
+  "author": "Vladimirs Prusakovs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nbforager-1.2.0.tar.gz",
+  "download_time": "2026-02-22T08:55:48.833559",
+  "package_url": "https://pypi.org/project/nbforager/"
+}

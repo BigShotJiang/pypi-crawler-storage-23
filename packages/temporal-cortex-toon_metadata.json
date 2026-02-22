@@ -1,11 +1,11 @@
 {
   "name": "temporal-cortex-toon",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "TOON encoder/decoder and Truth Engine (temporal resolution, timezone conversion, RRULE expansion, availability merging) for AI calendar agents",
   "author": "Billy Lui",
   "license": null,
   "home_page": null,
-  "download_filename": "temporal_cortex_toon-0.2.1.tar.gz",
-  "download_time": "2026-02-20T16:08:25.912085",
+  "download_filename": "temporal_cortex_toon-0.3.0.tar.gz",
+  "download_time": "2026-02-22T08:56:01.417468",
   "package_url": "https://pypi.org/project/temporal-cortex-toon/"
 }

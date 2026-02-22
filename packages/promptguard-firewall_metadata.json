@@ -1,0 +1,11 @@
+{
+  "name": "promptguard-firewall",
+  "version": "0.1.1",
+  "summary": "Prompt injection firewall for AI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptguard_firewall-0.1.1.tar.gz",
+  "download_time": "2026-02-22T08:56:11.125975",
+  "package_url": "https://pypi.org/project/promptguard-firewall/"
+}

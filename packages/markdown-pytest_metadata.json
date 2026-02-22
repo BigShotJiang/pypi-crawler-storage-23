@@ -1,11 +1,11 @@
 {
   "name": "markdown-pytest",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Pytest plugin for runs tests directly from Markdown files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_pytest-0.5.2.tar.gz",
-  "download_time": "2026-02-22T08:21:51.232166",
+  "download_filename": "markdown_pytest-0.5.3.tar.gz",
+  "download_time": "2026-02-22T08:55:46.685545",
   "package_url": "https://pypi.org/project/markdown-pytest/"
 }

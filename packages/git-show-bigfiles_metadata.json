@@ -1,0 +1,11 @@
+{
+  "name": "git-show-bigfiles",
+  "version": "1.1.3077",
+  "summary": "git bigfile detection for migration projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_show_bigfiles-1.1.3077-py3-none-any.whl",
+  "download_time": "2026-02-22T08:56:07.886476",
+  "package_url": "https://pypi.org/project/git-show-bigfiles/"
+}
