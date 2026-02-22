@@ -1,0 +1,11 @@
+{
+  "name": "neng-mag-logger",
+  "version": "0.1.1",
+  "summary": "3-axis magnetometer GUI with real-time plots and SCPI interface for NEnG 3Dmag instruments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neng_mag_logger-0.1.1.tar.gz",
+  "download_time": "2026-02-22T21:47:21.152169",
+  "package_url": "https://pypi.org/project/neng-mag-logger/"
+}

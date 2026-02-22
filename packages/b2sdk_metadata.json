@@ -1,0 +1,11 @@
+{
+  "name": "b2sdk",
+  "version": "2.10.3",
+  "summary": "Backblaze B2 SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "b2sdk-2.10.3.tar.gz",
+  "download_time": "2026-02-22T21:47:27.501363",
+  "package_url": "https://pypi.org/project/b2sdk/"
+}

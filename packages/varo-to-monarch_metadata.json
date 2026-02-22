@@ -1,11 +1,11 @@
 {
   "name": "varo-to-monarch",
-  "version": "0.4.9",
+  "version": "0.4.11",
   "summary": "Convert Varo Believe credit card PDF statements to Monarch Money CSV format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "varo_to_monarch-0.4.9.tar.gz",
-  "download_time": "2026-02-22T20:17:07.207870",
+  "download_filename": "varo_to_monarch-0.4.11.tar.gz",
+  "download_time": "2026-02-22T21:47:26.843409",
   "package_url": "https://pypi.org/project/varo-to-monarch/"
 }

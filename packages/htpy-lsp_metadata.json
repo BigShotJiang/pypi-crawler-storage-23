@@ -1,0 +1,11 @@
+{
+  "name": "htpy-lsp",
+  "version": "0.1.0",
+  "summary": "LSP for validating htpy syntax rules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "htpy_lsp-0.1.0.tar.gz",
+  "download_time": "2026-02-22T21:46:56.936131",
+  "package_url": "https://pypi.org/project/htpy-lsp/"
+}

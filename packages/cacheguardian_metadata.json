@@ -1,11 +1,11 @@
 {
   "name": "cacheguardian",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Universal prompt cache optimizer for Anthropic, OpenAI & Gemini",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cacheguardian-0.1.0.tar.gz",
-  "download_time": "2026-02-20T19:06:10.702821",
+  "download_filename": "cacheguardian-0.3.0.tar.gz",
+  "download_time": "2026-02-22T21:47:35.143103",
   "package_url": "https://pypi.org/project/cacheguardian/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "m-conf",
-  "version": "0.1.1",
-  "summary": "Mergeable configuration",
+  "version": "0.1.2",
+  "summary": "Mergeable configuration parser",
   "author": "Leandro Oliveira",
   "license": null,
   "home_page": null,
-  "download_filename": "m_conf-0.1.1.tar.gz",
-  "download_time": "2026-02-22T20:46:09.310842",
+  "download_filename": "m_conf-0.1.2.tar.gz",
+  "download_time": "2026-02-22T21:47:45.788483",
   "package_url": "https://pypi.org/project/m-conf/"
 }

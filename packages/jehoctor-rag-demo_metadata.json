@@ -1,0 +1,11 @@
+{
+  "name": "jehoctor-rag-demo",
+  "version": "0.2.3",
+  "summary": "Chat with Wikipedia",
+  "author": "James Hoctor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jehoctor_rag_demo-0.2.3.tar.gz",
+  "download_time": "2026-02-22T21:46:59.453102",
+  "package_url": "https://pypi.org/project/jehoctor-rag-demo/"
+}

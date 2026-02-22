@@ -1,0 +1,11 @@
+{
+  "name": "reaktiv",
+  "version": "0.21.3",
+  "summary": "Signals for Python - inspired by Angular Signals / SolidJS. Reactive Declarative State Management Library for Python - automatic dependency tracking and reactive updates for your application state.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reaktiv-0.21.3.tar.gz",
+  "download_time": "2026-02-22T21:47:48.339204",
+  "package_url": "https://pypi.org/project/reaktiv/"
+}

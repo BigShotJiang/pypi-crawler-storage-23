@@ -1,0 +1,11 @@
+{
+  "name": "Interfluxer",
+  "version": "0.1.0a0",
+  "summary": "Easy, simple, scalable and modular: a Python API wrapper for Fluxer.",
+  "author": "LordOfPolls",
+  "license": null,
+  "home_page": "https://github.com/LordOfPolls/Interfluxer",
+  "download_filename": "interfluxer-0.1.0a0.tar.gz",
+  "download_time": "2026-02-22T21:46:58.226031",
+  "package_url": "https://pypi.org/project/Interfluxer/"
+}

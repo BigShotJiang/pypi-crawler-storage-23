@@ -1,0 +1,11 @@
+{
+  "name": "jsd-consistency",
+  "version": "0.1.0",
+  "summary": "JSD-based predictive consistency metric for probabilistic models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsd_consistency-0.1.0.tar.gz",
+  "download_time": "2026-02-22T21:47:32.125470",
+  "package_url": "https://pypi.org/project/jsd-consistency/"
+}

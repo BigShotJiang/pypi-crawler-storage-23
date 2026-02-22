@@ -1,0 +1,11 @@
+{
+  "name": "pytest-spec",
+  "version": "6.0.0",
+  "summary": "Library pytest-spec is a pytest plugin to display test execution output like a SPECIFICATION.",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pytest_spec-6.0.0.tar.gz",
+  "download_time": "2026-02-22T21:47:19.864552",
+  "package_url": "https://pypi.org/project/pytest-spec/"
+}

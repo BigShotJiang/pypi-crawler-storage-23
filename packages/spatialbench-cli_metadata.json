@@ -1,0 +1,11 @@
+{
+  "name": "spatialbench-cli",
+  "version": "0.2.0",
+  "summary": "Python CLI for Spatial Bench data generator",
+  "author": "Apache Sedona <dev@sedona.apache.org>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/apache/sedona-spatialbench/",
+  "download_filename": "spatialbench_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-22T21:47:40.386275",
+  "package_url": "https://pypi.org/project/spatialbench-cli/"
+}

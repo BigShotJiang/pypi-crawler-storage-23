@@ -1,0 +1,11 @@
+{
+  "name": "pquant-ml",
+  "version": "0.0.4",
+  "summary": "Pruning and Quantization of ML models",
+  "author": "NGT 1.3 team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pquant_ml-0.0.4.tar.gz",
+  "download_time": "2026-02-22T21:47:59.471025",
+  "package_url": "https://pypi.org/project/pquant-ml/"
+}

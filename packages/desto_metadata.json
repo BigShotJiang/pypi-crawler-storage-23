@@ -1,11 +1,11 @@
 {
   "name": "desto",
-  "version": "0.4.14",
+  "version": "0.5.1",
   "summary": "tmux session manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "desto-0.4.14-py3-none-any.whl",
-  "download_time": "2026-02-21T17:49:44.155551",
+  "download_filename": "desto-0.5.1-py3-none-any.whl",
+  "download_time": "2026-02-22T21:47:36.432902",
   "package_url": "https://pypi.org/project/desto/"
 }
