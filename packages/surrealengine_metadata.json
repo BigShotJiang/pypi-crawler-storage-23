@@ -1,11 +1,11 @@
 {
   "name": "surrealengine",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "summary": "An async Object-Document Mapper (ODM) for SurrealDB",
   "author": "Iristech Systems",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "surrealengine-0.9.6.tar.gz",
-  "download_time": "2026-02-21T21:15:25.844611",
+  "download_filename": "surrealengine-0.9.7.tar.gz",
+  "download_time": "2026-02-22T13:58:19.263456",
   "package_url": "https://pypi.org/project/surrealengine/"
 }
