@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-ant",
+  "version": "0.0.1",
+  "summary": "balderhub-ant: BalderHub project for testing ANT/ANT+ protocol",
+  "author": "Max Stahlschmidt",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/ant",
+  "download_filename": "balderhub_ant-0.0.1.tar.gz",
+  "download_time": "2026-02-22T16:24:56.200685",
+  "package_url": "https://pypi.org/project/balderhub-ant/"
+}

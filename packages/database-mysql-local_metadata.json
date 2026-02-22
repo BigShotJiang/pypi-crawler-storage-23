@@ -1,0 +1,11 @@
+{
+  "name": "database-mysql-local",
+  "version": "0.1.57",
+  "summary": null,
+  "author": "Circles",
+  "license": null,
+  "home_page": "https://github.com/circles-zone/database-mysql-local-python-package",
+  "download_filename": "database_mysql_local-0.1.57.tar.gz",
+  "download_time": "2026-02-22T16:25:15.852916",
+  "package_url": "https://pypi.org/project/database-mysql-local/"
+}

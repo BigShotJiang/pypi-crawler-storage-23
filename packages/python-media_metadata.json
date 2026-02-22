@@ -1,0 +1,11 @@
+{
+  "name": "python-media",
+  "version": "0.2.4",
+  "summary": "In-memory video processing library powered by FFmpeg",
+  "author": "moinakmalkhan",
+  "license": "MIT",
+  "home_page": "https://github.com/moinakmalkhan/pymedia",
+  "download_filename": "python_media-0.2.4.tar.gz",
+  "download_time": "2026-02-22T16:24:56.725985",
+  "package_url": "https://pypi.org/project/python-media/"
+}

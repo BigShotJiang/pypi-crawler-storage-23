@@ -1,11 +1,11 @@
 {
   "name": "django-xbench",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Django middleware that measures request time breakdown (total/db/app) and query count using execute_wrapper.",
   "author": "Kim Yeongbin",
   "license": null,
   "home_page": null,
-  "download_filename": "django_xbench-0.1.5.tar.gz",
-  "download_time": "2026-02-22T10:47:29.109418",
+  "download_filename": "django_xbench-0.1.6.tar.gz",
+  "download_time": "2026-02-22T16:25:11.803014",
   "package_url": "https://pypi.org/project/django-xbench/"
 }

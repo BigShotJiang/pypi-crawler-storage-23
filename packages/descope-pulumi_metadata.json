@@ -1,0 +1,11 @@
+{
+  "name": "descope-pulumi",
+  "version": "0.3.4",
+  "summary": "A Pulumi package for creating and managing descope cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "descope_pulumi-0.3.4.tar.gz",
+  "download_time": "2026-02-22T16:25:12.997613",
+  "package_url": "https://pypi.org/project/descope-pulumi/"
+}
