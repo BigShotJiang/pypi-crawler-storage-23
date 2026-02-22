@@ -1,0 +1,11 @@
+{
+  "name": "repofail",
+  "version": "0.2.5",
+  "summary": "Predict why a repository will fail on your machine before you run it.",
+  "author": "Jayanth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repofail-0.2.5-py3-none-any.whl",
+  "download_time": "2026-02-22T01:24:57.490865",
+  "package_url": "https://pypi.org/project/repofail/"
+}

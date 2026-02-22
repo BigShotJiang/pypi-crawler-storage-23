@@ -1,11 +1,11 @@
 {
   "name": "openpurse",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "summary": "A lightweight Python package to flatten complex ISO 20022 XML messages into usable data.",
-  "author": null,
+  "author": "WDibble",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openpurse-0.1.0.tar.gz",
-  "download_time": "2026-02-21T23:57:50.730478",
+  "download_filename": "openpurse-0.1.6.tar.gz",
+  "download_time": "2026-02-22T01:24:55.777105",
   "package_url": "https://pypi.org/project/openpurse/"
 }

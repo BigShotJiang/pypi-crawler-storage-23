@@ -1,0 +1,11 @@
+{
+  "name": "sksecurity",
+  "version": "1.2.0",
+  "summary": "Enterprise-grade security for AI agent ecosystems",
+  "author": "smilinTux Team",
+  "license": null,
+  "home_page": "https://github.com/smilinTux/SKSecurity",
+  "download_filename": "sksecurity-1.2.0.tar.gz",
+  "download_time": "2026-02-22T01:25:30.158951",
+  "package_url": "https://pypi.org/project/sksecurity/"
+}

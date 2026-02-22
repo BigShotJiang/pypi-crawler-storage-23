@@ -1,11 +1,11 @@
 {
   "name": "djinn-bot-cli",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "Python CLI for djinnbot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "djinn_bot_cli-0.2.9.tar.gz",
-  "download_time": "2026-02-21T23:23:57.602484",
+  "download_filename": "djinn_bot_cli-0.2.11.tar.gz",
+  "download_time": "2026-02-22T01:25:34.642354",
   "package_url": "https://pypi.org/project/djinn-bot-cli/"
 }

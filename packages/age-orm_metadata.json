@@ -1,0 +1,11 @@
+{
+  "name": "age-orm",
+  "version": "0.2.0",
+  "summary": "A Python ORM for Apache AGE graph database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "age_orm-0.2.0.tar.gz",
+  "download_time": "2026-02-22T01:25:36.284688",
+  "package_url": "https://pypi.org/project/age-orm/"
+}

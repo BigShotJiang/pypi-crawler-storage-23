@@ -1,0 +1,11 @@
+{
+  "name": "mutable-lattice",
+  "version": "0.3.0",
+  "summary": "integer linear algebra using mutable sublattices of Z^n",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mutable_lattice-0.3.0.tar.gz",
+  "download_time": "2026-02-22T01:25:33.554714",
+  "package_url": "https://pypi.org/project/mutable-lattice/"
+}

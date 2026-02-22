@@ -1,0 +1,11 @@
+{
+  "name": "torchcriterion",
+  "version": "0.2.0",
+  "summary": "A modular PyTorch loss function library with popular criteria for classification, regression, segmentation, and metric learning.",
+  "author": "LiodonAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchcriterion-0.2.0.tar.gz",
+  "download_time": "2026-02-22T01:24:59.234378",
+  "package_url": "https://pypi.org/project/torchcriterion/"
+}

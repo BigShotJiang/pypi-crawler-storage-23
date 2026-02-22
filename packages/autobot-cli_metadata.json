@@ -1,0 +1,11 @@
+{
+  "name": "autobot-cli",
+  "version": "0.1.1",
+  "summary": "Agent gateway wrapping Claude Code CLI for Telegram + Cron",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autobot_cli-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-22T01:25:18.922245",
+  "package_url": "https://pypi.org/project/autobot-cli/"
+}

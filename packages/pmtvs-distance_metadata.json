@@ -1,11 +1,11 @@
 {
   "name": "pmtvs-distance",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Distance metrics for signal comparison (4 functions, 3 Rust-accelerated)",
   "author": "pmtvs contributors",
   "license": "PolyForm-Strict-1.0.0",
   "home_page": null,
-  "download_filename": "pmtvs_distance-0.3.1-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-19T22:21:57.444436",
+  "download_filename": "pmtvs_distance-0.3.3.tar.gz",
+  "download_time": "2026-02-22T01:25:27.906027",
   "package_url": "https://pypi.org/project/pmtvs-distance/"
 }

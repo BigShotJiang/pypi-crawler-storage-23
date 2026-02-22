@@ -1,0 +1,11 @@
+{
+  "name": "simple-kNN",
+  "version": "2.0.1",
+  "summary": "Simple kNN algorithm with k-Fold Cross Validation",
+  "author": "Chaitanya Krishna Kasaraneni",
+  "license": null,
+  "home_page": "https://github.com/chaitanyakasaraneni/simple-kNN",
+  "download_filename": "simple_knn-2.0.1.tar.gz",
+  "download_time": "2026-02-22T01:25:03.476930",
+  "package_url": "https://pypi.org/project/simple-kNN/"
+}
