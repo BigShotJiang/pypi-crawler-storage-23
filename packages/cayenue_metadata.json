@@ -1,0 +1,11 @@
+{
+  "name": "cayenue",
+  "version": "1.0.13",
+  "summary": "A client gui for Onvif",
+  "author": "Stephen Rhodes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cayenue-1.0.13.tar.gz",
+  "download_time": "2026-02-22T17:19:49.832717",
+  "package_url": "https://pypi.org/project/cayenue/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "argo-proxy",
-  "version": "2.8.7",
+  "version": "2.8.7.post1",
   "summary": "Proxy server to Argo API, OpenAI format compatible",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "argo_proxy-2.8.7.tar.gz",
-  "download_time": "2026-02-22T16:55:01.631695",
+  "download_filename": "argo_proxy-2.8.7.post1.tar.gz",
+  "download_time": "2026-02-22T17:19:50.407438",
   "package_url": "https://pypi.org/project/argo-proxy/"
 }

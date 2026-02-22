@@ -1,0 +1,11 @@
+{
+  "name": "kaalition-lib",
+  "version": "1.0.0",
+  "summary": "Python библиотека для автоматизации работы с API сайта kaalition.ru",
+  "author": "Dima-Programmer",
+  "license": "MIT",
+  "home_page": "https://github.com/Dima-programmer/KAALITION_API_LIB",
+  "download_filename": "kaalition_lib-1.0.0-py2.py3-none-any.whl",
+  "download_time": "2026-02-22T17:19:47.051817",
+  "package_url": "https://pypi.org/project/kaalition-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "office-janitor",
+  "version": "0.0.2",
+  "summary": "Utility for detecting, planning, and scrubbing Microsoft Office installations.",
+  "author": "Office Janitor Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "office_janitor-0.0.2.tar.gz",
+  "download_time": "2026-02-22T17:19:20.754222",
+  "package_url": "https://pypi.org/project/office-janitor/"
+}

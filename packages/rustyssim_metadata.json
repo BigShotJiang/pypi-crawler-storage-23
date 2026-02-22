@@ -1,0 +1,11 @@
+{
+  "name": "rustyssim",
+  "version": "0.6.0",
+  "summary": "This package provides a Python interface to parse SSIM files into a Polars DataFrame.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustyssim-0.6.0.tar.gz",
+  "download_time": "2026-02-22T17:19:36.305016",
+  "package_url": "https://pypi.org/project/rustyssim/"
+}

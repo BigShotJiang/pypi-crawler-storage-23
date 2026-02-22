@@ -1,0 +1,11 @@
+{
+  "name": "vesp",
+  "version": "1.0.0",
+  "summary": "Declarative framework for agents",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "vesp-1.0.0.tar.gz",
+  "download_time": "2026-02-22T17:20:04.113805",
+  "package_url": "https://pypi.org/project/vesp/"
+}

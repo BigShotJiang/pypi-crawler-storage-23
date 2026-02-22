@@ -1,0 +1,11 @@
+{
+  "name": "mermaido",
+  "version": "0.1.0",
+  "summary": "Render Mermaid diagrams from Python — no Node.js required",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mermaido-0.1.0.tar.gz",
+  "download_time": "2026-02-22T17:19:59.780810",
+  "package_url": "https://pypi.org/project/mermaido/"
+}

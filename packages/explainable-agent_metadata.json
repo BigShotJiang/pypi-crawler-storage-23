@@ -1,11 +1,11 @@
 {
   "name": "explainable-agent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A local-first, explainable AI agent framework with self-healing, detailed error diagnostics, and interactive tool-calling traces.",
   "author": "Emre",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "explainable_agent-0.1.1.tar.gz",
-  "download_time": "2026-02-20T21:16:20.881812",
+  "download_filename": "explainable_agent-0.1.2.tar.gz",
+  "download_time": "2026-02-22T17:19:35.218118",
   "package_url": "https://pypi.org/project/explainable-agent/"
 }

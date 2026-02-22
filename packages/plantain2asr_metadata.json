@@ -1,11 +1,11 @@
 {
   "name": "plantain2asr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A benchmarking and analysis framework for Russian ASR models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plantain2asr-0.1.1.tar.gz",
-  "download_time": "2026-02-22T16:55:42.908055",
+  "download_filename": "plantain2asr-0.1.2.tar.gz",
+  "download_time": "2026-02-22T17:19:25.817590",
   "package_url": "https://pypi.org/project/plantain2asr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kubeflow-trainer-api-milind",
+  "version": "2.3.0",
+  "summary": "Kubeflow Trainer API models for Kubernetes resources to interact with Kubeflow APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubeflow_trainer_api_milind-2.3.0.tar.gz",
+  "download_time": "2026-02-22T17:19:29.669306",
+  "package_url": "https://pypi.org/project/kubeflow-trainer-api-milind/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Open-AutoTools",
+  "version": "0.0.6",
+  "summary": "A suite of automated tools accessible via CLI with a simple `autotools` command",
+  "author": "BabylooPro",
+  "license": "MIT",
+  "home_page": "https://github.com/BabylooPro/Open-AutoTools",
+  "download_filename": "open_autotools-0.0.6.tar.gz",
+  "download_time": "2026-02-22T17:19:53.753619",
+  "package_url": "https://pypi.org/project/Open-AutoTools/"
+}

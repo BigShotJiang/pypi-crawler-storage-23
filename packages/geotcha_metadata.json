@@ -1,0 +1,11 @@
+{
+  "name": "geotcha",
+  "version": "0.1.0",
+  "summary": "Extract and harmonize RNA-seq metadata from NCBI GEO",
+  "author": "GEOtcha Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geotcha-0.1.0.tar.gz",
+  "download_time": "2026-02-22T17:19:58.692662",
+  "package_url": "https://pypi.org/project/geotcha/"
+}

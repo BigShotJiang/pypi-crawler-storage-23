@@ -1,0 +1,11 @@
+{
+  "name": "cdmltrain",
+  "version": "0.2.1",
+  "summary": "Stream ML datasets from ZIP/ZSTD archives into PyTorch without disk extraction.",
+  "author": "prem85642",
+  "license": null,
+  "home_page": "https://github.com/prem85642/cdmltrain",
+  "download_filename": "cdmltrain-0.2.1.tar.gz",
+  "download_time": "2026-02-22T17:19:49.287030",
+  "package_url": "https://pypi.org/project/cdmltrain/"
+}
