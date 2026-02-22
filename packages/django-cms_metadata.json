@@ -1,0 +1,11 @@
+{
+  "name": "django-cms",
+  "version": "5.0.6",
+  "summary": "Lean enterprise content management powered by Django.",
+  "author": "Django CMS Association and contributors",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.django-cms.org/",
+  "download_filename": "django_cms-5.0.6.tar.gz",
+  "download_time": "2026-02-22T08:21:39.886062",
+  "package_url": "https://pypi.org/project/django-cms/"
+}

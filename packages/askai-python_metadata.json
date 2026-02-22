@@ -1,11 +1,11 @@
 {
   "name": "askai-python",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI Made Stupid Simple. Unified API for OpenAI, Groq, Google, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "askai_python-0.2.0.tar.gz",
-  "download_time": "2026-02-22T07:49:14.992552",
+  "download_filename": "askai_python-0.2.1.tar.gz",
+  "download_time": "2026-02-22T08:21:17.685841",
   "package_url": "https://pypi.org/project/askai-python/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vmklib",
-  "version": "2.0.9",
+  "version": "2.0.11",
   "summary": "Simplify project workflows by standardizing use of GNU Make.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/vmklib",
-  "download_filename": "vmklib-2.0.9.tar.gz",
-  "download_time": "2026-02-22T07:49:21.217373",
+  "download_filename": "vmklib-2.0.11.tar.gz",
+  "download_time": "2026-02-22T08:21:37.780449",
   "package_url": "https://pypi.org/project/vmklib/"
 }

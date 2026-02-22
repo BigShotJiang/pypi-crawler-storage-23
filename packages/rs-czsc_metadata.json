@@ -1,0 +1,11 @@
+{
+  "name": "rs-czsc",
+  "version": "0.1.19.post260222",
+  "summary": "A Rust and Python integration project for CZSC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rs_czsc-0.1.19.post260222-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-22T08:21:13.027077",
+  "package_url": "https://pypi.org/project/rs-czsc/"
+}

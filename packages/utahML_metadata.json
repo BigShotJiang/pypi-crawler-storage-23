@@ -1,0 +1,11 @@
+{
+  "name": "utahML",
+  "version": "1.0.0",
+  "summary": "The Sovereign AI Operating System. Hyper-spatial computing framework.",
+  "author": "Utah Hans",
+  "license": null,
+  "home_page": "https://utahML.io",
+  "download_filename": "utahml-1.0.0.tar.gz",
+  "download_time": "2026-02-22T08:21:44.015147",
+  "package_url": "https://pypi.org/project/utahML/"
+}

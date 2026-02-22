@@ -1,11 +1,11 @@
 {
   "name": "git-p4son",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Utility for keeping a Perforce workspace and local git repo in sync",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_p4son-0.1.1.tar.gz",
-  "download_time": "2026-02-21T19:22:35.914219",
+  "download_filename": "git_p4son-0.1.3.tar.gz",
+  "download_time": "2026-02-22T08:21:21.790698",
   "package_url": "https://pypi.org/project/git-p4son/"
 }

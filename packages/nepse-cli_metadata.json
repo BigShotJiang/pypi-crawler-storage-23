@@ -1,0 +1,11 @@
+{
+  "name": "nepse-cli",
+  "version": "3.1.16",
+  "summary": "Modern CLI tool for Meroshare IPO automation and NEPSE market data with interactive TUI",
+  "author": "MenaceXnadin",
+  "license": null,
+  "home_page": "https://github.com/menaceXnadin/nepse-cli",
+  "download_filename": "nepse_cli-3.1.16.tar.gz",
+  "download_time": "2026-02-22T08:21:20.246574",
+  "package_url": "https://pypi.org/project/nepse-cli/"
+}

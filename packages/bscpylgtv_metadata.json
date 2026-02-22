@@ -1,0 +1,11 @@
+{
+  "name": "bscpylgtv",
+  "version": "0.5.1",
+  "summary": "Library to control webOS based LG TV devices.",
+  "author": "chros",
+  "license": null,
+  "home_page": "https://github.com/chros73/bscpylgtv",
+  "download_filename": "bscpylgtv-0.5.1.tar.gz",
+  "download_time": "2026-02-22T08:21:47.636225",
+  "package_url": "https://pypi.org/project/bscpylgtv/"
+}

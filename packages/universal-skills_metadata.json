@@ -1,11 +1,11 @@
 {
   "name": "universal-skills",
-  "version": "0.1.1",
-  "summary": "Integrate RAG into AI Agents via MCP Server. Supports multiple Vector database technologies.",
+  "version": "0.1.2",
+  "summary": "A collection of universal skills for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "universal_skills-0.1.1.tar.gz",
-  "download_time": "2026-02-22T07:49:35.345035",
+  "download_filename": "universal_skills-0.1.2.tar.gz",
+  "download_time": "2026-02-22T08:21:32.633253",
   "package_url": "https://pypi.org/project/universal-skills/"
 }

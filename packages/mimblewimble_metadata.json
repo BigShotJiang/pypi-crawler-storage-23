@@ -1,0 +1,11 @@
+{
+  "name": "mimblewimble",
+  "version": "0.12.0",
+  "summary": "A toolset for processing Grin Mimblewimble data structures",
+  "author": "Marek Narozniak",
+  "license": "MIT",
+  "home_page": "https://github.com/grinventions/mimblewimble-py",
+  "download_filename": "mimblewimble-0.12.0.tar.gz",
+  "download_time": "2026-02-22T08:21:40.397161",
+  "package_url": "https://pypi.org/project/mimblewimble/"
+}

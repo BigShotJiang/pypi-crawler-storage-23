@@ -1,11 +1,11 @@
 {
   "name": "wemo-mcp-server",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Model Context Protocol server for WeMo smart home device discovery and control",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wemo_mcp_server-1.3.0.tar.gz",
-  "download_time": "2026-02-22T07:49:55.188463",
+  "download_filename": "wemo_mcp_server-1.3.1.tar.gz",
+  "download_time": "2026-02-22T08:21:50.717928",
   "package_url": "https://pypi.org/project/wemo-mcp-server/"
 }

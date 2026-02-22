@@ -1,11 +1,11 @@
 {
   "name": "kon-coding-agent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Minimal coding agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kon_coding_agent-0.1.0.tar.gz",
-  "download_time": "2026-02-22T07:06:26.130783",
+  "download_filename": "kon_coding_agent-0.2.0.tar.gz",
+  "download_time": "2026-02-22T08:21:36.721662",
   "package_url": "https://pypi.org/project/kon-coding-agent/"
 }
