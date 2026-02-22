@@ -1,0 +1,11 @@
+{
+  "name": "jnitrace-ex",
+  "version": "1.0.0",
+  "summary": "JNITrace EX: trace JNI in Android apps (Frida 16+/17+)",
+  "author": "chame1eon",
+  "license": null,
+  "home_page": "https://github.com/L0WK3Y-IAAN/jnitrace-ex",
+  "download_filename": "jnitrace_ex-1.0.0.tar.gz",
+  "download_time": "2026-02-22T03:56:51.665158",
+  "package_url": "https://pypi.org/project/jnitrace-ex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onedrive-fuse",
+  "version": "0.0.9",
+  "summary": "SSH File System with offline access to cached files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onedrive_fuse-0.0.9.tar.gz",
+  "download_time": "2026-02-22T03:56:23.051435",
+  "package_url": "https://pypi.org/project/onedrive-fuse/"
+}

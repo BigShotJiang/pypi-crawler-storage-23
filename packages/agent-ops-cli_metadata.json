@@ -1,0 +1,11 @@
+{
+  "name": "agent-ops-cli",
+  "version": "0.1.1",
+  "summary": "Agent Ops (AO) - high-performance JSONL issue/event store",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "agent_ops_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-22T03:56:20.310751",
+  "package_url": "https://pypi.org/project/agent-ops-cli/"
+}

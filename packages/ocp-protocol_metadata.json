@@ -1,11 +1,11 @@
 {
   "name": "ocp-protocol",
-  "version": "0.1.0",
-  "summary": "Open Consciousness Protocol — standardized benchmark for consciousness-analog properties in LLMs",
+  "version": "0.3.0",
+  "summary": "Open Cognitive Protocol — standardized benchmark for functional cognitive analogs in LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ocp_protocol-0.1.0.tar.gz",
-  "download_time": "2026-02-21T08:23:51.980736",
+  "download_filename": "ocp_protocol-0.3.0.tar.gz",
+  "download_time": "2026-02-22T03:56:24.603546",
   "package_url": "https://pypi.org/project/ocp-protocol/"
 }

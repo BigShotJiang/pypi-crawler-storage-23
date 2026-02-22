@@ -1,0 +1,11 @@
+{
+  "name": "cpbuilder",
+  "version": "0.1.0",
+  "summary": "Cross-platform builder",
+  "author": "Leandro Oliveira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpbuilder-0.1.0.tar.gz",
+  "download_time": "2026-02-22T03:56:35.814535",
+  "package_url": "https://pypi.org/project/cpbuilder/"
+}

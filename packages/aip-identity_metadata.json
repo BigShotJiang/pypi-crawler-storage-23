@@ -1,0 +1,11 @@
+{
+  "name": "aip-identity",
+  "version": "0.5.25",
+  "summary": "Cryptographic identity, trust chains, and E2E encrypted messaging for AI agents",
+  "author": "The_Nexus_Guard_001",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aip_identity-0.5.25.tar.gz",
+  "download_time": "2026-02-22T03:56:57.916688",
+  "package_url": "https://pypi.org/project/aip-identity/"
+}

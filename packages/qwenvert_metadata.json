@@ -1,11 +1,11 @@
 {
   "name": "qwenvert",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "summary": "One-click local LLM inference for Claude Code on Mac M1",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qwenvert-0.2.15.tar.gz",
-  "download_time": "2026-02-21T15:57:32.186327",
+  "download_filename": "qwenvert-0.2.16.tar.gz",
+  "download_time": "2026-02-22T03:56:19.258355",
   "package_url": "https://pypi.org/project/qwenvert/"
 }

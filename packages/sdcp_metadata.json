@@ -1,0 +1,11 @@
+{
+  "name": "sdcp",
+  "version": "0.1.1",
+  "summary": "A simple framework for building SDCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdcp-0.1.1.tar.gz",
+  "download_time": "2026-02-22T03:56:53.234969",
+  "package_url": "https://pypi.org/project/sdcp/"
+}

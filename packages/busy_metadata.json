@@ -1,11 +1,11 @@
 {
   "name": "busy",
-  "version": "7.14.7",
+  "version": "7.14.8",
   "summary": "Escape from overwhelm and stay focused all day",
   "author": "Steampunk Wizard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "busy-7.14.7.tar.gz",
-  "download_time": "2026-02-21T21:38:36.208568",
+  "download_filename": "busy-7.14.8.tar.gz",
+  "download_time": "2026-02-22T03:56:57.394034",
   "package_url": "https://pypi.org/project/busy/"
 }

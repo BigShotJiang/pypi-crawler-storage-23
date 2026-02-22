@@ -1,0 +1,11 @@
+{
+  "name": "chardet",
+  "version": "6.0.0",
+  "summary": "Universal encoding detector for Python 3",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "chardet-6.0.0-py3-none-any.whl",
+  "download_time": "2026-02-22T03:56:55.336907",
+  "package_url": "https://pypi.org/project/chardet/"
+}
