@@ -1,11 +1,11 @@
 {
   "name": "linkitin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "LinkedIn automation library - post, fetch, and search via Voyager API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "linkitin-0.1.1.tar.gz",
-  "download_time": "2026-02-21T17:19:05.406990",
+  "download_filename": "linkitin-0.1.2.tar.gz",
+  "download_time": "2026-02-22T19:44:34.521194",
   "package_url": "https://pypi.org/project/linkitin/"
 }

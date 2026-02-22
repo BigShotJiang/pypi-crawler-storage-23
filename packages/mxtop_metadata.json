@@ -1,0 +1,11 @@
+{
+  "name": "mxtop",
+  "version": "0.1.0",
+  "summary": "Performance monitoring CLI tool for Apple Silicon",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mxtop-0.1.0.tar.gz",
+  "download_time": "2026-02-22T19:45:02.359645",
+  "package_url": "https://pypi.org/project/mxtop/"
+}

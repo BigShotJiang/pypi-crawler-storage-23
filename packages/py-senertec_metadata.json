@@ -1,0 +1,11 @@
+{
+  "name": "py-senertec",
+  "version": "1.0.4",
+  "summary": "Senertec energy system gen2 interface.",
+  "author": "Kleinrotti",
+  "license": null,
+  "home_page": "https://github.com/Kleinrotti/py-senertec",
+  "download_filename": "py_senertec-1.0.4.tar.gz",
+  "download_time": "2026-02-22T19:44:57.460226",
+  "package_url": "https://pypi.org/project/py-senertec/"
+}

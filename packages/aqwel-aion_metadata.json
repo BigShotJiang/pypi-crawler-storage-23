@@ -1,0 +1,11 @@
+{
+  "name": "aqwel-aion",
+  "version": "0.1.8",
+  "summary": "Complete AI Research & Development Library with Advanced Mathematics and ML Tools",
+  "author": "Aksel Aghajanyan",
+  "license": "Apache-2.0",
+  "home_page": "https://aqwelai.xyz/",
+  "download_filename": "aqwel_aion-0.1.8.tar.gz",
+  "download_time": "2026-02-22T19:44:28.788075",
+  "package_url": "https://pypi.org/project/aqwel-aion/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "18.2.1",
-  "summary": "AXIOM Full Stack - 4.8x memory reduction with TRAINABLE-QUANT + AXIOM optimizer",
+  "version": "19.0.1",
+  "summary": "AXIOM Full Stack - Train 70B on H100 with VLA 100% trainable weights (0.75 bytes/param)",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-18.2.1-cp312-cp312-manylinux_2_17_x86_64.whl",
-  "download_time": "2026-02-22T15:44:06.137597",
+  "download_filename": "quarterbit-19.0.1-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-22T19:45:06.729624",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

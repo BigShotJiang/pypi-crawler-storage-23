@@ -1,0 +1,11 @@
+{
+  "name": "esg-mcp-servers",
+  "version": "0.1.1",
+  "summary": "MCP servers for ESG report processing: metric extraction, vector search, PDF ingestion, regulation analysis, and web scraping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esg_mcp_servers-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-22T19:44:54.761218",
+  "package_url": "https://pypi.org/project/esg-mcp-servers/"
+}

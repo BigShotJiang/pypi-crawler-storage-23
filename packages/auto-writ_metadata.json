@@ -1,11 +1,11 @@
 {
   "name": "auto-writ",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "CLI tool for issuing formal commands to infrastructure systems",
   "author": "dlattka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_writ-0.1.0.tar.gz",
-  "download_time": "2026-02-22T19:24:17.988701",
+  "download_filename": "auto_writ-0.2.0.tar.gz",
+  "download_time": "2026-02-22T19:44:32.696575",
   "package_url": "https://pypi.org/project/auto-writ/"
 }

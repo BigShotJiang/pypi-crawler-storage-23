@@ -1,0 +1,11 @@
+{
+  "name": "tempregpy",
+  "version": "0.3.0.post0",
+  "summary": "Temperature regulation optimization for hydropower operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tempregpy-0.3.0.post0.tar.gz",
+  "download_time": "2026-02-22T19:44:48.168727",
+  "package_url": "https://pypi.org/project/tempregpy/"
+}

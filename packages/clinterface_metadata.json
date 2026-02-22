@@ -1,0 +1,11 @@
+{
+  "name": "clinterface",
+  "version": "0.3.3",
+  "summary": "Simple command line interface library",
+  "author": null,
+  "license": "LGPLv3+",
+  "home_page": null,
+  "download_filename": "clinterface-0.3.3-py3-none-any.whl",
+  "download_time": "2026-02-22T19:44:45.376525",
+  "package_url": "https://pypi.org/project/clinterface/"
+}

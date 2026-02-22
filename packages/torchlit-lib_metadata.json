@@ -1,11 +1,11 @@
 {
   "name": "torchlit-lib",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A lightweight real-time ML training monitor.",
   "author": "ChanLumerico",
   "license": null,
   "home_page": null,
-  "download_filename": "torchlit_lib-0.3.0.tar.gz",
-  "download_time": "2026-02-22T17:19:26.947935",
+  "download_filename": "torchlit_lib-0.3.1.tar.gz",
+  "download_time": "2026-02-22T19:45:04.537571",
   "package_url": "https://pypi.org/project/torchlit-lib/"
 }

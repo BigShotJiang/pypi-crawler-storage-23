@@ -1,0 +1,11 @@
+{
+  "name": "riva",
+  "version": "0.3.6",
+  "summary": "AI Agent Task Manager - discover and monitor AI coding agents running on your machine",
+  "author": "Riva Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "riva-0.3.6.tar.gz",
+  "download_time": "2026-02-22T19:44:56.922812",
+  "package_url": "https://pypi.org/project/riva/"
+}
