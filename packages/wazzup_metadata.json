@@ -1,0 +1,11 @@
+{
+  "name": "wazzup",
+  "version": "0.1.2",
+  "summary": "A python package for sending messages using the official Whatsapp API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wazzup-0.1.2.tar.gz",
+  "download_time": "2026-02-22T20:17:04.141076",
+  "package_url": "https://pypi.org/project/wazzup/"
+}

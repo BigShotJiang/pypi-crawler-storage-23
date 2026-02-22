@@ -1,0 +1,11 @@
+{
+  "name": "epsteinexposed",
+  "version": "0.1.0",
+  "summary": "Unofficial Python client for the Epstein Exposed public API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epsteinexposed-0.1.0.tar.gz",
+  "download_time": "2026-02-22T20:16:39.025988",
+  "package_url": "https://pypi.org/project/epsteinexposed/"
+}

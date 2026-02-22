@@ -1,0 +1,11 @@
+{
+  "name": "django-genfkadmin",
+  "version": "0.2.0",
+  "summary": "No frills GenericForeignKeys for your Django Admin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_genfkadmin-0.2.0.tar.gz",
+  "download_time": "2026-02-22T20:16:51.767342",
+  "package_url": "https://pypi.org/project/django-genfkadmin/"
+}

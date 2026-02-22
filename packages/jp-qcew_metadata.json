@@ -1,0 +1,11 @@
+{
+  "name": "jp-qcew",
+  "version": "3.2.0",
+  "summary": "A python tool to process the Censored QCEW for PR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jp_qcew-3.2.0.tar.gz",
+  "download_time": "2026-02-22T20:16:36.436414",
+  "package_url": "https://pypi.org/project/jp-qcew/"
+}

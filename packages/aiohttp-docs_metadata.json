@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-docs",
+  "version": "0.0.2",
+  "summary": "API documentation for aiohttp server based on Pydantic models",
+  "author": "Mikhail Shagov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiohttp_docs-0.0.2.tar.gz",
+  "download_time": "2026-02-22T20:16:45.972608",
+  "package_url": "https://pypi.org/project/aiohttp-docs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nightshift-sdk",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Nightshift — autonomous agent orchestrator with Firecracker VMs",
   "author": "Nightshift Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nightshift_sdk-0.4.1.tar.gz",
-  "download_time": "2026-02-22T16:24:41.816755",
+  "download_filename": "nightshift_sdk-0.4.2.tar.gz",
+  "download_time": "2026-02-22T20:16:59.993006",
   "package_url": "https://pypi.org/project/nightshift-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xyzrender",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Publication-quality molecular graphics from the command line.",
   "author": "Dr Alister S. Goodfellow",
   "license": null,
   "home_page": null,
-  "download_filename": "xyzrender-0.1.1.tar.gz",
-  "download_time": "2026-02-22T10:46:52.155022",
+  "download_filename": "xyzrender-0.1.2.tar.gz",
+  "download_time": "2026-02-22T20:17:11.848687",
   "package_url": "https://pypi.org/project/xyzrender/"
 }

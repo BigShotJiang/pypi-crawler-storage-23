@@ -1,0 +1,11 @@
+{
+  "name": "dais10",
+  "version": "1.1.2",
+  "summary": "DAIS-10 Governance & Semantic Intelligence Engine",
+  "author": "Dr. Usman Zafar",
+  "license": null,
+  "home_page": "https://github.com/yourusername/dais10",
+  "download_filename": "dais10-1.1.2.tar.gz",
+  "download_time": "2026-02-22T20:16:38.005435",
+  "package_url": "https://pypi.org/project/dais10/"
+}
