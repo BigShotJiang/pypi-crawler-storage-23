@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-waveformgenerator",
+  "version": "0.0.1a0",
+  "summary": "balderhub-waveformgenerator: BalderHub Project for working with waveform generator devices like programmable signal generators",
+  "author": "Max Stahlschmidt",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/waveformgenerator",
+  "download_filename": "balderhub_waveformgenerator-0.0.1a0.tar.gz",
+  "download_time": "2026-02-22T10:47:27.570726",
+  "package_url": "https://pypi.org/project/balderhub-waveformgenerator/"
+}

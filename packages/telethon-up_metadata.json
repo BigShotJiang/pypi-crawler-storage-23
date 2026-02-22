@@ -1,0 +1,11 @@
+{
+  "name": "telethon-up",
+  "version": "1.1.9",
+  "summary": "Full-featured Telegram client library for Python 3",
+  "author": "Amir:3",
+  "license": "MIT",
+  "home_page": "https://github.com/amirwolf5122/Telethon_up",
+  "download_filename": "telethon_up-1.1.9-py3-none-any.whl",
+  "download_time": "2026-02-22T10:47:04.918782",
+  "package_url": "https://pypi.org/project/telethon-up/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderMrOS",
+  "version": "0.8.0",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyphasesrecordloadermros-0.8.0.tar.gz",
+  "download_time": "2026-02-22T10:47:14.441012",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderMrOS/"
+}

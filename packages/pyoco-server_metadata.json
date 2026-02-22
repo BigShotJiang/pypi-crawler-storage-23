@@ -1,0 +1,11 @@
+{
+  "name": "pyoco-server",
+  "version": "0.5.1",
+  "summary": "Distributed execution backend for Pyoco using NATS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoco_server-0.5.1.tar.gz",
+  "download_time": "2026-02-22T10:47:26.550252",
+  "package_url": "https://pypi.org/project/pyoco-server/"
+}

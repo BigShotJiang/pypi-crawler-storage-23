@@ -1,11 +1,11 @@
 {
   "name": "iscc-usearch",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Scalable approximate nearest neighbor search for variable-length binary bit-vectors using NPHD metric.",
   "author": "Titusz Pan",
   "license": null,
   "home_page": null,
-  "download_filename": "iscc_usearch-0.4.0.tar.gz",
-  "download_time": "2026-02-19T19:49:12.673549",
+  "download_filename": "iscc_usearch-0.6.0.tar.gz",
+  "download_time": "2026-02-22T10:47:19.725624",
   "package_url": "https://pypi.org/project/iscc-usearch/"
 }

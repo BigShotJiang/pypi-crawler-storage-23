@@ -1,0 +1,11 @@
+{
+  "name": "intel-geti",
+  "version": "0.0.0",
+  "summary": "Build computer vision models in a fraction of the time and with less data.",
+  "author": "Intel Corporation",
+  "license": "MIT",
+  "home_page": "https://docs.geti.intel.com",
+  "download_filename": "intel_geti-0.0.0.tar.gz",
+  "download_time": "2026-02-22T10:46:58.951803",
+  "package_url": "https://pypi.org/project/intel-geti/"
+}
