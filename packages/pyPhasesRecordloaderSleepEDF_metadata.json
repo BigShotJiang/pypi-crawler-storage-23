@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderSleepEDF",
+  "version": "0.3.3",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyphasesrecordloadersleepedf-0.3.3.tar.gz",
+  "download_time": "2026-02-22T11:36:56.750747",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderSleepEDF/"
+}

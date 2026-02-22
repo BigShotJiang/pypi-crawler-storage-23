@@ -1,0 +1,11 @@
+{
+  "name": "zimra",
+  "version": "0.0.5",
+  "summary": "Unofficial Python wrapper for the ZIMRA FDMS API by Tarmica Chiwara",
+  "author": "Tarmica Chiwara",
+  "license": "MIT",
+  "home_page": "https://github.com/lordskyzw/zimra",
+  "download_filename": "zimra-0.0.5.tar.gz",
+  "download_time": "2026-02-22T11:36:43.720269",
+  "package_url": "https://pypi.org/project/zimra/"
+}

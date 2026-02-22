@@ -1,0 +1,11 @@
+{
+  "name": "django-object-detail",
+  "version": "0.1.9",
+  "summary": "Library to show Django object properties in groups with customizable templates with focus on bootstrap5",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_object_detail-0.1.9.tar.gz",
+  "download_time": "2026-02-22T11:36:54.182457",
+  "package_url": "https://pypi.org/project/django-object-detail/"
+}

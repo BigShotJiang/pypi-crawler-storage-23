@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderMESA",
+  "version": "0.5.2",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyphasesrecordloadermesa-0.5.2.tar.gz",
+  "download_time": "2026-02-22T11:36:49.024465",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderMESA/"
+}

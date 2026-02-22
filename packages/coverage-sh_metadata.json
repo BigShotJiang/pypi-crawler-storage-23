@@ -1,0 +1,11 @@
+{
+  "name": "coverage-sh",
+  "version": "0.5.0",
+  "summary": "A  Coverage.py plugin to measure code coverage of shell scripts from python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coverage_sh-0.5.0.tar.gz",
+  "download_time": "2026-02-22T11:36:53.164994",
+  "package_url": "https://pypi.org/project/coverage-sh/"
+}
