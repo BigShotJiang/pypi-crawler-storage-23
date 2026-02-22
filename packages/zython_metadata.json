@@ -1,0 +1,11 @@
+{
+  "name": "zython",
+  "version": "0.6.0",
+  "summary": "Express constraint programming problem with python and solve it with minizinc",
+  "author": "Artsiom Kaltovich",
+  "license": null,
+  "home_page": "https://zython.readthedocs.io/en/latest/",
+  "download_filename": "zython-0.6.0-py3-none-any.whl",
+  "download_time": "2026-02-22T07:49:53.656814",
+  "package_url": "https://pypi.org/project/zython/"
+}

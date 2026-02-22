@@ -1,0 +1,11 @@
+{
+  "name": "pyspcbridge",
+  "version": "0.6.3",
+  "summary": "Python library for communicating with acre/Vanderbilt SPC alarm system via Lundix's SPC Bridge Generic (Lite)",
+  "author": "Lundix IT",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyspcbridge-0.6.3.tar.gz",
+  "download_time": "2026-02-22T07:49:17.569868",
+  "package_url": "https://pypi.org/project/pyspcbridge/"
+}

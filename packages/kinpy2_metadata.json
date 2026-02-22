@@ -1,0 +1,11 @@
+{
+  "name": "kinpy2",
+  "version": "1.0.2",
+  "summary": "Reaction kinetics intergration from user-friendly input",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "kinpy2-1.0.2.tar.gz",
+  "download_time": "2026-02-22T07:49:33.812207",
+  "package_url": "https://pypi.org/project/kinpy2/"
+}

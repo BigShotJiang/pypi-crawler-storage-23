@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-tibet-core",
+  "version": "0.1.0",
+  "summary": "MCP Server for TIBET - The Trust Kernel for AI. Audit as a Precondition, Not an Afterthought.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_tibet_core-0.1.0.tar.gz",
+  "download_time": "2026-02-22T07:49:47.488335",
+  "package_url": "https://pypi.org/project/mcp-server-tibet-core/"
+}

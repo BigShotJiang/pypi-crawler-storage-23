@@ -1,11 +1,11 @@
 {
   "name": "webtoolkit",
-  "version": "0.0.206",
+  "version": "0.0.207",
   "summary": "Web tools and interfaces for Internet data processing.",
   "author": "Iwan Grozny",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "webtoolkit-0.0.206.tar.gz",
-  "download_time": "2026-02-20T20:53:20.698915",
+  "download_filename": "webtoolkit-0.0.207.tar.gz",
+  "download_time": "2026-02-22T07:49:36.373935",
   "package_url": "https://pypi.org/project/webtoolkit/"
 }

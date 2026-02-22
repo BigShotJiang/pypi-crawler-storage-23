@@ -1,0 +1,11 @@
+{
+  "name": "metaai-sdk",
+  "version": "3.5.0",
+  "summary": "Feature-rich Python SDK for Meta AI - Chat, Image & Video Generation powered by Llama 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaai_sdk-3.5.0.tar.gz",
+  "download_time": "2026-02-22T07:49:12.153973",
+  "package_url": "https://pypi.org/project/metaai-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "simmetry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Blazing-fast similarity scores for strings, vectors, points, and sets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simmetry-1.0.1.tar.gz",
-  "download_time": "2026-02-21T21:55:29.458942",
+  "download_filename": "simmetry-1.0.2.tar.gz",
+  "download_time": "2026-02-22T07:49:35.856878",
   "package_url": "https://pypi.org/project/simmetry/"
 }

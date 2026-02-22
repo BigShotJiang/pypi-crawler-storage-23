@@ -1,0 +1,11 @@
+{
+  "name": "llm-workers-evaluation",
+  "version": "1.1.0",
+  "summary": "Evaluation framework for LLM Workers",
+  "author": "Dmitry Mikhaylov",
+  "license": null,
+  "home_page": "https://mrbagheera.github.io/llm-workers/",
+  "download_filename": "llm_workers_evaluation-1.1.0.tar.gz",
+  "download_time": "2026-02-22T07:49:18.079555",
+  "package_url": "https://pypi.org/project/llm-workers-evaluation/"
+}

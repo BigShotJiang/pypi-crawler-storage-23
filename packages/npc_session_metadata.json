@@ -1,0 +1,11 @@
+{
+  "name": "npc_session",
+  "version": "0.1.41",
+  "summary": "Basic tools for parsing subject, session, date and time associated with data from the Mindscope Neuropixels team, in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_session-0.1.41.tar.gz",
+  "download_time": "2026-02-22T07:49:43.777388",
+  "package_url": "https://pypi.org/project/npc_session/"
+}

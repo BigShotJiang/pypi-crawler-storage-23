@@ -1,0 +1,11 @@
+{
+  "name": "grover-visualizer",
+  "version": "0.1.5",
+  "summary": "Visualize Grover's Algorithm with quantum state animations",
+  "author": "SilentSword",
+  "license": null,
+  "home_page": "https://github.com/SilentSword123456/Groovers_Algorithm-Quantum",
+  "download_filename": "grover_visualizer-0.1.5.tar.gz",
+  "download_time": "2026-02-22T07:49:53.144706",
+  "package_url": "https://pypi.org/project/grover-visualizer/"
+}

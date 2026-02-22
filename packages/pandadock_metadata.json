@@ -1,0 +1,11 @@
+{
+  "name": "pandadock",
+  "version": "4.0.0",
+  "summary": "GPU-accelerated molecular docking software",
+  "author": "Pritam Kumar Panda @ Stanford University",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pandadock-4.0.0.tar.gz",
+  "download_time": "2026-02-22T07:49:23.822714",
+  "package_url": "https://pypi.org/project/pandadock/"
+}

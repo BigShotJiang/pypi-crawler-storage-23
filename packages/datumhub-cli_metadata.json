@@ -1,11 +1,11 @@
 {
   "name": "datumhub-cli",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "Publish and consume open data from the command line. Discover, pull, and verify any file by identifier.",
   "author": "Datum Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datumhub_cli-0.1.5.tar.gz",
-  "download_time": "2026-02-21T18:58:54.533378",
+  "download_filename": "datumhub_cli-0.1.9.tar.gz",
+  "download_time": "2026-02-22T07:49:24.333012",
   "package_url": "https://pypi.org/project/datumhub-cli/"
 }
