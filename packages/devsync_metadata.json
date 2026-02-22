@@ -1,11 +1,11 @@
 {
   "name": "devsync",
-  "version": "0.11.0",
+  "version": "0.14.1",
   "summary": "Distribute and sync dev tool configurations across teams",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "devsync-0.11.0.tar.gz",
-  "download_time": "2026-02-21T14:51:07.600180",
+  "download_filename": "devsync-0.14.1.tar.gz",
+  "download_time": "2026-02-22T15:19:37.879103",
   "package_url": "https://pypi.org/project/devsync/"
 }

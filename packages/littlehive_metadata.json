@@ -1,0 +1,11 @@
+{
+  "name": "littlehive",
+  "version": "0.5.3",
+  "summary": "LittleHive local-first multi-agent assistant foundation",
+  "author": "LittleHive",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "littlehive-0.5.3.tar.gz",
+  "download_time": "2026-02-22T15:19:34.581738",
+  "package_url": "https://pypi.org/project/littlehive/"
+}

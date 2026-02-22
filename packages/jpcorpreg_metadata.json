@@ -1,0 +1,11 @@
+{
+  "name": "jpcorpreg",
+  "version": "2.0.1",
+  "summary": "jpcorpreg is a Python library that downloads corporate registry which is published in the Corporate Number Publication Site as a data frame.",
+  "author": "new-village",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jpcorpreg-2.0.1.tar.gz",
+  "download_time": "2026-02-22T15:19:09.446665",
+  "package_url": "https://pypi.org/project/jpcorpreg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cloakmcp",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "Micro-Cleanse Preprocessor: local secret-removal agent (with vault pack/unpack)",
   "author": "Olivier Vitrac and contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloakmcp-0.6.1.tar.gz",
-  "download_time": "2026-02-22T14:22:29.000882",
+  "download_filename": "cloakmcp-0.6.3.tar.gz",
+  "download_time": "2026-02-22T15:19:44.180068",
   "package_url": "https://pypi.org/project/cloakmcp/"
 }

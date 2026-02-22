@@ -1,0 +1,11 @@
+{
+  "name": "rlm-loop",
+  "version": "0.1.0",
+  "summary": "Recursive Language Model - Python 3.11+ implementation",
+  "author": "Ondrej Krajicek",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "rlm_loop-0.1.0.tar.gz",
+  "download_time": "2026-02-22T15:19:04.748734",
+  "package_url": "https://pypi.org/project/rlm-loop/"
+}

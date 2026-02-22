@@ -1,11 +1,11 @@
 {
   "name": "passio",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "simple Password strength checker & generator",
   "author": "Ez__iO",
   "license": null,
   "home_page": "https://github.com/ezioauditore206c-blip/passio",
-  "download_filename": "passio-2.0.2.tar.gz",
-  "download_time": "2026-02-22T13:25:14.355546",
+  "download_filename": "passio-2.0.3.tar.gz",
+  "download_time": "2026-02-22T15:19:41.515371",
   "package_url": "https://pypi.org/project/passio/"
 }

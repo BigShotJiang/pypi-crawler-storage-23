@@ -1,0 +1,11 @@
+{
+  "name": "jva-capture",
+  "version": "0.1.0",
+  "summary": "Screen recording interface for JVA01-Capture device using ffmpeg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jva_capture-0.1.0.tar.gz",
+  "download_time": "2026-02-22T15:18:58.534643",
+  "package_url": "https://pypi.org/project/jva-capture/"
+}

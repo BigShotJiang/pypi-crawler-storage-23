@@ -1,0 +1,11 @@
+{
+  "name": "QuikUI",
+  "version": "0.4.0",
+  "summary": "Build UIs quickly with Jinga2, FastAPI, Pydantic, htmx, and a little bit of magic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quikui-0.4.0.tar.gz",
+  "download_time": "2026-02-22T15:19:42.025363",
+  "package_url": "https://pypi.org/project/QuikUI/"
+}

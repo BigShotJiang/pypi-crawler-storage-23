@@ -1,0 +1,11 @@
+{
+  "name": "table-metrics",
+  "version": "1.0",
+  "summary": "Python library implementing GriTS and TEDS",
+  "author": "gu1show",
+  "license": null,
+  "home_page": null,
+  "download_filename": "table_metrics-1.0.tar.gz",
+  "download_time": "2026-02-22T15:19:16.212705",
+  "package_url": "https://pypi.org/project/table-metrics/"
+}

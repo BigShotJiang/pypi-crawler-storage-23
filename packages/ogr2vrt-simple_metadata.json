@@ -1,0 +1,11 @@
+{
+  "name": "ogr2vrt-simple",
+  "version": "0.2.5",
+  "summary": "Generate a simple VRT file for data transformations",
+  "author": "Jean Pommier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ogr2vrt_simple-0.2.5.tar.gz",
+  "download_time": "2026-02-22T15:19:20.801715",
+  "package_url": "https://pypi.org/project/ogr2vrt-simple/"
+}
