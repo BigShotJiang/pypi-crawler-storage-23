@@ -1,0 +1,11 @@
+{
+  "name": "pylibheif",
+  "version": "1.21.2.post14",
+  "summary": "Python bindings for libheif - HEIC/AVIF/JPEG2000 image codec",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pylibheif-1.21.2.post14.tar.gz",
+  "download_time": "2026-02-22T15:44:19.114574",
+  "package_url": "https://pypi.org/project/pylibheif/"
+}

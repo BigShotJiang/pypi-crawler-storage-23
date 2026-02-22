@@ -1,0 +1,11 @@
+{
+  "name": "hos-m2f",
+  "version": "0.7.1",
+  "summary": "HOS-M2F: Markdown to Industry Standard Format Compiler Engine",
+  "author": "HOS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hos_m2f-0.7.1.tar.gz",
+  "download_time": "2026-02-22T15:43:54.706757",
+  "package_url": "https://pypi.org/project/hos-m2f/"
+}

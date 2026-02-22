@@ -1,11 +1,11 @@
 {
   "name": "smartllm",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A unified async Python wrapper for multiple LLM providers with OpenAI Response API and reasoning support",
   "author": "Arved Klöhn",
   "license": "MIT",
   "home_page": "https://github.com/Redundando/smartllm",
-  "download_filename": "smartllm-0.1.6.tar.gz",
-  "download_time": "2026-02-21T14:51:04.126341",
+  "download_filename": "smartllm-0.1.7.tar.gz",
+  "download_time": "2026-02-22T15:44:18.555216",
   "package_url": "https://pypi.org/project/smartllm/"
 }

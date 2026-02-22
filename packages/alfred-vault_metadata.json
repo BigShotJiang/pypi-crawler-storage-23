@@ -1,11 +1,11 @@
 {
   "name": "alfred-vault",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "AI-powered background services for Obsidian vault maintenance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alfred_vault-0.1.4.tar.gz",
-  "download_time": "2026-02-22T08:56:13.798073",
+  "download_filename": "alfred_vault-0.1.7.tar.gz",
+  "download_time": "2026-02-22T15:44:05.586434",
   "package_url": "https://pypi.org/project/alfred-vault/"
 }

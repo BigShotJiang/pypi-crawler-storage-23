@@ -1,0 +1,11 @@
+{
+  "name": "lc3-ensemble-test",
+  "version": "0.1.13",
+  "summary": "Python backend and autograder library for LC-3 assembly",
+  "author": "Henry Bui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lc3_ensemble_test-0.1.13.tar.gz",
+  "download_time": "2026-02-22T15:44:00.426003",
+  "package_url": "https://pypi.org/project/lc3-ensemble-test/"
+}

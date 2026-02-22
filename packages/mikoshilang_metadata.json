@@ -1,11 +1,11 @@
 {
   "name": "mikoshilang",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "summary": "Symbolic computation language for Python — pattern matching, algebraic simplification, and computational intelligence",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mikoshilang-3.0.1.tar.gz",
-  "download_time": "2026-02-22T15:19:00.657034",
+  "download_filename": "mikoshilang-3.0.4.tar.gz",
+  "download_time": "2026-02-22T15:43:49.027413",
   "package_url": "https://pypi.org/project/mikoshilang/"
 }
