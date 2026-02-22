@@ -1,0 +1,11 @@
+{
+  "name": "nanofts",
+  "version": "0.6.0",
+  "summary": "High-performance full-text search engine written in Rust",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/BirchKwok/NanoFTS",
+  "download_filename": "nanofts-0.6.0.tar.gz",
+  "download_time": "2026-02-22T13:25:32.327296",
+  "package_url": "https://pypi.org/project/nanofts/"
+}

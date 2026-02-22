@@ -1,0 +1,11 @@
+{
+  "name": "basic-report",
+  "version": "0.1.0",
+  "summary": "A lightweight Python package for generating clean, professional static HTML reports.",
+  "author": "Björn Scholz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "basic_report-0.1.0.tar.gz",
+  "download_time": "2026-02-22T13:25:21.961301",
+  "package_url": "https://pypi.org/project/basic-report/"
+}

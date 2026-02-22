@@ -1,0 +1,11 @@
+{
+  "name": "netbox-loadbalancer-plugin",
+  "version": "0.1.0",
+  "summary": "A NetBox plugin for managing load balancers, virtual servers, pools, and pool members",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_loadbalancer_plugin-0.1.0.tar.gz",
+  "download_time": "2026-02-22T13:25:06.682463",
+  "package_url": "https://pypi.org/project/netbox-loadbalancer-plugin/"
+}

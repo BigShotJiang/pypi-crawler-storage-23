@@ -1,0 +1,11 @@
+{
+  "name": "k3down2",
+  "version": "0.1.23",
+  "summary": "Convert markdown segments into images and other transferable media",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k3down2-0.1.23.tar.gz",
+  "download_time": "2026-02-22T13:25:47.591467",
+  "package_url": "https://pypi.org/project/k3down2/"
+}
