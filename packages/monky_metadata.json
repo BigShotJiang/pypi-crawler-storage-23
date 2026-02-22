@@ -1,0 +1,11 @@
+{
+  "name": "monky",
+  "version": "0.0.1",
+  "summary": "Deterministic repository-aware code engine (stub).",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "monky-0.0.1.tar.gz",
+  "download_time": "2026-02-22T22:49:39.019247",
+  "package_url": "https://pypi.org/project/monky/"
+}

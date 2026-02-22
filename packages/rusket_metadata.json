@@ -1,11 +1,11 @@
 {
   "name": "rusket",
-  "version": "0.1.25",
+  "version": "0.1.35",
   "summary": "Blazing-fast FP-Growth and Association Rules — pure Rust via PyO3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rusket-0.1.25-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-02-22T18:59:38.801444",
+  "download_filename": "rusket-0.1.35.tar.gz",
+  "download_time": "2026-02-22T22:49:36.840352",
   "package_url": "https://pypi.org/project/rusket/"
 }

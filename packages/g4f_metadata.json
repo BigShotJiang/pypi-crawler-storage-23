@@ -1,11 +1,11 @@
 {
   "name": "g4f",
-  "version": "7.1.6",
+  "version": "7.1.7",
   "summary": "The official gpt4free repository | various collection of powerful language models",
   "author": "Tekky",
   "license": null,
   "home_page": "https://github.com/xtekky/gpt4free",
-  "download_filename": "g4f-7.1.6.tar.gz",
-  "download_time": "2026-02-22T12:26:49.743379",
+  "download_filename": "g4f-7.1.7.tar.gz",
+  "download_time": "2026-02-22T22:49:36.290167",
   "package_url": "https://pypi.org/project/g4f/"
 }

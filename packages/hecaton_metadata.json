@@ -1,0 +1,11 @@
+{
+  "name": "hecaton",
+  "version": "0.6.10",
+  "summary": "Hecaton distributed compute framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hecaton-0.6.10.tar.gz",
+  "download_time": "2026-02-22T22:49:31.491843",
+  "package_url": "https://pypi.org/project/hecaton/"
+}

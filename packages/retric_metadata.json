@@ -1,0 +1,11 @@
+{
+  "name": "retric",
+  "version": "0.1.0",
+  "summary": "Inspect, compare, and evaluate vector retrieval — MRR, Recall@k, and rank diff in one library",
+  "author": "Habiba Faisal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "retric-0.1.0.tar.gz",
+  "download_time": "2026-02-22T22:49:59.239751",
+  "package_url": "https://pypi.org/project/retric/"
+}

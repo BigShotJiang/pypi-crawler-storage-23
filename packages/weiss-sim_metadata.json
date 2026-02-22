@@ -1,11 +1,11 @@
 {
   "name": "weiss-sim",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Deterministic Weiss Schwarz simulator with a Rust core and Python bindings.",
   "author": "Lallan",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "weiss_sim-0.4.0.tar.gz",
-  "download_time": "2026-02-18T11:53:10.158108",
+  "download_filename": "weiss_sim-0.6.0.tar.gz",
+  "download_time": "2026-02-22T22:50:00.331514",
   "package_url": "https://pypi.org/project/weiss-sim/"
 }

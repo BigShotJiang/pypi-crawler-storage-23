@@ -1,11 +1,11 @@
 {
   "name": "stackfordev",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Generate tailored Dockerfiles for development environments",
   "author": "Zisis Kostakakis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stackfordev-0.2.1.tar.gz",
-  "download_time": "2026-02-22T21:47:37.076705",
+  "download_filename": "stackfordev-0.2.3.tar.gz",
+  "download_time": "2026-02-22T22:49:53.949564",
   "package_url": "https://pypi.org/project/stackfordev/"
 }

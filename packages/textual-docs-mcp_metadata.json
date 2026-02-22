@@ -1,11 +1,11 @@
 {
   "name": "textual-docs-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server providing AI agents with Textual TUI library documentation, examples, and best practices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textual_docs_mcp-0.1.1-py3-none-any.whl",
-  "download_time": "2026-02-22T20:16:32.495913",
+  "download_filename": "textual_docs_mcp-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-22T22:49:35.750995",
   "package_url": "https://pypi.org/project/textual-docs-mcp/"
 }

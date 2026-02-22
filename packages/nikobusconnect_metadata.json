@@ -1,0 +1,11 @@
+{
+  "name": "nikobusconnect",
+  "version": "1.0.0",
+  "summary": "A Python library for connecting to Nikobus systems",
+  "author": "Frederic Debrus",
+  "license": null,
+  "home_page": "https://github.com/fdebrus/nikobusconnect",
+  "download_filename": "nikobusconnect-1.0.0.tar.gz",
+  "download_time": "2026-02-22T22:49:32.014952",
+  "package_url": "https://pypi.org/project/nikobusconnect/"
+}

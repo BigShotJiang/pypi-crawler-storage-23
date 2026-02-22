@@ -1,0 +1,11 @@
+{
+  "name": "incite-app",
+  "version": "0.1.1",
+  "summary": "Local-first citation recommendation system",
+  "author": "Galen Hall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "incite_app-0.1.1.tar.gz",
+  "download_time": "2026-02-22T22:50:08.041981",
+  "package_url": "https://pypi.org/project/incite-app/"
+}

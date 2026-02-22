@@ -1,11 +1,11 @@
 {
   "name": "hackett-metaos",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Receipts-native cryptographic accountability infrastructure",
   "author": "Andrew Hackett",
   "license": "MIT",
   "home_page": "https://github.com/adhack121-create/hackett-meta-os",
-  "download_filename": "hackett_metaos-0.2.1.tar.gz",
-  "download_time": "2026-02-22T22:23:41.081216",
+  "download_filename": "hackett_metaos-0.3.0.tar.gz",
+  "download_time": "2026-02-22T22:49:45.413980",
   "package_url": "https://pypi.org/project/hackett-metaos/"
 }
