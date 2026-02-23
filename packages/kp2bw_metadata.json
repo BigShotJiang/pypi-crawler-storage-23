@@ -1,0 +1,11 @@
+{
+  "name": "kp2bw",
+  "version": "2.0.0rc3",
+  "summary": "Imports and existing KeePass db with REF fields into Bitwarden",
+  "author": "Kaj Kowalski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kp2bw-2.0.0rc3.tar.gz",
+  "download_time": "2026-02-23T13:55:36.360616",
+  "package_url": "https://pypi.org/project/kp2bw/"
+}

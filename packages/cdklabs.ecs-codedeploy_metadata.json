@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.ecs-codedeploy",
+  "version": "0.0.429",
+  "summary": "CDK Constructs for performing ECS Deployments with CodeDeploy",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-ecs-codedeploy",
+  "download_filename": "cdklabs_ecs_codedeploy-0.0.429.tar.gz",
+  "download_time": "2026-02-23T13:55:33.883146",
+  "package_url": "https://pypi.org/project/cdklabs.ecs-codedeploy/"
+}

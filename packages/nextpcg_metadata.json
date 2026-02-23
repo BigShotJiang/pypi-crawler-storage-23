@@ -1,11 +1,11 @@
 {
   "name": "nextpcg",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "summary": "NextPCG Python SDK — Dson plugin framework and Houdini HAPI wrapper for procedural game content generation",
   "author": "GenesisGroup",
   "license": "MIT",
   "home_page": "https://nextpcg.notion.site/Wiki-384dc1d9d9f64306bd8774ff1138f618?pvs=4",
-  "download_filename": "nextpcg-1.0.0.tar.gz",
-  "download_time": "2026-02-23T12:49:03.481888",
+  "download_filename": "nextpcg-1.0.6.tar.gz",
+  "download_time": "2026-02-23T13:55:51.909446",
   "package_url": "https://pypi.org/project/nextpcg/"
 }

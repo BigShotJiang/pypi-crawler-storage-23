@@ -1,0 +1,11 @@
+{
+  "name": "energy-dependency-inspector",
+  "version": "0.3.0",
+  "summary": "Captures dependency snapshots of software systems for tracking changes across measurements. Originally designed for energy measurement contexts, also usable as a general-purpose dependency resolver.",
+  "author": "David Kopp, Arne Tarara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "energy_dependency_inspector-0.3.0.tar.gz",
+  "download_time": "2026-02-23T13:55:39.398733",
+  "package_url": "https://pypi.org/project/energy-dependency-inspector/"
+}

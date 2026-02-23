@@ -1,11 +1,11 @@
 {
   "name": "jira-git-helper",
-  "version": "0.16.0",
+  "version": "0.18.0",
   "summary": "JIRA ticket context manager for git workflows",
   "author": "Ross Cousens",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jira_git_helper-0.16.0.tar.gz",
-  "download_time": "2026-02-23T12:48:59.965325",
+  "download_filename": "jira_git_helper-0.18.0.tar.gz",
+  "download_time": "2026-02-23T13:55:48.346009",
   "package_url": "https://pypi.org/project/jira-git-helper/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "f1-dash",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "An enhanced F1 Live Position Dashboard with telemetry data",
-  "author": "Your Name",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/f1-dash",
-  "download_filename": "f1_dash-0.2.0.tar.gz",
-  "download_time": "2026-02-23T12:49:01.113690",
+  "home_page": null,
+  "download_filename": "f1_dash-0.2.3.tar.gz",
+  "download_time": "2026-02-23T13:55:49.498971",
   "package_url": "https://pypi.org/project/f1-dash/"
 }
