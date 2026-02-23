@@ -1,0 +1,11 @@
+{
+  "name": "argus-cv",
+  "version": "1.6.0",
+  "summary": "CLI tool for working with vision AI datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argus_cv-1.6.0.tar.gz",
+  "download_time": "2026-02-23T12:49:09.257025",
+  "package_url": "https://pypi.org/project/argus-cv/"
+}

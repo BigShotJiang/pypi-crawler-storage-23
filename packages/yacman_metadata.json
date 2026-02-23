@@ -1,0 +1,11 @@
+{
+  "name": "yacman",
+  "version": "0.9.5",
+  "summary": "A standardized configuration object for reference genome assemblies",
+  "author": "Nathan Sheffield, Michal Stolarczyk",
+  "license": "BSD2",
+  "home_page": "https://github.com/databio/yacman",
+  "download_filename": "yacman-0.9.5.tar.gz",
+  "download_time": "2026-02-23T12:49:12.412827",
+  "package_url": "https://pypi.org/project/yacman/"
+}

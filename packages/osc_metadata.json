@@ -1,0 +1,11 @@
+{
+  "name": "osc",
+  "version": "1.24.0",
+  "summary": "openSUSE commander",
+  "author": "openSUSE project",
+  "license": "GPLv2+",
+  "home_page": "http://en.opensuse.org/openSUSE:OSC",
+  "download_filename": "osc-1.24.0.tar.gz",
+  "download_time": "2026-02-23T12:49:28.452537",
+  "package_url": "https://pypi.org/project/osc/"
+}

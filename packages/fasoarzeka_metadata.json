@@ -1,0 +1,11 @@
+{
+  "name": "fasoarzeka",
+  "version": "0.1.3",
+  "summary": "API non officielle de paiement mobile pour le service FASO ARZEKA au Burkina Faso",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasoarzeka-0.1.3.tar.gz",
+  "download_time": "2026-02-23T12:49:05.788301",
+  "package_url": "https://pypi.org/project/fasoarzeka/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LogAssist",
+  "version": "1.1.4",
+  "summary": "A simple and customizable logging library for Python.",
+  "author": "horrible-gh",
+  "license": null,
+  "home_page": "https://github.com/horrible-gh/LogAssist.git",
+  "download_filename": "logassist-1.1.4.tar.gz",
+  "download_time": "2026-02-23T12:49:30.673567",
+  "package_url": "https://pypi.org/project/LogAssist/"
+}

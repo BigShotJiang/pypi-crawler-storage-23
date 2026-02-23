@@ -1,0 +1,11 @@
+{
+  "name": "didww",
+  "version": "1.0.0",
+  "summary": "Python SDK for DIDWW API v3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "didww-1.0.0.tar.gz",
+  "download_time": "2026-02-23T12:48:54.127421",
+  "package_url": "https://pypi.org/project/didww/"
+}

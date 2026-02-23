@@ -1,11 +1,11 @@
 {
   "name": "dvm-mesura",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "Home automation monitoring suite for energy (HomeWizard), weather (OpenWeatherMap), and heating (Honeywell Evohome)",
   "author": "divyavanmahajan",
   "license": null,
   "home_page": null,
-  "download_filename": "dvm_mesura-1.0.0.tar.gz",
-  "download_time": "2026-02-23T11:07:43.868917",
+  "download_filename": "dvm_mesura-1.1.2.tar.gz",
+  "download_time": "2026-02-23T12:49:16.448479",
   "package_url": "https://pypi.org/project/dvm-mesura/"
 }

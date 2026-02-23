@@ -1,11 +1,11 @@
 {
   "name": "sqlmodel-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Transparent Redis caching for SQLModel",
   "author": "Emzelim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlmodel_cache-0.1.0.tar.gz",
-  "download_time": "2026-02-23T11:54:18.894248",
+  "download_filename": "sqlmodel_cache-0.1.1.tar.gz",
+  "download_time": "2026-02-23T12:49:32.340468",
   "package_url": "https://pypi.org/project/sqlmodel-cache/"
 }
