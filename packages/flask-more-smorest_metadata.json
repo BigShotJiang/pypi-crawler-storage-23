@@ -1,0 +1,11 @@
+{
+  "name": "flask-more-smorest",
+  "version": "0.11.0",
+  "summary": "Enhanced Flask-Smorest blueprints with automatic CRUD operations",
+  "author": "Dave",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_more_smorest-0.11.0.tar.gz",
+  "download_time": "2026-02-23T19:44:09.745935",
+  "package_url": "https://pypi.org/project/flask-more-smorest/"
+}

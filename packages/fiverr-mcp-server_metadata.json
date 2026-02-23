@@ -1,0 +1,11 @@
+{
+  "name": "fiverr-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP server for searching Fiverr gigs, sellers, and reviews",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fiverr_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-23T19:44:38.738106",
+  "package_url": "https://pypi.org/project/fiverr-mcp-server/"
+}

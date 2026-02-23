@@ -1,0 +1,11 @@
+{
+  "name": "british-cycling-utils",
+  "version": "0.4.0.post0",
+  "summary": "Unofficial library to work with data exported from British Cycling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "british_cycling_utils-0.4.0.post0.tar.gz",
+  "download_time": "2026-02-23T19:44:39.837400",
+  "package_url": "https://pypi.org/project/british-cycling-utils/"
+}

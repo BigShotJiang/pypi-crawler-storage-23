@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-hexdump",
+  "version": "0.1.1",
+  "summary": "Sphinx directive to render deterministic monochrome hexdumps from binary files",
+  "author": "sphinxcontrib-hexdump contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphinxcontrib_hexdump-0.1.1.tar.gz",
+  "download_time": "2026-02-23T19:44:45.483988",
+  "package_url": "https://pypi.org/project/sphinxcontrib-hexdump/"
+}

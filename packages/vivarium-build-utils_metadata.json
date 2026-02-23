@@ -1,11 +1,11 @@
 {
   "name": "vivarium-build-utils",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Shared build utilities and Jenkins pipeline library for Simulation Science projects.",
   "author": "The vivarium developers",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/ihmeuw/vivarium_build_utils",
-  "download_filename": "vivarium_build_utils-2.3.0.tar.gz",
-  "download_time": "2026-02-18T23:29:32.116250",
+  "download_filename": "vivarium_build_utils-2.3.1.tar.gz",
+  "download_time": "2026-02-23T19:44:33.084159",
   "package_url": "https://pypi.org/project/vivarium-build-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "notochord",
+  "version": "0.7.5",
+  "summary": "Notochord is a real-time neural network model for MIDI performances.",
+  "author": "Victor Shepardson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notochord-0.7.5.tar.gz",
+  "download_time": "2026-02-23T19:44:11.286376",
+  "package_url": "https://pypi.org/project/notochord/"
+}

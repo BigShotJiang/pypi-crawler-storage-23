@@ -1,0 +1,11 @@
+{
+  "name": "nbimplot",
+  "version": "0.1.5",
+  "summary": "ImPlot-powered Jupyter plotting widget for interactive, million-point visualizations.",
+  "author": "nbimplot contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nbimplot-0.1.5.tar.gz",
+  "download_time": "2026-02-23T19:44:21.700562",
+  "package_url": "https://pypi.org/project/nbimplot/"
+}

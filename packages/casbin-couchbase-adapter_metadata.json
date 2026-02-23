@@ -1,0 +1,11 @@
+{
+  "name": "casbin-couchbase-adapter",
+  "version": "0.3.0",
+  "summary": "Couchbase Adapter for PyCasbin",
+  "author": "ScienceLogic",
+  "license": "Apache2",
+  "home_page": "https://github.com/ScienceLogic/casbin-couchbase-adapter",
+  "download_filename": "casbin_couchbase_adapter-0.3.0-py3-none-any.whl",
+  "download_time": "2026-02-23T19:44:49.106567",
+  "package_url": "https://pypi.org/project/casbin-couchbase-adapter/"
+}

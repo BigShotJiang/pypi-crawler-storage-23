@@ -1,0 +1,11 @@
+{
+  "name": "django-o11y",
+  "version": "0.2.1",
+  "summary": "Comprehensive OpenTelemetry observability for Django with traces, logs, metrics, and profiling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_o11y-0.2.1.tar.gz",
+  "download_time": "2026-02-23T19:44:52.725922",
+  "package_url": "https://pypi.org/project/django-o11y/"
+}

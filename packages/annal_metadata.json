@@ -1,11 +1,11 @@
 {
   "name": "annal",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "summary": "Semantic memory server for AI agent teams",
   "author": "heyhayes",
   "license": null,
   "home_page": null,
-  "download_filename": "annal-0.6.3.tar.gz",
-  "download_time": "2026-02-22T15:19:22.342807",
+  "download_filename": "annal-0.7.0.tar.gz",
+  "download_time": "2026-02-23T19:44:10.772477",
   "package_url": "https://pypi.org/project/annal/"
 }

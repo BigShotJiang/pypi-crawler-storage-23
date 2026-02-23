@@ -1,0 +1,11 @@
+{
+  "name": "fastiter",
+  "version": "0.1.2",
+  "summary": "High-performance parallel iterators for Python 3.14+ free-threaded mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastiter-0.1.2.tar.gz",
+  "download_time": "2026-02-23T19:44:38.227506",
+  "package_url": "https://pypi.org/project/fastiter/"
+}
