@@ -1,0 +1,11 @@
+{
+  "name": "sekejap",
+  "version": "0.3.0",
+  "summary": "A graph-first, embedded multi-model database engine",
+  "author": null,
+  "license": null,
+  "home_page": "https://sekejap.mecha.id",
+  "download_filename": "sekejap-0.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-02-23T01:11:31.468839",
+  "package_url": "https://pypi.org/project/sekejap/"
+}

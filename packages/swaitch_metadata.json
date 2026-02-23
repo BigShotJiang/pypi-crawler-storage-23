@@ -1,0 +1,11 @@
+{
+  "name": "swaitch",
+  "version": "1.0.0",
+  "summary": "Switch IDEs without losing your AI conversation context. An MCP server that bridges conversations across coding assistants.",
+  "author": "Ramraj Bishnoie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swaitch-1.0.0.tar.gz",
+  "download_time": "2026-02-23T01:11:25.893812",
+  "package_url": "https://pypi.org/project/swaitch/"
+}

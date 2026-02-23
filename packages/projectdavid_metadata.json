@@ -1,11 +1,11 @@
 {
   "name": "projectdavid",
-  "version": "1.54.8",
+  "version": "1.56.1",
   "summary": "Python SDK for interacting with the Entities Assistant API.",
   "author": null,
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "projectdavid-1.54.8.tar.gz",
-  "download_time": "2026-02-21T22:59:57.443786",
+  "download_filename": "projectdavid-1.56.1.tar.gz",
+  "download_time": "2026-02-23T01:11:46.528522",
   "package_url": "https://pypi.org/project/projectdavid/"
 }

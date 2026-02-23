@@ -1,11 +1,11 @@
 {
   "name": "voicelistener",
-  "version": "1.0.1",
-  "summary": "Real-time voice recognition using Silero VAD and Whisper",
+  "version": "1.0.2",
+  "summary": "Real-time voice recognition using Silero VAD and Whisper/Eleven Labs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voicelistener-1.0.1.tar.gz",
-  "download_time": "2026-02-22T19:24:35.080531",
+  "download_filename": "voicelistener-1.0.2.tar.gz",
+  "download_time": "2026-02-23T01:11:43.303639",
   "package_url": "https://pypi.org/project/voicelistener/"
 }

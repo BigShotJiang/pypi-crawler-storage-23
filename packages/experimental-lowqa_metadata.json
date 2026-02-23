@@ -1,11 +1,11 @@
 {
   "name": "experimental-lowqa",
-  "version": "0.1.13",
+  "version": "0.2.1",
   "summary": "Read the sign.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/experimental-lowqa",
-  "download_filename": "experimental_lowqa-0.1.13.tar.gz",
-  "download_time": "2026-02-22T21:01:14.902732",
+  "download_filename": "experimental_lowqa-0.2.1.tar.gz",
+  "download_time": "2026-02-23T01:11:20.516914",
   "package_url": "https://pypi.org/project/experimental-lowqa/"
 }

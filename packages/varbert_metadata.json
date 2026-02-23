@@ -1,0 +1,11 @@
+{
+  "name": "varbert",
+  "version": "2.3.1",
+  "summary": "The VarBERT API for renaming variables in decompiled code.",
+  "author": null,
+  "license": "BSD 2 Clause",
+  "home_page": "https://github.com/binsync/varbert_api",
+  "download_filename": "varbert-2.3.1.tar.gz",
+  "download_time": "2026-02-23T01:12:02.815889",
+  "package_url": "https://pypi.org/project/varbert/"
+}

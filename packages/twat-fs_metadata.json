@@ -1,0 +1,11 @@
+{
+  "name": "twat-fs",
+  "version": "2.7.8",
+  "summary": "File system utilities for twat with support for multiple upload providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twat_fs-2.7.8.tar.gz",
+  "download_time": "2026-02-23T01:11:43.841561",
+  "package_url": "https://pypi.org/project/twat-fs/"
+}

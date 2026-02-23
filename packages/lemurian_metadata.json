@@ -1,11 +1,11 @@
 {
   "name": "lemurian",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A framework for building AI agents in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lemurian-1.0.0.tar.gz",
-  "download_time": "2026-02-21T21:55:26.891580",
+  "download_filename": "lemurian-1.1.0.tar.gz",
+  "download_time": "2026-02-23T01:11:37.890146",
   "package_url": "https://pypi.org/project/lemurian/"
 }
