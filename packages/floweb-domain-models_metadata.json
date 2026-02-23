@@ -1,11 +1,11 @@
 {
   "name": "floweb-domain-models",
-  "version": "1.0.4",
+  "version": "1.0.13",
   "summary": "Domain models for Floweb Desktop - centralized Python models",
   "author": "Floweb Team",
   "license": "Proprietary",
   "home_page": "https://github.com/floweb/floweb-domain-models",
-  "download_filename": "floweb_domain_models-1.0.4.tar.gz",
-  "download_time": "2026-02-22T23:47:46.881583",
+  "download_filename": "floweb_domain_models-1.0.13.tar.gz",
+  "download_time": "2026-02-23T06:41:11.630223",
   "package_url": "https://pypi.org/project/floweb-domain-models/"
 }

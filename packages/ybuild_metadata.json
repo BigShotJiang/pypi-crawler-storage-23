@@ -1,11 +1,11 @@
 {
   "name": "ybuild",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python SDK for Y Build Runtime - Cloud Container Execution Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ybuild-0.4.0.tar.gz",
-  "download_time": "2026-02-22T14:52:03.590711",
+  "download_filename": "ybuild-0.4.1.tar.gz",
+  "download_time": "2026-02-23T06:41:40.212805",
   "package_url": "https://pypi.org/project/ybuild/"
 }

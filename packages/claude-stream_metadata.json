@@ -1,0 +1,11 @@
+{
+  "name": "claude-stream",
+  "version": "0.2.1",
+  "summary": "Parse and prettify Claude Code JSONL stream output",
+  "author": "Shaun Mitchell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_stream-0.2.1.tar.gz",
+  "download_time": "2026-02-23T06:41:09.447742",
+  "package_url": "https://pypi.org/project/claude-stream/"
+}

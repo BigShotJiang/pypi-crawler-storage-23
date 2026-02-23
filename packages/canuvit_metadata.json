@@ -1,0 +1,11 @@
+{
+  "name": "canuvit",
+  "version": "0.5.2",
+  "summary": "UVIT safety checks",
+  "author": "Prajwel Joseph",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/prajwel/canuvit",
+  "download_filename": "canuvit-0.5.2.tar.gz",
+  "download_time": "2026-02-23T06:41:01.663239",
+  "package_url": "https://pypi.org/project/canuvit/"
+}

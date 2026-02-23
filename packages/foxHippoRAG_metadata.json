@@ -1,11 +1,11 @@
 {
   "name": "foxHippoRAG",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A powerful graph-based RAG framework (foxHippoRAG distribution) that enables LLMs to identify and leverage connections within new knowledge for improved retrieval.",
   "author": "shunianssy",
   "license": "GNU Affero General Public License v3.0",
   "home_page": "https://github.com/shunianssy/foxHippoRAG",
-  "download_filename": "foxhipporag-1.0.3.tar.gz",
-  "download_time": "2026-02-23T03:49:36.611997",
+  "download_filename": "foxhipporag-1.0.5.tar.gz",
+  "download_time": "2026-02-23T06:41:25.414340",
   "package_url": "https://pypi.org/project/foxHippoRAG/"
 }

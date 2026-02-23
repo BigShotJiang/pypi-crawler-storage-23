@@ -1,11 +1,11 @@
 {
   "name": "analogpy",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "Analog circuit IR (Intermediate Representation) and Spectre netlist generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "analogpy-0.1.8.tar.gz",
-  "download_time": "2026-02-23T03:49:32.754366",
+  "download_filename": "analogpy-0.2.1.tar.gz",
+  "download_time": "2026-02-23T06:41:24.872151",
   "package_url": "https://pypi.org/project/analogpy/"
 }

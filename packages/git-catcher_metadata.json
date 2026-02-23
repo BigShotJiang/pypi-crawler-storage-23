@@ -1,0 +1,11 @@
+{
+  "name": "git-catcher",
+  "version": "0.3.0",
+  "summary": "Smee.io 기반 GitHub push webhook 자동 배포 CLI 도구",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_catcher-0.3.0.tar.gz",
+  "download_time": "2026-02-23T06:41:05.579013",
+  "package_url": "https://pypi.org/project/git-catcher/"
+}

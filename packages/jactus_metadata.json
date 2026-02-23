@@ -1,11 +1,11 @@
 {
   "name": "jactus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "JAX implementation of the ACTUS financial contract standard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jactus-0.1.0.tar.gz",
-  "download_time": "2026-02-22T11:36:32.612573",
+  "download_filename": "jactus-0.1.1.tar.gz",
+  "download_time": "2026-02-23T06:41:37.471257",
   "package_url": "https://pypi.org/project/jactus/"
 }

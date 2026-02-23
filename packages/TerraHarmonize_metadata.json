@@ -1,0 +1,11 @@
+{
+  "name": "TerraHarmonize",
+  "version": "0.1.6",
+  "summary": "A powerful and efficient package designed for the SatSure Sage GIS team, enabling precise and seamless POC matching and D1-D2 matching across all states.",
+  "author": "chandramohan",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "terraharmonize-0.1.6.tar.gz",
+  "download_time": "2026-02-23T06:41:23.702998",
+  "package_url": "https://pypi.org/project/TerraHarmonize/"
+}

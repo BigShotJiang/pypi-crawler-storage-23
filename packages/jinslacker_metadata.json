@@ -1,0 +1,11 @@
+{
+  "name": "jinslacker",
+  "version": "2.8.0",
+  "summary": "Send messages from AWS services to Slack",
+  "author": "Murray Andrews",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/jin-gizmo/slacker",
+  "download_filename": "jinslacker-2.8.0.tar.gz",
+  "download_time": "2026-02-23T06:41:33.671922",
+  "package_url": "https://pypi.org/project/jinslacker/"
+}

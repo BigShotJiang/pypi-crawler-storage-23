@@ -1,0 +1,11 @@
+{
+  "name": "leanprompt",
+  "version": "0.4.1",
+  "summary": "A FastAPI-based LLM integration framework for engineering-centric AI development.",
+  "author": "Youngjune Kwon",
+  "license": null,
+  "home_page": "https://github.com/yjkwon_wm2m/leanprompt",
+  "download_filename": "leanprompt-0.4.1.tar.gz",
+  "download_time": "2026-02-23T06:41:38.554313",
+  "package_url": "https://pypi.org/project/leanprompt/"
+}

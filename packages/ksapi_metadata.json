@@ -1,11 +1,11 @@
 {
   "name": "ksapi",
-  "version": "1.27.1",
+  "version": "1.28.0",
   "summary": "Knowledge Stack API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "ksapi-1.27.1.tar.gz",
-  "download_time": "2026-02-22T18:22:36.280711",
+  "download_filename": "ksapi-1.28.0.tar.gz",
+  "download_time": "2026-02-23T06:41:17.660104",
   "package_url": "https://pypi.org/project/ksapi/"
 }

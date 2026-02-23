@@ -1,0 +1,11 @@
+{
+  "name": "usechange",
+  "version": "0.1.9",
+  "summary": "Generate Beautiful Changelogs using Conventional Commits",
+  "author": "Edward Boswell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usechange-0.1.9.tar.gz",
+  "download_time": "2026-02-23T06:41:38.012313",
+  "package_url": "https://pypi.org/project/usechange/"
+}
