@@ -1,11 +1,11 @@
 {
   "name": "vcorelib",
-  "version": "3.6.8",
+  "version": "3.6.10",
   "summary": "A collection of core Python utilities.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/vcorelib",
-  "download_filename": "vcorelib-3.6.8.tar.gz",
-  "download_time": "2026-02-22T23:48:02.626924",
+  "download_filename": "vcorelib-3.6.10.tar.gz",
+  "download_time": "2026-02-23T03:49:40.919336",
   "package_url": "https://pypi.org/project/vcorelib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "calificar",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Permite calificar talleres a través de Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calificar-0.1.1.tar.gz",
-  "download_time": "2026-02-22T17:49:53.006921",
+  "download_filename": "calificar-0.1.5.tar.gz",
+  "download_time": "2026-02-23T03:50:03.945128",
   "package_url": "https://pypi.org/project/calificar/"
 }

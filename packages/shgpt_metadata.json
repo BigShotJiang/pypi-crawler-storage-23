@@ -1,0 +1,11 @@
+{
+  "name": "shgpt",
+  "version": "0.7.0",
+  "summary": "Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shgpt-0.7.0.tar.gz",
+  "download_time": "2026-02-23T03:49:58.394750",
+  "package_url": "https://pypi.org/project/shgpt/"
+}

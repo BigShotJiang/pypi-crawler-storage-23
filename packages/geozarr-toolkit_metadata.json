@@ -1,0 +1,11 @@
+{
+  "name": "geozarr-toolkit",
+  "version": "0.1.1",
+  "summary": "GeoZarr convention models, validation, and creation utilities",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "geozarr_toolkit-0.1.1.tar.gz",
+  "download_time": "2026-02-23T03:49:55.161458",
+  "package_url": "https://pypi.org/project/geozarr-toolkit/"
+}

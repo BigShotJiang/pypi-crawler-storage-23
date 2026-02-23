@@ -1,0 +1,11 @@
+{
+  "name": "dj-typed-settings",
+  "version": "0.3.1",
+  "summary": "Check your Django settings for common issues.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_typed_settings-0.3.1.tar.gz",
+  "download_time": "2026-02-23T03:49:23.465445",
+  "package_url": "https://pypi.org/project/dj-typed-settings/"
+}

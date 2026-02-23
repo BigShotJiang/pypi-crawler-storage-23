@@ -1,0 +1,11 @@
+{
+  "name": "shade-ai",
+  "version": "2.0.0",
+  "summary": "Fully automatic censorship removal for language models",
+  "author": "Assem Sabry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shade_ai-2.0.0.tar.gz",
+  "download_time": "2026-02-23T03:50:02.782992",
+  "package_url": "https://pypi.org/project/shade-ai/"
+}

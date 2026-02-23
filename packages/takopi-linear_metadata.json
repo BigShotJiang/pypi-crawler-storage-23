@@ -1,0 +1,11 @@
+{
+  "name": "takopi-linear",
+  "version": "0.0.1.dev0",
+  "summary": "Takopi transport backend for Linear Agent SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "takopi_linear-0.0.1.dev0.tar.gz",
+  "download_time": "2026-02-23T03:49:22.357614",
+  "package_url": "https://pypi.org/project/takopi-linear/"
+}

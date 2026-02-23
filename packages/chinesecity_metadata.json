@@ -1,11 +1,11 @@
 {
   "name": "chinesecity",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "一个综合库，包含各种实用功能。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chinesecity-0.1.0.tar.gz",
-  "download_time": "2026-02-22T14:22:48.499152",
+  "download_filename": "chinesecity-0.1.3.tar.gz",
+  "download_time": "2026-02-23T03:50:00.009940",
   "package_url": "https://pypi.org/project/chinesecity/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "EDcoder",
+  "version": "0.1.4",
+  "summary": "text encoder/decoder using custom table",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edcoder-0.1.4.tar.gz",
+  "download_time": "2026-02-23T03:49:43.628107",
+  "package_url": "https://pypi.org/project/EDcoder/"
+}

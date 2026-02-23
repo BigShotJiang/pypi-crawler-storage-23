@@ -1,11 +1,11 @@
 {
   "name": "auth101",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Simple email/password authentication for Django, FastAPI, and Flask",
   "author": "Elsai",
   "license": null,
   "home_page": null,
-  "download_filename": "auth101-0.2.0.tar.gz",
-  "download_time": "2026-02-19T08:08:59.489506",
+  "download_filename": "auth101-0.3.1.tar.gz",
+  "download_time": "2026-02-23T03:49:22.910179",
   "package_url": "https://pypi.org/project/auth101/"
 }
