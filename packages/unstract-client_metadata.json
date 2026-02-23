@@ -1,0 +1,11 @@
+{
+  "name": "unstract-client",
+  "version": "1.2.1",
+  "summary": "Python client for the Unstract LLM-powered structured data extraction platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unstract_client-1.2.1.tar.gz",
+  "download_time": "2026-02-23T11:54:06.527211",
+  "package_url": "https://pypi.org/project/unstract-client/"
+}

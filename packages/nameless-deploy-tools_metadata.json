@@ -1,0 +1,11 @@
+{
+  "name": "nameless-deploy-tools",
+  "version": "1.335",
+  "summary": "Tools for deploying to AWS via CloudFormation and Serverless framework that support a pull request based workflow",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nameless_deploy_tools-1.335.tar.gz",
+  "download_time": "2026-02-23T11:54:00.787931",
+  "package_url": "https://pypi.org/project/nameless-deploy-tools/"
+}

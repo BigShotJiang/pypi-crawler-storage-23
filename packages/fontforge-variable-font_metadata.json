@@ -1,0 +1,11 @@
+{
+  "name": "fontforge-variable-font",
+  "version": "0.2.0",
+  "summary": "A FontForge_plugin to create a variable font",
+  "author": "MihailJP",
+  "license": null,
+  "home_page": "https://github.com/MihailJP/fontforge-variable-font",
+  "download_filename": "fontforge_variable_font-0.2.0.tar.gz",
+  "download_time": "2026-02-23T11:54:08.214422",
+  "package_url": "https://pypi.org/project/fontforge-variable-font/"
+}

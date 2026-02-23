@@ -1,0 +1,11 @@
+{
+  "name": "pyx3270",
+  "version": "0.1.9",
+  "summary": "Uma interface comum utilizada para automações de terminais 3270 da IBM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyx3270-0.1.9.tar.gz",
+  "download_time": "2026-02-23T11:54:01.468554",
+  "package_url": "https://pypi.org/project/pyx3270/"
+}

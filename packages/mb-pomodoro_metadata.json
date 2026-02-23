@@ -1,11 +1,11 @@
 {
   "name": "mb-pomodoro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "macOS Pomodoro timer with a CLI-first workflow",
   "author": "mcbarinov",
   "license": null,
   "home_page": null,
-  "download_filename": "mb_pomodoro-0.0.1.tar.gz",
-  "download_time": "2026-02-21T11:15:37.919833",
+  "download_filename": "mb_pomodoro-0.0.2.tar.gz",
+  "download_time": "2026-02-23T11:54:04.842077",
   "package_url": "https://pypi.org/project/mb-pomodoro/"
 }

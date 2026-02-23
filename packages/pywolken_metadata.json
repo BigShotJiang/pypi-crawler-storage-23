@@ -1,0 +1,11 @@
+{
+  "name": "pywolken",
+  "version": "0.1.1",
+  "summary": "Python point cloud processing library — the Python alternative to PDAL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pywolken-0.1.1.tar.gz",
+  "download_time": "2026-02-23T11:54:12.257043",
+  "package_url": "https://pypi.org/project/pywolken/"
+}

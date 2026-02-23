@@ -1,11 +1,11 @@
 {
   "name": "mcp-advisor",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "MCP server to browse, search, and discover MCP servers from the MCP Advisor registry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_advisor-0.1.1.tar.gz",
-  "download_time": "2026-02-22T20:16:33.670306",
+  "download_filename": "mcp_advisor-0.2.1.tar.gz",
+  "download_time": "2026-02-23T11:54:16.643736",
   "package_url": "https://pypi.org/project/mcp-advisor/"
 }

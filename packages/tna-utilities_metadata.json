@@ -1,0 +1,11 @@
+{
+  "name": "tna-utilities",
+  "version": "1.3.0",
+  "summary": "A library of common National Archives Python functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tna_utilities-1.3.0.tar.gz",
+  "download_time": "2026-02-23T11:54:34.771735",
+  "package_url": "https://pypi.org/project/tna-utilities/"
+}

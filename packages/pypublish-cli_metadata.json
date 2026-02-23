@@ -1,0 +1,11 @@
+{
+  "name": "pypublish-cli",
+  "version": "0.2.1",
+  "summary": "A CLI tool for publishing Python packages to PyPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypublish_cli-0.2.1.tar.gz",
+  "download_time": "2026-02-23T11:54:29.891972",
+  "package_url": "https://pypi.org/project/pypublish-cli/"
+}

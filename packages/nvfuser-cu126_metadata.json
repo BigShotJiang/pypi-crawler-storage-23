@@ -1,11 +1,11 @@
 {
   "name": "nvfuser-cu126",
-  "version": "0.2.36.dev20260221",
+  "version": "0.2.36.dev20260223",
   "summary": "A Fusion Code Generator for NVIDIA GPUs (commonly known as 'nvFuser')",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/NVIDIA/Fuser",
-  "download_filename": "nvfuser_cu126-0.2.36.dev20260221.tar.gz",
-  "download_time": "2026-02-21T10:17:57.233895",
+  "download_filename": "nvfuser_cu126-0.2.36.dev20260223.tar.gz",
+  "download_time": "2026-02-23T11:54:35.859254",
   "package_url": "https://pypi.org/project/nvfuser-cu126/"
 }

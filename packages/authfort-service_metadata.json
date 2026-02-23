@@ -1,11 +1,11 @@
 {
   "name": "authfort-service",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Lightweight JWT verification for AuthFort-powered microservices",
   "author": "Bhagyajit Jagdev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "authfort_service-0.0.8.tar.gz",
-  "download_time": "2026-02-19T17:14:01.705355",
+  "download_filename": "authfort_service-0.0.10.tar.gz",
+  "download_time": "2026-02-23T11:54:38.601847",
   "package_url": "https://pypi.org/project/authfort-service/"
 }

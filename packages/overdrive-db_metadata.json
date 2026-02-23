@@ -1,11 +1,11 @@
 {
   "name": "overdrive-db",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Embeddable document database — like SQLite for JSON",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "overdrive_db-1.0.1.tar.gz",
-  "download_time": "2026-02-22T14:23:03.551431",
+  "download_filename": "overdrive_db-1.1.0.tar.gz",
+  "download_time": "2026-02-23T11:54:17.184327",
   "package_url": "https://pypi.org/project/overdrive-db/"
 }

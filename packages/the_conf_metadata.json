@@ -1,0 +1,11 @@
+{
+  "name": "the_conf",
+  "version": "1.1.1",
+  "summary": "Config build from multiple sources",
+  "author": "François Schmidts",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "the_conf-1.1.1.tar.gz",
+  "download_time": "2026-02-23T11:54:36.973912",
+  "package_url": "https://pypi.org/project/the_conf/"
+}
