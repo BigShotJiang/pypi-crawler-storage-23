@@ -1,0 +1,11 @@
+{
+  "name": "skforge",
+  "version": "1.0.0",
+  "summary": "Sovereign Alignment Calendar System - Forge your path through the cosmos",
+  "author": "SkyForge Team",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "skforge-1.0.0.tar.gz",
+  "download_time": "2026-02-23T15:32:29.191052",
+  "package_url": "https://pypi.org/project/skforge/"
+}

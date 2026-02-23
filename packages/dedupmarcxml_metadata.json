@@ -1,0 +1,11 @@
+{
+  "name": "dedupmarcxml",
+  "version": "1.1.8",
+  "summary": "This python module is a tool to dedup MarcXML records.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dedupmarcxml-1.1.8.tar.gz",
+  "download_time": "2026-02-23T15:32:00.364395",
+  "package_url": "https://pypi.org/project/dedupmarcxml/"
+}

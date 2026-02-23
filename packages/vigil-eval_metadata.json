@@ -1,11 +1,11 @@
 {
   "name": "vigil-eval",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "The testing framework for AI agents. Fast, framework-agnostic, CI-ready.",
   "author": "Vigil AI",
   "license": null,
   "home_page": null,
-  "download_filename": "vigil_eval-0.2.2.tar.gz",
-  "download_time": "2026-02-23T14:42:23.075868",
+  "download_filename": "vigil_eval-0.2.3.tar.gz",
+  "download_time": "2026-02-23T15:32:26.533029",
   "package_url": "https://pypi.org/project/vigil-eval/"
 }

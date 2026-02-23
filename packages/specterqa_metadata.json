@@ -1,0 +1,11 @@
+{
+  "name": "specterqa",
+  "version": "0.3.0",
+  "summary": "AI persona-based behavioral testing for web apps. No test scripts. YAML-configured. Vision-powered.",
+  "author": "SyncTek LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "specterqa-0.3.0.tar.gz",
+  "download_time": "2026-02-23T15:32:13.211123",
+  "package_url": "https://pypi.org/project/specterqa/"
+}

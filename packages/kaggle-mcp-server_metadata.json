@@ -1,0 +1,11 @@
+{
+  "name": "kaggle-mcp-server",
+  "version": "0.1.0",
+  "summary": "A full-featured MCP server wrapping the Kaggle API — 21 tools across competitions, datasets, kernels, models, and discussions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaggle_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-23T15:32:15.323917",
+  "package_url": "https://pypi.org/project/kaggle-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "definable",
+  "version": "0.3.1",
+  "summary": "Production-grade AI agent framework with RAG, memory, tools, and multi-model support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "definable-0.3.1.tar.gz",
+  "download_time": "2026-02-23T15:32:00.918130",
+  "package_url": "https://pypi.org/project/definable/"
+}

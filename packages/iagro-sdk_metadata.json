@@ -1,0 +1,11 @@
+{
+  "name": "iagro-sdk",
+  "version": "0.3.1",
+  "summary": "Pacote de códigos que serão reutilizados nnos projetos da IAgro",
+  "author": "armandoluz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iagro_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-23T15:32:17.996548",
+  "package_url": "https://pypi.org/project/iagro-sdk/"
+}
