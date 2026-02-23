@@ -1,0 +1,11 @@
+{
+  "name": "cstar-ocean",
+  "version": "0.3.0",
+  "summary": "Computational systems for tracking ocean carbon",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cstar_ocean-0.3.0.tar.gz",
+  "download_time": "2026-02-23T18:40:56.636169",
+  "package_url": "https://pypi.org/project/cstar-ocean/"
+}

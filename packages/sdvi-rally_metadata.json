@@ -1,0 +1,11 @@
+{
+  "name": "sdvi-rally",
+  "version": "1.14.0",
+  "summary": "Rally Python SDK",
+  "author": "SDVI Corp",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sdvi_rally-1.14.0.tar.gz",
+  "download_time": "2026-02-23T18:41:08.690338",
+  "package_url": "https://pypi.org/project/sdvi-rally/"
+}

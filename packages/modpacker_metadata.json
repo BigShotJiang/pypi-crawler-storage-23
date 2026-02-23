@@ -1,0 +1,11 @@
+{
+  "name": "modpacker",
+  "version": "0.1.8",
+  "summary": "The best Minecraft modpack creation tool you know",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modpacker-0.1.8.tar.gz",
+  "download_time": "2026-02-23T18:40:47.561724",
+  "package_url": "https://pypi.org/project/modpacker/"
+}

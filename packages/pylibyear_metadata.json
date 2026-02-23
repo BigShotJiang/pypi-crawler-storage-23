@@ -1,11 +1,11 @@
 {
   "name": "pylibyear",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A simple measure of software dependency freshness.",
   "author": "nasirhjafri",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pylibyear-0.4.0.tar.gz",
-  "download_time": "2026-02-22T19:24:15.812931",
+  "download_filename": "pylibyear-0.4.1-py3-none-any.whl",
+  "download_time": "2026-02-23T18:40:44.336288",
   "package_url": "https://pypi.org/project/pylibyear/"
 }

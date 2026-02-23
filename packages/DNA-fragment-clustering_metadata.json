@@ -1,0 +1,11 @@
+{
+  "name": "DNA-fragment-clustering",
+  "version": "0.1.2",
+  "summary": "DNA fragment clustering and grouping tool",
+  "author": "Jacob Mejlsted",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dna_fragment_clustering-0.1.2.tar.gz",
+  "download_time": "2026-02-23T18:41:21.235095",
+  "package_url": "https://pypi.org/project/DNA-fragment-clustering/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ripdoc",
+  "version": "0.1.0",
+  "summary": "100x faster PDF extraction. Drop-in pdfplumber replacement.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "ripdoc-0.1.0.tar.gz",
+  "download_time": "2026-02-23T18:41:28.082245",
+  "package_url": "https://pypi.org/project/ripdoc/"
+}

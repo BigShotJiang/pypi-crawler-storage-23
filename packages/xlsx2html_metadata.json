@@ -1,0 +1,11 @@
+{
+  "name": "xlsx2html",
+  "version": "0.6.4",
+  "summary": "A simple export from xlsx format to html tables with keep cell formatting",
+  "author": "Apkawa",
+  "license": "MIT",
+  "home_page": "https://github.com/Apkawa/xlsx2html",
+  "download_filename": "xlsx2html-0.6.4.tar.gz",
+  "download_time": "2026-02-23T18:41:16.016633",
+  "package_url": "https://pypi.org/project/xlsx2html/"
+}

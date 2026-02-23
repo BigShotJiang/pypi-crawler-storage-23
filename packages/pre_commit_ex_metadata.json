@@ -1,0 +1,11 @@
+{
+  "name": "pre_commit_ex",
+  "version": "4.5.1.post1",
+  "summary": "A framework for managing and maintaining multi-language pre-commit hooks.",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/pre-commit/pre-commit",
+  "download_filename": "pre_commit_ex-4.5.1.post1-py2.py3-none-any.whl",
+  "download_time": "2026-02-23T18:41:22.805844",
+  "package_url": "https://pypi.org/project/pre_commit_ex/"
+}

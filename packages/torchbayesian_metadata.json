@@ -1,0 +1,11 @@
+{
+  "name": "torchbayesian",
+  "version": "0.2.1",
+  "summary": "PyTorch-native Bayesian neural networks for uncertainty quantification in deep learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchbayesian-0.2.1.tar.gz",
+  "download_time": "2026-02-23T18:40:52.337825",
+  "package_url": "https://pypi.org/project/torchbayesian/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "remottxrea",
-  "version": "1.0.77",
+  "version": "1.0.89",
   "summary": "Remote client framework for Telegram automation using Pyrogram",
   "author": "MrAhmadiRad",
   "license": "MIT",
   "home_page": "https://github.com/MohammadAhmadi-R/remottxrea",
-  "download_filename": "remottxrea-1.0.77.tar.gz",
-  "download_time": "2026-02-23T17:38:30.959480",
+  "download_filename": "remottxrea-1.0.89.tar.gz",
+  "download_time": "2026-02-23T18:40:49.668638",
   "package_url": "https://pypi.org/project/remottxrea/"
 }

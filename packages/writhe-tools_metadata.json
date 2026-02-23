@@ -1,0 +1,11 @@
+{
+  "name": "writhe-tools",
+  "version": "0.0.25",
+  "summary": "A high-performance Python package for computing the geometric descriptor writhe from 3D coordinate data.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "writhe_tools-0.0.25.tar.gz",
+  "download_time": "2026-02-23T18:41:14.465497",
+  "package_url": "https://pypi.org/project/writhe-tools/"
+}

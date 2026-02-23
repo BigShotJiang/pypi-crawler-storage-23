@@ -1,0 +1,11 @@
+{
+  "name": "claude-tg",
+  "version": "0.4.5",
+  "summary": "Claude Code <-> Telegram bridge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_tg-0.4.5.tar.gz",
+  "download_time": "2026-02-23T18:40:57.153517",
+  "package_url": "https://pypi.org/project/claude-tg/"
+}

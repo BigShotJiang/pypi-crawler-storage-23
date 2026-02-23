@@ -1,0 +1,11 @@
+{
+  "name": "wick-deep-agent",
+  "version": "0.1.0",
+  "summary": "Python client and server manager for the wick_go agent server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wick_deep_agent-0.1.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-23T18:40:51.299164",
+  "package_url": "https://pypi.org/project/wick-deep-agent/"
+}

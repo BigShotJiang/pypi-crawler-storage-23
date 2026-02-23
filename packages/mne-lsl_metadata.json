@@ -1,0 +1,11 @@
+{
+  "name": "mne-lsl",
+  "version": "1.13.0",
+  "summary": "Real-time framework integrated with MNE-Python for online neuroscience research through LSL-compatible devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mne_lsl-1.13.0.tar.gz",
+  "download_time": "2026-02-23T18:40:55.494756",
+  "package_url": "https://pypi.org/project/mne-lsl/"
+}

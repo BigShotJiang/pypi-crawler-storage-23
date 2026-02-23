@@ -1,11 +1,11 @@
 {
   "name": "booboo-sdk",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Lightweight error tracking for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "booboo_sdk-0.7.0.tar.gz",
-  "download_time": "2026-02-20T14:59:20.015903",
+  "download_filename": "booboo_sdk-0.8.0.tar.gz",
+  "download_time": "2026-02-23T18:40:52.857579",
   "package_url": "https://pypi.org/project/booboo-sdk/"
 }

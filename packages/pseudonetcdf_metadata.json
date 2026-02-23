@@ -1,0 +1,11 @@
+{
+  "name": "pseudonetcdf",
+  "version": "3.5.0",
+  "summary": "Like NetCDF and NCO, but works with NetCDF and other scientific formats.",
+  "author": "Barron Henderson",
+  "license": null,
+  "home_page": "http://github.com/barronh/pseudonetcdf/",
+  "download_filename": "pseudonetcdf-3.5.0.tar.gz",
+  "download_time": "2026-02-23T18:41:30.201155",
+  "package_url": "https://pypi.org/project/pseudonetcdf/"
+}
