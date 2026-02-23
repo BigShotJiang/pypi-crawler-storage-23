@@ -1,11 +1,11 @@
 {
   "name": "alper",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "alper-0.1.2.tar.gz",
-  "download_time": "2026-02-23T14:42:34.604685",
+  "home_page": "https://github.com/alperugurca/alper",
+  "download_filename": "alper-0.1.4.tar.gz",
+  "download_time": "2026-02-23T17:38:40.764380",
   "package_url": "https://pypi.org/project/alper/"
 }

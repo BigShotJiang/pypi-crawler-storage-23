@@ -1,0 +1,11 @@
+{
+  "name": "mcp-neo4j-memory",
+  "version": "0.4.5",
+  "summary": "MCP Neo4j Knowledge Graph Memory Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_neo4j_memory-0.4.5.tar.gz",
+  "download_time": "2026-02-23T17:38:48.712467",
+  "package_url": "https://pypi.org/project/mcp-neo4j-memory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debrief",
+  "version": "0.8.5",
+  "summary": "Dynamically generated BRIEF.md summaries for your Python projects, to make them accessible to new contributors or coding agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debrief-0.8.5.tar.gz",
+  "download_time": "2026-02-23T17:38:50.253956",
+  "package_url": "https://pypi.org/project/debrief/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "minecode-mcp",
+  "version": "0.1.9",
+  "summary": "MCP Server for Minecraft datapack development with wiki, Spyglass, Misode, and Mojira integrations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minecode_mcp-0.1.9.tar.gz",
+  "download_time": "2026-02-23T17:38:52.867595",
+  "package_url": "https://pypi.org/project/minecode-mcp/"
+}

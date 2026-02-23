@@ -1,0 +1,11 @@
+{
+  "name": "camelsch",
+  "version": "0.1.0",
+  "summary": "CLI tool for extracting and working with CAMELS-CH hydrological data",
+  "author": "Beatrice Marti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "camelsch-0.1.0.tar.gz",
+  "download_time": "2026-02-23T17:38:31.470390",
+  "package_url": "https://pypi.org/project/camelsch/"
+}

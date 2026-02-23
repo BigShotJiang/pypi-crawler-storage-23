@@ -1,0 +1,11 @@
+{
+  "name": "poco",
+  "version": "0.99.7",
+  "summary": "One CLI for Docker, Kubernetes and Helm: compose projects (up/down/ps), kubectx/kubens, helm-repos/helm-list.",
+  "author": "Shiwaforce.com",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.shiwaforce.com",
+  "download_filename": "poco-0.99.7.tar.gz",
+  "download_time": "2026-02-23T17:38:25.819458",
+  "package_url": "https://pypi.org/project/poco/"
+}

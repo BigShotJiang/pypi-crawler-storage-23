@@ -1,0 +1,11 @@
+{
+  "name": "comfy-dynamic-widgets",
+  "version": "0.1.6",
+  "summary": "Dynamic widget visibility for ComfyUI nodes via simple metadata",
+  "author": "Andrea Pozzetti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "comfy_dynamic_widgets-0.1.6.tar.gz",
+  "download_time": "2026-02-23T17:38:23.756544",
+  "package_url": "https://pypi.org/project/comfy-dynamic-widgets/"
+}

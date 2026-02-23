@@ -1,0 +1,11 @@
+{
+  "name": "great-assertions",
+  "version": "0.0.76",
+  "summary": "Lightweight assertions inspired by the great-expectations library",
+  "author": "Sam Treweek",
+  "license": "MIT",
+  "home_page": "https://github.com/serialbandicoot/great-assertions",
+  "download_filename": "great_assertions-0.0.76.tar.gz",
+  "download_time": "2026-02-23T17:38:40.252470",
+  "package_url": "https://pypi.org/project/great-assertions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "suitable-class-finder",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Given the hierarchy of an abstract class, it detects the appropriate concrete subclass (deterministically) that satisfies certain attributes obtained as a parameter. Useful for implementing the Strategy design pattern.",
   "author": "Armando Ezequiel Puerta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "suitable_class_finder-0.1.2.tar.gz",
-  "download_time": "2026-02-23T14:42:25.201565",
+  "download_filename": "suitable_class_finder-0.1.4.tar.gz",
+  "download_time": "2026-02-23T17:38:26.843766",
   "package_url": "https://pypi.org/project/suitable-class-finder/"
 }

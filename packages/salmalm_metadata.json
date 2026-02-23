@@ -1,11 +1,11 @@
 {
   "name": "salmalm",
-  "version": "0.19.18",
-  "summary": "Personal AI Gateway — Pure Python, zero-dependency AI assistant with multi-model routing, web UI, and 56+ built-in tools",
+  "version": "0.19.26",
+  "summary": "Personal AI Gateway — Pure Python, zero-dependency AI assistant with multi-model routing, web UI, and 67 built-in tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "salmalm-0.19.18.tar.gz",
-  "download_time": "2026-02-23T16:31:01.361155",
+  "download_filename": "salmalm-0.19.26.tar.gz",
+  "download_time": "2026-02-23T17:38:21.129558",
   "package_url": "https://pypi.org/project/salmalm/"
 }

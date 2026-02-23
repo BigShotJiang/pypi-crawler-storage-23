@@ -1,0 +1,11 @@
+{
+  "name": "corerec",
+  "version": "0.5.2",
+  "summary": "Advanced Recommendation Systems Library with State-of-the-Art Algorithms",
+  "author": "Vishesh Yadav",
+  "license": "MIT",
+  "home_page": "https://github.com/vishesh9131/CoreRec",
+  "download_filename": "corerec-0.5.2.tar.gz",
+  "download_time": "2026-02-23T17:38:24.282903",
+  "package_url": "https://pypi.org/project/corerec/"
+}

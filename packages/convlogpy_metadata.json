@@ -1,0 +1,11 @@
+{
+  "name": "convlogpy",
+  "version": "0.1.2",
+  "summary": "A python logger build on top of logging base in conventionallogs",
+  "author": "masterivanic",
+  "license": null,
+  "home_page": "https://github.com/masterivanic/python-conventionallogs",
+  "download_filename": "convlogpy-0.1.2.tar.gz",
+  "download_time": "2026-02-23T17:39:04.723466",
+  "package_url": "https://pypi.org/project/convlogpy/"
+}

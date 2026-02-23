@@ -1,0 +1,11 @@
+{
+  "name": "hotcoco",
+  "version": "0.1.0",
+  "summary": "Drop-in pycocotools replacement — 11-26x faster COCO evaluation in pure Rust",
+  "author": null,
+  "license": null,
+  "home_page": "https://derekallman.github.io/hotcoco/",
+  "download_filename": "hotcoco-0.1.0.tar.gz",
+  "download_time": "2026-02-23T17:38:48.195315",
+  "package_url": "https://pypi.org/project/hotcoco/"
+}
