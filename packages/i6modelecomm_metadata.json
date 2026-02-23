@@ -1,0 +1,11 @@
+{
+  "name": "i6modelecomm",
+  "version": "0.0.4",
+  "summary": "Infinity6 Model Ecomm",
+  "author": "i6",
+  "license": null,
+  "home_page": "https://github.com/infinity6-ai/i6data-ems.git",
+  "download_filename": "i6modelecomm-0.0.4.tar.gz",
+  "download_time": "2026-02-23T14:42:17.796271",
+  "package_url": "https://pypi.org/project/i6modelecomm/"
+}

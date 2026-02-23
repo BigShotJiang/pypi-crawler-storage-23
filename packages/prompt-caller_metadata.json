@@ -1,0 +1,11 @@
+{
+  "name": "prompt-caller",
+  "version": "0.2.4",
+  "summary": "This package is responsible for calling prompts in a specific format. It uses LangChain and OpenAI API",
+  "author": "Thiago Nepomuceno",
+  "license": null,
+  "home_page": "https://github.com/ThiNepo/prompt-caller",
+  "download_filename": "prompt_caller-0.2.4.tar.gz",
+  "download_time": "2026-02-23T14:42:30.393414",
+  "package_url": "https://pypi.org/project/prompt-caller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "safemode-ai",
+  "version": "0.0.1",
+  "summary": "Safe Mode — Your AI can't delete your files, leak your secrets, or blow your budget. Python SDK for AI agent safety.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safemode_ai-0.0.1.tar.gz",
+  "download_time": "2026-02-23T14:42:38.846501",
+  "package_url": "https://pypi.org/project/safemode-ai/"
+}

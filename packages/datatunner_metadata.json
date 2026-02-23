@@ -1,0 +1,11 @@
+{
+  "name": "datatunner",
+  "version": "0.1.4",
+  "summary": "Ferramenta para determinar a proporção ideal de dados sintéticos em modelos de ML",
+  "author": "Leandro Costa Rocha",
+  "license": "MIT",
+  "home_page": "https://github.com/leandrocrx/datatunner",
+  "download_filename": "datatunner-0.1.4.tar.gz",
+  "download_time": "2026-02-23T14:42:19.893128",
+  "package_url": "https://pypi.org/project/datatunner/"
+}

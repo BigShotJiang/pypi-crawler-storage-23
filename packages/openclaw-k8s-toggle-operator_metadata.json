@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-k8s-toggle-operator",
+  "version": "0.0.18",
+  "summary": "Matrix-controlled Kubernetes deployment toggle operator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openclaw_k8s_toggle_operator-0.0.18.tar.gz",
+  "download_time": "2026-02-23T14:42:44.588407",
+  "package_url": "https://pypi.org/project/openclaw-k8s-toggle-operator/"
+}

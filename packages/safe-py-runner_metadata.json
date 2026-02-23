@@ -1,0 +1,11 @@
+{
+  "name": "safe-py-runner",
+  "version": "0.1.6",
+  "summary": "Guardrailed Python execution runner with subprocess isolation, timeout, memory caps, and import/global controls",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safe_py_runner-0.1.6.tar.gz",
+  "download_time": "2026-02-23T14:42:39.880598",
+  "package_url": "https://pypi.org/project/safe-py-runner/"
+}
