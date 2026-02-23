@@ -1,0 +1,11 @@
+{
+  "name": "smart-open",
+  "version": "7.5.1",
+  "summary": "Utils for streaming large files (S3, HDFS, GCS, SFTP, Azure Blob Storage, gzip, bz2, zst...)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_open-7.5.1.tar.gz",
+  "download_time": "2026-02-23T11:07:47.513887",
+  "package_url": "https://pypi.org/project/smart-open/"
+}

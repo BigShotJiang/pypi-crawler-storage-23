@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_gitfilter_gh_release",
+  "version": "0.3.0.dev36",
+  "summary": "GitHub release backed git filter for Peagen",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_gitfilter_gh_release-0.3.0.dev36.tar.gz",
+  "download_time": "2026-02-23T11:07:37.040435",
+  "package_url": "https://pypi.org/project/swarmauri_gitfilter_gh_release/"
+}

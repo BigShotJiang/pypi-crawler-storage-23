@@ -1,0 +1,11 @@
+{
+  "name": "euporie",
+  "version": "2.10.4",
+  "summary": "Euporie is a suite of terminal applications for interacting with Jupyter kernels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "euporie-2.10.4.tar.gz",
+  "download_time": "2026-02-23T11:07:51.716616",
+  "package_url": "https://pypi.org/project/euporie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zachvit",
+  "version": "1.1.4",
+  "summary": "ZACH-ViT: compact permutation-invariant Vision Transformer (MedMNIST v3.0.2 edition, arXiv:2602.17929). Includes legacy SSDA lung ultrasound pipeline.",
+  "author": "Athanasios Angelakis",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Bluesman79/ZACH-ViT",
+  "download_filename": "zachvit-1.1.4.tar.gz",
+  "download_time": "2026-02-23T11:07:27.382396",
+  "package_url": "https://pypi.org/project/zachvit/"
+}

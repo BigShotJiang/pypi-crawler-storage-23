@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_middleware_cors",
+  "version": "0.8.0.dev36",
+  "summary": "Custom CORS Middleware for Swarmauri Framework",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_middleware_cors-0.8.0.dev36.tar.gz",
+  "download_time": "2026-02-23T11:07:26.864549",
+  "package_url": "https://pypi.org/project/swarmauri_middleware_cors/"
+}

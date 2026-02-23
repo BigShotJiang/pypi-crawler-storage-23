@@ -1,0 +1,11 @@
+{
+  "name": "tracepatch",
+  "version": "1.0.0",
+  "summary": "Focused, opt-in runtime call tracing for a single execution context.",
+  "author": "levinismynameirl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracepatch-1.0.0.tar.gz",
+  "download_time": "2026-02-23T11:07:41.794087",
+  "package_url": "https://pypi.org/project/tracepatch/"
+}

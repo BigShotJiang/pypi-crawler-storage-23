@@ -1,11 +1,11 @@
 {
   "name": "xfmr-zem",
-  "version": "0.3.5",
+  "version": "0.3.10",
   "summary": "Zem: Unified Data Pipeline Framework (ZenML + NeMo Curator + DataJuicer) for multi-domain processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xfmr_zem-0.3.5-py3-none-any.whl",
-  "download_time": "2026-02-23T10:13:26.329985",
+  "download_filename": "xfmr_zem-0.3.10-py3-none-any.whl",
+  "download_time": "2026-02-23T11:07:36.522835",
   "package_url": "https://pypi.org/project/xfmr-zem/"
 }

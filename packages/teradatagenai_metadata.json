@@ -1,0 +1,11 @@
+{
+  "name": "teradatagenai",
+  "version": "20.0.0.6",
+  "summary": "Teradata package for Generative-AI powered text analytics on Teradata Vantage",
+  "author": "Teradata Corporation",
+  "license": "Teradata License Agreement",
+  "home_page": "https://teradata.com",
+  "download_filename": "teradatagenai-20.0.0.6-py3-none-any.whl",
+  "download_time": "2026-02-23T11:07:46.995068",
+  "package_url": "https://pypi.org/project/teradatagenai/"
+}

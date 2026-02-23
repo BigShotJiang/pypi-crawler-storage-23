@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyprovider_ssh",
+  "version": "0.3.0.dev36",
+  "summary": "SSH-based key provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_keyprovider_ssh-0.3.0.dev36.tar.gz",
+  "download_time": "2026-02-23T11:07:30.498574",
+  "package_url": "https://pypi.org/project/swarmauri_keyprovider_ssh/"
+}

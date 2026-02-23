@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyproviders_mirrored",
+  "version": "0.2.0.dev37",
+  "summary": "Mirrored key provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_keyproviders_mirrored-0.2.0.dev37.tar.gz",
+  "download_time": "2026-02-23T11:07:31.018180",
+  "package_url": "https://pypi.org/project/swarmauri_keyproviders_mirrored/"
+}

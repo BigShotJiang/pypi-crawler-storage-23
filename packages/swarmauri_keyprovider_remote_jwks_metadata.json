@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyprovider_remote_jwks",
+  "version": "0.2.0.dev38",
+  "summary": "Remote JWKS-backed key provider for verification-only use",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_keyprovider_remote_jwks-0.2.0.dev38.tar.gz",
+  "download_time": "2026-02-23T11:07:31.536165",
+  "package_url": "https://pypi.org/project/swarmauri_keyprovider_remote_jwks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_middleware_exceptionhandling",
+  "version": "0.7.0.dev38",
+  "summary": "Custom Exception Handling Middleware for Swarmauri Framework",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_middleware_exceptionhandling-0.7.0.dev38.tar.gz",
+  "download_time": "2026-02-23T11:07:28.420212",
+  "package_url": "https://pypi.org/project/swarmauri_middleware_exceptionhandling/"
+}

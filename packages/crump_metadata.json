@@ -1,0 +1,11 @@
+{
+  "name": "crump",
+  "version": "0.5.2",
+  "summary": "Csv/cdf Read and dUMP - Sync CSV, Parquet, and CDF science files into PostgreSQL database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crump-0.5.2.tar.gz",
+  "download_time": "2026-02-23T11:07:55.887886",
+  "package_url": "https://pypi.org/project/crump/"
+}
