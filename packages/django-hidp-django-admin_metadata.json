@@ -1,0 +1,11 @@
+{
+  "name": "django-hidp-django-admin",
+  "version": "2.0.0",
+  "summary": "A Django-admin-themed template pack for HIdP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_hidp_django_admin-2.0.0.tar.gz",
+  "download_time": "2026-02-23T08:42:34.346547",
+  "package_url": "https://pypi.org/project/django-hidp-django-admin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-order-attachment",
+  "version": "17.0.1.0.1",
+  "summary": "Add attachments on a point of sale order",
+  "author": "Dixmit,Invitu,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_order_attachment-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-02-23T08:42:07.566272",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-order-attachment/"
+}

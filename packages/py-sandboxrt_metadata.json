@@ -1,0 +1,11 @@
+{
+  "name": "py-sandboxrt",
+  "version": "0.1.0",
+  "summary": "A Python sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_sandboxrt-0.1.0.tar.gz",
+  "download_time": "2026-02-23T08:42:44.301927",
+  "package_url": "https://pypi.org/project/py-sandboxrt/"
+}

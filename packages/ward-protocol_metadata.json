@@ -1,0 +1,11 @@
+{
+  "name": "ward-protocol",
+  "version": "0.1.0",
+  "summary": "XLS-66 Lending Protocol insurance and monitoring SDK",
+  "author": "Will Flores",
+  "license": null,
+  "home_page": "https://github.com/wflores9/ward-protocol",
+  "download_filename": "ward_protocol-0.1.0.tar.gz",
+  "download_time": "2026-02-23T08:42:46.373927",
+  "package_url": "https://pypi.org/project/ward-protocol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "relaybus-amqp",
+  "version": "0.1.0",
+  "summary": "Relaybus AMQP subscriber",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "relaybus_amqp-0.1.0.tar.gz",
+  "download_time": "2026-02-23T08:42:18.336751",
+  "package_url": "https://pypi.org/project/relaybus-amqp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gemini-subagent",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "Parallel sub-agent orchestration CLI for Gemini",
   "author": "NLanN",
   "license": "MIT",
   "home_page": "https://github.com/NLanN/gemini-subagents",
-  "download_filename": "gemini_subagent-0.1.6.tar.gz",
-  "download_time": "2026-02-23T06:41:01.048103",
+  "download_filename": "gemini_subagent-0.1.9.tar.gz",
+  "download_time": "2026-02-23T08:42:43.729888",
   "package_url": "https://pypi.org/project/gemini-subagent/"
 }

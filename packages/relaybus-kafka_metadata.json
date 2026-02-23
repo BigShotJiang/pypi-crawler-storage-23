@@ -1,0 +1,11 @@
+{
+  "name": "relaybus-kafka",
+  "version": "0.1.0",
+  "summary": "Relaybus Kafka publisher and subscriber",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "relaybus_kafka-0.1.0.tar.gz",
+  "download_time": "2026-02-23T08:42:16.799741",
+  "package_url": "https://pypi.org/project/relaybus-kafka/"
+}

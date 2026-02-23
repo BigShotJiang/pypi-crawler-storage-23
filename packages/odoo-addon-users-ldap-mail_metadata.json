@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-users-ldap-mail",
+  "version": "18.0.1.0.0.2",
+  "summary": "LDAP mapping for user name and e-mail",
+  "author": "Daniel Reis,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_users_ldap_mail-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-23T08:42:21.965086",
+  "package_url": "https://pypi.org/project/odoo-addon-users-ldap-mail/"
+}

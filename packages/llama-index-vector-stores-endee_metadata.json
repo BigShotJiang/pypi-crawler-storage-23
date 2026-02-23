@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-endee",
+  "version": "0.1.0b2",
+  "summary": "Vector Database for Fast ANN Searches",
+  "author": "Endee Labs",
+  "license": null,
+  "home_page": "https://endee.io",
+  "download_filename": "llama_index_vector_stores_endee-0.1.0b2.tar.gz",
+  "download_time": "2026-02-23T08:42:32.309606",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-endee/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-dataprocessing-mcp-server",
+  "version": "0.1.24",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for dataprocessing",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_dataprocessing_mcp_server-0.1.24.tar.gz",
+  "download_time": "2026-02-23T08:42:01.912521",
+  "package_url": "https://pypi.org/project/awslabs.aws-dataprocessing-mcp-server/"
+}

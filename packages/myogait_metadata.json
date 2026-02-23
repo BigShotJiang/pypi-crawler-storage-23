@@ -1,11 +1,11 @@
 {
   "name": "myogait",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "summary": "Markerless video-based gait analysis toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myogait-0.3.4.tar.gz",
-  "download_time": "2026-02-21T19:56:56.159169",
+  "download_filename": "myogait-0.4.0.tar.gz",
+  "download_time": "2026-02-23T08:42:25.094213",
   "package_url": "https://pypi.org/project/myogait/"
 }
