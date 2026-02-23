@@ -1,0 +1,11 @@
+{
+  "name": "djangofp",
+  "version": "0.3.0",
+  "summary": "Simple Django static-asset version probe",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangofp-0.3.0.tar.gz",
+  "download_time": "2026-02-23T10:12:44.653683",
+  "package_url": "https://pypi.org/project/djangofp/"
+}

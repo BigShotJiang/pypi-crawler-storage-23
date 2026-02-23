@@ -1,0 +1,11 @@
+{
+  "name": "punt-langlearn-tts",
+  "version": "0.6.3",
+  "summary": "TTS MCP server and CLI for language learning (ElevenLabs, AWS Polly, OpenAI)",
+  "author": "JF",
+  "license": null,
+  "home_page": null,
+  "download_filename": "punt_langlearn_tts-0.6.3.tar.gz",
+  "download_time": "2026-02-23T10:13:23.636921",
+  "package_url": "https://pypi.org/project/punt-langlearn-tts/"
+}

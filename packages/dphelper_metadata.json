@@ -1,0 +1,11 @@
+{
+  "name": "dphelper",
+  "version": "0.0.22",
+  "summary": "Handle common scraping problems, help linking data platform entities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dphelper-0.0.22.tar.gz",
+  "download_time": "2026-02-23T10:13:12.109559",
+  "package_url": "https://pypi.org/project/dphelper/"
+}

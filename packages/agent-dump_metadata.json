@@ -1,11 +1,11 @@
 {
   "name": "agent-dump",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "AI Coding Assistant Session Export Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_dump-0.1.1.tar.gz",
-  "download_time": "2026-02-21T10:50:28.021570",
+  "download_filename": "agent_dump-0.3.0.tar.gz",
+  "download_time": "2026-02-23T10:13:25.775575",
   "package_url": "https://pypi.org/project/agent-dump/"
 }

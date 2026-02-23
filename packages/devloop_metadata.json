@@ -1,11 +1,11 @@
 {
   "name": "devloop",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "Intelligent background agents for development workflow automation",
   "author": "DevLoop Contributors",
   "license": "MIT",
   "home_page": "https://github.com/wioota/devloop",
-  "download_filename": "devloop-0.10.1.tar.gz",
-  "download_time": "2026-02-22T11:15:34.415647",
+  "download_filename": "devloop-0.10.2.tar.gz",
+  "download_time": "2026-02-23T10:13:11.021687",
   "package_url": "https://pypi.org/project/devloop/"
 }

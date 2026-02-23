@@ -1,11 +1,11 @@
 {
   "name": "mnemo-mcp",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "summary": "Open-source MCP Server for persistent AI memory with embedded sync",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mnemo_mcp-1.0.7.tar.gz",
-  "download_time": "2026-02-20T14:59:03.216770",
+  "download_filename": "mnemo_mcp-1.1.0.tar.gz",
+  "download_time": "2026-02-23T10:13:19.270010",
   "package_url": "https://pypi.org/project/mnemo-mcp/"
 }

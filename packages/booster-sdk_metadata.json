@@ -1,11 +1,11 @@
 {
   "name": "booster-sdk",
-  "version": "0.1.0a7",
+  "version": "0.1.0a8",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "booster_sdk-0.1.0a7-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-22T20:45:55.825715",
+  "download_filename": "booster_sdk-0.1.0a8-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-23T10:13:18.182915",
   "package_url": "https://pypi.org/project/booster-sdk/"
 }

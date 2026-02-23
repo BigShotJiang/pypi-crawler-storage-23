@@ -1,0 +1,11 @@
+{
+  "name": "adsk-platform-acc",
+  "version": "0.2.10",
+  "summary": "Autodesk Platform: ACC (Autodesk Construction Cloud) SDK for Python",
+  "author": "duszykf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adsk_platform_acc-0.2.10.tar.gz",
+  "download_time": "2026-02-23T10:12:46.260982",
+  "package_url": "https://pypi.org/project/adsk-platform-acc/"
+}

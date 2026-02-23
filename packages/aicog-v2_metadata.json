@@ -1,0 +1,11 @@
+{
+  "name": "aicog-v2",
+  "version": "0.1.0",
+  "summary": "A production-ready AI Gateway SDK with multi-provider support, Redis caching, and persistent request logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aicog_v2-0.1.0.tar.gz",
+  "download_time": "2026-02-23T10:12:50.557919",
+  "package_url": "https://pypi.org/project/aicog-v2/"
+}

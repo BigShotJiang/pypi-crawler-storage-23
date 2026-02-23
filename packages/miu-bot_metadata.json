@@ -1,11 +1,11 @@
 {
   "name": "miu-bot",
-  "version": "0.17.1",
+  "version": "0.17.6",
   "summary": "A lightweight personal AI assistant framework",
   "author": "miu-bot contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "miu_bot-0.17.1.tar.gz",
-  "download_time": "2026-02-23T09:13:38.707834",
+  "download_filename": "miu_bot-0.17.6.tar.gz",
+  "download_time": "2026-02-23T10:13:16.522091",
   "package_url": "https://pypi.org/project/miu-bot/"
 }
