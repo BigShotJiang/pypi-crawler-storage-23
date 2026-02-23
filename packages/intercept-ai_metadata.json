@@ -1,0 +1,11 @@
+{
+  "name": "intercept-ai",
+  "version": "0.2.0",
+  "summary": "Runtime enforcement layer for autonomous AI agents — intercepts tool calls, classifies risk, enforces policies, and controls execution.",
+  "author": "interceptor contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intercept_ai-0.2.0.tar.gz",
+  "download_time": "2026-02-23T20:38:19.762466",
+  "package_url": "https://pypi.org/project/intercept-ai/"
+}

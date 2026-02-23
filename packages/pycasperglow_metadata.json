@@ -1,11 +1,11 @@
 {
   "name": "pycasperglow",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "Async Python library for controlling Casper Glow lights via BLE",
   "author": "Mike O'Driscoll",
   "license": null,
   "home_page": null,
-  "download_filename": "pycasperglow-0.3.5.tar.gz",
-  "download_time": "2026-02-23T14:42:31.430028",
+  "download_filename": "pycasperglow-0.3.7.tar.gz",
+  "download_time": "2026-02-23T20:38:20.303107",
   "package_url": "https://pypi.org/project/pycasperglow/"
 }

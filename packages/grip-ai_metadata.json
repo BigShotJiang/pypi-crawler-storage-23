@@ -1,11 +1,11 @@
 {
   "name": "grip-ai",
-  "version": "0.2.0",
+  "version": "0.4.2",
   "summary": "Claude Agent SDK powered AI agent platform with multi-model fallback, tool execution, and multi-channel chat integration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grip_ai-0.2.0.tar.gz",
-  "download_time": "2026-02-22T23:18:30.614561",
+  "download_filename": "grip_ai-0.4.2.tar.gz",
+  "download_time": "2026-02-23T20:38:28.452723",
   "package_url": "https://pypi.org/project/grip-ai/"
 }

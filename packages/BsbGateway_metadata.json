@@ -1,0 +1,11 @@
+{
+  "name": "BsbGateway",
+  "version": "1.1.0",
+  "summary": "Read and write data on a BSB (Boiler System Bus)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsbgateway-1.1.0.tar.gz",
+  "download_time": "2026-02-23T20:38:31.769118",
+  "package_url": "https://pypi.org/project/BsbGateway/"
+}

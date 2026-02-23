@@ -1,0 +1,11 @@
+{
+  "name": "rlm-agent",
+  "version": "0.0.1",
+  "summary": "Autonomous AI Agent Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlm_agent-0.0.1.tar.gz",
+  "download_time": "2026-02-23T20:38:12.550710",
+  "package_url": "https://pypi.org/project/rlm-agent/"
+}

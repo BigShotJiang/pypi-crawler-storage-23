@@ -1,0 +1,11 @@
+{
+  "name": "useq-schema",
+  "version": "0.8.3",
+  "summary": "Schema for multi-dimensional microscopy experiments",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "useq_schema-0.8.3.tar.gz",
+  "download_time": "2026-02-23T20:38:34.532724",
+  "package_url": "https://pypi.org/project/useq-schema/"
+}

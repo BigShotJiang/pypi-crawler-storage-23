@@ -1,11 +1,11 @@
 {
   "name": "cacherator",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "summary": "Persistent JSON caching for Python with async support - cache function results and object state effortlessly.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cacherator-1.2.9.tar.gz",
-  "download_time": "2026-02-22T13:25:11.607797",
+  "download_filename": "cacherator-1.3.0.tar.gz",
+  "download_time": "2026-02-23T20:38:05.435846",
   "package_url": "https://pypi.org/project/cacherator/"
 }
