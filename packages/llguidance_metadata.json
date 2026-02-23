@@ -1,0 +1,11 @@
+{
+  "name": "llguidance",
+  "version": "1.6.0",
+  "summary": "Bindings for the Low-level Guidance (llguidance) Rust library for use within Guidance",
+  "author": "Michal Moskal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llguidance-1.6.0-cp314-cp314t-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-23T23:24:47.916013",
+  "package_url": "https://pypi.org/project/llguidance/"
+}

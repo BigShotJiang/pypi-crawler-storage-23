@@ -1,0 +1,11 @@
+{
+  "name": "discogs-sdk",
+  "version": "0.3.0",
+  "summary": "Modern Python client for the Discogs API",
+  "author": "Jean-Marc Fontaine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "discogs_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-23T23:24:49.589985",
+  "package_url": "https://pypi.org/project/discogs-sdk/"
+}

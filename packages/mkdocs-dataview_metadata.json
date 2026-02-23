@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-dataview",
+  "version": "0.0.4",
+  "summary": "A mkdocs plugin inspired by dataview plugin in Obsidian",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_dataview-0.0.4.tar.gz",
+  "download_time": "2026-02-23T23:24:47.181344",
+  "package_url": "https://pypi.org/project/mkdocs-dataview/"
+}

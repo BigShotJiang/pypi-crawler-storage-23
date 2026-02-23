@@ -1,11 +1,11 @@
 {
   "name": "nrf-ota",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python package for OTA updating the bootloader on nrf chips",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nrf_ota-0.2.0.tar.gz",
-  "download_time": "2026-02-22T16:55:10.053383",
+  "download_filename": "nrf_ota-0.3.0.tar.gz",
+  "download_time": "2026-02-23T23:25:11.410741",
   "package_url": "https://pypi.org/project/nrf-ota/"
 }

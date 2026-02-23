@@ -1,0 +1,11 @@
+{
+  "name": "ROSALIA-wfi",
+  "version": "0.9.5",
+  "summary": "A software to calibrate the sky background of Space Telescope images",
+  "author": "Alejandro S. Borlaff",
+  "license": "BSD",
+  "home_page": "https://github.com/Borlaff/ROSALIA",
+  "download_filename": "rosalia_wfi-0.9.5-py3-none-any.whl",
+  "download_time": "2026-02-23T23:25:16.320299",
+  "package_url": "https://pypi.org/project/ROSALIA-wfi/"
+}

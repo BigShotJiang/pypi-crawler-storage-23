@@ -1,0 +1,11 @@
+{
+  "name": "openrouter",
+  "version": "0.7.11",
+  "summary": "Official Python Client SDK for OpenRouter.",
+  "author": "OpenRouter",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openrouter-0.7.11.tar.gz",
+  "download_time": "2026-02-23T23:25:27.934289",
+  "package_url": "https://pypi.org/project/openrouter/"
+}

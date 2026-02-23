@@ -1,0 +1,11 @@
+{
+  "name": "nekocli",
+  "version": "6.5.5",
+  "summary": "Neko CLI - AI-powered command line tool for terminal assistance with GP5, Image & Video generation, Vision, Image edits, shell command execution and pentesting resources.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nekocli-6.5.5.tar.gz",
+  "download_time": "2026-02-23T23:25:25.182718",
+  "package_url": "https://pypi.org/project/nekocli/"
+}
