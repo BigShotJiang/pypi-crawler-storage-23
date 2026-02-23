@@ -1,0 +1,11 @@
+{
+  "name": "aws-cryptography-internal-kms",
+  "version": "1.11.2",
+  "summary": null,
+  "author": "AWS Crypto Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_cryptography_internal_kms-1.11.2.tar.gz",
+  "download_time": "2026-02-23T21:09:04.135293",
+  "package_url": "https://pypi.org/project/aws-cryptography-internal-kms/"
+}

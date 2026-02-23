@@ -1,11 +1,11 @@
 {
   "name": "arcade-microsoft-utils",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Shared utilities for Arcade Microsoft toolkits",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arcade_microsoft_utils-0.3.0-py3-none-any.whl",
-  "download_time": "2026-02-18T23:53:54.754986",
+  "download_filename": "arcade_microsoft_utils-0.4.0-py3-none-any.whl",
+  "download_time": "2026-02-23T21:08:33.945719",
   "package_url": "https://pypi.org/project/arcade-microsoft-utils/"
 }

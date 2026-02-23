@@ -1,0 +1,11 @@
+{
+  "name": "sciencebasepy",
+  "version": "2.0.22",
+  "summary": "Python ScienceBase Utilities",
+  "author": "USGS ScienceBase Development Team",
+  "license": null,
+  "home_page": "https://code.usgs.gov/sas/sdm/sciencebasepy",
+  "download_filename": "sciencebasepy-2.0.22.tar.gz",
+  "download_time": "2026-02-23T21:08:57.294642",
+  "package_url": "https://pypi.org/project/sciencebasepy/"
+}

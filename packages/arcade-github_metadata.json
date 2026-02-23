@@ -1,11 +1,11 @@
 {
   "name": "arcade-github",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "Arcade.dev LLM tools for Github",
   "author": null,
   "license": "Proprietary - Arcade Software License Agreement v1.0",
   "home_page": null,
-  "download_filename": "arcade_github-3.0.0-py3-none-any.whl",
-  "download_time": "2026-02-19T20:22:34.377222",
+  "download_filename": "arcade_github-3.1.0-py3-none-any.whl",
+  "download_time": "2026-02-23T21:08:30.596420",
   "package_url": "https://pypi.org/project/arcade-github/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "beckit",
+  "version": "3.3.0",
+  "summary": "Lightweight cross-platform book writing app with GitHub sync and chapter versioning",
+  "author": "Beckit contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beckit-3.3.0.tar.gz",
+  "download_time": "2026-02-23T21:08:55.127843",
+  "package_url": "https://pypi.org/project/beckit/"
+}

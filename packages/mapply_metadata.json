@@ -1,0 +1,11 @@
+{
+  "name": "mapply",
+  "version": "0.2.0",
+  "summary": "Sensible multi-core apply function for Pandas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapply-0.2.0.tar.gz",
+  "download_time": "2026-02-23T21:08:58.913235",
+  "package_url": "https://pypi.org/project/mapply/"
+}
