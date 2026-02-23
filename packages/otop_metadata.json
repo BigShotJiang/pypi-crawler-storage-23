@@ -1,0 +1,11 @@
+{
+  "name": "otop",
+  "version": "1.0.0",
+  "summary": "htop, but for opencode",
+  "author": "Peter Ward",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "otop-1.0.0.tar.gz",
+  "download_time": "2026-02-23T07:42:11.334162",
+  "package_url": "https://pypi.org/project/otop/"
+}

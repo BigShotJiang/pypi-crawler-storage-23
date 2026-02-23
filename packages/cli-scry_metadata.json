@@ -1,0 +1,11 @@
+{
+  "name": "cli-scry",
+  "version": "0.1.1",
+  "summary": "Peer into any Python codebase. Discover structure, extract files, export for LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cli_scry-0.1.1.tar.gz",
+  "download_time": "2026-02-23T07:42:13.379325",
+  "package_url": "https://pypi.org/project/cli-scry/"
+}

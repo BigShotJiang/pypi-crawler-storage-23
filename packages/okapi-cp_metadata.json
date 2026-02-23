@@ -1,0 +1,11 @@
+{
+  "name": "okapi-cp",
+  "version": "0.1.2",
+  "summary": "CLI to deploy okapi and its dependencies.",
+  "author": "Your Name",
+  "license": "Apache-2",
+  "home_page": null,
+  "download_filename": "okapi_cp-0.1.2.tar.gz",
+  "download_time": "2026-02-23T07:42:17.504315",
+  "package_url": "https://pypi.org/project/okapi-cp/"
+}

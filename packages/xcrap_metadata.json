@@ -1,0 +1,11 @@
+{
+  "name": "xcrap",
+  "version": "0.0.1",
+  "summary": "A modern, declarative, and modular web scraping framework for Python.",
+  "author": "Marcuth",
+  "license": null,
+  "home_page": "https://github.com/Xcrap-Cloud/xcrap-python",
+  "download_filename": "xcrap-0.0.1.tar.gz",
+  "download_time": "2026-02-23T07:42:44.684578",
+  "package_url": "https://pypi.org/project/xcrap/"
+}

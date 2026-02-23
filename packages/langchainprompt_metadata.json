@@ -1,0 +1,11 @@
+{
+  "name": "langchainprompt",
+  "version": "0.1.0",
+  "summary": "Reusable prompt viewer module",
+  "author": "ramjit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchainprompt-0.1.0.tar.gz",
+  "download_time": "2026-02-23T07:42:50.400367",
+  "package_url": "https://pypi.org/project/langchainprompt/"
+}

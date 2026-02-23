@@ -1,0 +1,11 @@
+{
+  "name": "shinny-quant",
+  "version": "0.1.1",
+  "summary": "ShinnyQuant - ShinnyTech 期货行情历史数据服务 Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinny_quant-0.1.1.tar.gz",
+  "download_time": "2026-02-23T07:42:47.851797",
+  "package_url": "https://pypi.org/project/shinny-quant/"
+}

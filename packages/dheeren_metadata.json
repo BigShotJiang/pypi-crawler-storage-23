@@ -1,0 +1,11 @@
+{
+  "name": "dheeren",
+  "version": "2.0.2",
+  "summary": "Text-to-image Flow Matching pipeline — ONNX Runtime / OpenVINO / PyTorch",
+  "author": "Dheeren",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dheeren-2.0.2.tar.gz",
+  "download_time": "2026-02-23T07:42:45.716764",
+  "package_url": "https://pypi.org/project/dheeren/"
+}

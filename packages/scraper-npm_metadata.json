@@ -1,0 +1,11 @@
+{
+  "name": "scraper-npm",
+  "version": "1.0.4",
+  "summary": "A beautiful, colorful logger for Python with emoji icons and timestamp support",
+  "author": "Michael Weng",
+  "license": "MIT",
+  "home_page": "https://github.com/mgcrae/scraper-npm",
+  "download_filename": "scraper_npm-1.0.4.tar.gz",
+  "download_time": "2026-02-23T07:42:18.524962",
+  "package_url": "https://pypi.org/project/scraper-npm/"
+}

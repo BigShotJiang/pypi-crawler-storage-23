@@ -1,11 +1,11 @@
 {
   "name": "codedoctor",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "Beginner-friendly codebase doctor: lint, format, type-check, security and tests.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codedoctor-0.1.1.tar.gz",
-  "download_time": "2026-02-19T13:55:37.719953",
+  "download_filename": "codedoctor-1.0.0.tar.gz",
+  "download_time": "2026-02-23T07:42:53.467191",
   "package_url": "https://pypi.org/project/codedoctor/"
 }
