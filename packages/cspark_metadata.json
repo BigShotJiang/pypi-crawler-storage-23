@@ -1,0 +1,11 @@
+{
+  "name": "cspark",
+  "version": "0.3.1",
+  "summary": "A Python SDK for interacting with Coherent Spark APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cspark-0.3.1.tar.gz",
+  "download_time": "2026-02-23T22:44:33.871665",
+  "package_url": "https://pypi.org/project/cspark/"
+}

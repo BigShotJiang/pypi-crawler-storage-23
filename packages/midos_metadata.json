@@ -1,0 +1,11 @@
+{
+  "name": "midos",
+  "version": "2026.2.24",
+  "summary": "MCP Community Library — Curated knowledge, skill packs, and semantic search for AI coding agents",
+  "author": "MidOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "midos-2026.2.24.tar.gz",
+  "download_time": "2026-02-23T22:44:28.718139",
+  "package_url": "https://pypi.org/project/midos/"
+}

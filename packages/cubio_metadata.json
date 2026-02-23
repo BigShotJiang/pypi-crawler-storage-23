@@ -1,0 +1,11 @@
+{
+  "name": "cubio",
+  "version": "0.1.2",
+  "summary": "A fully typed and pydantic-compatible framework for reading and writing geospatial data cubes.",
+  "author": "Z.M. Vig",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "cubio-0.1.2.tar.gz",
+  "download_time": "2026-02-23T22:44:26.646035",
+  "package_url": "https://pypi.org/project/cubio/"
+}

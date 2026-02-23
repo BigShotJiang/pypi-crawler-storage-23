@@ -1,11 +1,11 @@
 {
   "name": "agent-eval-lite",
-  "version": "0.2.0",
+  "version": "0.4.2",
   "summary": "Lightweight agent evaluation framework — zero dependencies, local-first, framework-agnostic",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_eval_lite-0.2.0.tar.gz",
-  "download_time": "2026-02-23T05:23:57.366162",
+  "download_filename": "agent_eval_lite-0.4.2.tar.gz",
+  "download_time": "2026-02-23T22:45:07.597849",
   "package_url": "https://pypi.org/project/agent-eval-lite/"
 }

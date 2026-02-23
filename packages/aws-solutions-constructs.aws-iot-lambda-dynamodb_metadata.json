@@ -1,0 +1,11 @@
+{
+  "name": "aws-solutions-constructs.aws-iot-lambda-dynamodb",
+  "version": "2.100.0",
+  "summary": "CDK Constructs for AWS IoT to AWS Lambda to AWS DyanmoDB integration.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
+  "download_filename": "aws_solutions_constructs_aws_iot_lambda_dynamodb-2.100.0.tar.gz",
+  "download_time": "2026-02-23T22:45:02.952090",
+  "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-iot-lambda-dynamodb/"
+}

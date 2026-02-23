@@ -1,0 +1,11 @@
+{
+  "name": "aws-solutions-constructs.aws-lambda-sqs-lambda",
+  "version": "2.100.0",
+  "summary": "CDK construct that provisions (1) an AWS Lambda function that is configured to send messages to a queue; (2) an Amazon SQS queue; and (3) an AWS Lambda function configured to consume messages from the queue.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
+  "download_filename": "aws_solutions_constructs_aws_lambda_sqs_lambda-2.100.0.tar.gz",
+  "download_time": "2026-02-23T22:44:51.009592",
+  "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-lambda-sqs-lambda/"
+}
