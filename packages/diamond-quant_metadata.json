@@ -1,0 +1,11 @@
+{
+  "name": "diamond-quant",
+  "version": "0.1.4",
+  "summary": "Diamond Quant - MLB MCMC Prediction Tool",
+  "author": "Diamond Quant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diamond_quant-0.1.4.tar.gz",
+  "download_time": "2026-02-23T23:53:12.302128",
+  "package_url": "https://pypi.org/project/diamond-quant/"
+}

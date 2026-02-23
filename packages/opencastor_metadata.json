@@ -1,11 +1,11 @@
 {
   "name": "opencastor",
-  "version": "2026.2.23.5",
+  "version": "2026.2.23.6",
   "summary": "The Universal Runtime for Embodied AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opencastor-2026.2.23.5.tar.gz",
-  "download_time": "2026-02-23T23:25:24.097010",
+  "download_filename": "opencastor-2026.2.23.6.tar.gz",
+  "download_time": "2026-02-23T23:53:21.738250",
   "package_url": "https://pypi.org/project/opencastor/"
 }

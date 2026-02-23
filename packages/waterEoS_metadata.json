@@ -1,0 +1,11 @@
+{
+  "name": "waterEoS",
+  "version": "0.1.0",
+  "summary": "Two-state equations of state for supercooled water",
+  "author": "Anthony Consiglio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "watereos-0.1.0.tar.gz",
+  "download_time": "2026-02-23T23:53:15.207530",
+  "package_url": "https://pypi.org/project/waterEoS/"
+}

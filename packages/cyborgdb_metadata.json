@@ -1,0 +1,11 @@
+{
+  "name": "cyborgdb",
+  "version": "0.15.0",
+  "summary": "Python Client SDK for CyborgDB: The Confidential Vector Database",
+  "author": "Cyborg Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyborgdb-0.15.0.tar.gz",
+  "download_time": "2026-02-23T23:53:39.814842",
+  "package_url": "https://pypi.org/project/cyborgdb/"
+}

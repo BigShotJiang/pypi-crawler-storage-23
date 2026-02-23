@@ -1,11 +1,11 @@
 {
   "name": "raysurfer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "AI maintained skills for vertical agents",
   "author": "Raymond Xu",
   "license": null,
   "home_page": null,
-  "download_filename": "raysurfer-1.1.0.tar.gz",
-  "download_time": "2026-02-21T22:59:53.291612",
+  "download_filename": "raysurfer-1.2.0.tar.gz",
+  "download_time": "2026-02-23T23:53:21.159049",
   "package_url": "https://pypi.org/project/raysurfer/"
 }

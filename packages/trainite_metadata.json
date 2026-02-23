@@ -1,0 +1,11 @@
+{
+  "name": "trainite",
+  "version": "0.0.0",
+  "summary": "Model training toolkit with PyTorch-Ignite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trainite-0.0.0.tar.gz",
+  "download_time": "2026-02-23T23:53:57.313626",
+  "package_url": "https://pypi.org/project/trainite/"
+}

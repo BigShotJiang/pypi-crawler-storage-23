@@ -1,0 +1,11 @@
+{
+  "name": "fabricgov",
+  "version": "0.3.1",
+  "summary": "Biblioteca Python para extralçao automatizada de dados para governança em Microsoft Fabric",
+  "author": "Luciano Borba",
+  "license": "MIT",
+  "home_page": "https://github.com/luhborba/fabricgov",
+  "download_filename": "fabricgov-0.3.1.tar.gz",
+  "download_time": "2026-02-23T23:53:41.986029",
+  "package_url": "https://pypi.org/project/fabricgov/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tasqalent-shared",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Shared utilities, types and helpers for TASQALENT (Python/Flask)",
   "author": "Youssef Tawakal",
   "license": null,
   "home_page": "https://github.com/tasqalent/tq-shared-python",
-  "download_filename": "tasqalent_shared-1.0.0.tar.gz",
-  "download_time": "2026-02-19T21:23:26.896424",
+  "download_filename": "tasqalent_shared-1.0.2.tar.gz",
+  "download_time": "2026-02-23T23:53:39.273268",
   "package_url": "https://pypi.org/project/tasqalent-shared/"
 }

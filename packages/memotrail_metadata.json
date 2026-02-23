@@ -1,11 +1,11 @@
 {
   "name": "memotrail",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Persistent memory layer for AI coding assistants. Every conversation remembered, every decision searchable.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memotrail-0.3.0.tar.gz",
-  "download_time": "2026-02-23T23:25:02.610213",
+  "download_filename": "memotrail-0.3.1.tar.gz",
+  "download_time": "2026-02-23T23:53:17.552632",
   "package_url": "https://pypi.org/project/memotrail/"
 }

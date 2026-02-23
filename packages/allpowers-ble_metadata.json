@@ -1,0 +1,11 @@
+{
+  "name": "allpowers-ble",
+  "version": "0.0.3",
+  "summary": "Interface with smart batteries from Allpowers",
+  "author": "James Johnston",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "allpowers_ble-0.0.3.tar.gz",
+  "download_time": "2026-02-23T23:53:57.854980",
+  "package_url": "https://pypi.org/project/allpowers-ble/"
+}

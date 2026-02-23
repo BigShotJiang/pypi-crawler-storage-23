@@ -1,0 +1,11 @@
+{
+  "name": "pymagsac",
+  "version": "0.2.3",
+  "summary": "MAGSAC and MAGSAC++",
+  "author": "Daniel Barath, Dmytro Mishkin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymagsac-0.2.3.tar.gz",
+  "download_time": "2026-02-23T23:53:51.328013",
+  "package_url": "https://pypi.org/project/pymagsac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygate-ci",
+  "version": "0.1.0",
+  "summary": "Deterministic quality gate CLI for Python projects with bounded auto-repair and escalation evidence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygate_ci-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-23T23:53:18.128353",
+  "package_url": "https://pypi.org/project/pygate-ci/"
+}
