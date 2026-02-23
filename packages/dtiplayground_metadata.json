@@ -1,0 +1,11 @@
+{
+  "name": "dtiplayground",
+  "version": "0.5.11.4",
+  "summary": null,
+  "author": "SK Park, NIRAL, University of North Carolina @ Chapel Hill",
+  "license": "MIT",
+  "home_page": "https://github.com/niraluser/dtiplayground",
+  "download_filename": "dtiplayground-0.5.11.4.tar.gz",
+  "download_time": "2026-02-23T09:14:13.623301",
+  "package_url": "https://pypi.org/project/dtiplayground/"
+}

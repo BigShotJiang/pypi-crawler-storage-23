@@ -1,0 +1,11 @@
+{
+  "name": "inelnet-api",
+  "version": "1.0.0",
+  "summary": "Async client for INELNET blinds controller REST API (one object per channel).",
+  "author": "Hadatko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inelnet_api-1.0.0.tar.gz",
+  "download_time": "2026-02-23T09:13:42.496223",
+  "package_url": "https://pypi.org/project/inelnet-api/"
+}

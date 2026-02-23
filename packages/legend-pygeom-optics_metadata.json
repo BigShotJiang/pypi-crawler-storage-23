@@ -1,0 +1,11 @@
+{
+  "name": "legend-pygeom-optics",
+  "version": "0.16.0",
+  "summary": "Optical properties of the LEGEND experiment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_pygeom_optics-0.16.0.tar.gz",
+  "download_time": "2026-02-23T09:13:39.804857",
+  "package_url": "https://pypi.org/project/legend-pygeom-optics/"
+}

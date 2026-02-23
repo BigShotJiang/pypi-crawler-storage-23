@@ -1,0 +1,11 @@
+{
+  "name": "pragmatiks-sdk",
+  "version": "0.19.0",
+  "summary": "Python SDK for the Pragmatiks platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pragmatiks_sdk-0.19.0.tar.gz",
+  "download_time": "2026-02-23T09:14:04.836444",
+  "package_url": "https://pypi.org/project/pragmatiks-sdk/"
+}

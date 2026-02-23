@@ -1,0 +1,11 @@
+{
+  "name": "unit-python-sdk",
+  "version": "1.2.0",
+  "summary": "This library provides a python wrapper to http://unit.co API. See https://docs.unit.co/",
+  "author": "unit.co",
+  "license": "Mozilla Public License 2.0",
+  "home_page": "https://github.com/unit-finance/unit-python-sdk",
+  "download_filename": "unit_python_sdk-1.2.0.tar.gz",
+  "download_time": "2026-02-23T09:14:03.776963",
+  "package_url": "https://pypi.org/project/unit-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reqrio",
+  "version": "0.1.1",
+  "summary": "A lightweight, high concurrency HTTP request library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reqrio-0.1.1.tar.gz",
+  "download_time": "2026-02-23T09:14:02.720915",
+  "package_url": "https://pypi.org/project/reqrio/"
+}

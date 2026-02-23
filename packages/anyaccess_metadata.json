@@ -1,11 +1,11 @@
 {
   "name": "anyaccess",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "A modular Flask base for User Access Management with MariaDB, Valkey, and Google OAuth",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "anyaccess-0.2.6.tar.gz",
-  "download_time": "2026-02-23T01:11:19.432569",
+  "download_filename": "anyaccess-0.3.0.tar.gz",
+  "download_time": "2026-02-23T09:14:04.313832",
   "package_url": "https://pypi.org/project/anyaccess/"
 }

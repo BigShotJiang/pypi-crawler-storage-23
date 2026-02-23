@@ -1,11 +1,11 @@
 {
   "name": "clear-skies-snyk",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "Snyk module for Clearskies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clear_skies_snyk-2.0.7.tar.gz",
-  "download_time": "2026-02-23T08:42:39.567022",
+  "download_filename": "clear_skies_snyk-2.0.8.tar.gz",
+  "download_time": "2026-02-23T09:13:58.278729",
   "package_url": "https://pypi.org/project/clear-skies-snyk/"
 }

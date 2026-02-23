@@ -1,11 +1,11 @@
 {
   "name": "oncoshot-llm-validation-framework",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Oncoshot LLM validation framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oncoshot_llm_validation_framework-0.2.0.tar.gz",
-  "download_time": "2026-02-23T08:42:14.756755",
+  "download_filename": "oncoshot_llm_validation_framework-0.2.1.tar.gz",
+  "download_time": "2026-02-23T09:14:00.410962",
   "package_url": "https://pypi.org/project/oncoshot-llm-validation-framework/"
 }

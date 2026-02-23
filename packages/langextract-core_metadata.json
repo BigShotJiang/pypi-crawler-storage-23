@@ -1,0 +1,11 @@
+{
+  "name": "langextract-core",
+  "version": "1.2.0",
+  "summary": "LangExtract Core: A library for extracting structured data from language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langextract_core-1.2.0.tar.gz",
+  "download_time": "2026-02-23T09:13:51.152067",
+  "package_url": "https://pypi.org/project/langextract-core/"
+}

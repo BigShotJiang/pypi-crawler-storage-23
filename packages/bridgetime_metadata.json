@@ -1,11 +1,11 @@
 {
   "name": "bridgetime",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "BridgeTime: Rust-powered Day.js/Moment-style datetime toolkit",
   "author": null,
   "license": null,
   "home_page": "https://bridgerust.dev",
-  "download_filename": "bridgetime-0.2.1.tar.gz",
-  "download_time": "2026-02-22T23:17:59.617086",
+  "download_filename": "bridgetime-0.2.2.tar.gz",
+  "download_time": "2026-02-23T09:13:40.342410",
   "package_url": "https://pypi.org/project/bridgetime/"
 }

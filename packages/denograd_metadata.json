@@ -1,0 +1,11 @@
+{
+  "name": "denograd",
+  "version": "1.0.1",
+  "summary": "Instance noise reduction framework based on Deep Learning gradients agnostic to         the network architecture.",
+  "author": "JJavier98",
+  "license": null,
+  "home_page": null,
+  "download_filename": "denograd-1.0.1.tar.gz",
+  "download_time": "2026-02-23T09:13:58.815522",
+  "package_url": "https://pypi.org/project/denograd/"
+}

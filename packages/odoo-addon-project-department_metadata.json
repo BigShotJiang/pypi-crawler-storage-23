@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-department",
+  "version": "19.0.1.0.0.2",
+  "summary": "Project Department Categorization",
+  "author": "Camptocamp, Daniel Reis, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_department-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-23T09:13:53.353258",
+  "package_url": "https://pypi.org/project/odoo-addon-project-department/"
+}

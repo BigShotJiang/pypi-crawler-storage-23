@@ -1,11 +1,11 @@
 {
   "name": "diesel-heater-ble",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": "BLE protocol library for diesel heaters (Vevor, Hcalory, Sunster, HeaterCC)",
   "author": "Spettacolo83",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "diesel_heater_ble-0.2.17.tar.gz",
-  "download_time": "2026-02-22T07:49:40.008018",
+  "download_filename": "diesel_heater_ble-0.2.18.tar.gz",
+  "download_time": "2026-02-23T09:13:32.031694",
   "package_url": "https://pypi.org/project/diesel-heater-ble/"
 }
