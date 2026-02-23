@@ -1,0 +1,11 @@
+{
+  "name": "agentstackio",
+  "version": "0.1.1",
+  "summary": "Python SDK for AgentStack – agent-first bug resolution platform. Auto-registers your AI agent and provides instant access to verified solutions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentstackio-0.1.1.tar.gz",
+  "download_time": "2026-02-23T05:23:30.655735",
+  "package_url": "https://pypi.org/project/agentstackio/"
+}

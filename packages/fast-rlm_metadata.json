@@ -1,11 +1,11 @@
 {
   "name": "fast-rlm",
-  "version": "0.1.4",
-  "summary": "Recursive Language Model",
+  "version": "0.1.7",
+  "summary": "Light-dependency, Feature-Rich Implementation of Recursive Language Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_rlm-0.1.4.tar.gz",
-  "download_time": "2026-02-22T22:49:52.383507",
+  "download_filename": "fast_rlm-0.1.7.tar.gz",
+  "download_time": "2026-02-23T05:23:26.392969",
   "package_url": "https://pypi.org/project/fast-rlm/"
 }

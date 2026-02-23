@@ -1,11 +1,11 @@
 {
   "name": "rivven",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "High-performance Python client for Rivven distributed streaming platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rivven-0.0.19-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-20T06:08:50.886741",
+  "download_filename": "rivven-0.0.20-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-23T05:23:53.360176",
   "package_url": "https://pypi.org/project/rivven/"
 }

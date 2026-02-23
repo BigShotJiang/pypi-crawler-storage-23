@@ -1,11 +1,11 @@
 {
   "name": "sscli",
-  "version": "2.6.0",
-  "summary": "Seed & Source CLI - Multi-tenant SaaS scaffolding with Merchant Dashboard",
+  "version": "0.6.0",
+  "summary": "Seed & Source CLI - Production-ready SaaS scaffolding for Rails, Python, React, Astro, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sscli-2.6.0.tar.gz",
-  "download_time": "2026-02-19T19:48:31.666821",
+  "download_filename": "sscli-0.6.0-py3-none-any.whl",
+  "download_time": "2026-02-23T05:23:23.187230",
   "package_url": "https://pypi.org/project/sscli/"
 }

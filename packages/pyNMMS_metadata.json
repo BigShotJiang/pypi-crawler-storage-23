@@ -1,11 +1,11 @@
 {
   "name": "pyNMMS",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "An automated reasoner for the Non-Monotonic Multi-Succedent (NMMS) sequent calculus from Hlobil & Brandom 2025, Ch. 3.",
   "author": "Bradley P. Allen",
   "license": null,
   "home_page": null,
-  "download_filename": "pynmms-0.3.0.tar.gz",
-  "download_time": "2026-02-23T01:11:22.115822",
+  "download_filename": "pynmms-0.4.0.tar.gz",
+  "download_time": "2026-02-23T05:23:36.379890",
   "package_url": "https://pypi.org/project/pyNMMS/"
 }

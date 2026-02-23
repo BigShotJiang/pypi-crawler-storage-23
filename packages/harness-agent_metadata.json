@@ -1,11 +1,11 @@
 {
   "name": "harness-agent",
-  "version": "0.1.2",
+  "version": "0.3.3",
   "summary": "Multi-provider coding agent CLI + SDK",
   "author": "Harness Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "harness_agent-0.1.2.tar.gz",
-  "download_time": "2026-02-23T03:49:20.621284",
+  "download_filename": "harness_agent-0.3.3.tar.gz",
+  "download_time": "2026-02-23T05:23:30.023167",
   "package_url": "https://pypi.org/project/harness-agent/"
 }

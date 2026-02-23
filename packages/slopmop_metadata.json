@@ -1,11 +1,11 @@
 {
   "name": "slopmop",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Quality gates for AI-assisted codebases — catch the slop LLMs leave behind.",
   "author": "ScienceIsNeato",
   "license": "Slop-Mop Attribution License v1.0",
   "home_page": null,
-  "download_filename": "slopmop-0.1.0.tar.gz",
-  "download_time": "2026-02-22T05:12:57.173533",
+  "download_filename": "slopmop-0.2.1.tar.gz",
+  "download_time": "2026-02-23T05:23:33.757051",
   "package_url": "https://pypi.org/project/slopmop/"
 }

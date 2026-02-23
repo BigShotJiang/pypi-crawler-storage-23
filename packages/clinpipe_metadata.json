@@ -1,0 +1,11 @@
+{
+  "name": "clinpipe",
+  "version": "0.5.2",
+  "summary": "Clinical data pipeline integrating PubChem and ClinicalTrials.gov",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clinpipe-0.5.2.tar.gz",
+  "download_time": "2026-02-23T05:23:44.927940",
+  "package_url": "https://pypi.org/project/clinpipe/"
+}

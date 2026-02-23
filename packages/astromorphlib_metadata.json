@@ -1,0 +1,11 @@
+{
+  "name": "astromorphlib",
+  "version": "1.0.12",
+  "summary": "Python scripts to analyze the morphology of isolated/interacting galaxies",
+  "author": "J. A. Hernandez-Jimenez",
+  "license": null,
+  "home_page": "https://gitlab.com/joseaher/astromorphlib",
+  "download_filename": "astromorphlib-1.0.12-py3-none-any.whl",
+  "download_time": "2026-02-23T05:24:00.027609",
+  "package_url": "https://pypi.org/project/astromorphlib/"
+}

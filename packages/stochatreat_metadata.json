@@ -1,11 +1,11 @@
 {
   "name": "stochatreat",
-  "version": "0.1.6",
+  "version": "0.2.4",
   "summary": "Stratified random assignment using pandas",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stochatreat-0.1.6.tar.gz",
-  "download_time": "2026-02-22T21:59:20.634928",
+  "download_filename": "stochatreat-0.2.4.tar.gz",
+  "download_time": "2026-02-23T05:23:55.812117",
   "package_url": "https://pypi.org/project/stochatreat/"
 }

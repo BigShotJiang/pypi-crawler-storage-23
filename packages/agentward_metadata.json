@@ -1,11 +1,11 @@
 {
   "name": "agentward",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Open-source permission control plane for AI agents. Scan, enforce, and audit every tool call.",
   "author": "AgentWard Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agentward-0.2.3.tar.gz",
-  "download_time": "2026-02-22T06:05:56.008390",
+  "download_filename": "agentward-0.2.4.tar.gz",
+  "download_time": "2026-02-23T05:23:46.681474",
   "package_url": "https://pypi.org/project/agentward/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xarray-spatial",
+  "version": "0.5.3",
+  "summary": "xarray-based spatial analysis tools",
+  "author": "Xarray-Spatial Developers",
+  "license": "MIT",
+  "home_page": "https://github.com/xarray-contrib/xarray-spatial",
+  "download_filename": "xarray_spatial-0.5.3-py3-none-any.whl",
+  "download_time": "2026-02-23T05:23:39.000866",
+  "package_url": "https://pypi.org/project/xarray-spatial/"
+}

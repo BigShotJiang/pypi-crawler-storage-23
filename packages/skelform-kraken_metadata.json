@@ -1,11 +1,11 @@
 {
   "name": "skelform-kraken",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "SkelForm runtime for Kraken Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skelform_kraken-0.4.2-py3-none-any.whl",
-  "download_time": "2026-02-23T03:49:49.044881",
+  "download_filename": "skelform_kraken-0.4.3.tar.gz",
+  "download_time": "2026-02-23T05:23:55.123528",
   "package_url": "https://pypi.org/project/skelform-kraken/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "InstagramInfo",
+  "version": "0.1.1",
+  "summary": "A simple library to get Instagram user profile info",
+  "author": "Manus User",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instagraminfo-0.1.1.tar.gz",
+  "download_time": "2026-02-23T05:23:59.510565",
+  "package_url": "https://pypi.org/project/InstagramInfo/"
+}

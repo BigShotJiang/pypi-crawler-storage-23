@@ -1,0 +1,11 @@
+{
+  "name": "spa-cli",
+  "version": "1.0.12",
+  "summary": "Un cli para manejar proyectos serverless en aws con python",
+  "author": "David Cuy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spa_cli-1.0.12.tar.gz",
+  "download_time": "2026-02-23T05:23:58.995918",
+  "package_url": "https://pypi.org/project/spa-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ambers",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Pure Rust SPSS .sav/.zsav reader with Polars DataFrame output",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ambers-0.3.0.tar.gz",
-  "download_time": "2026-02-21T17:19:09.738350",
+  "download_filename": "ambers-0.3.2.tar.gz",
+  "download_time": "2026-02-23T05:23:33.235023",
   "package_url": "https://pypi.org/project/ambers/"
 }
