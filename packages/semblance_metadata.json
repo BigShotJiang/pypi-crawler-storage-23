@@ -1,11 +1,11 @@
 {
   "name": "semblance",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Schema-driven REST API simulation with FastAPI, Pydantic, and Polyfactory",
   "author": "Semblance Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "semblance-0.4.0.tar.gz",
-  "download_time": "2026-02-23T19:44:27.886830",
+  "download_filename": "semblance-0.6.0.tar.gz",
+  "download_time": "2026-02-23T22:02:33.125805",
   "package_url": "https://pypi.org/project/semblance/"
 }

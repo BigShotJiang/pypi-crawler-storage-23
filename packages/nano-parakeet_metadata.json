@@ -1,0 +1,11 @@
+{
+  "name": "nano-parakeet",
+  "version": "0.2.0",
+  "summary": "Pure-PyTorch Parakeet TDT inference — no NeMo required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nano_parakeet-0.2.0.tar.gz",
+  "download_time": "2026-02-23T22:02:36.130441",
+  "package_url": "https://pypi.org/project/nano-parakeet/"
+}

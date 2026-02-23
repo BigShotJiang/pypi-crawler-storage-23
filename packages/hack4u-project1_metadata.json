@@ -1,0 +1,11 @@
+{
+  "name": "hack4u-project1",
+  "version": "0.1.0",
+  "summary": "Una biblioteca para consultar cursos de hack4u ejemplo curso Python.",
+  "author": "Marcelo Vazquez",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "hack4u_project1-0.1.0.tar.gz",
+  "download_time": "2026-02-23T22:02:40.121593",
+  "package_url": "https://pypi.org/project/hack4u-project1/"
+}

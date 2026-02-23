@@ -1,0 +1,11 @@
+{
+  "name": "aws-cryptographic-material-providers",
+  "version": "1.11.2",
+  "summary": "AWS Cryptographic Material Providers Library for Python",
+  "author": "AWS Crypto Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_cryptographic_material_providers-1.11.2.tar.gz",
+  "download_time": "2026-02-23T22:03:09.840361",
+  "package_url": "https://pypi.org/project/aws-cryptographic-material-providers/"
+}

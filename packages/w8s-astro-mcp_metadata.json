@@ -1,0 +1,11 @@
+{
+  "name": "w8s-astro-mcp",
+  "version": "0.9.0",
+  "summary": "Personal astrological MCP server — natal charts, transits, aspects, composite & Davison relationship charts, backed by SQLite",
+  "author": "Todd Waits",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "w8s_astro_mcp-0.9.0.tar.gz",
+  "download_time": "2026-02-23T22:03:09.330407",
+  "package_url": "https://pypi.org/project/w8s-astro-mcp/"
+}

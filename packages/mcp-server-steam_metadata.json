@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-steam",
+  "version": "1.0.1",
+  "summary": "MCP Server for Steam Web API integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_steam-1.0.1.tar.gz",
+  "download_time": "2026-02-23T22:02:25.479106",
+  "package_url": "https://pypi.org/project/mcp-server-steam/"
+}

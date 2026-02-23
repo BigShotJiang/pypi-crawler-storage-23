@@ -1,0 +1,11 @@
+{
+  "name": "bettermoments",
+  "version": "1.9.3",
+  "summary": "Robust moment map making.",
+  "author": "Richard Teague & Daniel Foreman-Mackey",
+  "license": "LICENSE.md",
+  "home_page": "https://github.com/richteague/bettermoments",
+  "download_filename": "bettermoments-1.9.3.tar.gz",
+  "download_time": "2026-02-23T22:02:32.530744",
+  "package_url": "https://pypi.org/project/bettermoments/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "govee-python",
+  "version": "1.0.2",
+  "summary": "Python library for controlling Govee smart lights via LAN and Cloud APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "govee_python-1.0.2.tar.gz",
+  "download_time": "2026-02-23T22:02:50.335337",
+  "package_url": "https://pypi.org/project/govee-python/"
+}

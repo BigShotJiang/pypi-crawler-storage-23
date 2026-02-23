@@ -1,0 +1,11 @@
+{
+  "name": "mcp-coda",
+  "version": "0.3.0",
+  "summary": "MCP server for Coda API — docs, pages, tables, rows, formulas, permissions, and more",
+  "author": "vish288",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_coda-0.3.0.tar.gz",
+  "download_time": "2026-02-23T22:02:24.263026",
+  "package_url": "https://pypi.org/project/mcp-coda/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yostlabs",
+  "version": "2026.2.4",
+  "summary": "Python resources and API for 3Space sensors from Yost Labs Inc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yostlabs-2026.2.4.tar.gz",
+  "download_time": "2026-02-23T22:03:02.664402",
+  "package_url": "https://pypi.org/project/yostlabs/"
+}
