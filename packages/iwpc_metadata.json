@@ -1,11 +1,11 @@
 {
   "name": "iwpc",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "An implementation of the divergence framework as described here https://arxiv.org/abs/2405.06397 and much more...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iwpc-0.8.0.tar.gz",
-  "download_time": "2026-02-19T12:38:43.716189",
+  "download_filename": "iwpc-0.8.1.tar.gz",
+  "download_time": "2026-02-23T16:31:05.188964",
   "package_url": "https://pypi.org/project/iwpc/"
 }

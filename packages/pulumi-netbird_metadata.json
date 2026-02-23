@@ -1,11 +1,11 @@
 {
   "name": "pulumi-netbird",
-  "version": "0.0.16",
+  "version": "1.0.0",
   "summary": "A Pulumi package for creating and managing netbird cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://netbird.io",
-  "download_filename": "pulumi_netbird-0.0.16.tar.gz",
-  "download_time": "2026-02-22T22:24:10.050098",
+  "download_filename": "pulumi_netbird-1.0.0.tar.gz",
+  "download_time": "2026-02-23T16:31:04.094663",
   "package_url": "https://pypi.org/project/pulumi-netbird/"
 }

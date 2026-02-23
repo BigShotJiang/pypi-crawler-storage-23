@@ -1,0 +1,11 @@
+{
+  "name": "pyedc-core",
+  "version": "0.1.0",
+  "summary": "Core JSON-LD utilities and FastAPI helpers for the EDC data plane.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyedc_core-0.1.0.tar.gz",
+  "download_time": "2026-02-23T16:31:10.068508",
+  "package_url": "https://pypi.org/project/pyedc-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyconarr",
-  "version": "0.4.61",
+  "version": "0.4.64",
   "summary": null,
   "author": "Clem",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "pyconarr-0.4.61.tar.gz",
-  "download_time": "2026-02-23T15:32:03.644553",
+  "download_filename": "pyconarr-0.4.64.tar.gz",
+  "download_time": "2026-02-23T16:30:28.947767",
   "package_url": "https://pypi.org/project/pyconarr/"
 }

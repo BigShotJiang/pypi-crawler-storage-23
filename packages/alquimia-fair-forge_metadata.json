@@ -1,11 +1,11 @@
 {
   "name": "alquimia-fair-forge",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Alquimia Fair Forge library - Performance measurement for AI models and assistants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alquimia_fair_forge-1.1.0.tar.gz",
-  "download_time": "2026-02-18T20:02:44.444553",
+  "download_filename": "alquimia_fair_forge-1.2.0.tar.gz",
+  "download_time": "2026-02-23T16:30:39.699922",
   "package_url": "https://pypi.org/project/alquimia-fair-forge/"
 }

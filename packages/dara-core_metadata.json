@@ -1,0 +1,11 @@
+{
+  "name": "dara-core",
+  "version": "1.26.1",
+  "summary": "Dara Framework Core",
+  "author": "Sam Smith",
+  "license": "Apache-2.0",
+  "home_page": "https://dara.causalens.com/",
+  "download_filename": "dara_core-1.26.1-py3-none-any.whl",
+  "download_time": "2026-02-23T16:30:45.160778",
+  "package_url": "https://pypi.org/project/dara-core/"
+}

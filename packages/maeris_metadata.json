@@ -1,0 +1,11 @@
+{
+  "name": "maeris",
+  "version": "0.1.0",
+  "summary": "MCP server for extracting, analyzing, and documenting React/frontend APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maeris-0.1.0.tar.gz",
+  "download_time": "2026-02-23T16:30:54.967287",
+  "package_url": "https://pypi.org/project/maeris/"
+}

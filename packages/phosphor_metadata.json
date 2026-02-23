@@ -1,0 +1,11 @@
+{
+  "name": "phosphor",
+  "version": "0.1",
+  "summary": "WebGPU accelerated visualization of unbounded neural data streams in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phosphor-0.1.tar.gz",
+  "download_time": "2026-02-23T16:30:49.884609",
+  "package_url": "https://pypi.org/project/phosphor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "create-dara-app",
+  "version": "1.26.1",
+  "summary": "CLI to quickly bootstrap a Dara app",
+  "author": "Krzysztof Bielikowicz",
+  "license": "Apache-2.0",
+  "home_page": "https://dara.causalens.com/",
+  "download_filename": "create_dara_app-1.26.1-py3-none-any.whl",
+  "download_time": "2026-02-23T16:30:46.892908",
+  "package_url": "https://pypi.org/project/create-dara-app/"
+}

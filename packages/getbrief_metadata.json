@@ -1,0 +1,11 @@
+{
+  "name": "getbrief",
+  "version": "0.4.0",
+  "summary": "Content compression for AI agents. Extract once, render per query.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "getbrief-0.4.0.tar.gz",
+  "download_time": "2026-02-23T16:31:00.053945",
+  "package_url": "https://pypi.org/project/getbrief/"
+}

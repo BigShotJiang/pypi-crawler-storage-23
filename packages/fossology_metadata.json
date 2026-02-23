@@ -1,0 +1,11 @@
+{
+  "name": "fossology",
+  "version": "3.4.0",
+  "summary": "A library to automate Fossology from Python scripts",
+  "author": "Marion Deveaud",
+  "license": "MIT",
+  "home_page": "https://github.com/fossology/fossology-python",
+  "download_filename": "fossology-3.4.0.tar.gz",
+  "download_time": "2026-02-23T16:30:50.444708",
+  "package_url": "https://pypi.org/project/fossology/"
+}
