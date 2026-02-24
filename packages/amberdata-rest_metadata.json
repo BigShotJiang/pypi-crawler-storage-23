@@ -1,0 +1,11 @@
+{
+  "name": "amberdata-rest",
+  "version": "0.3.3",
+  "summary": "Amberdata.io REST API SDK",
+  "author": "technology@firestorm.capital",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amberdata_rest-0.3.3.tar.gz",
+  "download_time": "2026-02-24T13:58:36.247458",
+  "package_url": "https://pypi.org/project/amberdata-rest/"
+}

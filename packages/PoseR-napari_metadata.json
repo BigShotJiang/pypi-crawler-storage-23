@@ -1,0 +1,11 @@
+{
+  "name": "PoseR-napari",
+  "version": "0.0.1b7",
+  "summary": "A deep learning toolbox for decoding animal behaviour",
+  "author": "Pierce Mullen",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/pnm4sfix/PoseR",
+  "download_filename": "poser_napari-0.0.1b7-py3-none-any.whl",
+  "download_time": "2026-02-24T13:58:22.298056",
+  "package_url": "https://pypi.org/project/PoseR-napari/"
+}

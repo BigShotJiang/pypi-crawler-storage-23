@@ -1,0 +1,11 @@
+{
+  "name": "TaskTonic",
+  "version": "0.2.0",
+  "summary": "TaskTonic is a Python framework designed to manage application complexity through a unique concurrency model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tasktonic-0.2.0.tar.gz",
+  "download_time": "2026-02-24T13:58:43.096079",
+  "package_url": "https://pypi.org/project/TaskTonic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phi_save_codec",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Phigros Cloud Save Codec Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phi_save_codec-0.2.2.tar.gz",
-  "download_time": "2026-02-20T14:59:39.867013",
+  "download_filename": "phi_save_codec-0.2.3.tar.gz",
+  "download_time": "2026-02-24T13:58:26.019085",
   "package_url": "https://pypi.org/project/phi_save_codec/"
 }

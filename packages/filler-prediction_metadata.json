@@ -1,11 +1,11 @@
 {
   "name": "filler-prediction",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "thai filler word prediction for voice bots - picks the right acknowledgment phrase while llm thinks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "filler_prediction-0.4.0.tar.gz",
-  "download_time": "2026-02-24T12:40:54.315577",
+  "download_filename": "filler_prediction-0.4.3.tar.gz",
+  "download_time": "2026-02-24T13:58:13.647986",
   "package_url": "https://pypi.org/project/filler-prediction/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "u-ite",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Continuous Network Observability Platform",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/u-ite",
-  "download_filename": "u_ite-0.2.2.tar.gz",
-  "download_time": "2026-02-24T12:41:07.771712",
+  "download_filename": "u_ite-0.2.3.tar.gz",
+  "download_time": "2026-02-24T13:58:39.915951",
   "package_url": "https://pypi.org/project/u-ite/"
 }

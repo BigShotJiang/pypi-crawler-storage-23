@@ -1,0 +1,11 @@
+{
+  "name": "aedev-project-vars",
+  "version": "0.3.7",
+  "summary": "aedev namespace module portion project_vars: project development variables",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_project_vars",
+  "download_filename": "aedev_project_vars-0.3.7.tar.gz",
+  "download_time": "2026-02-24T13:58:13.120434",
+  "package_url": "https://pypi.org/project/aedev-project-vars/"
+}

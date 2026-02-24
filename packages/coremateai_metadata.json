@@ -1,0 +1,11 @@
+{
+  "name": "coremateai",
+  "version": "0.1.2",
+  "summary": "Torch and CUDA helper toolkit for AI training and inference workflows.",
+  "author": "hustle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coremateai-0.1.2.tar.gz",
+  "download_time": "2026-02-24T13:58:16.928452",
+  "package_url": "https://pypi.org/project/coremateai/"
+}

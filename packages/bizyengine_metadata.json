@@ -1,11 +1,11 @@
 {
   "name": "bizyengine",
-  "version": "1.2.85",
+  "version": "1.2.87",
   "summary": "[a/BizyAir](https://github.com/siliconflow/BizyAir) Comfy Nodes that can run in any environment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bizyengine-1.2.85-py3-none-any.whl",
-  "download_time": "2026-02-22T15:44:14.876753",
+  "download_filename": "bizyengine-1.2.87-py3-none-any.whl",
+  "download_time": "2026-02-24T13:58:21.239699",
   "package_url": "https://pypi.org/project/bizyengine/"
 }

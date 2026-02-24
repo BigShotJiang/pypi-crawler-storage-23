@@ -1,11 +1,11 @@
 {
   "name": "fresh-docs",
-  "version": "0.1.9",
+  "version": "0.2.2",
   "summary": "CLI to get the latest and freshest documentation from any website in Markdown format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fresh_docs-0.1.9.tar.gz",
-  "download_time": "2026-02-23T15:32:12.685123",
+  "download_filename": "fresh_docs-0.2.2.tar.gz",
+  "download_time": "2026-02-24T13:58:16.402957",
   "package_url": "https://pypi.org/project/fresh-docs/"
 }
