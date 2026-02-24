@@ -1,0 +1,11 @@
+{
+  "name": "verityinc-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Verity — exactly-once effect protection for AI agents and autonomous systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "verityinc_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-24T23:57:43.921322",
+  "package_url": "https://pypi.org/project/verityinc-sdk/"
+}

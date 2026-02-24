@@ -1,11 +1,11 @@
 {
   "name": "pyodoo-rpc-client",
-  "version": "16.0.0",
+  "version": "18.0.3",
   "summary": "Odoo RPC client for Odoo versions using XML-RPC/JSON-RPC",
-  "author": "ArtIQ",
+  "author": "Tumbi-J",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyodoo_rpc_client-16.0.0.tar.gz",
-  "download_time": "2026-02-24T23:31:28.917075",
+  "download_filename": "pyodoo_rpc_client-18.0.3.tar.gz",
+  "download_time": "2026-02-24T23:58:12.959168",
   "package_url": "https://pypi.org/project/pyodoo-rpc-client/"
 }

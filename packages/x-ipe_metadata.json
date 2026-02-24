@@ -1,11 +1,11 @@
 {
   "name": "x-ipe",
-  "version": "1.0.64",
+  "version": "1.0.65",
   "summary": "An AI native integrated project environment for end to end business value delivery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_ipe-1.0.64-py3-none-any.whl",
-  "download_time": "2026-02-24T08:07:32.447954",
+  "download_filename": "x_ipe-1.0.65-py3-none-any.whl",
+  "download_time": "2026-02-24T23:57:57.878260",
   "package_url": "https://pypi.org/project/x-ipe/"
 }

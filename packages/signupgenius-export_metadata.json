@@ -1,11 +1,11 @@
 {
   "name": "signupgenius-export",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Export SignUpGenius signup data to CSV",
   "author": "Robert Ruddy",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/bobruddy/signupgenius-export",
-  "download_filename": "signupgenius_export-1.0.6.tar.gz",
-  "download_time": "2026-02-20T03:40:59.494299",
+  "download_filename": "signupgenius_export-1.0.7.tar.gz",
+  "download_time": "2026-02-24T23:58:22.763707",
   "package_url": "https://pypi.org/project/signupgenius-export/"
 }

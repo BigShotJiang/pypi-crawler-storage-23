@@ -1,0 +1,11 @@
+{
+  "name": "bchydrohomie",
+  "version": "1.0.0",
+  "summary": "BCHydro API",
+  "author": "Jeff Rhude",
+  "license": "MIT",
+  "home_page": "https://github.com/rhude/bchydrohomie",
+  "download_filename": "bchydrohomie-1.0.0.tar.gz",
+  "download_time": "2026-02-24T23:57:47.020400",
+  "package_url": "https://pypi.org/project/bchydrohomie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "athena-agent",
+  "version": "9.2.6",
+  "summary": "Athena Bionic OS — The Linux Distro for AI Agents. Model-agnostic, local-first, sovereign.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "athena_agent-9.2.6-py3-none-any.whl",
+  "download_time": "2026-02-24T23:58:08.731703",
+  "package_url": "https://pypi.org/project/athena-agent/"
+}

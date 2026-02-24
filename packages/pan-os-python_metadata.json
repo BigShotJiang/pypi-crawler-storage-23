@@ -1,0 +1,11 @@
+{
+  "name": "pan-os-python",
+  "version": "1.12.4",
+  "summary": "Framework for interacting with Palo Alto Networks devices via API",
+  "author": "Palo Alto Networks",
+  "license": "ISC",
+  "home_page": "https://github.com/PaloAltoNetworks/pan-os-python",
+  "download_filename": "pan_os_python-1.12.4.tar.gz",
+  "download_time": "2026-02-24T23:58:16.103348",
+  "package_url": "https://pypi.org/project/pan-os-python/"
+}

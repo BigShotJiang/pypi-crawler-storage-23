@@ -1,11 +1,11 @@
 {
   "name": "vocal-bridge",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "CLI tools for Vocal Bridge voice agent development",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vocal_bridge-0.10.0.tar.gz",
-  "download_time": "2026-02-24T23:31:09.076925",
+  "download_filename": "vocal_bridge-0.11.0.tar.gz",
+  "download_time": "2026-02-24T23:57:52.664007",
   "package_url": "https://pypi.org/project/vocal-bridge/"
 }

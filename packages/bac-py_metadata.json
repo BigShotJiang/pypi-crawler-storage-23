@@ -1,11 +1,11 @@
 {
   "name": "bac-py",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "summary": "Asynchronous BACnet protocol library for Python — BACnet/IP, IPv6, Ethernet, and Secure Connect",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bac_py-1.5.6.tar.gz",
-  "download_time": "2026-02-23T23:25:21.748466",
+  "download_filename": "bac_py-1.5.7.tar.gz",
+  "download_time": "2026-02-24T23:57:45.981492",
   "package_url": "https://pypi.org/project/bac-py/"
 }

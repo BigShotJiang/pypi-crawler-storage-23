@@ -1,11 +1,11 @@
 {
   "name": "solweig",
-  "version": "0.1.0b55",
+  "version": "0.1.0b56",
   "summary": "High-performance SOLWEIG urban microclimate model (Rust + Python)",
   "author": "UMEP Developers",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "solweig-0.1.0b55.tar.gz",
-  "download_time": "2026-02-21T13:16:35.067893",
+  "download_filename": "solweig-0.1.0b56.tar.gz",
+  "download_time": "2026-02-24T23:57:54.722925",
   "package_url": "https://pypi.org/project/solweig/"
 }

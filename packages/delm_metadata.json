@@ -1,0 +1,11 @@
+{
+  "name": "delm",
+  "version": "1.1.0",
+  "summary": "DELM:Data Extraction with Language Models",
+  "author": "Eric Fithian, Kirill Skobelev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "delm-1.1.0.tar.gz",
+  "download_time": "2026-02-24T23:58:10.845220",
+  "package_url": "https://pypi.org/project/delm/"
+}

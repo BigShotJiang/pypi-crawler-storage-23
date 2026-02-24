@@ -1,0 +1,11 @@
+{
+  "name": "tass",
+  "version": "0.1.16",
+  "summary": "A terminal assistant that allows you to ask an LLM to run commands.",
+  "author": "Can Cetin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tass-0.1.16.tar.gz",
+  "download_time": "2026-02-24T23:57:48.556651",
+  "package_url": "https://pypi.org/project/tass/"
+}

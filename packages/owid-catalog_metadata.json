@@ -1,0 +1,11 @@
+{
+  "name": "owid-catalog",
+  "version": "1.0.0",
+  "summary": "Core data types used by OWID for managing data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owid_catalog-1.0.0.tar.gz",
+  "download_time": "2026-02-24T23:58:14.563039",
+  "package_url": "https://pypi.org/project/owid-catalog/"
+}
