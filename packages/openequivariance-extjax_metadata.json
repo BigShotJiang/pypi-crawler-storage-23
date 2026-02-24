@@ -1,0 +1,11 @@
+{
+  "name": "openequivariance-extjax",
+  "version": "0.6.2",
+  "summary": "JAX C++ Extension for OpenEquivariance",
+  "author": "Austin Glover, Vivek Bharadwaj, Aydin Buluc, James Demmel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openequivariance_extjax-0.6.2.tar.gz",
+  "download_time": "2026-02-24T08:06:39.857513",
+  "package_url": "https://pypi.org/project/openequivariance-extjax/"
+}

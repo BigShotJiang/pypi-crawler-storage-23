@@ -1,0 +1,11 @@
+{
+  "name": "openequivariance",
+  "version": "0.6.2",
+  "summary": "A fast GPU JIT kernel generator for the Clebsch-Gordon Tensor Product",
+  "author": "Austin Glover, Vivek Bharadwaj, Aydin Buluc, James Demmel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openequivariance-0.6.2.tar.gz",
+  "download_time": "2026-02-24T08:06:41.182116",
+  "package_url": "https://pypi.org/project/openequivariance/"
+}

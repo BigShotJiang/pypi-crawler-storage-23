@@ -1,11 +1,11 @@
 {
   "name": "dmart",
-  "version": "1.5.0.post54",
+  "version": "1.5.0.post64",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmart-1.5.0.post54-py3-none-any.whl",
-  "download_time": "2026-02-24T07:18:32.020488",
+  "download_filename": "dmart-1.5.0.post64-py3-none-any.whl",
+  "download_time": "2026-02-24T08:06:54.278419",
   "package_url": "https://pypi.org/project/dmart/"
 }

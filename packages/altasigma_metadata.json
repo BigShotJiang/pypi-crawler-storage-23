@@ -1,0 +1,11 @@
+{
+  "name": "altasigma",
+  "version": "3.11.0",
+  "summary": "Python helpers for data science and ML workflows on the AltaSigma AI platform",
+  "author": "AltaSigma GmbH",
+  "license": "Proprietary",
+  "home_page": "https://www.altasigma.com",
+  "download_filename": "altasigma-3.11.0.tar.gz",
+  "download_time": "2026-02-24T08:06:56.212832",
+  "package_url": "https://pypi.org/project/altasigma/"
+}

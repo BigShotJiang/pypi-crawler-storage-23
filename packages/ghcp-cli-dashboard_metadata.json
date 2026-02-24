@@ -1,0 +1,11 @@
+{
+  "name": "ghcp-cli-dashboard",
+  "version": "0.1.3",
+  "summary": "A local web dashboard that monitors all your GitHub Copilot CLI sessions in real-time",
+  "author": "Jeff Steinbok",
+  "license": "MIT",
+  "home_page": "https://github.com/JeffSteinbok/ghcpCliSessionDashboard",
+  "download_filename": "ghcp_cli_dashboard-0.1.3.tar.gz",
+  "download_time": "2026-02-24T08:06:45.212915",
+  "package_url": "https://pypi.org/project/ghcp-cli-dashboard/"
+}

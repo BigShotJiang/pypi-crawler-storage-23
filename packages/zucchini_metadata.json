@@ -1,0 +1,11 @@
+{
+  "name": "zucchini",
+  "version": "3.0.0",
+  "summary": "Zucchini is an automatic grader tool for use in grading programming assignments.",
+  "author": "Zucchini Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zucchini-3.0.0.tar.gz",
+  "download_time": "2026-02-24T08:07:20.076356",
+  "package_url": "https://pypi.org/project/zucchini/"
+}

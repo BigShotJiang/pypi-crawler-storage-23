@@ -1,0 +1,11 @@
+{
+  "name": "databridge-models",
+  "version": "0.43.0",
+  "summary": "DataBridge AI Models - Shared data models, enums, and schemas",
+  "author": "DataBridge AI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databridge_models-0.43.0.tar.gz",
+  "download_time": "2026-02-24T08:07:24.627951",
+  "package_url": "https://pypi.org/project/databridge-models/"
+}

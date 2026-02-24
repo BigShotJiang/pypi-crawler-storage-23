@@ -1,0 +1,11 @@
+{
+  "name": "databridge-discovery",
+  "version": "0.43.0",
+  "summary": "DataBridge AI Model Discovery Engine - Automated SQL parsing, CASE extraction, and hierarchy generation",
+  "author": "DataBridge AI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databridge_discovery-0.43.0.tar.gz",
+  "download_time": "2026-02-24T08:07:27.258502",
+  "package_url": "https://pypi.org/project/databridge-discovery/"
+}

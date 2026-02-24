@@ -1,0 +1,11 @@
+{
+  "name": "databridge-lineage",
+  "version": "0.43.0",
+  "summary": "Lineage package adapters and services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databridge_lineage-0.43.0.tar.gz",
+  "download_time": "2026-02-24T08:07:22.635291",
+  "package_url": "https://pypi.org/project/databridge-lineage/"
+}

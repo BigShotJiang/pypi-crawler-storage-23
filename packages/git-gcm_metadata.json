@@ -1,0 +1,11 @@
+{
+  "name": "git-gcm",
+  "version": "1.0.2",
+  "summary": "Git Commit Message 自动生成工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_gcm-1.0.2.tar.gz",
+  "download_time": "2026-02-24T08:07:44.398406",
+  "package_url": "https://pypi.org/project/git-gcm/"
+}
