@@ -1,0 +1,11 @@
+{
+  "name": "chronossync",
+  "version": "0.1.0.post3",
+  "summary": "A live ticking clock with custom formatting.",
+  "author": "TheLostIdea1",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chronossync-0.1.0.post3.tar.gz",
+  "download_time": "2026-02-24T14:47:36.950760",
+  "package_url": "https://pypi.org/project/chronossync/"
+}

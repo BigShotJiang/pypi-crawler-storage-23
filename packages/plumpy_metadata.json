@@ -1,0 +1,11 @@
+{
+  "name": "plumpy",
+  "version": "0.26.0",
+  "summary": "A Python workflow library.",
+  "author": "Sebastiaan Huber, Jason Yu, Leopold Talirz, Dominik Gresch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plumpy-0.26.0.tar.gz",
+  "download_time": "2026-02-24T14:47:31.718699",
+  "package_url": "https://pypi.org/project/plumpy/"
+}

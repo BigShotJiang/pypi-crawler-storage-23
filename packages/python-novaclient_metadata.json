@@ -1,0 +1,11 @@
+{
+  "name": "python-novaclient",
+  "version": "18.12.0",
+  "summary": "Client library for OpenStack Compute API",
+  "author": "OpenStack",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://docs.openstack.org/python-novaclient/latest",
+  "download_filename": "python_novaclient-18.12.0.tar.gz",
+  "download_time": "2026-02-24T14:47:39.638130",
+  "package_url": "https://pypi.org/project/python-novaclient/"
+}

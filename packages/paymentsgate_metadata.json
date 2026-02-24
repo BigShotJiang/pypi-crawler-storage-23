@@ -1,0 +1,11 @@
+{
+  "name": "paymentsgate",
+  "version": "1.5.16",
+  "summary": "PaymentsGate's Python SDK for REST API",
+  "author": "PaymentsGate",
+  "license": "MIT",
+  "home_page": "https://github.com/paymentsgate/python-secure-api",
+  "download_filename": "paymentsgate-1.5.16.tar.gz",
+  "download_time": "2026-02-24T14:47:54.867453",
+  "package_url": "https://pypi.org/project/paymentsgate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opp-env",
+  "version": "0.35.0.260224",
+  "summary": "A tool, that sets up the development environment for OMNeT++ projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opp_env-0.35.0.260224.tar.gz",
+  "download_time": "2026-02-24T14:47:49.247380",
+  "package_url": "https://pypi.org/project/opp-env/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "catasta",
+  "version": "0.5.1",
+  "summary": "_Catasta_ is a Python library designed to simplify the process of Machine Learning model experimentation. Optimization, training, evaluation and inference all in one place!",
+  "author": "vistor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "catasta-0.5.1.tar.gz",
+  "download_time": "2026-02-24T14:47:48.123591",
+  "package_url": "https://pypi.org/project/catasta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "highflame-policy",
+  "version": "2.1.3",
+  "summary": "Highflame Cedar policy types and engine wrapper",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "highflame_policy-2.1.3.tar.gz",
+  "download_time": "2026-02-24T14:47:38.612374",
+  "package_url": "https://pypi.org/project/highflame-policy/"
+}

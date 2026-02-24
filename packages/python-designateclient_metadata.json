@@ -1,0 +1,11 @@
+{
+  "name": "python-designateclient",
+  "version": "6.4.0",
+  "summary": "OpenStack DNS-as-a-Service - Client",
+  "author": "OpenStack",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://docs.openstack.org/python-designateclient/latest",
+  "download_filename": "python_designateclient-6.4.0.tar.gz",
+  "download_time": "2026-02-24T14:47:41.874170",
+  "package_url": "https://pypi.org/project/python-designateclient/"
+}

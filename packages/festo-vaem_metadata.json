@@ -1,0 +1,11 @@
+{
+  "name": "festo-vaem",
+  "version": "0.1.0",
+  "summary": "Library to control Festo Lifetech VAEM 8 Channel Valve Control Device",
+  "author": "Joshua Dang, Kyle Wardlow",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "festo_vaem-0.1.0.tar.gz",
+  "download_time": "2026-02-24T14:47:53.138917",
+  "package_url": "https://pypi.org/project/festo-vaem/"
+}

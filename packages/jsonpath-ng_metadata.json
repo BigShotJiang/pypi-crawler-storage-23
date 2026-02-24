@@ -1,0 +1,11 @@
+{
+  "name": "jsonpath-ng",
+  "version": "1.8.0",
+  "summary": "A final implementation of JSONPath for Python that aims to be standard compliant, including arithmetic and binary comparison operators and providing clear AST for metaprogramming.",
+  "author": "Tomas Aparicio",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/h2non/jsonpath-ng",
+  "download_filename": "jsonpath_ng-1.8.0.tar.gz",
+  "download_time": "2026-02-24T14:47:19.949449",
+  "package_url": "https://pypi.org/project/jsonpath-ng/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nnunet-tracker",
+  "version": "0.1.0",
+  "summary": "Lightweight MLflow-based experiment tracking for nnU-Net",
+  "author": "Sathiesh Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nnunet_tracker-0.1.0.tar.gz",
+  "download_time": "2026-02-24T14:47:37.527585",
+  "package_url": "https://pypi.org/project/nnunet-tracker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyrevizto",
+  "version": "0.93",
+  "summary": "pyRevizto is a library designed specifically for Python developers who work with Revizto, a popular platform for BIM collaboration and issue tracking. By leveraging pyRevizto, developers can streamline their workflows and significantly enhance the capabilities of Revizto through automation.",
+  "author": "Umar Khalid",
+  "license": "GPLv3",
+  "home_page": "https://github.com/umarkhalid007/pyRevizto",
+  "download_filename": "pyrevizto-0.93.tar.gz",
+  "download_time": "2026-02-24T14:47:15.223230",
+  "package_url": "https://pypi.org/project/pyrevizto/"
+}

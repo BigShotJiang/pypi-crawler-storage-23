@@ -1,0 +1,11 @@
+{
+  "name": "aas-submodel-to-py",
+  "version": "0.1.1",
+  "summary": "Generate Submodel-Specific classes with filled metainformation derived from submodel templates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aas_submodel_to_py-0.1.1.tar.gz",
+  "download_time": "2026-02-24T14:47:18.355008",
+  "package_url": "https://pypi.org/project/aas-submodel-to-py/"
+}

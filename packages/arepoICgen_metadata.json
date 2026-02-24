@@ -1,0 +1,11 @@
+{
+  "name": "arepoICgen",
+  "version": "0.2.6",
+  "summary": "Package for generating initial conditions for AREPO",
+  "author": "Matt Cusack",
+  "license": null,
+  "home_page": "https://github.com/clonematthew/arepoICgen",
+  "download_filename": "arepoicgen-0.2.6.tar.gz",
+  "download_time": "2026-02-24T14:47:25.573506",
+  "package_url": "https://pypi.org/project/arepoICgen/"
+}

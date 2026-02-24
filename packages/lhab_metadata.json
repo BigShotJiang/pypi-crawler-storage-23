@@ -1,11 +1,11 @@
 {
   "name": "lhab",
-  "version": "0.3",
+  "version": "0.5",
   "summary": "Library Hallucinations Adversarial Benchmark — evaluate LLM code generation for hallucinated libraries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lhab-0.3.tar.gz",
-  "download_time": "2026-02-20T10:30:27.272291",
+  "download_filename": "lhab-0.5.tar.gz",
+  "download_time": "2026-02-24T14:47:42.961130",
   "package_url": "https://pypi.org/project/lhab/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-fileindex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Django app for file deduplication and indexing using SHA hashes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_fileindex-1.0.0.tar.gz",
-  "download_time": "2026-02-24T06:15:41.391540",
+  "download_filename": "django_fileindex-1.0.1.tar.gz",
+  "download_time": "2026-02-24T14:47:23.237888",
   "package_url": "https://pypi.org/project/django-fileindex/"
 }

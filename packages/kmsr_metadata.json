@@ -1,0 +1,11 @@
+{
+  "name": "kmsr",
+  "version": "0.1.4",
+  "summary": "kMSR provides a selection of algorithms to solve the k-Min-Sum-Radii problem.",
+  "author": "Niklas Lenssen",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "kmsr-0.1.4.tar.gz",
+  "download_time": "2026-02-24T14:47:44.049079",
+  "package_url": "https://pypi.org/project/kmsr/"
+}

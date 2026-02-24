@@ -1,0 +1,11 @@
+{
+  "name": "isage-studio",
+  "version": "0.2.4.5",
+  "summary": "SAGE Studio - Visual workflow builder and LLM playground for SAGE AI pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_studio-0.2.4.5.tar.gz",
+  "download_time": "2026-02-24T14:47:21.629988",
+  "package_url": "https://pypi.org/project/isage-studio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qoqo-calculator-pyo3",
+  "version": "1.8.0",
+  "summary": null,
+  "author": null,
+  "license": "Apache-2.0 AND Apache-2.0 with LLVM-exception AND MIT AND Unicode-DFS-2016",
+  "home_page": null,
+  "download_filename": "qoqo_calculator_pyo3-1.8.0.tar.gz",
+  "download_time": "2026-02-24T14:48:01.662803",
+  "package_url": "https://pypi.org/project/qoqo-calculator-pyo3/"
+}

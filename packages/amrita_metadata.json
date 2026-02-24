@@ -1,11 +1,11 @@
 {
   "name": "amrita",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "summary": "A powerful AI bot framework powered by NoneBot2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amrita-1.1.3.tar.gz",
-  "download_time": "2026-02-22T09:22:24.528294",
+  "download_filename": "amrita-1.1.5.tar.gz",
+  "download_time": "2026-02-24T14:47:30.632348",
   "package_url": "https://pypi.org/project/amrita/"
 }

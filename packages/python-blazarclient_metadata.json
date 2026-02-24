@@ -1,0 +1,11 @@
+{
+  "name": "python-blazarclient",
+  "version": "4.5.0",
+  "summary": "Client for OpenStack Reservation Service",
+  "author": "OpenStack",
+  "license": "Apache Software License",
+  "home_page": "https://launchpad.net/blazar",
+  "download_filename": "python_blazarclient-4.5.0.tar.gz",
+  "download_time": "2026-02-24T14:47:40.218251",
+  "package_url": "https://pypi.org/project/python-blazarclient/"
+}

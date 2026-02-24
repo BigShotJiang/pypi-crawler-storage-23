@@ -1,0 +1,11 @@
+{
+  "name": "python-mistralclient",
+  "version": "6.2.0",
+  "summary": "Mistral Client Library",
+  "author": "OpenStack",
+  "license": "Apache Software License",
+  "home_page": "https://docs.openstack.org/python-mistralclient/latest/",
+  "download_filename": "python_mistralclient-6.2.0.tar.gz",
+  "download_time": "2026-02-24T14:47:34.078879",
+  "package_url": "https://pypi.org/project/python-mistralclient/"
+}
