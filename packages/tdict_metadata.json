@@ -1,0 +1,11 @@
+{
+  "name": "tdict",
+  "version": "0.6.1",
+  "summary": "Tdict is a tree-structured mapping for easy handling of configurations and results.",
+  "author": "Roy Fox",
+  "license": "MIT",
+  "home_page": "https://github.com/royf/tdict",
+  "download_filename": "tdict-0.6.1.tar.gz",
+  "download_time": "2026-02-24T19:40:20.279430",
+  "package_url": "https://pypi.org/project/tdict/"
+}

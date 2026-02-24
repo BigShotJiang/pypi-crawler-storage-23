@@ -1,0 +1,11 @@
+{
+  "name": "polypolars",
+  "version": "0.1.1",
+  "summary": "Generate Polars DataFrames using polyfactory for testing and development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polypolars-0.1.1.tar.gz",
+  "download_time": "2026-02-24T19:40:03.203382",
+  "package_url": "https://pypi.org/project/polypolars/"
+}

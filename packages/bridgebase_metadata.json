@@ -1,0 +1,11 @@
+{
+  "name": "bridgebase",
+  "version": "0.2.0",
+  "summary": "Multi-database SDK with gateway socket authentication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bridgebase-0.2.0.tar.gz",
+  "download_time": "2026-02-24T19:40:06.547003",
+  "package_url": "https://pypi.org/project/bridgebase/"
+}

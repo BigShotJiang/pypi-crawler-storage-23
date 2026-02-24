@@ -1,11 +1,11 @@
 {
   "name": "geoh5py",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "Python API for geoh5, an open file format for geoscientific data",
   "author": "Mira Geoscience",
   "license": null,
   "home_page": null,
-  "download_filename": "geoh5py-0.12.0.tar.gz",
-  "download_time": "2026-02-24T05:15:21.380030",
+  "download_filename": "geoh5py-0.12.1.tar.gz",
+  "download_time": "2026-02-24T19:39:49.710136",
   "package_url": "https://pypi.org/project/geoh5py/"
 }

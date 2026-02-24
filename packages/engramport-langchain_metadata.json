@@ -1,0 +1,11 @@
+{
+  "name": "engramport-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain integration for EngramPort — persistent memory for AI bots and agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "engramport_langchain-0.1.0.tar.gz",
+  "download_time": "2026-02-24T19:40:07.091384",
+  "package_url": "https://pypi.org/project/engramport-langchain/"
+}

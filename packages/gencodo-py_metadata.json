@@ -1,0 +1,11 @@
+{
+  "name": "gencodo-py",
+  "version": "0.1.1",
+  "summary": "Generate CLI reference documentation from argparse-based applications using Jinja2 templates",
+  "author": "gencodo contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gencodo_py-0.1.1.tar.gz",
+  "download_time": "2026-02-24T19:40:10.331718",
+  "package_url": "https://pypi.org/project/gencodo-py/"
+}

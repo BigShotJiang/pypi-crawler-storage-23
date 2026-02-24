@@ -1,11 +1,11 @@
 {
   "name": "fastfeedparser",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "High performance RSS, Atom, JSON and RDF feed parser in Python",
   "author": "Vladimir Prelovac",
   "license": null,
   "home_page": "https://github.com/kagisearch/fastfeedparser",
-  "download_filename": "fastfeedparser-0.5.7.tar.gz",
-  "download_time": "2026-02-20T17:35:25.403877",
+  "download_filename": "fastfeedparser-0.5.8.tar.gz",
+  "download_time": "2026-02-24T19:39:50.283512",
   "package_url": "https://pypi.org/project/fastfeedparser/"
 }
