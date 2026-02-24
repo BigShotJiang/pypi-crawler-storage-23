@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-edi-exchange-template-oca",
-  "version": "18.0.1.3.2",
+  "version": "18.0.1.3.3",
   "summary": "Allows definition of exchanges via templates.",
   "author": "ACSONE,Camptocamp,Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/edi-framework",
-  "download_filename": "odoo_addon_edi_exchange_template_oca-18.0.1.3.2-py3-none-any.whl",
-  "download_time": "2026-02-20T09:57:15.165197",
+  "download_filename": "odoo_addon_edi_exchange_template_oca-18.0.1.3.3-py3-none-any.whl",
+  "download_time": "2026-02-24T09:07:48.169377",
   "package_url": "https://pypi.org/project/odoo-addon-edi-exchange-template-oca/"
 }

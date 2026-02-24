@@ -1,0 +1,11 @@
+{
+  "name": "testit-cli",
+  "version": "2.8.2",
+  "summary": "This tool is the command line wrapper of Test IT allowing you to upload the test results in real time to Test IT",
+  "author": "Integration team",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/testit-cli/",
+  "download_filename": "testit_cli-2.8.2.tar.gz",
+  "download_time": "2026-02-24T09:08:00.861488",
+  "package_url": "https://pypi.org/project/testit-cli/"
+}

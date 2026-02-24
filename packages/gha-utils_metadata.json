@@ -1,11 +1,11 @@
 {
   "name": "gha-utils",
-  "version": "5.12.0",
-  "summary": "🧩 CLI for GitHub Actions + reusable workflows",
+  "version": "5.14.0",
+  "summary": "⚠️ Renamed to repokit — see https://pypi.org/project/repokit/",
   "author": "Kevin Deldycke",
   "license": null,
   "home_page": null,
-  "download_filename": "gha_utils-5.12.0.tar.gz",
-  "download_time": "2026-02-22T16:55:28.204598",
+  "download_filename": "gha_utils-5.14.0.tar.gz",
+  "download_time": "2026-02-24T09:07:45.390713",
   "package_url": "https://pypi.org/project/gha-utils/"
 }

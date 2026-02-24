@@ -1,11 +1,11 @@
 {
   "name": "neoview",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "NeoView PDF viewer with rectangular crop/measure tool",
   "author": "NeoView Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "neoview-0.1.4.tar.gz",
-  "download_time": "2026-02-23T11:54:28.808676",
+  "download_filename": "neoview-0.1.7.tar.gz",
+  "download_time": "2026-02-24T09:08:29.044448",
   "package_url": "https://pypi.org/project/neoview/"
 }

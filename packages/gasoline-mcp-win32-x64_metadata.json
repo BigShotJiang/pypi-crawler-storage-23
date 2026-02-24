@@ -1,0 +1,11 @@
+{
+  "name": "gasoline-mcp-win32-x64",
+  "version": "0.7.8",
+  "summary": "Gasoline MCP binary for win32-x64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gasoline_mcp_win32_x64-0.7.8.tar.gz",
+  "download_time": "2026-02-24T09:07:52.626055",
+  "package_url": "https://pypi.org/project/gasoline-mcp-win32-x64/"
+}

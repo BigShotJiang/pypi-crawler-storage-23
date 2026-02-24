@@ -1,11 +1,11 @@
 {
   "name": "easy-utils-dev",
-  "version": "2.181",
+  "version": "2.183",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_utils_dev-2.181.tar.gz",
-  "download_time": "2026-02-23T06:41:13.301848",
+  "download_filename": "easy_utils_dev-2.183.tar.gz",
+  "download_time": "2026-02-24T09:07:42.107570",
   "package_url": "https://pypi.org/project/easy-utils-dev/"
 }

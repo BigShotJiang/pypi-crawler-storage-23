@@ -1,0 +1,11 @@
+{
+  "name": "gasoline-mcp",
+  "version": "0.7.8",
+  "summary": "Gasoline MCP is an AI Debugger, Inspector, and Observability toolkit. It acts as Chrome DevTools for AI Agents using the Model Context Protocol (MCP).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gasoline_mcp-0.7.8.tar.gz",
+  "download_time": "2026-02-24T09:07:51.421529",
+  "package_url": "https://pypi.org/project/gasoline-mcp/"
+}

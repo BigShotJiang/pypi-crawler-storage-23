@@ -1,0 +1,11 @@
+{
+  "name": "gasoline-mcp-linux-arm64",
+  "version": "6.0.3",
+  "summary": "Gasoline MCP binary for linux-arm64",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "gasoline_mcp_linux_arm64-6.0.3.tar.gz",
+  "download_time": "2026-02-24T09:07:54.536660",
+  "package_url": "https://pypi.org/project/gasoline-mcp-linux-arm64/"
+}

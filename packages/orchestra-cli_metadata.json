@@ -1,0 +1,11 @@
+{
+  "name": "orchestra-cli",
+  "version": "0.1.3",
+  "summary": "Orchestra CLI. Perform operations with Orchestra locally.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orchestra_cli-0.1.3.tar.gz",
+  "download_time": "2026-02-24T09:08:01.964618",
+  "package_url": "https://pypi.org/project/orchestra-cli/"
+}
