@@ -1,0 +1,11 @@
+{
+  "name": "gitdjango",
+  "version": "0.2.0",
+  "summary": "A git plugin to create a django setup",
+  "author": "Joe Siwiak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitdjango-0.2.0.tar.gz",
+  "download_time": "2026-02-24T06:15:39.256800",
+  "package_url": "https://pypi.org/project/gitdjango/"
+}

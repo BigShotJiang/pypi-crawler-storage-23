@@ -1,0 +1,11 @@
+{
+  "name": "tlv",
+  "version": "1.8.1",
+  "summary": "-- Too little variation -- Find duplicates in source code for various languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tlv-1.8.1.tar.gz",
+  "download_time": "2026-02-24T06:15:59.394639",
+  "package_url": "https://pypi.org/project/tlv/"
+}

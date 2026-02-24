@@ -1,0 +1,11 @@
+{
+  "name": "floorctl",
+  "version": "0.4.1",
+  "summary": "Contention-based multi-agent coordination with transactional floor control",
+  "author": "Ravi Kanagasikamani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "floorctl-0.4.1.tar.gz",
+  "download_time": "2026-02-24T06:16:26.166580",
+  "package_url": "https://pypi.org/project/floorctl/"
+}

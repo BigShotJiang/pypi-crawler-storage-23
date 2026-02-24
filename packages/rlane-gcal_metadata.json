@@ -1,0 +1,11 @@
+{
+  "name": "rlane-gcal",
+  "version": "1.0.10",
+  "summary": "Google Calendar CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlane_gcal-1.0.10.tar.gz",
+  "download_time": "2026-02-24T06:16:10.018261",
+  "package_url": "https://pypi.org/project/rlane-gcal/"
+}

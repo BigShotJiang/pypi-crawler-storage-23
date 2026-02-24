@@ -1,0 +1,11 @@
+{
+  "name": "menucmd",
+  "version": "1.1.4",
+  "summary": "Command line menu interface",
+  "author": "Casey Litmer",
+  "license": "MIT",
+  "home_page": "https://github.com/Casey-Litmer/menucmd",
+  "download_filename": "menucmd-1.1.4.tar.gz",
+  "download_time": "2026-02-24T06:16:31.308125",
+  "package_url": "https://pypi.org/project/menucmd/"
+}

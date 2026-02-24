@@ -1,11 +1,11 @@
 {
   "name": "occt",
-  "version": "0.0.1",
+  "version": "1.1.2",
   "summary": "Online Compiler Collection Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "occt-0.0.1.tar.gz",
-  "download_time": "2026-02-23T03:49:21.210851",
+  "download_filename": "occt-1.1.2.tar.gz",
+  "download_time": "2026-02-24T06:15:58.727521",
   "package_url": "https://pypi.org/project/occt/"
 }

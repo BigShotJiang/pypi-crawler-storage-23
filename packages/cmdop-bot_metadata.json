@@ -1,11 +1,11 @@
 {
   "name": "cmdop-bot",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "CMDOP Bot - Multi-channel bot integrations for remote machine access",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmdop_bot-0.1.7.tar.gz",
-  "download_time": "2026-02-20T16:58:42.383944",
+  "download_filename": "cmdop_bot-0.1.8.tar.gz",
+  "download_time": "2026-02-24T06:16:19.250118",
   "package_url": "https://pypi.org/project/cmdop-bot/"
 }

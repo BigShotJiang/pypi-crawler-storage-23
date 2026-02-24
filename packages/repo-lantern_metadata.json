@@ -1,0 +1,11 @@
+{
+  "name": "repo-lantern",
+  "version": "0.1.2",
+  "summary": "Your repository mentor - AI-guided codebase analysis with psychology-driven design",
+  "author": "Po-wei Huang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo_lantern-0.1.2.tar.gz",
+  "download_time": "2026-02-24T06:16:18.132242",
+  "package_url": "https://pypi.org/project/repo-lantern/"
+}
