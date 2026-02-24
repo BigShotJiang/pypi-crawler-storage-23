@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-cache",
+  "version": "3.0.4",
+  "summary": "GraphRAG cache package.",
+  "author": "Mónica Carvajal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphrag_cache-3.0.4.tar.gz",
+  "download_time": "2026-02-24T23:00:26.647800",
+  "package_url": "https://pypi.org/project/graphrag-cache/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zipstrain",
-  "version": "0.4.16",
+  "version": "0.4.17",
   "summary": null,
   "author": "ParsaGhadermazi",
   "license": null,
   "home_page": null,
-  "download_filename": "zipstrain-0.4.16.tar.gz",
-  "download_time": "2026-02-24T21:58:10.874772",
+  "download_filename": "zipstrain-0.4.17.tar.gz",
+  "download_time": "2026-02-24T23:00:15.524028",
   "package_url": "https://pypi.org/project/zipstrain/"
 }

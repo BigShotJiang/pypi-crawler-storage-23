@@ -1,11 +1,11 @@
 {
   "name": "minnt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Minimalistic Neural Network Trainer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minnt-1.0.3.tar.gz",
-  "download_time": "2026-02-21T17:19:15.604576",
+  "download_filename": "minnt-1.0.4.tar.gz",
+  "download_time": "2026-02-24T23:00:36.085794",
   "package_url": "https://pypi.org/project/minnt/"
 }

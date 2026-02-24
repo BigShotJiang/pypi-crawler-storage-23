@@ -1,0 +1,11 @@
+{
+  "name": "poincare",
+  "version": "1.0.0",
+  "summary": "Simulation of dynamical systems.",
+  "author": "Hernán E. Grecco, Mauro Silberberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "poincare-1.0.0.tar.gz",
+  "download_time": "2026-02-24T23:00:24.564416",
+  "package_url": "https://pypi.org/project/poincare/"
+}

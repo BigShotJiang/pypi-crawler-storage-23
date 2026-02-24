@@ -1,0 +1,11 @@
+{
+  "name": "pylattica",
+  "version": "0.1.5",
+  "summary": "pylattica is a package for fast prototyping of lattice models for chemistry and materials science",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylattica-0.1.5.tar.gz",
+  "download_time": "2026-02-24T23:00:12.870406",
+  "package_url": "https://pypi.org/project/pylattica/"
+}

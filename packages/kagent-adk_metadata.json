@@ -1,11 +1,11 @@
 {
   "name": "kagent-adk",
-  "version": "0.7.17",
+  "version": "0.7.18",
   "summary": "kagent-adk is an sdk for integrating adk agents with kagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagent_adk-0.7.17.tar.gz",
-  "download_time": "2026-02-19T19:08:09.785140",
+  "download_filename": "kagent_adk-0.7.18.tar.gz",
+  "download_time": "2026-02-24T23:00:38.692765",
   "package_url": "https://pypi.org/project/kagent-adk/"
 }

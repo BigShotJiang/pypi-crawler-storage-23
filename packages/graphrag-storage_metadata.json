@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-storage",
+  "version": "3.0.4",
+  "summary": "GraphRAG storage package.",
+  "author": "Mónica Carvajal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrag_storage-3.0.4.tar.gz",
+  "download_time": "2026-02-24T23:00:30.836953",
+  "package_url": "https://pypi.org/project/graphrag-storage/"
+}

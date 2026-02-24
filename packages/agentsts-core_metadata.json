@@ -1,11 +1,11 @@
 {
   "name": "agentsts-core",
-  "version": "0.7.17",
+  "version": "0.7.18",
   "summary": "Security Token Service client implementing RFC 8693 OAuth 2.0 Token Exchange",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentsts_core-0.7.17.tar.gz",
-  "download_time": "2026-02-19T19:08:12.347750",
+  "download_filename": "agentsts_core-0.7.18.tar.gz",
+  "download_time": "2026-02-24T23:00:40.252082",
   "package_url": "https://pypi.org/project/agentsts-core/"
 }

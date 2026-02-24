@@ -1,11 +1,11 @@
 {
   "name": "qmricolors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for easy access to the lipari and navia colormaps for quantitative MRI visualization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qmricolors-0.1.1.tar.gz",
-  "download_time": "2026-02-24T22:26:54.970116",
+  "download_filename": "qmricolors-0.1.2.tar.gz",
+  "download_time": "2026-02-24T23:00:10.247870",
   "package_url": "https://pypi.org/project/qmricolors/"
 }

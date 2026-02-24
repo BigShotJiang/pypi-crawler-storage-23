@@ -1,11 +1,11 @@
 {
   "name": "siglus-ssu",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "SiglusEngine scene script utility for compiling/extracting scripts and data (Rust-accelerated).",
   "author": "Jirehlov",
   "license": null,
   "home_page": null,
-  "download_filename": "siglus_ssu-0.1.8-cp314-cp314-macosx_10_15_x86_64.whl",
-  "download_time": "2026-02-24T12:40:43.953549",
+  "download_filename": "siglus_ssu-0.1.9.tar.gz",
+  "download_time": "2026-02-24T23:00:14.440060",
   "package_url": "https://pypi.org/project/siglus-ssu/"
 }

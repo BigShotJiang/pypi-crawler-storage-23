@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-chunking",
+  "version": "3.0.4",
+  "summary": "Chunking utilities for GraphRAG",
+  "author": "Mónica Carvajal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrag_chunking-3.0.4.tar.gz",
+  "download_time": "2026-02-24T23:00:27.710488",
+  "package_url": "https://pypi.org/project/graphrag-chunking/"
+}

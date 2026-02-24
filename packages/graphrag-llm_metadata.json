@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-llm",
+  "version": "3.0.4",
+  "summary": "GraphRAG LLM package.",
+  "author": "Mónica Carvajal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphrag_llm-3.0.4.tar.gz",
+  "download_time": "2026-02-24T23:00:29.789184",
+  "package_url": "https://pypi.org/project/graphrag-llm/"
+}

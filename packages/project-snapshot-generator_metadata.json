@@ -1,0 +1,11 @@
+{
+  "name": "project-snapshot-generator",
+  "version": "0.1.1",
+  "summary": "Generates a complete textual snapshot of a project's source code and directory structure for LLM consumption.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "project_snapshot_generator-0.1.1.tar.gz",
+  "download_time": "2026-02-24T23:00:43.363964",
+  "package_url": "https://pypi.org/project/project-snapshot-generator/"
+}

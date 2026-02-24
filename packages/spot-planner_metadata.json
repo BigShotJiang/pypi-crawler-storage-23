@@ -1,0 +1,11 @@
+{
+  "name": "spot-planner",
+  "version": "0.3.10",
+  "summary": "Algorithm for finding the cheapest periods in a sequence of prices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spot_planner-0.3.10.tar.gz",
+  "download_time": "2026-02-24T23:00:31.367171",
+  "package_url": "https://pypi.org/project/spot-planner/"
+}

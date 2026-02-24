@@ -1,11 +1,11 @@
 {
   "name": "rosalia-wfi",
-  "version": "0.9.7.4",
+  "version": "0.9.7.5",
   "summary": "A software to calibrate the sky background of Space Telescope images",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "rosalia_wfi-0.9.7.4.tar.gz",
-  "download_time": "2026-02-24T18:40:06.064906",
+  "download_filename": "rosalia_wfi-0.9.7.5.tar.gz",
+  "download_time": "2026-02-24T23:00:27.191162",
   "package_url": "https://pypi.org/project/rosalia-wfi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "napari-convpaint",
+  "version": "0.9.1",
+  "summary": "A plugin for segmentation by pixel classification using pre-trained neural networks for feature extraction",
+  "author": "Guillaume Witz",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/guiwitz/napari-convpaint",
+  "download_filename": "napari_convpaint-0.9.1-py3-none-any.whl",
+  "download_time": "2026-02-24T23:00:44.419408",
+  "package_url": "https://pypi.org/project/napari-convpaint/"
+}
