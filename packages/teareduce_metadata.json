@@ -1,0 +1,11 @@
+{
+  "name": "teareduce",
+  "version": "0.7.4",
+  "summary": "Utilities for astronomical data reduction",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "teareduce-0.7.4.tar.gz",
+  "download_time": "2026-02-24T17:43:54.448480",
+  "package_url": "https://pypi.org/project/teareduce/"
+}

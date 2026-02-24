@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-relevance-feedback",
+  "version": "0.1.1",
+  "summary": "Qdrant's relevance feedback model training",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdrant_relevance_feedback-0.1.1.tar.gz",
+  "download_time": "2026-02-24T17:43:44.137265",
+  "package_url": "https://pypi.org/project/qdrant-relevance-feedback/"
+}

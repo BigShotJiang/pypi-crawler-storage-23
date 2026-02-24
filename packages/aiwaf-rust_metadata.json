@@ -1,0 +1,11 @@
+{
+  "name": "aiwaf-rust",
+  "version": "0.1.1",
+  "summary": "Rust-powered WAF heuristics exposed to Python via PyO3",
+  "author": "AIWAF maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiwaf_rust-0.1.1.tar.gz",
+  "download_time": "2026-02-24T17:44:17.118345",
+  "package_url": "https://pypi.org/project/aiwaf-rust/"
+}

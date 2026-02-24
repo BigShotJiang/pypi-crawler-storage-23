@@ -1,11 +1,11 @@
 {
   "name": "arch-sparring-agent",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "summary": "Multi-agent architecture review system using AWS Bedrock",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arch_sparring_agent-0.9.4.tar.gz",
-  "download_time": "2026-02-24T15:42:24.667210",
+  "download_filename": "arch_sparring_agent-0.9.6.tar.gz",
+  "download_time": "2026-02-24T17:44:04.756539",
   "package_url": "https://pypi.org/project/arch-sparring-agent/"
 }

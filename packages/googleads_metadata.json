@@ -1,0 +1,11 @@
+{
+  "name": "googleads",
+  "version": "49.0.0",
+  "summary": "Google Ads Python Client Library",
+  "author": "Mark Saniscalchi",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/googleads/googleads-python-lib",
+  "download_filename": "googleads-49.0.0.tar.gz",
+  "download_time": "2026-02-24T17:44:15.568457",
+  "package_url": "https://pypi.org/project/googleads/"
+}

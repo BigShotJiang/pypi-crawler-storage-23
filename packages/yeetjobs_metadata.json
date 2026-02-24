@@ -1,0 +1,11 @@
+{
+  "name": "yeetjobs",
+  "version": "0.1.0",
+  "summary": "Yeet code at Slurm clusters. A Modal-like abstraction for multi-cluster Slurm job submission.",
+  "author": "Dariush Wahdany",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yeetjobs-0.1.0.tar.gz",
+  "download_time": "2026-02-24T17:43:43.626176",
+  "package_url": "https://pypi.org/project/yeetjobs/"
+}

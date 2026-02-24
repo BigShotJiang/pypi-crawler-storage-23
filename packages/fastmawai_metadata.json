@@ -1,11 +1,11 @@
 {
   "name": "fastmawai",
-  "version": "1.0.9",
+  "version": "1.0.18",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastmawai-1.0.9.tar.gz",
-  "download_time": "2026-02-24T16:45:06.991947",
+  "download_filename": "fastmawai-1.0.18.tar.gz",
+  "download_time": "2026-02-24T17:43:58.580890",
   "package_url": "https://pypi.org/project/fastmawai/"
 }

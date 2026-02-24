@@ -1,11 +1,11 @@
 {
   "name": "browsy-automation",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Intelligent web automation powered by Playwright, MCP, and OpenAI LLM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "browsy_automation-0.1.0.tar.gz",
-  "download_time": "2026-02-23T12:49:25.168862",
+  "download_filename": "browsy_automation-0.3.0.tar.gz",
+  "download_time": "2026-02-24T17:44:19.190144",
   "package_url": "https://pypi.org/project/browsy-automation/"
 }

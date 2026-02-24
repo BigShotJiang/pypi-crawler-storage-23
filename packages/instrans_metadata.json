@@ -1,11 +1,11 @@
 {
   "name": "instrans",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "summary": "Simble small library to convenient binary code assemble / disassemble",
   "author": "Xenely",
   "license": null,
   "home_page": null,
-  "download_filename": "instrans-1.0.0.tar.gz",
-  "download_time": "2026-02-24T11:07:31.705855",
+  "download_filename": "instrans-1.4.0.tar.gz",
+  "download_time": "2026-02-24T17:43:59.094706",
   "package_url": "https://pypi.org/project/instrans/"
 }

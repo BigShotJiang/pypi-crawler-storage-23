@@ -1,11 +1,11 @@
 {
   "name": "PayPerTranscript",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "Open-Source Voice-to-Text mit Pay-per-Use Pricing",
   "author": "PayPerTranscript Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "paypertranscript-0.2.9.tar.gz",
-  "download_time": "2026-02-18T21:57:24.952950",
+  "download_filename": "paypertranscript-0.3.0.tar.gz",
+  "download_time": "2026-02-24T17:44:21.268708",
   "package_url": "https://pypi.org/project/PayPerTranscript/"
 }

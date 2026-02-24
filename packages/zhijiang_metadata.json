@@ -1,11 +1,11 @@
 {
   "name": "zhijiang",
-  "version": "0.9.95",
+  "version": "0.9.97",
   "summary": "setup linux env, such as bashrc etc.",
   "author": "Xu Zhijiang",
   "license": null,
   "home_page": "https://github.com/xu-zhijiang/env-setup.git",
-  "download_filename": "zhijiang-0.9.95-py3-none-any.whl",
-  "download_time": "2026-02-22T19:24:06.766732",
+  "download_filename": "zhijiang-0.9.97-py3-none-any.whl",
+  "download_time": "2026-02-24T17:44:16.095788",
   "package_url": "https://pypi.org/project/zhijiang/"
 }

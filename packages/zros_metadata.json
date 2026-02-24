@@ -1,11 +1,11 @@
 {
   "name": "zros",
-  "version": "0.1.9",
-  "summary": "ZROS: ZeroMQ ROS-like framework",
+  "version": "0.1.13",
+  "summary": "ZROS: A fast, lightweight ROS-like library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zros-0.1.9.tar.gz",
-  "download_time": "2026-02-21T22:59:49.095021",
+  "download_filename": "zros-0.1.13.tar.gz",
+  "download_time": "2026-02-24T17:43:51.365824",
   "package_url": "https://pypi.org/project/zros/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-kms-sdk",
+  "version": "1.0.1",
+  "summary": "Official Hanzo KMS Python SDK",
+  "author": "Hanzo AI Inc.",
+  "license": null,
+  "home_page": "https://github.com/hanzokms/python-sdk",
+  "download_filename": "hanzo_kms_sdk-1.0.1.tar.gz",
+  "download_time": "2026-02-24T17:43:47.233986",
+  "package_url": "https://pypi.org/project/hanzo-kms-sdk/"
+}
