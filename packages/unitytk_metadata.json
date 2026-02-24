@@ -1,0 +1,11 @@
+{
+  "name": "unitytk",
+  "version": "0.0.1",
+  "summary": "A modular Python toolkit for Unity interaction.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unitytk-0.0.1.tar.gz",
+  "download_time": "2026-02-24T21:34:30.853252",
+  "package_url": "https://pypi.org/project/unitytk/"
+}

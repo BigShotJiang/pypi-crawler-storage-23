@@ -1,0 +1,11 @@
+{
+  "name": "pipen-report",
+  "version": "1.1.1",
+  "summary": "Report generation system for pipen",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipen_report-1.1.1.tar.gz",
+  "download_time": "2026-02-24T21:34:25.982059",
+  "package_url": "https://pypi.org/project/pipen-report/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dapr-ext-strands-dev",
-  "version": "1.17.0.dev80",
+  "version": "1.17.0.dev81",
   "summary": "The developmental release for the Dapr Session Manager extension for Strands Agents",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "dapr_ext_strands_dev-1.17.0.dev80.tar.gz",
-  "download_time": "2026-02-24T10:09:29.798761",
+  "download_filename": "dapr_ext_strands_dev-1.17.0.dev81.tar.gz",
+  "download_time": "2026-02-24T21:34:17.693066",
   "package_url": "https://pypi.org/project/dapr-ext-strands-dev/"
 }

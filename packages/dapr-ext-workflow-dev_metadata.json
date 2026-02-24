@@ -1,11 +1,11 @@
 {
   "name": "dapr-ext-workflow-dev",
-  "version": "1.17.0.dev80",
+  "version": "1.17.0.dev81",
   "summary": "The developmental release for Dapr Workflow Authoring.",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "dapr_ext_workflow_dev-1.17.0.dev80.tar.gz",
-  "download_time": "2026-02-24T10:09:33.176663",
+  "download_filename": "dapr_ext_workflow_dev-1.17.0.dev81.tar.gz",
+  "download_time": "2026-02-24T21:34:21.599887",
   "package_url": "https://pypi.org/project/dapr-ext-workflow-dev/"
 }

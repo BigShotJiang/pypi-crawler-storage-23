@@ -1,0 +1,11 @@
+{
+  "name": "pymissive",
+  "version": "0.1.1",
+  "summary": "Framework-agnostic messaging library for multi-channel communication.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymissive-0.1.1.tar.gz",
+  "download_time": "2026-02-24T21:34:43.391858",
+  "package_url": "https://pypi.org/project/pymissive/"
+}

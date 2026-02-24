@@ -1,0 +1,11 @@
+{
+  "name": "ubicoders-g2opy",
+  "version": "2.1.9",
+  "summary": "g2o: A General Framework for Graph Optimization (Python bindings)",
+  "author": "Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubicoders_g2opy-2.1.9-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-24T21:35:06.714443",
+  "package_url": "https://pypi.org/project/ubicoders-g2opy/"
+}

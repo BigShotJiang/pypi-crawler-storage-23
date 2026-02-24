@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "19.6.9",
+  "version": "19.6.17",
   "summary": "Memory-efficient training for large language models",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-19.6.9-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-24T03:47:10.663487",
+  "download_filename": "quarterbit-19.6.17-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-24T21:34:10.702846",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

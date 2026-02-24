@@ -1,0 +1,11 @@
+{
+  "name": "blfs-pm",
+  "version": "1.0.7",
+  "summary": "Package manager for Beyond Linux from Scratch (BLFS) system",
+  "author": null,
+  "license": "LGPL",
+  "home_page": "https://github.com/ahron-maslin/BLFS-automation",
+  "download_filename": "blfs_pm-1.0.7.tar.gz",
+  "download_time": "2026-02-24T21:34:15.120256",
+  "package_url": "https://pypi.org/project/blfs-pm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "semparse",
-  "version": "0.1.0",
-  "summary": "Semparse Python package stub for PyPI name reservation.",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Semparse.",
   "author": "Semparse",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "semparse-0.1.0.tar.gz",
-  "download_time": "2026-02-24T20:56:44.753548",
+  "download_filename": "semparse-0.1.1.tar.gz",
+  "download_time": "2026-02-24T21:35:10.477877",
   "package_url": "https://pypi.org/project/semparse/"
 }

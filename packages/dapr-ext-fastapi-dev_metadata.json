@@ -1,11 +1,11 @@
 {
   "name": "dapr-ext-fastapi-dev",
-  "version": "1.17.0.dev80",
+  "version": "1.17.0.dev81",
   "summary": "The developmental release for Dapr FastAPI extension.",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "dapr_ext_fastapi_dev-1.17.0.dev80.tar.gz",
-  "download_time": "2026-02-24T10:09:31.545977",
+  "download_filename": "dapr_ext_fastapi_dev-1.17.0.dev81.tar.gz",
+  "download_time": "2026-02-24T21:34:18.988005",
   "package_url": "https://pypi.org/project/dapr-ext-fastapi-dev/"
 }

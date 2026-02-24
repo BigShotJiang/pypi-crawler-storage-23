@@ -1,0 +1,11 @@
+{
+  "name": "conn-server",
+  "version": "0.1.0",
+  "summary": "Remote control server for Claude CLI",
+  "author": "Patrick Bucaria",
+  "license": null,
+  "home_page": null,
+  "download_filename": "conn_server-0.1.0.tar.gz",
+  "download_time": "2026-02-24T21:34:58.039821",
+  "package_url": "https://pypi.org/project/conn-server/"
+}

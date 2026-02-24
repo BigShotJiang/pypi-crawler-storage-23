@@ -1,11 +1,11 @@
 {
   "name": "biblelib",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Utilities for working with metadata for Bible books, references, pericopes, and other units.",
   "author": "Sean Boisen",
   "license": null,
   "home_page": "https://github.com/Clear-Bible/Biblelib/",
-  "download_filename": "biblelib-0.4.0.tar.gz",
-  "download_time": "2026-02-24T01:10:23.103896",
+  "download_filename": "biblelib-0.5.0.tar.gz",
+  "download_time": "2026-02-24T21:35:03.192513",
   "package_url": "https://pypi.org/project/biblelib/"
 }

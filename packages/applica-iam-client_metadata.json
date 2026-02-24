@@ -1,0 +1,11 @@
+{
+  "name": "applica-iam-client",
+  "version": "0.1.1",
+  "summary": "Python client for the Applica IAM service",
+  "author": "Applica Software Guru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "applica_iam_client-0.1.1.tar.gz",
+  "download_time": "2026-02-24T21:35:08.041816",
+  "package_url": "https://pypi.org/project/applica-iam-client/"
+}

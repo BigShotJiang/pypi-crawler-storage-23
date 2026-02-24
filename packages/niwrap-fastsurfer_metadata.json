@@ -1,0 +1,11 @@
+{
+  "name": "niwrap-fastsurfer",
+  "version": "0.8.13",
+  "summary": "Neuroimaging wrappers.",
+  "author": "CMI DAIR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "niwrap_fastsurfer-0.8.13.tar.gz",
+  "download_time": "2026-02-24T21:34:38.413291",
+  "package_url": "https://pypi.org/project/niwrap-fastsurfer/"
+}
