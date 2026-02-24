@@ -1,11 +1,11 @@
 {
   "name": "diagrid",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Diagrid namespace package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diagrid-0.1.10.tar.gz",
-  "download_time": "2026-02-20T23:49:33.419850",
+  "download_filename": "diagrid-0.1.11.tar.gz",
+  "download_time": "2026-02-24T03:46:31.362473",
   "package_url": "https://pypi.org/project/diagrid/"
 }

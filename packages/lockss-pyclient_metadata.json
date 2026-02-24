@@ -1,0 +1,11 @@
+{
+  "name": "lockss-pyclient",
+  "version": "0.1.0.dev5",
+  "summary": "LOCKSS Python clients",
+  "author": "Thib Guicherd-Callin",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/lockss/lockss-pyclient",
+  "download_filename": "lockss_pyclient-0.1.0.dev5.tar.gz",
+  "download_time": "2026-02-24T03:46:58.970245",
+  "package_url": "https://pypi.org/project/lockss-pyclient/"
+}

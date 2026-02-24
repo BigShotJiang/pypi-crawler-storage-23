@@ -1,0 +1,11 @@
+{
+  "name": "galah-python",
+  "version": "0.13.0",
+  "summary": "Get counts and information on species from many different atlases",
+  "author": "Amanda Buyan",
+  "license": "MPL-2.0",
+  "home_page": "https://galah.ala.org.au/Python/",
+  "download_filename": "galah_python-0.13.0-py3-none-any.whl",
+  "download_time": "2026-02-24T03:47:10.145227",
+  "package_url": "https://pypi.org/project/galah-python/"
+}

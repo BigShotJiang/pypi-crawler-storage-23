@@ -1,0 +1,11 @@
+{
+  "name": "regexapp",
+  "version": "0.6.2",
+  "summary": "A versatile utility that generates regex patterns seamlessly from plain text or structured input, simplifying validation, filtering, and pattern‑matching workflows.",
+  "author": "Tuyen Mathew Duong",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Geeks-Trident-LLC/regexapp",
+  "download_filename": "regexapp-0.6.2.tar.gz",
+  "download_time": "2026-02-24T03:46:38.598280",
+  "package_url": "https://pypi.org/project/regexapp/"
+}

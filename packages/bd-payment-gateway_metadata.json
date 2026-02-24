@@ -1,0 +1,11 @@
+{
+  "name": "bd-payment-gateway",
+  "version": "0.1.3",
+  "summary": "Python bindings for Bangladesh payment gateway SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bd_payment_gateway-0.1.3.tar.gz",
+  "download_time": "2026-02-24T03:46:55.333083",
+  "package_url": "https://pypi.org/project/bd-payment-gateway/"
+}

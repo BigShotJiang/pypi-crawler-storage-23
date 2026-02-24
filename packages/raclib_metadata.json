@@ -1,0 +1,11 @@
+{
+  "name": "raclib",
+  "version": "1.1.0",
+  "summary": "Библиотека на языке Python, которая позволяет взаимодействовать с сервером администрирования 1С через утилиту RAC, предоставляя соответствующие сущности.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raclib-1.1.0.tar.gz",
+  "download_time": "2026-02-24T03:46:56.882168",
+  "package_url": "https://pypi.org/project/raclib/"
+}

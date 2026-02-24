@@ -1,0 +1,11 @@
+{
+  "name": "branch-ctx",
+  "version": "0.1.4",
+  "summary": "Git branch context manager - sync context folders across branches automatically",
+  "author": "lucasvtiradentes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "branch_ctx-0.1.4.tar.gz",
+  "download_time": "2026-02-24T03:46:49.151936",
+  "package_url": "https://pypi.org/project/branch-ctx/"
+}

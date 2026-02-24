@@ -1,0 +1,11 @@
+{
+  "name": "genericlib",
+  "version": "0.6.3",
+  "summary": "The Generic Python Library accelerates development with reusable utilities, supporting regexapp and textfsmgen while streamlining workflows, reducing redundancy, and enabling efficient, adaptable, maintainable applications.",
+  "author": "Tuyen Mathew Duong",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Geeks-Trident-LLC/genericlib",
+  "download_filename": "genericlib-0.6.3.tar.gz",
+  "download_time": "2026-02-24T03:46:48.638390",
+  "package_url": "https://pypi.org/project/genericlib/"
+}

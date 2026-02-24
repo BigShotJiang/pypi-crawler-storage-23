@@ -1,0 +1,11 @@
+{
+  "name": "mcc-mnc-p1",
+  "version": "1.0.1",
+  "summary": "A set of lookup tables for identifiers related to mobile operators and accompanying command-line tools",
+  "author": "Benoit Michau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcc_mnc_p1-1.0.1.tar.gz",
+  "download_time": "2026-02-24T03:46:43.975467",
+  "package_url": "https://pypi.org/project/mcc-mnc-p1/"
+}

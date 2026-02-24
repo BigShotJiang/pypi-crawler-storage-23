@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-openupgrade-scripts",
-  "version": "19.0.1.0.0.20",
+  "version": "19.0.1.0.0.24",
   "summary": "Module that contains all the migrations analysis and scripts for migrate Odoo SA modules.",
   "author": "Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/OpenUpgrade",
-  "download_filename": "odoo_addon_openupgrade_scripts-19.0.1.0.0.20-py3-none-any.whl",
-  "download_time": "2026-02-20T03:40:45.769376",
+  "download_filename": "odoo_addon_openupgrade_scripts-19.0.1.0.0.24-py3-none-any.whl",
+  "download_time": "2026-02-24T03:46:41.271971",
   "package_url": "https://pypi.org/project/odoo-addon-openupgrade-scripts/"
 }
