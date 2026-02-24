@@ -1,0 +1,11 @@
+{
+  "name": "trspecfit",
+  "version": "0.4.3",
+  "summary": "Fit 2D time- and energy-resolved spectroscopy data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trspecfit-0.4.3.tar.gz",
+  "download_time": "2026-02-24T22:26:33.657071",
+  "package_url": "https://pypi.org/project/trspecfit/"
+}

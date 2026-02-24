@@ -1,0 +1,11 @@
+{
+  "name": "varuintarray",
+  "version": "1.0.1",
+  "summary": "A variable-length unsinged integer array",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "varuintarray-1.0.1.tar.gz",
+  "download_time": "2026-02-24T22:27:15.690536",
+  "package_url": "https://pypi.org/project/varuintarray/"
+}

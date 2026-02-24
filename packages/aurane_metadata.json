@@ -1,0 +1,11 @@
+{
+  "name": "aurane",
+  "version": "1.0.2",
+  "summary": "A modern domain-specific language for machine learning that compiles to PyTorch",
+  "author": "Desenyon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aurane-1.0.2.tar.gz",
+  "download_time": "2026-02-24T22:27:16.207378",
+  "package_url": "https://pypi.org/project/aurane/"
+}

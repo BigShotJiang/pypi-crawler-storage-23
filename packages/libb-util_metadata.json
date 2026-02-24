@@ -1,0 +1,11 @@
+{
+  "name": "libb-util",
+  "version": "0.0.32",
+  "summary": "libb utility modules for python",
+  "author": null,
+  "license": "0BSD",
+  "home_page": null,
+  "download_filename": "libb_util-0.0.32.tar.gz",
+  "download_time": "2026-02-24T22:26:41.973648",
+  "package_url": "https://pypi.org/project/libb-util/"
+}

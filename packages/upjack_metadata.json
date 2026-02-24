@@ -1,0 +1,11 @@
+{
+  "name": "upjack",
+  "version": "0.0.1",
+  "summary": "Schema-driven entity management for AI-native applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "upjack-0.0.1.tar.gz",
+  "download_time": "2026-02-24T22:26:46.151493",
+  "package_url": "https://pypi.org/project/upjack/"
+}

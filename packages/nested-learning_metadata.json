@@ -1,0 +1,11 @@
+{
+  "name": "nested-learning",
+  "version": "0.2.0",
+  "summary": "Reproduction of Google's Nested Learning (HOPE) architecture",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nested_learning-0.2.0.tar.gz",
+  "download_time": "2026-02-24T22:27:16.759599",
+  "package_url": "https://pypi.org/project/nested-learning/"
+}

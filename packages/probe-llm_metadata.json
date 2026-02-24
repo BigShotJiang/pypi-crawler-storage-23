@@ -1,0 +1,11 @@
+{
+  "name": "probe-llm",
+  "version": "0.1.0",
+  "summary": "Behavioral testing framework for LLMs — test properties, not benchmarks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "probe_llm-0.1.0.tar.gz",
+  "download_time": "2026-02-24T22:26:59.614893",
+  "package_url": "https://pypi.org/project/probe-llm/"
+}

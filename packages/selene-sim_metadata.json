@@ -1,0 +1,11 @@
+{
+  "name": "selene-sim",
+  "version": "0.2.11",
+  "summary": "Quantinuum's open source emulator for hybrid quantum computation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selene_sim-0.2.11-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-24T22:26:51.851915",
+  "package_url": "https://pypi.org/project/selene-sim/"
+}

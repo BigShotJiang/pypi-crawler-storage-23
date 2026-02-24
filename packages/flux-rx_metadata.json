@@ -1,0 +1,11 @@
+{
+  "name": "flux-rx",
+  "version": "1.0.0",
+  "summary": "A stock market analysis and visualization Python package.",
+  "author": "Flux-RX Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flux_rx-1.0.0.tar.gz",
+  "download_time": "2026-02-24T22:27:01.666000",
+  "package_url": "https://pypi.org/project/flux-rx/"
+}

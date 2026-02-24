@@ -1,0 +1,11 @@
+{
+  "name": "logkaren",
+  "version": "1.0.0",
+  "summary": "A beautiful, colorful Python logging library by karenhoyoshi",
+  "author": "karenhoyoshi",
+  "license": "MIT",
+  "home_page": "https://github.com/karenhoyoshi/logkaren",
+  "download_filename": "logkaren-1.0.0.tar.gz",
+  "download_time": "2026-02-24T22:26:56.518594",
+  "package_url": "https://pypi.org/project/logkaren/"
+}

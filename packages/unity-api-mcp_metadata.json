@@ -1,0 +1,11 @@
+{
+  "name": "unity-api-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server providing ground-truth Unity 6 API documentation — prevents AI hallucination of signatures, namespaces, and deprecated APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unity_api_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-24T22:27:05.861172",
+  "package_url": "https://pypi.org/project/unity-api-mcp/"
+}

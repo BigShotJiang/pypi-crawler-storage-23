@@ -1,11 +1,11 @@
 {
   "name": "DiExpress",
-  "version": "0.0.5",
-  "summary": "Python package for paper DiExpress",
+  "version": "0.0.11",
+  "summary": "Multi-omics drug response prediction toolkit",
   "author": "Phuc Pham",
   "license": null,
   "home_page": "https://github.com/HySonLab/DiExpress",
-  "download_filename": "diexpress-0.0.5.tar.gz",
-  "download_time": "2026-02-23T23:24:55.999869",
+  "download_filename": "diexpress-0.0.11.tar.gz",
+  "download_time": "2026-02-24T22:26:45.636046",
   "package_url": "https://pypi.org/project/DiExpress/"
 }

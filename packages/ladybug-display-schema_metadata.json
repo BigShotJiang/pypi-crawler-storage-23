@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-display-schema",
+  "version": "1.0.1",
+  "summary": "Ladybug-display Data-Model Objects",
+  "author": "Ladybug Tools",
+  "license": null,
+  "home_page": "https://github.com/ladybug-tools/ladybug-display-schema",
+  "download_filename": "ladybug_display_schema-1.0.1.tar.gz",
+  "download_time": "2026-02-24T22:26:40.417555",
+  "package_url": "https://pypi.org/project/ladybug-display-schema/"
+}

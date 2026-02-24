@@ -1,0 +1,11 @@
+{
+  "name": "lakekeeper",
+  "version": "0.0.4",
+  "summary": "Safe compaction of Hive external tables on on-premises Kerberized Hadoop clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lakekeeper-0.0.4.tar.gz",
+  "download_time": "2026-02-24T22:26:52.888193",
+  "package_url": "https://pypi.org/project/lakekeeper/"
+}
