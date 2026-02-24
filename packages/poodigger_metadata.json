@@ -1,0 +1,11 @@
+{
+  "name": "poodigger",
+  "version": "1.0.3",
+  "summary": "Blogger Comment Digging Toolkit",
+  "author": "Asinerum Conlang Project",
+  "license": "MIT",
+  "home_page": "https://github.com/asinerum/poodigger",
+  "download_filename": "poodigger-1.0.3.tar.gz",
+  "download_time": "2026-02-24T16:45:18.887101",
+  "package_url": "https://pypi.org/project/poodigger/"
+}

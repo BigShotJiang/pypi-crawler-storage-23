@@ -1,0 +1,11 @@
+{
+  "name": "acorgdb",
+  "version": "0.1.5",
+  "summary": "Tools for interacting with acorg antigen, antisera and titration databases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acorgdb-0.1.5.tar.gz",
+  "download_time": "2026-02-24T16:45:27.284040",
+  "package_url": "https://pypi.org/project/acorgdb/"
+}

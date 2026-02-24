@@ -1,11 +1,11 @@
 {
   "name": "crow-security-ng",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "A modern Python library for the Crow Cloud API - Next Generation",
   "author": "Crow Security NG Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crow_security_ng-0.1.8.tar.gz",
-  "download_time": "2026-02-24T09:08:22.084622",
+  "download_filename": "crow_security_ng-0.2.0.tar.gz",
+  "download_time": "2026-02-24T16:45:11.635811",
   "package_url": "https://pypi.org/project/crow-security-ng/"
 }

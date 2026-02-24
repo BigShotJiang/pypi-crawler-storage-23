@@ -1,11 +1,11 @@
 {
   "name": "n1-brightdata",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "CLI browser agent using n1 with Bright Data Scraping Browser.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "n1_brightdata-0.2.1.tar.gz",
-  "download_time": "2026-02-24T12:40:53.780024",
+  "download_filename": "n1_brightdata-0.2.2.tar.gz",
+  "download_time": "2026-02-24T16:44:58.067143",
   "package_url": "https://pypi.org/project/n1-brightdata/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "open402",
+  "version": "0.1.6",
+  "summary": "Reference implementation of the x402 payment protocol for AI Agents",
+  "author": "Ag402 Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "open402-0.1.6.tar.gz",
+  "download_time": "2026-02-24T16:45:25.234114",
+  "package_url": "https://pypi.org/project/open402/"
+}

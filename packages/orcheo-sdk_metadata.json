@@ -1,11 +1,11 @@
 {
   "name": "orcheo-sdk",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "summary": "Client helpers for the Orcheo workflow orchestration platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orcheo_sdk-0.16.1.tar.gz",
-  "download_time": "2026-02-22T20:45:31.303248",
+  "download_filename": "orcheo_sdk-0.16.2.tar.gz",
+  "download_time": "2026-02-24T16:45:34.523280",
   "package_url": "https://pypi.org/project/orcheo-sdk/"
 }

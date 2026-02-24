@@ -1,11 +1,11 @@
 {
   "name": "digeo",
-  "version": "0.0.2",
-  "summary": "A library for differentiable geometry processing.",
+  "version": "0.0.4",
+  "summary": "A library for differentiable geometry.",
   "author": "Hippolyte Verninas",
   "license": null,
   "home_page": null,
-  "download_filename": "digeo-0.0.2-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-02-22T16:55:35.198069",
+  "download_filename": "digeo-0.0.4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-24T16:45:05.456102",
   "package_url": "https://pypi.org/project/digeo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "easybib",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Automatically fetch BibTeX entries from INSPIRE and ADS for LaTeX projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easybib-0.4.0.tar.gz",
-  "download_time": "2026-02-19T12:39:01.453902",
+  "download_filename": "easybib-0.5.0.tar.gz",
+  "download_time": "2026-02-24T16:45:12.147123",
   "package_url": "https://pypi.org/project/easybib/"
 }

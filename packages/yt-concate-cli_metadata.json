@@ -1,11 +1,11 @@
 {
   "name": "yt-concate-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Produce a concatenated video of clips that mention a word from a channel ID.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yt_concate_cli-0.1.1.tar.gz",
-  "download_time": "2026-02-24T11:56:29.625120",
+  "download_filename": "yt_concate_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-24T16:45:27.795212",
   "package_url": "https://pypi.org/project/yt-concate-cli/"
 }

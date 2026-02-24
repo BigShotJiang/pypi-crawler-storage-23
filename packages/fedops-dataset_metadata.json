@@ -1,0 +1,11 @@
+{
+  "name": "fedops-dataset",
+  "version": "0.3.4",
+  "summary": "Local-first dataset toolkit for multimodal federated learning artifacts (partition/feature/simulation)",
+  "author": "FedOps Dataset Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fedops_dataset-0.3.4.tar.gz",
+  "download_time": "2026-02-24T16:45:05.966603",
+  "package_url": "https://pypi.org/project/fedops-dataset/"
+}

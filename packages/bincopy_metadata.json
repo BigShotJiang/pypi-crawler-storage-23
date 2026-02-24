@@ -1,0 +1,11 @@
+{
+  "name": "bincopy",
+  "version": "20.1.1",
+  "summary": "Mangling of various file formats that conveys binary information (Motorola S-Record, Intel HEX and binary files).",
+  "author": "Erik Moqvist",
+  "license": "MIT",
+  "home_page": "https://github.com/eerimoq/bincopy",
+  "download_filename": "bincopy-20.1.1.tar.gz",
+  "download_time": "2026-02-24T16:45:00.712323",
+  "package_url": "https://pypi.org/project/bincopy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SQLAlchemy",
+  "version": "2.0.47",
+  "summary": "Database Abstraction Library",
+  "author": "Mike Bayer",
+  "license": "MIT",
+  "home_page": "https://www.sqlalchemy.org",
+  "download_filename": "sqlalchemy-2.0.47.tar.gz",
+  "download_time": "2026-02-24T16:45:22.053978",
+  "package_url": "https://pypi.org/project/SQLAlchemy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tox-ansible",
+  "version": "26.2.1",
+  "summary": "A radical approach to testing ansible content",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox_ansible-26.2.1.tar.gz",
+  "download_time": "2026-02-24T16:45:15.764969",
+  "package_url": "https://pypi.org/project/tox-ansible/"
+}

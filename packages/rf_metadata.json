@@ -1,0 +1,11 @@
+{
+  "name": "rf",
+  "version": "1.1.2",
+  "summary": "Receiver function calculation in seismology",
+  "author": "Tom Eulenfeld",
+  "license": "MIT",
+  "home_page": "https://github.com/trichter/rf",
+  "download_filename": "rf-1.1.2.tar.gz",
+  "download_time": "2026-02-24T16:45:02.811136",
+  "package_url": "https://pypi.org/project/rf/"
+}
