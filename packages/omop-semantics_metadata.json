@@ -1,0 +1,11 @@
+{
+  "name": "omop-semantics",
+  "version": "0.1.13",
+  "summary": "Add your description here",
+  "author": "gkennos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omop_semantics-0.1.13.tar.gz",
+  "download_time": "2026-02-24T05:15:31.254877",
+  "package_url": "https://pypi.org/project/omop-semantics/"
+}

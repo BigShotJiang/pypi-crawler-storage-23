@@ -1,11 +1,11 @@
 {
   "name": "three-stars",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Deploy AI-powered web applications to AWS with a single command",
   "author": "icoxfog417",
   "license": null,
   "home_page": null,
-  "download_filename": "three_stars-0.1.1.tar.gz",
-  "download_time": "2026-02-23T15:32:32.443725",
+  "download_filename": "three_stars-0.1.5.tar.gz",
+  "download_time": "2026-02-24T05:14:58.655413",
   "package_url": "https://pypi.org/project/three-stars/"
 }

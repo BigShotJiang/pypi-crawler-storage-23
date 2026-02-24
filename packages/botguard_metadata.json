@@ -1,11 +1,11 @@
 {
   "name": "botguard",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "BotGuard SDK — secure your LLM applications with multi-tier threat detection",
   "author": "BotGuard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "botguard-0.2.8.tar.gz",
-  "download_time": "2026-02-22T07:06:34.621069",
+  "download_filename": "botguard-0.2.9.tar.gz",
+  "download_time": "2026-02-24T05:15:28.007975",
   "package_url": "https://pypi.org/project/botguard/"
 }

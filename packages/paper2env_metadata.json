@@ -1,0 +1,11 @@
+{
+  "name": "paper2env",
+  "version": "1.0.0",
+  "summary": "Paper PDF to reproducible Docker environment",
+  "author": "paper2env",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paper2env-1.0.0.tar.gz",
+  "download_time": "2026-02-24T05:15:00.947175",
+  "package_url": "https://pypi.org/project/paper2env/"
+}

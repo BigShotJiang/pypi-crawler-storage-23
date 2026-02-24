@@ -1,0 +1,11 @@
+{
+  "name": "pyfigma-types",
+  "version": "0.1.1",
+  "summary": "Pydantic models and type definitions for interacting with the Figma REST API.",
+  "author": "Tho Nguyen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfigma_types-0.1.1.tar.gz",
+  "download_time": "2026-02-24T05:15:29.636454",
+  "package_url": "https://pypi.org/project/pyfigma-types/"
+}

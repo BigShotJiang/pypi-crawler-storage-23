@@ -1,11 +1,11 @@
 {
   "name": "gngram-lookup",
-  "version": "1.2.0",
+  "version": "1.2.8",
   "summary": "Static Hash-Based Lookup for Google Ngram Frequencies",
   "author": "Craig Trim",
-  "license": "Proprietary",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "gngram_lookup-1.2.0.tar.gz",
-  "download_time": "2026-02-24T03:46:50.697750",
+  "download_filename": "gngram_lookup-1.2.8.tar.gz",
+  "download_time": "2026-02-24T05:15:26.923779",
   "package_url": "https://pypi.org/project/gngram-lookup/"
 }

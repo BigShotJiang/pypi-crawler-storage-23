@@ -1,0 +1,11 @@
+{
+  "name": "aws-integration-assistant",
+  "version": "1.0.0",
+  "summary": "Automate AWS Lambda CORS configuration in seconds",
+  "author": "Tinsae",
+  "license": null,
+  "home_page": "https://github.com/Tinaaaa111/AWS_assistance",
+  "download_filename": "aws_integration_assistant-1.0.0.tar.gz",
+  "download_time": "2026-02-24T05:15:11.101921",
+  "package_url": "https://pypi.org/project/aws-integration-assistant/"
+}

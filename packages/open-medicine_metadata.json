@@ -1,11 +1,11 @@
 {
   "name": "open-medicine",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Evidence-Based Clinical Reasoning for AI Agents — deterministic calculators, clinical guidelines, and MCP tools backed by DOI-traceable evidence.",
   "author": "Felipe Ramos",
   "license": null,
   "home_page": null,
-  "download_filename": "open_medicine-0.2.0.tar.gz",
-  "download_time": "2026-02-24T03:46:38.086093",
+  "download_filename": "open_medicine-0.2.1.tar.gz",
+  "download_time": "2026-02-24T05:15:42.119046",
   "package_url": "https://pypi.org/project/open-medicine/"
 }

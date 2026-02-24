@@ -1,0 +1,11 @@
+{
+  "name": "unsealer",
+  "version": "2.0.5",
+  "summary": "Decrypt Samsung Pass and Google Authenticator data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unsealer-2.0.5.tar.gz",
+  "download_time": "2026-02-24T05:15:19.099794",
+  "package_url": "https://pypi.org/project/unsealer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smooai-logger",
+  "version": "3.3.0",
+  "summary": "Context-aware structured logging utilities for Python that mirror the @smooai/logger toolkit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smooai_logger-3.3.0-py3-none-any.whl",
+  "download_time": "2026-02-24T05:15:02.642292",
+  "package_url": "https://pypi.org/project/smooai-logger/"
+}

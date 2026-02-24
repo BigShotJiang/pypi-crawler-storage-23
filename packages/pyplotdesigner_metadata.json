@@ -1,11 +1,11 @@
 {
   "name": "pyplotdesigner",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A set of tools to help format matplotlib figures",
   "author": "gnwong",
   "license": null,
   "home_page": "https://github.com/gnwong/pyplotdesigner",
-  "download_filename": "pyplotdesigner-0.5.1.tar.gz",
-  "download_time": "2026-02-21T23:44:45.683466",
+  "download_filename": "pyplotdesigner-0.5.2-py3-none-any.whl",
+  "download_time": "2026-02-24T05:14:50.185728",
   "package_url": "https://pypi.org/project/pyplotdesigner/"
 }

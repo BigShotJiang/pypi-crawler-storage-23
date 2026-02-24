@@ -1,0 +1,11 @@
+{
+  "name": "fsm-agent-flow",
+  "version": "0.3.4",
+  "summary": "TDD/OKR-driven agentic workflow framework with verifiable state deliverables",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fsm_agent_flow-0.3.4.tar.gz",
+  "download_time": "2026-02-24T05:15:41.033591",
+  "package_url": "https://pypi.org/project/fsm-agent-flow/"
+}

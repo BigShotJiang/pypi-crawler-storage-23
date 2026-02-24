@@ -1,11 +1,11 @@
 {
   "name": "langvision",
-  "version": "0.1.56",
+  "version": "0.1.57",
   "summary": "Efficient LoRA Fine-Tuning for Vision LLMs with advanced CLI and model zoo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langvision-0.1.56.tar.gz",
-  "download_time": "2026-02-18T18:28:45.211341",
+  "download_filename": "langvision-0.1.57.tar.gz",
+  "download_time": "2026-02-24T05:15:32.885395",
   "package_url": "https://pypi.org/project/langvision/"
 }

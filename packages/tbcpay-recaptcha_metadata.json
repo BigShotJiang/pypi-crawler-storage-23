@@ -1,0 +1,11 @@
+{
+  "name": "tbcpay-recaptcha",
+  "version": "2.0.0",
+  "summary": "reCAPTCHA v3 token solver and utility bill checker for TBCPay (Georgia)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tbcpay_recaptcha-2.0.0.tar.gz",
+  "download_time": "2026-02-24T05:14:55.759146",
+  "package_url": "https://pypi.org/project/tbcpay-recaptcha/"
+}
