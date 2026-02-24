@@ -1,0 +1,11 @@
+{
+  "name": "quercle",
+  "version": "1.0.5",
+  "summary": "Official generated Python SDK for Quercle API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quercle-1.0.5.tar.gz",
+  "download_time": "2026-02-24T20:05:38.993399",
+  "package_url": "https://pypi.org/project/quercle/"
+}

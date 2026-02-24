@@ -1,0 +1,11 @@
+{
+  "name": "sweatstack-cli",
+  "version": "0.6.0",
+  "summary": "Command-line interface for SweatStack — the sports data platform for developers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sweatstack_cli-0.6.0.tar.gz",
+  "download_time": "2026-02-24T20:05:50.179553",
+  "package_url": "https://pypi.org/project/sweatstack-cli/"
+}

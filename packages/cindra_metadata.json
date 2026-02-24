@@ -1,0 +1,11 @@
+{
+  "name": "cindra",
+  "version": "1.0.0rc1",
+  "summary": "A reimplementation of the suite2p library with novel data arhetecture and accross-day tracking pipeline.",
+  "author": "Ivan Kondratyev, Kushaan Gupta, Yuantao Deng, Elaine Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cindra-1.0.0rc1.tar.gz",
+  "download_time": "2026-02-24T20:05:54.189702",
+  "package_url": "https://pypi.org/project/cindra/"
+}

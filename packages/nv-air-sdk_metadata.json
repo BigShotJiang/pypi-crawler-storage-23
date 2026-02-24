@@ -1,0 +1,11 @@
+{
+  "name": "nv-air-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for creating, running and managing simulations on NVIDIA Air",
+  "author": "Air Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nv_air_sdk-1.1.0-py3-none-any.whl",
+  "download_time": "2026-02-24T20:05:54.832266",
+  "package_url": "https://pypi.org/project/nv-air-sdk/"
+}

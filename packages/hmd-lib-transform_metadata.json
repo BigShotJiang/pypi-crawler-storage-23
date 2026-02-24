@@ -1,0 +1,11 @@
+{
+  "name": "hmd-lib-transform",
+  "version": "0.1.69",
+  "summary": "Transform service client",
+  "author": "Kate Walls",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_lib_transform-0.1.69-py3-none-any.whl",
+  "download_time": "2026-02-24T20:05:47.459337",
+  "package_url": "https://pypi.org/project/hmd-lib-transform/"
+}
