@@ -1,0 +1,11 @@
+{
+  "name": "dais-sdk",
+  "version": "0.7.0",
+  "summary": "A wrapper of LiteLLM",
+  "author": "BHznJNs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dais_sdk-0.7.0.tar.gz",
+  "download_time": "2026-02-24T11:56:32.688945",
+  "package_url": "https://pypi.org/project/dais-sdk/"
+}

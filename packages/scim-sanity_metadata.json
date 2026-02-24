@@ -1,11 +1,11 @@
 {
   "name": "scim-sanity",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "summary": "Live SCIM server conformance testing and payload validation (RFC 7643/7644)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scim_sanity-0.5.3.tar.gz",
-  "download_time": "2026-02-23T23:53:44.751506",
+  "download_filename": "scim_sanity-0.5.5.tar.gz",
+  "download_time": "2026-02-24T11:56:37.795605",
   "package_url": "https://pypi.org/project/scim-sanity/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "portable-ovscode",
+  "version": "0.2.0",
+  "summary": "Run openvscode-server anywhere with uvx",
+  "author": "WR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portable_ovscode-0.2.0.tar.gz",
+  "download_time": "2026-02-24T11:55:53.712736",
+  "package_url": "https://pypi.org/project/portable-ovscode/"
+}

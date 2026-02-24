@@ -1,11 +1,11 @@
 {
   "name": "xyz-py",
-  "version": "5.19.3",
+  "version": "5.19.4",
   "summary": "A package for manipulating xyz files and chemical structures",
   "author": "Jon Kragskow",
   "license": "GPL-3.0-or-later",
   "home_page": "https://gitlab.com/jonkragskow/xyz_py",
-  "download_filename": "xyz_py-5.19.3.tar.gz",
-  "download_time": "2026-02-20T17:35:29.566898",
+  "download_filename": "xyz_py-5.19.4.tar.gz",
+  "download_time": "2026-02-24T11:56:21.794007",
   "package_url": "https://pypi.org/project/xyz-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "propagation-exporter",
+  "version": "0.9.2",
+  "summary": "Systemd journal reader and exporter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "propagation_exporter-0.9.2.tar.gz",
+  "download_time": "2026-02-24T11:56:04.694948",
+  "package_url": "https://pypi.org/project/propagation-exporter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datarails-finance-os-mcp",
+  "version": "2.0.0",
+  "summary": "MCP server for Datarails Finance OS integration with Claude",
+  "author": "Datarails",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datarails_finance_os_mcp-2.0.0.tar.gz",
+  "download_time": "2026-02-24T11:56:12.363702",
+  "package_url": "https://pypi.org/project/datarails-finance-os-mcp/"
+}

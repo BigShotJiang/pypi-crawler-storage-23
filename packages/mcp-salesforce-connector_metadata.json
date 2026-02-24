@@ -1,0 +1,11 @@
+{
+  "name": "mcp-salesforce-connector",
+  "version": "0.1.12",
+  "summary": "A Model Context Protocol (MCP) server implementation for Salesforce integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_salesforce_connector-0.1.12.tar.gz",
+  "download_time": "2026-02-24T11:56:30.646717",
+  "package_url": "https://pypi.org/project/mcp-salesforce-connector/"
+}

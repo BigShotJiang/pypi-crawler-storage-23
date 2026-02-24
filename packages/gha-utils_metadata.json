@@ -1,11 +1,11 @@
 {
   "name": "gha-utils",
-  "version": "5.14.0",
-  "summary": "⚠️ Renamed to repokit — see https://pypi.org/project/repokit/",
+  "version": "5.14.1",
+  "summary": "⚠️ Renamed to repomatic — see https://pypi.org/project/repomatic/",
   "author": "Kevin Deldycke",
   "license": null,
   "home_page": null,
-  "download_filename": "gha_utils-5.14.0.tar.gz",
-  "download_time": "2026-02-24T09:07:45.390713",
+  "download_filename": "gha_utils-5.14.1.tar.gz",
+  "download_time": "2026-02-24T11:56:35.240907",
   "package_url": "https://pypi.org/project/gha-utils/"
 }

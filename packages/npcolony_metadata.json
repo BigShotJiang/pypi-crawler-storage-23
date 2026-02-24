@@ -1,0 +1,11 @@
+{
+  "name": "npcolony",
+  "version": "1.2.10",
+  "summary": "Colony Framework",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://colony_npapi.hive.pt",
+  "download_filename": "npcolony-1.2.10.tar.gz",
+  "download_time": "2026-02-24T11:56:37.285293",
+  "package_url": "https://pypi.org/project/npcolony/"
+}

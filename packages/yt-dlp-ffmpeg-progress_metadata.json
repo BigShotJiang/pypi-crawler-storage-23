@@ -1,0 +1,11 @@
+{
+  "name": "yt-dlp-ffmpeg-progress",
+  "version": "2026.2.21",
+  "summary": "yt-dlp fork with FFmpeg progress tracking",
+  "author": "Kenshin9977",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_dlp_ffmpeg_progress-2026.2.21.tar.gz",
+  "download_time": "2026-02-24T11:56:13.217623",
+  "package_url": "https://pypi.org/project/yt-dlp-ffmpeg-progress/"
+}

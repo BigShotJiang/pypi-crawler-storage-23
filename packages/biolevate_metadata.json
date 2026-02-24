@@ -1,0 +1,11 @@
+{
+  "name": "biolevate",
+  "version": "0.3.2",
+  "summary": "Biolevate SDK - High-level Python SDK for the Biolevate API",
+  "author": "Biolevate",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biolevate-0.3.2.tar.gz",
+  "download_time": "2026-02-24T11:55:52.182596",
+  "package_url": "https://pypi.org/project/biolevate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudbeat-pytest",
+  "version": "1.2.1",
+  "summary": "CloudBeat Pytest Kit",
+  "author": "CBNR Cloud Solutions LTD",
+  "license": "Apache-2.0",
+  "home_page": "https://cloudbeat.io",
+  "download_filename": "cloudbeat_pytest-1.2.1.tar.gz",
+  "download_time": "2026-02-24T11:56:32.178853",
+  "package_url": "https://pypi.org/project/cloudbeat-pytest/"
+}

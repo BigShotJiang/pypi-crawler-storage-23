@@ -1,11 +1,11 @@
 {
   "name": "khaleejiapi",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Official Python SDK for KhaleejiAPI - Middle East API Platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "khaleejiapi-1.1.0.tar.gz",
-  "download_time": "2026-02-22T09:53:13.070083",
+  "download_filename": "khaleejiapi-1.2.0.tar.gz",
+  "download_time": "2026-02-24T11:56:19.104327",
   "package_url": "https://pypi.org/project/khaleejiapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cloudbeat-selenium",
+  "version": "1.2.1",
+  "summary": "Selenium wrapper for CloudBeat Pytest Kit",
+  "author": "CBNR Cloud Solutions LTD",
+  "license": "Apache-2.0",
+  "home_page": "https://cloudbeat.io",
+  "download_filename": "cloudbeat_selenium-1.2.1.tar.gz",
+  "download_time": "2026-02-24T11:56:23.294479",
+  "package_url": "https://pypi.org/project/cloudbeat-selenium/"
+}

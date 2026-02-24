@@ -1,0 +1,11 @@
+{
+  "name": "pepotron",
+  "version": "1.6.0",
+  "summary": "CLI to open PEPs in your browser",
+  "author": "Hugo van Kemenade",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pepotron-1.6.0.tar.gz",
+  "download_time": "2026-02-24T11:56:14.882478",
+  "package_url": "https://pypi.org/project/pepotron/"
+}

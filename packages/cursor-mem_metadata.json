@@ -1,11 +1,11 @@
 {
   "name": "cursor-mem",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Persistent memory system for Cursor IDE — remembers context across sessions",
   "author": "cursor-mem contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "cursor_mem-0.1.2.tar.gz",
-  "download_time": "2026-02-24T10:09:57.556791",
+  "download_filename": "cursor_mem-0.2.0.tar.gz",
+  "download_time": "2026-02-24T11:56:28.093616",
   "package_url": "https://pypi.org/project/cursor-mem/"
 }
