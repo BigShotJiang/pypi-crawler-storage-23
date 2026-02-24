@@ -1,0 +1,11 @@
+{
+  "name": "boring-swarm",
+  "version": "0.1.2",
+  "summary": "Multi-agent swarm orchestration harness",
+  "author": "hachej",
+  "license": "MIT",
+  "home_page": "https://github.com/hachej/boring-swarm",
+  "download_filename": "boring_swarm-0.1.2-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-24T20:56:51.072545",
+  "package_url": "https://pypi.org/project/boring-swarm/"
+}

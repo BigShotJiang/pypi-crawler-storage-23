@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-s3-sns",
-  "version": "2.100.0",
+  "version": "2.100.1",
   "summary": "CDK constructs for defining an interaction between an Amazon S3 bucket and an Amazon SNS Topic.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_s3_sns-2.100.0.tar.gz",
-  "download_time": "2026-02-23T22:44:45.328394",
+  "download_filename": "aws_solutions_constructs_aws_s3_sns-2.100.1.tar.gz",
+  "download_time": "2026-02-24T20:57:04.277146",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-s3-sns/"
 }

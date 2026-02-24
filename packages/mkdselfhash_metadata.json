@@ -1,0 +1,11 @@
+{
+  "name": "mkdselfhash",
+  "version": "0.0.2",
+  "summary": "Simple in-place embedded hash linking for mkdocs.",
+  "author": "Maverick Peppers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdselfhash-0.0.2.tar.gz",
+  "download_time": "2026-02-24T20:56:47.888751",
+  "package_url": "https://pypi.org/project/mkdselfhash/"
+}

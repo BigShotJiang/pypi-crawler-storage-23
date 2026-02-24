@@ -1,0 +1,11 @@
+{
+  "name": "geoaddress",
+  "version": "0.2.4",
+  "summary": "Python library for address geocoding and reverse geocoding. Provides a unified interface to multiple geocoding providers (Nominatim, Google Maps, Mapbox, etc.) using ProviderKit for provider management.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geoaddress-0.2.4.tar.gz",
+  "download_time": "2026-02-24T20:56:41.060666",
+  "package_url": "https://pypi.org/project/geoaddress/"
+}

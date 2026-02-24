@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-lambda-polly",
-  "version": "2.100.0",
+  "version": "2.100.1",
   "summary": "CDK constructs for defining an interaction between an AWS Lambda function and Amazon Polly text-to-speech service with optional S3 buckets and SNS topics.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_lambda_polly-2.100.0.tar.gz",
-  "download_time": "2026-02-23T22:44:54.098902",
+  "download_filename": "aws_solutions_constructs_aws_lambda_polly-2.100.1.tar.gz",
+  "download_time": "2026-02-24T20:57:13.726874",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-lambda-polly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-fargate-kinesisstreams",
-  "version": "2.100.0",
+  "version": "2.100.1",
   "summary": "CDK Constructs for AWS Fargate to an Amazon Kinesis Data Stream ",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_fargate_kinesisstreams-2.100.0.tar.gz",
-  "download_time": "2026-02-23T22:45:10.692563",
+  "download_filename": "aws_solutions_constructs_aws_fargate_kinesisstreams-2.100.1.tar.gz",
+  "download_time": "2026-02-24T20:57:31.546786",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-fargate-kinesisstreams/"
 }

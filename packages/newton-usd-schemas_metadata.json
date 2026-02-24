@@ -1,0 +1,11 @@
+{
+  "name": "newton-usd-schemas",
+  "version": "0.1.0rc3",
+  "summary": "OpenUSD schema definitions for the Newton physics engine",
+  "author": "Newton Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "newton_usd_schemas-0.1.0rc3.tar.gz",
+  "download_time": "2026-02-24T20:57:10.060491",
+  "package_url": "https://pypi.org/project/newton-usd-schemas/"
+}

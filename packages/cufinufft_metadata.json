@@ -1,0 +1,11 @@
+{
+  "name": "cufinufft",
+  "version": "2.4.1",
+  "summary": "Non-uniform fast Fourier transforms on the GPU",
+  "author": "Yu-shuan Melody Shih, Garrett Wright, Joakim Anden, Marco Barbone, Robert Blackwell, Johannes Blascke, Alex Barnett",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cufinufft-2.4.1.tar.gz",
+  "download_time": "2026-02-24T20:56:44.231537",
+  "package_url": "https://pypi.org/project/cufinufft/"
+}

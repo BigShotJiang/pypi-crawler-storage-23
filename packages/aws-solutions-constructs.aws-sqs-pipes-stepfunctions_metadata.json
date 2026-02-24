@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-sqs-pipes-stepfunctions",
-  "version": "2.100.0",
+  "version": "2.100.1",
   "summary": "CDK Constructs for Amazon SQS to AWS Step Functions via Amazon EventBridge Pipes integration.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_sqs_pipes_stepfunctions-2.100.0.tar.gz",
-  "download_time": "2026-02-23T22:44:42.223195",
+  "download_filename": "aws_solutions_constructs_aws_sqs_pipes_stepfunctions-2.100.1.tar.gz",
+  "download_time": "2026-02-24T20:56:59.555474",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-sqs-pipes-stepfunctions/"
 }

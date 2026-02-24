@@ -1,0 +1,11 @@
+{
+  "name": "slurmgrid",
+  "version": "0.1.1",
+  "summary": "Manage large Slurm job arrays that exceed cluster submission limits",
+  "author": "Johann D. Gaebler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurmgrid-0.1.1.tar.gz",
+  "download_time": "2026-02-24T20:56:47.367675",
+  "package_url": "https://pypi.org/project/slurmgrid/"
+}
