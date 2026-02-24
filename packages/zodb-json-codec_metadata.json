@@ -1,11 +1,11 @@
 {
   "name": "zodb-json-codec",
-  "version": "1.2.2",
+  "version": "1.4.0",
   "summary": "Fast pickle to JSON transcoder for ZODB, implemented in Rust",
   "author": null,
   "license": null,
   "home_page": "https://github.com/bluedynamics/zodb-json-codec",
-  "download_filename": "zodb_json_codec-1.2.2.tar.gz",
-  "download_time": "2026-02-22T01:25:16.183954",
+  "download_filename": "zodb_json_codec-1.4.0.tar.gz",
+  "download_time": "2026-02-24T12:41:22.994029",
   "package_url": "https://pypi.org/project/zodb-json-codec/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gypt_matplotlib",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "summary": "A small addon for matplotlib that can be used for the GYPT.",
   "author": "Keenan Noack",
   "license": null,
   "home_page": null,
-  "download_filename": "gypt_matplotlib-0.6.3.tar.gz",
-  "download_time": "2026-02-24T10:10:04.102607",
+  "download_filename": "gypt_matplotlib-0.7.0.tar.gz",
+  "download_time": "2026-02-24T12:41:26.786018",
   "package_url": "https://pypi.org/project/gypt_matplotlib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "artic-raccoon",
+  "version": "1.0.0",
+  "summary": "A Python package for curating virus genome alignments and phylogenies and flagging QC issues",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "artic_raccoon-1.0.0.tar.gz",
+  "download_time": "2026-02-24T12:41:15.416037",
+  "package_url": "https://pypi.org/project/artic-raccoon/"
+}

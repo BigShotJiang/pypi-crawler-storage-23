@@ -1,0 +1,11 @@
+{
+  "name": "tb-mqtt-client",
+  "version": "1.13.13",
+  "summary": "ThingsBoard python client SDK",
+  "author": "ThingsBoard",
+  "license": "Apache Software License (Apache Software License 2.0)",
+  "home_page": "https://github.com/thingsboard/thingsboard-python-client-sdk",
+  "download_filename": "tb_mqtt_client-1.13.13-py3-none-any.whl",
+  "download_time": "2026-02-24T12:40:46.145276",
+  "package_url": "https://pypi.org/project/tb-mqtt-client/"
+}

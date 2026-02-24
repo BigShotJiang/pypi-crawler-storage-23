@@ -1,11 +1,11 @@
 {
   "name": "fluent-codegen",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "A Python library for generating Python code via AST construction.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluent_codegen-0.1.1.tar.gz",
-  "download_time": "2026-02-18T15:33:57.381303",
+  "download_filename": "fluent_codegen-0.3.0.tar.gz",
+  "download_time": "2026-02-24T12:41:05.057605",
   "package_url": "https://pypi.org/project/fluent-codegen/"
 }

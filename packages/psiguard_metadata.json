@@ -1,0 +1,11 @@
+{
+  "name": "psiguard",
+  "version": "0.1.0",
+  "summary": "Real-time AI safety monitoring — detect hallucinations, drift, and anomalies in your AI responses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psiguard-0.1.0.tar.gz",
+  "download_time": "2026-02-24T12:41:02.913490",
+  "package_url": "https://pypi.org/project/psiguard/"
+}

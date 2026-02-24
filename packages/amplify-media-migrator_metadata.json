@@ -1,11 +1,11 @@
 {
   "name": "amplify-media-migrator",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "CLI tool to migrate media files from Google Drive to AWS Amplify Storage",
   "author": "MECO Team",
   "license": null,
   "home_page": null,
-  "download_filename": "amplify_media_migrator-0.1.9.tar.gz",
-  "download_time": "2026-02-23T07:42:34.389002",
+  "download_filename": "amplify_media_migrator-0.1.10.tar.gz",
+  "download_time": "2026-02-24T12:40:52.709999",
   "package_url": "https://pypi.org/project/amplify-media-migrator/"
 }

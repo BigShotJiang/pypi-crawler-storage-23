@@ -1,11 +1,11 @@
 {
   "name": "macenko-pca",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "High-performance Macenko PCA stain deconvolution powered by Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "macenko_pca-1.0.2.tar.gz",
-  "download_time": "2026-02-21T22:44:33.574495",
+  "download_filename": "macenko_pca-1.0.3.tar.gz",
+  "download_time": "2026-02-24T12:41:19.747974",
   "package_url": "https://pypi.org/project/macenko-pca/"
 }

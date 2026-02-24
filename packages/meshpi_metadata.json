@@ -1,11 +1,11 @@
 {
   "name": "meshpi",
-  "version": "0.1.27",
+  "version": "0.1.31",
   "summary": "🚀 Zero-touch provisioning for Raspberry Pi fleets - Configure WiFi, SSH, users, hardware peripherals, and manage devices through encrypted mesh networking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshpi-0.1.27.tar.gz",
-  "download_time": "2026-02-24T11:56:05.204640",
+  "download_filename": "meshpi-0.1.31.tar.gz",
+  "download_time": "2026-02-24T12:41:27.858291",
   "package_url": "https://pypi.org/project/meshpi/"
 }
