@@ -1,0 +1,11 @@
+{
+  "name": "trading-sdk",
+  "version": "0.2.4",
+  "summary": "An abstract, fully-typed, async Python SDK for automated crypto trading. By Tribulnation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trading_sdk-0.2.4.tar.gz",
+  "download_time": "2026-02-24T18:39:27.331921",
+  "package_url": "https://pypi.org/project/trading-sdk/"
+}

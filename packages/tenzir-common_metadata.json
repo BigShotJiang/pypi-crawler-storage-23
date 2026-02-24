@@ -1,0 +1,11 @@
+{
+  "name": "tenzir-common",
+  "version": "5.27.0",
+  "summary": "Shared Python utilities for the Tenzir data pipeline",
+  "author": "Tenzir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tenzir_common-5.27.0.tar.gz",
+  "download_time": "2026-02-24T18:39:33.312308",
+  "package_url": "https://pypi.org/project/tenzir-common/"
+}

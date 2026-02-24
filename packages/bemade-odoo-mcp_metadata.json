@@ -1,0 +1,11 @@
+{
+  "name": "bemade-odoo-mcp",
+  "version": "0.1.0a2",
+  "summary": "MCP server for Odoo 19.0 via the JSON-2 API",
+  "author": "Marc Durepos, Bemade Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bemade_odoo_mcp-0.1.0a2.tar.gz",
+  "download_time": "2026-02-24T18:40:02.245102",
+  "package_url": "https://pypi.org/project/bemade-odoo-mcp/"
+}

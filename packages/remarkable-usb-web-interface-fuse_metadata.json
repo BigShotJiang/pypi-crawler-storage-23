@@ -1,0 +1,11 @@
+{
+  "name": "remarkable-usb-web-interface-fuse",
+  "version": "1.0.1",
+  "summary": "Userspace filesystem for remarkable usb web interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remarkable_usb_web_interface_fuse-1.0.1.tar.gz",
+  "download_time": "2026-02-24T18:39:31.687022",
+  "package_url": "https://pypi.org/project/remarkable-usb-web-interface-fuse/"
+}

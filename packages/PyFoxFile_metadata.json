@@ -1,0 +1,11 @@
+{
+  "name": "PyFoxFile",
+  "version": "0.30.0",
+  "summary": "A tar like file format name archivefile.",
+  "author": "Ouka Neko-chan",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/GameMaker2k/PyFoxFile",
+  "download_filename": "pyfoxfile-0.30.0.tar.gz",
+  "download_time": "2026-02-24T18:39:30.596130",
+  "package_url": "https://pypi.org/project/PyFoxFile/"
+}

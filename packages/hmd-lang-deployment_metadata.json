@@ -1,0 +1,11 @@
+{
+  "name": "hmd-lang-deployment",
+  "version": "0.1.81",
+  "summary": "Language pack for deployment model.",
+  "author": "Jim Majure",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_lang_deployment-0.1.81-py3-none-any.whl",
+  "download_time": "2026-02-24T18:39:32.233003",
+  "package_url": "https://pypi.org/project/hmd-lang-deployment/"
+}

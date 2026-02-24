@@ -1,11 +1,11 @@
 {
   "name": "repoFast",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "CLI tool to create GitHub repos quickly",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repofast-0.1.4.tar.gz",
-  "download_time": "2026-02-24T15:42:34.458351",
+  "download_filename": "repofast-0.1.5.tar.gz",
+  "download_time": "2026-02-24T18:40:05.411673",
   "package_url": "https://pypi.org/project/repoFast/"
 }

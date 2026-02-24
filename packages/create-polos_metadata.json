@@ -1,11 +1,11 @@
 {
   "name": "create-polos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Scaffold a new Polos agent project",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "create_polos-0.1.0.tar.gz",
-  "download_time": "2026-02-19T20:56:09.669960",
+  "download_filename": "create_polos-0.1.1.tar.gz",
+  "download_time": "2026-02-24T18:39:55.717616",
   "package_url": "https://pypi.org/project/create-polos/"
 }

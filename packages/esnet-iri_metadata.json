@@ -1,0 +1,11 @@
+{
+  "name": "esnet-iri",
+  "version": "1.0.0.post1",
+  "summary": "ESnet implementation of the IRI api",
+  "author": "ESnet Contact",
+  "license": null,
+  "home_page": null,
+  "download_filename": "esnet_iri-1.0.0.post1.tar.gz",
+  "download_time": "2026-02-24T18:39:59.523303",
+  "package_url": "https://pypi.org/project/esnet-iri/"
+}

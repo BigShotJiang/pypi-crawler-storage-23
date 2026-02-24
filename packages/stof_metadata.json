@@ -1,0 +1,11 @@
+{
+  "name": "stof",
+  "version": "0.9.14",
+  "summary": "Data that carries its own logic.",
+  "author": null,
+  "license": null,
+  "home_page": "https://docs.stof.dev",
+  "download_filename": "stof-0.9.14.tar.gz",
+  "download_time": "2026-02-24T18:39:19.157642",
+  "package_url": "https://pypi.org/project/stof/"
+}

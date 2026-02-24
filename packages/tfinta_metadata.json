@@ -1,0 +1,11 @@
+{
+  "name": "tfinta",
+  "version": "2.1.1",
+  "summary": "Python library and shell scripts for parsing and displaying Transport for Ireland (TFI/NTA) Rail and DART schedule datasets, both GTFS and realtime",
+  "author": "BellaKeri",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/BellaKeri/TFINTA",
+  "download_filename": "tfinta-2.1.1.tar.gz",
+  "download_time": "2026-02-24T18:39:26.237845",
+  "package_url": "https://pypi.org/project/tfinta/"
+}
