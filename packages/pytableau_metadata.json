@@ -1,11 +1,11 @@
 {
   "name": "pytableau",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "summary": "The unified Python SDK for Tableau workbook engineering",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytableau-0.1.0.tar.gz",
-  "download_time": "2026-02-22T19:57:26.737493",
+  "download_filename": "pytableau-2.0.0.tar.gz",
+  "download_time": "2026-02-24T11:08:06.025239",
   "package_url": "https://pypi.org/project/pytableau/"
 }

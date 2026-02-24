@@ -1,0 +1,11 @@
+{
+  "name": "flake8-qiskit-migration",
+  "version": "0.5.0",
+  "summary": "Detect deprecated/removed imports, methods, and arguments in Qiskit 1.0 and 2.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_qiskit_migration-0.5.0.tar.gz",
+  "download_time": "2026-02-24T11:08:10.543399",
+  "package_url": "https://pypi.org/project/flake8-qiskit-migration/"
+}

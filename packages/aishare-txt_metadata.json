@@ -1,11 +1,11 @@
 {
   "name": "aishare-txt",
-  "version": "2026.2.24.44",
+  "version": "2026.2.24.46",
   "summary": "中国股票技术指标文本生成工具包，用于为金融分析相关领域的AI智能体提供上下文服务。",
   "author": "AIShareTxt Team",
   "license": "MIT",
   "home_page": "https://gitee.com/chaofanat/aishare-txt",
-  "download_filename": "aishare_txt-2026.2.24.44.tar.gz",
-  "download_time": "2026-02-24T10:09:44.657295",
+  "download_filename": "aishare_txt-2026.2.24.46.tar.gz",
+  "download_time": "2026-02-24T11:07:50.135190",
   "package_url": "https://pypi.org/project/aishare-txt/"
 }

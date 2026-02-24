@@ -1,0 +1,11 @@
+{
+  "name": "mdlm",
+  "version": "0.2.1",
+  "summary": "CLI for markdownlm knowledge base",
+  "author": null,
+  "license": "MarkdownLM Terms of Use and Proprietary License\n        \n        Copyright (c) 2026 MarkdownLM. All Rights Reserved.\n        \n        This software and associated documentation files (the \"Software\") are proprietary and confidential to MarkdownLM. \n        \n        You may not and must not attempt to:\n        (a) access or use the Software to build a competing product or service, including to train competing AI models or resell the Software except as expressly approved by MarkdownLM;\n        (b) wrap, duplicate, copycat, or steal the Software or any portion thereof;\n        (c) reverse engineer, decompile, or disassemble the Software; or\n        (d) support any third party's attempt at any of the conduct restricted in this license.\n        \n        Any unauthorized use, reproduction, or distribution of the Software is strictly prohibited. All rights not expressly granted are reserved.\n        ",
+  "home_page": null,
+  "download_filename": "mdlm-0.2.1.tar.gz",
+  "download_time": "2026-02-24T11:07:55.015056",
+  "package_url": "https://pypi.org/project/mdlm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qi-utilities",
+  "version": "0.2.2",
+  "summary": "Package library with utility functions and demonstration notebooks especially suited for the superconducting hardware backends of the cloud quantum computing platform Quantum Inspire.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qi_utilities-0.2.2.tar.gz",
+  "download_time": "2026-02-24T11:07:29.470291",
+  "package_url": "https://pypi.org/project/qi-utilities/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-build-plantuml-plugin",
+  "version": "2.1.0",
+  "summary": "An MkDocs plugin to call plantuml locally or remote",
+  "author": "Christoph Galler",
+  "license": "MIT",
+  "home_page": "https://github.com/christo-ph/mkdocs_build_plantuml",
+  "download_filename": "mkdocs_build_plantuml_plugin-2.1.0.tar.gz",
+  "download_time": "2026-02-24T11:08:03.783022",
+  "package_url": "https://pypi.org/project/mkdocs-build-plantuml-plugin/"
+}

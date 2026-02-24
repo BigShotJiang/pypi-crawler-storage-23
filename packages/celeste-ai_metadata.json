@@ -1,0 +1,11 @@
+{
+  "name": "celeste-ai",
+  "version": "0.10.0",
+  "summary": "Open source, type-safe primitives for multi-modal AI. All capabilities, all providers, one interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celeste_ai-0.10.0.tar.gz",
+  "download_time": "2026-02-24T11:08:13.207002",
+  "package_url": "https://pypi.org/project/celeste-ai/"
+}

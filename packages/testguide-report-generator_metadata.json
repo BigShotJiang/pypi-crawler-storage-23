@@ -1,0 +1,11 @@
+{
+  "name": "testguide-report-generator",
+  "version": "1.4",
+  "summary": "This generator acts as a helper to create a test.guide compatible test report.",
+  "author": "tracetronic GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "testguide_report_generator-1.4.tar.gz",
+  "download_time": "2026-02-24T11:07:56.624915",
+  "package_url": "https://pypi.org/project/testguide-report-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-sync-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool to sync LeetCode submissions into structured Git repository",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leetcode_sync_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-24T11:07:43.472201",
+  "package_url": "https://pypi.org/project/leetcode-sync-cli/"
+}

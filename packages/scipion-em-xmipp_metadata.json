@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-xmipp",
+  "version": "28.0.1",
+  "summary": "Plugin to use Xmipp programs within the Scipion framework.",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_xmipp-28.0.1.tar.gz",
+  "download_time": "2026-02-24T11:07:42.923654",
+  "package_url": "https://pypi.org/project/scipion-em-xmipp/"
+}
