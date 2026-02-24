@@ -1,0 +1,11 @@
+{
+  "name": "pactor-ai",
+  "version": "0.0.1",
+  "summary": "Agreement infrastructure for AI agents.",
+  "author": "Pactor",
+  "license": null,
+  "home_page": "https://pactor.ai",
+  "download_filename": "pactor_ai-0.0.1.tar.gz",
+  "download_time": "2026-02-24T21:58:29.232929",
+  "package_url": "https://pypi.org/project/pactor-ai/"
+}

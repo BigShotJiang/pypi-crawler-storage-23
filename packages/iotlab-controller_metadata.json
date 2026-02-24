@@ -1,0 +1,11 @@
+{
+  "name": "iotlab-controller",
+  "version": "0.8.2b0",
+  "summary": "Python-based controller for IoT-LAB experiments",
+  "author": "Martine Lenders",
+  "license": null,
+  "home_page": "https://github.com/miri64/iotlab_controller",
+  "download_filename": "iotlab_controller-0.8.2b0.tar.gz",
+  "download_time": "2026-02-24T21:58:03.980036",
+  "package_url": "https://pypi.org/project/iotlab-controller/"
+}

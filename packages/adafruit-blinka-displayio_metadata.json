@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-blinka-displayio",
+  "version": "2.3.2",
+  "summary": "displayio for Blinka",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_blinka_displayio-2.3.2.tar.gz",
+  "download_time": "2026-02-24T21:58:14.013636",
+  "package_url": "https://pypi.org/project/adafruit-blinka-displayio/"
+}

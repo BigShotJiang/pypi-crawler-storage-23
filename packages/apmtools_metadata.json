@@ -1,11 +1,11 @@
 {
   "name": "apmtools",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "A collection of tools for processing air pollution monitoring data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apmtools-0.1.17.tar.gz",
-  "download_time": "2026-02-24T16:45:33.502143",
+  "download_filename": "apmtools-0.1.19.tar.gz",
+  "download_time": "2026-02-24T21:58:35.528642",
   "package_url": "https://pypi.org/project/apmtools/"
 }

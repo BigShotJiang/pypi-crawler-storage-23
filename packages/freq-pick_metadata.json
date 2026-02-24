@@ -1,11 +1,11 @@
 {
   "name": "freq-pick",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Interactive frequency picker for a single spectrum",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freq_pick-0.1.4.tar.gz",
-  "download_time": "2026-02-24T20:56:50.493004",
+  "download_filename": "freq_pick-0.1.5.tar.gz",
+  "download_time": "2026-02-24T21:58:19.765526",
   "package_url": "https://pypi.org/project/freq-pick/"
 }

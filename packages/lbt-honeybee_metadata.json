@@ -1,11 +1,11 @@
 {
   "name": "lbt-honeybee",
-  "version": "0.9.251",
+  "version": "0.9.253",
   "summary": "Installs a collection of all Honeybee core and extension libraries.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/lbt-honeybee",
-  "download_filename": "lbt_honeybee-0.9.251.tar.gz",
-  "download_time": "2026-02-23T21:09:05.762375",
+  "download_filename": "lbt_honeybee-0.9.253.tar.gz",
+  "download_time": "2026-02-24T21:58:04.553428",
   "package_url": "https://pypi.org/project/lbt-honeybee/"
 }

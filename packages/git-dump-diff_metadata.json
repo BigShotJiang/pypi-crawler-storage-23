@@ -1,0 +1,11 @@
+{
+  "name": "git-dump-diff",
+  "version": "0.1",
+  "summary": "Git diff tool that shows a tree of changed files followed by their full content.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_dump_diff-0.1.tar.gz",
+  "download_time": "2026-02-24T21:58:40.769053",
+  "package_url": "https://pypi.org/project/git-dump-diff/"
+}

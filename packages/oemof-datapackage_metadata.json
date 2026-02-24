@@ -1,0 +1,11 @@
+{
+  "name": "oemof-datapackage",
+  "version": "0.0.6b2",
+  "summary": "Load oemof energy systems from datapackage data sources.",
+  "author": "Stephan Günther, Simon Hilpert, Martin Söthe, Jann Launer, Hendrik Huyskens, Julian Endres, Felix Maurer",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/oemof/oemof-datapackage",
+  "download_filename": "oemof_datapackage-0.0.6b2.tar.gz",
+  "download_time": "2026-02-24T21:58:30.803492",
+  "package_url": "https://pypi.org/project/oemof-datapackage/"
+}

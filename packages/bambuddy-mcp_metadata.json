@@ -1,11 +1,11 @@
 {
   "name": "bambuddy-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server for the Bambuddy 3D print management API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bambuddy_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-22T21:47:56.119805",
+  "download_filename": "bambuddy_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-24T21:58:39.727769",
   "package_url": "https://pypi.org/project/bambuddy-mcp/"
 }

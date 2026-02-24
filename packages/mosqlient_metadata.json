@@ -1,0 +1,11 @@
+{
+  "name": "mosqlient",
+  "version": "2.0.3",
+  "summary": "client library for the mosqlimate client library",
+  "author": "Flávio Codeço Coelho",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "mosqlient-2.0.3.tar.gz",
+  "download_time": "2026-02-24T21:58:21.324020",
+  "package_url": "https://pypi.org/project/mosqlient/"
+}
