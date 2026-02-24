@@ -1,11 +1,11 @@
 {
   "name": "primordial-agentstore",
-  "version": "0.4.3",
+  "version": "0.5.2",
   "summary": "Primordial AgentStore CLI — discover, install, and run AI agents",
   "author": "Andy Browning",
   "license": null,
   "home_page": null,
-  "download_filename": "primordial_agentstore-0.4.3.tar.gz",
-  "download_time": "2026-02-24T23:00:48.088121",
+  "download_filename": "primordial_agentstore-0.5.2.tar.gz",
+  "download_time": "2026-02-24T23:31:12.744031",
   "package_url": "https://pypi.org/project/primordial-agentstore/"
 }

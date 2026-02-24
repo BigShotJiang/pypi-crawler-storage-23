@@ -1,0 +1,11 @@
+{
+  "name": "oghma",
+  "version": "0.6.3",
+  "summary": "Unified AI memory layer for coding assistants",
+  "author": "Oghma Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oghma-0.6.3.tar.gz",
+  "download_time": "2026-02-24T23:31:41.822670",
+  "package_url": "https://pypi.org/project/oghma/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydsdl",
+  "version": "1.24.3",
+  "summary": "Cyphal DSDL processing frontend",
+  "author": "OpenCyphal",
+  "license": "MIT",
+  "home_page": "https://opencyphal.org",
+  "download_filename": "pydsdl-1.24.3.tar.gz",
+  "download_time": "2026-02-24T23:31:30.462364",
+  "package_url": "https://pypi.org/project/pydsdl/"
+}

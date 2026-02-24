@@ -1,0 +1,11 @@
+{
+  "name": "blockchyp",
+  "version": "2.30.0.post1",
+  "summary": "The official library for accessing the BlockChyp Terminal and Gateway APIs",
+  "author": "BlockChyp",
+  "license": "MIT",
+  "home_page": "https://github.com/blockchyp/blockchyp-python",
+  "download_filename": "blockchyp-2.30.0.post1.tar.gz",
+  "download_time": "2026-02-24T23:31:09.659139",
+  "package_url": "https://pypi.org/project/blockchyp/"
+}

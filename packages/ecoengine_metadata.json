@@ -1,0 +1,11 @@
+{
+  "name": "ecoengine",
+  "version": "2.0.3",
+  "summary": "A software for sizing Heat Pump Water Heaters for buildings",
+  "author": "Nolan",
+  "license": null,
+  "home_page": "https://ecosizer.ecotope.com/sizer/",
+  "download_filename": "ecoengine-2.0.3.tar.gz",
+  "download_time": "2026-02-24T23:31:27.895609",
+  "package_url": "https://pypi.org/project/ecoengine/"
+}

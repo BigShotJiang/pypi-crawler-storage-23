@@ -1,11 +1,11 @@
 {
   "name": "trame-dataclass",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "summary": "Dataclass for trame UI binding",
   "author": "Kitware Inc.",
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "trame_dataclass-1.4.2.tar.gz",
-  "download_time": "2026-02-23T16:30:41.292309",
+  "download_filename": "trame_dataclass-1.4.4.tar.gz",
+  "download_time": "2026-02-24T23:31:27.341707",
   "package_url": "https://pypi.org/project/trame-dataclass/"
 }

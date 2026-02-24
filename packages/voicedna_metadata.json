@@ -1,0 +1,11 @@
+{
+  "name": "voicedna",
+  "version": "2.9.0",
+  "summary": "Lifelong sonic identity and plugin framework for AI voices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicedna-2.9.0.tar.gz",
+  "download_time": "2026-02-24T23:31:46.936390",
+  "package_url": "https://pypi.org/project/voicedna/"
+}
