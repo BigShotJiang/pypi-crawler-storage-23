@@ -1,0 +1,11 @@
+{
+  "name": "sqlmodel-object-helpers",
+  "version": "0.0.3",
+  "summary": "Generic async query helpers for SQLModel: filtering, eager loading, pagination",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlmodel_object_helpers-0.0.3.tar.gz",
+  "download_time": "2026-02-24T10:09:50.715221",
+  "package_url": "https://pypi.org/project/sqlmodel-object-helpers/"
+}

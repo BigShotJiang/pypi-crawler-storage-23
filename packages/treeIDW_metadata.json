@@ -1,0 +1,11 @@
+{
+  "name": "treeIDW",
+  "version": "1.0.1",
+  "summary": "A package for KD-tree optimized inverse distance weighting interpolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treeidw-1.0.1.tar.gz",
+  "download_time": "2026-02-24T10:10:22.081987",
+  "package_url": "https://pypi.org/project/treeIDW/"
+}

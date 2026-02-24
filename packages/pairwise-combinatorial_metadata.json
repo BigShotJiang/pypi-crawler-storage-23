@@ -1,0 +1,11 @@
+{
+  "name": "pairwise-combinatorial",
+  "version": "0.1.4",
+  "summary": "Combinatorial method for pairwise comparison aggregation using Prüfer sequences with parallel processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pairwise_combinatorial-0.1.4.tar.gz",
+  "download_time": "2026-02-24T10:09:46.822086",
+  "package_url": "https://pypi.org/project/pairwise-combinatorial/"
+}

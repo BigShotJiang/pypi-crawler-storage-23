@@ -1,0 +1,11 @@
+{
+  "name": "adani",
+  "version": "1.0.6",
+  "summary": "Code computing approximate DIS N3LO coefficients",
+  "author": "Niccolò Laurenti",
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "adani-1.0.6.tar.gz",
+  "download_time": "2026-02-24T10:10:16.381065",
+  "package_url": "https://pypi.org/project/adani/"
+}

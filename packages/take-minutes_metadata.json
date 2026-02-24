@@ -1,0 +1,11 @@
+{
+  "name": "take-minutes",
+  "version": "0.2.0",
+  "summary": "Extract structured knowledge from conversation transcripts",
+  "author": "Daniel Iser",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "take_minutes-0.2.0.tar.gz",
+  "download_time": "2026-02-24T10:10:02.445112",
+  "package_url": "https://pypi.org/project/take-minutes/"
+}

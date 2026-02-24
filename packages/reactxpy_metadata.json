@@ -1,11 +1,11 @@
 {
   "name": "reactxpy",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "ReactXPy compiler for web applications.",
   "author": "Anish Kumar",
   "license": null,
   "home_page": null,
-  "download_filename": "reactxpy-0.1.2.tar.gz",
-  "download_time": "2026-02-24T06:15:38.017310",
+  "download_filename": "reactxpy-0.1.6.tar.gz",
+  "download_time": "2026-02-24T10:10:21.559121",
   "package_url": "https://pypi.org/project/reactxpy/"
 }

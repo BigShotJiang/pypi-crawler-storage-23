@@ -1,11 +1,11 @@
 {
   "name": "traceiq",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "Measure AI-to-AI influence in multi-agent systems",
   "author": "TraceIQ Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "traceiq-0.3.2.tar.gz",
-  "download_time": "2026-02-19T11:53:04.857597",
+  "download_filename": "traceiq-0.3.5.tar.gz",
+  "download_time": "2026-02-24T10:09:58.118775",
   "package_url": "https://pypi.org/project/traceiq/"
 }

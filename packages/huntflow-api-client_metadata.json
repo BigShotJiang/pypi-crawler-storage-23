@@ -1,0 +1,11 @@
+{
+  "name": "huntflow-api-client",
+  "version": "2.11.0",
+  "summary": "Huntflow API Client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "huntflow_api_client-2.11.0.tar.gz",
+  "download_time": "2026-02-24T10:09:42.959332",
+  "package_url": "https://pypi.org/project/huntflow-api-client/"
+}
