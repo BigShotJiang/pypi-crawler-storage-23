@@ -1,11 +1,11 @@
 {
   "name": "selfmemory",
-  "version": "0.7.1.post0",
+  "version": "0.8.4",
   "summary": "Enhanced Memory Management for AI Agents",
   "author": "SelfMemory Team",
   "license": null,
   "home_page": null,
-  "download_filename": "selfmemory-0.7.1.post0.tar.gz",
-  "download_time": "2026-02-22T17:19:38.641430",
+  "download_filename": "selfmemory-0.8.4.tar.gz",
+  "download_time": "2026-02-24T07:18:52.927936",
   "package_url": "https://pypi.org/project/selfmemory/"
 }

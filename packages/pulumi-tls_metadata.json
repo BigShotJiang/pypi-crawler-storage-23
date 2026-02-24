@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-tls",
+  "version": "5.3.0",
+  "summary": "A Pulumi package to create TLS resources in Pulumi programs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_tls-5.3.0.tar.gz",
+  "download_time": "2026-02-24T07:18:58.511915",
+  "package_url": "https://pypi.org/project/pulumi-tls/"
+}

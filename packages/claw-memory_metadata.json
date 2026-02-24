@@ -1,11 +1,11 @@
 {
   "name": "claw-memory",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "summary": "Record and search your AI chat history. Markdown files, zero dependencies beyond MCP.",
   "author": "OpenClaw Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "claw_memory-1.0.1.tar.gz",
-  "download_time": "2026-02-24T06:15:54.249401",
+  "download_filename": "claw_memory-1.2.1.tar.gz",
+  "download_time": "2026-02-24T07:18:29.499970",
   "package_url": "https://pypi.org/project/claw-memory/"
 }

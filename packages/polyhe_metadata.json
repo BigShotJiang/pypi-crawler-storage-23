@@ -1,11 +1,11 @@
 {
   "name": "polyhe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Simple & easy Homomorphic Encryption",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polyhe-1.0.0.tar.gz",
-  "download_time": "2026-02-23T11:54:40.203668",
+  "download_filename": "polyhe-1.0.1.tar.gz",
+  "download_time": "2026-02-24T07:18:34.191990",
   "package_url": "https://pypi.org/project/polyhe/"
 }

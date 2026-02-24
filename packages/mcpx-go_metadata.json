@@ -1,0 +1,11 @@
+{
+  "name": "mcpx-go",
+  "version": "0.1.8",
+  "summary": "Installable Python wrapper that downloads and runs the mcpx Go binary",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpx_go-0.1.8.tar.gz",
+  "download_time": "2026-02-24T07:19:02.773439",
+  "package_url": "https://pypi.org/project/mcpx-go/"
+}

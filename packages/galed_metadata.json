@@ -1,0 +1,11 @@
+{
+  "name": "galed",
+  "version": "0.0.1",
+  "summary": "Galed — a requirements definition language and traceability engine for human-AI hybrid authorship in regulated systems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "galed-0.0.1.tar.gz",
+  "download_time": "2026-02-24T07:18:40.611301",
+  "package_url": "https://pypi.org/project/galed/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hera2-sdk",
-  "version": "1.11.8.4",
+  "version": "1.11.8.6",
   "summary": "Hera2 Python SDK for metadata ingestion and management",
   "author": "TMDC",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hera2_sdk-1.11.8.4.tar.gz",
-  "download_time": "2026-02-24T05:14:56.335746",
+  "download_filename": "hera2_sdk-1.11.8.6.tar.gz",
+  "download_time": "2026-02-24T07:18:46.565023",
   "package_url": "https://pypi.org/project/hera2-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "doitagent",
+  "version": "2.0.0",
+  "summary": "The world's most powerful personal AGI agent — control your PC via Telegram, voice, or code. 100% free & open source.",
+  "author": "DoItAgent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doitagent-2.0.0.tar.gz",
+  "download_time": "2026-02-24T07:19:00.570995",
+  "package_url": "https://pypi.org/project/doitagent/"
+}

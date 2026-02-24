@@ -1,0 +1,11 @@
+{
+  "name": "suvra",
+  "version": "0.1.0",
+  "summary": "Suvra v0 secure execution guardrail layer for autonomous agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "suvra-0.1.0.tar.gz",
+  "download_time": "2026-02-24T07:18:28.918551",
+  "package_url": "https://pypi.org/project/suvra/"
+}

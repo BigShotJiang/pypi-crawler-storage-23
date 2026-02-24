@@ -1,11 +1,11 @@
 {
   "name": "youam",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Universal Agent Messaging protocol library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "youam-0.3.0.tar.gz",
-  "download_time": "2026-02-24T06:16:31.899868",
+  "download_filename": "youam-0.3.1.tar.gz",
+  "download_time": "2026-02-24T07:18:48.110631",
   "package_url": "https://pypi.org/project/youam/"
 }

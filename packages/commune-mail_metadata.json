@@ -1,0 +1,11 @@
+{
+  "name": "commune-mail",
+  "version": "0.3.2",
+  "summary": "Email infrastructure for agents — set up an inbox and send your first email in 30 seconds. Programmatic inboxes (~1 line), consistent threads, custom domains, attachments, and structured data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commune_mail-0.3.2.tar.gz",
+  "download_time": "2026-02-24T07:19:05.330691",
+  "package_url": "https://pypi.org/project/commune-mail/"
+}
