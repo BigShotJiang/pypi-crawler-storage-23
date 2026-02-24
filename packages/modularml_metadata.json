@@ -1,0 +1,11 @@
+{
+  "name": "modularml",
+  "version": "1.0.0",
+  "summary": "A library for modular, fast, and reproducible ML experimentation built for R&D.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modularml-1.0.0.tar.gz",
+  "download_time": "2026-02-24T15:41:53.727255",
+  "package_url": "https://pypi.org/project/modularml/"
+}

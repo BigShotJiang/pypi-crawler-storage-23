@@ -1,0 +1,11 @@
+{
+  "name": "pytafast",
+  "version": "0.2.1",
+  "summary": "Python wrapper for ta-lib using nanobind",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytafast-0.2.1.tar.gz",
+  "download_time": "2026-02-24T15:42:38.267610",
+  "package_url": "https://pypi.org/project/pytafast/"
+}

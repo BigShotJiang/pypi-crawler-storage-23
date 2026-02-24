@@ -1,11 +1,11 @@
 {
   "name": "databridge-core",
-  "version": "0.43.0",
-  "summary": "DataBridge AI Core - Shared utilities for config, database, CLI, and MCP",
-  "author": "DataBridge AI Team",
-  "license": "MIT",
+  "version": "1.0.0",
+  "summary": "Upload your Chart of Accounts. Get a production-ready financial hierarchy and dbt models. Zero config.",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "databridge_core-0.43.0.tar.gz",
-  "download_time": "2026-02-24T08:07:29.921391",
+  "download_filename": "databridge_core-1.0.0.tar.gz",
+  "download_time": "2026-02-24T15:41:54.882412",
   "package_url": "https://pypi.org/project/databridge-core/"
 }

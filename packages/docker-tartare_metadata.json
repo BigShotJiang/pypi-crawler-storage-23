@@ -1,0 +1,11 @@
+{
+  "name": "docker-tartare",
+  "version": "0.1.0",
+  "summary": "Docker TAR manipulation tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_tartare-0.1.0.tar.gz",
+  "download_time": "2026-02-24T15:42:32.820450",
+  "package_url": "https://pypi.org/project/docker-tartare/"
+}

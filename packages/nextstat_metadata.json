@@ -1,0 +1,11 @@
+{
+  "name": "nextstat",
+  "version": "0.9.7",
+  "summary": "High-performance statistical inference engine — MLE, Bayesian, survival, GLM, time series. Rust core with Python bindings.",
+  "author": "NextStat Contributors",
+  "license": "AGPL-3.0-or-later OR LicenseRef-Commercial",
+  "home_page": "https://nextstat.io",
+  "download_filename": "nextstat-0.9.7.tar.gz",
+  "download_time": "2026-02-24T15:42:27.390703",
+  "package_url": "https://pypi.org/project/nextstat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spark-audit-notify",
+  "version": "1.30",
+  "summary": "Performance Audit and Notification Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_audit_notify-1.30.tar.gz",
+  "download_time": "2026-02-24T15:41:59.200792",
+  "package_url": "https://pypi.org/project/spark-audit-notify/"
+}

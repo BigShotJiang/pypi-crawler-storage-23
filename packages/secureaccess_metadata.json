@@ -1,0 +1,11 @@
+{
+  "name": "secureaccess",
+  "version": "2.0.202510221109",
+  "summary": "Cisco Secure Access Platform SDK for Python",
+  "author": "Raghavendra R rrevanap",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "secureaccess-2.0.202510221109.tar.gz",
+  "download_time": "2026-02-24T15:42:21.408580",
+  "package_url": "https://pypi.org/project/secureaccess/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pl-mocks-and-fakes",
-  "version": "0.0.14",
+  "version": "0.0.21",
   "summary": "Mock slow, nondeterministic, and side-effect-producing code with minimal per-test configuration.",
   "author": "Peter Lavigne",
   "license": null,
   "home_page": null,
-  "download_filename": "pl_mocks_and_fakes-0.0.14.tar.gz",
-  "download_time": "2026-02-23T11:53:57.791236",
+  "download_filename": "pl_mocks_and_fakes-0.0.21.tar.gz",
+  "download_time": "2026-02-24T15:42:22.497178",
   "package_url": "https://pypi.org/project/pl-mocks-and-fakes/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "workiva",
-  "version": "0.6.5",
+  "version": "0.6.8",
   "summary": "Workiva Python SDK - Unified client for Platform, Chains, and Wdata APIs",
   "author": "Jorge Revenga",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "workiva-0.6.5.tar.gz",
-  "download_time": "2026-02-18T19:28:15.047723",
+  "download_filename": "workiva-0.6.8.tar.gz",
+  "download_time": "2026-02-24T15:42:06.928157",
   "package_url": "https://pypi.org/project/workiva/"
 }

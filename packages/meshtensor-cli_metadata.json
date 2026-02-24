@@ -1,11 +1,11 @@
 {
   "name": "meshtensor-cli",
-  "version": "9.27.2",
+  "version": "9.28.1",
   "summary": "Meshtensor CLI",
   "author": "meshtensor.com",
   "license": null,
   "home_page": null,
-  "download_filename": "meshtensor_cli-9.27.2.tar.gz",
-  "download_time": "2026-02-20T13:24:01.507942",
+  "download_filename": "meshtensor_cli-9.28.1.tar.gz",
+  "download_time": "2026-02-24T15:42:05.223069",
   "package_url": "https://pypi.org/project/meshtensor-cli/"
 }

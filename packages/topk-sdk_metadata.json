@@ -1,0 +1,11 @@
+{
+  "name": "topk-sdk",
+  "version": "0.7.6",
+  "summary": "Python SDK for topk.io",
+  "author": null,
+  "license": null,
+  "home_page": "https://topk.io",
+  "download_filename": "topk_sdk-0.7.6.tar.gz",
+  "download_time": "2026-02-24T15:42:38.885928",
+  "package_url": "https://pypi.org/project/topk-sdk/"
+}
