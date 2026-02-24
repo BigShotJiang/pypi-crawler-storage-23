@@ -1,0 +1,11 @@
+{
+  "name": "lazynwb",
+  "version": "0.2.81",
+  "summary": "An attempt to speed-up access to large NWB (Neurodata Without Borders) files stored in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lazynwb-0.2.81.tar.gz",
+  "download_time": "2026-02-24T01:10:10.556095",
+  "package_url": "https://pypi.org/project/lazynwb/"
+}

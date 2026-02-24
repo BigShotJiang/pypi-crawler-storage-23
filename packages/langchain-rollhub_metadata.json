@@ -1,0 +1,11 @@
+{
+  "name": "langchain-rollhub",
+  "version": "0.1.0",
+  "summary": "LangChain tools for Agent Casino — provably fair dice gambling for AI agents",
+  "author": "RollHub",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_rollhub-0.1.0.tar.gz",
+  "download_time": "2026-02-24T01:10:34.735872",
+  "package_url": "https://pypi.org/project/langchain-rollhub/"
+}

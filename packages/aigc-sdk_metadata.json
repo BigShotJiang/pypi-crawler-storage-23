@@ -1,0 +1,11 @@
+{
+  "name": "aigc-sdk",
+  "version": "0.1.3",
+  "summary": "Deterministic, fail-closed governance enforcement for AI model invocations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aigc_sdk-0.1.3.tar.gz",
+  "download_time": "2026-02-24T01:10:17.421276",
+  "package_url": "https://pypi.org/project/aigc-sdk/"
+}

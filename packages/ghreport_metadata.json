@@ -1,0 +1,11 @@
+{
+  "name": "ghreport",
+  "version": "1.4",
+  "summary": "ghreport - Github report generator. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghreport-1.4.tar.gz",
+  "download_time": "2026-02-24T01:10:39.012891",
+  "package_url": "https://pypi.org/project/ghreport/"
+}
