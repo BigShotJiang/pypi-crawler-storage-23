@@ -1,0 +1,11 @@
+{
+  "name": "pyodoo-client",
+  "version": "19.0.3",
+  "summary": "Odoo JSON-2 API client for Odoo 19+",
+  "author": "ArtIQ",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyodoo_client-19.0.3.tar.gz",
+  "download_time": "2026-02-25T06:40:00.835898",
+  "package_url": "https://pypi.org/project/pyodoo-client/"
+}

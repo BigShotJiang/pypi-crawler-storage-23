@@ -1,0 +1,11 @@
+{
+  "name": "microsoft.azure-diagram-mcp-server",
+  "version": "0.1.0",
+  "summary": "An MCP server that generates professional diagrams using the Python diagrams package DSL, with first-class Azure support",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microsoft_azure_diagram_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-25T06:39:45.967337",
+  "package_url": "https://pypi.org/project/microsoft.azure-diagram-mcp-server/"
+}

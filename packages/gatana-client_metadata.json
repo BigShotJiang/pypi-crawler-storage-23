@@ -1,11 +1,11 @@
 {
   "name": "gatana-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A client library for accessing Gatana",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gatana_client-1.0.0.tar.gz",
-  "download_time": "2026-02-24T19:39:42.782554",
+  "download_filename": "gatana_client-1.0.1.tar.gz",
+  "download_time": "2026-02-25T06:40:19.078468",
   "package_url": "https://pypi.org/project/gatana-client/"
 }

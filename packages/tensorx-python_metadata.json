@@ -1,0 +1,11 @@
+{
+  "name": "tensorx-python",
+  "version": "0.0.4",
+  "summary": "Python bindings for the Tensor-library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorx_python-0.0.4-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-25T06:40:08.119891",
+  "package_url": "https://pypi.org/project/tensorx-python/"
+}

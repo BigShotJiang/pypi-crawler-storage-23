@@ -1,11 +1,11 @@
 {
   "name": "doit-fm",
-  "version": "1.0.0",
-  "summary": "Telegram-Controlled File Management Engine",
+  "version": "2.0.0",
+  "summary": "AI-powered local automation agent — controlled via Telegram. Manages your whole computer.",
   "author": "Doit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "doit_fm-1.0.0.tar.gz",
-  "download_time": "2026-02-25T01:17:00.404021",
+  "download_filename": "doit_fm-2.0.0.tar.gz",
+  "download_time": "2026-02-25T06:40:23.773858",
   "package_url": "https://pypi.org/project/doit-fm/"
 }

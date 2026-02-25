@@ -1,0 +1,11 @@
+{
+  "name": "zhicli",
+  "version": "0.1.23",
+  "summary": "Agentic CLI powered by Zhipu GLM models",
+  "author": "zhi contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zhicli-0.1.23.tar.gz",
+  "download_time": "2026-02-25T06:39:47.031185",
+  "package_url": "https://pypi.org/project/zhicli/"
+}

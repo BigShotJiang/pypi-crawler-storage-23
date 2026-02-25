@@ -1,0 +1,11 @@
+{
+  "name": "reforge-core",
+  "version": "0.0.8",
+  "summary": "Reforge Core SDK by Reforge Robotics.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reforge_core-0.0.8.tar.gz",
+  "download_time": "2026-02-25T06:40:05.492653",
+  "package_url": "https://pypi.org/project/reforge-core/"
+}
