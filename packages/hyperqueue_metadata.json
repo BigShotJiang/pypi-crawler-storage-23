@@ -1,0 +1,11 @@
+{
+  "name": "hyperqueue",
+  "version": "0.25.0",
+  "summary": "HyperQueue Python API",
+  "author": "Ada Böhm <ada@kreatrix.org>, Jakub Beránek <berykubik@gmail.com>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperqueue-0.25.0-cp39-abi3-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-25T15:46:49.231425",
+  "package_url": "https://pypi.org/project/hyperqueue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-odoo-implementation-work-log",
+  "version": "14.0.1.6.0",
+  "summary": "Odoo Implementation - Work Log Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_odoo_implementation_work_log-14.0.1.6.0-py3-none-any.whl",
+  "download_time": "2026-02-25T15:46:44.329093",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-odoo-implementation-work-log/"
+}

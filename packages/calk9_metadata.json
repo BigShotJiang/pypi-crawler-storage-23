@@ -1,11 +1,11 @@
 {
   "name": "calk9",
-  "version": "0.34.1",
+  "version": "0.34.4",
   "summary": "Reproducibility simplified.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "calk9-0.34.1.tar.gz",
-  "download_time": "2026-02-22T05:13:19.937880",
+  "download_filename": "calk9-0.34.4.tar.gz",
+  "download_time": "2026-02-25T15:46:57.094991",
   "package_url": "https://pypi.org/project/calk9/"
 }

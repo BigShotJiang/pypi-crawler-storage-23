@@ -1,0 +1,11 @@
+{
+  "name": "itkdb-gtk",
+  "version": "0.22.3",
+  "summary": "A collection of Gtk based GUI to access ITkDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itkdb_gtk-0.22.3.tar.gz",
+  "download_time": "2026-02-25T15:46:57.671464",
+  "package_url": "https://pypi.org/project/itkdb-gtk/"
+}

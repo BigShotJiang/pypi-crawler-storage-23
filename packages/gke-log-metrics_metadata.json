@@ -1,0 +1,11 @@
+{
+  "name": "gke-log-metrics",
+  "version": "0.2.0",
+  "summary": "GKE-friendly JSON logging and optional Prometheus metrics for Grafana log-based metrics and monitoring",
+  "author": "Data Science Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gke_log_metrics-0.2.0.tar.gz",
+  "download_time": "2026-02-25T15:46:36.641064",
+  "package_url": "https://pypi.org/project/gke-log-metrics/"
+}

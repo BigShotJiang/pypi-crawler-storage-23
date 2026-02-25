@@ -1,0 +1,11 @@
+{
+  "name": "commit-and-tag-version",
+  "version": "0.0.3",
+  "summary": "A utility for versioning using semver and CHANGELOG generation powered by Conventional Commits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commit_and_tag_version-0.0.3.tar.gz",
+  "download_time": "2026-02-25T15:47:03.336428",
+  "package_url": "https://pypi.org/project/commit-and-tag-version/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyspectrakit",
+  "version": "1.8.0",
+  "summary": "Python toolkit for spectral data processing: format parsers, baseline correction, normalization, and similarity matching.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspectrakit-1.8.0.tar.gz",
+  "download_time": "2026-02-25T15:46:41.240634",
+  "package_url": "https://pypi.org/project/pyspectrakit/"
+}

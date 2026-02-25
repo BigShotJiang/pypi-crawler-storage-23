@@ -1,0 +1,11 @@
+{
+  "name": "tensorcontainer",
+  "version": "0.8.2",
+  "summary": "TensorDict-like functionality for PyTorch with PyTree compatibility and torch.compile support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tensorcontainer-0.8.2.tar.gz",
+  "download_time": "2026-02-25T15:46:30.395335",
+  "package_url": "https://pypi.org/project/tensorcontainer/"
+}

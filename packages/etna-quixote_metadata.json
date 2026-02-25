@@ -1,0 +1,11 @@
+{
+  "name": "etna-quixote",
+  "version": "3.0.1",
+  "summary": "Front-end to write automated tests for Etna projects",
+  "author": "Clément \"Doom\" Doumergue",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "etna_quixote-3.0.1.tar.gz",
+  "download_time": "2026-02-25T15:46:36.130618",
+  "package_url": "https://pypi.org/project/etna-quixote/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataset-foundry",
+  "version": "0.4.0",
+  "summary": "Build, refine and validate AI safety datasets using LLM pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataset_foundry-0.4.0.tar.gz",
+  "download_time": "2026-02-25T15:46:49.766231",
+  "package_url": "https://pypi.org/project/dataset-foundry/"
+}

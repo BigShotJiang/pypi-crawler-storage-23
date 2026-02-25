@@ -1,11 +1,11 @@
 {
   "name": "etransfer",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A TUS-based file transfer tool with chunked upload/download support",
   "author": "ETransfer Team",
   "license": null,
   "home_page": null,
-  "download_filename": "etransfer-0.1.17.tar.gz",
-  "download_time": "2026-02-25T11:54:38.481314",
+  "download_filename": "etransfer-0.1.18.tar.gz",
+  "download_time": "2026-02-25T15:46:29.303670",
   "package_url": "https://pypi.org/project/etransfer/"
 }
