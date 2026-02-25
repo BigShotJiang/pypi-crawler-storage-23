@@ -1,11 +1,11 @@
 {
   "name": "dynamiq",
-  "version": "0.39.2",
+  "version": "0.40.0",
   "summary": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
   "author": "Dynamiq Team",
   "license": "Apache-2.0",
   "home_page": "https://www.getdynamiq.ai",
-  "download_filename": "dynamiq-0.39.2.tar.gz",
-  "download_time": "2026-02-19T19:49:07.375983",
+  "download_filename": "dynamiq-0.40.0.tar.gz",
+  "download_time": "2026-02-25T20:56:30.655453",
   "package_url": "https://pypi.org/project/dynamiq/"
 }

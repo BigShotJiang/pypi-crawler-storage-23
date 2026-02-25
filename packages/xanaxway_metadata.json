@@ -1,0 +1,11 @@
+{
+  "name": "xanaxway",
+  "version": "0.1.8",
+  "summary": "XanaxWay API Python, LLM",
+  "author": "XanaxWay",
+  "license": null,
+  "home_page": "https://xanaxway.com",
+  "download_filename": "xanaxway-0.1.8.tar.gz",
+  "download_time": "2026-02-25T20:56:10.209405",
+  "package_url": "https://pypi.org/project/xanaxway/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentic-brain",
+  "version": "0.3.0",
+  "summary": "Portable binary graph memory for AI agents",
+  "author": "Agentra Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_brain-0.3.0.tar.gz",
+  "download_time": "2026-02-25T20:56:52.236255",
+  "package_url": "https://pypi.org/project/agentic-brain/"
+}

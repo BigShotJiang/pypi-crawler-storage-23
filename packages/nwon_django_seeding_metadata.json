@@ -1,0 +1,11 @@
+{
+  "name": "nwon_django_seeding",
+  "version": "1.0.8",
+  "summary": "A Django seeding solution build on top of fixtures",
+  "author": "Reik Stiebeling",
+  "license": "MIT",
+  "home_page": "https://nwon.de",
+  "download_filename": "nwon_django_seeding-1.0.8.tar.gz",
+  "download_time": "2026-02-25T20:56:30.068819",
+  "package_url": "https://pypi.org/project/nwon_django_seeding/"
+}

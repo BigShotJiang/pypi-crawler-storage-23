@@ -1,0 +1,11 @@
+{
+  "name": "py2n",
+  "version": "0.6.0",
+  "summary": "Python library for 2N® devices",
+  "author": "Linus Groschke",
+  "license": "MIT",
+  "home_page": "https://github.com/linusgke/py2n",
+  "download_filename": "py2n-0.6.0.tar.gz",
+  "download_time": "2026-02-25T20:56:58.927482",
+  "package_url": "https://pypi.org/project/py2n/"
+}

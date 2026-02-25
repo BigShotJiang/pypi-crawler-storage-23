@@ -1,11 +1,11 @@
 {
   "name": "policyengine-us",
-  "version": "1.581.2",
+  "version": "1.586.2",
   "summary": "Add your description here.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_us-1.581.2.tar.gz",
-  "download_time": "2026-02-23T22:44:35.496957",
+  "download_filename": "policyengine_us-1.586.2.tar.gz",
+  "download_time": "2026-02-25T20:56:33.631656",
   "package_url": "https://pypi.org/project/policyengine-us/"
 }

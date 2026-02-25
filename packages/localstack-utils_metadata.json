@@ -1,11 +1,11 @@
 {
   "name": "localstack-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Utils for testing with LocalStack",
   "author": "Cristopher Pinzon",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/localstack/localstack-python-utils",
-  "download_filename": "localstack_utils-1.0.3.tar.gz",
-  "download_time": "2026-02-25T19:47:23.504277",
+  "download_filename": "localstack_utils-1.0.4.tar.gz",
+  "download_time": "2026-02-25T20:56:21.614436",
   "package_url": "https://pypi.org/project/localstack-utils/"
 }

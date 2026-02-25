@@ -1,0 +1,11 @@
+{
+  "name": "qvoting",
+  "version": "0.1.2",
+  "summary": "Quantum voting circuits with integrated error mitigation for NISQ hardware",
+  "author": "Nicolas Yesid Corredor Guasca",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qvoting-0.1.2.tar.gz",
+  "download_time": "2026-02-25T20:57:00.045430",
+  "package_url": "https://pypi.org/project/qvoting/"
+}
