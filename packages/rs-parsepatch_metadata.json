@@ -1,0 +1,11 @@
+{
+  "name": "rs-parsepatch",
+  "version": "0.4.6",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/mozilla/pyo3-parsepatch",
+  "download_filename": "rs_parsepatch-0.4.6.tar.gz",
+  "download_time": "2026-02-25T23:02:51.125416",
+  "package_url": "https://pypi.org/project/rs-parsepatch/"
+}

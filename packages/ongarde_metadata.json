@@ -1,0 +1,11 @@
+{
+  "name": "ongarde",
+  "version": "1.0.0",
+  "summary": "OnGarde — Runtime content security layer for self-hosted AI agent platforms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ongarde-1.0.0.tar.gz",
+  "download_time": "2026-02-25T23:03:18.530280",
+  "package_url": "https://pypi.org/project/ongarde/"
+}

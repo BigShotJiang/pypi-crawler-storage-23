@@ -1,0 +1,11 @@
+{
+  "name": "crossref-matcher",
+  "version": "1.2.0",
+  "summary": "Crossref's matching API",
+  "author": "Crossref",
+  "license": null,
+  "home_page": "https://gitlab.com/crossref/marple",
+  "download_filename": "crossref_matcher-1.2.0.tar.gz",
+  "download_time": "2026-02-25T23:03:11.006501",
+  "package_url": "https://pypi.org/project/crossref-matcher/"
+}

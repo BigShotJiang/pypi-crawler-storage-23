@@ -1,0 +1,11 @@
+{
+  "name": "msal-msiv2",
+  "version": "1.35.0rc3",
+  "summary": "Microsoft Authentication Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
+  "download_filename": "msal_msiv2-1.35.0rc3-py3-none-any.whl",
+  "download_time": "2026-02-25T23:03:15.859321",
+  "package_url": "https://pypi.org/project/msal-msiv2/"
+}

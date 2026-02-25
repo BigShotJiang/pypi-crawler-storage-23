@@ -1,0 +1,11 @@
+{
+  "name": "ddcDatabases",
+  "version": "3.0.11",
+  "summary": "Simplified database ORM connections with support for multiple database engines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddcdatabases-3.0.11.tar.gz",
+  "download_time": "2026-02-25T23:03:26.540924",
+  "package_url": "https://pypi.org/project/ddcDatabases/"
+}

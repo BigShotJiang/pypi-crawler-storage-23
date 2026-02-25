@@ -1,11 +1,11 @@
 {
   "name": "pymcel",
-  "version": "0.9.3",
+  "version": "0.9.8",
   "summary": "Utilidades de Mecánica Celeste",
   "author": "Jorge I. Zuluaga",
   "license": "MIT",
   "home_page": "https://pypi.org/project/pymcel",
-  "download_filename": "pymcel-0.9.3.tar.gz",
-  "download_time": "2026-02-24T05:14:55.181983",
+  "download_filename": "pymcel-0.9.8.tar.gz",
+  "download_time": "2026-02-25T23:02:47.929018",
   "package_url": "https://pypi.org/project/pymcel/"
 }

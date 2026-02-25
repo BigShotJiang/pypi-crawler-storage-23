@@ -1,0 +1,11 @@
+{
+  "name": "pyhosts",
+  "version": "0.3.1",
+  "summary": "Pythonic way to manage hosts file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhosts-0.3.1.tar.gz",
+  "download_time": "2026-02-25T23:02:53.342263",
+  "package_url": "https://pypi.org/project/pyhosts/"
+}

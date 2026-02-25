@@ -1,11 +1,11 @@
 {
   "name": "fouroversix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "More Accurate FP4 Quantization with Adaptive Block Scaling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fouroversix-1.0.2.tar.gz",
-  "download_time": "2026-02-21T03:32:12.055707",
+  "download_filename": "fouroversix-1.0.3.tar.gz",
+  "download_time": "2026-02-25T23:03:31.378941",
   "package_url": "https://pypi.org/project/fouroversix/"
 }

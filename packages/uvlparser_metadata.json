@@ -1,0 +1,11 @@
+{
+  "name": "uvlparser",
+  "version": "2.5.0",
+  "summary": "This module provides a get_tree function to obtain an ANTLR parse-tree from a UVL-defined feature model",
+  "author": "UVL Team",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/Universal-Variability-Language/uvl-parser",
+  "download_filename": "uvlparser-2.5.0.tar.gz",
+  "download_time": "2026-02-25T23:03:09.920213",
+  "package_url": "https://pypi.org/project/uvlparser/"
+}

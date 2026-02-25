@@ -1,0 +1,11 @@
+{
+  "name": "aegis-security",
+  "version": "1.0.0",
+  "summary": "AI Environment Guardian & Integrity Shield — Kernel-level supply chain security with eBPF LSM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aegis_security-1.0.0-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-25T23:03:21.211493",
+  "package_url": "https://pypi.org/project/aegis-security/"
+}

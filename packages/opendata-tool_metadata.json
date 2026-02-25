@@ -1,11 +1,11 @@
 {
   "name": "opendata-tool",
-  "version": "0.22.25",
+  "version": "0.22.32",
   "summary": "Scientific metadata preparation and packaging tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendata_tool-0.22.25-py3-none-any.whl",
-  "download_time": "2026-02-24T23:00:22.416684",
+  "download_filename": "opendata_tool-0.22.32-py3-none-any.whl",
+  "download_time": "2026-02-25T23:02:57.641424",
   "package_url": "https://pypi.org/project/opendata-tool/"
 }

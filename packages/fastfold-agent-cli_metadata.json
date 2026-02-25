@@ -1,11 +1,11 @@
 {
   "name": "fastfold-agent-cli",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Fastfold CLI — An autonomous agent for drug discovery research",
   "author": "Fastfold AI Corp.",
   "license": null,
   "home_page": null,
-  "download_filename": "fastfold_agent_cli-0.0.2.tar.gz",
-  "download_time": "2026-02-25T22:24:08.320069",
+  "download_filename": "fastfold_agent_cli-0.0.5.tar.gz",
+  "download_time": "2026-02-25T23:02:49.527118",
   "package_url": "https://pypi.org/project/fastfold-agent-cli/"
 }
