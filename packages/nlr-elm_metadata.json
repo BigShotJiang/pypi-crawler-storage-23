@@ -1,0 +1,11 @@
+{
+  "name": "nlr-elm",
+  "version": "0.0.37",
+  "summary": "Energy Language Model",
+  "author": "Grant Buster",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/NatLabRockies/elm",
+  "download_filename": "nlr_elm-0.0.37.tar.gz",
+  "download_time": "2026-02-25T20:10:41.334486",
+  "package_url": "https://pypi.org/project/nlr-elm/"
+}

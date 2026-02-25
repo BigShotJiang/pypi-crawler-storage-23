@@ -1,11 +1,11 @@
 {
   "name": "tslocalapi",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Client library for the Tailscale Local API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tslocalapi-0.0.1.tar.gz",
-  "download_time": "2026-02-25T19:46:54.953585",
+  "download_filename": "tslocalapi-0.0.3.tar.gz",
+  "download_time": "2026-02-25T20:11:01.547876",
   "package_url": "https://pypi.org/project/tslocalapi/"
 }

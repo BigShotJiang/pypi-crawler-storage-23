@@ -1,0 +1,11 @@
+{
+  "name": "referral",
+  "version": "0.1.0",
+  "summary": "Referral and invite system for SaaS products",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "referral-0.1.0.tar.gz",
+  "download_time": "2026-02-25T20:10:24.213081",
+  "package_url": "https://pypi.org/project/referral/"
+}
