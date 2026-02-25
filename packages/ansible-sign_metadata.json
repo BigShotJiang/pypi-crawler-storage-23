@@ -1,0 +1,11 @@
+{
+  "name": "ansible-sign",
+  "version": "0.1.5",
+  "summary": "Ansible content validation library and CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_sign-0.1.5.tar.gz",
+  "download_time": "2026-02-25T11:55:00.694717",
+  "package_url": "https://pypi.org/project/ansible-sign/"
+}

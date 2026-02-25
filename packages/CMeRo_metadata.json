@@ -1,0 +1,11 @@
+{
+  "name": "CMeRo",
+  "version": "2.0.0",
+  "summary": "The CMeRo compiler for writing C extensions in the Python language.",
+  "author": "Robert Bradshaw, Stefan Behnel, David Woods, Greg Ewing, et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/6x-u/CMeRo",
+  "download_filename": "cmero-2.0.0.tar.gz",
+  "download_time": "2026-02-25T11:54:55.942073",
+  "package_url": "https://pypi.org/project/CMeRo/"
+}

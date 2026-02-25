@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-llms-txt-rw",
+  "version": "0.5.5",
+  "summary": "llms-full.txt generator for Sphinx",
+  "author": "Mladen Zagorac",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphinx_llms_txt_rw-0.5.5.tar.gz",
+  "download_time": "2026-02-25T11:55:12.765131",
+  "package_url": "https://pypi.org/project/sphinx-llms-txt-rw/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "turkicnlp",
-  "version": "0.1.2",
-  "summary": "NLP toolkit for 20+ Turkic languages",
+  "version": "0.1.6",
+  "summary": "NLP toolkit for Turkic languages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turkicnlp-0.1.2.tar.gz",
-  "download_time": "2026-02-18T16:42:46.730400",
+  "download_filename": "turkicnlp-0.1.6.tar.gz",
+  "download_time": "2026-02-25T11:54:34.828941",
   "package_url": "https://pypi.org/project/turkicnlp/"
 }

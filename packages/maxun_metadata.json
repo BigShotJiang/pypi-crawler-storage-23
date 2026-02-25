@@ -1,0 +1,11 @@
+{
+  "name": "maxun",
+  "version": "0.0.2",
+  "summary": "Python SDK for Maxun - web automation and data extraction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maxun-0.0.2.tar.gz",
+  "download_time": "2026-02-25T11:54:53.324668",
+  "package_url": "https://pypi.org/project/maxun/"
+}

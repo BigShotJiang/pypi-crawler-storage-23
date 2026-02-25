@@ -1,0 +1,11 @@
+{
+  "name": "ncae-sdk",
+  "version": "0.1.3",
+  "summary": "Python SDK for Netcloud Automation Engine (NCAE)",
+  "author": "Netcloud AG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncae_sdk-0.1.3.tar.gz",
+  "download_time": "2026-02-25T11:55:05.893869",
+  "package_url": "https://pypi.org/project/ncae-sdk/"
+}

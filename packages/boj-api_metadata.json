@@ -1,0 +1,11 @@
+{
+  "name": "boj-api",
+  "version": "0.1.2",
+  "summary": "A production-ready Python client for the Bank of Japan (BOJ) Time-Series Statistics Search Site API.",
+  "author": "Kenta Aratani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boj_api-0.1.2.tar.gz",
+  "download_time": "2026-02-25T11:55:10.132841",
+  "package_url": "https://pypi.org/project/boj-api/"
+}
