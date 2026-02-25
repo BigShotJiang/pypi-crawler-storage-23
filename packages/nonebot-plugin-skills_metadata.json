@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-skills",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "Gemini avatar/image and chat plugin with skills and context cache for NoneBot2",
   "author": "SuInk",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_skills-0.2.9.tar.gz",
-  "download_time": "2026-02-25T15:46:26.141431",
+  "download_filename": "nonebot_plugin_skills-0.2.11.tar.gz",
+  "download_time": "2026-02-25T16:50:42.117501",
   "package_url": "https://pypi.org/project/nonebot-plugin-skills/"
 }

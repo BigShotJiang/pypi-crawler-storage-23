@@ -1,0 +1,11 @@
+{
+  "name": "eskape-model",
+  "version": "1.0.2",
+  "summary": "The ESKAPE Model is a machine learning-based online resource to facilitate discovery of novel antibiotics against the ESKAPE pathogens.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eskape_model-1.0.2.tar.gz",
+  "download_time": "2026-02-25T16:50:10.143360",
+  "package_url": "https://pypi.org/project/eskape-model/"
+}

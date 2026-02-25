@@ -1,11 +1,11 @@
 {
   "name": "latitude-sdk",
-  "version": "5.9.0",
+  "version": "5.10.0",
   "summary": "Latitude SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "latitude_sdk-5.9.0.tar.gz",
-  "download_time": "2026-02-25T14:46:59.420665",
+  "download_filename": "latitude_sdk-5.10.0.tar.gz",
+  "download_time": "2026-02-25T16:50:33.349171",
   "package_url": "https://pypi.org/project/latitude-sdk/"
 }

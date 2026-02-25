@@ -1,0 +1,11 @@
+{
+  "name": "opclabs-mqtt",
+  "version": "5.83.1093",
+  "summary": "MQTT communication package based on System.Net.Mqtt library by Xamarin (Microsoft).",
+  "author": "CODE Consulting and Development, s.r.o.",
+  "license": null,
+  "home_page": "https://kb.opclabs.com/OpcLabs.Mqtt_communication_package?python",
+  "download_filename": "opclabs_mqtt-5.83.1093.tar.gz",
+  "download_time": "2026-02-25T16:50:28.223769",
+  "package_url": "https://pypi.org/project/opclabs-mqtt/"
+}
