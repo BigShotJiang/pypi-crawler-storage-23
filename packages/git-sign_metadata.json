@@ -1,0 +1,11 @@
+{
+  "name": "git-sign",
+  "version": "0.1.0",
+  "summary": "Re-sign commits on a branch with your GPG/SSH key.",
+  "author": "Mazin Ahmed",
+  "license": "MIT",
+  "home_page": "https://github.com/mazen160/git-sign",
+  "download_filename": "git_sign-0.1.0.tar.gz",
+  "download_time": "2026-02-25T01:16:54.669148",
+  "package_url": "https://pypi.org/project/git-sign/"
+}

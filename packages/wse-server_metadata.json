@@ -1,11 +1,11 @@
 {
   "name": "wse-server",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "Rust-powered WebSocket engine for Python. Up to 14M msg/s JSON, 30M binary (MsgPack/zlib). Zero-GIL JWT. E2E encrypted.",
   "author": "silvermpx",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wse_server-1.4.3.tar.gz",
-  "download_time": "2026-02-24T23:00:20.776858",
+  "download_filename": "wse_server-1.4.4.tar.gz",
+  "download_time": "2026-02-25T01:16:59.373069",
   "package_url": "https://pypi.org/project/wse-server/"
 }

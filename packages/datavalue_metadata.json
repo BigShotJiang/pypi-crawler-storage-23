@@ -1,11 +1,11 @@
 {
   "name": "datavalue",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Librería de tipos de datos primitivos y complejos",
   "author": "Specter",
   "license": null,
   "home_page": null,
-  "download_filename": "datavalue-0.1.15.tar.gz",
-  "download_time": "2026-02-24T05:14:58.073095",
+  "download_filename": "datavalue-0.1.16.tar.gz",
+  "download_time": "2026-02-25T01:17:06.705577",
   "package_url": "https://pypi.org/project/datavalue/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "shots",
+  "version": "0.2.1",
+  "summary": "LLM-assisted high-res marketing screenshots for SaaS apps (generic login via Playwright storage_state).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shots-0.2.1.tar.gz",
+  "download_time": "2026-02-25T01:16:38.536398",
+  "package_url": "https://pypi.org/project/shots/"
+}

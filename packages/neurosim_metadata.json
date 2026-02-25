@@ -1,0 +1,11 @@
+{
+  "name": "neurosim",
+  "version": "0.1.0",
+  "summary": "A Gymnasium platform for reinforcement learning in brain-computer interfaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurosim-0.1.0.tar.gz",
+  "download_time": "2026-02-25T01:16:36.985151",
+  "package_url": "https://pypi.org/project/neurosim/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "krabby-controller",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Joystick-controlled Krabby: sim and real HAL paths",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krabby_controller-0.1.0-py3-none-any.whl",
-  "download_time": "2026-02-20T17:34:50.552275",
+  "download_filename": "krabby_controller-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-25T01:16:39.562688",
   "package_url": "https://pypi.org/project/krabby-controller/"
 }
