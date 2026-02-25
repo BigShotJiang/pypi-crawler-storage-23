@@ -1,11 +1,11 @@
 {
   "name": "respan-exporter-anthropic-agents",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "summary": "Exporter for Anthropic Agent SDK telemetry to Respan",
   "author": "Respan",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "respan_exporter_anthropic_agents-1.0.0.tar.gz",
-  "download_time": "2026-02-25T01:17:07.217416",
+  "download_filename": "respan_exporter_anthropic_agents-1.0.7-py3-none-any.whl",
+  "download_time": "2026-02-25T03:47:57.778126",
   "package_url": "https://pypi.org/project/respan-exporter-anthropic-agents/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lidar-manager",
+  "version": "0.1.0",
+  "summary": "LiDAR 点云投影、颜色管理、降采样、缓存，含单点 3D→2D 投影，输出渲染图",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lidar_manager-0.1.0.tar.gz",
+  "download_time": "2026-02-25T03:48:11.995122",
+  "package_url": "https://pypi.org/project/lidar-manager/"
+}

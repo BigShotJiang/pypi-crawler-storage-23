@@ -1,0 +1,11 @@
+{
+  "name": "magicli",
+  "version": "2.0.0",
+  "summary": "Automatically generates a CLI from functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magicli-2.0.0.tar.gz",
+  "download_time": "2026-02-25T03:48:34.999490",
+  "package_url": "https://pypi.org/project/magicli/"
+}

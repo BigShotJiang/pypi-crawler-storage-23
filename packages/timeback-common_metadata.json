@@ -1,0 +1,11 @@
+{
+  "name": "timeback-common",
+  "version": "0.1.9",
+  "summary": "Shared infrastructure for Timeback Python clients",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timeback_common-0.1.9.tar.gz",
+  "download_time": "2026-02-25T03:48:01.504404",
+  "package_url": "https://pypi.org/project/timeback-common/"
+}

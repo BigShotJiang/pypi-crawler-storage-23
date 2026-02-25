@@ -1,0 +1,11 @@
+{
+  "name": "oauth-codex",
+  "version": "3.2.0",
+  "summary": "Codex OAuth-based Python SDK with a single Client and generate-first API",
+  "author": "Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oauth_codex-3.2.0.tar.gz",
+  "download_time": "2026-02-25T03:48:09.952485",
+  "package_url": "https://pypi.org/project/oauth-codex/"
+}

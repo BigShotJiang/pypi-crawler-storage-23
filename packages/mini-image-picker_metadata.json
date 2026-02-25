@@ -1,0 +1,11 @@
+{
+  "name": "mini-image-picker",
+  "version": "0.0.3",
+  "summary": "图像选点与可缩放平移视图组件（PySide6），与 D05 lidar-manager 选点 API 配合，支持坐标 round-trip；ZoomPanLabel、ImagePickerWindow、PickerSession，高内聚低耦合。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mini_image_picker-0.0.3.tar.gz",
+  "download_time": "2026-02-25T03:48:10.463690",
+  "package_url": "https://pypi.org/project/mini-image-picker/"
+}

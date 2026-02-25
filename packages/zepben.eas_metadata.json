@@ -1,11 +1,11 @@
 {
   "name": "zepben.eas",
-  "version": "0.27.0",
+  "version": "0.29.0",
   "summary": "Python SDK for interacting with the Evolve App Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zepben_eas-0.27.0.tar.gz",
-  "download_time": "2026-02-24T03:46:41.804765",
+  "download_filename": "zepben_eas-0.29.0.tar.gz",
+  "download_time": "2026-02-25T03:48:29.769869",
   "package_url": "https://pypi.org/project/zepben.eas/"
 }

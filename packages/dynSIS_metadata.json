@@ -1,0 +1,11 @@
+{
+  "name": "dynSIS",
+  "version": "2.0.0",
+  "summary": "Python wrapper for dynSIS Fortran simulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynsis-2.0.0.tar.gz",
+  "download_time": "2026-02-25T03:48:21.513367",
+  "package_url": "https://pypi.org/project/dynSIS/"
+}
