@@ -1,0 +1,11 @@
+{
+  "name": "fsweep",
+  "version": "0.3.1",
+  "summary": "An advanced workspace cleanup tool for developers to reclaim disk space.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fsweep-0.3.1.tar.gz",
+  "download_time": "2026-02-25T12:40:56.692816",
+  "package_url": "https://pypi.org/project/fsweep/"
+}

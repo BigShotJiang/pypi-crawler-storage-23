@@ -1,0 +1,11 @@
+{
+  "name": "piqrypt-crewai-integration",
+  "version": "1.0.0",
+  "summary": "PiQrypt cryptographic audit trail bridge for CrewAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piqrypt_crewai_integration-1.0.0.tar.gz",
+  "download_time": "2026-02-25T12:41:25.531476",
+  "package_url": "https://pypi.org/project/piqrypt-crewai-integration/"
+}

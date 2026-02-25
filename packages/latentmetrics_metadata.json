@@ -1,0 +1,11 @@
+{
+  "name": "latentmetrics",
+  "version": "0.1.4",
+  "summary": "Minimalistic latent correlation estimators for discretized data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latentmetrics-0.1.4.tar.gz",
+  "download_time": "2026-02-25T12:41:17.279350",
+  "package_url": "https://pypi.org/project/latentmetrics/"
+}

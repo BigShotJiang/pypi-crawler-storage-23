@@ -1,0 +1,11 @@
+{
+  "name": "iiif-anywidget",
+  "version": "0.0.1",
+  "summary": "Widgets to view images served frdom IIIF sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iiif_anywidget-0.0.1.tar.gz",
+  "download_time": "2026-02-25T12:40:55.665107",
+  "package_url": "https://pypi.org/project/iiif-anywidget/"
+}
