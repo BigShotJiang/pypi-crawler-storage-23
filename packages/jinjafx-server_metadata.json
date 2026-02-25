@@ -1,0 +1,11 @@
+{
+  "name": "jinjafx-server",
+  "version": "26.3.1",
+  "summary": "JinjaFx Server - Jinja2 Templating Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jinjafx_server-26.3.1.tar.gz",
+  "download_time": "2026-02-25T10:14:09.712395",
+  "package_url": "https://pypi.org/project/jinjafx-server/"
+}

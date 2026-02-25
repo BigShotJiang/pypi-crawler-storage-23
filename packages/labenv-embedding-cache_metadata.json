@@ -1,0 +1,11 @@
+{
+  "name": "labenv-embedding-cache",
+  "version": "0.1.4",
+  "summary": "Shared embedding cache core for cross-project reuse",
+  "author": "labenv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "labenv_embedding_cache-0.1.4.tar.gz",
+  "download_time": "2026-02-25T10:13:34.907909",
+  "package_url": "https://pypi.org/project/labenv-embedding-cache/"
+}

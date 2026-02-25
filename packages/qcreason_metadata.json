@@ -1,0 +1,11 @@
+{
+  "name": "qcreason",
+  "version": "0.0.0",
+  "summary": "A package for reasoning based on quantum circuits",
+  "author": "Alex Goessmann",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/tnreason/qcreason-py",
+  "download_filename": "qcreason-0.0.0.tar.gz",
+  "download_time": "2026-02-25T10:13:27.203090",
+  "package_url": "https://pypi.org/project/qcreason/"
+}

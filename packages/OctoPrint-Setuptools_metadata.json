@@ -1,0 +1,11 @@
+{
+  "name": "OctoPrint-Setuptools",
+  "version": "1.1.0",
+  "summary": "Setuptools helpers for installing OctoPrint & OctoPrint plugins",
+  "author": null,
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "octoprint_setuptools-1.1.0.tar.gz",
+  "download_time": "2026-02-25T10:13:54.365751",
+  "package_url": "https://pypi.org/project/OctoPrint-Setuptools/"
+}

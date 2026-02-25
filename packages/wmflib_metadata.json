@@ -1,0 +1,11 @@
+{
+  "name": "wmflib",
+  "version": "3.0.0",
+  "summary": "Generic library for common tasks in the WMF production infrastructure",
+  "author": "Luca Toscano",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/wikimedia/operations-software-pywmflib",
+  "download_filename": "wmflib-3.0.0.tar.gz",
+  "download_time": "2026-02-25T10:13:39.488272",
+  "package_url": "https://pypi.org/project/wmflib/"
+}
