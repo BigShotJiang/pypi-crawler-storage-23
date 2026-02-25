@@ -1,0 +1,11 @@
+{
+  "name": "unmanic",
+  "version": "0.4.0.post1",
+  "summary": "A simple tool for optimising your video library to a single format",
+  "author": "Josh.5",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/Josh5/unmanic",
+  "download_filename": "unmanic-0.4.0.post1.tar.gz",
+  "download_time": "2026-02-25T19:47:02.808999",
+  "package_url": "https://pypi.org/project/unmanic/"
+}

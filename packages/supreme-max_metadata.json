@@ -1,11 +1,11 @@
 {
   "name": "supreme-max",
-  "version": "1.1.8",
-  "summary": "Supreme 2 MAX - AI-first security scanner with 74 analyzers, intelligent false positive reduction, and 180+ AI agent security rules",
+  "version": "1.1.11",
+  "summary": "Supreme 2 MAX - Next-Generation AI-Native Security Scanner with 74 analyzers, intelligent false positive reduction, and 180+ AI agent security rules",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "supreme_max-1.1.8.tar.gz",
-  "download_time": "2026-02-25T14:46:30.368487",
+  "download_filename": "supreme_max-1.1.11.tar.gz",
+  "download_time": "2026-02-25T19:47:40.154646",
   "package_url": "https://pypi.org/project/supreme-max/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "erpc-py",
+  "version": "0.1.0b3",
+  "summary": "Python subprocess manager for eRPC v0.0.62 — fault-tolerant EVM RPC proxy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "erpc_py-0.1.0b3.tar.gz",
+  "download_time": "2026-02-25T19:47:26.738860",
+  "package_url": "https://pypi.org/project/erpc-py/"
+}

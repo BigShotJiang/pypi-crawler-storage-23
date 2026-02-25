@@ -1,0 +1,11 @@
+{
+  "name": "gpumod",
+  "version": "0.1.6",
+  "summary": "GPU Service Manager for ML workloads",
+  "author": "Jaigouk Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpumod-0.1.6.tar.gz",
+  "download_time": "2026-02-25T19:47:20.277077",
+  "package_url": "https://pypi.org/project/gpumod/"
+}

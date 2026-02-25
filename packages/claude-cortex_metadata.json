@@ -1,11 +1,11 @@
 {
   "name": "claude-cortex",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "summary": "Context orchestration CLI with curated agents, rules, skills, and management tools for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_cortex-3.0.1.tar.gz",
-  "download_time": "2026-02-22T16:55:45.660361",
+  "download_filename": "claude_cortex-3.1.0.tar.gz",
+  "download_time": "2026-02-25T19:47:26.205272",
   "package_url": "https://pypi.org/project/claude-cortex/"
 }

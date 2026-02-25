@@ -1,0 +1,11 @@
+{
+  "name": "arcade-yugabytedb",
+  "version": "0.1.0",
+  "summary": "Arcade tools designed for LLMs to interact with YugabyteDB databases",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_yugabytedb-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-25T19:46:56.646415",
+  "package_url": "https://pypi.org/project/arcade-yugabytedb/"
+}
