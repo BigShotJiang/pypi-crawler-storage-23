@@ -1,0 +1,11 @@
+{
+  "name": "fyron",
+  "version": "0.1.3",
+  "summary": "Fyron is an open-source Python toolkit for interoperable healthcare data and AI workflows. It provides unified access to FHIR data via REST APIs and relational (SQL-backed) FHIR servers, integrates DICOM imaging sources, and enables semantic exploration of clinical narratives using modern language models.",
+  "author": "Bits & Flames",
+  "license": "MIT",
+  "home_page": "https://github.com/bitsandflames/fyron",
+  "download_filename": "fyron-0.1.3.tar.gz",
+  "download_time": "2026-02-25T11:10:49.143701",
+  "package_url": "https://pypi.org/project/fyron/"
+}

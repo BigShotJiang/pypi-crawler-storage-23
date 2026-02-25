@@ -1,0 +1,11 @@
+{
+  "name": "gs-usb",
+  "version": "0.3.1",
+  "summary": "Python Windows/Linux/Mac CAN driver based on usbfs or WinUSB WCID for Geschwister Schneider USB/CAN devices and candleLight USB CAN interfaces.",
+  "author": "jxltom",
+  "license": "MIT",
+  "home_page": "https://github.com/jxltom/gs_usb",
+  "download_filename": "gs_usb-0.3.1.tar.gz",
+  "download_time": "2026-02-25T11:11:02.958950",
+  "package_url": "https://pypi.org/project/gs-usb/"
+}

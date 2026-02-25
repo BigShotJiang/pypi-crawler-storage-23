@@ -1,0 +1,11 @@
+{
+  "name": "apscale-blast",
+  "version": "2.0.0",
+  "summary": "Advanced Pipeline for Simple yet Comprehensive AnaLysEs of DNA metabarcoding data - BLAST application",
+  "author": "Till-Hendrik Macher",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/apscale_blast/",
+  "download_filename": "apscale_blast-2.0.0.tar.gz",
+  "download_time": "2026-02-25T11:11:00.647788",
+  "package_url": "https://pypi.org/project/apscale-blast/"
+}

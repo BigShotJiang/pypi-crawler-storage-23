@@ -1,0 +1,11 @@
+{
+  "name": "fdog",
+  "version": "1.1.2",
+  "summary": "Feature-aware Directed OrtholoG search tool",
+  "author": "Vinh Tran",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/BIONF/fDOG",
+  "download_filename": "fdog-1.1.2.tar.gz",
+  "download_time": "2026-02-25T11:10:55.442390",
+  "package_url": "https://pypi.org/project/fdog/"
+}

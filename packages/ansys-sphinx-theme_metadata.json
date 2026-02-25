@@ -1,0 +1,11 @@
+{
+  "name": "ansys-sphinx-theme",
+  "version": "1.7.1",
+  "summary": "A theme devised by ANSYS, Inc. for Sphinx documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_sphinx_theme-1.7.1.tar.gz",
+  "download_time": "2026-02-25T11:10:39.904815",
+  "package_url": "https://pypi.org/project/ansys-sphinx-theme/"
+}

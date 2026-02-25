@@ -1,0 +1,11 @@
+{
+  "name": "gradual-mining",
+  "version": "0.3.0",
+  "summary": "Unified Python package for gradual pattern mining with multiple algorithms",
+  "author": "Gradual Mining Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gradual_mining-0.3.0.tar.gz",
+  "download_time": "2026-02-25T11:11:04.116464",
+  "package_url": "https://pypi.org/project/gradual-mining/"
+}

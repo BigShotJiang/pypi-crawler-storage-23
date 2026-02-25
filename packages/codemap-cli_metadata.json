@@ -1,0 +1,11 @@
+{
+  "name": "codemap-cli",
+  "version": "0.1.2",
+  "summary": "A deterministic filesystem mapper optimized for AI context",
+  "author": "Purva Sanjay Patel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codemap_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-25T11:10:44.473219",
+  "package_url": "https://pypi.org/project/codemap-cli/"
+}

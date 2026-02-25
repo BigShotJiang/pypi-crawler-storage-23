@@ -1,0 +1,11 @@
+{
+  "name": "ironic-ui",
+  "version": "6.7.0",
+  "summary": "Ironic plugin UI for Horizon to allow users to view and manage bare metal nodes, ports and drivers.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/ironic-ui/latest/",
+  "download_filename": "ironic_ui-6.7.0.tar.gz",
+  "download_time": "2026-02-25T11:11:00.073970",
+  "package_url": "https://pypi.org/project/ironic-ui/"
+}

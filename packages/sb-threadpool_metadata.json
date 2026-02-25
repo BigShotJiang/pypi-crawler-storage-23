@@ -1,11 +1,11 @@
 {
   "name": "sb-threadpool",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A threadpool implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sb_threadpool-0.0.10.tar.gz",
-  "download_time": "2026-02-25T09:16:45.055397",
+  "download_filename": "sb_threadpool-0.0.11.tar.gz",
+  "download_time": "2026-02-25T11:10:54.293276",
   "package_url": "https://pypi.org/project/sb-threadpool/"
 }

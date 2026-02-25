@@ -1,0 +1,11 @@
+{
+  "name": "axiora",
+  "version": "0.2.0",
+  "summary": "The official Python library for the axiora API",
+  "author": "Axiora",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "axiora-0.2.0.tar.gz",
+  "download_time": "2026-02-25T11:11:24.427687",
+  "package_url": "https://pypi.org/project/axiora/"
+}
