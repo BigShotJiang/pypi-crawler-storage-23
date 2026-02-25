@@ -1,11 +1,11 @@
 {
   "name": "player-lang-dsl-generator",
-  "version": "0.0.2rc0",
+  "version": "0.1.0.dev565",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "player_lang_dsl_generator-0.0.2rc0-py3-none-any.whl",
-  "download_time": "2026-02-20T22:19:14.643831",
+  "download_filename": "player_lang_dsl_generator-0.1.0.dev565-py3-none-any.whl",
+  "download_time": "2026-02-25T05:22:02.456407",
   "package_url": "https://pypi.org/project/player-lang-dsl-generator/"
 }

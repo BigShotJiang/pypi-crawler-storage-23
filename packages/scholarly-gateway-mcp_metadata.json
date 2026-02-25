@@ -1,0 +1,11 @@
+{
+  "name": "scholarly-gateway-mcp",
+  "version": "0.1.2",
+  "summary": "A deterministic, reusable MCP substrate for scholarly publication retrieval.",
+  "author": "Curtis D. Williams",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scholarly_gateway_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-25T05:22:00.258879",
+  "package_url": "https://pypi.org/project/scholarly-gateway-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hatch-cpp",
+  "version": "0.3.4",
+  "summary": "Hatch plugin for C++ builds",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hatch_cpp-0.3.4.tar.gz",
+  "download_time": "2026-02-25T05:22:13.959003",
+  "package_url": "https://pypi.org/project/hatch-cpp/"
+}

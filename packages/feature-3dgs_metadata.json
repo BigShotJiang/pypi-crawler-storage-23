@@ -1,11 +1,11 @@
 {
   "name": "feature-3dgs",
-  "version": "1.4.4",
+  "version": "1.5.1",
   "summary": "Refactored python training and inference code for 3D Gaussian Splatting",
   "author": "yindaheng98",
   "license": null,
   "home_page": "https://github.com/yindaheng98/gaussian-splatting",
-  "download_filename": "feature_3dgs-1.4.4.tar.gz",
-  "download_time": "2026-02-24T23:57:39.798443",
+  "download_filename": "feature_3dgs-1.5.1.tar.gz",
+  "download_time": "2026-02-25T05:21:47.051951",
   "package_url": "https://pypi.org/project/feature-3dgs/"
 }

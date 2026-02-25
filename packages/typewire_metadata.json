@@ -1,0 +1,11 @@
+{
+  "name": "typewire",
+  "version": "1.4.0",
+  "summary": "A utility to allow better runtime handling of types by providing a predictable way of transforming data into the shape of a given type hint.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typewire-1.4.0.tar.gz",
+  "download_time": "2026-02-25T05:21:54.200923",
+  "package_url": "https://pypi.org/project/typewire/"
+}

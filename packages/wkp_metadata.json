@@ -1,0 +1,11 @@
+{
+  "name": "wkp",
+  "version": "0.0.3",
+  "summary": "Well Known Polylines - fast and compact encoding of geometries to strings using the Google Polylines algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wkp-0.0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-25T05:22:12.379511",
+  "package_url": "https://pypi.org/project/wkp/"
+}

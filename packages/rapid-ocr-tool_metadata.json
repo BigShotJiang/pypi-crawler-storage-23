@@ -1,0 +1,11 @@
+{
+  "name": "rapid-ocr-tool",
+  "version": "1.1.1",
+  "summary": "本地轻量级OCR识别工具",
+  "author": "OCR Tool Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ocr-tool",
+  "download_filename": "rapid_ocr_tool-1.1.1.tar.gz",
+  "download_time": "2026-02-25T05:21:55.247648",
+  "package_url": "https://pypi.org/project/rapid-ocr-tool/"
+}
