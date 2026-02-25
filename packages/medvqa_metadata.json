@@ -1,0 +1,11 @@
+{
+  "name": "medvqa",
+  "version": "0.15.4",
+  "summary": "Competition Submission CLI for ImageCLEFmed-MedVQA-GI-2025 (https://github.com/simula/ImageCLEFmed-MEDVQA-GI-2025)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "medvqa-0.15.4.tar.gz",
+  "download_time": "2026-02-25T13:57:52.695964",
+  "package_url": "https://pypi.org/project/medvqa/"
+}

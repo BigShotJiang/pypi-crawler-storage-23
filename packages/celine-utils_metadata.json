@@ -1,11 +1,11 @@
 {
   "name": "celine-utils",
-  "version": "1.8.0",
+  "version": "1.8.3",
   "summary": "CELINE utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "celine_utils-1.8.0.tar.gz",
-  "download_time": "2026-02-25T11:10:47.904830",
+  "download_filename": "celine_utils-1.8.3.tar.gz",
+  "download_time": "2026-02-25T13:57:42.012336",
   "package_url": "https://pypi.org/project/celine-utils/"
 }

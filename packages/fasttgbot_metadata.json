@@ -1,11 +1,11 @@
 {
   "name": "fasttgbot",
-  "version": "8.0.0",
+  "version": "12.0.0",
   "summary": "🤖 Простой Telegram бот с AI генерацией",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "fasttgbot-8.0.0.tar.gz",
-  "download_time": "2026-02-25T12:41:02.428580",
+  "download_filename": "fasttgbot-12.0.0.tar.gz",
+  "download_time": "2026-02-25T13:58:05.162250",
   "package_url": "https://pypi.org/project/fasttgbot/"
 }

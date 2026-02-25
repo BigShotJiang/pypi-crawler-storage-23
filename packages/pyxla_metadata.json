@@ -1,0 +1,11 @@
+{
+  "name": "pyxla",
+  "version": "0.0.7",
+  "summary": "A flexible and generic framework for explainable landscape analysis (xLA).",
+  "author": "T. Ombaso, A. Liefooghe, K. M. Malan, S. Verel, A. Bosman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyxla-0.0.7-py3-none-any.whl",
+  "download_time": "2026-02-25T13:58:10.064324",
+  "package_url": "https://pypi.org/project/pyxla/"
+}

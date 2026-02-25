@@ -1,0 +1,11 @@
+{
+  "name": "lam-middleware",
+  "version": "0.1.2",
+  "summary": "Lightweight API Monitoring middleware for Starlette/FastAPI",
+  "author": "Rohan Varma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lam_middleware-0.1.2.tar.gz",
+  "download_time": "2026-02-25T13:58:14.566563",
+  "package_url": "https://pypi.org/project/lam-middleware/"
+}

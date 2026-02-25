@@ -1,0 +1,11 @@
+{
+  "name": "dareplane-utils",
+  "version": "0.0.20",
+  "summary": "Default utilities for the dareplane platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dareplane_utils-0.0.20.tar.gz",
+  "download_time": "2026-02-25T13:58:32.391380",
+  "package_url": "https://pypi.org/project/dareplane-utils/"
+}

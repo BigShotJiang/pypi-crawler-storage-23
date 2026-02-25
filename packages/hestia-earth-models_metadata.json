@@ -1,0 +1,11 @@
+{
+  "name": "hestia-earth-models",
+  "version": "0.76.8",
+  "summary": "HESTIA's set of modules for filling gaps in the activity data using external datasets (e.g. populating soil properties with a geospatial dataset using provided coordinates) and internal lookups (e.g. populating machinery use from fuel use). Includes rules for when gaps should be filled versus not (e.g. never gap fill yield, gap fill crop residue if yield provided etc.).",
+  "author": "HESTIA Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/hestia-earth/hestia-engine-models",
+  "download_filename": "hestia_earth_models-0.76.8.tar.gz",
+  "download_time": "2026-02-25T13:58:36.118322",
+  "package_url": "https://pypi.org/project/hestia-earth-models/"
+}

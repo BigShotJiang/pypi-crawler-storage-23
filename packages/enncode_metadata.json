@@ -1,0 +1,11 @@
+{
+  "name": "enncode",
+  "version": "0.1.9",
+  "summary": "The enncode is a Python library that creates Gurobi models for neural networks in ONNX format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enncode-0.1.9.tar.gz",
+  "download_time": "2026-02-25T13:58:19.191709",
+  "package_url": "https://pypi.org/project/enncode/"
+}

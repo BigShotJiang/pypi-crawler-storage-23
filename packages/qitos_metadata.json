@@ -1,0 +1,11 @@
+{
+  "name": "qitos",
+  "version": "0.1.0a1",
+  "summary": "QitOS - research-first AgentModule + Engine framework",
+  "author": "QitOS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Qitor/qitos",
+  "download_filename": "qitos-0.1.0a1.tar.gz",
+  "download_time": "2026-02-25T13:57:52.158162",
+  "package_url": "https://pypi.org/project/qitos/"
+}

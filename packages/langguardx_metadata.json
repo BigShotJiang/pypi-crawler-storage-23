@@ -1,0 +1,11 @@
+{
+  "name": "langguardx",
+  "version": "0.1.1",
+  "summary": "Adaptive security for LangChain applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langguardx-0.1.1.tar.gz",
+  "download_time": "2026-02-25T13:57:48.090385",
+  "package_url": "https://pypi.org/project/langguardx/"
+}

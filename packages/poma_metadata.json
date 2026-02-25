@@ -1,0 +1,11 @@
+{
+  "name": "poma",
+  "version": "0.3.7",
+  "summary": "Official Python SDK for the Poma document-processing API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poma-0.3.7.tar.gz",
+  "download_time": "2026-02-25T13:57:54.482848",
+  "package_url": "https://pypi.org/project/poma/"
+}

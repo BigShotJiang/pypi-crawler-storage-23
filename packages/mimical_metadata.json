@@ -1,0 +1,11 @@
+{
+  "name": "mimical",
+  "version": "0.2.6",
+  "summary": "Intensity modelling for multiply-imaged objects",
+  "author": "Struan Stevenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mimical-0.2.6-py3-none-any.whl",
+  "download_time": "2026-02-25T13:58:33.451435",
+  "package_url": "https://pypi.org/project/mimical/"
+}

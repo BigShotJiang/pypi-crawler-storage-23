@@ -1,0 +1,11 @@
+{
+  "name": "open-webui-sqlite-migration",
+  "version": "0.1.6",
+  "summary": "Migrate Open WebUI from SQLite to PostgreSQL",
+  "author": "Mikke Schirén",
+  "license": "MIT",
+  "home_page": "https://digitalist.cloud",
+  "download_filename": "open_webui_sqlite_migration-0.1.6.tar.gz",
+  "download_time": "2026-02-25T13:58:35.529540",
+  "package_url": "https://pypi.org/project/open-webui-sqlite-migration/"
+}

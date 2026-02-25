@@ -1,0 +1,11 @@
+{
+  "name": "wealthica",
+  "version": "1.0.0",
+  "summary": "Official Wealthica Python SDK for the Investment Data API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wealthica-1.0.0.tar.gz",
+  "download_time": "2026-02-25T13:58:16.168448",
+  "package_url": "https://pypi.org/project/wealthica/"
+}

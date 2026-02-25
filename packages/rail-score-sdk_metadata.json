@@ -1,0 +1,11 @@
+{
+  "name": "rail-score-sdk",
+  "version": "2.1.1",
+  "summary": "Official Python SDK for RAIL Score API - Responsible AI Content Evaluation",
+  "author": "Sumit Verma, Responsible AI Labs",
+  "license": null,
+  "home_page": "https://github.com/RAILethicsHub/rail-score/tree/main/python",
+  "download_filename": "rail_score_sdk-2.1.1.tar.gz",
+  "download_time": "2026-02-25T13:57:48.632464",
+  "package_url": "https://pypi.org/project/rail-score-sdk/"
+}

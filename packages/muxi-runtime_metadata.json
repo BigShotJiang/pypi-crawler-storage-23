@@ -1,11 +1,11 @@
 {
   "name": "muxi-runtime",
-  "version": "0.20260224.0",
+  "version": "0.20260225.0",
   "summary": "Production-ready runtime for building and orchestrating intelligent multi-agent AI systems",
   "author": "MUXI Team",
   "license": "Elastic License 2.0",
   "home_page": "https://muxi.org",
-  "download_filename": "muxi_runtime-0.20260224.0.tar.gz",
-  "download_time": "2026-02-24T15:42:25.772702",
+  "download_filename": "muxi_runtime-0.20260225.0.tar.gz",
+  "download_time": "2026-02-25T13:58:08.005581",
   "package_url": "https://pypi.org/project/muxi-runtime/"
 }

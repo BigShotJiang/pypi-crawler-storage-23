@@ -1,0 +1,11 @@
+{
+  "name": "ratelink",
+  "version": "1.0.0",
+  "summary": "Production-ready rate limiting library for Python with multiple algorithms, backends, and framework integrations",
+  "author": "vladlen-codes",
+  "license": "MIT",
+  "home_page": "https://github.com/vladlen-codes/ratelink",
+  "download_filename": "ratelink-1.0.0.tar.gz",
+  "download_time": "2026-02-25T13:57:47.552571",
+  "package_url": "https://pypi.org/project/ratelink/"
+}
