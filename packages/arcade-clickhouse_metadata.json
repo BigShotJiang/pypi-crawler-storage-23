@@ -1,0 +1,11 @@
+{
+  "name": "arcade-clickhouse",
+  "version": "0.2.0",
+  "summary": "Tools to query and explore a ClickHouse database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_clickhouse-0.2.0.tar.gz",
+  "download_time": "2026-02-25T17:54:56.138335",
+  "package_url": "https://pypi.org/project/arcade-clickhouse/"
+}

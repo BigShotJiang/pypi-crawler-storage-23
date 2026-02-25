@@ -1,0 +1,11 @@
+{
+  "name": "optimal-spark-config",
+  "version": "14.0.0",
+  "summary": "Helper library for optimal spark model configurations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optimal_spark_config-14.0.0.tar.gz",
+  "download_time": "2026-02-25T17:55:00.648981",
+  "package_url": "https://pypi.org/project/optimal-spark-config/"
+}

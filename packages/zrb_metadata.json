@@ -1,11 +1,11 @@
 {
   "name": "zrb",
-  "version": "2.6.12",
+  "version": "2.6.14",
   "summary": "Your Automation Powerhouse",
   "author": "Go Frendi Gunawan",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "zrb-2.6.12.tar.gz",
-  "download_time": "2026-02-24T13:58:22.835446",
+  "download_filename": "zrb-2.6.14.tar.gz",
+  "download_time": "2026-02-25T17:54:17.272745",
   "package_url": "https://pypi.org/project/zrb/"
 }

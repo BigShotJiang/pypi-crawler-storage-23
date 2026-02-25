@@ -1,0 +1,11 @@
+{
+  "name": "gnssrefl",
+  "version": "3.19.3",
+  "summary": "A GNSS reflectometry software package ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnssrefl-3.19.3.tar.gz",
+  "download_time": "2026-02-25T17:54:44.799895",
+  "package_url": "https://pypi.org/project/gnssrefl/"
+}

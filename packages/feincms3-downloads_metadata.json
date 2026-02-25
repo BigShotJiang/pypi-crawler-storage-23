@@ -1,0 +1,11 @@
+{
+  "name": "feincms3-downloads",
+  "version": "0.5.4",
+  "summary": "Downloads plugin for feincms3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feincms3_downloads-0.5.4.tar.gz",
+  "download_time": "2026-02-25T17:54:35.499895",
+  "package_url": "https://pypi.org/project/feincms3-downloads/"
+}

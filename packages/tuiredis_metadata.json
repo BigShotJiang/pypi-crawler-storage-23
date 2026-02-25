@@ -1,0 +1,11 @@
+{
+  "name": "tuiredis",
+  "version": "0.1.0",
+  "summary": "A beautiful Redis TUI client built with Textual",
+  "author": "woodenrobot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuiredis-0.1.0.tar.gz",
+  "download_time": "2026-02-25T17:54:13.854443",
+  "package_url": "https://pypi.org/project/tuiredis/"
+}

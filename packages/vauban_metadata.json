@@ -1,11 +1,11 @@
 {
   "name": "vauban",
-  "version": "0.2.1",
+  "version": "0.2.5",
   "summary": "LLM red-teaming and adversarial testing framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vauban-0.2.1.tar.gz",
-  "download_time": "2026-02-24T19:39:43.945451",
+  "download_filename": "vauban-0.2.5.tar.gz",
+  "download_time": "2026-02-25T17:54:07.489625",
   "package_url": "https://pypi.org/project/vauban/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arcade-math",
+  "version": "2.0.2",
+  "summary": "Arcade.dev LLM tools for doing math",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_math-2.0.2-py3-none-any.whl",
+  "download_time": "2026-02-25T17:54:54.985142",
+  "package_url": "https://pypi.org/project/arcade-math/"
+}

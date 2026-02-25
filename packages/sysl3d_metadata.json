@@ -1,0 +1,11 @@
+{
+  "name": "sysl3d",
+  "version": "0.1.0",
+  "summary": "Symbolic Scene Language - Convert geometric expressions to shader code for sphere-traced rendering",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sysl3d-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-25T17:54:31.458248",
+  "package_url": "https://pypi.org/project/sysl3d/"
+}

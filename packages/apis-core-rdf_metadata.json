@@ -1,0 +1,11 @@
+{
+  "name": "apis-core-rdf",
+  "version": "0.60.1",
+  "summary": "Base package for the APIS framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apis_core_rdf-0.60.1.tar.gz",
+  "download_time": "2026-02-25T17:55:00.099493",
+  "package_url": "https://pypi.org/project/apis-core-rdf/"
+}
