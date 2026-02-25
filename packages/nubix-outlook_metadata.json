@@ -1,11 +1,11 @@
 {
   "name": "nubix-outlook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Outlook mailbox client built on Microsoft Graph with helpers for attachment processing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nubix_outlook-1.0.5.tar.gz",
-  "download_time": "2026-02-19T11:07:52.145391",
+  "download_filename": "nubix_outlook-1.0.6.tar.gz",
+  "download_time": "2026-02-25T08:29:17.637710",
   "package_url": "https://pypi.org/project/nubix-outlook/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "otobo-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for searching and retrieving OTOBO tickets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "otobo_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-25T08:29:43.653137",
+  "package_url": "https://pypi.org/project/otobo-mcp-server/"
+}

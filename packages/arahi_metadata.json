@@ -1,0 +1,11 @@
+{
+  "name": "arahi",
+  "version": "2026.2.25",
+  "summary": "Agent orchestration SDK — see CMDOP (pip install cmdop) for full features",
+  "author": "CMDOP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arahi-2026.2.25.tar.gz",
+  "download_time": "2026-02-25T08:29:41.060677",
+  "package_url": "https://pypi.org/project/arahi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nexcoder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The coding agent that remembers — AI coding assistant with persistent memory and error learning.",
   "author": "Nex AI Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "nexcoder-0.1.1.tar.gz",
-  "download_time": "2026-02-25T07:40:00.542663",
+  "download_filename": "nexcoder-0.1.2.tar.gz",
+  "download_time": "2026-02-25T08:29:52.290654",
   "package_url": "https://pypi.org/project/nexcoder/"
 }

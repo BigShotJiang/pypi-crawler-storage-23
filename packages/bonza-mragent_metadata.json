@@ -1,11 +1,11 @@
 {
   "name": "bonza-mragent",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A lightweight, open-source AI Agent powered by free APIs",
   "author": "Bonza Insights",
   "license": null,
   "home_page": "https://github.com/bonzainsights/MRAgent",
-  "download_filename": "bonza_mragent-0.2.1.tar.gz",
-  "download_time": "2026-02-24T17:43:45.686899",
+  "download_filename": "bonza_mragent-0.2.3.tar.gz",
+  "download_time": "2026-02-25T08:29:11.917252",
   "package_url": "https://pypi.org/project/bonza-mragent/"
 }

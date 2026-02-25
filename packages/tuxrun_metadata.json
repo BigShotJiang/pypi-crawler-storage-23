@@ -1,0 +1,11 @@
+{
+  "name": "tuxrun",
+  "version": "1.5.0",
+  "summary": "Command line tool for testing Linux under QEMU",
+  "author": "Antonio Terceiro",
+  "license": null,
+  "home_page": "https://tuxsuite.com/",
+  "download_filename": "tuxrun-1.5.0.tar.gz",
+  "download_time": "2026-02-25T08:29:24.910376",
+  "package_url": "https://pypi.org/project/tuxrun/"
+}

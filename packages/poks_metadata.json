@@ -1,11 +1,11 @@
 {
   "name": "poks",
-  "version": "0.9.2",
+  "version": "0.9.4",
   "summary": "A lightweight archive downloader for pre-built binary dependencies.",
   "author": "cuinixam",
   "license": null,
   "home_page": null,
-  "download_filename": "poks-0.9.2.tar.gz",
-  "download_time": "2026-02-22T16:55:22.693575",
+  "download_filename": "poks-0.9.4.tar.gz",
+  "download_time": "2026-02-25T08:29:51.772421",
   "package_url": "https://pypi.org/project/poks/"
 }

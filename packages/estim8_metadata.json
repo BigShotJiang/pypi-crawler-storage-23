@@ -1,0 +1,11 @@
+{
+  "name": "estim8",
+  "version": "0.1.2",
+  "summary": "A parameter estimation tool for DAE models implemented compliant to the Functional Mockup Interface",
+  "author": null,
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "estim8-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-25T08:29:18.157174",
+  "package_url": "https://pypi.org/project/estim8/"
+}

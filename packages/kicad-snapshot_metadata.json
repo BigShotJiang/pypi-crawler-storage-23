@@ -1,0 +1,11 @@
+{
+  "name": "kicad-snapshot",
+  "version": "0.2.0",
+  "summary": "Snapshot and visual diff tool for KiCad projects",
+  "author": "Tanaka Masayuki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kicad_snapshot-0.2.0.tar.gz",
+  "download_time": "2026-02-25T08:29:05.098516",
+  "package_url": "https://pypi.org/project/kicad-snapshot/"
+}
