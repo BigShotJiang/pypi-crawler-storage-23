@@ -1,0 +1,11 @@
+{
+  "name": "PyCondorRaven",
+  "version": "1.0.42",
+  "summary": "Investment analytics and machine learning tools",
+  "author": "Daniel Velasquez",
+  "license": null,
+  "home_page": "https://s3pip-library.s3.amazonaws.com",
+  "download_filename": "pycondorraven-1.0.42.tar.gz",
+  "download_time": "2026-02-25T21:57:30.494311",
+  "package_url": "https://pypi.org/project/PyCondorRaven/"
+}

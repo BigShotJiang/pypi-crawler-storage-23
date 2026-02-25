@@ -1,0 +1,11 @@
+{
+  "name": "incorporeal-cms",
+  "version": "2.1.2",
+  "summary": "A lightweight static site generator for Markdown-based sites.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "incorporeal_cms-2.1.2.tar.gz",
+  "download_time": "2026-02-25T21:57:48.772503",
+  "package_url": "https://pypi.org/project/incorporeal-cms/"
+}

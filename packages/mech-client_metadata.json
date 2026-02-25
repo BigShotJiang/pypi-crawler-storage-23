@@ -1,11 +1,11 @@
 {
   "name": "mech-client",
-  "version": "0.18.9",
+  "version": "0.19.0",
   "summary": "Basic client to interact with a mech",
   "author": "David Minarsch",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mech_client-0.18.9.tar.gz",
-  "download_time": "2026-02-22T22:24:07.462251",
+  "download_filename": "mech_client-0.19.0.tar.gz",
+  "download_time": "2026-02-25T21:57:57.475139",
   "package_url": "https://pypi.org/project/mech-client/"
 }

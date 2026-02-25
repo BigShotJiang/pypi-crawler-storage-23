@@ -1,0 +1,11 @@
+{
+  "name": "namespaxe",
+  "version": "0.2.1",
+  "summary": "A command-line tool for interacting with cloud services.",
+  "author": "Gabriel Nzilantuzu",
+  "license": "MIT",
+  "home_page": "https://github.com/pyincorporation-com/namespaxe-cli",
+  "download_filename": "namespaxe-0.2.1.tar.gz",
+  "download_time": "2026-02-25T21:57:23.349785",
+  "package_url": "https://pypi.org/project/namespaxe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmaqsatproc",
+  "version": "0.5.2",
+  "summary": "Processor to grid satellite data for comparison to CMAQ.",
+  "author": "Barron H. Henderson",
+  "license": null,
+  "home_page": "https://github.com/barronh/cmaqsatproc",
+  "download_filename": "cmaqsatproc-0.5.2.tar.gz",
+  "download_time": "2026-02-25T21:57:26.664553",
+  "package_url": "https://pypi.org/project/cmaqsatproc/"
+}

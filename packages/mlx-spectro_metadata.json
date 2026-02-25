@@ -1,0 +1,11 @@
+{
+  "name": "mlx-spectro",
+  "version": "0.2.2",
+  "summary": "High-performance STFT/iSTFT for Apple MLX with fused Metal kernels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_spectro-0.2.2.tar.gz",
+  "download_time": "2026-02-25T21:58:00.774014",
+  "package_url": "https://pypi.org/project/mlx-spectro/"
+}

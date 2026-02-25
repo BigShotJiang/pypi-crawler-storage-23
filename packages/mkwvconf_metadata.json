@@ -1,0 +1,11 @@
+{
+  "name": "mkwvconf",
+  "version": "0.1.2",
+  "summary": "Automatically generate a wvdial configuration for mobile broadband devices using mobile-broadband-provider-info",
+  "author": "Clemens Wolff",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/ascoderu/mkwvconf",
+  "download_filename": "mkwvconf-0.1.2.tar.gz",
+  "download_time": "2026-02-25T21:58:04.040160",
+  "package_url": "https://pypi.org/project/mkwvconf/"
+}

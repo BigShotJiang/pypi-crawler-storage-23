@@ -1,0 +1,11 @@
+{
+  "name": "tomte",
+  "version": "0.6.1",
+  "summary": "A library that wraps many useful tools (linters, analysers, etc) to keep Python code clean, secure, well-documented and optimised.",
+  "author": "David Minarsch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tomte-0.6.1.tar.gz",
+  "download_time": "2026-02-25T21:58:07.365808",
+  "package_url": "https://pypi.org/project/tomte/"
+}
