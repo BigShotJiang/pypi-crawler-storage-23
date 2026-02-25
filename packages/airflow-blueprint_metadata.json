@@ -1,0 +1,11 @@
+{
+  "name": "airflow-blueprint",
+  "version": "0.1.1",
+  "summary": "Reusable task group templates composed into Airflow DAGs via YAML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airflow_blueprint-0.1.1.tar.gz",
+  "download_time": "2026-02-25T22:24:42.482987",
+  "package_url": "https://pypi.org/project/airflow-blueprint/"
+}

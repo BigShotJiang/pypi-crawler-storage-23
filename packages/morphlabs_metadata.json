@@ -1,11 +1,11 @@
 {
   "name": "morphlabs",
-  "version": "0.2.0",
+  "version": "1.0.1",
   "summary": "Python SDK for Morphlabs biosignal processing API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "morphlabs-0.2.0.tar.gz",
-  "download_time": "2026-02-23T23:24:46.007326",
+  "download_filename": "morphlabs-1.0.1.tar.gz",
+  "download_time": "2026-02-25T22:24:39.918934",
   "package_url": "https://pypi.org/project/morphlabs/"
 }

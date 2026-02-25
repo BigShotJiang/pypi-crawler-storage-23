@@ -1,0 +1,11 @@
+{
+  "name": "hexdoc-movesthemind",
+  "version": "1.1.0.1.0",
+  "summary": "Adds a suite of patterns for summoning and controlling player-like entities, provided by the Carpet mod.",
+  "author": "abilliontrillionstars",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexdoc_movesthemind-1.1.0.1.0.tar.gz",
+  "download_time": "2026-02-25T22:24:17.578562",
+  "package_url": "https://pypi.org/project/hexdoc-movesthemind/"
+}

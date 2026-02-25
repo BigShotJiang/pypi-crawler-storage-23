@@ -1,0 +1,11 @@
+{
+  "name": "bioio-conversion",
+  "version": "1.0.0",
+  "summary": "A BioIO conversion tool for going between image formats",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "bioio_conversion-1.0.0.tar.gz",
+  "download_time": "2026-02-25T22:24:49.166905",
+  "package_url": "https://pypi.org/project/bioio-conversion/"
+}

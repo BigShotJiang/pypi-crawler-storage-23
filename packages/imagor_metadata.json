@@ -1,11 +1,11 @@
 {
   "name": "imagor",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "Multi-model image generation CLI and MCP server via OpenRouter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imagor-1.0.0.tar.gz",
-  "download_time": "2026-02-25T12:41:00.373677",
+  "download_filename": "imagor-1.2.1-py3-none-any.whl",
+  "download_time": "2026-02-25T22:24:42.998458",
   "package_url": "https://pypi.org/project/imagor/"
 }
