@@ -1,0 +1,11 @@
+{
+  "name": "hatch-mojo",
+  "version": "0.1.2",
+  "summary": "Hatch build hook for compiling Mojo sources into Python and native artifacts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hatch_mojo-0.1.2.tar.gz",
+  "download_time": "2026-02-25T23:54:17.920089",
+  "package_url": "https://pypi.org/project/hatch-mojo/"
+}

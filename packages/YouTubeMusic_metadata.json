@@ -1,11 +1,11 @@
 {
   "name": "YouTubeMusic",
-  "version": "2026.2.25",
-  "summary": "A YouTube Music Search Package With Artist, Channel, and Video Details",
-  "author": "ABHISHEK THAKUR",
-  "license": null,
-  "home_page": "https://github.com/YouTubeMusicAPI/YouTubeMusic",
-  "download_filename": "youtubemusic-2026.2.25.tar.gz",
-  "download_time": "2026-02-25T22:24:40.432394",
+  "version": "2026.2.26",
+  "summary": "Async YouTube Music search and stream extraction library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "youtubemusic-2026.2.26.tar.gz",
+  "download_time": "2026-02-25T23:54:22.620438",
   "package_url": "https://pypi.org/project/YouTubeMusic/"
 }

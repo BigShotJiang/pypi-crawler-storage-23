@@ -1,0 +1,11 @@
+{
+  "name": "uml-memory",
+  "version": "0.1.0",
+  "summary": "MCP server for Unified Memory Layer — persistent memory across AI coding tools",
+  "author": "UML Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uml_memory-0.1.0.tar.gz",
+  "download_time": "2026-02-25T23:54:05.591491",
+  "package_url": "https://pypi.org/project/uml-memory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlforecast",
+  "version": "1.0.3",
+  "summary": "Scalable machine learning based time series forecasting",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "mlforecast-1.0.3.tar.gz",
+  "download_time": "2026-02-25T23:54:43.276170",
+  "package_url": "https://pypi.org/project/mlforecast/"
+}

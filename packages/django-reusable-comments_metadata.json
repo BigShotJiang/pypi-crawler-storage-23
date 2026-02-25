@@ -1,0 +1,11 @@
+{
+  "name": "django-reusable-comments",
+  "version": "1.0.0",
+  "summary": "A production-grade reusable Django comments app with REST API, moderation, spam detection, and GDPR compliance",
+  "author": "Ifeanyi Stanley Nnamani",
+  "license": "MIT",
+  "home_page": "https://github.com/NzeStan/django-reusable-comments",
+  "download_filename": "django_reusable_comments-1.0.0.tar.gz",
+  "download_time": "2026-02-25T23:54:28.364717",
+  "package_url": "https://pypi.org/project/django-reusable-comments/"
+}

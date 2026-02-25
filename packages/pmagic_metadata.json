@@ -1,0 +1,11 @@
+{
+  "name": "pmagic",
+  "version": "1.4.7",
+  "summary": "A pure Python magic file identifier",
+  "author": "Isaac Onagh",
+  "license": "MIT",
+  "home_page": "https://github.com/unforgivenii147/pmagic",
+  "download_filename": "pmagic-1.4.7.tar.gz",
+  "download_time": "2026-02-25T23:54:30.980205",
+  "package_url": "https://pypi.org/project/pmagic/"
+}

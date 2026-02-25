@@ -1,0 +1,11 @@
+{
+  "name": "spot-nik",
+  "version": "1.1.0",
+  "summary": "Site Planning and Observation Tool",
+  "author": "SPOT Maintainers",
+  "license": "BSD",
+  "home_page": "https://github.com/naojsoft/spot",
+  "download_filename": "spot_nik-1.1.0.tar.gz",
+  "download_time": "2026-02-25T23:54:49.203388",
+  "package_url": "https://pypi.org/project/spot-nik/"
+}

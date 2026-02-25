@@ -1,0 +1,11 @@
+{
+  "name": "amesa-inference-dev",
+  "version": "0.20.5.dev13",
+  "summary": "Agent inference package using ONNX models without Ray or PyTorch dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amesa_inference_dev-0.20.5.dev13.tar.gz",
+  "download_time": "2026-02-25T23:54:08.398813",
+  "package_url": "https://pypi.org/project/amesa-inference-dev/"
+}

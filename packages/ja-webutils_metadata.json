@@ -1,0 +1,11 @@
+{
+  "name": "ja-webutils",
+  "version": "0.1.14",
+  "summary": "A python package to support HTML generation",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ja_webutils-0.1.14.tar.gz",
+  "download_time": "2026-02-25T23:54:46.969787",
+  "package_url": "https://pypi.org/project/ja-webutils/"
+}

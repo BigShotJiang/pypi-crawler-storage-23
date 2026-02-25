@@ -1,0 +1,11 @@
+{
+  "name": "slater-orbital",
+  "version": "0.3",
+  "summary": "Slater-type orbital slice visualizer with effective nuclear charge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slater_orbital-0.3.tar.gz",
+  "download_time": "2026-02-25T23:54:36.957058",
+  "package_url": "https://pypi.org/project/slater-orbital/"
+}

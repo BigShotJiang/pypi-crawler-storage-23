@@ -1,0 +1,11 @@
+{
+  "name": "yostlabs-graphics",
+  "version": "2026.2.25.post1",
+  "summary": "3D graphics engine with OpenGL scene graph, rendering primitives, and DearPyGui integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yostlabs_graphics-2026.2.25.post1.tar.gz",
+  "download_time": "2026-02-25T23:54:07.866625",
+  "package_url": "https://pypi.org/project/yostlabs-graphics/"
+}

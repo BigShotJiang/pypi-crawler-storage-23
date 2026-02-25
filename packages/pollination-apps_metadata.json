@@ -1,11 +1,11 @@
 {
   "name": "pollination-apps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A library to setup and deploy Apps to Pollination!",
   "author": "Ladybug Tools",
   "license": "MIT",
   "home_page": "https://github.com/pollination/pollination-apps",
-  "download_filename": "pollination_apps-1.0.0.tar.gz",
-  "download_time": "2026-02-25T23:29:10.619201",
+  "download_filename": "pollination_apps-1.0.1.tar.gz",
+  "download_time": "2026-02-25T23:54:44.313756",
   "package_url": "https://pypi.org/project/pollination-apps/"
 }

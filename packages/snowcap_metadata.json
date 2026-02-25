@@ -1,0 +1,11 @@
+{
+  "name": "snowcap",
+  "version": "1.0.2",
+  "summary": "Snowcap: Snowflake infrastructure as code",
+  "author": "Datacoves",
+  "license": null,
+  "home_page": "https://github.com/datacoves/snowcap",
+  "download_filename": "snowcap-1.0.2.tar.gz",
+  "download_time": "2026-02-25T23:54:42.235522",
+  "package_url": "https://pypi.org/project/snowcap/"
+}

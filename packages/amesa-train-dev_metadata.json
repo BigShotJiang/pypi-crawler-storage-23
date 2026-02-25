@@ -1,0 +1,11 @@
+{
+  "name": "amesa-train-dev",
+  "version": "0.20.5.dev13",
+  "summary": "a distributed trainer to be able to train agents across a cluster of machines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amesa_train_dev-0.20.5.dev13.tar.gz",
+  "download_time": "2026-02-25T23:54:09.487473",
+  "package_url": "https://pypi.org/project/amesa-train-dev/"
+}
