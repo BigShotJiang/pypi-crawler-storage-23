@@ -1,0 +1,11 @@
+{
+  "name": "vortex-api",
+  "version": "2.0.4",
+  "summary": "Vortex APIs to place orders in Rupeezy application",
+  "author": "Astha Credit & Securities Pvt Ltd.",
+  "license": "MIT",
+  "home_page": "https://vortex.rupeezy.in",
+  "download_filename": "vortex_api-2.0.4.tar.gz",
+  "download_time": "2026-02-25T14:46:25.496412",
+  "package_url": "https://pypi.org/project/vortex-api/"
+}

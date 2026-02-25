@@ -1,0 +1,11 @@
+{
+  "name": "mittwald-api-client",
+  "version": "3.0.0",
+  "summary": "A client library for accessing Mittwald API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mittwald_api_client-3.0.0.tar.gz",
+  "download_time": "2026-02-25T14:46:15.187049",
+  "package_url": "https://pypi.org/project/mittwald-api-client/"
+}

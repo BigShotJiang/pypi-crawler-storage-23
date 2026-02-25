@@ -1,0 +1,11 @@
+{
+  "name": "nanokvm-hid",
+  "version": "0.1.1",
+  "summary": "Python library for controlling keyboard, mouse, and touchpad via HID gadgets on NanoKVM Pro",
+  "author": "messense",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanokvm_hid-0.1.1.tar.gz",
+  "download_time": "2026-02-25T14:46:56.545284",
+  "package_url": "https://pypi.org/project/nanokvm-hid/"
+}

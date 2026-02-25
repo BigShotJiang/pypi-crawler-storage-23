@@ -1,0 +1,11 @@
+{
+  "name": "pulse-core",
+  "version": "0.1.1",
+  "summary": "Shared models, strategy framework, and DB session for Pulse.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulse_core-0.1.1.tar.gz",
+  "download_time": "2026-02-25T14:46:19.808617",
+  "package_url": "https://pypi.org/project/pulse-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fairlens-kit",
+  "version": "0.1.0",
+  "summary": "Lightweight ML bias detection toolkit for building fairer AI systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairlens_kit-0.1.0.tar.gz",
+  "download_time": "2026-02-25T14:46:22.365185",
+  "package_url": "https://pypi.org/project/fairlens-kit/"
+}

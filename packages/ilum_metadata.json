@@ -1,11 +1,11 @@
 {
   "name": "ilum",
-  "version": "6.7.0.1",
+  "version": "6.7.0.2",
   "summary": "CLI installer and management tool for the Ilum Data Lakehouse platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ilum-6.7.0.1.tar.gz",
-  "download_time": "2026-02-24T11:08:11.075415",
+  "download_filename": "ilum-6.7.0.2.tar.gz",
+  "download_time": "2026-02-25T14:46:20.831037",
   "package_url": "https://pypi.org/project/ilum/"
 }

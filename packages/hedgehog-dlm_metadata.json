@@ -1,0 +1,11 @@
+{
+  "name": "hedgehog-dlm",
+  "version": "0.2.0",
+  "summary": "A lightweight framework for training and fine-tuning Diffusion Language Models",
+  "author": "ArchishmanSengupta",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ArchishmanSengupta/Hedgehog",
+  "download_filename": "hedgehog_dlm-0.2.0.tar.gz",
+  "download_time": "2026-02-25T14:46:58.265873",
+  "package_url": "https://pypi.org/project/hedgehog-dlm/"
+}

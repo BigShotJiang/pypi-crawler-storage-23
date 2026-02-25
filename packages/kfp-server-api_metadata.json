@@ -1,0 +1,11 @@
+{
+  "name": "kfp-server-api",
+  "version": "2.16.0",
+  "summary": "Kubeflow Pipelines API",
+  "author": "google",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/kubeflow/pipelines",
+  "download_filename": "kfp_server_api-2.16.0.tar.gz",
+  "download_time": "2026-02-25T14:47:00.505051",
+  "package_url": "https://pypi.org/project/kfp-server-api/"
+}

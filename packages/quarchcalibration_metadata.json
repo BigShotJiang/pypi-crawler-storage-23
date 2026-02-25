@@ -1,0 +1,11 @@
+{
+  "name": "quarchcalibration",
+  "version": "1.1.23",
+  "summary": "This packpage offers calibration for Quarch Technology modules.",
+  "author": "Quarch Technology ltd",
+  "license": "Quarch Technology ltd",
+  "home_page": null,
+  "download_filename": "quarchcalibration-1.1.23-py2.py3-none-any.whl",
+  "download_time": "2026-02-25T14:46:37.782420",
+  "package_url": "https://pypi.org/project/quarchcalibration/"
+}

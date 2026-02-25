@@ -1,11 +1,11 @@
 {
   "name": "comnumpy",
-  "version": "0.8",
+  "version": "0.91",
   "summary": "A Python Library for Communication System Prototyping and Simulation",
   "author": "Vincent Choqueuse, Zahra Hourzadehgharabolagh, Alexandru Frunza, Noel Tanguy, Flavius Miron, Abraham Sotomayor, Stephane Azou",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comnumpy-0.8.tar.gz",
-  "download_time": "2026-02-25T13:58:22.053679",
+  "download_filename": "comnumpy-0.91.tar.gz",
+  "download_time": "2026-02-25T14:46:21.854658",
   "package_url": "https://pypi.org/project/comnumpy/"
 }
