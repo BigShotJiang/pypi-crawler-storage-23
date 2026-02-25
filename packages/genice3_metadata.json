@@ -1,0 +1,11 @@
+{
+  "name": "genice3",
+  "version": "3.0b2",
+  "summary": "A Swiss army knife to generate hydrogen-disordered ice structures.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genice3-3.0b2.tar.gz",
+  "download_time": "2026-02-25T18:54:34.107555",
+  "package_url": "https://pypi.org/project/genice3/"
+}

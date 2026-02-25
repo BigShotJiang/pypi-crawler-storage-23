@@ -1,0 +1,11 @@
+{
+  "name": "nhssynth",
+  "version": "0.11.0",
+  "summary": "Synthetic data generation pipeline leveraging a Differentially Private Variational Auto Encoder assessed using a variety of metrics",
+  "author": "HarrisonWilde",
+  "license": "MIT",
+  "home_page": "https://github.com/nhsengland/NHSSynth",
+  "download_filename": "nhssynth-0.11.0.tar.gz",
+  "download_time": "2026-02-25T18:54:12.175795",
+  "package_url": "https://pypi.org/project/nhssynth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ukfuelfinder",
+  "version": "3.0.0",
+  "summary": "Python library for accessing the UK Government Fuel Finder API",
+  "author": "Mark Retallack",
+  "license": "MIT",
+  "home_page": "https://github.com/mretallack/ukfuelfinder",
+  "download_filename": "ukfuelfinder-3.0.0.tar.gz",
+  "download_time": "2026-02-25T18:54:26.833024",
+  "package_url": "https://pypi.org/project/ukfuelfinder/"
+}

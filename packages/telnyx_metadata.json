@@ -1,11 +1,11 @@
 {
   "name": "telnyx",
-  "version": "4.46.0",
+  "version": "4.48.0",
   "summary": "Telnyx API SDK for global Voice, SMS, MMS, WhatsApp, Fax, Wireless IoT, SIP Trunking, and Call Control.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telnyx-4.46.0.tar.gz",
-  "download_time": "2026-02-25T12:40:56.182507",
+  "download_filename": "telnyx-4.48.0.tar.gz",
+  "download_time": "2026-02-25T18:54:18.376023",
   "package_url": "https://pypi.org/project/telnyx/"
 }

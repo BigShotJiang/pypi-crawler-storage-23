@@ -1,11 +1,11 @@
 {
   "name": "outlook-desktop-mcp",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Run this on Windows and get Outlook Desktop as an MCP server. No Graph API, no Entra app registration — just your local Outlook.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "outlook_desktop_mcp-0.2.1.tar.gz",
-  "download_time": "2026-02-23T20:38:37.245692",
+  "download_filename": "outlook_desktop_mcp-0.2.2.tar.gz",
+  "download_time": "2026-02-25T18:54:11.152005",
   "package_url": "https://pypi.org/project/outlook-desktop-mcp/"
 }

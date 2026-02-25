@@ -1,0 +1,11 @@
+{
+  "name": "prismllm",
+  "version": "0.1.1",
+  "summary": "PrismLLM: Hardware-agnostic LLM inference library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prismllm-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-25T18:54:41.404546",
+  "package_url": "https://pypi.org/project/prismllm/"
+}

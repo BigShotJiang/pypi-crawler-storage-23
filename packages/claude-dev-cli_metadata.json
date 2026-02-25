@@ -1,0 +1,11 @@
+{
+  "name": "claude-dev-cli",
+  "version": "0.20.0",
+  "summary": "A powerful CLI tool for developers using Claude AI with multi-API routing, test generation, code review, usage tracking, and project management automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_dev_cli-0.20.0.tar.gz",
+  "download_time": "2026-02-25T18:54:13.220819",
+  "package_url": "https://pypi.org/project/claude-dev-cli/"
+}
