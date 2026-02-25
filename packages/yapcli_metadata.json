@@ -1,11 +1,11 @@
 {
   "name": "yapcli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Yet another Plaid CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yapcli-0.1.0.tar.gz",
-  "download_time": "2026-02-24T11:56:13.860069",
+  "download_filename": "yapcli-0.1.1.tar.gz",
+  "download_time": "2026-02-25T21:29:42.475447",
   "package_url": "https://pypi.org/project/yapcli/"
 }

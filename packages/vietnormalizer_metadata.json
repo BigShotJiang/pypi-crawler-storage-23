@@ -1,11 +1,11 @@
 {
   "name": "vietnormalizer",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A Python library for normalizing Vietnamese text for TTS and NLP applications",
   "author": "Nghi Studio",
   "license": null,
   "home_page": "https://github.com/nghimestudio/vietnormalizer",
-  "download_filename": "vietnormalizer-0.2.1.tar.gz",
-  "download_time": "2026-02-25T03:48:05.841781",
+  "download_filename": "vietnormalizer-0.2.3.tar.gz",
+  "download_time": "2026-02-25T21:29:33.009127",
   "package_url": "https://pypi.org/project/vietnormalizer/"
 }

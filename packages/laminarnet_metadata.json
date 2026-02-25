@@ -1,11 +1,11 @@
 {
   "name": "laminarnet",
-  "version": "0.7.2",
+  "version": "0.7.5",
   "summary": "A novel neural architecture merging SSM, RNN, and Hierarchical processing.",
   "author": "Unan",
   "license": null,
   "home_page": "https://github.com/Uunan/LaminarNet",
-  "download_filename": "laminarnet-0.7.2.tar.gz",
-  "download_time": "2026-02-25T20:56:18.886783",
+  "download_filename": "laminarnet-0.7.5.tar.gz",
+  "download_time": "2026-02-25T21:29:11.489226",
   "package_url": "https://pypi.org/project/laminarnet/"
 }

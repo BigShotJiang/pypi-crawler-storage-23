@@ -1,11 +1,11 @@
 {
   "name": "synth-agent-sdk",
-  "version": "0.9.17",
+  "version": "0.9.19",
   "summary": "Autonomous agents, engineered. A Python SDK for building production-grade AI agents and multi-agent systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synth_agent_sdk-0.9.17.tar.gz",
-  "download_time": "2026-02-25T20:10:42.868545",
+  "download_filename": "synth_agent_sdk-0.9.19.tar.gz",
+  "download_time": "2026-02-25T21:29:39.841050",
   "package_url": "https://pypi.org/project/synth-agent-sdk/"
 }

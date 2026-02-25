@@ -1,0 +1,11 @@
+{
+  "name": "correlate",
+  "version": "1.2",
+  "summary": "Correlates two sets of data by matching",
+  "author": "Larry Hastings",
+  "license": null,
+  "home_page": "https://github.com/larryhastings/correlate/",
+  "download_filename": "correlate-1.2.tar.gz",
+  "download_time": "2026-02-25T21:29:23.132225",
+  "package_url": "https://pypi.org/project/correlate/"
+}

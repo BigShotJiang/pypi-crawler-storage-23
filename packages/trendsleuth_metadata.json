@@ -1,11 +1,11 @@
 {
   "name": "trendsleuth",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Reddit trend analysis for content creators",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trendsleuth-0.1.1.tar.gz",
-  "download_time": "2026-02-25T20:10:16.293348",
+  "download_filename": "trendsleuth-0.1.5.tar.gz",
+  "download_time": "2026-02-25T21:29:01.393865",
   "package_url": "https://pypi.org/project/trendsleuth/"
 }

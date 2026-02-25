@@ -1,11 +1,11 @@
 {
   "name": "dbt-spark-submit",
-  "version": "1.10.0",
+  "version": "1.0.12",
   "summary": "The Apache Spark adapter plugin for dbt with spark-submit and spark-sql CLI support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_spark_submit-1.10.0.tar.gz",
-  "download_time": "2026-02-25T15:47:05.908567",
+  "download_filename": "dbt_spark_submit-1.0.12.tar.gz",
+  "download_time": "2026-02-25T21:29:13.590840",
   "package_url": "https://pypi.org/project/dbt-spark-submit/"
 }

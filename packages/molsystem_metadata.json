@@ -1,0 +1,11 @@
+{
+  "name": "molsystem",
+  "version": "2026.2.25",
+  "summary": "molsystem",
+  "author": "Paul Saxe",
+  "license": "GNU Lesser General Public License v3 or later",
+  "home_page": "https://github.com/molssi-seamm/molsystem",
+  "download_filename": "molsystem-2026.2.25.tar.gz",
+  "download_time": "2026-02-25T21:28:57.081168",
+  "package_url": "https://pypi.org/project/molsystem/"
+}

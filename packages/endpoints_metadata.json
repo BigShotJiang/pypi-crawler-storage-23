@@ -1,0 +1,11 @@
+{
+  "name": "endpoints",
+  "version": "10.0.0",
+  "summary": "Get an api up and running quickly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "endpoints-10.0.0.tar.gz",
+  "download_time": "2026-02-25T21:29:36.147009",
+  "package_url": "https://pypi.org/project/endpoints/"
+}

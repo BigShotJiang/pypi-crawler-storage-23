@@ -1,0 +1,11 @@
+{
+  "name": "wristband-python-m2m-auth",
+  "version": "0.1.0",
+  "summary": "SDK for integrating your Python application with Wristband for machine-to-machine (M2M) authentication. Handles token acquisition and caching.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wristband_python_m2m_auth-0.1.0.tar.gz",
+  "download_time": "2026-02-25T21:29:28.330590",
+  "package_url": "https://pypi.org/project/wristband-python-m2m-auth/"
+}
