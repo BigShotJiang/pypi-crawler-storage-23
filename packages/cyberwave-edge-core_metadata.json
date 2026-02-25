@@ -1,11 +1,11 @@
 {
   "name": "cyberwave-edge-core",
-  "version": "0.0.17",
+  "version": "0.0.22",
   "summary": "The core component of the Cyberwave Edge Node",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyberwave_edge_core-0.0.17.tar.gz",
-  "download_time": "2026-02-23T14:42:23.593440",
+  "download_filename": "cyberwave_edge_core-0.0.22.tar.gz",
+  "download_time": "2026-02-25T09:16:14.935986",
   "package_url": "https://pypi.org/project/cyberwave-edge-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "breinbaas",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Code for geotechnical engineers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "breinbaas-0.0.2.tar.gz",
-  "download_time": "2026-02-18T15:33:29.421373",
+  "download_filename": "breinbaas-0.0.4.tar.gz",
+  "download_time": "2026-02-25T09:16:41.313579",
   "package_url": "https://pypi.org/project/breinbaas/"
 }

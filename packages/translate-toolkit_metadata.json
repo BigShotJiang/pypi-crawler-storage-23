@@ -1,0 +1,11 @@
+{
+  "name": "translate-toolkit",
+  "version": "3.19.2",
+  "summary": "Tools and API for translation and localization engineering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "translate_toolkit-3.19.2.tar.gz",
+  "download_time": "2026-02-25T09:16:46.077591",
+  "package_url": "https://pypi.org/project/translate-toolkit/"
+}

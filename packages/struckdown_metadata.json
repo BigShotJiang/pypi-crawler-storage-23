@@ -1,11 +1,11 @@
 {
   "name": "struckdown",
-  "version": "0.4.2",
+  "version": "0.4.6",
   "summary": "struckdown: markdown-like syntax for structured conversations with language models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "struckdown-0.4.2.tar.gz",
-  "download_time": "2026-02-22T10:47:32.184530",
+  "download_filename": "struckdown-0.4.6.tar.gz",
+  "download_time": "2026-02-25T09:16:24.706571",
   "package_url": "https://pypi.org/project/struckdown/"
 }

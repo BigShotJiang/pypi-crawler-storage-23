@@ -1,11 +1,11 @@
 {
   "name": "overlay.library",
-  "version": "0.2.0",
-  "summary": "The Overlay language standard library — built-in definitions for the Overlay language",
+  "version": "0.3.0",
+  "summary": "Backward compatibility wrapper — overlay.library is now mixinv2-library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "overlay_library-0.2.0.tar.gz",
-  "download_time": "2026-02-22T06:05:58.672994",
+  "download_filename": "overlay_library-0.3.0.tar.gz",
+  "download_time": "2026-02-25T09:16:19.449586",
   "package_url": "https://pypi.org/project/overlay.library/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mixinv2",
+  "version": "0.3.0",
+  "summary": "A dependency injection framework with pytest-fixture syntax, plus a configuration language for declarative programming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mixinv2-0.3.0.tar.gz",
+  "download_time": "2026-02-25T09:16:20.980559",
+  "package_url": "https://pypi.org/project/mixinv2/"
+}

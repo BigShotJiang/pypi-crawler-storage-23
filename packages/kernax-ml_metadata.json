@@ -1,11 +1,11 @@
 {
   "name": "kernax-ml",
-  "version": "0.5.0a0",
+  "version": "0.5.1a0",
   "summary": "A JAX-based kernel library for Gaussian Processes with automatic differentiation and composable operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kernax_ml-0.5.0a0.tar.gz",
-  "download_time": "2026-02-24T19:39:51.550548",
+  "download_filename": "kernax_ml-0.5.1a0.tar.gz",
+  "download_time": "2026-02-25T09:16:45.564898",
   "package_url": "https://pypi.org/project/kernax-ml/"
 }

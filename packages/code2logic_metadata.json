@@ -1,11 +1,11 @@
 {
   "name": "code2logic",
-  "version": "1.0.35",
+  "version": "1.0.37",
   "summary": "Code2Logic - Source code to logical representation converter for LLM analysis, featuring Tree-sitter parsing, dependency graph analysis, and multi-language support.",
   "author": "Softreck",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "code2logic-1.0.35.tar.gz",
-  "download_time": "2026-02-24T19:40:00.891625",
+  "download_filename": "code2logic-1.0.37.tar.gz",
+  "download_time": "2026-02-25T09:16:44.545348",
   "package_url": "https://pypi.org/project/code2logic/"
 }

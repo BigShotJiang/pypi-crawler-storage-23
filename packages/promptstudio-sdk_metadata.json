@@ -1,0 +1,11 @@
+{
+  "name": "promptstudio-sdk",
+  "version": "1.0.255",
+  "summary": "A Python SDK for PromptStudio",
+  "author": "PromptStudio",
+  "license": null,
+  "home_page": "https://github.com/promptstudio-dev/promptstudio-sdk-python",
+  "download_filename": "promptstudio_sdk-1.0.255.tar.gz",
+  "download_time": "2026-02-25T09:16:09.452997",
+  "package_url": "https://pypi.org/project/promptstudio-sdk/"
+}
