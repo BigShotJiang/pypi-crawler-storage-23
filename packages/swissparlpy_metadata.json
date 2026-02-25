@@ -1,0 +1,11 @@
+{
+  "name": "swissparlpy",
+  "version": "1.0.0",
+  "summary": "Client for Swiss parliament API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swissparlpy-1.0.0.tar.gz",
+  "download_time": "2026-02-25T07:40:02.725404",
+  "package_url": "https://pypi.org/project/swissparlpy/"
+}

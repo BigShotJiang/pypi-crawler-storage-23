@@ -1,0 +1,11 @@
+{
+  "name": "langchain-paddleocr",
+  "version": "0.1.0",
+  "summary": "An integration package connecting PaddleOCR and LangChain",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "langchain_paddleocr-0.1.0.tar.gz",
+  "download_time": "2026-02-25T07:40:26.044442",
+  "package_url": "https://pypi.org/project/langchain-paddleocr/"
+}

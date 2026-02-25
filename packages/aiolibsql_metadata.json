@@ -1,0 +1,11 @@
+{
+  "name": "aiolibsql",
+  "version": "0.1.14",
+  "summary": "A fully asynchronous Python wrapper for libSQL, built with Rust and PyO3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiolibsql-0.1.14.tar.gz",
+  "download_time": "2026-02-25T07:40:33.262507",
+  "package_url": "https://pypi.org/project/aiolibsql/"
+}

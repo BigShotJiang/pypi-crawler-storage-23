@@ -1,0 +1,11 @@
+{
+  "name": "authe",
+  "version": "0.2.0",
+  "summary": "The trust layer for AI agents. Observability, identity, and reputation in one line of code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authe-0.2.0.tar.gz",
+  "download_time": "2026-02-25T07:40:34.789981",
+  "package_url": "https://pypi.org/project/authe/"
+}

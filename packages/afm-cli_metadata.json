@@ -1,11 +1,11 @@
 {
   "name": "afm-cli",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "AFM CLI metapackage: installs afm-core and afm-langchain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "afm_cli-0.2.9.tar.gz",
-  "download_time": "2026-02-19T03:46:47.101964",
+  "download_filename": "afm_cli-0.2.10.tar.gz",
+  "download_time": "2026-02-25T07:40:04.317096",
   "package_url": "https://pypi.org/project/afm-cli/"
 }
