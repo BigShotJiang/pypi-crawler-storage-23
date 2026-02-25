@@ -1,11 +1,11 @@
 {
   "name": "engrams-mcp",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "A governance-aware, context-intelligent development platform built on MCP",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "engrams_mcp-1.0.3.tar.gz",
-  "download_time": "2026-02-22T06:06:12.793935",
+  "download_filename": "engrams_mcp-1.1.0.tar.gz",
+  "download_time": "2026-02-25T23:29:40.284327",
   "package_url": "https://pypi.org/project/engrams-mcp/"
 }

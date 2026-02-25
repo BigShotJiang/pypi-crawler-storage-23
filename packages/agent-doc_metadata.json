@@ -1,11 +1,11 @@
 {
   "name": "agent-doc",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Interactive document sessions with AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_doc-0.4.0.tar.gz",
-  "download_time": "2026-02-25T22:24:12.954302",
+  "download_filename": "agent_doc-0.4.2.tar.gz",
+  "download_time": "2026-02-25T23:29:00.651725",
   "package_url": "https://pypi.org/project/agent-doc/"
 }

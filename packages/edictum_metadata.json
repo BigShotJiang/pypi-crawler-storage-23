@@ -1,11 +1,11 @@
 {
   "name": "edictum",
-  "version": "0.11.1",
+  "version": "0.11.3",
   "summary": "Runtime safety for AI agents. Stop agents before they break things.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edictum-0.11.1.tar.gz",
-  "download_time": "2026-02-24T23:31:23.038455",
+  "download_filename": "edictum-0.11.3.tar.gz",
+  "download_time": "2026-02-25T23:29:34.751295",
   "package_url": "https://pypi.org/project/edictum/"
 }

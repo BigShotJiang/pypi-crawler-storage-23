@@ -1,11 +1,11 @@
 {
   "name": "MLBuild",
-  "version": "0.1.3",
-  "summary": "Performance CI/CD for production ML models",
+  "version": "0.1.6",
+  "summary": "DevTool for enforcement of inference performance SLAs in CI, automatically blocking slow ML models before they reach production",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "mlbuild-0.1.3.tar.gz",
-  "download_time": "2026-02-25T20:10:38.708637",
+  "download_filename": "mlbuild-0.1.6.tar.gz",
+  "download_time": "2026-02-25T23:29:02.572782",
   "package_url": "https://pypi.org/project/MLBuild/"
 }

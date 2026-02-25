@@ -1,0 +1,11 @@
+{
+  "name": "mageflow-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for mageflow workflow observability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mageflow_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-25T23:29:19.974570",
+  "package_url": "https://pypi.org/project/mageflow-mcp/"
+}

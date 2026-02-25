@@ -1,0 +1,11 @@
+{
+  "name": "pyvisa-ar488",
+  "version": "2026.2.25",
+  "summary": "PyVISA backend for AR488/Prologix GPIB-USB adapters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvisa_ar488-2026.2.25.tar.gz",
+  "download_time": "2026-02-25T23:29:38.607300",
+  "package_url": "https://pypi.org/project/pyvisa-ar488/"
+}

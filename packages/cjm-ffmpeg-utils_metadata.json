@@ -1,0 +1,11 @@
+{
+  "name": "cjm-ffmpeg-utils",
+  "version": "0.0.5",
+  "summary": "Audio/video processing utilities with FFmpeg: extraction, conversion, metadata handling, and progress bars.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-ffmpeg-utils",
+  "download_filename": "cjm_ffmpeg_utils-0.0.5.tar.gz",
+  "download_time": "2026-02-25T23:29:06.623479",
+  "package_url": "https://pypi.org/project/cjm-ffmpeg-utils/"
+}

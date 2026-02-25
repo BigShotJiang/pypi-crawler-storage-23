@@ -1,11 +1,11 @@
 {
   "name": "fastapi-telemetry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Prometheus metrics middleware, circuit breaker listener, and metric helpers for FastAPI — zero project-specific dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_telemetry-0.0.1.tar.gz",
-  "download_time": "2026-02-21T20:56:45.491711",
+  "download_filename": "fastapi_telemetry-0.0.2.tar.gz",
+  "download_time": "2026-02-25T23:29:42.486797",
   "package_url": "https://pypi.org/project/fastapi-telemetry/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "strands-robots-sim",
+  "version": "0.1.1",
+  "summary": "Robot Control Integration for Strands Agents in Simulated Environments",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strands_robots_sim-0.1.1.tar.gz",
+  "download_time": "2026-02-25T23:29:03.686644",
+  "package_url": "https://pypi.org/project/strands-robots-sim/"
+}
