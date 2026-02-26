@@ -1,0 +1,11 @@
+{
+  "name": "cnfunc",
+  "version": "0.0.1",
+  "summary": "A Python library for solving equations",
+  "author": "Negative Acknowledge",
+  "license": "MIT",
+  "home_page": "https://github.com/JimmyJimmy666/cnfunc",
+  "download_filename": "cnfunc-0.0.1.tar.gz",
+  "download_time": "2026-02-26T06:14:27.994548",
+  "package_url": "https://pypi.org/project/cnfunc/"
+}

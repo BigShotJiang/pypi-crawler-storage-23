@@ -1,11 +1,11 @@
 {
   "name": "gitlabrat",
-  "version": "1.1",
+  "version": "1.2",
   "summary": "LabRat: GitLab exploitation orchestrator",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "gitlabrat-1.1.tar.gz",
-  "download_time": "2026-02-26T05:14:28.786677",
+  "download_filename": "gitlabrat-1.2.tar.gz",
+  "download_time": "2026-02-26T06:14:47.808398",
   "package_url": "https://pypi.org/project/gitlabrat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ryeos-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server transport for RYE OS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ryeos_mcp-0.1.4-py3-none-any.whl",
+  "download_time": "2026-02-26T06:14:42.741576",
+  "package_url": "https://pypi.org/project/ryeos-mcp/"
+}

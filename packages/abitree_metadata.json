@@ -1,0 +1,11 @@
+{
+  "name": "abitree",
+  "version": "0.1.1",
+  "summary": "Generate beautiful file trees for your README",
+  "author": "Abidit Shrestha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abitree-0.1.1.tar.gz",
+  "download_time": "2026-02-26T06:14:36.679475",
+  "package_url": "https://pypi.org/project/abitree/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "actflare",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "WeChat Work callback service powered by Claude Agent SDK",
   "author": "Zan Yuan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actflare-0.3.1.tar.gz",
-  "download_time": "2026-02-25T17:54:33.763999",
+  "download_filename": "actflare-0.4.0.tar.gz",
+  "download_time": "2026-02-26T06:14:14.964034",
   "package_url": "https://pypi.org/project/actflare/"
 }
