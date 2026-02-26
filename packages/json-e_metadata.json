@@ -1,0 +1,11 @@
+{
+  "name": "json-e",
+  "version": "4.8.2",
+  "summary": "A data-structure parameterization system written for embedding context in JSON objects",
+  "author": "Dustin J. Mitchell",
+  "license": "MPL2",
+  "home_page": "https://json-e.js.org",
+  "download_filename": "json_e-4.8.2.tar.gz",
+  "download_time": "2026-02-26T18:31:54.779992",
+  "package_url": "https://pypi.org/project/json-e/"
+}

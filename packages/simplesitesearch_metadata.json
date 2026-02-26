@@ -1,11 +1,11 @@
 {
   "name": "simplesitesearch",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Reptile Simple Site Search django app",
   "author": "Reptile Tech",
   "license": "MIT",
   "home_page": "https://github.com/FlavienLouis/simplesitesearch",
-  "download_filename": "simplesitesearch-0.0.3.tar.gz",
-  "download_time": "2026-02-24T13:58:15.858477",
+  "download_filename": "simplesitesearch-0.0.5.tar.gz",
+  "download_time": "2026-02-26T18:32:22.921982",
   "package_url": "https://pypi.org/project/simplesitesearch/"
 }

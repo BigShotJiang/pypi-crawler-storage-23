@@ -1,0 +1,11 @@
+{
+  "name": "localstack-sdk-generated",
+  "version": "4.13.1",
+  "summary": "LocalStack REST API - Generated Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localstack_sdk_generated-4.13.1.tar.gz",
+  "download_time": "2026-02-26T18:32:00.487055",
+  "package_url": "https://pypi.org/project/localstack-sdk-generated/"
+}

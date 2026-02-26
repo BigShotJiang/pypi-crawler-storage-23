@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-paystack-python",
+  "version": "0.1.1",
+  "summary": "Paystack Python Model Context Protocol SDK",
+  "author": "Akinshola Samuel AKINDE.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_paystack_python-0.1.1.tar.gz",
+  "download_time": "2026-02-26T18:32:28.145626",
+  "package_url": "https://pypi.org/project/iflow-mcp-paystack-python/"
+}

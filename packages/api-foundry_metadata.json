@@ -1,0 +1,11 @@
+{
+  "name": "api-foundry",
+  "version": "0.8.8",
+  "summary": "The `api_foundry` project is a powerful tool designed to automate the deployment of REST APIs on AWS using Lambda services to access and interact with relational databases (RDBMS). This project leverages the OpenAPI specification to define and manage the APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_foundry-0.8.8.tar.gz",
+  "download_time": "2026-02-26T18:32:19.841552",
+  "package_url": "https://pypi.org/project/api-foundry/"
+}

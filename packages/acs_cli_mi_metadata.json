@@ -1,0 +1,11 @@
+{
+  "name": "acs_cli_mi",
+  "version": "0.1.2",
+  "summary": "CLI for querying Census ACS 5-year data for Michigan counties",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acs_cli_mi-0.1.2.tar.gz",
+  "download_time": "2026-02-26T18:32:42.052647",
+  "package_url": "https://pypi.org/project/acs_cli_mi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spectralo",
+  "version": "2.0.156",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": "Dan",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/navycodes/pyrogram",
+  "download_filename": "spectralo-2.0.156.tar.gz",
+  "download_time": "2026-02-26T18:32:37.949732",
+  "package_url": "https://pypi.org/project/spectralo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-runpython",
+  "version": "0.4.1",
+  "summary": "Run python code in sphinx",
+  "author": "Xavier Dupré",
+  "license": null,
+  "home_page": "https://github.com/sdpython/sphinx-runpython",
+  "download_filename": "sphinx_runpython-0.4.1-py3-none-any.whl",
+  "download_time": "2026-02-26T18:32:28.658706",
+  "package_url": "https://pypi.org/project/sphinx-runpython/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superMagIcmporter",
+  "version": "0.0.3",
+  "summary": "This module transfers the import path to the project root so you can easily import from neighboring folders.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "supermagicmporter-0.0.3.tar.gz",
+  "download_time": "2026-02-26T18:32:19.328844",
+  "package_url": "https://pypi.org/project/superMagIcmporter/"
+}

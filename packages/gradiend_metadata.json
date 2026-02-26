@@ -1,0 +1,11 @@
+{
+  "name": "gradiend",
+  "version": "0.1.0",
+  "summary": "GRADIEND: Gradient-based Targeted Feature Learning within Neural Networks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gradiend-0.1.0.tar.gz",
+  "download_time": "2026-02-26T18:32:18.296057",
+  "package_url": "https://pypi.org/project/gradiend/"
+}

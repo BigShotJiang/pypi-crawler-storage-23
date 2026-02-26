@@ -1,11 +1,11 @@
 {
   "name": "openapi-schema-validator",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "summary": "OpenAPI schema validation for Python",
   "author": "Artur Maciag",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "openapi_schema_validator-0.7.3.tar.gz",
-  "download_time": "2026-02-26T17:46:29.852872",
+  "download_filename": "openapi_schema_validator-0.8.0.tar.gz",
+  "download_time": "2026-02-26T18:32:14.346774",
   "package_url": "https://pypi.org/project/openapi-schema-validator/"
 }

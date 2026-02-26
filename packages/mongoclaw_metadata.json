@@ -1,11 +1,11 @@
 {
   "name": "mongoclaw",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Declarative AI agents framework for MongoDB with async enrichment via change streams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mongoclaw-1.0.1.tar.gz",
-  "download_time": "2026-02-20T16:08:04.656938",
+  "download_filename": "mongoclaw-1.0.4.tar.gz",
+  "download_time": "2026-02-26T18:32:27.628897",
   "package_url": "https://pypi.org/project/mongoclaw/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "idea-reality-mcp",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Pre-build reality check for AI coding agents. Stop building what already exists.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idea_reality_mcp-0.2.0.tar.gz",
-  "download_time": "2026-02-25T08:29:34.304326",
+  "download_filename": "idea_reality_mcp-0.3.1.tar.gz",
+  "download_time": "2026-02-26T18:31:54.267937",
   "package_url": "https://pypi.org/project/idea-reality-mcp/"
 }
