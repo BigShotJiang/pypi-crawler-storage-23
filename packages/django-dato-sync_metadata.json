@@ -1,11 +1,11 @@
 {
   "name": "django-dato-sync",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A sync utility for storing DatoCMS objects in django.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_dato_sync-0.0.6.tar.gz",
-  "download_time": "2026-02-18T15:33:31.542936",
+  "download_filename": "django_dato_sync-0.0.7.tar.gz",
+  "download_time": "2026-02-26T10:32:50.055951",
   "package_url": "https://pypi.org/project/django-dato-sync/"
 }

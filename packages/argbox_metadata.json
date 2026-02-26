@@ -1,0 +1,11 @@
+{
+  "name": "argbox",
+  "version": "0.2.1",
+  "summary": "Interact with arguments passed to a function by their parameter name or position",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argbox-0.2.1.tar.gz",
+  "download_time": "2026-02-26T10:32:15.793702",
+  "package_url": "https://pypi.org/project/argbox/"
+}

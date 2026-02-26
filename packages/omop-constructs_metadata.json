@@ -1,11 +1,11 @@
 {
   "name": "omop-constructs",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "For building complex constructs on top of the omop-alchemy library.",
   "author": "Georgie Kennedy",
   "license": null,
   "home_page": null,
-  "download_filename": "omop_constructs-0.3.7.tar.gz",
-  "download_time": "2026-02-26T01:09:31.596353",
+  "download_filename": "omop_constructs-0.3.8.tar.gz",
+  "download_time": "2026-02-26T10:32:10.139866",
   "package_url": "https://pypi.org/project/omop-constructs/"
 }

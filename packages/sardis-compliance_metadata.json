@@ -1,0 +1,11 @@
+{
+  "name": "sardis-compliance",
+  "version": "0.4.1",
+  "summary": "Compliance and monitoring services for Sardis - KYC, Sanctions, PEP, Risk Scoring, and Reporting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_compliance-0.4.1.tar.gz",
+  "download_time": "2026-02-26T10:32:26.757197",
+  "package_url": "https://pypi.org/project/sardis-compliance/"
+}

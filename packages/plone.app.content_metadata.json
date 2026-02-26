@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.content",
+  "version": "4.2.0",
+  "summary": "Content Views for Plone",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.content",
+  "download_filename": "plone_app_content-4.2.0.tar.gz",
+  "download_time": "2026-02-26T10:32:16.829348",
+  "package_url": "https://pypi.org/project/plone.app.content/"
+}

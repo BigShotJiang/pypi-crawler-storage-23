@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.genai-idp-bedrock-llm-processor",
+  "version": "0.1.0",
+  "summary": "@cdklabs/genai-idp-bedrock-llm-processor",
+  "author": "AWS<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/genai-idp",
+  "download_filename": "cdklabs_genai_idp_bedrock_llm_processor-0.1.0.tar.gz",
+  "download_time": "2026-02-26T10:32:31.393700",
+  "package_url": "https://pypi.org/project/cdklabs.genai-idp-bedrock-llm-processor/"
+}

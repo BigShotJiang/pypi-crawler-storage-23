@@ -1,0 +1,11 @@
+{
+  "name": "envbert",
+  "version": "1.0.9",
+  "summary": "Predicts classes of environmental due diligence",
+  "author": "Afreen Aman, Deepak John Reji",
+  "license": "MIT",
+  "home_page": "https://github.com/dreji18/environmental-due-diligence",
+  "download_filename": "envbert-1.0.9.tar.gz",
+  "download_time": "2026-02-26T10:32:34.492496",
+  "package_url": "https://pypi.org/project/envbert/"
+}

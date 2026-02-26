@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.querystring",
+  "version": "2.1.5",
+  "summary": "A queryparser, querybuilder and extra helper tools, to parse stored queries to actual results, used in new style Plone collections",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.querystring",
+  "download_filename": "plone_app_querystring-2.1.5.tar.gz",
+  "download_time": "2026-02-26T10:32:11.164284",
+  "package_url": "https://pypi.org/project/plone.app.querystring/"
+}

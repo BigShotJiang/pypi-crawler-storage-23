@@ -1,11 +1,11 @@
 {
   "name": "basilearn",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A library for educational content and interactive learning",
   "author": "Barbara Asiamah",
   "license": null,
   "home_page": null,
-  "download_filename": "basilearn-0.2.2.tar.gz",
-  "download_time": "2026-02-18T23:54:07.362072",
+  "download_filename": "basilearn-0.2.3.tar.gz",
+  "download_time": "2026-02-26T10:32:40.195132",
   "package_url": "https://pypi.org/project/basilearn/"
 }
