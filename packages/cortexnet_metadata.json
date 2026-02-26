@@ -1,0 +1,11 @@
+{
+  "name": "cortexnet",
+  "version": "3.2.1",
+  "summary": "CortexNet: unified neural network architecture beyond Transformers",
+  "author": "CortexNet Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortexnet-3.2.1.tar.gz",
+  "download_time": "2026-02-26T20:06:34.451147",
+  "package_url": "https://pypi.org/project/cortexnet/"
+}

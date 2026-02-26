@@ -1,11 +1,11 @@
 {
   "name": "libyak",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Python bindings for Yak. Yak is a modern container file library, useful for quickly building your own binary file formats. A file system in a file, focused on performance and ease of use.",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "libyak-0.11.1.tar.gz",
-  "download_time": "2026-02-24T15:42:08.033708",
+  "download_filename": "libyak-0.11.2.tar.gz",
+  "download_time": "2026-02-26T20:06:47.684195",
   "package_url": "https://pypi.org/project/libyak/"
 }

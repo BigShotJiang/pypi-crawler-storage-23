@@ -1,0 +1,11 @@
+{
+  "name": "beamflow",
+  "version": "0.3.5",
+  "summary": "Convenience meta-package for the Beamflow managed platform.",
+  "author": "juraj.bezdek@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beamflow-0.3.5.tar.gz",
+  "download_time": "2026-02-26T20:06:29.909600",
+  "package_url": "https://pypi.org/project/beamflow/"
+}

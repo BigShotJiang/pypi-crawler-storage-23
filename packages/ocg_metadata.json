@@ -1,11 +1,11 @@
 {
   "name": "ocg",
-  "version": "0.4.1",
+  "version": "0.4.5",
   "summary": "100% openCypher-compliant in-memory graph database — 4 backends, 175+ algorithms, pure Rust",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ocg-0.4.1.tar.gz",
-  "download_time": "2026-02-20T21:57:52.260290",
+  "download_filename": "ocg-0.4.5.tar.gz",
+  "download_time": "2026-02-26T20:06:46.041716",
   "package_url": "https://pypi.org/project/ocg/"
 }

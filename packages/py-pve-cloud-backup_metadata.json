@@ -1,11 +1,11 @@
 {
   "name": "py-pve-cloud-backup",
-  "version": "0.8.2",
+  "version": "3.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_pve_cloud_backup-0.8.2.tar.gz",
-  "download_time": "2026-02-22T09:53:12.560636",
+  "download_filename": "py_pve_cloud_backup-3.0.1.tar.gz",
+  "download_time": "2026-02-26T20:07:00.630548",
   "package_url": "https://pypi.org/project/py-pve-cloud-backup/"
 }

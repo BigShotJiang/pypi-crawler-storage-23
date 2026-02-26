@@ -1,0 +1,11 @@
+{
+  "name": "smds",
+  "version": "1.6.2",
+  "summary": "A plug-and-play, scikit-learn compatible implementation of Supervised Multi-Dimensional Scaling (SMDS) for automatic feature manifold discovery in LLMs.",
+  "author": "Federico Tiblias, Vinayak Joshi, Jan Karas, Anton Kantsemal, Simon Kistner, Arwin Sanee Ghomi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smds-1.6.2.tar.gz",
+  "download_time": "2026-02-26T20:06:22.484745",
+  "package_url": "https://pypi.org/project/smds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planvantage",
+  "version": "0.4.0",
+  "summary": "Python SDK for the PlanVantage API - Health benefits plan design and actuarial value calculations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "planvantage-0.4.0.tar.gz",
+  "download_time": "2026-02-26T20:06:24.705256",
+  "package_url": "https://pypi.org/project/planvantage/"
+}

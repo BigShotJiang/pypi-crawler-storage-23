@@ -1,0 +1,11 @@
+{
+  "name": "sonos-lastfm",
+  "version": "0.1.8",
+  "summary": "Automatically scrobble music playing on your Sonos speakers to Last.fm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sonos_lastfm-0.1.8.tar.gz",
+  "download_time": "2026-02-26T20:06:25.838502",
+  "package_url": "https://pypi.org/project/sonos-lastfm/"
+}

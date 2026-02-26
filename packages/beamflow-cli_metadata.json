@@ -1,0 +1,11 @@
+{
+  "name": "beamflow-cli",
+  "version": "0.3.5",
+  "summary": "CLI for the Beamflow Managed Platform",
+  "author": "juraj.bezdek@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beamflow_cli-0.3.5.tar.gz",
+  "download_time": "2026-02-26T20:06:30.475507",
+  "package_url": "https://pypi.org/project/beamflow-cli/"
+}

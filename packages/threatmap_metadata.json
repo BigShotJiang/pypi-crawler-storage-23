@@ -1,0 +1,11 @@
+{
+  "name": "threatmap",
+  "version": "1.1.1",
+  "summary": "Static IaC threat modeler using STRIDE",
+  "author": "Bogdan Ticu",
+  "license": "MIT",
+  "home_page": "https://github.com/bogdanticu88/threatmap",
+  "download_filename": "threatmap-1.1.1.tar.gz",
+  "download_time": "2026-02-26T20:06:24.138211",
+  "package_url": "https://pypi.org/project/threatmap/"
+}

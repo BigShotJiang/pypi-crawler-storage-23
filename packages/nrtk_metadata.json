@@ -1,11 +1,11 @@
 {
   "name": "nrtk",
-  "version": "0.27.2",
+  "version": "1.0.0",
   "summary": "Natural Robustness Toolkit (NRTK) is a platform for generating validated, sensor-specific perturbations and transformations used to evaluate the robustness of computer vision models.",
   "author": "Kitware, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "nrtk-0.27.2.tar.gz",
-  "download_time": "2026-02-25T21:29:41.403430",
+  "download_filename": "nrtk-1.0.0.tar.gz",
+  "download_time": "2026-02-26T20:06:37.994851",
   "package_url": "https://pypi.org/project/nrtk/"
 }

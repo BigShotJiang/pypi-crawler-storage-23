@@ -1,0 +1,11 @@
+{
+  "name": "sweetagent",
+  "version": "0.1.8",
+  "summary": "Pluggable LLM/AI Agent library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sweetagent-0.1.8.tar.gz",
+  "download_time": "2026-02-26T20:06:58.462682",
+  "package_url": "https://pypi.org/project/sweetagent/"
+}
