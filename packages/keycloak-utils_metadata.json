@@ -1,0 +1,11 @@
+{
+  "name": "keycloak-utils",
+  "version": "0.15.0",
+  "summary": "Helper classes for keycloak authentication in Django and FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keycloak_utils-0.15.0.tar.gz",
+  "download_time": "2026-02-26T13:58:53.613935",
+  "package_url": "https://pypi.org/project/keycloak-utils/"
+}

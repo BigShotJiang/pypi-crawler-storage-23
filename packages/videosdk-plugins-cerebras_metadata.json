@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-cerebras",
+  "version": "0.0.66",
+  "summary": "VideoSDK Agent Framework plugin for Cerebras services",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_cerebras-0.0.66.tar.gz",
+  "download_time": "2026-02-26T13:58:28.985628",
+  "package_url": "https://pypi.org/project/videosdk-plugins-cerebras/"
+}

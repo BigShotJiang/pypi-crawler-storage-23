@@ -1,0 +1,11 @@
+{
+  "name": "mcp-serial-hid-kvm",
+  "version": "0.1.0",
+  "summary": "MCP server for KVM control — thin client for serial-hid-kvm",
+  "author": "sunasaji",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_serial_hid_kvm-0.1.0.tar.gz",
+  "download_time": "2026-02-26T13:58:41.674319",
+  "package_url": "https://pypi.org/project/mcp-serial-hid-kvm/"
+}

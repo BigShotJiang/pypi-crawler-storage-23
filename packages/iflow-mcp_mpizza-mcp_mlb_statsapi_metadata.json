@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mpizza-mcp_mlb_statsapi",
+  "version": "0.2.0",
+  "summary": "Python-based MCP using the mlb-statsapi library to provide three key functionalities(Retrieve Game Results, Retrieve Game Schedule and Retrieve Specific Game Results ) related to MLB games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mpizza_mcp_mlb_statsapi-0.2.0.tar.gz",
+  "download_time": "2026-02-26T13:58:36.915230",
+  "package_url": "https://pypi.org/project/iflow-mcp_mpizza-mcp_mlb_statsapi/"
+}

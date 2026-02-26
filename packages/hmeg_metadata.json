@@ -1,0 +1,11 @@
+{
+  "name": "hmeg",
+  "version": "0.3.0",
+  "summary": "Generator of exercises for practicing speaking for language learning.",
+  "author": "Yury Choi",
+  "license": "MIT",
+  "home_page": "https://github.com/yurytsoy/hmeg",
+  "download_filename": "hmeg-0.3.0.tar.gz",
+  "download_time": "2026-02-26T13:58:56.884911",
+  "package_url": "https://pypi.org/project/hmeg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyams-chat",
+  "version": "2.1.5",
+  "summary": "PyAMS chat and notifications management package",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_chat-2.1.5.tar.gz",
+  "download_time": "2026-02-26T13:58:04.374386",
+  "package_url": "https://pypi.org/project/pyams-chat/"
+}

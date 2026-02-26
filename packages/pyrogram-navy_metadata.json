@@ -1,0 +1,11 @@
+{
+  "name": "pyrogram-navy",
+  "version": "2.0.210",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots (Navy Fork)",
+  "author": "deylin",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/navycodes/pyrogram-navy",
+  "download_filename": "pyrogram_navy-2.0.210.tar.gz",
+  "download_time": "2026-02-26T13:58:42.869582",
+  "package_url": "https://pypi.org/project/pyrogram-navy/"
+}

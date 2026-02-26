@@ -1,0 +1,11 @@
+{
+  "name": "aws-sam-cli-local",
+  "version": "1.70.1",
+  "summary": "Simple wrapper around AWS SAM CLI for use with LocalStack",
+  "author": "LocalStack Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/localstack/aws-sam-cli-local",
+  "download_filename": "aws_sam_cli_local-1.70.1.tar.gz",
+  "download_time": "2026-02-26T13:58:18.015762",
+  "package_url": "https://pypi.org/project/aws-sam-cli-local/"
+}

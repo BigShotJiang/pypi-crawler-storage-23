@@ -1,0 +1,11 @@
+{
+  "name": "xpress",
+  "version": "9.8.1",
+  "summary": "FICO Xpress Optimizer Python interface",
+  "author": "FICO Xpress Optimizer dev. team",
+  "license": null,
+  "home_page": "https://www.fico.com/en/products/fico-xpress-optimization",
+  "download_filename": "xpress-9.8.1-cp310-cp310-macosx_10_13_x86_64.whl",
+  "download_time": "2026-02-26T13:58:39.969301",
+  "package_url": "https://pypi.org/project/xpress/"
+}

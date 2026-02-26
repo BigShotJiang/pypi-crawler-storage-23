@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-murfai",
+  "version": "0.0.66",
+  "summary": "VideoSDK Agent Framework plugin for Murfai",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_murfai-0.0.66.tar.gz",
+  "download_time": "2026-02-26T13:58:22.056559",
+  "package_url": "https://pypi.org/project/videosdk-plugins-murfai/"
+}
