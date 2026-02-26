@@ -1,0 +1,11 @@
+{
+  "name": "allclear",
+  "version": "0.2.0",
+  "summary": "All-sky camera cloud detection via stellar transmission mapping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allclear-0.2.0.tar.gz",
+  "download_time": "2026-02-26T22:26:18.747325",
+  "package_url": "https://pypi.org/project/allclear/"
+}

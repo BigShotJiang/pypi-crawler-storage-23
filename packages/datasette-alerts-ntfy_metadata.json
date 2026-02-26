@@ -1,0 +1,11 @@
+{
+  "name": "datasette-alerts-ntfy",
+  "version": "0.1.0a1",
+  "summary": null,
+  "author": "Alex Garcia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_alerts_ntfy-0.1.0a1.tar.gz",
+  "download_time": "2026-02-26T22:27:02.729611",
+  "package_url": "https://pypi.org/project/datasette-alerts-ntfy/"
+}

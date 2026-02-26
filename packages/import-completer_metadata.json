@@ -1,0 +1,11 @@
+{
+  "name": "import-completer",
+  "version": "0.7",
+  "summary": "A Python language server focused on intelligent import completions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "import_completer-0.7.tar.gz",
+  "download_time": "2026-02-26T22:26:33.986317",
+  "package_url": "https://pypi.org/project/import-completer/"
+}

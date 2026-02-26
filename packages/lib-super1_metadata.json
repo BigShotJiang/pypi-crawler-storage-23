@@ -1,0 +1,11 @@
+{
+  "name": "lib-super1",
+  "version": "1.0.0",
+  "summary": "La librería Python todo-en-uno: PDFs con Tailwind, correos estilo SaaS y utilidades pro.",
+  "author": "Walter Soca",
+  "license": null,
+  "home_page": "https://github.com/noldee/super-lib",
+  "download_filename": "lib_super1-1.0.0.tar.gz",
+  "download_time": "2026-02-26T22:26:25.652147",
+  "package_url": "https://pypi.org/project/lib-super1/"
+}

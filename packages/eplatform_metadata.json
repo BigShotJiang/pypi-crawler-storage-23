@@ -1,0 +1,11 @@
+{
+  "name": "eplatform",
+  "version": "0.22.0",
+  "summary": "Operating System Library",
+  "author": "Erik Soma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eplatform-0.22.0-cp314-cp314-macosx_15_0_arm64.whl",
+  "download_time": "2026-02-26T22:26:19.836025",
+  "package_url": "https://pypi.org/project/eplatform/"
+}

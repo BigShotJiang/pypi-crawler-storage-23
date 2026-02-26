@@ -1,0 +1,11 @@
+{
+  "name": "dagster-census",
+  "version": "0.28.15",
+  "summary": "Package for integrating Census with Dagster.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_census-0.28.15.tar.gz",
+  "download_time": "2026-02-26T22:26:32.962700",
+  "package_url": "https://pypi.org/project/dagster-census/"
+}
