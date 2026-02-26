@@ -1,11 +1,11 @@
 {
   "name": "nrl-tracker",
-  "version": "1.13.0",
+  "version": "1.13.1",
   "summary": "Python port of the U.S. Naval Research Laboratory's Tracker Component Library for target tracking algorithms",
   "author": "Original: David F. Crouse, Naval Research Laboratory",
   "license": null,
   "home_page": null,
-  "download_filename": "nrl_tracker-1.13.0.tar.gz",
-  "download_time": "2026-02-25T21:57:49.864254",
+  "download_filename": "nrl_tracker-1.13.1.tar.gz",
+  "download_time": "2026-02-26T21:27:40.338012",
   "package_url": "https://pypi.org/project/nrl-tracker/"
 }

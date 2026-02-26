@@ -1,11 +1,11 @@
 {
   "name": "privacypal-sdk",
-  "version": "1.0.0",
-  "summary": "Python SDK for PrivacyPal Privacy Twins API",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "Official Python SDK for the PrivacyPal Data Twins API — encode and decode PII with synthetic privacy twins.",
+  "author": "PrivacyPal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "privacypal_sdk-1.0.0.tar.gz",
-  "download_time": "2026-02-26T20:56:48.072182",
+  "download_filename": "privacypal_sdk-1.0.1.tar.gz",
+  "download_time": "2026-02-26T21:27:50.132316",
   "package_url": "https://pypi.org/project/privacypal-sdk/"
 }

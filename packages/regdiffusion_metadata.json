@@ -1,11 +1,11 @@
 {
   "name": "regdiffusion",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Gene Regulatory Networks Inference using diffusion model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "regdiffusion-0.2.1-py2.py3-none-any.whl",
-  "download_time": "2026-02-21T06:07:44.352900",
+  "download_filename": "regdiffusion-0.2.2-py2.py3-none-any.whl",
+  "download_time": "2026-02-26T21:27:50.668791",
   "package_url": "https://pypi.org/project/regdiffusion/"
 }

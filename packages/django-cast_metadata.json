@@ -1,0 +1,11 @@
+{
+  "name": "django-cast",
+  "version": "0.2.53",
+  "summary": "Django Cast is a blogging and podcasting package built on Django and Wagtail CMS",
+  "author": "Jochen Wersdörfer, Dominik Geldmacher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cast-0.2.53.tar.gz",
+  "download_time": "2026-02-26T21:27:28.419980",
+  "package_url": "https://pypi.org/project/django-cast/"
+}

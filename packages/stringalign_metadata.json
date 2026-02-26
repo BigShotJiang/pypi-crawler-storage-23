@@ -1,11 +1,11 @@
 {
   "name": "stringalign",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Align strings and compute evaluation metrics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stringalign-0.1.2-cp311-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2026-02-24T19:40:22.486314",
+  "download_filename": "stringalign-0.1.3-cp311-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-02-26T21:28:06.924805",
   "package_url": "https://pypi.org/project/stringalign/"
 }

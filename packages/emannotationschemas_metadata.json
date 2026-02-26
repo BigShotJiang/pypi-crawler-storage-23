@@ -1,0 +1,11 @@
+{
+  "name": "emannotationschemas",
+  "version": "5.25.0",
+  "summary": "a service for storing arbitrary annotation data on EM volumes stored in a cloud volume ",
+  "author": "Forrest Collman",
+  "license": null,
+  "home_page": "https://github.com/fcollman/EMAnnotationSchemas",
+  "download_filename": "emannotationschemas-5.25.0.tar.gz",
+  "download_time": "2026-02-26T21:27:36.551117",
+  "package_url": "https://pypi.org/project/emannotationschemas/"
+}

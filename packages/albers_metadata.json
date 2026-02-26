@@ -1,11 +1,11 @@
 {
   "name": "albers",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Color analysis for theme palettes: harmony, contrast, and perceptual metrics.",
   "author": "Luis C. Markmann",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "albers-0.2.3.tar.gz",
-  "download_time": "2026-02-26T20:56:38.793647",
+  "download_filename": "albers-0.2.5.tar.gz",
+  "download_time": "2026-02-26T21:28:11.223859",
   "package_url": "https://pypi.org/project/albers/"
 }

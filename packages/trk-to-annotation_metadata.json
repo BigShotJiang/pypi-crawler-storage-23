@@ -1,0 +1,11 @@
+{
+  "name": "trk-to-annotation",
+  "version": "0.0.2",
+  "summary": "Utilities for converting .trk tractography files into Neuroglancer precomputed annotation format, and serving them locally with HTTP requests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trk_to_annotation-0.0.2.tar.gz",
+  "download_time": "2026-02-26T21:27:39.798313",
+  "package_url": "https://pypi.org/project/trk-to-annotation/"
+}

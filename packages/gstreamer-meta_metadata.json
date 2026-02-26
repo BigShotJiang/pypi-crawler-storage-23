@@ -1,0 +1,11 @@
+{
+  "name": "gstreamer-meta",
+  "version": "1.28.1",
+  "summary": "Meta-package to install a subset of GStreamer plugins via 'extras'",
+  "author": "GStreamer Project",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "http://gstreamer.freedesktop.org",
+  "download_filename": "gstreamer_meta-1.28.1-py3-none-any.whl",
+  "download_time": "2026-02-26T21:28:04.192773",
+  "package_url": "https://pypi.org/project/gstreamer-meta/"
+}

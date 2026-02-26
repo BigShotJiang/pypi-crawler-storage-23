@@ -1,0 +1,11 @@
+{
+  "name": "pyrapide",
+  "version": "0.2.0",
+  "summary": "Causal Event-Driven Architecture Modeling for Python based on RAPIDE 1.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrapide-0.2.0.tar.gz",
+  "download_time": "2026-02-26T21:27:25.384783",
+  "package_url": "https://pypi.org/project/pyrapide/"
+}

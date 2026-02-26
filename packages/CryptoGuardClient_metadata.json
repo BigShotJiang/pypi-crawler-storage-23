@@ -1,0 +1,11 @@
+{
+  "name": "CryptoGuardClient",
+  "version": "0.3.0",
+  "summary": "Python SDK for CryptoGuard — per-transaction deterministic crypto validator powered by WaveGuard physics engine",
+  "author": "Greg Partin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptoguardclient-0.3.0.tar.gz",
+  "download_time": "2026-02-26T21:28:05.262999",
+  "package_url": "https://pypi.org/project/CryptoGuardClient/"
+}

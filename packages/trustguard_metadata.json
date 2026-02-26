@@ -1,0 +1,11 @@
+{
+  "name": "trustguard",
+  "version": "0.2.1",
+  "summary": "Intelligent validation for LLM outputs with pluggable judge system. Lightweight, schema-first safety checks for AI applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trustguard-0.2.1.tar.gz",
+  "download_time": "2026-02-26T21:28:02.039502",
+  "package_url": "https://pypi.org/project/trustguard/"
+}
