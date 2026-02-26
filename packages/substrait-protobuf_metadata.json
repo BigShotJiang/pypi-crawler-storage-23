@@ -1,0 +1,11 @@
+{
+  "name": "substrait-protobuf",
+  "version": "0.82.0",
+  "summary": "Generated Substrait Protocol Buffer Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "substrait_protobuf-0.82.0.tar.gz",
+  "download_time": "2026-02-26T16:40:17.348592",
+  "package_url": "https://pypi.org/project/substrait-protobuf/"
+}

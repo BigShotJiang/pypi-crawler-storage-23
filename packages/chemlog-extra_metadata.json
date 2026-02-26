@@ -1,0 +1,11 @@
+{
+  "name": "chemlog-extra",
+  "version": "1.0.1",
+  "summary": "Extension of ChemLog to a broad range of ChEBI classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemlog_extra-1.0.1.tar.gz",
+  "download_time": "2026-02-26T16:40:35.027549",
+  "package_url": "https://pypi.org/project/chemlog-extra/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "uipath-llm-client",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "summary": "UiPath LLM Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_llm_client-1.2.2.tar.gz",
-  "download_time": "2026-02-23T11:54:24.969546",
+  "download_filename": "uipath_llm_client-1.2.4.tar.gz",
+  "download_time": "2026-02-26T16:40:41.230291",
   "package_url": "https://pypi.org/project/uipath-llm-client/"
 }

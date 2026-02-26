@@ -1,0 +1,11 @@
+{
+  "name": "playwright-healer",
+  "version": "1.0.0",
+  "summary": "Production-grade self-healing locator engine for Playwright Python — heuristic pre-AI, DOM fuzzy match, ARIA-first healing, provider fallback chains, adaptive cache, shadow DOM & iframe support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playwright_healer-1.0.0.tar.gz",
+  "download_time": "2026-02-26T16:40:19.436526",
+  "package_url": "https://pypi.org/project/playwright-healer/"
+}

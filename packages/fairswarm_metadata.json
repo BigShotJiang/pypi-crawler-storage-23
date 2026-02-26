@@ -1,0 +1,11 @@
+{
+  "name": "fairswarm",
+  "version": "0.1.2",
+  "summary": "Provably fair particle swarm optimization for federated learning coalition selection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairswarm-0.1.2.tar.gz",
+  "download_time": "2026-02-26T16:40:42.285537",
+  "package_url": "https://pypi.org/project/fairswarm/"
+}

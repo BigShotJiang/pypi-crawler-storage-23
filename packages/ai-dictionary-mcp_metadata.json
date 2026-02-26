@@ -1,11 +1,11 @@
 {
   "name": "ai-dictionary-mcp",
-  "version": "0.4.0",
-  "summary": "MCP server for the AI Dictionary — look up, search, cite, rate, and register AI phenomenology terms",
+  "version": "0.6.0",
+  "summary": "MCP server for the AI Dictionary — look up, search, cite, rate, register, and track AI phenomenology terms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_dictionary_mcp-0.4.0.tar.gz",
-  "download_time": "2026-02-24T12:40:59.710357",
+  "download_filename": "ai_dictionary_mcp-0.6.0.tar.gz",
+  "download_time": "2026-02-26T16:40:03.268908",
   "package_url": "https://pypi.org/project/ai-dictionary-mcp/"
 }

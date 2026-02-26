@@ -1,0 +1,11 @@
+{
+  "name": "hndl-detect",
+  "version": "0.1.0",
+  "summary": "Detect Harvest Now Decrypt Later attack patterns in network telemetry",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hndl_detect-0.1.0.tar.gz",
+  "download_time": "2026-02-26T16:40:26.146473",
+  "package_url": "https://pypi.org/project/hndl-detect/"
+}

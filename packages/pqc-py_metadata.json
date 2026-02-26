@@ -1,0 +1,11 @@
+{
+  "name": "pqc-py",
+  "version": "0.1.0",
+  "summary": "Post-quantum cryptography for Python via Rust — FIPS 203/204/205 (Kyber, Dilithium, SPHINCS+)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pqc_py-0.1.0.tar.gz",
+  "download_time": "2026-02-26T16:40:25.634876",
+  "package_url": "https://pypi.org/project/pqc-py/"
+}

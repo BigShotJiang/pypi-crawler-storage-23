@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_firsthalfhero-openproject-mcp-server",
+  "version": "0.1.0",
+  "summary": "A comprehensive FastMCP-powered server that enables AI assistants like Claude to interact with OpenProject installations",
+  "author": "firsthalfhero",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_firsthalfhero_openproject_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-26T16:40:15.807394",
+  "package_url": "https://pypi.org/project/iflow-mcp_firsthalfhero-openproject-mcp-server/"
+}

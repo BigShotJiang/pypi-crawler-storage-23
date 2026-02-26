@@ -1,0 +1,11 @@
+{
+  "name": "behavioral-entropy",
+  "version": "0.1.0",
+  "summary": "AI agent behavioral fingerprinting via entropy analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "behavioral_entropy-0.1.0.tar.gz",
+  "download_time": "2026-02-26T16:40:26.657722",
+  "package_url": "https://pypi.org/project/behavioral-entropy/"
+}

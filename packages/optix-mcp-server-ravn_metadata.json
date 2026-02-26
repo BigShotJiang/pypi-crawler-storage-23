@@ -1,11 +1,11 @@
 {
   "name": "optix-mcp-server-ravn",
-  "version": "1.0.22",
+  "version": "1.0.24",
   "summary": "MCP server for source code analysis",
   "author": "optix-mcp-server contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "optix_mcp_server_ravn-1.0.22.tar.gz",
-  "download_time": "2026-02-26T14:45:45.671986",
+  "download_filename": "optix_mcp_server_ravn-1.0.24.tar.gz",
+  "download_time": "2026-02-26T16:40:38.116089",
   "package_url": "https://pypi.org/project/optix-mcp-server-ravn/"
 }
