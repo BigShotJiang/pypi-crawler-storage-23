@@ -1,0 +1,11 @@
+{
+  "name": "developers-chamber",
+  "version": "0.1.39",
+  "summary": "A small plugin which help with development, deployment, git",
+  "author": "Druids team",
+  "license": "MIT",
+  "home_page": "https://github.com/druids/django-project-info",
+  "download_filename": "developers_chamber-0.1.39.tar.gz",
+  "download_time": "2026-02-26T08:54:29.581476",
+  "package_url": "https://pypi.org/project/developers-chamber/"
+}

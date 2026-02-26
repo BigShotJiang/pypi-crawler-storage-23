@@ -1,11 +1,11 @@
 {
   "name": "ogm-platform",
-  "version": "1.0.18",
+  "version": "1.0.20",
   "summary": "Kubernetes Platform for GenAI Applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ogm_platform-1.0.18.tar.gz",
-  "download_time": "2026-02-26T08:03:46.426904",
+  "download_filename": "ogm_platform-1.0.20.tar.gz",
+  "download_time": "2026-02-26T08:54:10.062093",
   "package_url": "https://pypi.org/project/ogm-platform/"
 }

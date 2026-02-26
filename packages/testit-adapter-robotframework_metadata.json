@@ -1,11 +1,11 @@
 {
   "name": "testit-adapter-robotframework",
-  "version": "3.12.2",
+  "version": "3.12.3",
   "summary": "Robot Framework adapter for Test IT",
   "author": "Integration team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/testit-tms/adapters-python/",
-  "download_filename": "testit_adapter_robotframework-3.12.2.tar.gz",
-  "download_time": "2026-02-24T09:08:13.555692",
+  "download_filename": "testit_adapter_robotframework-3.12.3.tar.gz",
+  "download_time": "2026-02-26T08:54:14.677633",
   "package_url": "https://pypi.org/project/testit-adapter-robotframework/"
 }

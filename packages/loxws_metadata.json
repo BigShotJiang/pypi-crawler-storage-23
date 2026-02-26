@@ -1,0 +1,11 @@
+{
+  "name": "loxws",
+  "version": "0.0.68",
+  "summary": "Loxone Client",
+  "author": "tjsmithuk",
+  "license": null,
+  "home_page": "https://github.com/grimbouk/loxws",
+  "download_filename": "loxws-0.0.68.tar.gz",
+  "download_time": "2026-02-26T08:54:45.702957",
+  "package_url": "https://pypi.org/project/loxws/"
+}

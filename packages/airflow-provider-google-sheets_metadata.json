@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-google-sheets",
+  "version": "0.1.9",
+  "summary": "Apache Airflow provider for Google Sheets — read, write, and smart merge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_provider_google_sheets-0.1.9.tar.gz",
+  "download_time": "2026-02-26T08:54:43.104936",
+  "package_url": "https://pypi.org/project/airflow-provider-google-sheets/"
+}

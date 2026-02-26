@@ -1,0 +1,11 @@
+{
+  "name": "tripo3d",
+  "version": "0.3.11",
+  "summary": "Python client for the Tripo 3D Generation API",
+  "author": "Tripo Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tripo3d-0.3.11.tar.gz",
+  "download_time": "2026-02-26T08:54:32.142139",
+  "package_url": "https://pypi.org/project/tripo3d/"
+}

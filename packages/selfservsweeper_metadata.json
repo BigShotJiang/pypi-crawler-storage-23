@@ -1,0 +1,11 @@
+{
+  "name": "selfservsweeper",
+  "version": "0.1.1",
+  "summary": "Touch-friendly Minesweeper overlay for NCR SelfServ kiosks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selfservsweeper-0.1.1.tar.gz",
+  "download_time": "2026-02-26T08:54:23.930796",
+  "package_url": "https://pypi.org/project/selfservsweeper/"
+}

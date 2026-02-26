@@ -1,11 +1,11 @@
 {
   "name": "salmalm",
-  "version": "0.27.74",
+  "version": "0.27.80",
   "summary": "Personal AI Gateway — Python AI assistant with multi-model routing, web UI, and 66 built-in tools. Core: uvicorn + fastapi + websockets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "salmalm-0.27.74.tar.gz",
-  "download_time": "2026-02-26T08:03:21.925007",
+  "download_filename": "salmalm-0.27.80.tar.gz",
+  "download_time": "2026-02-26T08:54:05.430855",
   "package_url": "https://pypi.org/project/salmalm/"
 }

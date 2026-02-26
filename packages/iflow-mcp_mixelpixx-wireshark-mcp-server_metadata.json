@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mixelpixx-wireshark-mcp-server",
+  "version": "0.1.0",
+  "summary": "Comprehensive Wireshark + Nmap MCP server for network analysis with threat intelligence",
+  "author": "Wireshark MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mixelpixx_wireshark_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-26T08:54:26.493634",
+  "package_url": "https://pypi.org/project/iflow-mcp_mixelpixx-wireshark-mcp-server/"
+}

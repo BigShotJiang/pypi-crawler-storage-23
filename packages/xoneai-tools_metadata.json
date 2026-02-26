@@ -1,0 +1,11 @@
+{
+  "name": "xoneai-tools",
+  "version": "0.0.2",
+  "summary": "Extended tools for XoneAI Agents",
+  "author": "Daniel Do",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xoneai_tools-0.0.2.tar.gz",
+  "download_time": "2026-02-26T08:54:04.904961",
+  "package_url": "https://pypi.org/project/xoneai-tools/"
+}
