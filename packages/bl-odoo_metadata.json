@@ -1,0 +1,11 @@
+{
+  "name": "bl-odoo",
+  "version": "0.3.6",
+  "summary": "A command-line tool for managing Odoo dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bl_odoo-0.3.6.tar.gz",
+  "download_time": "2026-02-26T11:57:37.459672",
+  "package_url": "https://pypi.org/project/bl-odoo/"
+}

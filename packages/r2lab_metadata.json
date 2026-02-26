@@ -1,0 +1,11 @@
+{
+  "name": "r2lab",
+  "version": "0.12.0",
+  "summary": "Basic utilities for the R2lab testbed",
+  "author": null,
+  "license": "CC-BY-NC-4.0",
+  "home_page": null,
+  "download_filename": "r2lab-0.12.0.tar.gz",
+  "download_time": "2026-02-26T11:58:04.636304",
+  "package_url": "https://pypi.org/project/r2lab/"
+}

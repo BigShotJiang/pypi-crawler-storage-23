@@ -1,0 +1,11 @@
+{
+  "name": "ontoma",
+  "version": "2.3.0",
+  "summary": "Ontology mapping for Open Targets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ontoma-2.3.0.tar.gz",
+  "download_time": "2026-02-26T11:57:56.910672",
+  "package_url": "https://pypi.org/project/ontoma/"
+}

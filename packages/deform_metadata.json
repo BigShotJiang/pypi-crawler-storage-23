@@ -1,0 +1,11 @@
+{
+  "name": "deform",
+  "version": "3.0.1",
+  "summary": "Form library with advanced features like nested forms",
+  "author": "Chris McDonough, Agendaless Consulting",
+  "license": "BSD-derived",
+  "home_page": "https://docs.pylonsproject.org/projects/deform/en/latest/",
+  "download_filename": "deform-3.0.1.tar.gz",
+  "download_time": "2026-02-26T11:57:48.781608",
+  "package_url": "https://pypi.org/project/deform/"
+}

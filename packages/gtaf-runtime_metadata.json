@@ -1,0 +1,11 @@
+{
+  "name": "gtaf-runtime",
+  "version": "0.1.1",
+  "summary": "Reference implementation of the GTAF Runtime Enforcement Core",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtaf_runtime-0.1.1.tar.gz",
+  "download_time": "2026-02-26T11:57:50.642808",
+  "package_url": "https://pypi.org/project/gtaf-runtime/"
+}
