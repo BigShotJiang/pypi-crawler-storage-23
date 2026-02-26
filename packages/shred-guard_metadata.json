@@ -1,0 +1,11 @@
+{
+  "name": "shred-guard",
+  "version": "1.0.0",
+  "summary": "A CLI tool to scan files for configurable regex patterns (PHI identifiers) and optionally replace matches with deterministic pseudonyms",
+  "author": "@BeckettFrey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shred_guard-1.0.0.tar.gz",
+  "download_time": "2026-02-26T20:57:24.168104",
+  "package_url": "https://pypi.org/project/shred-guard/"
+}

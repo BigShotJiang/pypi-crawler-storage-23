@@ -1,0 +1,11 @@
+{
+  "name": "python-openevse-http",
+  "version": "0.2.5",
+  "summary": "Python wrapper for OpenEVSE HTTP API",
+  "author": "firstof9",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/firstof9/python-openevse-http",
+  "download_filename": "python_openevse_http-0.2.5.tar.gz",
+  "download_time": "2026-02-26T20:56:36.585391",
+  "package_url": "https://pypi.org/project/python-openevse-http/"
+}

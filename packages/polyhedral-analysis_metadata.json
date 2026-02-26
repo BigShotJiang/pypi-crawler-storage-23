@@ -1,0 +1,11 @@
+{
+  "name": "polyhedral-analysis",
+  "version": "0.4.0",
+  "summary": "A library for analysis of coordination polyhedra from molecular dynamics trajectories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyhedral_analysis-0.4.0.tar.gz",
+  "download_time": "2026-02-26T20:57:00.488226",
+  "package_url": "https://pypi.org/project/polyhedral-analysis/"
+}

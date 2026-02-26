@@ -1,0 +1,11 @@
+{
+  "name": "orakel",
+  "version": "1.0.0",
+  "summary": "Orakel: A small library of regression models of interest to the life sciences.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orakel-1.0.0.tar.gz",
+  "download_time": "2026-02-26T20:57:10.743894",
+  "package_url": "https://pypi.org/project/orakel/"
+}

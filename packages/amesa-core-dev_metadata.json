@@ -1,11 +1,11 @@
 {
   "name": "amesa-core-dev",
-  "version": "0.20.5.dev13",
+  "version": "0.20.7.dev4",
   "summary": "the Amesa core functionality required to apply the Machine Teaching paradigm",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amesa_core_dev-0.20.5.dev13-cp311-cp311-macosx_15_0_arm64.whl",
-  "download_time": "2026-02-25T23:54:14.283242",
+  "download_filename": "amesa_core_dev-0.20.7.dev4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-26T20:56:43.132094",
   "package_url": "https://pypi.org/project/amesa-core-dev/"
 }

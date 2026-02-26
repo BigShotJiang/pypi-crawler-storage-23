@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-ec2",
-  "version": "1.42.56",
-  "summary": "Type annotations for boto3 EC2 1.42.56 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.57",
+  "summary": "Type annotations for boto3 EC2 1.42.57 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_ec2-1.42.56.tar.gz",
-  "download_time": "2026-02-24T21:34:51.601559",
+  "download_filename": "mypy_boto3_ec2-1.42.57.tar.gz",
+  "download_time": "2026-02-26T20:56:37.131994",
   "package_url": "https://pypi.org/project/mypy-boto3-ec2/"
 }

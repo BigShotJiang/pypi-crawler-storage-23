@@ -1,11 +1,11 @@
 {
   "name": "mcp-zen-of-languages",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Multi-language architectural and idiomatic code analysis via CLI and MCP server.",
   "author": "Anselm Hahn",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_zen_of_languages-0.3.0.tar.gz",
-  "download_time": "2026-02-22T10:16:21.872941",
+  "download_filename": "mcp_zen_of_languages-0.4.0.tar.gz",
+  "download_time": "2026-02-26T20:56:54.598616",
   "package_url": "https://pypi.org/project/mcp-zen-of-languages/"
 }
