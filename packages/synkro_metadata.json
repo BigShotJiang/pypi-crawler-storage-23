@@ -1,11 +1,11 @@
 {
   "name": "synkro",
-  "version": "0.5.58",
+  "version": "0.5.63",
   "summary": "Curate, evaluate, and ship LLM datasets from any document",
   "author": "Murtaza Meerza",
   "license": null,
   "home_page": null,
-  "download_filename": "synkro-0.5.58.tar.gz",
-  "download_time": "2026-02-25T21:29:32.489899",
+  "download_filename": "synkro-0.5.63.tar.gz",
+  "download_time": "2026-02-26T05:15:01.763446",
   "package_url": "https://pypi.org/project/synkro/"
 }

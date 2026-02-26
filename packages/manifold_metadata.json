@@ -1,0 +1,11 @@
+{
+  "name": "manifold",
+  "version": "0.0.1",
+  "summary": "Zero-configuration, OS-independent asset management for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manifold-0.0.1.tar.gz",
+  "download_time": "2026-02-26T05:14:36.131389",
+  "package_url": "https://pypi.org/project/manifold/"
+}

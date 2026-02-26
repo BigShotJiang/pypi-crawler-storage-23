@@ -1,11 +1,11 @@
 {
   "name": "ductor",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "summary": "Control Claude Code and Codex CLI from Telegram. Live streaming, sessions, cron jobs, webhooks, Docker sandboxing.",
   "author": "PleasePrompto",
   "license": null,
   "home_page": null,
-  "download_filename": "ductor-0.5.4.tar.gz",
-  "download_time": "2026-02-24T08:07:10.731848",
+  "download_filename": "ductor-0.6.0.tar.gz",
+  "download_time": "2026-02-26T05:15:10.158929",
   "package_url": "https://pypi.org/project/ductor/"
 }

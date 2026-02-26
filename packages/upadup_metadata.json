@@ -1,0 +1,11 @@
+{
+  "name": "upadup",
+  "version": "0.4.0",
+  "summary": "utility for python additional_dependencies updates in pre-commit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upadup-0.4.0.tar.gz",
+  "download_time": "2026-02-26T05:14:55.230098",
+  "package_url": "https://pypi.org/project/upadup/"
+}

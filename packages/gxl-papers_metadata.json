@@ -1,0 +1,11 @@
+{
+  "name": "gxl-papers",
+  "version": "0.1.0",
+  "summary": "Mount 450K+ bioRxiv/medRxiv papers as a local filesystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gxl_papers-0.1.0.tar.gz",
+  "download_time": "2026-02-26T05:14:53.489940",
+  "package_url": "https://pypi.org/project/gxl-papers/"
+}

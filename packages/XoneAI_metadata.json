@@ -1,0 +1,11 @@
+{
+  "name": "XoneAI",
+  "version": "1.0.1",
+  "summary": "XoneAI is an AI Agents Framework with Self Reflection. XoneAI application combines XoneAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
+  "author": "Daniel Do",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xoneai-1.0.1.tar.gz",
+  "download_time": "2026-02-26T05:15:15.033743",
+  "package_url": "https://pypi.org/project/XoneAI/"
+}

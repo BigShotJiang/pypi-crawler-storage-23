@@ -1,11 +1,11 @@
 {
   "name": "qtwebview2",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A lightweight and powerful WebView2 widget for Python Qt (PySide/PyQt) with a seamless JS bridge.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qtwebview2-0.4.0.tar.gz",
-  "download_time": "2026-02-26T03:44:01.226058",
+  "download_filename": "qtwebview2-0.4.1.tar.gz",
+  "download_time": "2026-02-26T05:15:00.017582",
   "package_url": "https://pypi.org/project/qtwebview2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aocstat",
+  "version": "1.1.1",
+  "summary": "Command line tool for interacting with Advent of Code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aocstat-1.1.1.tar.gz",
+  "download_time": "2026-02-26T05:14:49.708023",
+  "package_url": "https://pypi.org/project/aocstat/"
+}

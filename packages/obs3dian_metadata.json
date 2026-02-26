@@ -1,0 +1,11 @@
+{
+  "name": "obs3dian",
+  "version": "0.3.5",
+  "summary": "Easy image controller for obsidian. Change internal file links to externa",
+  "author": "정명진",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obs3dian-0.3.5.tar.gz",
+  "download_time": "2026-02-26T05:14:58.436509",
+  "package_url": "https://pypi.org/project/obs3dian/"
+}

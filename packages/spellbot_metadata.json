@@ -1,11 +1,11 @@
 {
   "name": "spellbot",
-  "version": "18.2.5",
+  "version": "18.2.7",
   "summary": "The Discord bot for Webcam Magic",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spellbot-18.2.5.tar.gz",
-  "download_time": "2026-02-24T01:10:16.901168",
+  "download_filename": "spellbot-18.2.7.tar.gz",
+  "download_time": "2026-02-26T05:14:52.440650",
   "package_url": "https://pypi.org/project/spellbot/"
 }
