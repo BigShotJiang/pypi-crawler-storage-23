@@ -1,0 +1,11 @@
+{
+  "name": "playback-studio",
+  "version": "0.3.35",
+  "summary": "Record your service operations in production and replay them locally at any time in a sandbox",
+  "author": "Optibus",
+  "license": null,
+  "home_page": "https://github.com/Optibus/playback",
+  "download_filename": "playback_studio-0.3.35.tar.gz",
+  "download_time": "2026-02-26T15:38:01.130139",
+  "package_url": "https://pypi.org/project/playback-studio/"
+}

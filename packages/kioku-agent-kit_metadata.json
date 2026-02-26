@@ -1,11 +1,11 @@
 {
   "name": "kioku-agent-kit",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Personal memory engine for AI agents — tri-hybrid search (BM25 + Vector + KG), CLI & MCP interfaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kioku_agent_kit-0.2.4.tar.gz",
-  "download_time": "2026-02-26T12:42:03.661589",
+  "download_filename": "kioku_agent_kit-0.2.6-py3-none-any.whl",
+  "download_time": "2026-02-26T15:37:23.458880",
   "package_url": "https://pypi.org/project/kioku-agent-kit/"
 }
