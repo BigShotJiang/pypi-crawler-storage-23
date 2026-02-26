@@ -1,0 +1,11 @@
+{
+  "name": "django-url-tokenizer",
+  "version": "0.1.58",
+  "summary": "A python package that provides a Django app that allows you to generate tokenized urls and send them to users via email.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_url_tokenizer-0.1.58.tar.gz",
+  "download_time": "2026-02-26T23:30:21.444226",
+  "package_url": "https://pypi.org/project/django-url-tokenizer/"
+}

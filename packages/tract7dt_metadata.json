@@ -1,0 +1,11 @@
+{
+  "name": "tract7dt",
+  "version": "0.6.0",
+  "summary": "7DT image-specific Tractor photometry pipeline",
+  "author": "Danhyeuk Seol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tract7dt-0.6.0.tar.gz",
+  "download_time": "2026-02-26T23:30:29.306678",
+  "package_url": "https://pypi.org/project/tract7dt/"
+}

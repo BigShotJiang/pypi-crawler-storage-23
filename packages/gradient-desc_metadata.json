@@ -1,0 +1,11 @@
+{
+  "name": "gradient-desc",
+  "version": "0.1.9",
+  "summary": "Git-like deterministic checkpointing for ML training",
+  "author": "Malhar Shah, Akshat Shah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradient_desc-0.1.9.tar.gz",
+  "download_time": "2026-02-26T23:30:16.203781",
+  "package_url": "https://pypi.org/project/gradient-desc/"
+}

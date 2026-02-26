@@ -1,11 +1,11 @@
 {
   "name": "mcp-bouncer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Health-check your MCP servers, quarantine broken ones, auto-restore when they recover.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_bouncer-1.0.0.tar.gz",
-  "download_time": "2026-02-21T21:15:16.654488",
+  "download_filename": "mcp_bouncer-1.0.1.tar.gz",
+  "download_time": "2026-02-26T23:30:08.653164",
   "package_url": "https://pypi.org/project/mcp-bouncer/"
 }

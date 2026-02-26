@@ -1,11 +1,11 @@
 {
   "name": "mcp-select",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "CLI for discovering and running MCP Tool Shop tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_select-1.0.5.tar.gz",
-  "download_time": "2026-02-23T11:54:03.161370",
+  "download_filename": "mcp_select-1.0.6.tar.gz",
+  "download_time": "2026-02-26T23:30:38.912492",
   "package_url": "https://pypi.org/project/mcp-select/"
 }

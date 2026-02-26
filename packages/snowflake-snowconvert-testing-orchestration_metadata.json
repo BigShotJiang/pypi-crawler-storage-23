@@ -1,11 +1,11 @@
 {
   "name": "snowflake-snowconvert-testing-orchestration",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "summary": "Capture and validate stored procedure baselines during database migrations to Snowflake",
   "author": null,
   "license": "Snowflake Conversion Software Terms",
   "home_page": null,
-  "download_filename": "snowflake_snowconvert_testing_orchestration-0.1.0.tar.gz",
-  "download_time": "2026-02-24T21:58:29.752606",
+  "download_filename": "snowflake_snowconvert_testing_orchestration-0.1.6.tar.gz",
+  "download_time": "2026-02-26T23:30:33.050607",
   "package_url": "https://pypi.org/project/snowflake-snowconvert-testing-orchestration/"
 }

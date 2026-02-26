@@ -1,0 +1,11 @@
+{
+  "name": "health-check-runner",
+  "version": "1.0.0",
+  "summary": "Universal JSON-driven CLI health check library — Robot Framework, pytest, Python, CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "health_check_runner-1.0.0.tar.gz",
+  "download_time": "2026-02-26T23:30:30.882861",
+  "package_url": "https://pypi.org/project/health-check-runner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nexus-router-adapter-stdout",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Debug adapter that prints tool calls to stdout",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_router_adapter_stdout-0.2.0.tar.gz",
-  "download_time": "2026-02-23T10:13:00.803043",
+  "download_filename": "nexus_router_adapter_stdout-0.2.1.tar.gz",
+  "download_time": "2026-02-26T23:30:38.289189",
   "package_url": "https://pypi.org/project/nexus-router-adapter-stdout/"
 }

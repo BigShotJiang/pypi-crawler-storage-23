@@ -1,11 +1,11 @@
 {
   "name": "policyengine-canada",
-  "version": "0.97.0",
+  "version": "0.97.2",
   "summary": "Microsimulation model for Canada's tax-benefit system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_canada-0.97.0.tar.gz",
-  "download_time": "2026-02-26T23:01:47.796243",
+  "download_filename": "policyengine_canada-0.97.2.tar.gz",
+  "download_time": "2026-02-26T23:30:00.210326",
   "package_url": "https://pypi.org/project/policyengine-canada/"
 }

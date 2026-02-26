@@ -1,11 +1,11 @@
 {
   "name": "mtcli-range",
-  "version": "1.0.0.dev0",
+  "version": "1.0.0.dev2",
   "summary": "Range bars  plugin para mtcli",
   "author": "Valmir França",
   "license": null,
   "home_page": "https://github.com/vfranca/mtcli-range",
-  "download_filename": "mtcli_range-1.0.0.dev0.tar.gz",
-  "download_time": "2026-02-26T21:54:29.480264",
+  "download_filename": "mtcli_range-1.0.0.dev2.tar.gz",
+  "download_time": "2026-02-26T23:30:09.172762",
   "package_url": "https://pypi.org/project/mtcli-range/"
 }

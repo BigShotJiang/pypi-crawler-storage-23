@@ -1,0 +1,11 @@
+{
+  "name": "ironlayer-core",
+  "version": "0.2.0",
+  "summary": "IronLayer Core Engine — deterministic SQL transformation planning and execution",
+  "author": "IronLayer Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ironlayer_core-0.2.0.tar.gz",
+  "download_time": "2026-02-26T23:30:30.362239",
+  "package_url": "https://pypi.org/project/ironlayer-core/"
+}
