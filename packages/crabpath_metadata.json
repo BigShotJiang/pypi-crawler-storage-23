@@ -1,11 +1,11 @@
 {
   "name": "crabpath",
-  "version": "1.0.7",
-  "summary": "🦀 CrabPath: The Graph is the Prompt. LLM-guided memory traversal with learned pointer weights.",
+  "version": "2.0.0",
+  "summary": "🦀 Memory store for AI agents that learns what to retrieve — and what to suppress — from experience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crabpath-1.0.7.tar.gz",
-  "download_time": "2026-02-26T16:40:18.923816",
+  "download_filename": "crabpath-2.0.0.tar.gz",
+  "download_time": "2026-02-26T17:46:14.852689",
   "package_url": "https://pypi.org/project/crabpath/"
 }

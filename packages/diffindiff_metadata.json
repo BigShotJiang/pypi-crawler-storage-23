@@ -1,11 +1,11 @@
 {
   "name": "diffindiff",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "summary": "diffindiff: Python library for convenient Difference-in-Differences analyses",
   "author": "Thomas Wieland",
   "license": null,
   "home_page": null,
-  "download_filename": "diffindiff-2.2.6.tar.gz",
-  "download_time": "2026-02-20T18:08:32.206120",
+  "download_filename": "diffindiff-2.2.7.tar.gz",
+  "download_time": "2026-02-26T17:46:34.079985",
   "package_url": "https://pypi.org/project/diffindiff/"
 }

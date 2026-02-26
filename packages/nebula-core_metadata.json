@@ -1,11 +1,11 @@
 {
   "name": "nebula-core",
-  "version": "1.1.0",
-  "summary": "Nebula is a lightweight Python backend framework with middleware and routing, built on top of the standard http.server module. It allows you to create web applications quickly with simple, decorator-based routing.",
+  "version": "1.2.3",
+  "summary": "Nebula is a lightweight Python backend framework with middleware and routing, built on top of the werkzeug. It allows you to create web applications quickly with simple, decorator-based routing.",
   "author": "VxidDev, amogus-gggy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nebula_core-1.1.0.tar.gz",
-  "download_time": "2026-02-22T12:27:00.295927",
+  "download_filename": "nebula_core-1.2.3.tar.gz",
+  "download_time": "2026-02-26T17:46:06.060711",
   "package_url": "https://pypi.org/project/nebula-core/"
 }

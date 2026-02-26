@@ -1,11 +1,11 @@
 {
   "name": "labelr",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "summary": "A command-line tool to manage labeling tasks with Label Studio.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "labelr-0.14.0.tar.gz",
-  "download_time": "2026-02-19T17:13:55.448234",
+  "download_filename": "labelr-0.14.1.tar.gz",
+  "download_time": "2026-02-26T17:46:38.726269",
   "package_url": "https://pypi.org/project/labelr/"
 }

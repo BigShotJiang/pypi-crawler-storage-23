@@ -1,0 +1,11 @@
+{
+  "name": "nfixplanet",
+  "version": "0.1.1",
+  "summary": "Nitrogen Fixer detection pipeline",
+  "author": "Shahriyar Mahdi Robbani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nfixplanet-0.1.1.tar.gz",
+  "download_time": "2026-02-26T17:46:30.406121",
+  "package_url": "https://pypi.org/project/nfixplanet/"
+}

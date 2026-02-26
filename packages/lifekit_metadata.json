@@ -1,0 +1,11 @@
+{
+  "name": "lifekit",
+  "version": "0.1.0",
+  "summary": "An AI-powered personal productivity system. Planning, projects, people, and habits — markdown-native, AI-first.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lifekit-0.1.0.tar.gz",
+  "download_time": "2026-02-26T17:46:21.070055",
+  "package_url": "https://pypi.org/project/lifekit/"
+}

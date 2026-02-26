@@ -1,0 +1,11 @@
+{
+  "name": "mxtifffile",
+  "version": "0.0.2",
+  "summary": "A config-driven multiplex TIFF reader supporting QPTIFF, OME-TIFF, and ImageJ formats",
+  "author": "Caleb Grenko",
+  "license": "MIT",
+  "home_page": "https://github.com/grenkoca/qptifffile",
+  "download_filename": "mxtifffile-0.0.2.tar.gz",
+  "download_time": "2026-02-26T17:46:41.292083",
+  "package_url": "https://pypi.org/project/mxtifffile/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xapian-model",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A generic Python ORM-like base class for building models backed by Xapiand",
   "author": "Dubalu International",
   "license": null,
   "home_page": null,
-  "download_filename": "xapian_model-0.3.1.tar.gz",
-  "download_time": "2026-02-19T15:30:33.653712",
+  "download_filename": "xapian_model-0.3.2.tar.gz",
+  "download_time": "2026-02-26T17:46:18.497661",
   "package_url": "https://pypi.org/project/xapian-model/"
 }

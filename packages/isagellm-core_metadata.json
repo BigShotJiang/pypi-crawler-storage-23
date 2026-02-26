@@ -1,11 +1,11 @@
 {
   "name": "isagellm-core",
-  "version": "0.5.2.24",
+  "version": "0.5.2.25",
   "summary": "sageLLM core runtime with PD separation (MVP)",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm_core-0.5.2.24.tar.gz",
-  "download_time": "2026-02-26T16:40:49.552751",
+  "download_filename": "isagellm_core-0.5.2.25.tar.gz",
+  "download_time": "2026-02-26T17:46:28.294291",
   "package_url": "https://pypi.org/project/isagellm-core/"
 }

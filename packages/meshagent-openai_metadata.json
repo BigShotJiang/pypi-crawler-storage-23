@@ -1,11 +1,11 @@
 {
   "name": "meshagent-openai",
-  "version": "0.28.3",
+  "version": "0.28.6",
   "summary": "OpenAI Building Blocks for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_openai-0.28.3.tar.gz",
-  "download_time": "2026-02-25T20:10:56.405817",
+  "download_filename": "meshagent_openai-0.28.6.tar.gz",
+  "download_time": "2026-02-26T17:46:09.164656",
   "package_url": "https://pypi.org/project/meshagent-openai/"
 }

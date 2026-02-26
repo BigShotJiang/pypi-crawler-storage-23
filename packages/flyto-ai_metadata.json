@@ -1,11 +1,11 @@
 {
   "name": "flyto-ai",
-  "version": "0.9.19",
+  "version": "0.9.21",
   "summary": "AI agent that turns natural language into executable automation. 412 batteries included.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flyto_ai-0.9.19.tar.gz",
-  "download_time": "2026-02-25T01:17:09.340414",
+  "download_filename": "flyto_ai-0.9.21.tar.gz",
+  "download_time": "2026-02-26T17:46:13.813587",
   "package_url": "https://pypi.org/project/flyto-ai/"
 }
