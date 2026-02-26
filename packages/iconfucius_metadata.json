@@ -1,11 +1,11 @@
 {
   "name": "iconfucius",
-  "version": "0.6.1",
+  "version": "0.7.1",
   "summary": "IConfucius | Wisdom for Bitcoin Markets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iconfucius-0.6.1.tar.gz",
-  "download_time": "2026-02-23T22:02:33.641194",
+  "download_filename": "iconfucius-0.7.1.tar.gz",
+  "download_time": "2026-02-26T21:54:46.304325",
   "package_url": "https://pypi.org/project/iconfucius/"
 }

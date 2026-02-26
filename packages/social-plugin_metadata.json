@@ -1,0 +1,11 @@
+{
+  "name": "social-plugin",
+  "version": "0.1.1",
+  "summary": "CLI tool for AI-powered social media content generation and publishing",
+  "author": "Nirmal Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "social_plugin-0.1.1.tar.gz",
+  "download_time": "2026-02-26T21:54:44.746842",
+  "package_url": "https://pypi.org/project/social-plugin/"
+}

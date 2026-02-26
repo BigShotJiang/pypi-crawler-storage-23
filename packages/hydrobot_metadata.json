@@ -1,0 +1,11 @@
+{
+  "name": "hydrobot",
+  "version": "0.9.13",
+  "summary": "A suite of processing tools for Hilltop hydrological data.",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "hydrobot-0.9.13.tar.gz",
+  "download_time": "2026-02-26T21:54:19.319628",
+  "package_url": "https://pypi.org/project/hydrobot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phi-engine",
+  "version": "1.1.2",
+  "summary": "Golden Continuum φ-Engine — An analytic compiler that computes exact calculus of black-box callables by exploiting factorial taylor structure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phi_engine-1.1.2-py3-none-any.whl",
+  "download_time": "2026-02-26T21:54:58.900873",
+  "package_url": "https://pypi.org/project/phi-engine/"
+}

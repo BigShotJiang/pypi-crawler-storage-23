@@ -1,11 +1,11 @@
 {
   "name": "prior-tools",
-  "version": "0.2.6",
+  "version": "0.3.1",
   "summary": "Python SDK for Prior — the knowledge exchange for AI agents. Search, contribute, and improve shared solutions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prior_tools-0.2.6.tar.gz",
-  "download_time": "2026-02-22T18:22:44.495684",
+  "download_filename": "prior_tools-0.3.1.tar.gz",
+  "download_time": "2026-02-26T21:54:56.273023",
   "package_url": "https://pypi.org/project/prior-tools/"
 }

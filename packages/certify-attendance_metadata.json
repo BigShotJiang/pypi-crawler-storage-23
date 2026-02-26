@@ -1,0 +1,11 @@
+{
+  "name": "certify-attendance",
+  "version": "0.1.2",
+  "summary": "Generate PDF attendance certifications, ready to email, on the command line or in a batch from a CSV file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certify_attendance-0.1.2.tar.gz",
+  "download_time": "2026-02-26T21:54:36.797187",
+  "package_url": "https://pypi.org/project/certify-attendance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ABSQL",
+  "version": "0.6.3",
+  "summary": "A rendering engine for templated SQL",
+  "author": "Chris Cardillo",
+  "license": null,
+  "home_page": "https://github.com/pipeline-tools/ABSQL",
+  "download_filename": "absql-0.6.3.tar.gz",
+  "download_time": "2026-02-26T21:54:27.356365",
+  "package_url": "https://pypi.org/project/ABSQL/"
+}

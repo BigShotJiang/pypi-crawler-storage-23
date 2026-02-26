@@ -1,11 +1,11 @@
 {
   "name": "ssmtree",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Render AWS SSM Parameter Store as a colorized terminal tree",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssmtree-0.2.0.tar.gz",
-  "download_time": "2026-02-26T21:28:07.498073",
+  "download_filename": "ssmtree-0.3.0.tar.gz",
+  "download_time": "2026-02-26T21:54:41.608808",
   "package_url": "https://pypi.org/project/ssmtree/"
 }

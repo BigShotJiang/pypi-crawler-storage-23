@@ -1,11 +1,11 @@
 {
   "name": "sphinx-fortran-domain",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": "A modern Sphinx domain for Fortran",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_fortran_domain-0.0.0.tar.gz",
-  "download_time": "2026-02-21T09:53:02.296124",
+  "download_filename": "sphinx_fortran_domain-0.0.1.tar.gz",
+  "download_time": "2026-02-26T21:54:25.256175",
   "package_url": "https://pypi.org/project/sphinx-fortran-domain/"
 }

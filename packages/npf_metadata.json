@@ -1,0 +1,11 @@
+{
+  "name": "npf",
+  "version": "2.0.7",
+  "summary": "NPF",
+  "author": "Tom Barbette",
+  "license": null,
+  "home_page": "https://github.com/tbarbette/npf",
+  "download_filename": "npf-2.0.7.tar.gz",
+  "download_time": "2026-02-26T21:54:53.116641",
+  "package_url": "https://pypi.org/project/npf/"
+}
