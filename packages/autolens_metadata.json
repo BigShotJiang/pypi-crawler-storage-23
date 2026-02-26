@@ -1,0 +1,11 @@
+{
+  "name": "autolens",
+  "version": "2026.2.26.3",
+  "summary": "Open-Source Strong Lensing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autolens-2026.2.26.3.tar.gz",
+  "download_time": "2026-02-26T19:27:29.984650",
+  "package_url": "https://pypi.org/project/autolens/"
+}

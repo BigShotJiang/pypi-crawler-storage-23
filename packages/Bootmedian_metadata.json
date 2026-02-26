@@ -1,0 +1,11 @@
+{
+  "name": "Bootmedian",
+  "version": "1.1.3",
+  "summary": "A software to estimate medians through Bootstrapping",
+  "author": "Alejandro S. Borlaff",
+  "license": "BSD",
+  "home_page": "https://github.com/Borlaff/bootmedian",
+  "download_filename": "bootmedian-1.1.3.tar.gz",
+  "download_time": "2026-02-26T19:27:39.547571",
+  "package_url": "https://pypi.org/project/Bootmedian/"
+}

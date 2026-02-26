@@ -1,11 +1,11 @@
 {
   "name": "crabpath",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "🦀 Memory store for AI agents that learns what to retrieve — and what to suppress — from experience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crabpath-2.0.0.tar.gz",
-  "download_time": "2026-02-26T17:46:14.852689",
+  "download_filename": "crabpath-2.2.0.tar.gz",
+  "download_time": "2026-02-26T19:27:45.325878",
   "package_url": "https://pypi.org/project/crabpath/"
 }

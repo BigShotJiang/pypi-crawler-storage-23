@@ -1,0 +1,11 @@
+{
+  "name": "beyondbench",
+  "version": "0.0.2",
+  "summary": "BeyondBench: Contamination-Resistant Evaluation of Reasoning in Language Models",
+  "author": "Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, Xuan Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/ctrl-gaurav/BeyondBench",
+  "download_filename": "beyondbench-0.0.2.tar.gz",
+  "download_time": "2026-02-26T19:27:37.997260",
+  "package_url": "https://pypi.org/project/beyondbench/"
+}

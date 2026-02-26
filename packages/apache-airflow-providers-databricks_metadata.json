@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-databricks",
+  "version": "7.9.1",
+  "summary": "Provider package apache-airflow-providers-databricks for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_databricks-7.9.1.tar.gz",
+  "download_time": "2026-02-26T19:27:25.210144",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-databricks/"
+}

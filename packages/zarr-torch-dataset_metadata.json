@@ -1,0 +1,11 @@
+{
+  "name": "zarr-torch-dataset",
+  "version": "0.0.9",
+  "summary": "Pytorch dataset with Zarr backend",
+  "author": null,
+  "license": "CECILL-2.1",
+  "home_page": null,
+  "download_filename": "zarr_torch_dataset-0.0.9.tar.gz",
+  "download_time": "2026-02-26T19:27:50.019038",
+  "package_url": "https://pypi.org/project/zarr-torch-dataset/"
+}

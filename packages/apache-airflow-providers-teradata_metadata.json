@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-teradata",
+  "version": "3.4.3",
+  "summary": "Provider package apache-airflow-providers-teradata for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_teradata-3.4.3.tar.gz",
+  "download_time": "2026-02-26T19:27:10.915539",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-teradata/"
+}

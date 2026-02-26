@@ -1,0 +1,11 @@
+{
+  "name": "aiidalab",
+  "version": "26.2.0",
+  "summary": "Implements core functions of AiiDAlab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiidalab-26.2.0.tar.gz",
+  "download_time": "2026-02-26T19:27:49.498102",
+  "package_url": "https://pypi.org/project/aiidalab/"
+}
