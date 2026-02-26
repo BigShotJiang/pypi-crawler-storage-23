@@ -1,11 +1,11 @@
 {
   "name": "datarobot-moderations",
-  "version": "11.2.17",
+  "version": "11.2.19",
   "summary": "DataRobot Monitoring and Moderation framework",
   "author": "DataRobot",
   "license": "DataRobot Tool and Utility Agreement",
   "home_page": null,
-  "download_filename": "datarobot_moderations-11.2.17-py3-none-any.whl",
-  "download_time": "2026-02-23T21:09:05.180187",
+  "download_filename": "datarobot_moderations-11.2.19-py3-none-any.whl",
+  "download_time": "2026-02-26T14:45:31.822008",
   "package_url": "https://pypi.org/project/datarobot-moderations/"
 }

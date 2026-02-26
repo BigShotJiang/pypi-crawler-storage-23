@@ -1,0 +1,11 @@
+{
+  "name": "FiPy",
+  "version": "4.0.2",
+  "summary": "A finite volume PDE solver in Python",
+  "author": "Jonathan Guyer, Daniel Wheeler, Jim Warren",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fipy-4.0.2-py3-none-any.whl",
+  "download_time": "2026-02-26T14:45:29.649691",
+  "package_url": "https://pypi.org/project/FiPy/"
+}

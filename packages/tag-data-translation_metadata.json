@@ -1,11 +1,11 @@
 {
   "name": "tag-data-translation",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "summary": "GS1 EPC Tag Data Translation for Python and RAIN (UHF) RFID. Encode and decode SGTIN, SSCC, SGLN, GRAI, and all EPC schemes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tag_data_translation-3.0.3.tar.gz",
-  "download_time": "2026-02-25T20:10:32.566210",
+  "download_filename": "tag_data_translation-3.0.4.tar.gz",
+  "download_time": "2026-02-26T14:45:03.133229",
   "package_url": "https://pypi.org/project/tag-data-translation/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qq-adapter-protocol",
-  "version": "0.2.11",
+  "version": "0.2.14",
   "summary": "QQ Adapter 通信协议，定义消息收发的公共数据结构",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qq_adapter_protocol-0.2.11.tar.gz",
-  "download_time": "2026-02-26T12:41:46.876539",
+  "download_filename": "qq_adapter_protocol-0.2.14.tar.gz",
+  "download_time": "2026-02-26T14:45:14.461586",
   "package_url": "https://pypi.org/project/qq-adapter-protocol/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "speedy-utils",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "summary": "Fast and easy-to-use package for data science",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "speedy_utils-1.2.11.tar.gz",
-  "download_time": "2026-02-18T16:43:15.425492",
+  "download_filename": "speedy_utils-1.2.12.tar.gz",
+  "download_time": "2026-02-26T14:45:44.565599",
   "package_url": "https://pypi.org/project/speedy-utils/"
 }

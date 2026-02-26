@@ -1,0 +1,11 @@
+{
+  "name": "webthief",
+  "version": "4.2.0",
+  "summary": "高保真 1:1 网站克隆工具 — 完美还原 SPA 动态页面，支持离线运行",
+  "author": "LING71671",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "webthief-4.2.0.tar.gz",
+  "download_time": "2026-02-26T14:45:19.336441",
+  "package_url": "https://pypi.org/project/webthief/"
+}

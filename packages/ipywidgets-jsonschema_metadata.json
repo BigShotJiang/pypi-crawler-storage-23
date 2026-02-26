@@ -1,0 +1,11 @@
+{
+  "name": "ipywidgets-jsonschema",
+  "version": "1.2.0",
+  "summary": "Widget Generator for JSON schema",
+  "author": null,
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "ipywidgets_jsonschema-1.2.0.tar.gz",
+  "download_time": "2026-02-26T14:45:12.273109",
+  "package_url": "https://pypi.org/project/ipywidgets-jsonschema/"
+}

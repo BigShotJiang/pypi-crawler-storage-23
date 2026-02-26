@@ -1,0 +1,11 @@
+{
+  "name": "superinfo-tool",
+  "version": "1.0.0",
+  "summary": "AI-powered research, OSINT, verification and report synthesis CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superinfo_tool-1.0.0.tar.gz",
+  "download_time": "2026-02-26T14:45:41.797831",
+  "package_url": "https://pypi.org/project/superinfo-tool/"
+}

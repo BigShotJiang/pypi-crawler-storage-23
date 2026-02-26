@@ -1,11 +1,11 @@
 {
   "name": "embedm",
-  "version": "0.9.4",
+  "version": "0.9.10",
   "summary": "A Python tool for embedding files, code snippets, and generating tables of contents in Markdown documents with built-in safety limits and validation",
   "author": "Fultslop",
   "license": null,
   "home_page": null,
-  "download_filename": "embedm-0.9.4.tar.gz",
-  "download_time": "2026-02-24T13:58:54.323320",
+  "download_filename": "embedm-0.9.10.tar.gz",
+  "download_time": "2026-02-26T14:45:25.863231",
   "package_url": "https://pypi.org/project/embedm/"
 }

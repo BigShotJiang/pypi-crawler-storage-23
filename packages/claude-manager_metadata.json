@@ -1,0 +1,11 @@
+{
+  "name": "claude-manager",
+  "version": "0.5.1",
+  "summary": "Gestionnaire de bibliothèque d'agents et serveurs MCP pour Claude Code",
+  "author": "Zug",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "claude_manager-0.5.1.tar.gz",
+  "download_time": "2026-02-26T14:45:28.003143",
+  "package_url": "https://pypi.org/project/claude-manager/"
+}

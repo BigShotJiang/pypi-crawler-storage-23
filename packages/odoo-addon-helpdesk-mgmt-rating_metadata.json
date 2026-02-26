@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-rating",
+  "version": "18.0.1.0.0.3",
+  "summary": "This module allows customer to rate the assistance received on a ticket.",
+  "author": "Domatix, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_rating-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-02-26T14:45:35.754076",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-rating/"
+}

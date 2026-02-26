@@ -1,0 +1,11 @@
+{
+  "name": "pyintellicenter",
+  "version": "0.1.15",
+  "summary": "Python library for Pentair IntelliCenter pool control systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyintellicenter-0.1.15.tar.gz",
+  "download_time": "2026-02-26T14:45:38.456312",
+  "package_url": "https://pypi.org/project/pyintellicenter/"
+}
