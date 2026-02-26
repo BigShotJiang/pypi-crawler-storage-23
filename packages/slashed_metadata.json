@@ -1,0 +1,11 @@
+{
+  "name": "slashed",
+  "version": "1.2.1",
+  "summary": "Slash commands and autocompletions",
+  "author": "Philipp Temminghoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slashed-1.2.1.tar.gz",
+  "download_time": "2026-02-26T12:42:05.666044",
+  "package_url": "https://pypi.org/project/slashed/"
+}

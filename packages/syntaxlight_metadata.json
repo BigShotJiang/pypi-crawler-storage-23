@@ -1,0 +1,11 @@
+{
+  "name": "syntaxlight",
+  "version": "0.1.60",
+  "summary": "syntax highlight based on EBNF",
+  "author": "luzhixing12345",
+  "license": "MIT",
+  "home_page": "https://github.com/luzhixing12345/syntaxlight",
+  "download_filename": "syntaxlight-0.1.60.tar.gz",
+  "download_time": "2026-02-26T12:41:59.291114",
+  "package_url": "https://pypi.org/project/syntaxlight/"
+}

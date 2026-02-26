@@ -1,0 +1,11 @@
+{
+  "name": "gleanr",
+  "version": "0.1.0",
+  "summary": "Gleanr - Session-scoped memory layer for AI agents",
+  "author": "Saket Kumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gleanr-0.1.0.tar.gz",
+  "download_time": "2026-02-26T12:42:07.606274",
+  "package_url": "https://pypi.org/project/gleanr/"
+}

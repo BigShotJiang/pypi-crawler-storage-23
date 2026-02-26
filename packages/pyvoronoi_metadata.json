@@ -1,0 +1,11 @@
+{
+  "name": "pyvoronoi",
+  "version": "1.2.7",
+  "summary": "Cython wrapper for the Boost Voronoi library (version 1.59.0)",
+  "author": "Fabien Ancelin / Andrii Sydorchuk, Voxel8",
+  "license": null,
+  "home_page": "https://github.com/fabanc/pyvoronoi",
+  "download_filename": "pyvoronoi-1.2.7.tar.gz",
+  "download_time": "2026-02-26T12:42:08.256124",
+  "package_url": "https://pypi.org/project/pyvoronoi/"
+}

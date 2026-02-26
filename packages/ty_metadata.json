@@ -1,11 +1,11 @@
 {
   "name": "ty",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "An extremely fast Python type checker, written in Rust.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/astral-sh/ty/",
-  "download_filename": "ty-0.0.18.tar.gz",
-  "download_time": "2026-02-20T21:57:41.949441",
+  "download_filename": "ty-0.0.19.tar.gz",
+  "download_time": "2026-02-26T12:41:57.369134",
   "package_url": "https://pypi.org/project/ty/"
 }

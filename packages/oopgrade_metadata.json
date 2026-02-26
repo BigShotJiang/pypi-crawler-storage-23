@@ -1,0 +1,11 @@
+{
+  "name": "oopgrade",
+  "version": "0.25.1",
+  "summary": "Upgrade and migration tools",
+  "author": "GISCE-TI, S.L.",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/gisce/oopgrade",
+  "download_filename": "oopgrade-0.25.1.tar.gz",
+  "download_time": "2026-02-26T12:42:01.223565",
+  "package_url": "https://pypi.org/project/oopgrade/"
+}

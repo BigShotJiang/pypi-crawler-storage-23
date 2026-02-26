@@ -1,0 +1,11 @@
+{
+  "name": "cython-extensions-sc2",
+  "version": "0.13.4",
+  "summary": null,
+  "author": "Tom Kerr",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "cython_extensions_sc2-0.13.4-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-26T12:42:27.360338",
+  "package_url": "https://pypi.org/project/cython-extensions-sc2/"
+}

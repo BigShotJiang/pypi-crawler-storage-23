@@ -1,0 +1,11 @@
+{
+  "name": "axon-velocity",
+  "version": "0.2.0",
+  "summary": "Python package to reconstruct axonal branches from high-density micro-electrode array data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "axon_velocity-0.2.0.tar.gz",
+  "download_time": "2026-02-26T12:42:32.827120",
+  "package_url": "https://pypi.org/project/axon-velocity/"
+}

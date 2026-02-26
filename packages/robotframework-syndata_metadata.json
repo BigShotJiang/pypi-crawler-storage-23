@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-syndata",
+  "version": "0.1.1",
+  "summary": "Generation of synthetic test data that is consistent.",
+  "author": "Dirk O. Schweier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_syndata-0.1.1.tar.gz",
+  "download_time": "2026-02-26T12:42:36.495872",
+  "package_url": "https://pypi.org/project/robotframework-syndata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mamood-llm-cost-estimator",
+  "version": "0.1.2",
+  "summary": "Realtime OpenRouter LLM API call cost estimator",
+  "author": "Amirhossein Mahmoudi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mamood_llm_cost_estimator-0.1.2.tar.gz",
+  "download_time": "2026-02-26T12:42:00.581093",
+  "package_url": "https://pypi.org/project/mamood-llm-cost-estimator/"
+}

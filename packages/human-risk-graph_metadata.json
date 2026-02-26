@@ -1,11 +1,11 @@
 {
   "name": "human-risk-graph",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "A quantitative model for measuring organizational security risk caused by human dependencies",
   "author": "Aleksei Aleinikov",
   "license": null,
   "home_page": "https://github.com/LF3551/human-risk-graph",
-  "download_filename": "human_risk_graph-0.2.1.tar.gz",
-  "download_time": "2026-02-26T09:41:14.317885",
+  "download_filename": "human_risk_graph-0.2.4.tar.gz",
+  "download_time": "2026-02-26T12:41:52.887671",
   "package_url": "https://pypi.org/project/human-risk-graph/"
 }
