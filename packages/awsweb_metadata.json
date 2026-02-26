@@ -1,0 +1,11 @@
+{
+  "name": "awsweb",
+  "version": "1.2.0",
+  "summary": "A simple FastAPI web server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awsweb-1.2.0.tar.gz",
+  "download_time": "2026-02-26T07:18:27.719885",
+  "package_url": "https://pypi.org/project/awsweb/"
+}

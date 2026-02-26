@@ -1,11 +1,11 @@
 {
   "name": "openwebgoggles",
-  "version": "0.1.0",
+  "version": "0.4.1",
   "summary": "Browser-based human-in-the-loop UIs for AI coding agents",
   "author": "Techtoboggan",
   "license": null,
   "home_page": null,
-  "download_filename": "openwebgoggles-0.1.0.tar.gz",
-  "download_time": "2026-02-26T05:14:41.550214",
+  "download_filename": "openwebgoggles-0.4.1.tar.gz",
+  "download_time": "2026-02-26T07:18:20.977156",
   "package_url": "https://pypi.org/project/openwebgoggles/"
 }

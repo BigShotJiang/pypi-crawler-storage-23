@@ -1,0 +1,11 @@
+{
+  "name": "onnxsim",
+  "version": "0.6.2",
+  "summary": "Simplify your ONNX model",
+  "author": "ONNX Simplifier Authors",
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": "https://github.com/daquexian/onnx-simplifier",
+  "download_filename": "onnxsim-0.6.2.tar.gz",
+  "download_time": "2026-02-26T07:18:12.062372",
+  "package_url": "https://pypi.org/project/onnxsim/"
+}

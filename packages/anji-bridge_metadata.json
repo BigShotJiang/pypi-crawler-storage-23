@@ -1,0 +1,11 @@
+{
+  "name": "anji-bridge",
+  "version": "0.1.0",
+  "summary": "PDF to AI Agent Knowledge Bridge - Convert PDFs to enhanced Markdown/JSON",
+  "author": "Anji Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anji_bridge-0.1.0.tar.gz",
+  "download_time": "2026-02-26T07:18:37.131835",
+  "package_url": "https://pypi.org/project/anji-bridge/"
+}

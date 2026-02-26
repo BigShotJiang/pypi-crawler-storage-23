@@ -1,0 +1,11 @@
+{
+  "name": "gworkspace-mcp",
+  "version": "0.1.29",
+  "summary": "Google Workspace MCP Server - Connect Claude to Google Workspace APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gworkspace_mcp-0.1.29.tar.gz",
+  "download_time": "2026-02-26T07:18:30.858748",
+  "package_url": "https://pypi.org/project/gworkspace-mcp/"
+}

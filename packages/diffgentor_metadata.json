@@ -1,0 +1,11 @@
+{
+  "name": "diffgentor",
+  "version": "0.1.2",
+  "summary": "A unified visual generation data synthesis factory supporting multiple backends (diffusers, xDiT, OpenAI API)",
+  "author": "diffgentor team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "diffgentor-0.1.2.tar.gz",
+  "download_time": "2026-02-26T07:18:31.378287",
+  "package_url": "https://pypi.org/project/diffgentor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "RadiomicsModellingSuite",
-  "version": "0.0.22",
+  "version": "0.1.0",
   "summary": "Details about the package",
   "author": "AllisonNg067",
   "license": null,
   "home_page": null,
-  "download_filename": "radiomicsmodellingsuite-0.0.22.tar.gz",
-  "download_time": "2026-02-26T05:15:12.363772",
+  "download_filename": "radiomicsmodellingsuite-0.1.0.tar.gz",
+  "download_time": "2026-02-26T07:18:23.572746",
   "package_url": "https://pypi.org/project/RadiomicsModellingSuite/"
 }

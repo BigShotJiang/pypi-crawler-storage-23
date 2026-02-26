@@ -1,0 +1,11 @@
+{
+  "name": "my-chromedriver",
+  "version": "1.0.0",
+  "summary": "自定义打包的 ChromeDriver 包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "my_chromedriver-1.0.0-py3-none-any.whl",
+  "download_time": "2026-02-26T07:18:38.718284",
+  "package_url": "https://pypi.org/project/my-chromedriver/"
+}

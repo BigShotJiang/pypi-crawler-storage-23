@@ -1,11 +1,11 @@
 {
   "name": "pyaidrone",
-  "version": "2.1",
+  "version": "2.2",
   "summary": "Library for AIDrone Products",
   "author": "IR-Brain",
   "license": null,
   "home_page": "http://www.ir-brain.com",
-  "download_filename": "pyaidrone-2.1.tar.gz",
-  "download_time": "2026-02-25T06:40:18.561006",
+  "download_filename": "pyaidrone-2.2.tar.gz",
+  "download_time": "2026-02-26T07:18:35.065328",
   "package_url": "https://pypi.org/project/pyaidrone/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dreem-track",
-  "version": "0.4",
+  "version": "0.5.0",
   "summary": "Global Tracking Transformers for biological multi-object tracking.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dreem_track-0.4-py3-none-any.whl",
-  "download_time": "2026-02-19T21:55:34.822450",
+  "download_filename": "dreem_track-0.5.0-py3-none-any.whl",
+  "download_time": "2026-02-26T07:18:43.909244",
   "package_url": "https://pypi.org/project/dreem-track/"
 }
