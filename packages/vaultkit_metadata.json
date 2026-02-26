@@ -1,0 +1,11 @@
+{
+  "name": "vaultkit",
+  "version": "0.1.0",
+  "summary": "VaultKit Python SDK for policy-driven, runtime governed data access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vaultkit-0.1.0.tar.gz",
+  "download_time": "2026-02-26T03:44:43.650013",
+  "package_url": "https://pypi.org/project/vaultkit/"
+}

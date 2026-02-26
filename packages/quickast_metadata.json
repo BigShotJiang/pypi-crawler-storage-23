@@ -1,0 +1,11 @@
+{
+  "name": "quickast",
+  "version": "0.1.2",
+  "summary": "Instant codebase intelligence for AI coding agents. AST-powered symbol index with call graphs, route maps, and live file watching.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickast-0.1.2.tar.gz",
+  "download_time": "2026-02-26T03:44:36.725557",
+  "package_url": "https://pypi.org/project/quickast/"
+}

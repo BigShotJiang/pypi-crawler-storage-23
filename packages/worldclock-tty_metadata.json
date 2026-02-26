@@ -1,11 +1,11 @@
 {
   "name": "worldclock-tty",
-  "version": "0.3.1",
+  "version": "0.4.3",
   "summary": "A terminal-based world clock that displays multiple timezones in real-time.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worldclock_tty-0.3.1.tar.gz",
-  "download_time": "2026-02-24T01:09:59.015667",
+  "download_filename": "worldclock_tty-0.4.3.tar.gz",
+  "download_time": "2026-02-26T03:44:04.470455",
   "package_url": "https://pypi.org/project/worldclock-tty/"
 }

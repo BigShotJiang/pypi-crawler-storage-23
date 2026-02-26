@@ -1,0 +1,11 @@
+{
+  "name": "detrix-py",
+  "version": "1.1.1",
+  "summary": "Python client for Detrix - debug-on-demand observability with zero overhead",
+  "author": "Ilya Dyachenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "detrix_py-1.1.1.tar.gz",
+  "download_time": "2026-02-26T03:44:24.241552",
+  "package_url": "https://pypi.org/project/detrix-py/"
+}

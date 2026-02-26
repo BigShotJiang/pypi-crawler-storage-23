@@ -1,0 +1,11 @@
+{
+  "name": "minicons",
+  "version": "0.3.36",
+  "summary": "A package of useful functions to analyze transformer based language models.",
+  "author": "Kanishka Misra",
+  "license": "MIT",
+  "home_page": "https://github.com/kanishkamisra/minicons",
+  "download_filename": "minicons-0.3.36.tar.gz",
+  "download_time": "2026-02-26T03:44:44.189339",
+  "package_url": "https://pypi.org/project/minicons/"
+}

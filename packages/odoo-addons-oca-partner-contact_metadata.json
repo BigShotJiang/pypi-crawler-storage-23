@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-partner-contact",
-  "version": "19.0.20260224.0",
+  "version": "19.0.20260225.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_partner_contact-19.0.20260224.0-py3-none-any.whl",
-  "download_time": "2026-02-25T03:48:08.402716",
+  "download_filename": "odoo_addons_oca_partner_contact-19.0.20260225.0-py3-none-any.whl",
+  "download_time": "2026-02-26T03:44:13.357951",
   "package_url": "https://pypi.org/project/odoo-addons-oca-partner-contact/"
 }

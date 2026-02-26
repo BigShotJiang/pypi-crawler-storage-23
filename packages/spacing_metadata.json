@@ -1,0 +1,11 @@
+{
+  "name": "spacing",
+  "version": "1.0.0",
+  "summary": "Python blank line formatter enforcing spacing rules for clean, readable code",
+  "author": "Greg Smethells",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "spacing-1.0.0.tar.gz",
+  "download_time": "2026-02-26T03:44:02.844744",
+  "package_url": "https://pypi.org/project/spacing/"
+}

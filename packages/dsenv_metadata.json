@@ -1,0 +1,11 @@
+{
+  "name": "dsenv",
+  "version": "0.2.0",
+  "summary": "Damn Simple Environ Vars",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dsenv-0.2.0.tar.gz",
+  "download_time": "2026-02-26T03:44:38.275340",
+  "package_url": "https://pypi.org/project/dsenv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-payroll",
+  "version": "18.0.1.2.1.2",
+  "summary": "Manage your employee payroll records",
+  "author": "Odoo SA, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/payroll",
+  "download_filename": "odoo_addon_payroll-18.0.1.2.1.2-py3-none-any.whl",
+  "download_time": "2026-02-26T03:44:12.325856",
+  "package_url": "https://pypi.org/project/odoo-addon-payroll/"
+}

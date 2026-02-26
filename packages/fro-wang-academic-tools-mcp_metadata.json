@@ -1,0 +1,11 @@
+{
+  "name": "fro-wang-academic-tools-mcp",
+  "version": "0.1.0",
+  "summary": "All-in-one MCP server for academic paper processing: OCR, metadata, structure extraction, translation, summary, arXiv, and Zotero.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fro_wang_academic_tools_mcp-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-26T03:44:03.356642",
+  "package_url": "https://pypi.org/project/fro-wang-academic-tools-mcp/"
+}
