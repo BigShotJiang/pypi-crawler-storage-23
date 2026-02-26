@@ -1,0 +1,11 @@
+{
+  "name": "loom-agents",
+  "version": "0.3.0",
+  "summary": "Multi-agent project orchestration system",
+  "author": "Jason Bauman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "loom_agents-0.3.0.tar.gz",
+  "download_time": "2026-02-26T01:09:44.119058",
+  "package_url": "https://pypi.org/project/loom-agents/"
+}

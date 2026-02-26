@@ -1,0 +1,11 @@
+{
+  "name": "panelbox",
+  "version": "0.6.0",
+  "summary": "Panel data econometrics in Python: Fixed Effects, Random Effects, GMM (Arellano-Bond, Blundell-Bond), Experiment Pattern with Result Containers (Validation, Comparison, Residual), Test Runners & Master Reports, Interactive Visualizations (35 Charts), Professional HTML Reports, Robust Standard Errors (HC, Clustered, Driscoll-Kraay, Newey-West), Comprehensive Diagnostics",
+  "author": "Gustavo Haase",
+  "license": "MIT",
+  "home_page": "https://github.com/PanelBox-Econometrics-Model/panelbox",
+  "download_filename": "panelbox-0.6.0.tar.gz",
+  "download_time": "2026-02-26T01:09:36.844724",
+  "package_url": "https://pypi.org/project/panelbox/"
+}

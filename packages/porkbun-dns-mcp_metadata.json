@@ -1,0 +1,11 @@
+{
+  "name": "porkbun-dns-mcp",
+  "version": "0.1.2",
+  "summary": "Unofficial MCP server for Porkbun DNS management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "porkbun_dns_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-26T01:09:40.982759",
+  "package_url": "https://pypi.org/project/porkbun-dns-mcp/"
+}

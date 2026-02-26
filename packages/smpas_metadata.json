@@ -1,0 +1,11 @@
+{
+  "name": "smpas",
+  "version": "0.1.1",
+  "summary": "AprilTag-calibrated dried shiitake mushroom cap analysis (diameter, crack ratio, pattern classification).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smpas-0.1.1.tar.gz",
+  "download_time": "2026-02-26T01:09:58.336693",
+  "package_url": "https://pypi.org/project/smpas/"
+}

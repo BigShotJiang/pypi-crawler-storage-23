@@ -1,0 +1,11 @@
+{
+  "name": "FPSim2",
+  "version": "0.7.4",
+  "summary": "Simple package for fast molecular similarity searching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fpsim2-0.7.4.tar.gz",
+  "download_time": "2026-02-26T01:09:45.668404",
+  "package_url": "https://pypi.org/project/FPSim2/"
+}

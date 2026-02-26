@@ -1,0 +1,11 @@
+{
+  "name": "kan-mlp-hybrid",
+  "version": "0.1.1",
+  "summary": "Hybrid Kolmogorov-Arnold Multi-Layer Perceptrons for PyTorch",
+  "author": "Khalfoun Mohamed El Mehdi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kan_mlp_hybrid-0.1.1.tar.gz",
+  "download_time": "2026-02-26T01:09:42.535588",
+  "package_url": "https://pypi.org/project/kan-mlp-hybrid/"
+}

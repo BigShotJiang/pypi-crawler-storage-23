@@ -1,0 +1,11 @@
+{
+  "name": "nornir-nautobot",
+  "version": "4.0.1",
+  "summary": "Nornir Nautobot",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nornir_nautobot-4.0.1.tar.gz",
+  "download_time": "2026-02-26T01:09:35.738815",
+  "package_url": "https://pypi.org/project/nornir-nautobot/"
+}

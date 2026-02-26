@@ -1,0 +1,11 @@
+{
+  "name": "mcp-creator",
+  "version": "0.2.2",
+  "summary": "Create, build, and publish Python MCP servers to PyPI — conversationally",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_creator-0.2.2.tar.gz",
+  "download_time": "2026-02-26T01:09:42.019662",
+  "package_url": "https://pypi.org/project/mcp-creator/"
+}

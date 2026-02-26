@@ -1,0 +1,11 @@
+{
+  "name": "velo-sdk",
+  "version": "0.0.20",
+  "summary": "Python SDK for accessing the VELO API for climate risk data, asset information, companies, and market indexes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "velo_sdk-0.0.20.tar.gz",
+  "download_time": "2026-02-26T01:09:18.878496",
+  "package_url": "https://pypi.org/project/velo-sdk/"
+}

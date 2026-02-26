@@ -1,11 +1,11 @@
 {
   "name": "claude-pet-companion",
-  "version": "1.2.0",
+  "version": "2.0.2",
   "summary": "A pixel-art virtual pet plugin for Claude Code",
   "author": "Claude Code Community",
   "license": "MIT",
   "home_page": "https://github.com/anthropics/claude-pet-companion",
-  "download_filename": "claude_pet_companion-1.2.0.tar.gz",
-  "download_time": "2026-02-25T08:29:27.006246",
+  "download_filename": "claude_pet_companion-2.0.2.tar.gz",
+  "download_time": "2026-02-26T01:09:38.405032",
   "package_url": "https://pypi.org/project/claude-pet-companion/"
 }

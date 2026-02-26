@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-cc",
+  "version": "0.2.0",
+  "summary": "Jupyter magic for Claude Code — %cc brings agentic AI into your notebook cells",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_cc-0.2.0.tar.gz",
+  "download_time": "2026-02-26T01:09:22.072749",
+  "package_url": "https://pypi.org/project/jupyter-cc/"
+}

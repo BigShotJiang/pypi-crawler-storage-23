@@ -1,11 +1,11 @@
 {
   "name": "recite-mcp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Local MCP server for Recite receipt processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recite_mcp-0.1.4.tar.gz",
-  "download_time": "2026-02-25T05:22:14.564836",
+  "download_filename": "recite_mcp-0.1.6.tar.gz",
+  "download_time": "2026-02-26T01:09:25.812018",
   "package_url": "https://pypi.org/project/recite-mcp/"
 }

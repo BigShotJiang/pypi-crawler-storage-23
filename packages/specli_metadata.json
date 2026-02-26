@@ -1,0 +1,11 @@
+{
+  "name": "specli",
+  "version": "0.1.7",
+  "summary": "Generate Typer CLI commands from OpenAPI 3.0/3.1 specs",
+  "author": "Cem Baspinar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "specli-0.1.7.tar.gz",
+  "download_time": "2026-02-26T01:09:53.068073",
+  "package_url": "https://pypi.org/project/specli/"
+}

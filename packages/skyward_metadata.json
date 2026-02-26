@@ -1,11 +1,11 @@
 {
   "name": "skyward",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Execute Python functions on cloud compute with a simple decorator",
   "author": "Gabriel Francisco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skyward-0.4.0.tar.gz",
-  "download_time": "2026-02-24T13:58:47.347779",
+  "download_filename": "skyward-0.5.1.tar.gz",
+  "download_time": "2026-02-26T01:09:26.951641",
   "package_url": "https://pypi.org/project/skyward/"
 }

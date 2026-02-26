@@ -1,0 +1,11 @@
+{
+  "name": "ranktube",
+  "version": "0.2.0",
+  "summary": "YouTube search CLI and browser UI that ranks results by relevance using YouTube Data API v3. Supports keyword scoring, channel filtering, multiple output modes, and a Streamlit UI with first-run setup.",
+  "author": "Manjunath Shetty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ranktube-0.2.0.tar.gz",
+  "download_time": "2026-02-26T01:09:19.954969",
+  "package_url": "https://pypi.org/project/ranktube/"
+}
