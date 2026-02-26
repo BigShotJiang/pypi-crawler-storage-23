@@ -1,11 +1,11 @@
 {
   "name": "meshagent-api",
-  "version": "0.28.6",
+  "version": "0.28.8",
   "summary": "Python Server API for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_api-0.28.6.tar.gz",
-  "download_time": "2026-02-26T17:46:07.088932",
+  "download_filename": "meshagent_api-0.28.8.tar.gz",
+  "download_time": "2026-02-26T23:55:09.333286",
   "package_url": "https://pypi.org/project/meshagent-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "autopkg-wrapper",
+  "version": "2026.2.14",
+  "summary": "A package used to execute some autopkg functions, primarily within the context of a GitHub Actions runner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autopkg_wrapper-2026.2.14.tar.gz",
+  "download_time": "2026-02-26T23:54:59.125181",
+  "package_url": "https://pypi.org/project/autopkg-wrapper/"
+}

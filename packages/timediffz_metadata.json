@@ -1,11 +1,11 @@
 {
   "name": "timediffz",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "a library for advanced and accurate timestamping and time differences",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "timediffz-1.0.6.tar.gz",
-  "download_time": "2026-02-26T23:30:22.498239",
+  "download_filename": "timediffz-1.0.8.tar.gz",
+  "download_time": "2026-02-26T23:55:18.844569",
   "package_url": "https://pypi.org/project/timediffz/"
 }

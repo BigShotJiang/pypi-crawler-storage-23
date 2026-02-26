@@ -1,0 +1,11 @@
+{
+  "name": "openhoof",
+  "version": "2.1.1",
+  "summary": "Lightweight agent runtime library for autonomous edge agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openhoof-2.1.1.tar.gz",
+  "download_time": "2026-02-26T23:55:03.974126",
+  "package_url": "https://pypi.org/project/openhoof/"
+}

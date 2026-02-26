@@ -1,11 +1,11 @@
 {
   "name": "geoxgb",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "Geometry-aware gradient boosting with HVRT-powered sample curation",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "geoxgb-0.1.1.tar.gz",
-  "download_time": "2026-02-21T15:16:31.724650",
+  "download_filename": "geoxgb-0.1.7.tar.gz",
+  "download_time": "2026-02-26T23:55:05.048923",
   "package_url": "https://pypi.org/project/geoxgb/"
 }

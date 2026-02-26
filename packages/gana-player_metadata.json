@@ -1,11 +1,11 @@
 {
   "name": "gana-player",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "A Cyberpunk CLI Music Player for Hackers",
   "author": "JuniorSir",
   "license": null,
   "home_page": "https://github.com/juniorsir/gana",
-  "download_filename": "gana_player-1.0.0.tar.gz",
-  "download_time": "2026-02-26T23:30:06.554519",
+  "download_filename": "gana_player-1.0.4.tar.gz",
+  "download_time": "2026-02-26T23:55:19.868322",
   "package_url": "https://pypi.org/project/gana-player/"
 }

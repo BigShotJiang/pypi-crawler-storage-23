@@ -1,0 +1,11 @@
+{
+  "name": "uw-django-saml2",
+  "version": "1.8.5",
+  "summary": "Django wrapper for python3-saml",
+  "author": "UWIT Student & Educational Technology Services",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-django-saml2",
+  "download_filename": "uw_django_saml2-1.8.5.tar.gz",
+  "download_time": "2026-02-26T23:55:21.921762",
+  "package_url": "https://pypi.org/project/uw-django-saml2/"
+}
