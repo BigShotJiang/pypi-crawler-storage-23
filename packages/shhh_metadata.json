@@ -1,0 +1,11 @@
+{
+  "name": "shhh",
+  "version": "0.0.0.dev1",
+  "summary": "Simple environment secret accessor for Python.",
+  "author": "Anatoly Frolov (anafro)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shhh-0.0.0.dev1.tar.gz",
+  "download_time": "2026-02-26T09:41:13.806496",
+  "package_url": "https://pypi.org/project/shhh/"
+}

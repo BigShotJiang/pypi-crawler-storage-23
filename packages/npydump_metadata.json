@@ -1,0 +1,11 @@
+{
+  "name": "npydump",
+  "version": "26.2.26",
+  "summary": "CLI tool to inspect .npy and .npz files",
+  "author": "npydump contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "npydump-26.2.26.tar.gz",
+  "download_time": "2026-02-26T09:41:30.295605",
+  "package_url": "https://pypi.org/project/npydump/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "storyblok-assets-cleanup",
+  "version": "1.2.2",
+  "summary": "Utility to clean unused storyblok assets.",
+  "author": "Significa",
+  "license": "MIT",
+  "home_page": "https://github.com/significa/storyblok-assets-cleanup",
+  "download_filename": "storyblok_assets_cleanup-1.2.2.tar.gz",
+  "download_time": "2026-02-26T09:41:03.160959",
+  "package_url": "https://pypi.org/project/storyblok-assets-cleanup/"
+}

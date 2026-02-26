@@ -1,0 +1,11 @@
+{
+  "name": "openforcefields",
+  "version": "2026.1.0",
+  "summary": null,
+  "author": "The Open Force Field Initiative",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/openforcefield/openforcefields",
+  "download_filename": "openforcefields-2026.1.0.tar.gz",
+  "download_time": "2026-02-26T09:41:40.051426",
+  "package_url": "https://pypi.org/project/openforcefields/"
+}

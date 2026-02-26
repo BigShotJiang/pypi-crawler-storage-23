@@ -1,0 +1,11 @@
+{
+  "name": "openff-utilities",
+  "version": "0.1.16",
+  "summary": "A collection of miscellaneous utility functions used throughout the OpenFF stack",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openff_utilities-0.1.16.tar.gz",
+  "download_time": "2026-02-26T09:41:42.097674",
+  "package_url": "https://pypi.org/project/openff-utilities/"
+}

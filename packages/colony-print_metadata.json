@@ -1,11 +1,11 @@
 {
   "name": "colony-print",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Colony Print Infra-structure",
   "author": "Hive Solutions Lda.",
   "license": "Apache License, Version 2.0",
   "home_page": "http://colony-print.hive.pt",
-  "download_filename": "colony_print-0.6.0.tar.gz",
-  "download_time": "2026-02-25T11:11:26.678937",
+  "download_filename": "colony_print-0.7.0.tar.gz",
+  "download_time": "2026-02-26T09:41:22.576270",
   "package_url": "https://pypi.org/project/colony-print/"
 }

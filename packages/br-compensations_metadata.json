@@ -1,11 +1,11 @@
 {
   "name": "br-compensations",
-  "version": "0.0.29",
+  "version": "0.0.33",
   "summary": "Плагин Alliance Auth для управления боевыми компенсациями",
   "author": "Aleksei Misiagin",
   "license": "MIT",
   "home_page": "https://git.misyagin.com/ekzoman/br_compensations",
-  "download_filename": "br_compensations-0.0.29-py3-none-any.whl",
-  "download_time": "2026-02-26T07:18:29.287453",
+  "download_filename": "br_compensations-0.0.33-py3-none-any.whl",
+  "download_time": "2026-02-26T09:41:06.276900",
   "package_url": "https://pypi.org/project/br-compensations/"
 }

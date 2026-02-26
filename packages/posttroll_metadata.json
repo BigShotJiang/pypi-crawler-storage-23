@@ -1,0 +1,11 @@
+{
+  "name": "posttroll",
+  "version": "1.14.0",
+  "summary": "Messaging system for pytroll",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "posttroll-1.14.0.tar.gz",
+  "download_time": "2026-02-26T09:41:31.318665",
+  "package_url": "https://pypi.org/project/posttroll/"
+}

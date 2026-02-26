@@ -1,0 +1,11 @@
+{
+  "name": "pulser-pasqal",
+  "version": "0.21.0",
+  "summary": "A Pulser extension to execute pulse-level sequences on Pasqal backends.",
+  "author": "Pulser Development Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pasqal-io/pasqal-cloud",
+  "download_filename": "pulser_pasqal-0.21.0.tar.gz",
+  "download_time": "2026-02-26T09:41:07.809647",
+  "package_url": "https://pypi.org/project/pulser-pasqal/"
+}

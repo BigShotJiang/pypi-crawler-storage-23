@@ -1,11 +1,11 @@
 {
   "name": "vhwebscan",
-  "version": "1.4",
+  "version": "1.6",
   "summary": "Viethas Website Tool Scan",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vhwebscan-1.4.tar.gz",
-  "download_time": "2026-02-25T09:16:49.863872",
+  "download_filename": "vhwebscan-1.6.tar.gz",
+  "download_time": "2026-02-26T09:41:09.865238",
   "package_url": "https://pypi.org/project/vhwebscan/"
 }
