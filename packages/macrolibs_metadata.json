@@ -1,11 +1,11 @@
 {
   "name": "macrolibs",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "All of my macros in one place!",
   "author": "Casey Litmer",
   "license": "MIT",
   "home_page": "https://github.com/Casey-Litmer/Utilities",
-  "download_filename": "macrolibs-0.0.8.tar.gz",
-  "download_time": "2026-02-24T05:14:54.600454",
+  "download_filename": "macrolibs-0.0.9.tar.gz",
+  "download_time": "2026-02-26T23:02:04.146755",
   "package_url": "https://pypi.org/project/macrolibs/"
 }

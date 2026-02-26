@@ -1,0 +1,11 @@
+{
+  "name": "zxing",
+  "version": "1.0.4",
+  "summary": "Wrapper for decoding/reading barcodes with ZXing (Zebra Crossing) library",
+  "author": "Daniel Lenski",
+  "license": "LGPL v3 or later",
+  "home_page": "https://github.com/dlenski/python-zxing",
+  "download_filename": "zxing-1.0.4.tar.gz",
+  "download_time": "2026-02-26T23:01:34.141633",
+  "package_url": "https://pypi.org/project/zxing/"
+}

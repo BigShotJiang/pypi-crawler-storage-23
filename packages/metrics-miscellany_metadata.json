@@ -1,0 +1,11 @@
+{
+  "name": "metrics-miscellany",
+  "version": "0.3.3",
+  "summary": "Miscellaneous code for estimation involving pandas dataframes.",
+  "author": "Ethan Ligon",
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": null,
+  "download_filename": "metrics_miscellany-0.3.3.tar.gz",
+  "download_time": "2026-02-26T23:02:02.518876",
+  "package_url": "https://pypi.org/project/metrics-miscellany/"
+}

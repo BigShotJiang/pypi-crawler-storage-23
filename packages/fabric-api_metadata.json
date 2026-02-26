@@ -1,0 +1,11 @@
+{
+  "name": "fabric-api",
+  "version": "1.0.3",
+  "summary": "Power BI and Fabric REST API wrapper for automating operations",
+  "author": "Bernardo Rufino",
+  "license": "MIT",
+  "home_page": "https://github.com/Bernardo-Rufino/fabric-api",
+  "download_filename": "fabric_api-1.0.3.tar.gz",
+  "download_time": "2026-02-26T23:01:38.549132",
+  "package_url": "https://pypi.org/project/fabric-api/"
+}

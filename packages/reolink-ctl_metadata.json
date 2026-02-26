@@ -1,0 +1,11 @@
+{
+  "name": "reolink-ctl",
+  "version": "0.2.0",
+  "summary": "CLI for Reolink camera control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reolink_ctl-0.2.0.tar.gz",
+  "download_time": "2026-02-26T23:01:27.013595",
+  "package_url": "https://pypi.org/project/reolink-ctl/"
+}

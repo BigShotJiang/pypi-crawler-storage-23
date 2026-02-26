@@ -1,0 +1,11 @@
+{
+  "name": "robustrankaggregpy",
+  "version": "0.3.0",
+  "summary": "Implementation of the Robust Rank Aggregation R package in Python",
+  "author": "Braden Griebel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "robustrankaggregpy-0.3.0.tar.gz",
+  "download_time": "2026-02-26T23:01:30.293422",
+  "package_url": "https://pypi.org/project/robustrankaggregpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pelorus-cli",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Pelorus CLI - High Efficient Lidar Inertial Odometry",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "pelorus_cli-0.0.2-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-22T11:15:06.005509",
+  "download_filename": "pelorus_cli-0.0.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-26T23:01:53.775607",
   "package_url": "https://pypi.org/project/pelorus-cli/"
 }

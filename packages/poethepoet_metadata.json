@@ -1,11 +1,11 @@
 {
   "name": "poethepoet",
-  "version": "0.42.0",
+  "version": "0.42.1",
   "summary": "A task runner that works well with poetry and uv.",
   "author": "Nat Noordanus",
   "license": null,
   "home_page": null,
-  "download_filename": "poethepoet-0.42.0.tar.gz",
-  "download_time": "2026-02-22T16:24:51.029843",
+  "download_filename": "poethepoet-0.42.1.tar.gz",
+  "download_time": "2026-02-26T23:01:30.828952",
   "package_url": "https://pypi.org/project/poethepoet/"
 }

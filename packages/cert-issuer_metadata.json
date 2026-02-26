@@ -1,0 +1,11 @@
+{
+  "name": "cert-issuer",
+  "version": "3.13.0",
+  "summary": "Issues blockchain certificates using the Bitcoin blockchain",
+  "author": "Blockcerts",
+  "license": "MIT",
+  "home_page": "https://github.com/blockchain-certificates/cert-issuer",
+  "download_filename": "cert_issuer-3.13.0.tar.gz",
+  "download_time": "2026-02-26T23:02:10.111268",
+  "package_url": "https://pypi.org/project/cert-issuer/"
+}

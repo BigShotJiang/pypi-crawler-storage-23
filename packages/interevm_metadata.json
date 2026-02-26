@@ -1,0 +1,11 @@
+{
+  "name": "interevm",
+  "version": "0.1.0",
+  "summary": "Async EVM/Web3 library — connection pooling, request batching, ABI encoding/decoding, Multicall3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interevm-0.1.0.tar.gz",
+  "download_time": "2026-02-26T23:01:46.715896",
+  "package_url": "https://pypi.org/project/interevm/"
+}
