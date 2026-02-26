@@ -1,0 +1,11 @@
+{
+  "name": "tokenspy",
+  "version": "0.1.0",
+  "summary": "cProfile for LLMs — find which function is burning your AI budget. Flame graph output, zero-config, no proxy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokenspy-0.1.0.tar.gz",
+  "download_time": "2026-02-26T08:03:20.893147",
+  "package_url": "https://pypi.org/project/tokenspy/"
+}

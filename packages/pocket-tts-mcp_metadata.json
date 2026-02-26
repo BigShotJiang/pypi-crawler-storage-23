@@ -1,0 +1,11 @@
+{
+  "name": "pocket-tts-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for streaming text-to-speech via PocketTTS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pocket_tts_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-26T08:03:15.698380",
+  "package_url": "https://pypi.org/project/pocket-tts-mcp/"
+}

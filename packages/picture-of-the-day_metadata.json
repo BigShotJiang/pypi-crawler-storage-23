@@ -1,0 +1,11 @@
+{
+  "name": "picture-of-the-day",
+  "version": "0.3.0a2",
+  "summary": "REST API to get a picture of the day. This fetches photos from a Nextcloud Photos / Memories album. It let you specify to deliver a specific photo for a specific day, for unspecified days it chooses a random picture. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picture_of_the_day-0.3.0a2.tar.gz",
+  "download_time": "2026-02-26T08:03:30.924930",
+  "package_url": "https://pypi.org/project/picture-of-the-day/"
+}

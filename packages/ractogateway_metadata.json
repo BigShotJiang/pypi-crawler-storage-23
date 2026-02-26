@@ -1,11 +1,11 @@
 {
   "name": "ractogateway",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "A unified, production-ready AI SDK that enforces structured outputs and anti-hallucination prompting via the RACTO principle. One package for OpenAI, Gemini, and Anthropic — with streaming, tool calling, embeddings, and strict Pydantic validation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ractogateway-0.1.3.tar.gz",
-  "download_time": "2026-02-22T07:49:25.443353",
+  "download_filename": "ractogateway-0.2.0.tar.gz",
+  "download_time": "2026-02-26T08:03:23.813375",
   "package_url": "https://pypi.org/project/ractogateway/"
 }

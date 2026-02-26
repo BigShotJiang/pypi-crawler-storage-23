@@ -1,0 +1,11 @@
+{
+  "name": "fixos",
+  "version": "2.1.16",
+  "summary": "AI-powered Linux/Windows diagnostics and repair – audio, hardware, system issues",
+  "author": "fixos contributors",
+  "license": null,
+  "home_page": "https://github.com/wronai/fixos",
+  "download_filename": "fixos-2.1.16.tar.gz",
+  "download_time": "2026-02-26T08:03:29.899361",
+  "package_url": "https://pypi.org/project/fixos/"
+}

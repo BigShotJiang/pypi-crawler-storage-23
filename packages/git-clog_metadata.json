@@ -1,0 +1,11 @@
+{
+  "name": "git-clog",
+  "version": "0.3.1",
+  "summary": "git-clog outputs the commit graph of the current Git repository and colorizes commit symbols by interpreting the first six commit hash digits as an RGB color value.",
+  "author": "Ingo Meyer",
+  "license": "MIT",
+  "home_page": "https://github.com/IngoMeyer441/git-clog",
+  "download_filename": "git_clog-0.3.1.tar.gz",
+  "download_time": "2026-02-26T08:03:38.181446",
+  "package_url": "https://pypi.org/project/git-clog/"
+}

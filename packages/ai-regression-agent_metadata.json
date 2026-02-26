@@ -1,0 +1,11 @@
+{
+  "name": "ai-regression-agent",
+  "version": "0.2.1",
+  "summary": "Common ai agent utilities and services for IDC Family Safety automation (agents, services, integrations, utils).",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "ai_regression_agent-0.2.1.tar.gz",
+  "download_time": "2026-02-26T08:03:12.557043",
+  "package_url": "https://pypi.org/project/ai-regression-agent/"
+}

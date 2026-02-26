@@ -1,11 +1,11 @@
 {
   "name": "asrai-mcp",
-  "version": "0.1.4",
+  "version": "0.3.1",
   "summary": "Asrai crypto analysis MCP server — pay-per-use via x402 on Base",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asrai_mcp-0.1.4.tar.gz",
-  "download_time": "2026-02-25T15:46:28.204640",
+  "download_filename": "asrai_mcp-0.3.1.tar.gz",
+  "download_time": "2026-02-26T08:03:06.616595",
   "package_url": "https://pypi.org/project/asrai-mcp/"
 }

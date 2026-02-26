@@ -1,0 +1,11 @@
+{
+  "name": "trello-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Trello – manage boards, lists, cards, labels, checklists and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trello_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-26T08:03:40.779926",
+  "package_url": "https://pypi.org/project/trello-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-recall",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Persistent memory and AI briefings for coding agents — drop-in MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_recall-0.2.2.tar.gz",
-  "download_time": "2026-02-22T01:25:37.371892",
+  "download_filename": "agent_recall-0.2.4.tar.gz",
+  "download_time": "2026-02-26T08:03:35.513490",
   "package_url": "https://pypi.org/project/agent-recall/"
 }

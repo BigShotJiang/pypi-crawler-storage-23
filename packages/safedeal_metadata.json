@@ -1,11 +1,11 @@
 {
   "name": "safedeal",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "SafeDeal v0.1 protocol SDK with pluggable escrow and arbitration adapters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safedeal-0.1.2.tar.gz",
-  "download_time": "2026-02-25T21:29:19.358005",
+  "download_filename": "safedeal-0.1.4.tar.gz",
+  "download_time": "2026-02-26T08:03:04.545726",
   "package_url": "https://pypi.org/project/safedeal/"
 }

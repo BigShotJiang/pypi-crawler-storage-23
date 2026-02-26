@@ -1,0 +1,11 @@
+{
+  "name": "gwtails",
+  "version": "0.1.0",
+  "summary": "Post-merger late-time tail analysis for eccentric binary black hole mergers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwtails-0.1.0.tar.gz",
+  "download_time": "2026-02-26T08:03:30.414738",
+  "package_url": "https://pypi.org/project/gwtails/"
+}

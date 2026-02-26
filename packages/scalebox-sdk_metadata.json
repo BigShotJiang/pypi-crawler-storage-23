@@ -1,0 +1,11 @@
+{
+  "name": "scalebox-sdk",
+  "version": "1.0.5",
+  "summary": "ScaleBox Python SDK - A multi-language code execution sandbox with Python, R, Node.js, Deno/TypeScript, Java, and Bash support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scalebox_sdk-1.0.5.tar.gz",
+  "download_time": "2026-02-26T08:03:21.405947",
+  "package_url": "https://pypi.org/project/scalebox-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "endnote-mcp",
+  "version": "1.4.2",
+  "summary": "Connect your EndNote reference library to Claude AI — search, cite, and read PDFs directly in conversations",
+  "author": "Gokhan Gokmen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "endnote_mcp-1.4.2.tar.gz",
+  "download_time": "2026-02-26T08:03:37.162557",
+  "package_url": "https://pypi.org/project/endnote-mcp/"
+}
