@@ -1,11 +1,11 @@
 {
   "name": "neuracore-types",
-  "version": "6.6.0",
+  "version": "6.6.1",
   "summary": "Shared type definitions for Neuracore.",
   "author": "Neuracore",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuracore_types-6.6.0.tar.gz",
-  "download_time": "2026-02-18T11:53:07.607331",
+  "download_filename": "neuracore_types-6.6.1.tar.gz",
+  "download_time": "2026-02-26T11:15:38.517278",
   "package_url": "https://pypi.org/project/neuracore-types/"
 }

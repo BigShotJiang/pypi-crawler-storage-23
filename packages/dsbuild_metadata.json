@@ -1,0 +1,11 @@
+{
+  "name": "dsbuild",
+  "version": "1.1.1",
+  "summary": "Build infrastructure for python libraries.",
+  "author": "DS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsbuild-1.1.1-py3-none-any.whl",
+  "download_time": "2026-02-26T11:16:03.285803",
+  "package_url": "https://pypi.org/project/dsbuild/"
+}

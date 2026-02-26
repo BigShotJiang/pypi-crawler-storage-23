@@ -1,0 +1,11 @@
+{
+  "name": "sam3d",
+  "version": "0.1.1",
+  "summary": "Unified Python interface for Meta SAM 3D Body and SAM 3D Objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sam3d-0.1.1.tar.gz",
+  "download_time": "2026-02-26T11:15:39.543637",
+  "package_url": "https://pypi.org/project/sam3d/"
+}

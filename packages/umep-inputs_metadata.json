@@ -1,11 +1,11 @@
 {
   "name": "umep-inputs",
-  "version": "0.0.15",
+  "version": "0.0.24",
   "summary": "This package can automatically generate the necessary input files for running SOLWEIG & URock outside of QGIS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "umep_inputs-0.0.15.tar.gz",
-  "download_time": "2026-02-26T09:41:16.385525",
+  "download_filename": "umep_inputs-0.0.24.tar.gz",
+  "download_time": "2026-02-26T11:15:58.142382",
   "package_url": "https://pypi.org/project/umep-inputs/"
 }

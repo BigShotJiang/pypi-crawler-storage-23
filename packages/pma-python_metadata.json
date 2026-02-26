@@ -1,0 +1,11 @@
+{
+  "name": "pma-python",
+  "version": "2.0.0.181",
+  "summary": "Universal viewing of digital microscopy, whole slide imaging and digital pathology data",
+  "author": "Pathomation",
+  "license": "https://www.pathomation.com/contact/",
+  "home_page": "https://github.com/pathomation/pma_python",
+  "download_filename": "pma_python-2.0.0.181.tar.gz",
+  "download_time": "2026-02-26T11:15:33.884927",
+  "package_url": "https://pypi.org/project/pma-python/"
+}

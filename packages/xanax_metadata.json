@@ -1,0 +1,11 @@
+{
+  "name": "xanax",
+  "version": "0.1.1",
+  "summary": "A clean, type-safe Python client for the Wallhaven.cc API v1",
+  "author": "xanax",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "xanax-0.1.1.tar.gz",
+  "download_time": "2026-02-26T11:15:38.005642",
+  "package_url": "https://pypi.org/project/xanax/"
+}

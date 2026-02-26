@@ -1,11 +1,11 @@
 {
   "name": "defistream",
-  "version": "1.8.0",
+  "version": "1.10.0",
   "summary": "Python client for the DeFiStream API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "defistream-1.8.0.tar.gz",
-  "download_time": "2026-02-22T06:05:58.148716",
+  "download_filename": "defistream-1.10.0.tar.gz",
+  "download_time": "2026-02-26T11:15:55.557906",
   "package_url": "https://pypi.org/project/defistream/"
 }

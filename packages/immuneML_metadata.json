@@ -1,0 +1,11 @@
+{
+  "name": "immuneML",
+  "version": "3.0.19",
+  "summary": "immuneML is a software platform for machine learning analysis of immune receptor repertoires.",
+  "author": null,
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "immuneml-3.0.19.tar.gz",
+  "download_time": "2026-02-26T11:15:41.599064",
+  "package_url": "https://pypi.org/project/immuneML/"
+}
