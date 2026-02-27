@@ -1,0 +1,11 @@
+{
+  "name": "maintsight-pip",
+  "version": "0.5.0",
+  "summary": "AI-powered maintenance risk predictor for git repositories with interactive HTML reports and database integration",
+  "author": "TechDebtGPT Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/techdebtgpt/maintsight-pip",
+  "download_filename": "maintsight_pip-0.5.0.tar.gz",
+  "download_time": "2026-02-27T17:07:35.862744",
+  "package_url": "https://pypi.org/project/maintsight-pip/"
+}

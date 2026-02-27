@@ -1,0 +1,11 @@
+{
+  "name": "agent-council",
+  "version": "0.2.0",
+  "summary": "Config-driven multi-agent debate council — add a reliability layer to any LLM pipeline",
+  "author": "Supreeth Ravi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_council-0.2.0.tar.gz",
+  "download_time": "2026-02-27T17:07:29.135903",
+  "package_url": "https://pypi.org/project/agent-council/"
+}

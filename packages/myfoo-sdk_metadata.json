@@ -1,11 +1,11 @@
 {
   "name": "myfoo-sdk",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A minimal SDK for foo",
   "author": "Silviano Diaz",
   "license": null,
   "home_page": null,
-  "download_filename": "myfoo_sdk-1.0.1.tar.gz",
-  "download_time": "2026-02-18T20:56:36.142351",
+  "download_filename": "myfoo_sdk-1.1.0.tar.gz",
+  "download_time": "2026-02-27T17:07:49.779476",
   "package_url": "https://pypi.org/project/myfoo-sdk/"
 }

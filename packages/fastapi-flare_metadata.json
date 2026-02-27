@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-flare",
+  "version": "0.2.0",
+  "summary": "Lightweight self-hosted debugger and metrics dashboard for FastAPI.",
+  "author": "Gabriel",
+  "license": "MIT",
+  "home_page": "https://github.com/londarks/fastapi-flare",
+  "download_filename": "fastapi_flare-0.2.0.tar.gz",
+  "download_time": "2026-02-27T17:07:51.356639",
+  "package_url": "https://pypi.org/project/fastapi-flare/"
+}

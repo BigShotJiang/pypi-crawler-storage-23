@@ -1,0 +1,11 @@
+{
+  "name": "quantlib-pro",
+  "version": "1.0.0",
+  "summary": "Enterprise Quantitative Finance SDK - Portfolio optimization, risk analysis, options pricing, and market data",
+  "author": "QuantLib Pro Team",
+  "license": "MIT",
+  "home_page": "https://github.com/quantlib-pro/quantlib-pro",
+  "download_filename": "quantlib_pro-1.0.0.tar.gz",
+  "download_time": "2026-02-27T17:08:05.382647",
+  "package_url": "https://pypi.org/project/quantlib-pro/"
+}

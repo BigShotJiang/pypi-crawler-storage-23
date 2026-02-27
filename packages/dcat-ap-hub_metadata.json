@@ -1,0 +1,11 @@
+{
+  "name": "dcat-ap-hub",
+  "version": "0.1.2",
+  "summary": "A library for loading datasets and models whose metadata is provided in the DCAT-AP format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcat_ap_hub-0.1.2.tar.gz",
+  "download_time": "2026-02-27T17:07:32.781584",
+  "package_url": "https://pypi.org/project/dcat-ap-hub/"
+}

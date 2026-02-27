@@ -1,0 +1,11 @@
+{
+  "name": "quantify",
+  "version": "26.9.0",
+  "summary": "A framework for controlling quantum computing and solid-state physics experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantify-26.9.0-py3-none-any.whl",
+  "download_time": "2026-02-27T17:07:28.108648",
+  "package_url": "https://pypi.org/project/quantify/"
+}

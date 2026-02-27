@@ -1,11 +1,11 @@
 {
   "name": "epam-indigo",
-  "version": "1.38.0",
+  "version": "1.40.0",
   "summary": "Indigo universal cheminformatics toolkit",
   "author": "EPAM Systems Life Science Department",
   "license": "Apache-2.0",
   "home_page": "https://lifescience.opensource.epam.com/indigo/index.html",
-  "download_filename": "epam_indigo-1.38.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-20T13:23:46.040149",
+  "download_filename": "epam_indigo-1.40.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-27T17:08:05.950645",
   "package_url": "https://pypi.org/project/epam-indigo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dokugen",
+  "version": "3.12.4",
+  "summary": "Automatically generate high-quality README for your application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dokugen-3.12.4.tar.gz",
+  "download_time": "2026-02-27T17:07:43.587200",
+  "package_url": "https://pypi.org/project/dokugen/"
+}

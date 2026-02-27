@@ -1,0 +1,11 @@
+{
+  "name": "gurk-template-plugin",
+  "version": "1.0.0",
+  "summary": "A template gurk plugin demonstrating the desired structure structure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gurk_template_plugin-1.0.0.tar.gz",
+  "download_time": "2026-02-27T17:07:17.671841",
+  "package_url": "https://pypi.org/project/gurk-template-plugin/"
+}

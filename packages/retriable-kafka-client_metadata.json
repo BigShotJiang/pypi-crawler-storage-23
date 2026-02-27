@@ -1,0 +1,11 @@
+{
+  "name": "retriable-kafka-client",
+  "version": "0.3.0",
+  "summary": "Kafka client library based on confluent-kafka with retry functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retriable_kafka_client-0.3.0.tar.gz",
+  "download_time": "2026-02-27T17:07:26.572809",
+  "package_url": "https://pypi.org/project/retriable-kafka-client/"
+}

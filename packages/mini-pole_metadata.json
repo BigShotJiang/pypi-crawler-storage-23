@@ -1,0 +1,11 @@
+{
+  "name": "mini-pole",
+  "version": "0.7",
+  "summary": "This Python code implements the Minimal Pole Method (MPM) for both Matsubara and real-frequency data.",
+  "author": "Lei Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/Green-Phys/MiniPole",
+  "download_filename": "mini_pole-0.7.tar.gz",
+  "download_time": "2026-02-27T17:08:01.202123",
+  "package_url": "https://pypi.org/project/mini-pole/"
+}
