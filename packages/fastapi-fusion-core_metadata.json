@@ -1,11 +1,11 @@
 {
   "name": "fastapi-fusion-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A premium, production-ready FastAPI boilerplate with built-in multi-database support and GraphQL.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_fusion_core-0.1.1.tar.gz",
-  "download_time": "2026-02-22T09:53:21.958829",
+  "download_filename": "fastapi_fusion_core-0.1.2.tar.gz",
+  "download_time": "2026-02-27T07:14:53.551151",
   "package_url": "https://pypi.org/project/fastapi-fusion-core/"
 }

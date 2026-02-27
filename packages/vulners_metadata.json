@@ -1,0 +1,11 @@
+{
+  "name": "vulners",
+  "version": "3.1.7",
+  "summary": "Python library and command-line utility for Vulners (https://vulners.com)",
+  "author": "Vulners Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vulners-3.1.7.tar.gz",
+  "download_time": "2026-02-27T07:14:18.025978",
+  "package_url": "https://pypi.org/project/vulners/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "surety-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Contract-aware API interaction layer for the Surety ecosystem.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "surety_api-0.0.2.tar.gz",
-  "download_time": "2026-02-24T22:27:02.180498",
+  "download_filename": "surety_api-0.0.3.tar.gz",
+  "download_time": "2026-02-27T07:14:40.590980",
   "package_url": "https://pypi.org/project/surety-api/"
 }

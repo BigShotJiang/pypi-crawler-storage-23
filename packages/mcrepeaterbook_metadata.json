@@ -1,0 +1,11 @@
+{
+  "name": "mcrepeaterbook",
+  "version": "2026.2.26",
+  "summary": "MCP server for querying amateur radio repeaters from RepeaterBook.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcrepeaterbook-2026.2.26.tar.gz",
+  "download_time": "2026-02-27T07:14:33.795722",
+  "package_url": "https://pypi.org/project/mcrepeaterbook/"
+}

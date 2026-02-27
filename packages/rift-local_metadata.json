@@ -1,0 +1,11 @@
+{
+  "name": "rift-local",
+  "version": "0.0.3",
+  "summary": "Local inference server for RIFT Transcription — streaming and batch speech recognition, LLM transforms, and CLI transcription backed by local models.",
+  "author": "Leftium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rift_local-0.0.3.tar.gz",
+  "download_time": "2026-02-27T07:15:01.890602",
+  "package_url": "https://pypi.org/project/rift-local/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bankai-md",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "BANKAI: Bond-vector ANalysis of Kinetic Amino acid Initiator - GPU-accelerated sub-picosecond causal cascade detection in GROMACS trajectories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bankai_md-1.1.2.tar.gz",
-  "download_time": "2026-02-26T23:02:09.034460",
+  "download_filename": "bankai_md-1.1.4.tar.gz",
+  "download_time": "2026-02-27T07:14:56.145127",
   "package_url": "https://pypi.org/project/bankai-md/"
 }

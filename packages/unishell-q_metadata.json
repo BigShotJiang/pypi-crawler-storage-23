@@ -1,11 +1,11 @@
 {
   "name": "unishell-q",
-  "version": "0.4.4",
+  "version": "0.4.9",
   "summary": "Let language models run code with intelligent action system",
   "author": null,
   "license": null,
   "home_page": "https://github.com/QuantamAIDevelopment/unishell.git",
-  "download_filename": "unishell_q-0.4.4.tar.gz",
-  "download_time": "2026-02-25T12:41:11.653109",
+  "download_filename": "unishell_q-0.4.9.tar.gz",
+  "download_time": "2026-02-27T07:14:15.225882",
   "package_url": "https://pypi.org/project/unishell-q/"
 }

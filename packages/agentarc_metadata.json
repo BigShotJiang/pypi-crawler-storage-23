@@ -1,0 +1,11 @@
+{
+  "name": "agentarc",
+  "version": "0.3.0",
+  "summary": "Advanced policy enforcement layer for AI agents with 3-stage validation, transaction simulation, and security controls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentarc-0.3.0.tar.gz",
+  "download_time": "2026-02-27T07:14:29.033619",
+  "package_url": "https://pypi.org/project/agentarc/"
+}

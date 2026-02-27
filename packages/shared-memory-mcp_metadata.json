@@ -1,11 +1,11 @@
 {
   "name": "shared-memory-mcp",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Cross-IDE shared memory MCP Server for AI Agents. Supports Kiro, Cursor, Windsurf, Trae and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shared_memory_mcp-0.2.0.tar.gz",
-  "download_time": "2026-02-26T16:40:34.003217",
+  "download_filename": "shared_memory_mcp-0.4.0.tar.gz",
+  "download_time": "2026-02-27T07:14:20.105555",
   "package_url": "https://pypi.org/project/shared-memory-mcp/"
 }

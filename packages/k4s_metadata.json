@@ -1,11 +1,11 @@
 {
   "name": "k4s",
-  "version": "0.0.1b1",
+  "version": "0.0.1b2",
   "summary": "A CLI tool for managing installations and Kubernetes operations",
   "author": "Ali Aktaş",
   "license": "Proprietary",
   "home_page": "https://github.com/aliakts/k4s",
-  "download_filename": "k4s-0.0.1b1.tar.gz",
-  "download_time": "2026-02-26T20:56:58.353696",
+  "download_filename": "k4s-0.0.1b2.tar.gz",
+  "download_time": "2026-02-27T07:14:28.514757",
   "package_url": "https://pypi.org/project/k4s/"
 }

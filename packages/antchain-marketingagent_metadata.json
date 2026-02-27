@@ -1,0 +1,11 @@
+{
+  "name": "antchain-marketingagent",
+  "version": "1.0.7",
+  "summary": "Ant Chain MARKETINGAGENT SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_marketingagent-1.0.7.tar.gz",
+  "download_time": "2026-02-27T07:14:55.105594",
+  "package_url": "https://pypi.org/project/antchain-marketingagent/"
+}

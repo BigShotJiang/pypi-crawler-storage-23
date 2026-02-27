@@ -1,11 +1,11 @@
 {
   "name": "langchain-mengram",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "LangChain integration for Mengram — AI memory with semantic, episodic, and procedural memory types.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_mengram-0.1.0.tar.gz",
-  "download_time": "2026-02-26T20:06:45.502985",
+  "download_filename": "langchain_mengram-0.2.0.tar.gz",
+  "download_time": "2026-02-27T07:14:24.356740",
   "package_url": "https://pypi.org/project/langchain-mengram/"
 }

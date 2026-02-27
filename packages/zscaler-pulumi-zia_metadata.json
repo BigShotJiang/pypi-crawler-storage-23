@@ -1,11 +1,11 @@
 {
   "name": "zscaler-pulumi-zia",
-  "version": "1.2.0",
-  "summary": "A Pulumi package for creating and managing zia cloud resources.",
+  "version": "1.3.2",
+  "summary": "A native Pulumi provider for Zscaler Internet Access (ZIA).",
   "author": null,
-  "license": "MIT",
-  "home_page": "https://www.zscaler.com",
-  "download_filename": "zscaler_pulumi_zia-1.2.0.tar.gz",
-  "download_time": "2026-02-20T05:09:01.130160",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zscaler_pulumi_zia-1.3.2.tar.gz",
+  "download_time": "2026-02-27T07:14:20.626310",
   "package_url": "https://pypi.org/project/zscaler-pulumi-zia/"
 }

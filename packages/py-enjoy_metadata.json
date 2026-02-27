@@ -1,0 +1,11 @@
+{
+  "name": "py-enjoy",
+  "version": "5.2.2",
+  "summary": "Python implementation of JFinal Template Engine",
+  "author": "James Zhan 詹波 (original), Python port by mrzhou@miw.cn",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/py_enjoy",
+  "download_filename": "py_enjoy-5.2.2.tar.gz",
+  "download_time": "2026-02-27T07:14:32.759458",
+  "package_url": "https://pypi.org/project/py-enjoy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vantinel-sdk",
+  "version": "0.4.0b0",
+  "summary": "Lightweight observability and guardrails SDK for AI agents",
+  "author": "Vantinel Team",
+  "license": "MIT",
+  "home_page": "https://github.com/vantinel/vantinel-sdk",
+  "download_filename": "vantinel_sdk-0.4.0b0.tar.gz",
+  "download_time": "2026-02-27T07:14:39.555093",
+  "package_url": "https://pypi.org/project/vantinel-sdk/"
+}
