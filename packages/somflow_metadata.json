@@ -1,11 +1,11 @@
 {
   "name": "somflow",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "SoM (Set-of-Mark) detection pipeline for macOS — Apple Vision + Florence-2 on MLX",
   "author": "Swaylen Hayes",
   "license": null,
   "home_page": null,
-  "download_filename": "somflow-0.2.0.tar.gz",
-  "download_time": "2026-02-27T17:07:20.360279",
+  "download_filename": "somflow-0.2.2.tar.gz",
+  "download_time": "2026-02-27T21:53:06.130523",
   "package_url": "https://pypi.org/project/somflow/"
 }

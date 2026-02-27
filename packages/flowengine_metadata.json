@@ -1,0 +1,11 @@
+{
+  "name": "flowengine",
+  "version": "0.4.0",
+  "summary": "Lightweight YAML-driven workflow engine for Python",
+  "author": "FlowEngine Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowengine-0.4.0.tar.gz",
+  "download_time": "2026-02-27T21:52:27.427991",
+  "package_url": "https://pypi.org/project/flowengine/"
+}

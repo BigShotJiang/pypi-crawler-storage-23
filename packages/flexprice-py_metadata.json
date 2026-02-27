@@ -1,11 +1,11 @@
 {
   "name": "flexprice-py",
-  "version": "0.0.56",
+  "version": "2.0.2",
   "summary": "Python Client SDK for the FlexPrice API.",
   "author": "Flexprice",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flexprice_py-0.0.56.tar.gz",
-  "download_time": "2026-02-27T11:54:08.376251",
+  "download_filename": "flexprice_py-2.0.2.tar.gz",
+  "download_time": "2026-02-27T21:52:47.876319",
   "package_url": "https://pypi.org/project/flexprice-py/"
 }

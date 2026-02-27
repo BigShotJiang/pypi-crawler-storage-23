@@ -1,11 +1,11 @@
 {
   "name": "mama",
-  "version": "0.9.23",
+  "version": "0.10.1",
   "summary": "A modular C++ build tool even your mama can use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mama-0.9.23.tar.gz",
-  "download_time": "2026-02-19T13:55:11.074328",
+  "download_filename": "mama-0.10.1.tar.gz",
+  "download_time": "2026-02-27T21:52:57.960166",
   "package_url": "https://pypi.org/project/mama/"
 }

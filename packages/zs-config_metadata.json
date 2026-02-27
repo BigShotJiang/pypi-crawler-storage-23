@@ -1,11 +1,11 @@
 {
   "name": "zs-config",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Interactive TUI for Zscaler OneAPI automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zs_config-0.7.0.tar.gz",
-  "download_time": "2026-02-27T16:32:51.879385",
+  "download_filename": "zs_config-0.8.0.tar.gz",
+  "download_time": "2026-02-27T21:52:52.465715",
   "package_url": "https://pypi.org/project/zs-config/"
 }

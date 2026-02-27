@@ -1,0 +1,11 @@
+{
+  "name": "proximity",
+  "version": "3.0.0",
+  "summary": "Mesh proximity queries based on libspatialindex and rtree, extracted from Trimesh",
+  "author": "Paul Melnikow",
+  "license": "MIT",
+  "home_page": "https://proximity.readthedocs.io/en/stable/",
+  "download_filename": "proximity-3.0.0.tar.gz",
+  "download_time": "2026-02-27T21:53:15.387886",
+  "package_url": "https://pypi.org/project/proximity/"
+}

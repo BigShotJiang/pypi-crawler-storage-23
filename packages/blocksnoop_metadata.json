@@ -1,11 +1,11 @@
 {
   "name": "blocksnoop",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Detect blocking calls in asyncio event loops using eBPF + Austin",
   "author": "Paul Milesi",
   "license": null,
   "home_page": null,
-  "download_filename": "blocksnoop-0.5.0.tar.gz",
-  "download_time": "2026-02-27T20:54:20.398341",
+  "download_filename": "blocksnoop-0.5.1.tar.gz",
+  "download_time": "2026-02-27T21:52:31.577687",
   "package_url": "https://pypi.org/project/blocksnoop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rabdomancia",
+  "version": "26.2.0rc4",
+  "summary": "Discover with your senses what your devices are up to! A pretty and fun way to visualise DNS requests in your network",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "rabdomancia-26.2.0rc4.tar.gz",
+  "download_time": "2026-02-27T21:53:21.786034",
+  "package_url": "https://pypi.org/project/rabdomancia/"
+}

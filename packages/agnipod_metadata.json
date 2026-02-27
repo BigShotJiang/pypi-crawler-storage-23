@@ -1,11 +1,11 @@
 {
   "name": "agnipod",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Official Python SDK for the AgniPod LLM API",
   "author": "AgniPod",
   "license": null,
   "home_page": "https://agnipod.com",
-  "download_filename": "agnipod-0.1.1.tar.gz",
-  "download_time": "2026-02-27T20:54:18.347400",
+  "download_filename": "agnipod-0.1.4.tar.gz",
+  "download_time": "2026-02-27T21:52:54.333344",
   "package_url": "https://pypi.org/project/agnipod/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "yc-bench",
+  "version": "0.1.0",
+  "summary": "Long-horizon deterministic benchmark for LLM agents — CEO of an AI startup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yc_bench-0.1.0.tar.gz",
+  "download_time": "2026-02-27T21:52:43.305926",
+  "package_url": "https://pypi.org/project/yc-bench/"
+}

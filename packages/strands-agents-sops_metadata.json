@@ -1,11 +1,11 @@
 {
   "name": "strands-agents-sops",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "summary": "Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "strands_agents_sops-1.0.8.tar.gz",
-  "download_time": "2026-02-27T19:12:48.782527",
+  "download_filename": "strands_agents_sops-1.1.0.tar.gz",
+  "download_time": "2026-02-27T21:53:25.157914",
   "package_url": "https://pypi.org/project/strands-agents-sops/"
 }
