@@ -1,0 +1,11 @@
+{
+  "name": "resubmit",
+  "version": "0.0.14",
+  "summary": "Small wrapper around submitit to simplify cluster submissions",
+  "author": "Amir Mehrpanah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resubmit-0.0.14.tar.gz",
+  "download_time": "2026-02-27T13:47:32.852801",
+  "package_url": "https://pypi.org/project/resubmit/"
+}

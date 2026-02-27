@@ -1,0 +1,11 @@
+{
+  "name": "servicenow-devtools-mcp",
+  "version": "0.3.0",
+  "summary": "A developer & debug-focused MCP server for ServiceNow — 32 tools for platform introspection, change intelligence, debugging, investigations, and documentation generation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "servicenow_devtools_mcp-0.3.0.tar.gz",
+  "download_time": "2026-02-27T13:47:35.380473",
+  "package_url": "https://pypi.org/project/servicenow-devtools-mcp/"
+}

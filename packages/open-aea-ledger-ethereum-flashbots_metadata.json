@@ -1,0 +1,11 @@
+{
+  "name": "open-aea-ledger-ethereum-flashbots",
+  "version": "2.0.8",
+  "summary": "Python package extending the default open-aea ethereum ledger plugin to add support for flashbots.",
+  "author": "Valory AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_aea_ledger_ethereum_flashbots-2.0.8.tar.gz",
+  "download_time": "2026-02-27T13:48:06.018679",
+  "package_url": "https://pypi.org/project/open-aea-ledger-ethereum-flashbots/"
+}

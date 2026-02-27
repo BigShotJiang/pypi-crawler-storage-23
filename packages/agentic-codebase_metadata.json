@@ -1,11 +1,11 @@
 {
   "name": "agentic-codebase",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Semantic code compiler for AI agents",
   "author": "Agentra Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_codebase-0.2.0.tar.gz",
-  "download_time": "2026-02-25T20:56:49.962792",
+  "download_filename": "agentic_codebase-0.3.0.tar.gz",
+  "download_time": "2026-02-27T13:47:45.610091",
   "package_url": "https://pypi.org/project/agentic-codebase/"
 }

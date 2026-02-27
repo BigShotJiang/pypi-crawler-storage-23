@@ -1,11 +1,11 @@
 {
   "name": "fastadmin",
-  "version": "0.3.7",
+  "version": "0.3.10",
   "summary": "FastAdmin is an easy-to-use Admin Dashboard App for FastAPI/Flask/Django inspired by Django Admin.",
   "author": "Seva D",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastadmin-0.3.7.tar.gz",
-  "download_time": "2026-02-27T08:33:19.964446",
+  "download_filename": "fastadmin-0.3.10.tar.gz",
+  "download_time": "2026-02-27T13:47:54.204805",
   "package_url": "https://pypi.org/project/fastadmin/"
 }

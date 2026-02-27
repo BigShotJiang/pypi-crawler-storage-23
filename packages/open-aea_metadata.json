@@ -1,0 +1,11 @@
+{
+  "name": "open-aea",
+  "version": "2.0.8",
+  "summary": "Open Autonomous Economic Agent framework (without vendor lock-in)",
+  "author": "Valory AG",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/valory-xyz/open-aea.git",
+  "download_filename": "open_aea-2.0.8-py3-none-any.whl",
+  "download_time": "2026-02-27T13:48:10.921899",
+  "package_url": "https://pypi.org/project/open-aea/"
+}

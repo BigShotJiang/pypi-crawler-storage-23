@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-interfaces-tls-certificates",
+  "version": "1.8.1",
+  "summary": "The charmlibs.interfaces.tls_certificates package.",
+  "author": "The TLS team at Canonical",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_interfaces_tls_certificates-1.8.1.tar.gz",
+  "download_time": "2026-02-27T13:47:30.036661",
+  "package_url": "https://pypi.org/project/charmlibs-interfaces-tls-certificates/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wks",
+  "version": "0.5.1",
+  "summary": "Simple dependencies manager for cmake projects in your workspace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wks-0.5.1.tar.gz",
+  "download_time": "2026-02-27T13:48:21.087227",
+  "package_url": "https://pypi.org/project/wks/"
+}

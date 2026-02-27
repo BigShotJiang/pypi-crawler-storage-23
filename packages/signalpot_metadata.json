@@ -1,0 +1,11 @@
+{
+  "name": "signalpot",
+  "version": "0.1.0",
+  "summary": "Python SDK for the SignalPot AI Agent Marketplace",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signalpot-0.1.0.tar.gz",
+  "download_time": "2026-02-27T13:48:17.311146",
+  "package_url": "https://pypi.org/project/signalpot/"
+}

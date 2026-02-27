@@ -1,11 +1,11 @@
 {
   "name": "hex-robo-utils",
-  "version": "0.2.15",
+  "version": "0.3.1",
   "summary": "HEXFELLOW Robotics Utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_robo_utils-0.2.15.tar.gz",
-  "download_time": "2026-02-22T15:59:25.166440",
+  "download_filename": "hex_robo_utils-0.3.1.tar.gz",
+  "download_time": "2026-02-27T13:48:20.019682",
   "package_url": "https://pypi.org/project/hex-robo-utils/"
 }

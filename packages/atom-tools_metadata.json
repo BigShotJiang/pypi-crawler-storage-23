@@ -1,0 +1,11 @@
+{
+  "name": "atom-tools",
+  "version": "0.8.4",
+  "summary": "Collection of tools for use with AppThreat/atom.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atom_tools-0.8.4.tar.gz",
+  "download_time": "2026-02-27T13:47:49.917144",
+  "package_url": "https://pypi.org/project/atom-tools/"
+}

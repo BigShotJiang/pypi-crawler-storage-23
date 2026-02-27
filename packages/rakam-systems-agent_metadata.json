@@ -1,0 +1,11 @@
+{
+  "name": "rakam-systems-agent",
+  "version": "0.1.2",
+  "summary": "AI Agents framework with Pydantic AI support and LLM Gateway integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rakam_systems_agent-0.1.2.tar.gz",
+  "download_time": "2026-02-27T13:48:00.639162",
+  "package_url": "https://pypi.org/project/rakam-systems-agent/"
+}

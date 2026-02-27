@@ -1,0 +1,11 @@
+{
+  "name": "perfuse",
+  "version": "0.1.1",
+  "summary": "Perfusion of tissue/cell culture systems with XCaliburD syringes.",
+  "author": "Camiel Mannens, David Fernández-García",
+  "license": null,
+  "home_page": null,
+  "download_filename": "perfuse-0.1.1.tar.gz",
+  "download_time": "2026-02-27T13:47:59.001188",
+  "package_url": "https://pypi.org/project/perfuse/"
+}

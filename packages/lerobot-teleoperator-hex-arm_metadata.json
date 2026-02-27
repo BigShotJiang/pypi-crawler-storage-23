@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-teleoperator-hex-arm",
+  "version": "0.1.2",
+  "summary": "HEXFELLOW LeRobot Drivers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lerobot_teleoperator_hex_arm-0.1.2.tar.gz",
+  "download_time": "2026-02-27T13:47:37.514578",
+  "package_url": "https://pypi.org/project/lerobot-teleoperator-hex-arm/"
+}

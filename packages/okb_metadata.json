@@ -1,0 +1,11 @@
+{
+  "name": "okb",
+  "version": "2.2.1",
+  "summary": "Personal knowledge base with semantic search for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/username/okb",
+  "download_filename": "okb-2.2.1.tar.gz",
+  "download_time": "2026-02-27T13:47:42.377087",
+  "package_url": "https://pypi.org/project/okb/"
+}
