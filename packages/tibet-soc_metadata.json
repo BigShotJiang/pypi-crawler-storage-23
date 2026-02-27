@@ -1,0 +1,11 @@
+{
+  "name": "tibet-soc",
+  "version": "0.1.0",
+  "summary": "Security Operations Center — unified threat detection, incident correlation, and response with TIBET audit trail",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_soc-0.1.0.tar.gz",
+  "download_time": "2026-02-27T10:38:33.872998",
+  "package_url": "https://pypi.org/project/tibet-soc/"
+}

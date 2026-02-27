@@ -1,0 +1,11 @@
+{
+  "name": "juniper-data-client",
+  "version": "0.3.1",
+  "summary": "HTTP client for the JuniperData dataset generation service",
+  "author": "Paul Calnon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "juniper_data_client-0.3.1.tar.gz",
+  "download_time": "2026-02-27T10:38:06.161753",
+  "package_url": "https://pypi.org/project/juniper-data-client/"
+}

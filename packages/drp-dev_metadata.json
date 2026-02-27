@@ -1,11 +1,11 @@
 {
   "name": "drp-dev",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "Drop text and files from the command line — get a link instantly.",
   "author": "Vic Nas",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drp_dev-1.0.7.tar.gz",
-  "download_time": "2026-02-27T03:41:08.932991",
+  "download_filename": "drp_dev-1.0.9.tar.gz",
+  "download_time": "2026-02-27T10:37:56.728358",
   "package_url": "https://pypi.org/project/drp-dev/"
 }

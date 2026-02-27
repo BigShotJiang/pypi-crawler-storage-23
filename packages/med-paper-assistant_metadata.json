@@ -1,11 +1,11 @@
 {
   "name": "med-paper-assistant",
-  "version": "0.3.7",
+  "version": "0.3.12",
   "summary": "A medical paper writing assistant using MCP support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "med_paper_assistant-0.3.7.tar.gz",
-  "download_time": "2026-02-20T11:06:13.064818",
+  "download_filename": "med_paper_assistant-0.3.12.tar.gz",
+  "download_time": "2026-02-27T10:38:28.644915",
   "package_url": "https://pypi.org/project/med-paper-assistant/"
 }

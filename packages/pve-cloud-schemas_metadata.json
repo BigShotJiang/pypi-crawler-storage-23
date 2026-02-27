@@ -1,11 +1,11 @@
 {
   "name": "pve-cloud-schemas",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pve_cloud_schemas-4.0.0.tar.gz",
-  "download_time": "2026-02-27T10:01:37.383546",
+  "download_filename": "pve_cloud_schemas-4.0.2.tar.gz",
+  "download_time": "2026-02-27T10:38:08.256691",
   "package_url": "https://pypi.org/project/pve-cloud-schemas/"
 }

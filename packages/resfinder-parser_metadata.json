@@ -1,0 +1,11 @@
+{
+  "name": "resfinder-parser",
+  "version": "0.2.0",
+  "summary": "Parser for ResFinder output data",
+  "author": "João Dourado Santos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resfinder_parser-0.2.0.tar.gz",
+  "download_time": "2026-02-27T10:38:19.168432",
+  "package_url": "https://pypi.org/project/resfinder-parser/"
+}

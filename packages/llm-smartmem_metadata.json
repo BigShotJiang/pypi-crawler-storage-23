@@ -1,0 +1,11 @@
+{
+  "name": "llm-smartmem",
+  "version": "0.1.0",
+  "summary": "Smart memory management for LLM conversations - topic-aware compression that just works",
+  "author": "Sharan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_smartmem-0.1.0.tar.gz",
+  "download_time": "2026-02-27T10:38:03.004542",
+  "package_url": "https://pypi.org/project/llm-smartmem/"
+}

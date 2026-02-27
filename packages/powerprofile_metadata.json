@@ -1,0 +1,11 @@
+{
+  "name": "powerprofile",
+  "version": "0.31.4",
+  "summary": "Library to manage power profiles",
+  "author": "GISCE-TI, S.L.",
+  "license": null,
+  "home_page": "https://github.com/gisce/powerprofile",
+  "download_filename": "powerprofile-0.31.4.tar.gz",
+  "download_time": "2026-02-27T10:38:22.294354",
+  "package_url": "https://pypi.org/project/powerprofile/"
+}

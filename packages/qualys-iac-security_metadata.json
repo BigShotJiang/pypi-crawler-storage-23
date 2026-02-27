@@ -1,0 +1,11 @@
+{
+  "name": "qualys-iac-security",
+  "version": "1.0.8",
+  "summary": "Command line interface to scan Infrastructure-as-Code templates using Qualys IaC.",
+  "author": "qualys",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qualys_iac_security-1.0.8-py3-none-any.whl",
+  "download_time": "2026-02-27T10:38:08.775141",
+  "package_url": "https://pypi.org/project/qualys-iac-security/"
+}
