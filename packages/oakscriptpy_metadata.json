@@ -1,0 +1,11 @@
+{
+  "name": "oakscriptpy",
+  "version": "0.1.4",
+  "summary": "PineScript-like API for technical analysis in Python",
+  "author": "deepentropy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oakscriptpy-0.1.4.tar.gz",
+  "download_time": "2026-02-27T23:25:58.203215",
+  "package_url": "https://pypi.org/project/oakscriptpy/"
+}

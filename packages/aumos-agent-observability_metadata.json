@@ -1,0 +1,11 @@
+{
+  "name": "aumos-agent-observability",
+  "version": "0.2.0",
+  "summary": "OpenTelemetry-native agent tracing, cost attribution, and drift detection",
+  "author": "AumOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aumos_agent_observability-0.2.0.tar.gz",
+  "download_time": "2026-02-27T23:26:15.147521",
+  "package_url": "https://pypi.org/project/aumos-agent-observability/"
+}

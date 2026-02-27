@@ -1,0 +1,11 @@
+{
+  "name": "provn-sdk",
+  "version": "0.3.1",
+  "summary": "Official Python SDK for privacy-preserving digital signatures and data anchoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/provnai/provn-sdk",
+  "download_filename": "provn_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-27T23:25:55.346229",
+  "package_url": "https://pypi.org/project/provn-sdk/"
+}

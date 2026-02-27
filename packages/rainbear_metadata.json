@@ -1,11 +1,11 @@
 {
   "name": "rainbear",
-  "version": "2.1.0",
+  "version": "2.4.0",
   "summary": "Build lazy Zarr scans with Polars",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rainbear-2.1.0.tar.gz",
-  "download_time": "2026-02-21T09:21:23.778083",
+  "download_filename": "rainbear-2.4.0.tar.gz",
+  "download_time": "2026-02-27T23:26:04.240014",
   "package_url": "https://pypi.org/project/rainbear/"
 }

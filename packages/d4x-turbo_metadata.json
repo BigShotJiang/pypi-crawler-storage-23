@@ -1,11 +1,11 @@
 {
   "name": "d4x-turbo",
-  "version": "1.0",
-  "summary": null,
-  "author": null,
+  "version": "4.0.0",
+  "summary": "Ultra-Advanced High-Speed Engine for Termux and VPS Bots",
+  "author": "D4X",
   "license": null,
   "home_page": null,
-  "download_filename": "d4x_turbo-1.0.tar.gz",
-  "download_time": "2026-02-19T10:04:32.963788",
+  "download_filename": "d4x_turbo-4.0.0.tar.gz",
+  "download_time": "2026-02-27T23:26:00.948314",
   "package_url": "https://pypi.org/project/d4x-turbo/"
 }

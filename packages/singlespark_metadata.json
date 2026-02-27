@@ -1,0 +1,11 @@
+{
+  "name": "singlespark",
+  "version": "0.1.3",
+  "summary": "PySpark emulator — Polars for DataFrames, DuckDB for SQL, fake HDFS on local filesystem",
+  "author": "Tecnocriollo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "singlespark-0.1.3.tar.gz",
+  "download_time": "2026-02-27T23:26:02.579143",
+  "package_url": "https://pypi.org/project/singlespark/"
+}

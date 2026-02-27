@@ -1,11 +1,11 @@
 {
   "name": "concept-benchmark",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Synthetic benchmarks for evaluating Concept Bottleneck Models.",
   "author": "Julian Skirzynski, Harry Cheon, Shreyas Kadekodi, Meredith Stewart, Berk Ustun",
   "license": null,
   "home_page": null,
-  "download_filename": "concept_benchmark-0.1.2-py3-none-any.whl",
-  "download_time": "2026-02-26T18:32:01.530347",
+  "download_filename": "concept_benchmark-0.1.5.tar.gz",
+  "download_time": "2026-02-27T23:26:41.598016",
   "package_url": "https://pypi.org/project/concept-benchmark/"
 }

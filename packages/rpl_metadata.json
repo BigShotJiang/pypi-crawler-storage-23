@@ -1,0 +1,11 @@
+{
+  "name": "rpl",
+  "version": "1.18.1",
+  "summary": "Replace strings in files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpl-1.18.1.tar.gz",
+  "download_time": "2026-02-27T23:26:39.404944",
+  "package_url": "https://pypi.org/project/rpl/"
+}

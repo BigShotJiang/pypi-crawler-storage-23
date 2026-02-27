@@ -1,0 +1,11 @@
+{
+  "name": "eidreader-sdk",
+  "version": "1.0.0",
+  "summary": "Host-side SDK for the eID Reader P2P protocol. Receives identity document data from a mobile app over an AES-256-GCM encrypted LAN WebSocket connection secured with ECDH P-256 key exchange and SAS MITM protection. Download the app from: https://play.google.com/store/apps/details?id=com.TFAStudios.eidreadermobile",
+  "author": "Tipa Fabian",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "eidreader_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-27T23:26:21.052911",
+  "package_url": "https://pypi.org/project/eidreader-sdk/"
+}

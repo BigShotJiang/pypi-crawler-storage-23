@@ -1,0 +1,11 @@
+{
+  "name": "agent-sense",
+  "version": "0.2.0",
+  "summary": "Human-agent interaction SDK with accessibility and dialogue management",
+  "author": "AumOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_sense-0.2.0.tar.gz",
+  "download_time": "2026-02-27T23:26:07.532966",
+  "package_url": "https://pypi.org/project/agent-sense/"
+}

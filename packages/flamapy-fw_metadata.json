@@ -1,0 +1,11 @@
+{
+  "name": "flamapy-fw",
+  "version": "2.5.0",
+  "summary": "Flamapy is a Python-based AAFM framework that takes into consideration previous AAFM tool designs and enables multi-solver and multi-metamodel support for the integration of AAFM tooling on the Python ecosystem.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flamapy_fw-2.5.0.tar.gz",
+  "download_time": "2026-02-27T23:26:32.780649",
+  "package_url": "https://pypi.org/project/flamapy-fw/"
+}

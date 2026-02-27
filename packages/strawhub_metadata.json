@@ -1,11 +1,11 @@
 {
   "name": "strawhub",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "CLI for the StrawHub agent skill and role registry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strawhub-0.1.3.tar.gz",
-  "download_time": "2026-02-27T08:33:29.887173",
+  "download_filename": "strawhub-0.1.4.tar.gz",
+  "download_time": "2026-02-27T23:26:27.006020",
   "package_url": "https://pypi.org/project/strawhub/"
 }
