@@ -1,0 +1,11 @@
+{
+  "name": "hello-datap-component-base",
+  "version": "0.2.6",
+  "summary": "A unified server management framework for data processing component",
+  "author": "Data Processing Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hello_datap_component_base-0.2.6.tar.gz",
+  "download_time": "2026-02-27T09:11:56.202123",
+  "package_url": "https://pypi.org/project/hello-datap-component-base/"
+}

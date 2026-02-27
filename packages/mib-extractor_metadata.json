@@ -1,0 +1,11 @@
+{
+  "name": "mib-extractor",
+  "version": "0.1.0",
+  "summary": "CLI tool to archive Mission Information Bases (MIB), inspect SPIDs, and build serializable SPID parameter maps.",
+  "author": "Romolo Politi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mib_extractor-0.1.0.tar.gz",
+  "download_time": "2026-02-27T09:11:58.292531",
+  "package_url": "https://pypi.org/project/mib-extractor/"
+}

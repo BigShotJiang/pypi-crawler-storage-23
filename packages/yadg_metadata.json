@@ -1,0 +1,11 @@
+{
+  "name": "yadg",
+  "version": "6.2.2",
+  "summary": "yet another datagram",
+  "author": "Peter Kraus, Nicolas Vetsch, Carla Terboven, Graham Kimbell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yadg-6.2.2.tar.gz",
+  "download_time": "2026-02-27T09:11:46.849193",
+  "package_url": "https://pypi.org/project/yadg/"
+}

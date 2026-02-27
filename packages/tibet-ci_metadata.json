@@ -1,0 +1,11 @@
+{
+  "name": "tibet-ci",
+  "version": "0.1.0",
+  "summary": "Zero-Config CI/CD TIBET Integration — one line to audit your entire pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_ci-0.1.0.tar.gz",
+  "download_time": "2026-02-27T09:11:55.182456",
+  "package_url": "https://pypi.org/project/tibet-ci/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudos-cli",
+  "version": "2.81.0",
+  "summary": "Python package for interacting with CloudOS",
+  "author": "David Piñeyro",
+  "license": null,
+  "home_page": "https://github.com/lifebit-ai/cloudos-cli",
+  "download_filename": "cloudos_cli-2.81.0.tar.gz",
+  "download_time": "2026-02-27T09:12:26.084152",
+  "package_url": "https://pypi.org/project/cloudos-cli/"
+}

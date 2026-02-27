@@ -1,11 +1,11 @@
 {
   "name": "otel-hooks",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "summary": "AI coding tools tracing hooks for observability (Langfuse, OTLP, and more)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otel_hooks-0.12.1.tar.gz",
-  "download_time": "2026-02-22T05:12:54.535942",
+  "download_filename": "otel_hooks-0.13.0.tar.gz",
+  "download_time": "2026-02-27T09:12:11.125362",
   "package_url": "https://pypi.org/project/otel-hooks/"
 }

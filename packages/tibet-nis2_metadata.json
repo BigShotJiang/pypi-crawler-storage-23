@@ -1,0 +1,11 @@
+{
+  "name": "tibet-nis2",
+  "version": "0.1.0",
+  "summary": "NIS2 Compliance Tool — Article 21 coverage with TIBET audit trail, incident response, and supply chain verification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_nis2-0.1.0.tar.gz",
+  "download_time": "2026-02-27T09:11:54.139804",
+  "package_url": "https://pypi.org/project/tibet-nis2/"
+}

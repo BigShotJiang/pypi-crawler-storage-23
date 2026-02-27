@@ -1,0 +1,11 @@
+{
+  "name": "clawmesh",
+  "version": "0.1.0",
+  "summary": "Minimal distributed communication bus for AI Agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "clawmesh-0.1.0.tar.gz",
+  "download_time": "2026-02-27T09:11:59.821735",
+  "package_url": "https://pypi.org/project/clawmesh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "faces-cli",
+  "version": "0.1.0",
+  "summary": "CLI for the Faces AI platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faces_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-27T09:12:13.687304",
+  "package_url": "https://pypi.org/project/faces-cli/"
+}
