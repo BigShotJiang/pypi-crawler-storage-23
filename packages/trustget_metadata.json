@@ -1,0 +1,11 @@
+{
+  "name": "trustget",
+  "version": "0.2.1",
+  "summary": "wget yang punya otak keamanan — download + verify + trust analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trustget-0.2.1.tar.gz",
+  "download_time": "2026-02-27T08:33:48.721793",
+  "package_url": "https://pypi.org/project/trustget/"
+}

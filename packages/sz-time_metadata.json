@@ -1,0 +1,11 @@
+{
+  "name": "sz-time",
+  "version": "0.1.0",
+  "summary": "A simple package to get current time with Shenzhen location",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/sz-time",
+  "download_filename": "sz_time-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-27T08:33:50.552778",
+  "package_url": "https://pypi.org/project/sz-time/"
+}

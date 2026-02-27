@@ -1,0 +1,11 @@
+{
+  "name": "wulab-relay",
+  "version": "0.1.0",
+  "summary": "WuLab local cluster relay agent — bridges cloud commands to local SSH",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wulab_relay-0.1.0.tar.gz",
+  "download_time": "2026-02-27T08:33:47.575682",
+  "package_url": "https://pypi.org/project/wulab-relay/"
+}

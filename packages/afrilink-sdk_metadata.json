@@ -1,11 +1,11 @@
 {
   "name": "afrilink-sdk",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "AfriLink SDK — One-line access to GPUs, models and datasets from your notebook",
   "author": "DataSpires",
   "license": null,
   "home_page": "https://github.com/dataspires/afrilink-sdk",
-  "download_filename": "afrilink_sdk-0.3.0.tar.gz",
-  "download_time": "2026-02-27T06:08:40.794886",
+  "download_filename": "afrilink_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-27T08:33:35.681602",
   "package_url": "https://pypi.org/project/afrilink-sdk/"
 }

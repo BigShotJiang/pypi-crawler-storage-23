@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-exception-logger",
+  "version": "0.2.0",
+  "summary": "Automatic exception logging for Django applications.",
+  "author": "Eren Berk Erkoç",
+  "license": "MIT",
+  "home_page": "https://github.com/ErenErchamion/DjangoExceptionLogger",
+  "download_filename": "django_rest_exception_logger-0.2.0.tar.gz",
+  "download_time": "2026-02-27T08:33:45.962464",
+  "package_url": "https://pypi.org/project/django-rest-exception-logger/"
+}

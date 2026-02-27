@@ -1,11 +1,11 @@
 {
   "name": "django-ai-lens",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "Natural language queries for Django models, powered by AI",
   "author": "Django AI Lens",
   "license": null,
   "home_page": null,
-  "download_filename": "django_ai_lens-0.1.3.tar.gz",
-  "download_time": "2026-02-27T05:09:04.627382",
+  "download_filename": "django_ai_lens-0.1.7.tar.gz",
+  "download_time": "2026-02-27T08:33:56.327147",
   "package_url": "https://pypi.org/project/django-ai-lens/"
 }

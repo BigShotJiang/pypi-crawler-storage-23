@@ -1,11 +1,11 @@
 {
   "name": "qhub-api",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "SDK to interact with the official Kipu Quantum Hub APIs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qhub_api-1.0.9.tar.gz",
-  "download_time": "2026-02-27T07:58:07.401845",
+  "download_filename": "qhub_api-1.0.10.tar.gz",
+  "download_time": "2026-02-27T08:33:53.519595",
   "package_url": "https://pypi.org/project/qhub-api/"
 }

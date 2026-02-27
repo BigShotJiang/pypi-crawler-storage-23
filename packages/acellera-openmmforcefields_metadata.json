@@ -1,0 +1,11 @@
+{
+  "name": "acellera-openmmforcefields",
+  "version": "0.15.1",
+  "summary": null,
+  "author": "Chodera lab // MSKCC",
+  "license": "MIT",
+  "home_page": "http://github.com/choderalab/openmm-forcefields",
+  "download_filename": "acellera_openmmforcefields-0.15.1.tar.gz",
+  "download_time": "2026-02-27T08:33:20.668475",
+  "package_url": "https://pypi.org/project/acellera-openmmforcefields/"
+}

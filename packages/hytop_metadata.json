@@ -1,11 +1,11 @@
 {
   "name": "hytop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight monitoring toolkit for Hygon DCU clusters",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hytop-0.1.1.tar.gz",
-  "download_time": "2026-02-27T07:14:54.587518",
+  "download_filename": "hytop-0.1.2.tar.gz",
+  "download_time": "2026-02-27T08:33:21.233806",
   "package_url": "https://pypi.org/project/hytop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "misty.zouwu",
+  "version": "0.1.3",
+  "summary": "驺吾其形似虎，身具五彩斑纹，尾长过身，骑乘可日行千里，且不食活物。集成FastAPI、SQLModel 实现标准CRUD 操作API",
+  "author": "Misty.Paabo",
+  "license": null,
+  "home_page": "https://github.com/MistyPaabo/zuowu",
+  "download_filename": "misty_zouwu-0.1.3.tar.gz",
+  "download_time": "2026-02-27T08:33:37.376339",
+  "package_url": "https://pypi.org/project/misty.zouwu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-sim-bridge",
+  "version": "0.1.0",
+  "summary": "Simulation-to-reality bridge for AI agents with environment adapters",
+  "author": "AumOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_sim_bridge-0.1.0.tar.gz",
+  "download_time": "2026-02-27T08:33:24.900902",
+  "package_url": "https://pypi.org/project/agent-sim-bridge/"
+}

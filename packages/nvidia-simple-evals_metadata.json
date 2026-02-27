@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-simple-evals",
+  "version": "26.1",
+  "summary": "Open AI simple evals - packaged by NVIDIA",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nvidia_simple_evals-26.1-py3-none-any.whl",
+  "download_time": "2026-02-27T08:33:38.525378",
+  "package_url": "https://pypi.org/project/nvidia-simple-evals/"
+}

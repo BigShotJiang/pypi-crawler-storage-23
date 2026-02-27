@@ -1,11 +1,11 @@
 {
   "name": "agentcage",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Defense-in-depth proxy sandbox for AI agents",
   "author": "Luca Martinetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentcage-0.4.1.tar.gz",
-  "download_time": "2026-02-26T20:57:02.269829",
+  "download_filename": "agentcage-0.5.0.tar.gz",
+  "download_time": "2026-02-27T08:33:58.077623",
   "package_url": "https://pypi.org/project/agentcage/"
 }

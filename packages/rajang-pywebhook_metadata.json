@@ -1,0 +1,11 @@
+{
+  "name": "rajang-pywebhook",
+  "version": "0.1.4",
+  "summary": "Python library for Microsoft Teams webhooks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rajang_pywebhook-0.1.4.tar.gz",
+  "download_time": "2026-02-27T08:33:34.593368",
+  "package_url": "https://pypi.org/project/rajang-pywebhook/"
+}

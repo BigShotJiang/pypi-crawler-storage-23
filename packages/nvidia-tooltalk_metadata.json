@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-tooltalk",
+  "version": "26.1",
+  "summary": "Evaluating tool-augmented LLMs in a conversational setting - packaged by NVIDIA",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nvidia_tooltalk-26.1-py3-none-any.whl",
+  "download_time": "2026-02-27T08:33:32.817922",
+  "package_url": "https://pypi.org/project/nvidia-tooltalk/"
+}
