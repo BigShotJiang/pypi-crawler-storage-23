@@ -1,0 +1,11 @@
+{
+  "name": "tpixel",
+  "version": "0.1.5.dev0",
+  "summary": "Pixel-block alignment viewer for hundreds of sequences (Roark-style PIXEL plots)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tpixel-0.1.5.dev0.tar.gz",
+  "download_time": "2026-02-27T18:31:33.824779",
+  "package_url": "https://pypi.org/project/tpixel/"
+}

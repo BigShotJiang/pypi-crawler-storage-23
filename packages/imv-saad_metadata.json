@@ -1,0 +1,11 @@
+{
+  "name": "imv-saad",
+  "version": "0.1.2",
+  "summary": "Tkinter app for viewing images, masks and predicted overlays with IoU.",
+  "author": "Saad Wazir",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imv_saad-0.1.2.tar.gz",
+  "download_time": "2026-02-27T18:31:13.375543",
+  "package_url": "https://pypi.org/project/imv-saad/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hyperliquid-sdk",
-  "version": "0.6.3",
+  "version": "0.6.6",
   "summary": "Community SDK for Hyperliquid. One line to place orders, zero ceremony. HyperCore, HyperEVM, WebSocket and gRPC streams. Not affiliated with Hyperliquid Foundation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperliquid_sdk-0.6.3.tar.gz",
-  "download_time": "2026-02-27T17:55:51.060125",
+  "download_filename": "hyperliquid_sdk-0.6.6.tar.gz",
+  "download_time": "2026-02-27T18:31:38.769901",
   "package_url": "https://pypi.org/project/hyperliquid-sdk/"
 }

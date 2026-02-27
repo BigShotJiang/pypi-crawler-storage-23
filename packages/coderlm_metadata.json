@@ -1,11 +1,11 @@
 {
   "name": "coderlm",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Process large codebases using the RLM (Recursive Language Model) pattern",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coderlm-0.1.1.tar.gz",
-  "download_time": "2026-02-26T21:27:56.079039",
+  "download_filename": "coderlm-0.2.0.tar.gz",
+  "download_time": "2026-02-27T18:31:09.520675",
   "package_url": "https://pypi.org/project/coderlm/"
 }

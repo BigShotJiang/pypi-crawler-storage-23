@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-ssi-okr",
-  "version": "14.0.2.1.0",
+  "version": "14.0.3.1.0",
   "summary": "OKR",
   "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
   "license": "AGPL-3",
   "home_page": "https://simetri-sinergi.id",
-  "download_filename": "odoo14_addon_ssi_okr-14.0.2.1.0-py3-none-any.whl",
-  "download_time": "2026-02-27T16:32:51.301331",
+  "download_filename": "odoo14_addon_ssi_okr-14.0.3.1.0-py3-none-any.whl",
+  "download_time": "2026-02-27T18:31:26.628515",
   "package_url": "https://pypi.org/project/odoo14-addon-ssi-okr/"
 }
