@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-Core",
+  "version": "1.4.4",
+  "summary": "Core code for clients of a variety of RESTful web services at the University of Washington",
+  "author": "UWIT Student & Educational Technology Services",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-core",
+  "download_filename": "uw_restclients_core-1.4.4.tar.gz",
+  "download_time": "2026-02-27T22:47:39.930040",
+  "package_url": "https://pypi.org/project/UW-RestClients-Core/"
+}

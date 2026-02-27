@@ -1,11 +1,11 @@
 {
   "name": "cellmap-data",
-  "version": "2026.2.27.2122",
+  "version": "2026.2.27.2238",
   "summary": "Utility for loading CellMap data for machine learning training, utilizing PyTorch, Xarray, TensorStore, and PyDantic.",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "cellmap_data-2026.2.27.2122.tar.gz",
-  "download_time": "2026-02-27T21:53:28.235446",
+  "download_filename": "cellmap_data-2026.2.27.2238.tar.gz",
+  "download_time": "2026-02-27T22:47:41.627185",
   "package_url": "https://pypi.org/project/cellmap-data/"
 }

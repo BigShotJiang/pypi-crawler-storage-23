@@ -1,0 +1,11 @@
+{
+  "name": "dirnote",
+  "version": "1.0.0",
+  "summary": "Directory notes that appear when you cd into them",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dirnote-1.0.0.tar.gz",
+  "download_time": "2026-02-27T22:47:54.867786",
+  "package_url": "https://pypi.org/project/dirnote/"
+}

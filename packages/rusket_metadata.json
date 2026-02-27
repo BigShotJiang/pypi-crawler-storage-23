@@ -1,11 +1,11 @@
 {
   "name": "rusket",
-  "version": "0.1.53",
+  "version": "0.1.54",
   "summary": "Ultra-fast Recommender Engines & Market Basket Analysis for Python, written in Rust.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rusket-0.1.53.tar.gz",
-  "download_time": "2026-02-27T15:08:35.395206",
+  "download_filename": "rusket-0.1.54.tar.gz",
+  "download_time": "2026-02-27T22:47:53.233547",
   "package_url": "https://pypi.org/project/rusket/"
 }

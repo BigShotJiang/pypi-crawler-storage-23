@@ -1,0 +1,11 @@
+{
+  "name": "air-blackbox-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for EU AI Act compliance scanning — scan, analyze, and remediate Python AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "air_blackbox_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-27T22:47:55.953802",
+  "package_url": "https://pypi.org/project/air-blackbox-mcp/"
+}

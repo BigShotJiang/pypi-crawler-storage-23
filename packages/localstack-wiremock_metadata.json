@@ -1,0 +1,11 @@
+{
+  "name": "localstack-wiremock",
+  "version": "0.1.1",
+  "summary": "WireMock Extension for LocalStack",
+  "author": "LocalStack + WireMock team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "localstack_wiremock-0.1.1.tar.gz",
+  "download_time": "2026-02-27T22:47:42.171301",
+  "package_url": "https://pypi.org/project/localstack-wiremock/"
+}

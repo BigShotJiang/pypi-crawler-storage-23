@@ -1,0 +1,11 @@
+{
+  "name": "lotos",
+  "version": "0.1.0",
+  "summary": "Self-hosted data ingestion framework — extract, transform, and load data from anywhere.",
+  "author": "yob",
+  "license": "ARTEFACT",
+  "home_page": null,
+  "download_filename": "lotos-0.1.0.tar.gz",
+  "download_time": "2026-02-27T22:47:49.984131",
+  "package_url": "https://pypi.org/project/lotos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nominal",
-  "version": "1.115.0",
+  "version": "1.117.0",
   "summary": "Automate Nominal workflows in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nominal-1.115.0.tar.gz",
-  "download_time": "2026-02-26T23:30:25.612528",
+  "download_filename": "nominal-1.117.0.tar.gz",
+  "download_time": "2026-02-27T22:47:58.693580",
   "package_url": "https://pypi.org/project/nominal/"
 }

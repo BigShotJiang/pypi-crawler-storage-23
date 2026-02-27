@@ -1,0 +1,11 @@
+{
+  "name": "schema-travels",
+  "version": "1.2.0",
+  "summary": "Intelligent SQL to NoSQL schema migration - analyzes query patterns to recommend optimal MongoDB schema design",
+  "author": "Karthik Raghavan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "schema_travels-1.2.0.tar.gz",
+  "download_time": "2026-02-27T22:47:47.804700",
+  "package_url": "https://pypi.org/project/schema-travels/"
+}

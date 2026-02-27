@@ -1,0 +1,11 @@
+{
+  "name": "arraymorph",
+  "version": "0.2.0b3",
+  "summary": "HDF5 VOL connector for cloud object storage (AWS S3, Azure Blob)",
+  "author": "ruochenj123, wangtg2013",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arraymorph-0.2.0b3.tar.gz",
+  "download_time": "2026-02-27T22:47:50.528749",
+  "package_url": "https://pypi.org/project/arraymorph/"
+}

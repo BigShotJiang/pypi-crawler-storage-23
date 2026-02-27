@@ -1,11 +1,11 @@
 {
   "name": "bitp",
-  "version": "1.1.11",
+  "version": "1.1.17",
   "summary": "Tools for BitBake/Yocto projects",
   "author": null,
   "license": "GPL-2.0-only",
   "home_page": null,
-  "download_filename": "bitp-1.1.11.tar.gz",
-  "download_time": "2026-02-24T23:31:08.563670",
+  "download_filename": "bitp-1.1.17.tar.gz",
+  "download_time": "2026-02-27T22:47:49.440487",
   "package_url": "https://pypi.org/project/bitp/"
 }

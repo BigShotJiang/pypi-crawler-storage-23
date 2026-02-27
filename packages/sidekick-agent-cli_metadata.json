@@ -1,0 +1,11 @@
+{
+  "name": "sidekick-agent-cli",
+  "version": "0.3.0",
+  "summary": "CLI for the Sidekick Agent Orchestrator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sidekick_agent_cli-0.3.0.tar.gz",
+  "download_time": "2026-02-27T22:47:46.716839",
+  "package_url": "https://pypi.org/project/sidekick-agent-cli/"
+}
