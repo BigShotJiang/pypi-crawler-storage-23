@@ -1,0 +1,11 @@
+{
+  "name": "timber-compiler",
+  "version": "0.1.0",
+  "summary": "Classical ML Inference Compiler — compiles trained ML models into optimized native inference binaries",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "timber_compiler-0.1.0.tar.gz",
+  "download_time": "2026-02-27T23:48:12.384428",
+  "package_url": "https://pypi.org/project/timber-compiler/"
+}

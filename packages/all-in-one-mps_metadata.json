@@ -1,0 +1,11 @@
+{
+  "name": "all-in-one-mps",
+  "version": "1.0.0",
+  "summary": "All-In-One Music Structure Analyzer for Apple Silicon (PyTorch/MPS)",
+  "author": "ssmall256",
+  "license": null,
+  "home_page": null,
+  "download_filename": "all_in_one_mps-1.0.0.tar.gz",
+  "download_time": "2026-02-27T23:48:02.578040",
+  "package_url": "https://pypi.org/project/all-in-one-mps/"
+}

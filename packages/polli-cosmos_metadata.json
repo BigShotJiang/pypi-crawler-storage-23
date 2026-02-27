@@ -1,11 +1,11 @@
 {
   "name": "polli-cosmos",
-  "version": "0.5.0",
-  "summary": "Unified ingest + post-processing toolkit (COSM camera MP4 generation + general square crop)",
+  "version": "0.6.0",
+  "summary": "Provenance-first video normalization toolkit for ingest, crop, and web optimization",
   "author": "Polli Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polli_cosmos-0.5.0-py3-none-any.whl",
-  "download_time": "2026-02-26T21:54:23.655541",
+  "download_filename": "polli_cosmos-0.6.0-py3-none-any.whl",
+  "download_time": "2026-02-27T23:48:22.701835",
   "package_url": "https://pypi.org/project/polli-cosmos/"
 }

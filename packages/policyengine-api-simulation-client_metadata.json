@@ -1,11 +1,11 @@
 {
   "name": "policyengine-api-simulation-client",
-  "version": "0.20260225.101",
+  "version": "0.20260227.103",
   "summary": "A client library for accessing PolicyEngine Simulation Gateway API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_api_simulation_client-0.20260225.101.tar.gz",
-  "download_time": "2026-02-25T14:46:47.755510",
+  "download_filename": "policyengine_api_simulation_client-0.20260227.103.tar.gz",
+  "download_time": "2026-02-27T23:48:25.793963",
   "package_url": "https://pypi.org/project/policyengine-api-simulation-client/"
 }

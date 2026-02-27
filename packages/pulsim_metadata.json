@@ -1,11 +1,11 @@
 {
   "name": "pulsim",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "High-performance circuit simulator for power electronics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pulsim-0.4.1.tar.gz",
-  "download_time": "2026-02-22T22:24:17.515195",
+  "download_filename": "pulsim-0.5.1.tar.gz",
+  "download_time": "2026-02-27T23:48:11.358166",
   "package_url": "https://pypi.org/project/pulsim/"
 }

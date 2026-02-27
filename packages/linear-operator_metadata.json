@@ -1,0 +1,11 @@
+{
+  "name": "linear-operator",
+  "version": "0.6.1",
+  "summary": "A linear operator implementation, primarily designed for finite-dimensional positive definite operators (i.e. kernel matrices).",
+  "author": "Geoff Pleiss",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linear_operator-0.6.1.tar.gz",
+  "download_time": "2026-02-27T23:47:54.929771",
+  "package_url": "https://pypi.org/project/linear-operator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pitchmeld",
+  "version": "0.51.2",
+  "summary": "Please see https://pitchmeld.ing",
+  "author": "Gilles Degottex",
+  "license": "LicenseRef-Proprietary",
+  "home_page": "https://doc.pitchmeld.ing",
+  "download_filename": "pitchmeld-0.51.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-27T23:47:54.416854",
+  "package_url": "https://pypi.org/project/pitchmeld/"
+}
