@@ -1,0 +1,11 @@
+{
+  "name": "hexlogger",
+  "version": "2.0.3",
+  "summary": "Premium console logging library with themes, gradients, panels, tables, progress bars, and spinners.",
+  "author": "Itz Montage",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hexlogger-2.0.3.tar.gz",
+  "download_time": "2026-02-27T19:50:35.741944",
+  "package_url": "https://pypi.org/project/hexlogger/"
+}

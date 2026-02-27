@@ -1,0 +1,11 @@
+{
+  "name": "code-discovery",
+  "version": "0.3.0",
+  "summary": "Automatic API discovery system for multiple frameworks and VCS platforms",
+  "author": "Code Discovery Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/codediscovery",
+  "download_filename": "code_discovery-0.3.0.tar.gz",
+  "download_time": "2026-02-27T19:50:40.932434",
+  "package_url": "https://pypi.org/project/code-discovery/"
+}

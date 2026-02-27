@@ -1,11 +1,11 @@
 {
   "name": "agentops-toolkit",
-  "version": "0.2.5",
+  "version": "0.2.9",
   "summary": "CLI toolkit for evaluating, tracing, and monitoring AI agents on Azure AI Foundry",
   "author": "DB Lee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentops_toolkit-0.2.5.tar.gz",
-  "download_time": "2026-02-27T07:14:59.267647",
+  "download_filename": "agentops_toolkit-0.2.9.tar.gz",
+  "download_time": "2026-02-27T19:50:41.960255",
   "package_url": "https://pypi.org/project/agentops-toolkit/"
 }

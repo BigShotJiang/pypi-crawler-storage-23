@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-config",
+  "version": "0.4.7b0",
+  "summary": "Handle sqlalchemy connection params in a config file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_config-0.4.7b0.tar.gz",
+  "download_time": "2026-02-27T19:50:43.014123",
+  "package_url": "https://pypi.org/project/sqlalchemy-config/"
+}

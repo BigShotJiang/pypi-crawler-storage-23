@@ -1,0 +1,11 @@
+{
+  "name": "chandan-aiops",
+  "version": "1.5.4",
+  "summary": "Enterprise-ready MLOps project generator with DVC-first pipelines",
+  "author": "Chandan Chaudhari",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chandan_aiops-1.5.4.tar.gz",
+  "download_time": "2026-02-27T19:50:31.088466",
+  "package_url": "https://pypi.org/project/chandan-aiops/"
+}

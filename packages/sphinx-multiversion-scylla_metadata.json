@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-multiversion-scylla",
+  "version": "0.3.7",
+  "summary": "Add support for multiple versions to sphinx",
+  "author": "Jan Holthuis",
+  "license": "BSD",
+  "home_page": "https://holzhaus.github.io/sphinx-multiversion/",
+  "download_filename": "sphinx_multiversion_scylla-0.3.7.tar.gz",
+  "download_time": "2026-02-27T19:50:40.420468",
+  "package_url": "https://pypi.org/project/sphinx-multiversion-scylla/"
+}

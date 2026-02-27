@@ -1,0 +1,11 @@
+{
+  "name": "alloy-config-generator",
+  "version": "0.1.4",
+  "summary": "Deterministic Grafana Alloy configuration generator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alloy_config_generator-0.1.4.tar.gz",
+  "download_time": "2026-02-27T19:50:34.713531",
+  "package_url": "https://pypi.org/project/alloy-config-generator/"
+}

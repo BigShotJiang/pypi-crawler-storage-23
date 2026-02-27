@@ -1,0 +1,11 @@
+{
+  "name": "galpy",
+  "version": "1.11.2",
+  "summary": "Galactic Dynamics in python",
+  "author": "Jo Bovy",
+  "license": "New BSD",
+  "home_page": "http://github.com/jobovy/galpy",
+  "download_filename": "galpy-1.11.2.tar.gz",
+  "download_time": "2026-02-27T19:50:39.904110",
+  "package_url": "https://pypi.org/project/galpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vulnsig",
+  "version": "1.0.0",
+  "summary": "Render CVSS vulnerability vectors as expressive SVG glyphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vulnsig-1.0.0.tar.gz",
+  "download_time": "2026-02-27T19:50:30.576008",
+  "package_url": "https://pypi.org/project/vulnsig/"
+}

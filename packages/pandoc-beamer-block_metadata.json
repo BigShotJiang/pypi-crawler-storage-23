@@ -1,0 +1,11 @@
+{
+  "name": "pandoc-beamer-block",
+  "version": "1.2.0.0",
+  "summary": "A pandoc filter for adding beamer block on specific div",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pandoc_beamer_block-1.2.0.0-py3-none-any.whl",
+  "download_time": "2026-02-27T19:50:41.444285",
+  "package_url": "https://pypi.org/project/pandoc-beamer-block/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hatch",
+  "version": "1.16.5",
+  "summary": "Modern, extensible Python project management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch-1.16.5.tar.gz",
+  "download_time": "2026-02-27T19:50:36.284677",
+  "package_url": "https://pypi.org/project/hatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pinpout",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Pinpout Prompt Injection Detection API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinpout-0.1.0.tar.gz",
+  "download_time": "2026-02-27T19:50:38.839304",
+  "package_url": "https://pypi.org/project/pinpout/"
+}
