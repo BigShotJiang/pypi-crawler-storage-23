@@ -1,0 +1,11 @@
+{
+  "name": "pyviz3d",
+  "version": "0.5.1",
+  "summary": "PyViz3D is a python package to visualize 3D scenes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyviz3d-0.5.1.tar.gz",
+  "download_time": "2026-02-27T16:02:43.919603",
+  "package_url": "https://pypi.org/project/pyviz3d/"
+}

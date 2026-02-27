@@ -1,11 +1,11 @@
 {
   "name": "pikarc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for Pikarc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pikarc-0.1.0.tar.gz",
-  "download_time": "2026-02-26T21:54:52.594533",
+  "download_filename": "pikarc-0.1.1.tar.gz",
+  "download_time": "2026-02-27T16:03:11.767932",
   "package_url": "https://pypi.org/project/pikarc/"
 }

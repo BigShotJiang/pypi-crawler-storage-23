@@ -1,0 +1,11 @@
+{
+  "name": "rubycond_of",
+  "version": "0.2.0",
+  "summary": "Tool for opening data files in the most common formats",
+  "author": "Yiuri Garino",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CelluleProjet/Rubycond_OF",
+  "download_filename": "rubycond_of-0.2.0.tar.gz",
+  "download_time": "2026-02-27T16:02:38.739974",
+  "package_url": "https://pypi.org/project/rubycond_of/"
+}

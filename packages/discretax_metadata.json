@@ -1,0 +1,11 @@
+{
+  "name": "discretax",
+  "version": "0.2.1",
+  "summary": "State Space Models in Jax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discretax-0.2.1.tar.gz",
+  "download_time": "2026-02-27T16:02:43.283896",
+  "package_url": "https://pypi.org/project/discretax/"
+}

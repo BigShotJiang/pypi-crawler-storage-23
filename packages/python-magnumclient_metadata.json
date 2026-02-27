@@ -1,0 +1,11 @@
+{
+  "name": "python-magnumclient",
+  "version": "4.10.0",
+  "summary": "Client library for Magnum API",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-magnumclient/latest/",
+  "download_filename": "python_magnumclient-4.10.0.tar.gz",
+  "download_time": "2026-02-27T16:03:37.175278",
+  "package_url": "https://pypi.org/project/python-magnumclient/"
+}

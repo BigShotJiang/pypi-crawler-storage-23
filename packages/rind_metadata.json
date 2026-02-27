@@ -1,0 +1,11 @@
+{
+  "name": "rind",
+  "version": "0.1.0a1",
+  "summary": "A minimal PEP 517 build backend for creating meta-packages",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rind-0.1.0a1.tar.gz",
+  "download_time": "2026-02-27T16:02:41.766142",
+  "package_url": "https://pypi.org/project/rind/"
+}

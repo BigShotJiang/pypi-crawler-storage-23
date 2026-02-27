@@ -1,0 +1,11 @@
+{
+  "name": "close-probe",
+  "version": "0.0.2",
+  "summary": "An AI-powered cybersecurity probe for penetration testing, vulnerability research, and red team operations",
+  "author": "CloseProbe Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "close_probe-0.0.2.tar.gz",
+  "download_time": "2026-02-27T16:03:13.059154",
+  "package_url": "https://pypi.org/project/close-probe/"
+}

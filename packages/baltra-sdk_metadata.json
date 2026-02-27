@@ -1,11 +1,11 @@
 {
   "name": "baltra-sdk",
-  "version": "1.0.54",
+  "version": "1.0.56",
   "summary": "Internal SDK to share Baltra domain and infrastructure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "baltra_sdk-1.0.54.tar.gz",
-  "download_time": "2026-02-25T23:02:47.397405",
+  "download_filename": "baltra_sdk-1.0.56.tar.gz",
+  "download_time": "2026-02-27T16:03:29.774030",
   "package_url": "https://pypi.org/project/baltra-sdk/"
 }

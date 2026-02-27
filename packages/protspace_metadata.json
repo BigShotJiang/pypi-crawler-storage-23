@@ -1,0 +1,11 @@
+{
+  "name": "protspace",
+  "version": "3.3.1",
+  "summary": "A visualisation tool for protein embeddings from pLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protspace-3.3.1-py3-none-any.whl",
+  "download_time": "2026-02-27T16:03:03.857824",
+  "package_url": "https://pypi.org/project/protspace/"
+}

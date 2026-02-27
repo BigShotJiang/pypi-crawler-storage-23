@@ -1,0 +1,11 @@
+{
+  "name": "semverctl",
+  "version": "0.0.10",
+  "summary": "Binary distribution for semverctl",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semverctl-0.0.10-py3-none-macosx_10_13_x86_64.whl",
+  "download_time": "2026-02-27T16:03:20.335054",
+  "package_url": "https://pypi.org/project/semverctl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ultragpt",
+  "version": "7.4.0",
+  "summary": "UltraGPT: A modular multi-provider AI library for advanced reasoning and step pipelines with OpenAI and Claude support",
+  "author": "Ranit Bhowmick",
+  "license": "MIT",
+  "home_page": "https://github.com/Kawai-Senpai/UltraGPT",
+  "download_filename": "ultragpt-7.4.0.tar.gz",
+  "download_time": "2026-02-27T16:03:06.349985",
+  "package_url": "https://pypi.org/project/ultragpt/"
+}

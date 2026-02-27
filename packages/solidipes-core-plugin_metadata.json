@@ -1,0 +1,11 @@
+{
+  "name": "solidipes-core-plugin",
+  "version": "0.0.43",
+  "summary": "Core plugin for Solidipes with essential modular components",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "solidipes_core_plugin-0.0.43.tar.gz",
+  "download_time": "2026-02-27T16:03:27.719330",
+  "package_url": "https://pypi.org/project/solidipes-core-plugin/"
+}

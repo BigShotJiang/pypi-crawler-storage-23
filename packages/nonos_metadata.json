@@ -1,0 +1,11 @@
+{
+  "name": "nonos",
+  "version": "0.20.0",
+  "summary": "A lightweight plotting library for protoplanetary disks simulations",
+  "author": "G. Wafflard-Fernandez, C.M.T. Robert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonos-0.20.0.tar.gz",
+  "download_time": "2026-02-27T16:03:28.992309",
+  "package_url": "https://pypi.org/project/nonos/"
+}

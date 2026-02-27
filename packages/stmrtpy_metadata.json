@@ -1,11 +1,11 @@
 {
   "name": "stmrtpy",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Professional stock plotting library with candlestick, volume, MA and RSI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stmrtpy-1.0.1.tar.gz",
-  "download_time": "2026-02-27T15:08:49.530550",
+  "download_filename": "stmrtpy-1.0.3.tar.gz",
+  "download_time": "2026-02-27T16:02:56.624493",
   "package_url": "https://pypi.org/project/stmrtpy/"
 }
