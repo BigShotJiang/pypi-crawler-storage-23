@@ -1,0 +1,11 @@
+{
+  "name": "usnan",
+  "version": "0.3",
+  "summary": "Python SDK for USNAN API",
+  "author": "Jonathan Wedell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usnan-0.3.tar.gz",
+  "download_time": "2026-02-27T20:22:32.805397",
+  "package_url": "https://pypi.org/project/usnan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nbpull",
+  "version": "0.1.0",
+  "summary": "🔍 Read-only CLI tool to pull IPAM data from NetBox",
+  "author": "Aditya Patel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbpull-0.1.0.tar.gz",
+  "download_time": "2026-02-27T20:22:41.191666",
+  "package_url": "https://pypi.org/project/nbpull/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tradewatch-io",
+  "version": "0.9.0",
+  "summary": "Tradewatch Python SDK",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "tradewatch_io-0.9.0.tar.gz",
+  "download_time": "2026-02-27T20:22:11.535318",
+  "package_url": "https://pypi.org/project/tradewatch-io/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modexiaagentpay",
+  "version": "0.4.0",
+  "summary": "Modexia AgentPay — Python SDK for agent wallets & payments (USDC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modexiaagentpay-0.4.0.tar.gz",
+  "download_time": "2026-02-27T20:22:45.358449",
+  "package_url": "https://pypi.org/project/modexiaagentpay/"
+}

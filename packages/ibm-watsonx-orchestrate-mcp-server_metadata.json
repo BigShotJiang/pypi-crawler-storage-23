@@ -1,11 +1,11 @@
 {
   "name": "ibm-watsonx-orchestrate-mcp-server",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "IBM watsonx Orchestrate ADK MCP Server",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "ibm_watsonx_orchestrate_mcp_server-2.4.0.tar.gz",
-  "download_time": "2026-02-25T20:10:48.122292",
+  "download_filename": "ibm_watsonx_orchestrate_mcp_server-2.5.0.tar.gz",
+  "download_time": "2026-02-27T20:22:21.396506",
   "package_url": "https://pypi.org/project/ibm-watsonx-orchestrate-mcp-server/"
 }

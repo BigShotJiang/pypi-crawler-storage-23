@@ -1,11 +1,11 @@
 {
   "name": "nacho-cli",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Nacho CLI — push, pull, and search context files; set up the Nacho builder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nacho_cli-0.1.7.tar.gz",
-  "download_time": "2026-02-27T18:31:01.858008",
+  "download_filename": "nacho_cli-0.1.9.tar.gz",
+  "download_time": "2026-02-27T20:22:26.113414",
   "package_url": "https://pypi.org/project/nacho-cli/"
 }

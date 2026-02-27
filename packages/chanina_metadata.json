@@ -1,11 +1,11 @@
 {
   "name": "chanina",
-  "version": "0.4.1",
+  "version": "0.4.5",
   "summary": " Chanina is a Python application that helps your playwright to build the best libretti.",
   "author": "Leo Hehlen",
   "license": null,
   "home_page": null,
-  "download_filename": "chanina-0.4.1.tar.gz",
-  "download_time": "2026-02-27T17:55:30.775254",
+  "download_filename": "chanina-0.4.5.tar.gz",
+  "download_time": "2026-02-27T20:22:25.602578",
   "package_url": "https://pypi.org/project/chanina/"
 }

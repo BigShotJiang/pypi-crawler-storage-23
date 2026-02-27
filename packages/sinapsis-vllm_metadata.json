@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-vllm",
+  "version": "0.1.1",
+  "summary": "Sinapsis templates for LLM text completion using vLLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_vllm-0.1.1.tar.gz",
+  "download_time": "2026-02-27T20:22:50.674889",
+  "package_url": "https://pypi.org/project/sinapsis-vllm/"
+}

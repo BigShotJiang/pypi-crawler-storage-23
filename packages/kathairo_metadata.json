@@ -1,0 +1,11 @@
+{
+  "name": "kathairo",
+  "version": "1.1",
+  "summary": "Scripture processing pipeline for converting USFM and USX formats into structured TSV files",
+  "author": "Robertson Brinker",
+  "license": null,
+  "home_page": "https://github.com/ClearBible/kathairo.py",
+  "download_filename": "kathairo-1.1.tar.gz",
+  "download_time": "2026-02-27T20:22:49.143404",
+  "package_url": "https://pypi.org/project/kathairo/"
+}

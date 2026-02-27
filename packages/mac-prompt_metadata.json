@@ -1,0 +1,11 @@
+{
+  "name": "mac-prompt",
+  "version": "1.0.2",
+  "summary": "MAC: Multi-Agent Constitution Learning — a general-purpose rule learning engine",
+  "author": "Rushil Thareja",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mac_prompt-1.0.2.tar.gz",
+  "download_time": "2026-02-27T20:22:28.175245",
+  "package_url": "https://pypi.org/project/mac-prompt/"
+}

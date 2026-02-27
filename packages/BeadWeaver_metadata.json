@@ -1,11 +1,11 @@
 {
   "name": "BeadWeaver",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Bead weaver is a package for manipulating .itp files",
   "author": "Alejandro Daignino",
   "license": null,
   "home_page": null,
-  "download_filename": "beadweaver-0.0.2.tar.gz",
-  "download_time": "2026-02-27T19:12:40.747063",
+  "download_filename": "beadweaver-0.0.3.tar.gz",
+  "download_time": "2026-02-27T20:22:44.332469",
   "package_url": "https://pypi.org/project/BeadWeaver/"
 }

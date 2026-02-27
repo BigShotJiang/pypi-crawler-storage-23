@@ -1,11 +1,11 @@
 {
   "name": "jsonedit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "JSON Tree Editor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsonedit-0.1.0.tar.gz",
-  "download_time": "2026-02-27T06:08:52.678859",
+  "download_filename": "jsonedit-0.1.1.tar.gz",
+  "download_time": "2026-02-27T20:22:14.763785",
   "package_url": "https://pypi.org/project/jsonedit/"
 }

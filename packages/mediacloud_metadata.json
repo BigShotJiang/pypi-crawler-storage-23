@@ -1,0 +1,11 @@
+{
+  "name": "mediacloud",
+  "version": "4.6.0",
+  "summary": "Media Cloud API Client Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mediacloud-4.6.0.tar.gz",
+  "download_time": "2026-02-27T20:22:12.552823",
+  "package_url": "https://pypi.org/project/mediacloud/"
+}
