@@ -1,11 +1,11 @@
 {
   "name": "datacheck-cli",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "A linter for data pipelines. Enforce deterministic validation rules in CI/CD, Airflow, and beyond.",
   "author": "Squrtech",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "datacheck_cli-2.1.0.tar.gz",
-  "download_time": "2026-02-24T17:44:09.380681",
+  "download_filename": "datacheck_cli-2.1.1.tar.gz",
+  "download_time": "2026-02-27T17:55:45.424565",
   "package_url": "https://pypi.org/project/datacheck-cli/"
 }

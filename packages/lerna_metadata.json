@@ -1,0 +1,11 @@
+{
+  "name": "lerna",
+  "version": "2.0.2",
+  "summary": "Lerna is a framework for elegantly configuring complex applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lerna-2.0.2.tar.gz",
+  "download_time": "2026-02-27T17:55:48.318890",
+  "package_url": "https://pypi.org/project/lerna/"
+}

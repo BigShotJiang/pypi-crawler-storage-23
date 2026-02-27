@@ -1,0 +1,11 @@
+{
+  "name": "llm-json-guard",
+  "version": "1.0.0",
+  "summary": "Production-safe JSON repair and schema validation for LLM outputs",
+  "author": "Harsh Verma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_json_guard-1.0.0.tar.gz",
+  "download_time": "2026-02-27T17:55:34.932371",
+  "package_url": "https://pypi.org/project/llm-json-guard/"
+}

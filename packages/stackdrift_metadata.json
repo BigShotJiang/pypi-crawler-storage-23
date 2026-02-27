@@ -1,11 +1,11 @@
 {
   "name": "stackdrift",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "CloudFormation drift detector with property-level diffs and Slack/GitHub integration",
   "author": "Brian",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stackdrift-0.1.0.tar.gz",
-  "download_time": "2026-02-25T18:54:33.076180",
+  "download_filename": "stackdrift-0.1.2.tar.gz",
+  "download_time": "2026-02-27T17:55:59.348033",
   "package_url": "https://pypi.org/project/stackdrift/"
 }

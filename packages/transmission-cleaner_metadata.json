@@ -1,0 +1,11 @@
+{
+  "name": "transmission-cleaner",
+  "version": "1.0.1",
+  "summary": "Transmission maintenance tool for managing torrents by hardlinks, errors, and orphaned files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transmission_cleaner-1.0.1.tar.gz",
+  "download_time": "2026-02-27T17:55:28.469123",
+  "package_url": "https://pypi.org/project/transmission-cleaner/"
+}

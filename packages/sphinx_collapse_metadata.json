@@ -1,0 +1,11 @@
+{
+  "name": "sphinx_collapse",
+  "version": "0.1.4",
+  "summary": "Collapse extension for Sphinx.",
+  "author": "David Garcia",
+  "license": null,
+  "home_page": "https://github.com/dgarcia360/sphinx-collapse",
+  "download_filename": "sphinx_collapse-0.1.4.tar.gz",
+  "download_time": "2026-02-27T17:55:56.584116",
+  "package_url": "https://pypi.org/project/sphinx_collapse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "IGA-for-bsplyne",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A package for IGA elasticity.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iga_for_bsplyne-1.0.2.tar.gz",
-  "download_time": "2026-02-21T21:38:35.666076",
+  "download_filename": "iga_for_bsplyne-1.0.4.tar.gz",
+  "download_time": "2026-02-27T17:55:48.859932",
   "package_url": "https://pypi.org/project/IGA-for-bsplyne/"
 }

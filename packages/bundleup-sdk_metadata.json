@@ -1,0 +1,11 @@
+{
+  "name": "bundleup-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for BundleUp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bundleup_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-27T17:55:50.515484",
+  "package_url": "https://pypi.org/project/bundleup-sdk/"
+}

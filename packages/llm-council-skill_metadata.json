@@ -1,0 +1,11 @@
+{
+  "name": "llm-council-skill",
+  "version": "0.2.0",
+  "summary": "Multi-model LLM deliberation with anonymized peer review",
+  "author": "Ori Neidich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_council_skill-0.2.0.tar.gz",
+  "download_time": "2026-02-27T17:55:44.848271",
+  "package_url": "https://pypi.org/project/llm-council-skill/"
+}

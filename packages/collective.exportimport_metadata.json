@@ -1,0 +1,11 @@
+{
+  "name": "collective.exportimport",
+  "version": "1.16",
+  "summary": "An add-on for Plone to Export and import content, members, relations, translations and localroles.",
+  "author": "Philip Bauer (for starzel.de)",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.exportimport",
+  "download_filename": "collective_exportimport-1.16.tar.gz",
+  "download_time": "2026-02-27T17:56:00.453491",
+  "package_url": "https://pypi.org/project/collective.exportimport/"
+}

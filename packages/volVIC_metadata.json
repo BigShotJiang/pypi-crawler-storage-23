@@ -1,11 +1,11 @@
 {
   "name": "volVIC",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "VOLume-based Virtual Image Correlation (volVIC) library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "volvic-1.0.1.tar.gz",
-  "download_time": "2026-02-24T11:07:27.230268",
+  "download_filename": "volvic-1.0.2.tar.gz",
+  "download_time": "2026-02-27T17:55:40.269357",
   "package_url": "https://pypi.org/project/volVIC/"
 }

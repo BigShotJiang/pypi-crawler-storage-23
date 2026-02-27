@@ -1,0 +1,11 @@
+{
+  "name": "entente",
+  "version": "3.0.0",
+  "summary": "Polygonal meshes in vertex-wise correspondence",
+  "author": "Paul Melnikow",
+  "license": "MIT",
+  "home_page": "https://github.com/lace/entente",
+  "download_filename": "entente-3.0.0.tar.gz",
+  "download_time": "2026-02-27T17:55:32.514781",
+  "package_url": "https://pypi.org/project/entente/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pitct",
+  "version": "1.0.7",
+  "summary": "Python TCT Library",
+  "author": "Shoma Matsui, Masahiro Konishi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pitct-1.0.7-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-27T17:55:29.614497",
+  "package_url": "https://pypi.org/project/pitct/"
+}

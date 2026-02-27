@@ -1,11 +1,11 @@
 {
   "name": "corky",
-  "version": "0.11.0",
+  "version": "0.12.1",
   "summary": "Sync email threads from IMAP to Markdown, draft replies, manage collaborators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "corky-0.11.0.tar.gz",
-  "download_time": "2026-02-25T23:29:16.084486",
+  "download_filename": "corky-0.12.1.tar.gz",
+  "download_time": "2026-02-27T17:55:33.092940",
   "package_url": "https://pypi.org/project/corky/"
 }

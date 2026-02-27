@@ -1,0 +1,11 @@
+{
+  "name": "python-josso-auth",
+  "version": "0.2.1",
+  "summary": "A JOSSO backend for python-social-auth",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/consbio/python-josso-auth",
+  "download_filename": "python_josso_auth-0.2.1.tar.gz",
+  "download_time": "2026-02-27T17:56:11.406376",
+  "package_url": "https://pypi.org/project/python-josso-auth/"
+}

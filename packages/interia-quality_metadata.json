@@ -1,0 +1,11 @@
+{
+  "name": "interia-quality",
+  "version": "4.0.0",
+  "summary": "InterIA Quality Pack v4 – modular quality engine, refactor assist, AI bridge, cosmos & multiverse analysis.",
+  "author": "Alexandre Couret, Thomas Ingles, InterIA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interia_quality-4.0.0.tar.gz",
+  "download_time": "2026-02-27T17:56:09.781726",
+  "package_url": "https://pypi.org/project/interia-quality/"
+}
