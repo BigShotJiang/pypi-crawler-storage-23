@@ -1,11 +1,11 @@
 {
   "name": "barangay",
-  "version": "2026.1.13.1",
+  "version": "2026.1.13.2",
   "summary": "Philippines Standard Geographic Code (PSGC) 2026 Python package, Fuzzy Search, JSON, and YAML.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "barangay-2026.1.13.1.tar.gz",
-  "download_time": "2026-02-22T08:21:28.509233",
+  "download_filename": "barangay-2026.1.13.2.tar.gz",
+  "download_time": "2026-02-27T19:12:50.553152",
   "package_url": "https://pypi.org/project/barangay/"
 }

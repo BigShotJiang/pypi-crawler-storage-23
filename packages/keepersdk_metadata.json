@@ -1,0 +1,11 @@
+{
+  "name": "keepersdk",
+  "version": "1.1.0",
+  "summary": "Keeper SDK for Python 3",
+  "author": "Keeper Security Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/Keeper-Security/keeper-sdk-python",
+  "download_filename": "keepersdk-1.1.0-py3-none-any.whl",
+  "download_time": "2026-02-27T19:12:55.876130",
+  "package_url": "https://pypi.org/project/keepersdk/"
+}

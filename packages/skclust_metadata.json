@@ -1,0 +1,11 @@
+{
+  "name": "skclust",
+  "version": "2026.2.27",
+  "summary": "A comprehensive clustering toolkit with advanced tree cutting and visualization",
+  "author": "Josh L. Espinoza",
+  "license": "MIT",
+  "home_page": "https://github.com/jolespin/skclust",
+  "download_filename": "skclust-2026.2.27.tar.gz",
+  "download_time": "2026-02-27T19:12:38.025240",
+  "package_url": "https://pypi.org/project/skclust/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-frontend-settings",
+  "version": "2.1.0",
+  "summary": "Expose feature flags and settings from django waffle and django constance in an endpoint.",
+  "author": "Loadsmart",
+  "license": "MIT",
+  "home_page": "https://github.com/loadsmart/django-frontend-settings",
+  "download_filename": "django_frontend_settings-2.1.0.tar.gz",
+  "download_time": "2026-02-27T19:12:41.270806",
+  "package_url": "https://pypi.org/project/django-frontend-settings/"
+}

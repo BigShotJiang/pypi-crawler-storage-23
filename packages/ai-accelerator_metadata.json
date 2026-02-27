@@ -1,11 +1,11 @@
 {
   "name": "ai-accelerator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "AI Accelerator: A production-ready MLOps platform to deploy, monitor, and govern machine learning models with security, scalability, and auditability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_accelerator-1.0.1.tar.gz",
-  "download_time": "2026-02-25T23:03:26.006230",
+  "download_filename": "ai_accelerator-1.1.0.tar.gz",
+  "download_time": "2026-02-27T19:12:56.979683",
   "package_url": "https://pypi.org/project/ai-accelerator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tensordb",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "AI-native, bitemporal ledger database with MVCC, SQL, and LSM storage",
   "author": null,
   "license": "PolyForm-Noncommercial-1.0.0",
   "home_page": null,
-  "download_filename": "tensordb-0.2.0-cp313-cp313-manylinux_2_38_aarch64.whl",
-  "download_time": "2026-02-27T18:30:55.059173",
+  "download_filename": "tensordb-0.2.3-cp313-cp313-manylinux_2_38_aarch64.whl",
+  "download_time": "2026-02-27T19:12:23.640248",
   "package_url": "https://pypi.org/project/tensordb/"
 }

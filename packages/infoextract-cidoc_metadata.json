@@ -1,11 +1,11 @@
 {
   "name": "infoextract-cidoc",
-  "version": "0.1.1",
-  "summary": "Classful Ontology for Life-Events Information Extraction",
+  "version": "0.1.4",
+  "summary": "LLM-powered CIDOC CRM v7.1.3 entity extraction from unstructured text — Pydantic models, Cypher emitters, and NetworkX integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infoextract_cidoc-0.1.1.tar.gz",
-  "download_time": "2026-02-26T03:44:09.166899",
+  "download_filename": "infoextract_cidoc-0.1.4.tar.gz",
+  "download_time": "2026-02-27T19:13:03.631110",
   "package_url": "https://pypi.org/project/infoextract-cidoc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "papermill",
+  "version": "2.7.0",
+  "summary": "Parameterize and run Jupyter and nteract Notebooks",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "papermill-2.7.0.tar.gz",
+  "download_time": "2026-02-27T19:12:30.833154",
+  "package_url": "https://pypi.org/project/papermill/"
+}

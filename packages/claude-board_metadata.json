@@ -1,0 +1,11 @@
+{
+  "name": "claude-board",
+  "version": "0.3.17",
+  "summary": "Physical console for Claude Code - approve/deny permissions from your phone or hardware device",
+  "author": "pescn",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "claude_board-0.3.17.tar.gz",
+  "download_time": "2026-02-27T19:12:39.663973",
+  "package_url": "https://pypi.org/project/claude-board/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "piec",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A collection of control and analysis code for experiments",
   "author": "Geo Fratian",
   "license": null,
   "home_page": "https://github.com/ElPsyKurisu/piec",
-  "download_filename": "piec-0.1.8.tar.gz",
-  "download_time": "2026-02-27T18:31:05.703866",
+  "download_filename": "piec-0.1.9.tar.gz",
+  "download_time": "2026-02-27T19:12:32.496118",
   "package_url": "https://pypi.org/project/piec/"
 }

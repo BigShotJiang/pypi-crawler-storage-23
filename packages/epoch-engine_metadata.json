@@ -1,0 +1,11 @@
+{
+  "name": "epoch-engine",
+  "version": "0.2.0",
+  "summary": "A lightweight trainer and evaluator for PyTorch models with a focus on simplicity and flexibility.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epoch_engine-0.2.0.tar.gz",
+  "download_time": "2026-02-27T19:12:59.154308",
+  "package_url": "https://pypi.org/project/epoch-engine/"
+}
