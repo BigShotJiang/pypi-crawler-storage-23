@@ -1,0 +1,11 @@
+{
+  "name": "rakam-systems",
+  "version": "0.3.0",
+  "summary": "Rakam Systems - Modular AI framework with agents, vectorstore, and LLM gateway",
+  "author": "Mohamed Hilel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Rakam-AI/rakam_systems",
+  "download_filename": "rakam_systems-0.3.0.tar.gz",
+  "download_time": "2026-02-27T14:28:55.024136",
+  "package_url": "https://pypi.org/project/rakam-systems/"
+}

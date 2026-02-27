@@ -1,0 +1,11 @@
+{
+  "name": "discordflow",
+  "version": "0.3.3",
+  "summary": "A lightweight MLflow clone that logs ML training metrics, parameters, and artifacts directly to Discord webhooks — with Forum thread support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discordflow-0.3.3.tar.gz",
+  "download_time": "2026-02-27T14:28:12.624788",
+  "package_url": "https://pypi.org/project/discordflow/"
+}

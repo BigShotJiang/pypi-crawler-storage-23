@@ -1,11 +1,11 @@
 {
   "name": "eptools",
-  "version": "9.0.0",
+  "version": "9.0.6",
   "summary": "EasyPost Tools",
   "author": "Arno De Decker",
   "license": null,
   "home_page": null,
-  "download_filename": "eptools-9.0.0.tar.gz",
-  "download_time": "2026-02-27T12:37:37.396062",
+  "download_filename": "eptools-9.0.6.tar.gz",
+  "download_time": "2026-02-27T14:28:16.304020",
   "package_url": "https://pypi.org/project/eptools/"
 }

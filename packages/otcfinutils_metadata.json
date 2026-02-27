@@ -1,11 +1,11 @@
 {
   "name": "otcfinutils",
-  "version": "0.0.24.31",
+  "version": "0.0.24.34",
   "summary": "Useful functions to interact with dataverse and sharepoint",
   "author": "Petar Kasapinov, Shomoos Aldujaily",
   "license": null,
   "home_page": null,
-  "download_filename": "otcfinutils-0.0.24.31.tar.gz",
-  "download_time": "2026-02-23T10:13:15.412048",
+  "download_filename": "otcfinutils-0.0.24.34.tar.gz",
+  "download_time": "2026-02-27T14:28:44.605608",
   "package_url": "https://pypi.org/project/otcfinutils/"
 }

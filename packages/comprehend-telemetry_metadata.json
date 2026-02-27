@@ -1,11 +1,11 @@
 {
   "name": "comprehend-telemetry",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Integration of comprehend.dev with OpenTelemetry in Python",
   "author": "comprehend.dev AB",
   "license": "LicenseRef-Proprietary-Audit",
   "home_page": null,
-  "download_filename": "comprehend_telemetry-0.2.2.tar.gz",
-  "download_time": "2026-02-24T18:40:00.656418",
+  "download_filename": "comprehend_telemetry-0.2.4.tar.gz",
+  "download_time": "2026-02-27T14:28:29.905214",
   "package_url": "https://pypi.org/project/comprehend-telemetry/"
 }

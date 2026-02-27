@@ -1,0 +1,11 @@
+{
+  "name": "common-scrapy",
+  "version": "0.1.1",
+  "summary": "Reusable Scrapy spider templates plus a CLI runner.",
+  "author": "commonbq",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "common_scrapy-0.1.1.tar.gz",
+  "download_time": "2026-02-27T14:28:18.912784",
+  "package_url": "https://pypi.org/project/common-scrapy/"
+}

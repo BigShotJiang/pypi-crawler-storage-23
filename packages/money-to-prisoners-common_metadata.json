@@ -1,0 +1,11 @@
+{
+  "name": "money-to-prisoners-common",
+  "version": "21.2.1",
+  "summary": "Django app with common code and assets for Money to Prisoners services",
+  "author": "Ministry of Justice Digital Services",
+  "license": "MIT",
+  "home_page": "https://github.com/ministryofjustice/money-to-prisoners-common",
+  "download_filename": "money_to_prisoners_common-21.2.1.tar.gz",
+  "download_time": "2026-02-27T14:28:19.957833",
+  "package_url": "https://pypi.org/project/money-to-prisoners-common/"
+}

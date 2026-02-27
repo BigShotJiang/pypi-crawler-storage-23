@@ -1,0 +1,11 @@
+{
+  "name": "getstream",
+  "version": "2.7.1",
+  "summary": "GetStream Python SDK - Build scalable activity feeds, chat, and video calling applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "getstream-2.7.1.tar.gz",
+  "download_time": "2026-02-27T14:28:14.753813",
+  "package_url": "https://pypi.org/project/getstream/"
+}

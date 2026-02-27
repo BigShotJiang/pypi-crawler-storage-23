@@ -1,11 +1,11 @@
 {
   "name": "claude-pet-companion",
-  "version": "2.4.0",
-  "summary": "A virtual pet for Claude Code with daemon mode, IPC, and conversation history",
+  "version": "2.5.0",
+  "summary": "A virtual pet for Claude Code with daemon mode, IPC, conversation history, and enhanced security",
   "author": "Claude Code Community",
   "license": "MIT",
   "home_page": "https://github.com/anthropics/claude-pet-companion",
-  "download_filename": "claude_pet_companion-2.4.0.tar.gz",
-  "download_time": "2026-02-27T07:58:14.124360",
+  "download_filename": "claude_pet_companion-2.5.0-py3-none-any.whl",
+  "download_time": "2026-02-27T14:28:40.951395",
   "package_url": "https://pypi.org/project/claude-pet-companion/"
 }

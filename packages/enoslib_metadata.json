@@ -1,0 +1,11 @@
+{
+  "name": "enoslib",
+  "version": "10.6.0",
+  "summary": "A library to build (distributed) systems experiments",
+  "author": "Matthieu Simonin",
+  "license": null,
+  "home_page": "https://discovery.gitlabpages.inria.fr/enoslib/",
+  "download_filename": "enoslib-10.6.0-py3-none-any.whl",
+  "download_time": "2026-02-27T14:28:50.348434",
+  "package_url": "https://pypi.org/project/enoslib/"
+}

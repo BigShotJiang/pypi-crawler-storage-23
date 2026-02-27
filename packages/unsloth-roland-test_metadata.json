@@ -1,11 +1,11 @@
 {
   "name": "unsloth-roland-test",
-  "version": "0.16.0",
+  "version": "0.18.0",
   "summary": "Unsloth - Fine-tune LLMs faster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unsloth_roland_test-0.16.0.tar.gz",
-  "download_time": "2026-02-26T23:30:24.050548",
+  "download_filename": "unsloth_roland_test-0.18.0.tar.gz",
+  "download_time": "2026-02-27T14:28:22.046448",
   "package_url": "https://pypi.org/project/unsloth-roland-test/"
 }

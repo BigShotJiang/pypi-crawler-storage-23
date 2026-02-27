@@ -1,11 +1,11 @@
 {
   "name": "zodify",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Zod-inspired dict validation for Python. Zero deps. One file.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zodify-0.1.0.tar.gz",
-  "download_time": "2026-02-25T13:57:57.945350",
+  "download_filename": "zodify-0.2.0.tar.gz",
+  "download_time": "2026-02-27T14:28:13.144183",
   "package_url": "https://pypi.org/project/zodify/"
 }

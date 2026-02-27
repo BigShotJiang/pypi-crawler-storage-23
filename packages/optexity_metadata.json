@@ -1,11 +1,11 @@
 {
   "name": "optexity",
-  "version": "0.1.5.10",
+  "version": "0.1.5.12",
   "summary": "Optexity is a platform for building and running browser and computer agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optexity-0.1.5.10.tar.gz",
-  "download_time": "2026-02-26T18:32:32.257134",
+  "download_filename": "optexity-0.1.5.12.tar.gz",
+  "download_time": "2026-02-27T14:28:45.129449",
   "package_url": "https://pypi.org/project/optexity/"
 }
