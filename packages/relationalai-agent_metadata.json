@@ -1,0 +1,11 @@
+{
+  "name": "relationalai-agent",
+  "version": "0.3.3",
+  "summary": "RelationalAI Agent Client SDK",
+  "author": "RelationalAI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "relationalai_agent-0.3.3.tar.gz",
+  "download_time": "2026-02-27T20:53:56.034189",
+  "package_url": "https://pypi.org/project/relationalai-agent/"
+}

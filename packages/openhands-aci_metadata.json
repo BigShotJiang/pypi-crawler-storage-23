@@ -1,0 +1,11 @@
+{
+  "name": "openhands-aci",
+  "version": "0.3.3",
+  "summary": "An Agent-Computer Interface (ACI) designed for software development agents OpenHands.",
+  "author": "OpenHands",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openhands_aci-0.3.3.tar.gz",
+  "download_time": "2026-02-27T20:54:33.408517",
+  "package_url": "https://pypi.org/project/openhands-aci/"
+}

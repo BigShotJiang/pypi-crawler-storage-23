@@ -1,0 +1,11 @@
+{
+  "name": "oplaadpalen-py",
+  "version": "0.1.1",
+  "summary": "Python client for Oplaadpalen.nl EV charging stations API",
+  "author": "Willem Oldemans",
+  "license": null,
+  "home_page": "https://github.com/willumpie82/oplaadpalen_homeassistant",
+  "download_filename": "oplaadpalen_py-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-27T20:53:54.498761",
+  "package_url": "https://pypi.org/project/oplaadpalen-py/"
+}

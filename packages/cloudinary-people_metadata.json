@@ -1,0 +1,11 @@
+{
+  "name": "cloudinary-people",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Cloudinary People Search API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudinary_people-0.1.0.tar.gz",
+  "download_time": "2026-02-27T20:54:16.811851",
+  "package_url": "https://pypi.org/project/cloudinary-people/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "interlatent",
-  "version": "0.2.4",
+  "version": "0.2.9",
   "summary": "Interlatent SDK — hosted API client for RL interpretability dashboards.",
   "author": "Interlatent Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "interlatent-0.2.4.tar.gz",
-  "download_time": "2026-02-27T19:12:22.428808",
+  "download_filename": "interlatent-0.2.9.tar.gz",
+  "download_time": "2026-02-27T20:54:16.299683",
   "package_url": "https://pypi.org/project/interlatent/"
 }

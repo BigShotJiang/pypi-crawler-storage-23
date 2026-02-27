@@ -1,11 +1,11 @@
 {
   "name": "cvxpylayers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Solve and differentiate Convex Optimization problems on the GPU",
   "author": "A. Agrawal, B. Amos, S. Barratt, S. Diamond",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cvxpylayers-1.0.1.tar.gz",
-  "download_time": "2026-02-22T23:47:47.431976",
+  "download_filename": "cvxpylayers-1.0.3.tar.gz",
+  "download_time": "2026-02-27T20:54:31.873410",
   "package_url": "https://pypi.org/project/cvxpylayers/"
 }

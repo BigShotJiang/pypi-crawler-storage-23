@@ -1,0 +1,11 @@
+{
+  "name": "squish-cli",
+  "version": "0.1.0",
+  "summary": "Fast image & video compression CLI tool",
+  "author": "Ayush",
+  "license": null,
+  "home_page": null,
+  "download_filename": "squish_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-27T20:53:57.637421",
+  "package_url": "https://pypi.org/project/squish-cli/"
+}
