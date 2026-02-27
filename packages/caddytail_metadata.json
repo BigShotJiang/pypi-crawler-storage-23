@@ -1,0 +1,11 @@
+{
+  "name": "caddytail",
+  "version": "0.6.0",
+  "summary": "Caddy web server with Tailscale plugin, packaged for pip installation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "caddytail-0.6.0.tar.gz",
+  "download_time": "2026-02-27T15:08:27.845393",
+  "package_url": "https://pypi.org/project/caddytail/"
+}

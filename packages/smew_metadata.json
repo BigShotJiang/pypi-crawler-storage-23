@@ -1,0 +1,11 @@
+{
+  "name": "smew",
+  "version": "1.2.0",
+  "summary": "Soil Model for Enhanced Weathering (SMEW): a dynamic, depth-averaged ecohydrological and biogeochemical model for enhanced weathering dynamics in the upper soil layers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smew-1.2.0.tar.gz",
+  "download_time": "2026-02-27T15:08:28.939828",
+  "package_url": "https://pypi.org/project/smew/"
+}

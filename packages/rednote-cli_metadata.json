@@ -1,11 +1,11 @@
 {
   "name": "rednote-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Rednote platform CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rednote_cli-0.1.0.tar.gz",
-  "download_time": "2026-02-27T14:28:49.306449",
+  "download_filename": "rednote_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-27T15:08:37.000186",
   "package_url": "https://pypi.org/project/rednote-cli/"
 }

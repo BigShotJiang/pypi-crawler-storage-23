@@ -1,0 +1,11 @@
+{
+  "name": "casm-bset",
+  "version": "2.2.0",
+  "summary": "CASM cluster expansion basis set generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "casm_bset-2.2.0.tar.gz",
+  "download_time": "2026-02-27T15:08:13.569976",
+  "package_url": "https://pypi.org/project/casm-bset/"
+}

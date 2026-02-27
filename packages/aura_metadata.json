@@ -1,0 +1,11 @@
+{
+  "name": "aura",
+  "version": "0.0.3",
+  "summary": "Agentic TUI.",
+  "author": "Mourad Mourafiq",
+  "license": "MIT",
+  "home_page": "https://github.com/md__mq/aura",
+  "download_filename": "aura-0.0.3.tar.gz",
+  "download_time": "2026-02-27T15:08:24.087672",
+  "package_url": "https://pypi.org/project/aura/"
+}

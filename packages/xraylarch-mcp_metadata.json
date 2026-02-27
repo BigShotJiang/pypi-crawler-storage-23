@@ -1,0 +1,11 @@
+{
+  "name": "xraylarch-mcp",
+  "version": "0.3.3",
+  "summary": "MCP server for X-ray spectroscopy analysis via xraylarch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xraylarch_mcp-0.3.3.tar.gz",
+  "download_time": "2026-02-27T15:08:32.179324",
+  "package_url": "https://pypi.org/project/xraylarch-mcp/"
+}

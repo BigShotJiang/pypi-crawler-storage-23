@@ -1,0 +1,11 @@
+{
+  "name": "natten-mlx",
+  "version": "0.3.0",
+  "summary": "Neighborhood Attention for Apple Silicon - MLX backend",
+  "author": "ssmall256",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "natten_mlx-0.3.0.tar.gz",
+  "download_time": "2026-02-27T15:08:12.389737",
+  "package_url": "https://pypi.org/project/natten-mlx/"
+}

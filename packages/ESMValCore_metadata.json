@@ -1,0 +1,11 @@
+{
+  "name": "ESMValCore",
+  "version": "2.13.0",
+  "summary": "A community tool for pre-processing data from Earth system models in CMIP and running analysis scripts",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "esmvalcore-2.13.0.tar.gz",
+  "download_time": "2026-02-27T15:08:27.334063",
+  "package_url": "https://pypi.org/project/ESMValCore/"
+}

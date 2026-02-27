@@ -1,0 +1,11 @@
+{
+  "name": "aas-core-codegen",
+  "version": "0.0.19",
+  "summary": "Generate implementations and schemas based on an AAS meta-model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aas_core_codegen-0.0.19.tar.gz",
+  "download_time": "2026-02-27T15:08:04.719014",
+  "package_url": "https://pypi.org/project/aas-core-codegen/"
+}

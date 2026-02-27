@@ -1,0 +1,11 @@
+{
+  "name": "gopher-security-mcp",
+  "version": "0.1.0.dev20260227124047",
+  "summary": "Python SDK for Gopher Security MCP - AI Agent orchestration framework with native performance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gopher_security_mcp-0.1.0.dev20260227124047.tar.gz",
+  "download_time": "2026-02-27T15:08:14.591277",
+  "package_url": "https://pypi.org/project/gopher-security-mcp/"
+}

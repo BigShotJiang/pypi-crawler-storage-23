@@ -1,0 +1,11 @@
+{
+  "name": "cognee-community-vector-adapter-pinecone",
+  "version": "0.1.1",
+  "summary": "Pinecone vector database adapter for cognee",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognee_community_vector_adapter_pinecone-0.1.1.tar.gz",
+  "download_time": "2026-02-27T15:08:42.238073",
+  "package_url": "https://pypi.org/project/cognee-community-vector-adapter-pinecone/"
+}

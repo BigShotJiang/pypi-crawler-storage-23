@@ -1,11 +1,11 @@
 {
   "name": "yaiv",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "summary": "Yet another Ab Initio Visualizer with a variety of tools",
-  "author": "Martin Gutierrez-Amigo",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/mgamigo/YAIV",
-  "download_filename": "yaiv-1.4.0.tar.gz",
-  "download_time": "2026-02-26T20:06:50.948553",
+  "home_page": null,
+  "download_filename": "yaiv-1.4.2.tar.gz",
+  "download_time": "2026-02-27T15:08:01.955775",
   "package_url": "https://pypi.org/project/yaiv/"
 }

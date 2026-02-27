@@ -1,0 +1,11 @@
+{
+  "name": "lnbot",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for LnBot — Bitcoin for AI Agents. Send and receive sats over Lightning with a few lines of code.",
+  "author": "LnBot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lnbot-0.3.0.tar.gz",
+  "download_time": "2026-02-27T15:08:28.426355",
+  "package_url": "https://pypi.org/project/lnbot/"
+}
