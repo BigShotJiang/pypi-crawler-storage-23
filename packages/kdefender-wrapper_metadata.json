@@ -1,0 +1,11 @@
+{
+  "name": "kdefender-wrapper",
+  "version": "0.3.1",
+  "summary": "A Telegram bot wrapper for K-Defender security",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdefender_wrapper-0.3.1.tar.gz",
+  "download_time": "2026-02-27T07:58:10.472727",
+  "package_url": "https://pypi.org/project/kdefender-wrapper/"
+}

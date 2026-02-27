@@ -1,0 +1,11 @@
+{
+  "name": "ebooklet",
+  "version": "0.6.1",
+  "summary": "Organise all your data in key/value booklets and sync them with S3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebooklet-0.6.1.tar.gz",
+  "download_time": "2026-02-27T07:58:33.142220",
+  "package_url": "https://pypi.org/project/ebooklet/"
+}

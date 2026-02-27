@@ -1,0 +1,11 @@
+{
+  "name": "mke-sculib",
+  "version": "3.1.5",
+  "summary": "MeerKAT Extension (SCU) (lib)rary for the MKE antennas and some basic simulators",
+  "author": "Tobias Glaubach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mke_sculib-3.1.5.tar.gz",
+  "download_time": "2026-02-27T07:58:04.326478",
+  "package_url": "https://pypi.org/project/mke-sculib/"
+}

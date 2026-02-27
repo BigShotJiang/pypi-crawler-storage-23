@@ -1,0 +1,11 @@
+{
+  "name": "pondus",
+  "version": "0.3.1",
+  "summary": "Opinionated AI model benchmark aggregator — install via cargo: cargo install pondus",
+  "author": "Terry Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pondus-0.3.1.tar.gz",
+  "download_time": "2026-02-27T07:57:53.036141",
+  "package_url": "https://pypi.org/project/pondus/"
+}

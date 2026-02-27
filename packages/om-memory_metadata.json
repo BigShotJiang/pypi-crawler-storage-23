@@ -1,0 +1,11 @@
+{
+  "name": "om-memory",
+  "version": "0.1.0",
+  "summary": "Human-like memory for AI agents. 10x cheaper than RAG. Zero vector DB needed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "om_memory-0.1.0.tar.gz",
+  "download_time": "2026-02-27T07:58:20.821654",
+  "package_url": "https://pypi.org/project/om-memory/"
+}

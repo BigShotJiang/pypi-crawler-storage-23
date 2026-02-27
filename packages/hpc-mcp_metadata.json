@@ -1,11 +1,11 @@
 {
   "name": "hpc-mcp",
-  "version": "0.0.12",
+  "version": "0.0.16",
   "summary": "Agentic MCP tools for HPC",
   "author": "Vanessa Sochat",
   "license": "LICENSE",
   "home_page": "https://github.com/converged-computing/hpc-mcp",
-  "download_filename": "hpc_mcp-0.0.12.tar.gz",
-  "download_time": "2026-02-23T23:53:41.442241",
+  "download_filename": "hpc_mcp-0.0.16.tar.gz",
+  "download_time": "2026-02-27T07:58:31.610188",
   "package_url": "https://pypi.org/project/hpc-mcp/"
 }

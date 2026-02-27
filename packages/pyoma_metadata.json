@@ -1,0 +1,11 @@
+{
+  "name": "pyoma",
+  "version": "0.13.5",
+  "summary": "library to interact and build OMA hdf5 files",
+  "author": "DessimozLab",
+  "license": "MPL 2.0",
+  "home_page": null,
+  "download_filename": "pyoma-0.13.5.tar.gz",
+  "download_time": "2026-02-27T07:57:54.573353",
+  "package_url": "https://pypi.org/project/pyoma/"
+}

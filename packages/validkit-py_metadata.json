@@ -1,11 +1,11 @@
 {
   "name": "validkit-py",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A simple and powerful validation library for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "validkit_py-1.1.0.tar.gz",
-  "download_time": "2026-02-26T23:30:10.751372",
+  "download_filename": "validkit_py-1.1.1.tar.gz",
+  "download_time": "2026-02-27T07:57:45.738026",
   "package_url": "https://pypi.org/project/validkit-py/"
 }
