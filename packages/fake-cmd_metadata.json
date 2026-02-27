@@ -1,0 +1,11 @@
+{
+  "name": "fake-cmd",
+  "version": "0.0.6",
+  "summary": "fake_cmd provides a simulated remote command line based on file communication to send commands from the client to the server for execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fake_cmd-0.0.6.tar.gz",
+  "download_time": "2026-02-27T11:54:31.094920",
+  "package_url": "https://pypi.org/project/fake-cmd/"
+}

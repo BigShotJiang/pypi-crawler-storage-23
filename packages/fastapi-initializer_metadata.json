@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-initializer",
+  "version": "1.0.1",
+  "summary": "An interactive CLI tool that scaffolds production-ready FastAPI projects with sensible defaults.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_initializer-1.0.1.tar.gz",
+  "download_time": "2026-02-27T11:54:17.102087",
+  "package_url": "https://pypi.org/project/fastapi-initializer/"
+}

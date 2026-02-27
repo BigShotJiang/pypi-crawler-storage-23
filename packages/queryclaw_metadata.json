@@ -1,11 +1,11 @@
 {
   "name": "queryclaw",
-  "version": "0.4.11",
+  "version": "0.5.0",
   "summary": "AI-Native Database Agent for Safe & Autonomous Operations — Text-to-SQL with safety guardrails",
   "author": "QueryClaw Team",
   "license": null,
   "home_page": null,
-  "download_filename": "queryclaw-0.4.11.tar.gz",
-  "download_time": "2026-02-27T11:22:46.452968",
+  "download_filename": "queryclaw-0.5.0.tar.gz",
+  "download_time": "2026-02-27T11:54:12.988965",
   "package_url": "https://pypi.org/project/queryclaw/"
 }

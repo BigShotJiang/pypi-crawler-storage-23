@@ -1,0 +1,11 @@
+{
+  "name": "malva-client",
+  "version": "0.3.1",
+  "summary": "Python client for Malva Index",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "malva_client-0.3.1.tar.gz",
+  "download_time": "2026-02-27T11:53:59.533892",
+  "package_url": "https://pypi.org/project/malva-client/"
+}

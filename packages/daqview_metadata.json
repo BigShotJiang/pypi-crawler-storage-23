@@ -1,0 +1,11 @@
+{
+  "name": "daqview",
+  "version": "0.8.3",
+  "summary": "DAQ Data Analysis Software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daqview-0.8.3.tar.gz",
+  "download_time": "2026-02-27T11:53:57.490574",
+  "package_url": "https://pypi.org/project/daqview/"
+}

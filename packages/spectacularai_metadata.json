@@ -1,0 +1,11 @@
+{
+  "name": "spectacularai",
+  "version": "1.50.0",
+  "summary": "Spectacular AI Python library",
+  "author": "Spectacular AI Ltd",
+  "license": "Free for non-commercial use",
+  "home_page": "https://github.com/SpectacularAI/sdk-examples",
+  "download_filename": "spectacularai-1.50.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-02-27T11:54:07.349806",
+  "package_url": "https://pypi.org/project/spectacularai/"
+}

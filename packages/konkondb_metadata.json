@@ -1,0 +1,11 @@
+{
+  "name": "konkondb",
+  "version": "0.1.0",
+  "summary": "AI-oriented context DB middleware — Pluggable engine between Raw Data and Context serving",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "konkondb-0.1.0.tar.gz",
+  "download_time": "2026-02-27T11:54:34.709193",
+  "package_url": "https://pypi.org/project/konkondb/"
+}

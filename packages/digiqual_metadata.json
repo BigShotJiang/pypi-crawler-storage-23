@@ -1,11 +1,11 @@
 {
   "name": "digiqual",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "Statistical Toolkit for Reliability Assessment in NDT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "digiqual-0.11.0.tar.gz",
-  "download_time": "2026-02-26T10:32:46.422597",
+  "download_filename": "digiqual-0.12.0.tar.gz",
+  "download_time": "2026-02-27T11:54:06.280533",
   "package_url": "https://pypi.org/project/digiqual/"
 }

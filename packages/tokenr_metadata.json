@@ -1,11 +1,11 @@
 {
   "name": "tokenr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Automatic LLM cost tracking for OpenAI, Anthropic, and more",
   "author": "Tokenr",
   "license": "MIT",
   "home_page": "https://github.com/tokenr-co/tokenr-python",
-  "download_filename": "tokenr-0.1.1.tar.gz",
-  "download_time": "2026-02-25T21:58:04.582025",
+  "download_filename": "tokenr-0.1.2.tar.gz",
+  "download_time": "2026-02-27T11:54:14.524443",
   "package_url": "https://pypi.org/project/tokenr/"
 }

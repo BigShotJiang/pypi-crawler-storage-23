@@ -1,0 +1,11 @@
+{
+  "name": "navis",
+  "version": "1.11.0",
+  "summary": "Neuron Analysis and Visualization library",
+  "author": "Philipp Schlegel",
+  "license": "GNU GPL V3",
+  "home_page": "https://navis-org.github.io/navis/",
+  "download_filename": "navis-1.11.0.tar.gz",
+  "download_time": "2026-02-27T11:54:11.455926",
+  "package_url": "https://pypi.org/project/navis/"
+}

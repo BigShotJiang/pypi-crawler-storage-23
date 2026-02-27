@@ -1,11 +1,11 @@
 {
   "name": "robotframework-robocop",
-  "version": "8.2.0",
+  "version": "8.2.2",
   "summary": "Static code analysis tool (linter) and code formatter for Robot Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_robocop-8.2.0.tar.gz",
-  "download_time": "2026-02-22T09:53:24.517150",
+  "download_filename": "robotframework_robocop-8.2.2.tar.gz",
+  "download_time": "2026-02-27T11:54:02.110585",
   "package_url": "https://pypi.org/project/robotframework-robocop/"
 }

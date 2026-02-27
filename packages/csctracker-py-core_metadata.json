@@ -1,0 +1,11 @@
+{
+  "name": "csctracker-py-core",
+  "version": "26.9.1",
+  "summary": "A base library for microservices with Flask, JSON logging, and Prometheus telemetry.",
+  "author": "Carlos Eduardo",
+  "license": "MIT",
+  "home_page": "https://github.com/krlsedu/CscTrackerPyCore",
+  "download_filename": "csctracker_py_core-26.9.1.tar.gz",
+  "download_time": "2026-02-27T11:53:56.468925",
+  "package_url": "https://pypi.org/project/csctracker-py-core/"
+}

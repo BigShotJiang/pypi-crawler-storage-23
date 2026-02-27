@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-dimension",
+  "version": "19.0.1.0.0.2",
+  "summary": "Product Dimension",
+  "author": "brain-tec AG, ADHOC SA, Camptocamp SA, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_dimension-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-27T11:54:35.227006",
+  "package_url": "https://pypi.org/project/odoo-addon-product-dimension/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beans-logging-fastapi",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "summary": "This is a HTTP access log module for FastAPI based on 'beans-logging' package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beans_logging_fastapi-5.2.1.tar.gz",
-  "download_time": "2026-02-25T05:22:06.868816",
+  "download_filename": "beans_logging_fastapi-5.2.2.tar.gz",
+  "download_time": "2026-02-27T11:54:08.887100",
   "package_url": "https://pypi.org/project/beans-logging-fastapi/"
 }
