@@ -1,11 +1,11 @@
 {
   "name": "localstack-core",
-  "version": "4.13.1",
+  "version": "4.14.0",
   "summary": "The core library and runtime of LocalStack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "localstack_core-4.13.1.tar.gz",
-  "download_time": "2026-02-18T14:39:15.839921",
+  "download_filename": "localstack_core-4.14.0.tar.gz",
+  "download_time": "2026-02-27T10:01:53.549194",
   "package_url": "https://pypi.org/project/localstack-core/"
 }

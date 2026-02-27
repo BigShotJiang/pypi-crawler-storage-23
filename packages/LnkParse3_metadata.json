@@ -1,0 +1,11 @@
+{
+  "name": "LnkParse3",
+  "version": "1.6.0",
+  "summary": "Windows Shortcut file (LNK) parser",
+  "author": "Matmaus",
+  "license": "MIT",
+  "home_page": "https://github.com/Matmaus/LnkParse",
+  "download_filename": "lnkparse3-1.6.0.tar.gz",
+  "download_time": "2026-02-27T10:01:38.426516",
+  "package_url": "https://pypi.org/project/LnkParse3/"
+}

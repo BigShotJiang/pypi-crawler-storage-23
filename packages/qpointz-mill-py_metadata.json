@@ -1,0 +1,11 @@
+{
+  "name": "qpointz-mill-py",
+  "version": "0.6.0a82676",
+  "summary": "Python client for Mill data services — connect via gRPC or HTTP, query, and consume results as native Python, Arrow, pandas, or polars.",
+  "author": "qpointz",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qpointz_mill_py-0.6.0a82676.tar.gz",
+  "download_time": "2026-02-27T10:01:25.808759",
+  "package_url": "https://pypi.org/project/qpointz-mill-py/"
+}

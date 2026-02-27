@@ -1,0 +1,11 @@
+{
+  "name": "vsjson",
+  "version": "1.0.0",
+  "summary": "A simple example package",
+  "author": "Gavin",
+  "license": null,
+  "home_page": "https://github.com/yourusername/my_package",
+  "download_filename": "vsjson-1.0.0.tar.gz",
+  "download_time": "2026-02-27T10:01:32.192896",
+  "package_url": "https://pypi.org/project/vsjson/"
+}

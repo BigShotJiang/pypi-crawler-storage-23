@@ -1,0 +1,11 @@
+{
+  "name": "dlt-utils",
+  "version": "0.7.3",
+  "summary": "Shared utilities for dlt data pipelines with multi-company support",
+  "author": "Jay van den Bos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dlt_utils-0.7.3.tar.gz",
+  "download_time": "2026-02-27T10:01:46.754382",
+  "package_url": "https://pypi.org/project/dlt-utils/"
+}

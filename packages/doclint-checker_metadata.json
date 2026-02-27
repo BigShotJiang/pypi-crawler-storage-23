@@ -1,0 +1,11 @@
+{
+  "name": "doclint-checker",
+  "version": "0.1.0",
+  "summary": "文档规范检查工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doclint_checker-0.1.0.tar.gz",
+  "download_time": "2026-02-27T10:01:26.849553",
+  "package_url": "https://pypi.org/project/doclint-checker/"
+}

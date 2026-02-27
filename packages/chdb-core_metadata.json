@@ -1,0 +1,11 @@
+{
+  "name": "chdb-core",
+  "version": "0.0.1",
+  "summary": "Core library for chDB - an in-process SQL OLAP Engine powered by ClickHouse",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chdb_core-0.0.1.tar.gz",
+  "download_time": "2026-02-27T10:01:47.274228",
+  "package_url": "https://pypi.org/project/chdb-core/"
+}

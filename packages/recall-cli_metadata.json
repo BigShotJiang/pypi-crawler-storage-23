@@ -1,11 +1,11 @@
 {
   "name": "recall-cli",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A personal semantic memory system — store, search, and manage memories locally with vector embeddings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "recall_cli-0.1.0.tar.gz",
-  "download_time": "2026-02-27T07:14:14.176049",
+  "download_filename": "recall_cli-0.3.0.tar.gz",
+  "download_time": "2026-02-27T10:02:03.596132",
   "package_url": "https://pypi.org/project/recall-cli/"
 }

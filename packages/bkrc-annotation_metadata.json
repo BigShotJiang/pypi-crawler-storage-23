@@ -1,0 +1,11 @@
+{
+  "name": "bkrc-annotation",
+  "version": "1.0.3",
+  "summary": "百科荣创图像标注工具客户端",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bkrc_annotation-1.0.3.tar.gz",
+  "download_time": "2026-02-27T10:01:58.822172",
+  "package_url": "https://pypi.org/project/bkrc-annotation/"
+}

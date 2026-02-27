@@ -1,11 +1,11 @@
 {
   "name": "nwave-ai",
-  "version": "1.1.27",
+  "version": "1.2.0",
   "summary": "Modern CLI installer for nwave with rich terminal UI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nwave_ai-1.1.27.tar.gz",
-  "download_time": "2026-02-25T23:54:07.336338",
+  "download_filename": "nwave_ai-1.2.0.tar.gz",
+  "download_time": "2026-02-27T10:01:23.733141",
   "package_url": "https://pypi.org/project/nwave-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-log-viewer",
+  "version": "1.1.0",
+  "summary": "A beautiful, real-time log viewer with a web UI. Works with Django, Flask, and FastAPI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_log_viewer-1.1.0.tar.gz",
+  "download_time": "2026-02-27T10:01:55.101920",
+  "package_url": "https://pypi.org/project/python-log-viewer/"
+}

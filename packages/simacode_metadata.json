@@ -1,0 +1,11 @@
+{
+  "name": "simacode",
+  "version": "0.2.0",
+  "summary": "SIMA(思码) is a modern AI orchestration workflow framework with intelligent ReAct mechanisms and comprehensive workflow orchestration capabilities",
+  "author": "SimaCode Team",
+  "license": null,
+  "home_page": "https://github.com/QUSEIT/simacode",
+  "download_filename": "simacode-0.2.0.tar.gz",
+  "download_time": "2026-02-27T10:01:51.965342",
+  "package_url": "https://pypi.org/project/simacode/"
+}
