@@ -1,11 +1,11 @@
 {
   "name": "lisdk",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "lidilei de package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lisdk-0.0.6.tar.gz",
-  "download_time": "2026-02-27T09:12:30.676120",
+  "download_filename": "lisdk-0.0.9.tar.gz",
+  "download_time": "2026-02-27T16:32:50.143422",
   "package_url": "https://pypi.org/project/lisdk/"
 }

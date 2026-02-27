@@ -1,0 +1,11 @@
+{
+  "name": "sqltypes",
+  "version": "0.1.10",
+  "summary": "Custom types for SQLModel/SQLalchemy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqltypes-0.1.10.tar.gz",
+  "download_time": "2026-02-27T16:33:05.004899",
+  "package_url": "https://pypi.org/project/sqltypes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-daisy",
+  "version": "2.0.8",
+  "summary": "A modern Django dashboard built with DaisyUI",
+  "author": "Hossein Yaghoubi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/hypy13/django-daisy",
+  "download_filename": "django_daisy-2.0.8.tar.gz",
+  "download_time": "2026-02-27T16:32:38.365790",
+  "package_url": "https://pypi.org/project/django-daisy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "napview",
+  "version": "0.1.1",
+  "summary": "Real-time sleep scoring and analysis visualizer.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "napview-0.1.1.tar.gz",
+  "download_time": "2026-02-27T16:32:40.403255",
+  "package_url": "https://pypi.org/project/napview/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipeframe",
+  "version": "0.2.1",
+  "summary": "Pipe your data naturally - intuitive data manipulation with readable syntax",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipeframe-0.2.1.tar.gz",
+  "download_time": "2026-02-27T16:33:01.183224",
+  "package_url": "https://pypi.org/project/pipeframe/"
+}

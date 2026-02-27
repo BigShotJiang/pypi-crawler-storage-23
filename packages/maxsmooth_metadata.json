@@ -1,0 +1,11 @@
+{
+  "name": "maxsmooth",
+  "version": "1.2.4",
+  "summary": "Derivative-constrained function fitting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxsmooth-1.2.4.tar.gz",
+  "download_time": "2026-02-27T16:33:18.617699",
+  "package_url": "https://pypi.org/project/maxsmooth/"
+}

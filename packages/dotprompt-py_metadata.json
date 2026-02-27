@@ -1,0 +1,11 @@
+{
+  "name": "dotprompt-py",
+  "version": "1.1.0",
+  "summary": "Dotpromptz is a language-neutral executable prompt template file format for Generative AI.",
+  "author": "Google",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotprompt_py-1.1.0.tar.gz",
+  "download_time": "2026-02-27T16:33:15.352505",
+  "package_url": "https://pypi.org/project/dotprompt-py/"
+}

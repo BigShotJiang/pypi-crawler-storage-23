@@ -1,11 +1,11 @@
 {
   "name": "swarm-at-sdk",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Git-native settlement protocol for AI agent workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swarm_at_sdk-0.7.0.tar.gz",
-  "download_time": "2026-02-27T15:08:04.205204",
+  "download_filename": "swarm_at_sdk-0.7.1.tar.gz",
+  "download_time": "2026-02-27T16:33:14.810908",
   "package_url": "https://pypi.org/project/swarm-at-sdk/"
 }

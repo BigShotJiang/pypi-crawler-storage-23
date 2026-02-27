@@ -1,0 +1,11 @@
+{
+  "name": "mangleframes",
+  "version": "0.3.7",
+  "summary": "PySpark DataFrame viewer with modern web UI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mangleframes-0.3.7.tar.gz",
+  "download_time": "2026-02-27T16:32:37.070189",
+  "package_url": "https://pypi.org/project/mangleframes/"
+}

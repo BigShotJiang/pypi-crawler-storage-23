@@ -1,11 +1,11 @@
 {
   "name": "live-casi",
-  "version": "0.7.2",
-  "summary": "Real-time Causal Amplification Security Index Monitor — black-box encryption validation, post-quantum cryptography analysis, causal knowledge graphs",
+  "version": "0.9.1",
+  "summary": "Universal structural analysis: encryption validation, AI text detection (GPT-4o AUC=0.871), author fingerprinting (R@1=76.3%), model collapse prevention. ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "live_casi-0.7.2.tar.gz",
-  "download_time": "2026-02-27T12:37:24.729700",
+  "download_filename": "live_casi-0.9.1.tar.gz",
+  "download_time": "2026-02-27T16:32:56.823955",
   "package_url": "https://pypi.org/project/live-casi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fenicsx-pulse",
+  "version": "0.5.2",
+  "summary": "Next generation cardiac mechanics solver based on FEniCSx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fenicsx_pulse-0.5.2.tar.gz",
+  "download_time": "2026-02-27T16:32:59.033173",
+  "package_url": "https://pypi.org/project/fenicsx-pulse/"
+}

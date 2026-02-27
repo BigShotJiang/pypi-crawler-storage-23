@@ -1,0 +1,11 @@
+{
+  "name": "rubycond_cb",
+  "version": "0.2.0",
+  "summary": "Tool for calibrating a spectrometer wavelengths ",
+  "author": "Yiuri Garino",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CelluleProjet/Rubycond_CB",
+  "download_filename": "rubycond_cb-0.2.0.tar.gz",
+  "download_time": "2026-02-27T16:33:03.909190",
+  "package_url": "https://pypi.org/project/rubycond_cb/"
+}

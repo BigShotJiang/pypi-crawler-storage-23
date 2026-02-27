@@ -1,11 +1,11 @@
 {
   "name": "skills-runtime-sdk",
-  "version": "0.1.4.post2",
+  "version": "0.1.6",
   "summary": "通用 Skills Runtime SDK（Python）最小可测骨架（M1）",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "skills_runtime_sdk-0.1.4.post2.tar.gz",
-  "download_time": "2026-02-25T05:21:58.506859",
+  "download_filename": "skills_runtime_sdk-0.1.6.tar.gz",
+  "download_time": "2026-02-27T16:32:57.947904",
   "package_url": "https://pypi.org/project/skills-runtime-sdk/"
 }

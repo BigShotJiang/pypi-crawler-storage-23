@@ -1,0 +1,11 @@
+{
+  "name": "obj.mpp",
+  "version": "2026.4",
+  "summary": "Object/pattern detection using a Marked Point Process",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/Obj.MPP/",
+  "download_filename": "obj_mpp-2026.4.tar.gz",
+  "download_time": "2026-02-27T16:33:05.548529",
+  "package_url": "https://pypi.org/project/obj.mpp/"
+}

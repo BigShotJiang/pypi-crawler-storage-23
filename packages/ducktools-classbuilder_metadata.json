@@ -1,0 +1,11 @@
+{
+  "name": "ducktools-classbuilder",
+  "version": "0.12.4",
+  "summary": "Toolkit for creating class boilerplate generators",
+  "author": "David C Ellis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ducktools_classbuilder-0.12.4.tar.gz",
+  "download_time": "2026-02-27T16:33:13.724175",
+  "package_url": "https://pypi.org/project/ducktools-classbuilder/"
+}
