@@ -1,11 +1,11 @@
 {
   "name": "dynimg",
-  "version": "0.1.19",
+  "version": "0.1.21",
   "summary": "A fast library for rendering HTML/CSS to images",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dynimg-0.1.19.tar.gz",
-  "download_time": "2026-02-27T01:10:34.165027",
+  "download_filename": "dynimg-0.1.21.tar.gz",
+  "download_time": "2026-02-27T03:40:44.087859",
   "package_url": "https://pypi.org/project/dynimg/"
 }

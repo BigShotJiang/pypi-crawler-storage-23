@@ -1,0 +1,11 @@
+{
+  "name": "smawe-tools",
+  "version": "0.4.3",
+  "summary": "small tool",
+  "author": "Samwe",
+  "license": "MIT",
+  "home_page": "https://github.com/Smawexi/SmaweTools",
+  "download_filename": "smawe_tools-0.4.3.tar.gz",
+  "download_time": "2026-02-27T03:41:10.552301",
+  "package_url": "https://pypi.org/project/smawe-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "semversioner",
+  "version": "2.1.1",
+  "summary": "Manage properly semver in your repository",
+  "author": "Raul Gomis",
+  "license": "MIT",
+  "home_page": "https://github.com/raulgomis/semversioner",
+  "download_filename": "semversioner-2.1.1.tar.gz",
+  "download_time": "2026-02-27T03:40:50.234809",
+  "package_url": "https://pypi.org/project/semversioner/"
+}

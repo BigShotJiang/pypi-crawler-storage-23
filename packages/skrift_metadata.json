@@ -1,11 +1,11 @@
 {
   "name": "skrift",
-  "version": "0.1.0a52",
+  "version": "0.1.0a53",
   "summary": "A lightweight async Python CMS for crafting modern websites",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skrift-0.1.0a52.tar.gz",
-  "download_time": "2026-02-26T23:55:35.393288",
+  "download_filename": "skrift-0.1.0a53.tar.gz",
+  "download_time": "2026-02-27T03:40:39.482746",
   "package_url": "https://pypi.org/project/skrift/"
 }

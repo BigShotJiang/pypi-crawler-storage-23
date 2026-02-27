@@ -1,0 +1,11 @@
+{
+  "name": "feffery-utils-components",
+  "version": "0.3.6",
+  "summary": "Build more utility components for Plotly Dash.",
+  "author": "CNFeffery <fefferypzy@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/CNFeffery/feffery-utils-components",
+  "download_filename": "feffery_utils_components-0.3.6.tar.gz",
+  "download_time": "2026-02-27T03:41:26.661834",
+  "package_url": "https://pypi.org/project/feffery-utils-components/"
+}

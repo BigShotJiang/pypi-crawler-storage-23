@@ -1,0 +1,11 @@
+{
+  "name": "neuralmoves",
+  "version": "0.4.0",
+  "summary": "NeuralMOVES: lightweight microscopic surrogate of EPA MOVES for vehicle CO₂ emissions with fleet-level aggregation layers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuralmoves-0.4.0.tar.gz",
+  "download_time": "2026-02-27T03:41:13.264893",
+  "package_url": "https://pypi.org/project/neuralmoves/"
+}

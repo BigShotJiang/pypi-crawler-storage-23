@@ -1,0 +1,11 @@
+{
+  "name": "p115updatedb",
+  "version": "0.0.12.4",
+  "summary": "把 115 网盘的文件列表导出到数据库",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115updatedb",
+  "download_filename": "p115updatedb-0.0.12.4.tar.gz",
+  "download_time": "2026-02-27T03:41:27.206349",
+  "package_url": "https://pypi.org/project/p115updatedb/"
+}

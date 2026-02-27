@@ -1,0 +1,11 @@
+{
+  "name": "nanowiki",
+  "version": "0.1.0",
+  "summary": "AI-powered project documentation generator using Claude Agent SDK",
+  "author": "FrostMiKu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nanowiki-0.1.0.tar.gz",
+  "download_time": "2026-02-27T03:40:57.466285",
+  "package_url": "https://pypi.org/project/nanowiki/"
+}

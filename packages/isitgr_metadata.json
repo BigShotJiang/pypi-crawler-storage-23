@@ -1,0 +1,11 @@
+{
+  "name": "isitgr",
+  "version": "1.6.5",
+  "summary": "Code for Anisotropies in the Microwave Background",
+  "author": "Antony Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isitgr-1.6.5.tar.gz",
+  "download_time": "2026-02-27T03:40:54.173730",
+  "package_url": "https://pypi.org/project/isitgr/"
+}

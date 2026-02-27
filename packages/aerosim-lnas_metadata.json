@@ -1,0 +1,11 @@
+{
+  "name": "aerosim-lnas",
+  "version": "0.6.7",
+  "summary": "API for Lagrangian Nassu",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aerosim_lnas-0.6.7.tar.gz",
+  "download_time": "2026-02-27T03:40:49.688354",
+  "package_url": "https://pypi.org/project/aerosim-lnas/"
+}

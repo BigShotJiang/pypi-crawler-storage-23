@@ -1,11 +1,11 @@
 {
   "name": "metashape-mcp",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP server for Agisoft Metashape Professional 2.3+",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metashape_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-22T10:46:52.732555",
+  "download_filename": "metashape_mcp-0.3.0.tar.gz",
+  "download_time": "2026-02-27T03:41:09.475531",
   "package_url": "https://pypi.org/project/metashape-mcp/"
 }
