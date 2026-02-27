@@ -1,0 +1,11 @@
+{
+  "name": "gordian",
+  "version": "3.8.2",
+  "summary": "A tool to search and replace files in a Git repo",
+  "author": "Intuit",
+  "license": null,
+  "home_page": "https://github.com/argoproj-labs/gordian",
+  "download_filename": "gordian-3.8.2.tar.gz",
+  "download_time": "2026-02-27T21:23:17.010630",
+  "package_url": "https://pypi.org/project/gordian/"
+}

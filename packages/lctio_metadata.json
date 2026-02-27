@@ -1,0 +1,11 @@
+{
+  "name": "lctio",
+  "version": "0.1.0",
+  "summary": "Livermore Computed Tomography Input Output software (LCTIO)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lctio-0.1.0.tar.gz",
+  "download_time": "2026-02-27T21:22:46.699824",
+  "package_url": "https://pypi.org/project/lctio/"
+}

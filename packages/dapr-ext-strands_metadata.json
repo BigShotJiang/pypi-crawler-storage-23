@@ -1,0 +1,11 @@
+{
+  "name": "dapr-ext-strands",
+  "version": "1.17.0",
+  "summary": "The official release of Dapr Python SDK Strands Agents Extension.",
+  "author": "Dapr Authors",
+  "license": "Apache",
+  "home_page": "https://dapr.io/",
+  "download_filename": "dapr_ext_strands-1.17.0.tar.gz",
+  "download_time": "2026-02-27T21:23:26.335334",
+  "package_url": "https://pypi.org/project/dapr-ext-strands/"
+}

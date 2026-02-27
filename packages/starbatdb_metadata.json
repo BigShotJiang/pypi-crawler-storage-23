@@ -1,0 +1,11 @@
+{
+  "name": "starbatdb",
+  "version": "0.1",
+  "summary": "Lib para banco de dados (DBs)",
+  "author": "StarBat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starbatdb-0.1.tar.gz",
+  "download_time": "2026-02-27T21:23:03.595598",
+  "package_url": "https://pypi.org/project/starbatdb/"
+}

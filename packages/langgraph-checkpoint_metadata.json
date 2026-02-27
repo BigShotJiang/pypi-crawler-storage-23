@@ -1,11 +1,11 @@
 {
   "name": "langgraph-checkpoint",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Library with base interfaces for LangGraph checkpoint savers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_checkpoint-4.0.0.tar.gz",
-  "download_time": "2026-02-26T23:01:42.870548",
+  "download_filename": "langgraph_checkpoint-4.0.1.tar.gz",
+  "download_time": "2026-02-27T21:22:44.771285",
   "package_url": "https://pypi.org/project/langgraph-checkpoint/"
 }
