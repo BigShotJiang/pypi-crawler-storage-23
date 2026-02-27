@@ -1,11 +1,11 @@
 {
   "name": "pymagical",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "A Python port of the MAGICAL hierarchical Bayesian Gibbs sampler for regulatory circuit inference.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "pymagical-1.0.3.tar.gz",
-  "download_time": "2026-02-27T21:22:59.691969",
+  "download_filename": "pymagical-1.1.0.tar.gz",
+  "download_time": "2026-02-27T22:17:36.854208",
   "package_url": "https://pypi.org/project/pymagical/"
 }

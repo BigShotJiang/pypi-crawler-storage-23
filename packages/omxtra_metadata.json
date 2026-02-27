@@ -1,11 +1,11 @@
 {
   "name": "omxtra",
-  "version": "0.0.0.dev533",
+  "version": "0.0.0.dev534",
   "summary": "omxtra",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omxtra-0.0.0.dev533.tar.gz",
-  "download_time": "2026-02-27T01:10:46.852577",
+  "download_filename": "omxtra-0.0.0.dev534.tar.gz",
+  "download_time": "2026-02-27T22:18:18.382447",
   "package_url": "https://pypi.org/project/omxtra/"
 }

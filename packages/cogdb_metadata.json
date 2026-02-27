@@ -1,11 +1,11 @@
 {
   "name": "cogdb",
-  "version": "3.7.1",
+  "version": "3.7.2",
   "summary": "Persistent Embedded Graph Database",
   "author": "Arun Mahendra",
   "license": "MIT",
   "home_page": "http://github.com/arun1729/cog",
-  "download_filename": "cogdb-3.7.1.tar.gz",
-  "download_time": "2026-02-20T20:01:22.896837",
+  "download_filename": "cogdb-3.7.2.tar.gz",
+  "download_time": "2026-02-27T22:17:42.057782",
   "package_url": "https://pypi.org/project/cogdb/"
 }

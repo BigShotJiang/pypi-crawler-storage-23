@@ -1,11 +1,11 @@
 {
   "name": "tasksmind",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "TasksMind Python SDK — The AI Engineer for Developers on Call.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tasksmind-0.1.1.tar.gz",
-  "download_time": "2026-02-27T21:53:21.144179",
+  "download_filename": "tasksmind-0.1.2.tar.gz",
+  "download_time": "2026-02-27T22:17:50.306622",
   "package_url": "https://pypi.org/project/tasksmind/"
 }

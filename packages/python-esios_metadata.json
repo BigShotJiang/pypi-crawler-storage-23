@@ -1,0 +1,11 @@
+{
+  "name": "python-esios",
+  "version": "2.0.0",
+  "summary": "A Python wrapper for the ESIOS API (Spanish electricity market)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_esios-2.0.0.tar.gz",
+  "download_time": "2026-02-27T22:18:15.775763",
+  "package_url": "https://pypi.org/project/python-esios/"
+}

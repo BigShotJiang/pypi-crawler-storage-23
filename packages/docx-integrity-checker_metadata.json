@@ -1,0 +1,11 @@
+{
+  "name": "docx-integrity-checker",
+  "version": "2.0.0",
+  "summary": "Analyzes Word and PDF document metadata to detect academic integrity issues",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx_integrity_checker-2.0.0.tar.gz",
+  "download_time": "2026-02-27T22:18:06.482352",
+  "package_url": "https://pypi.org/project/docx-integrity-checker/"
+}

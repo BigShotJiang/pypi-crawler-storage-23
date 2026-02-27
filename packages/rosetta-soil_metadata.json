@@ -1,0 +1,11 @@
+{
+  "name": "rosetta-soil",
+  "version": "0.3",
+  "summary": "Predict soil hydraulic parameters from basic soil properties.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosetta_soil-0.3.tar.gz",
+  "download_time": "2026-02-27T22:18:25.109123",
+  "package_url": "https://pypi.org/project/rosetta-soil/"
+}
