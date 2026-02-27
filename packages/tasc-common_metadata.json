@@ -1,0 +1,11 @@
+{
+  "name": "tasc-common",
+  "version": "0.0.5",
+  "summary": "Shared utilities for the TASC-stack",
+  "author": "Nasim Rahaman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tasc_common-0.0.5.tar.gz",
+  "download_time": "2026-02-27T12:38:02.405878",
+  "package_url": "https://pypi.org/project/tasc-common/"
+}

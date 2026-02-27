@@ -1,11 +1,11 @@
 {
   "name": "imagin-docs-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Local MCP server for IMAGIN.studio documentation search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imagin_docs_mcp-0.1.8.tar.gz",
-  "download_time": "2026-02-27T11:53:56.980286",
+  "download_filename": "imagin_docs_mcp-0.1.9.tar.gz",
+  "download_time": "2026-02-27T12:37:30.966610",
   "package_url": "https://pypi.org/project/imagin-docs-mcp/"
 }

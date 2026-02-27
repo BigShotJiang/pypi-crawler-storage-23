@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-identity-kit",
+  "version": "0.2.0",
+  "summary": "A production-grade OAuth2/OpenID Connect identity provider built with FastAPI, featuring comprehensive security, multi-factor authentication, and enterprise-ready deployment options.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_identity_kit-0.2.0.tar.gz",
+  "download_time": "2026-02-27T12:37:33.666807",
+  "package_url": "https://pypi.org/project/fastapi-identity-kit/"
+}

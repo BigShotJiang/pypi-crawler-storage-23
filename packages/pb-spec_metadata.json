@@ -1,11 +1,11 @@
 {
   "name": "pb-spec",
-  "version": "0.4.2",
+  "version": "0.4.5",
   "summary": "Plan-Build Spec (pb-spec): A CLI tool for managing AI coding assistant skills",
   "author": "Bob Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "pb_spec-0.4.2.tar.gz",
-  "download_time": "2026-02-23T10:12:45.206010",
+  "download_filename": "pb_spec-0.4.5.tar.gz",
+  "download_time": "2026-02-27T12:38:11.731073",
   "package_url": "https://pypi.org/project/pb-spec/"
 }

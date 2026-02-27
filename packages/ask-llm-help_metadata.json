@@ -1,0 +1,11 @@
+{
+  "name": "ask-llm-help",
+  "version": "0.3.0",
+  "summary": "CLI wrappers for Gemini, Claude, OpenAI and Qwen LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ask_llm_help-0.3.0.tar.gz",
+  "download_time": "2026-02-27T12:37:26.288700",
+  "package_url": "https://pypi.org/project/ask-llm-help/"
+}

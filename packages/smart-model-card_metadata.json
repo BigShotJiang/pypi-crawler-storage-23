@@ -1,0 +1,11 @@
+{
+  "name": "smart-model-card",
+  "version": "3.0.0",
+  "summary": "A Python library for creating structured, standardized model cards for medical AI systems with OMOP CDM integration and multi-format export.",
+  "author": "Ankur Lohachab",
+  "license": "MIT",
+  "home_page": "https://github.com/ankurlohachab/smart-model-card",
+  "download_filename": "smart_model_card-3.0.0.tar.gz",
+  "download_time": "2026-02-27T12:37:23.102300",
+  "package_url": "https://pypi.org/project/smart-model-card/"
+}

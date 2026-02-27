@@ -1,0 +1,11 @@
+{
+  "name": "doccmd",
+  "version": "2026.2.27.1",
+  "summary": "Run commands against code blocks in reStructuredText and Markdown files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doccmd-2026.2.27.1.tar.gz",
+  "download_time": "2026-02-27T12:37:48.427688",
+  "package_url": "https://pypi.org/project/doccmd/"
+}

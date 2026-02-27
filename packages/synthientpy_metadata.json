@@ -1,0 +1,11 @@
+{
+  "name": "synthientpy",
+  "version": "0.3.0",
+  "summary": "Synthient API bindings.",
+  "author": "synthientpy",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "synthientpy-0.3.0.tar.gz",
+  "download_time": "2026-02-27T12:37:49.477514",
+  "package_url": "https://pypi.org/project/synthientpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sintef-pyshop",
-  "version": "1.6.2",
+  "version": "1.7.1",
   "summary": "Python interface to SHOP",
   "author": "SINTEF Energy Research",
   "license": "MIT",
   "home_page": "http://www.sintef.no/programvare/SHOP",
-  "download_filename": "sintef_pyshop-1.6.2.tar.gz",
-  "download_time": "2026-02-18T12:36:59.207769",
+  "download_filename": "sintef_pyshop-1.7.1.tar.gz",
+  "download_time": "2026-02-27T12:38:06.545659",
   "package_url": "https://pypi.org/project/sintef-pyshop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kingspan-connect-sensor",
+  "version": "4.0.0",
+  "summary": "API to get oil tank from Kingspan SENSiT sensors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kingspan_connect_sensor-4.0.0.tar.gz",
+  "download_time": "2026-02-27T12:38:06.027791",
+  "package_url": "https://pypi.org/project/kingspan-connect-sensor/"
+}
