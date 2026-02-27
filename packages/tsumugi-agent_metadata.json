@@ -1,0 +1,11 @@
+{
+  "name": "tsumugi-agent",
+  "version": "0.1.0",
+  "summary": "Tsumugi AI Agent — Claude Code-like coding assistant",
+  "author": "space",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsumugi_agent-0.1.0.tar.gz",
+  "download_time": "2026-02-27T06:09:05.560303",
+  "package_url": "https://pypi.org/project/tsumugi-agent/"
+}

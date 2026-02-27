@@ -1,0 +1,11 @@
+{
+  "name": "tm-data-types",
+  "version": "0.4.0",
+  "summary": "Read and write common Test & Measurement data types.",
+  "author": "Tektronix",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tm_data_types-0.4.0.tar.gz",
+  "download_time": "2026-02-27T06:08:59.384439",
+  "package_url": "https://pypi.org/project/tm-data-types/"
+}

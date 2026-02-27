@@ -1,11 +1,11 @@
 {
   "name": "keephive",
-  "version": "1.2.2",
+  "version": "1.4.2",
   "summary": "A knowledge sidecar for Claude Code",
   "author": "Jory",
   "license": null,
   "home_page": null,
-  "download_filename": "keephive-1.2.2.tar.gz",
-  "download_time": "2026-02-26T05:15:06.419572",
+  "download_filename": "keephive-1.4.2.tar.gz",
+  "download_time": "2026-02-27T06:09:12.828428",
   "package_url": "https://pypi.org/project/keephive/"
 }

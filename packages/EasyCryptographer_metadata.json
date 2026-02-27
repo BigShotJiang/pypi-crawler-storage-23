@@ -1,0 +1,11 @@
+{
+  "name": "EasyCryptographer",
+  "version": "3.5.2",
+  "summary": "EasyCryptographer: Let the user encrypt and decrypt easily",
+  "author": "YanXinle",
+  "license": null,
+  "home_page": "https://gitee.com/yanxinle1123/EasyCryptographer",
+  "download_filename": "easycryptographer-3.5.2.tar.gz",
+  "download_time": "2026-02-27T06:08:50.628407",
+  "package_url": "https://pypi.org/project/EasyCryptographer/"
+}

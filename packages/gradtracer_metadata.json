@@ -1,0 +1,11 @@
+{
+  "name": "gradtracer",
+  "version": "0.7.1",
+  "summary": "Flow-based Diagnostics for Embedding Systems & Compression",
+  "author": "GradTracer Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gradtracer-0.7.1.tar.gz",
+  "download_time": "2026-02-27T06:09:04.016892",
+  "package_url": "https://pypi.org/project/gradtracer/"
+}

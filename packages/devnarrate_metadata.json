@@ -1,0 +1,11 @@
+{
+  "name": "devnarrate",
+  "version": "0.1.0a6",
+  "summary": "MCP server for developer workflow automation — smart commits, secret scanning, PR descriptions, and more.",
+  "author": "K Man",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devnarrate-0.1.0a6.tar.gz",
+  "download_time": "2026-02-27T06:08:41.325844",
+  "package_url": "https://pypi.org/project/devnarrate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "2u-enterprise-subsidy-client",
+  "version": "2.2.1",
+  "summary": "Client for interacting with the enterprise-subsidy service.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/2u-enterprise-subsidy-client",
+  "download_filename": "2u_enterprise_subsidy_client-2.2.1.tar.gz",
+  "download_time": "2026-02-27T06:09:01.968500",
+  "package_url": "https://pypi.org/project/2u-enterprise-subsidy-client/"
+}

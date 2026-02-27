@@ -1,11 +1,11 @@
 {
   "name": "petrosa-data-manager-client",
-  "version": "1.0.53",
+  "version": "1.0.57",
   "summary": "Data integrity, intelligence, and distribution hub for the Petrosa trading ecosystem",
   "author": "Petrosa Systems",
   "license": "MIT",
   "home_page": "https://github.com/petrosa/petrosa-data-manager",
-  "download_filename": "petrosa_data_manager_client-1.0.53.tar.gz",
-  "download_time": "2026-02-24T12:41:00.246605",
+  "download_filename": "petrosa_data_manager_client-1.0.57.tar.gz",
+  "download_time": "2026-02-27T06:08:33.636753",
   "package_url": "https://pypi.org/project/petrosa-data-manager-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agenterm",
+  "version": "0.6.0",
+  "summary": "Terminal-native agent runtime with persistent sessions, branching, and MCP",
+  "author": "Tiziano Contorno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agenterm-0.6.0.tar.gz",
+  "download_time": "2026-02-27T06:08:38.640922",
+  "package_url": "https://pypi.org/project/agenterm/"
+}

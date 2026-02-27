@@ -1,11 +1,11 @@
 {
   "name": "kalign-python",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "summary": "Python wrapper for the Kalign multiple sequence alignment engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kalign_python-3.5.0.tar.gz",
-  "download_time": "2026-02-27T05:08:58.716686",
+  "download_filename": "kalign_python-3.5.1.tar.gz",
+  "download_time": "2026-02-27T06:08:35.793212",
   "package_url": "https://pypi.org/project/kalign-python/"
 }

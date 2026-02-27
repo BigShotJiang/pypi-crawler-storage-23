@@ -1,0 +1,11 @@
+{
+  "name": "tinui",
+  "version": "6.15.0",
+  "summary": "使用tkinter.Canvas绘制现代UI组件",
+  "author": "Smart-Space",
+  "license": "GPL License",
+  "home_page": "https://github.com/Smart-Space/TinUI",
+  "download_filename": "tinui-6.15.0.tar.gz",
+  "download_time": "2026-02-27T06:09:01.456418",
+  "package_url": "https://pypi.org/project/tinui/"
+}
