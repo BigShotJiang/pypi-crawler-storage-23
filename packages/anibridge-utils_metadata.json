@@ -1,0 +1,11 @@
+{
+  "name": "anibridge-utils",
+  "version": "0.1.0",
+  "summary": "Internal shared utilities for the AniBridge project.",
+  "author": "Elias Benbourenane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anibridge_utils-0.1.0.tar.gz",
+  "download_time": "2026-02-27T05:09:29.060504",
+  "package_url": "https://pypi.org/project/anibridge-utils/"
+}

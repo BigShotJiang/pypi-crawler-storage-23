@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-feishu-deployer",
+  "version": "1.0.0",
+  "summary": "🦞 一键部署 OpenClaw + 飞书机器人的可爱工具",
+  "author": "Duka Works",
+  "license": null,
+  "home_page": "https://github.com/dukaworks/openclaw-feishu-deployer",
+  "download_filename": "openclaw_feishu_deployer-1.0.0.tar.gz",
+  "download_time": "2026-02-27T05:09:33.913255",
+  "package_url": "https://pypi.org/project/openclaw-feishu-deployer/"
+}

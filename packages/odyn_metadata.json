@@ -1,0 +1,11 @@
+{
+  "name": "odyn",
+  "version": "0.4.2",
+  "summary": "Odyn is a python client for Business Central Web Services API.",
+  "author": "Akshay Prabhu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odyn-0.4.2.tar.gz",
+  "download_time": "2026-02-27T05:09:06.186361",
+  "package_url": "https://pypi.org/project/odyn/"
+}

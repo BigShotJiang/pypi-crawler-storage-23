@@ -1,0 +1,11 @@
+{
+  "name": "pbs-qhist",
+  "version": "1.1.4",
+  "summary": "A utility to query historical PBS Pro job data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbs_qhist-1.1.4.tar.gz",
+  "download_time": "2026-02-27T05:08:57.464148",
+  "package_url": "https://pypi.org/project/pbs-qhist/"
+}

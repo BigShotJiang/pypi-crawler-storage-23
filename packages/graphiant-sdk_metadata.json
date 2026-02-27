@@ -1,0 +1,11 @@
+{
+  "name": "graphiant-sdk",
+  "version": "26.2.1",
+  "summary": "Graphiant APIs",
+  "author": "Graphiant Inc",
+  "license": null,
+  "home_page": "https://www.graphiant.com",
+  "download_filename": "graphiant_sdk-26.2.1.tar.gz",
+  "download_time": "2026-02-27T05:09:12.075580",
+  "package_url": "https://pypi.org/project/graphiant-sdk/"
+}

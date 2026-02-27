@@ -1,0 +1,11 @@
+{
+  "name": "emergex",
+  "version": "0.0.1",
+  "summary": "A package to describe and optimize for emergent behavior using chemical reaction networks (CRNs). Capable of incorporating empirical data for more precise CRN models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emergex-0.0.1.tar.gz",
+  "download_time": "2026-02-27T05:09:19.088226",
+  "package_url": "https://pypi.org/project/emergex/"
+}

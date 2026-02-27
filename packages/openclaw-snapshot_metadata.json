@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-snapshot",
+  "version": "1.0.0",
+  "summary": "🦞💾 OpenClaw 智能备份与恢复工具 - 留住每一刻",
+  "author": "Duka Works",
+  "license": null,
+  "home_page": "https://github.com/dukaworks/openclaw-snapshot",
+  "download_filename": "openclaw_snapshot-1.0.0.tar.gz",
+  "download_time": "2026-02-27T05:09:28.433277",
+  "package_url": "https://pypi.org/project/openclaw-snapshot/"
+}

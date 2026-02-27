@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-uninstaller",
+  "version": "1.0.0",
+  "summary": "🦞💥 一键彻底卸载 OpenClaw - 温柔地说再见",
+  "author": "Duka Works",
+  "license": null,
+  "home_page": "https://github.com/dukaworks/openclaw-uninstaller",
+  "download_filename": "openclaw_uninstaller-1.0.0.tar.gz",
+  "download_time": "2026-02-27T05:09:30.740761",
+  "package_url": "https://pypi.org/project/openclaw-uninstaller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meme-errors",
+  "version": "0.1.1",
+  "summary": "Play funny meme sounds when Python errors occur!",
+  "author": "Jay Gogra",
+  "license": null,
+  "home_page": "https://github.com/JAY-MU-4098/meme_errors",
+  "download_filename": "meme_errors-0.1.1.tar.gz",
+  "download_time": "2026-02-27T05:08:56.950945",
+  "package_url": "https://pypi.org/project/meme-errors/"
+}

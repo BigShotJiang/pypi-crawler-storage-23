@@ -1,0 +1,11 @@
+{
+  "name": "tinkclaw",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for TinkClaw quant intelligence API",
+  "author": "TinkClaw",
+  "license": null,
+  "home_page": "https://github.com/tinkclaw/tinkclaw-python",
+  "download_filename": "tinkclaw-0.3.0.tar.gz",
+  "download_time": "2026-02-27T05:09:07.782272",
+  "package_url": "https://pypi.org/project/tinkclaw/"
+}

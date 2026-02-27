@@ -1,11 +1,11 @@
 {
   "name": "hyperliquid-sdk",
-  "version": "0.2.2",
-  "summary": "Community SDK for Hyperliquid by QuickNode. One line to place orders, zero ceremony. Not affiliated with Hyperliquid Foundation.",
+  "version": "0.5.3",
+  "summary": "Community SDK for Hyperliquid. One line to place orders, zero ceremony. HyperCore, HyperEVM, WebSocket and gRPC streams. Not affiliated with Hyperliquid Foundation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperliquid_sdk-0.2.2.tar.gz",
-  "download_time": "2026-02-27T01:10:26.696612",
+  "download_filename": "hyperliquid_sdk-0.5.3.tar.gz",
+  "download_time": "2026-02-27T05:09:41.508183",
   "package_url": "https://pypi.org/project/hyperliquid-sdk/"
 }
