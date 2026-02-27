@@ -1,11 +1,11 @@
 {
   "name": "iap-agent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Identity Anchor Protocol SDK for signing requests and offline certificate verification",
   "author": "Identity Anchor Protocol",
   "license": null,
   "home_page": null,
-  "download_filename": "iap_agent-0.1.4.tar.gz",
-  "download_time": "2026-02-27T06:09:11.781753",
+  "download_filename": "iap_agent-0.1.5.tar.gz",
+  "download_time": "2026-02-27T11:22:41.562066",
   "package_url": "https://pypi.org/project/iap-agent/"
 }

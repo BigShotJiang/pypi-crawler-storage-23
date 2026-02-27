@@ -1,0 +1,11 @@
+{
+  "name": "webmate-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for webmate",
+  "author": "webmate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webmate_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-27T11:23:13.817891",
+  "package_url": "https://pypi.org/project/webmate-sdk/"
+}

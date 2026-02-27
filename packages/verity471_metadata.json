@@ -1,0 +1,11 @@
+{
+  "name": "verity471",
+  "version": "1.1.1",
+  "summary": "Official Python SDK for the Verity471 API. Features query validation, instantiated object models, and native STIX mapping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verity471-1.1.1.tar.gz",
+  "download_time": "2026-02-27T11:23:11.014185",
+  "package_url": "https://pypi.org/project/verity471/"
+}

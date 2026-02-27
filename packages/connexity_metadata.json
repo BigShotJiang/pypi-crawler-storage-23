@@ -1,0 +1,11 @@
+{
+  "name": "connexity",
+  "version": "1.0.4",
+  "summary": "A Python client for Connexity API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "connexity-1.0.4.tar.gz",
+  "download_time": "2026-02-27T11:23:14.359237",
+  "package_url": "https://pypi.org/project/connexity/"
+}

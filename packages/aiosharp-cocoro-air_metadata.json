@@ -1,0 +1,11 @@
+{
+  "name": "aiosharp-cocoro-air",
+  "version": "0.1.0",
+  "summary": "Async Python client for the Sharp COCORO Air EU cloud API",
+  "author": "Rafal Sokolowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiosharp_cocoro_air-0.1.0.tar.gz",
+  "download_time": "2026-02-27T11:22:56.846637",
+  "package_url": "https://pypi.org/project/aiosharp-cocoro-air/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ignyx",
+  "version": "1.0.1",
+  "summary": "Rust-powered Python web framework — 10x faster than FastAPI",
+  "author": "Saketh Jangala",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ignyx-1.0.1-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-27T11:22:56.306103",
+  "package_url": "https://pypi.org/project/ignyx/"
+}

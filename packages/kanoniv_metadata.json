@@ -1,0 +1,11 @@
+{
+  "name": "kanoniv",
+  "version": "0.3.4",
+  "summary": "Identity resolution as code",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kanoniv-0.3.4.tar.gz",
+  "download_time": "2026-02-27T11:22:42.647739",
+  "package_url": "https://pypi.org/project/kanoniv/"
+}

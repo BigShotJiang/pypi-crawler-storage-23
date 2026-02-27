@@ -1,11 +1,11 @@
 {
   "name": "mcp-codebase-searcher",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "A Python tool to scan codebases, search for text/regex patterns, and elaborate on findings using AI models via LiteLLM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_codebase_searcher-0.2.5.tar.gz",
-  "download_time": "2026-02-27T10:38:01.969318",
+  "download_filename": "mcp_codebase_searcher-0.2.8.tar.gz",
+  "download_time": "2026-02-27T11:22:54.660202",
   "package_url": "https://pypi.org/project/mcp-codebase-searcher/"
 }

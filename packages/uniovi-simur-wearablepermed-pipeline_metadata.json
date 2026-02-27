@@ -1,0 +1,11 @@
+{
+  "name": "uniovi-simur-wearablepermed-pipeline",
+  "version": "1.13.0",
+  "summary": "Uniovi Simur WearablePerMed Pipeline.",
+  "author": "'Miguel Angel Salinas Gancedo, Alejandro Castellanos Alonso, Antonio Miguel López Rodriguez'",
+  "license": "MIT",
+  "home_page": "https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-pipeline.git",
+  "download_filename": "uniovi_simur_wearablepermed_pipeline-1.13.0.tar.gz",
+  "download_time": "2026-02-27T11:23:11.556134",
+  "package_url": "https://pypi.org/project/uniovi-simur-wearablepermed-pipeline/"
+}

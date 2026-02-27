@@ -1,0 +1,11 @@
+{
+  "name": "omero-rdf",
+  "version": "0.7.2",
+  "summary": "A plugin for exporting RDF from OMERO",
+  "author": "The Open Microscopy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omero_rdf-0.7.2.tar.gz",
+  "download_time": "2026-02-27T11:23:01.173506",
+  "package_url": "https://pypi.org/project/omero-rdf/"
+}
