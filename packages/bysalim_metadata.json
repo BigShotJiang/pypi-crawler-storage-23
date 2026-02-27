@@ -1,11 +1,11 @@
 {
   "name": "bysalim",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "BySalim — AI agent that controls your computer via Telegram",
   "author": "BySalim contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bysalim-2.0.0.tar.gz",
-  "download_time": "2026-02-26T18:32:38.975684",
+  "download_filename": "bysalim-2.0.2.tar.gz",
+  "download_time": "2026-02-27T01:10:32.095990",
   "package_url": "https://pypi.org/project/bysalim/"
 }

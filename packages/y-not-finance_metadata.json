@@ -1,11 +1,11 @@
 {
   "name": "y-not-finance",
-  "version": "1.8.15",
+  "version": "1.8.16",
   "summary": "Financial data library",
   "author": "OneAvocado",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "y_not_finance-1.8.15.tar.gz",
-  "download_time": "2026-02-26T21:54:46.847190",
+  "download_filename": "y_not_finance-1.8.16.tar.gz",
+  "download_time": "2026-02-27T01:11:04.085247",
   "package_url": "https://pypi.org/project/y-not-finance/"
 }

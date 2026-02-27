@@ -1,11 +1,11 @@
 {
   "name": "nocturnusai",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "Python SDK for NocturnusAI — a logic-based inference engine and knowledge database",
   "author": "NocturnusAI Team",
   "license": "Business Source License 1.1",
   "home_page": null,
-  "download_filename": "nocturnusai-0.1.17.tar.gz",
-  "download_time": "2026-02-26T23:01:50.987430",
+  "download_filename": "nocturnusai-0.1.19.tar.gz",
+  "download_time": "2026-02-27T01:10:26.122276",
   "package_url": "https://pypi.org/project/nocturnusai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ascetic-ddd",
+  "version": "0.1.7",
+  "summary": "Toolkit and seedwork for a python DDD project.",
+  "author": "Ivan Zakrevsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ascetic_ddd-0.1.7.tar.gz",
+  "download_time": "2026-02-27T01:10:40.004203",
+  "package_url": "https://pypi.org/project/ascetic-ddd/"
+}

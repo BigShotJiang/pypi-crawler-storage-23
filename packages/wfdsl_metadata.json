@@ -1,0 +1,11 @@
+{
+  "name": "wfdsl",
+  "version": "0.3.11",
+  "summary": "Workflow Domain Specific Language",
+  "author": "Muhammad Mainul Hossain",
+  "license": null,
+  "home_page": "https://github.com/srlabUsask/wfdsl",
+  "download_filename": "wfdsl-0.3.11.tar.gz",
+  "download_time": "2026-02-27T01:11:08.194795",
+  "package_url": "https://pypi.org/project/wfdsl/"
+}

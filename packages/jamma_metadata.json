@@ -1,11 +1,11 @@
 {
   "name": "jamma",
-  "version": "2.6.0",
-  "summary": "JAMMA: JAX-Accelerated Mixed Model Association",
+  "version": "2.7.1",
+  "summary": "Fast Mixed Model Association for GWAS",
   "author": "JAMMA Contributors",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "jamma-2.6.0-py3-none-any.whl",
-  "download_time": "2026-02-26T03:44:20.073468",
+  "download_filename": "jamma-2.7.1-py3-none-any.whl",
+  "download_time": "2026-02-27T01:11:04.595953",
   "package_url": "https://pypi.org/project/jamma/"
 }

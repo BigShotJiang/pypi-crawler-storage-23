@@ -1,11 +1,11 @@
 {
   "name": "tlm-cli",
-  "version": "0.3.9",
-  "summary": "TLM — AI Tech Lead that enforces TDD, tests, and spec compliance in Claude Code.",
+  "version": "0.4.3",
+  "summary": "TLM - Your AI Tech Lead. It's the annoying agent which doesn't let claude cut corners",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tlm_cli-0.3.9.tar.gz",
-  "download_time": "2026-02-26T06:14:13.680369",
+  "download_filename": "tlm_cli-0.4.3.tar.gz",
+  "download_time": "2026-02-27T01:10:55.613745",
   "package_url": "https://pypi.org/project/tlm-cli/"
 }

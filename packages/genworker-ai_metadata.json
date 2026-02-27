@@ -1,0 +1,11 @@
+{
+  "name": "genworker-ai",
+  "version": "0.3.0",
+  "summary": "Desktop AI Agent powered by Claude Computer Use — controls mouse, keyboard & shell via natural language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genworker_ai-0.3.0.tar.gz",
+  "download_time": "2026-02-27T01:10:53.564736",
+  "package_url": "https://pypi.org/project/genworker-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "G722-numpy",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Optional NumPy backend for G.722 module",
   "author": "Maksym Sobolyev",
   "license": "Public-Domain",
   "home_page": "https://github.com/sippy/libg722",
-  "download_filename": "g722_numpy-1.2.4.tar.gz",
-  "download_time": "2026-02-25T23:03:00.309529",
+  "download_filename": "g722_numpy-1.2.5.tar.gz",
+  "download_time": "2026-02-27T01:10:41.641270",
   "package_url": "https://pypi.org/project/G722-numpy/"
 }

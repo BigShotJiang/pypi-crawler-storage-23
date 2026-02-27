@@ -1,11 +1,11 @@
 {
   "name": "crabpath",
-  "version": "6.0.1",
+  "version": "8.0.0",
   "summary": "Memory graph for AI agents that learns what to retrieve — and what to suppress.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "crabpath-6.0.1.tar.gz",
-  "download_time": "2026-02-26T23:55:19.356502",
+  "download_filename": "crabpath-8.0.0.tar.gz",
+  "download_time": "2026-02-27T01:11:05.110334",
   "package_url": "https://pypi.org/project/crabpath/"
 }
