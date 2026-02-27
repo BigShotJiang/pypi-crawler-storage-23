@@ -1,0 +1,11 @@
+{
+  "name": "honeyhive-bundled",
+  "version": "1.1.0",
+  "summary": "HoneyHive Python SDK (Bundled) - LLM Observability and Evaluation Platform with pre-release features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "honeyhive_bundled-1.1.0.tar.gz",
+  "download_time": "2026-02-27T23:02:23.664175",
+  "package_url": "https://pypi.org/project/honeyhive-bundled/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "backio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Literp Fundamental IO Lib",
   "author": "Asinerum Conlang Project",
   "license": "MIT",
   "home_page": "https://github.com/asinerum/backio",
-  "download_filename": "backio-1.0.1.tar.gz",
-  "download_time": "2026-02-27T22:18:13.720309",
+  "download_filename": "backio-1.0.2.tar.gz",
+  "download_time": "2026-02-27T23:02:05.052339",
   "package_url": "https://pypi.org/project/backio/"
 }

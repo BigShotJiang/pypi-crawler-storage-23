@@ -1,0 +1,11 @@
+{
+  "name": "buildathena-sdk",
+  "version": "0.1.28",
+  "summary": "Athena Python SDK for block development",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "buildathena_sdk-0.1.28.tar.gz",
+  "download_time": "2026-02-27T23:01:57.623362",
+  "package_url": "https://pypi.org/project/buildathena-sdk/"
+}

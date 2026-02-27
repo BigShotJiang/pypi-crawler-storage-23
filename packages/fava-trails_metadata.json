@@ -1,11 +1,11 @@
 {
   "name": "fava-trails",
-  "version": "0.4.4",
+  "version": "0.4.9",
   "summary": "FAVA Trails 🫛👣 — Federated Agents Versioned Audit Trail. VCS-backed memory for AI agents via MCP.",
   "author": "Machine Wisdom Solutions Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fava_trails-0.4.4.tar.gz",
-  "download_time": "2026-02-27T11:53:51.366971",
+  "download_filename": "fava_trails-0.4.9.tar.gz",
+  "download_time": "2026-02-27T23:02:07.451390",
   "package_url": "https://pypi.org/project/fava-trails/"
 }

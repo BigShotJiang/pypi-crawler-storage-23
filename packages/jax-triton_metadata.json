@@ -1,0 +1,11 @@
+{
+  "name": "jax-triton",
+  "version": "0.3.1",
+  "summary": "JAX + OpenAI Triton integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax_triton-0.3.1.tar.gz",
+  "download_time": "2026-02-27T23:02:20.801790",
+  "package_url": "https://pypi.org/project/jax-triton/"
+}

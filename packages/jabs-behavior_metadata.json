@@ -1,11 +1,11 @@
 {
   "name": "jabs-behavior",
-  "version": "0.41.0a5",
+  "version": "0.41.0",
   "summary": "JABS behavior event processing and postprocessing filters",
   "author": "Glen Beane, Alexander Berger-Liedtka, Keith Sheppard",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "jabs_behavior-0.41.0a5.tar.gz",
-  "download_time": "2026-02-26T17:46:44.678772",
+  "download_filename": "jabs_behavior-0.41.0.tar.gz",
+  "download_time": "2026-02-27T23:02:26.383120",
   "package_url": "https://pypi.org/project/jabs-behavior/"
 }
