@@ -1,11 +1,11 @@
 {
   "name": "fliiq",
-  "version": "1.18.0",
+  "version": "1.18.1",
   "summary": "The AI agent that builds itself",
   "author": "Fliiq AI",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "fliiq-1.18.0.tar.gz",
-  "download_time": "2026-02-28T23:38:57.639444",
+  "download_filename": "fliiq-1.18.1.tar.gz",
+  "download_time": "2026-02-28T23:57:05.182199",
   "package_url": "https://pypi.org/project/fliiq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py-wraps-data-types",
+  "version": "0.1.1",
+  "summary": "Foundational data types and schemas for scalable Python wrappers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_wraps_data_types-0.1.1.tar.gz",
+  "download_time": "2026-02-28T23:56:58.340410",
+  "package_url": "https://pypi.org/project/py-wraps-data-types/"
+}

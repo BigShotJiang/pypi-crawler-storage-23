@@ -1,11 +1,11 @@
 {
   "name": "mcp-print",
-  "version": "0.2.2",
-  "summary": "MCP server for professional print and color workflows — 2400+ Pantone colors, CMYK/RGB conversion, ink/cost estimation, ICC profiles, spot color separation, and more.",
+  "version": "0.3.0",
+  "summary": "MCP server for professional print and color workflows — 2400+ Pantone colors, CMYK/RGB conversion, ink/cost estimation, ICC profiles, spot color separation, preflight checks, substrate simulation, and more.",
   "author": "mcp-print contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_print-0.2.2.tar.gz",
-  "download_time": "2026-02-28T22:58:42.986561",
+  "download_filename": "mcp_print-0.3.0.tar.gz",
+  "download_time": "2026-02-28T23:57:08.346314",
   "package_url": "https://pypi.org/project/mcp-print/"
 }

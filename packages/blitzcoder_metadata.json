@@ -1,11 +1,11 @@
 {
   "name": "blitzcoder",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "AI-powered development assistant for code generation, refactoring, and project management",
   "author": "BlitzCoder Team",
   "license": "MIT",
   "home_page": "https://github.com/Raghu6798/Blitz_Coder",
-  "download_filename": "blitzcoder-1.0.21.tar.gz",
-  "download_time": "2026-02-28T23:39:07.439419",
+  "download_filename": "blitzcoder-1.0.22.tar.gz",
+  "download_time": "2026-02-28T23:57:08.867147",
   "package_url": "https://pypi.org/project/blitzcoder/"
 }

@@ -1,12 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-28T23:39:11.483692
-- **Total Packages**: 86
-- **Total Size**: 27.14 MB
+- **Download Time**: 2026-02-28T23:57:40.663321
+- **Total Packages**: 88
+- **Total Size**: 5.86 MB
 
 ## Packages List
 - scpn-quantum-control
+- tandem-client
+- pygents
+- daz-agent-sdk
+- testigo-recall-mcp
+- intercept-agent
+- ai-atlasforge
+- polyphon
+- salmalm
+- llm-eco-sim
+- py-wraps-data-types
+- antaris-memory
+- falk
+- vibe-check-cli
+- otel-instrumentation-claude-agent-sdk
+- screaming-frog-mcp
+- faff-cli
+- rusket
+- eis-insurance
+- abopus
+- robot-keyframe-kit
+- eis-numbergenerator
+- agentcents
+- fliiq
+- eis-gdv
+- dna-rag
+- worker-core-lib
+- iris-vector-rag
+- headerkit
+- mcp-print
+- blitzcoder
+- aquiles-image
+- veritail
+- agentinit
+- OmniSTEval
+- juvenal
+- pyiol-client
 - nv-ingest
 - catwatch
 - nv-ingest-client
@@ -22,7 +58,6 @@
 - lamia-lang
 - wibu-downloader
 - drp-dev
-- vibe-check-cli
 - solveig
 - soma-sdk
 - opensecagent
@@ -52,43 +87,10 @@
 - odoo-addon-hr-timesheet-sheet
 - trussme
 - secry
-- juvenal
 - foundry-sandbox
 - foundry-mcp
 - sc-utility
 - antaris-suite
 - mkdocs-superquiz
-- antaris-memory
 - eis-claims
 - discord-protos
-- agentspend-sdk
-- familiar-agent
-- affinity-sdk
-- airflow-calendar
-- hexagon
-- fliiq
-- eis-billing
-- google-analytics-4-mcp
-- pyhqiv
-- xeroml-sdk
-- changedetection.io
-- neurogebra
-- wafer-ai
-- salmalm
-- eis-accounting
-- parsehealthlog
-- kagi-cli
-- odoo-addon-account-statement-import-online-wise
-- lightrag-mcp
-- pulumiverse-scaleway
-- veritail
-- muban-cli
-- seqmat
-- blitzcoder
-- coflect
-- stepcount
-- phykit
-- orze
-- open-medicine
-- pycep-parser
-- tasksmind

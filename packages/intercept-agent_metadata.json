@@ -1,11 +1,11 @@
 {
   "name": "intercept-agent",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Intercept Developer Posture Agent - collects developer environment data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "intercept_agent-0.3.7.tar.gz",
-  "download_time": "2026-02-28T22:43:22.831884",
+  "download_filename": "intercept_agent-0.3.8.tar.gz",
+  "download_time": "2026-02-28T23:56:55.670356",
   "package_url": "https://pypi.org/project/intercept-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polyphon",
+  "version": "1.0.0",
+  "summary": "Implementation of phonetic Polyphon algorithm (PyO3 core wrapper)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyphon-1.0.0.tar.gz",
+  "download_time": "2026-02-28T23:56:56.724704",
+  "package_url": "https://pypi.org/project/polyphon/"
+}
