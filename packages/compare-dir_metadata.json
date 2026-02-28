@@ -1,11 +1,11 @@
 {
   "name": "compare-dir",
-  "version": "0.1.0",
-  "summary": "Tool to compare two directories",
+  "version": "0.1.1",
+  "summary": "Tool to compare files in two directories",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "compare_dir-0.1.0.tar.gz",
-  "download_time": "2026-02-28T18:58:06.188874",
+  "download_filename": "compare_dir-0.1.1.tar.gz",
+  "download_time": "2026-02-28T19:17:59.694274",
   "package_url": "https://pypi.org/project/compare-dir/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dayz-dev-tools",
+  "version": "1.9.0",
+  "summary": "Useful tools for DayZ mod developers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dayz_dev_tools-1.9.0.tar.gz",
+  "download_time": "2026-02-28T19:18:18.205497",
+  "package_url": "https://pypi.org/project/dayz-dev-tools/"
+}

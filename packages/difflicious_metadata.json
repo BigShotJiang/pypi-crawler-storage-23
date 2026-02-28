@@ -1,0 +1,11 @@
+{
+  "name": "difflicious",
+  "version": "0.11.0",
+  "summary": "A sleek web-based git diff visualization tool for developers",
+  "author": "Drew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "difflicious-0.11.0.tar.gz",
+  "download_time": "2026-02-28T19:17:55.865053",
+  "package_url": "https://pypi.org/project/difflicious/"
+}

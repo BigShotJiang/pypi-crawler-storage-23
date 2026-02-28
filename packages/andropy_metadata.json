@@ -1,11 +1,11 @@
 {
   "name": "andropy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python framework to create native Android apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "andropy-0.1.1.tar.gz",
-  "download_time": "2026-02-28T18:57:33.784500",
+  "download_filename": "andropy-0.1.2.tar.gz",
+  "download_time": "2026-02-28T19:18:07.333253",
   "package_url": "https://pypi.org/project/andropy/"
 }

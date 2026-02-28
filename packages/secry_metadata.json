@@ -1,0 +1,11 @@
+{
+  "name": "secry",
+  "version": "1.1.6",
+  "summary": "AES-256-GCM token encryption — interoperable with Node.js secry",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "secry-1.1.6.tar.gz",
+  "download_time": "2026-02-28T19:18:10.032374",
+  "package_url": "https://pypi.org/project/secry/"
+}

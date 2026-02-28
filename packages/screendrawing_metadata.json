@@ -1,11 +1,11 @@
 {
   "name": "screendrawing",
-  "version": "1.4.5",
-  "summary": "Lightweight Wayland/X11 screen drawing tool",
+  "version": "1.7.0",
+  "summary": "Lightweight screen drawing tool for Linux and Windows",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "screendrawing-1.4.5.tar.gz",
-  "download_time": "2026-02-23T19:44:35.136746",
+  "download_filename": "screendrawing-1.7.0.tar.gz",
+  "download_time": "2026-02-28T19:17:52.426442",
   "package_url": "https://pypi.org/project/screendrawing/"
 }
