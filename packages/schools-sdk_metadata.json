@@ -1,0 +1,11 @@
+{
+  "name": "schools-sdk",
+  "version": "0.3.0",
+  "summary": "The official Python library for the schools API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "schools_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-28T07:57:12.743300",
+  "package_url": "https://pypi.org/project/schools-sdk/"
+}

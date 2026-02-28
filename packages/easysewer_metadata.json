@@ -1,11 +1,11 @@
 {
   "name": "easysewer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "An urban drainage modeling toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easysewer-1.0.1.tar.gz",
-  "download_time": "2026-02-28T07:05:49.686304",
+  "download_filename": "easysewer-1.0.2.tar.gz",
+  "download_time": "2026-02-28T07:57:25.602078",
   "package_url": "https://pypi.org/project/easysewer/"
 }

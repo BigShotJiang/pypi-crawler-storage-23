@@ -1,11 +1,11 @@
 {
   "name": "llmoptimize",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Reduce LLM API costs by 90% with automatic tracking and AI-powered recommendations",
   "author": "AIOptimize Team",
   "license": "Proprietary",
   "home_page": "https://github.com/hackrudra1234/aioptimize",
-  "download_filename": "llmoptimize-2.1.0.tar.gz",
-  "download_time": "2026-02-28T07:41:55.050226",
+  "download_filename": "llmoptimize-2.1.1.tar.gz",
+  "download_time": "2026-02-28T07:57:08.553530",
   "package_url": "https://pypi.org/project/llmoptimize/"
 }

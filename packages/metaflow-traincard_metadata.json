@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-traincard",
+  "version": "0.1.0",
+  "summary": "Real-time training observability cards for Metaflow — framework-agnostic, zero infra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaflow_traincard-0.1.0.tar.gz",
+  "download_time": "2026-02-28T07:56:59.294254",
+  "package_url": "https://pypi.org/project/metaflow-traincard/"
+}

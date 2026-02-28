@@ -1,0 +1,11 @@
+{
+  "name": "gsr",
+  "version": "1.0.5",
+  "summary": "Gerald's Screen Recorder, a lightweight, motion-optimized screen recorder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsr-1.0.5.tar.gz",
+  "download_time": "2026-02-28T07:57:02.639074",
+  "package_url": "https://pypi.org/project/gsr/"
+}
