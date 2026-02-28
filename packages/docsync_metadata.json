@@ -1,0 +1,11 @@
+{
+  "name": "docsync",
+  "version": "0.1.282050",
+  "summary": "Google Docs tabs to Markdown CLI sync tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docsync-0.1.282050.tar.gz",
+  "download_time": "2026-02-28T19:53:36.860248",
+  "package_url": "https://pypi.org/project/docsync/"
+}

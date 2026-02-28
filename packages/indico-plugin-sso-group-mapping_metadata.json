@@ -1,0 +1,11 @@
+{
+  "name": "indico-plugin-sso-group-mapping",
+  "version": "1.0.3",
+  "summary": "SSO group mapping plugin for Indico",
+  "author": "University of Bonn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "indico_plugin_sso_group_mapping-1.0.3.tar.gz",
+  "download_time": "2026-02-28T19:53:47.422683",
+  "package_url": "https://pypi.org/project/indico-plugin-sso-group-mapping/"
+}

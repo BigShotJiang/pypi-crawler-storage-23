@@ -1,0 +1,11 @@
+{
+  "name": "synesis-lsp",
+  "version": "0.14.15",
+  "summary": "Language Server Protocol para Synesis v1.1",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synesis_lsp-0.14.15.tar.gz",
+  "download_time": "2026-02-28T19:53:51.609265",
+  "package_url": "https://pypi.org/project/synesis-lsp/"
+}

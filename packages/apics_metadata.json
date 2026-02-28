@@ -1,11 +1,11 @@
 {
   "name": "apics",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Literp Compact Server",
   "author": "Asinerum Conlang Project",
   "license": "MIT",
   "home_page": "https://github.com/asinerum/apics",
-  "download_filename": "apics-1.0.3.tar.gz",
-  "download_time": "2026-02-27T23:26:28.590422",
+  "download_filename": "apics-1.0.4.tar.gz",
+  "download_time": "2026-02-28T19:53:55.246427",
   "package_url": "https://pypi.org/project/apics/"
 }

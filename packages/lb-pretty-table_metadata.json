@@ -1,0 +1,11 @@
+{
+  "name": "lb-pretty-table",
+  "version": "0.0.1",
+  "summary": "Professional TUI table generator with auto-alignment",
+  "author": "logic-break",
+  "license": null,
+  "home_page": "https://github.com/logic-break/lb-pretty-table",
+  "download_filename": "lb_pretty_table-0.0.1.tar.gz",
+  "download_time": "2026-02-28T19:53:48.988190",
+  "package_url": "https://pypi.org/project/lb-pretty-table/"
+}

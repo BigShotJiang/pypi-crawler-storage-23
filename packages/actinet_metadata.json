@@ -1,0 +1,11 @@
+{
+  "name": "actinet",
+  "version": "0.6.0",
+  "summary": "Activity detection algorithm compatible with the UK Biobank Accelerometer Dataset",
+  "author": "Aidan Acquah, Shing Chan, Aiden Doherty",
+  "license": "See LICENSE file.",
+  "home_page": "https://github.com/OxWearables/actinet",
+  "download_filename": "actinet-0.6.0.tar.gz",
+  "download_time": "2026-02-28T19:53:53.171594",
+  "package_url": "https://pypi.org/project/actinet/"
+}
