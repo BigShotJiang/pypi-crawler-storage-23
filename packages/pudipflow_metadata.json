@@ -1,11 +1,11 @@
 {
   "name": "pudipflow",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "summary": "PUDIPFlow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pudipflow-0.1.2.tar.gz",
-  "download_time": "2026-02-28T11:54:13.043583",
+  "download_filename": "pudipflow-0.1.1.tar.gz",
+  "download_time": "2026-02-28T12:28:18.418168",
   "package_url": "https://pypi.org/project/pudipflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-invoices",
-  "version": "1.8.4",
+  "version": "1.9.0",
   "summary": "Framework-agnostic invoice management with pluggable storage backends",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_invoices-1.8.4.tar.gz",
-  "download_time": "2026-02-27T11:53:55.956927",
+  "download_filename": "py_invoices-1.9.0.tar.gz",
+  "download_time": "2026-02-28T12:28:11.018819",
   "package_url": "https://pypi.org/project/py-invoices/"
 }

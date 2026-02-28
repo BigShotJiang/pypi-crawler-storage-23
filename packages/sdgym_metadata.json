@@ -1,11 +1,11 @@
 {
   "name": "sdgym",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "Benchmark tabular synthetic data generators using a variety of datasets",
   "author": null,
-  "license": "BSL-1.1",
+  "license": null,
   "home_page": null,
-  "download_filename": "sdgym-0.13.0.tar.gz",
-  "download_time": "2026-02-28T09:59:29.887619",
+  "download_filename": "sdgym-0.13.1.tar.gz",
+  "download_time": "2026-02-28T12:27:52.658015",
   "package_url": "https://pypi.org/project/sdgym/"
 }

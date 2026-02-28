@@ -1,11 +1,11 @@
 {
   "name": "remoji-tg-mcp",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "summary": "Telegram Emoji Search & Selection MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remoji_tg_mcp-0.4.1.tar.gz",
-  "download_time": "2026-02-28T11:53:58.055997",
+  "download_filename": "remoji_tg_mcp-0.4.4.tar.gz",
+  "download_time": "2026-02-28T12:28:23.824545",
   "package_url": "https://pypi.org/project/remoji-tg-mcp/"
 }

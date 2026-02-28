@@ -1,11 +1,11 @@
 {
   "name": "recursivist",
-  "version": "1.4.8",
+  "version": "1.4.11",
   "summary": "A command-line tool for visualizing directory structures",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "recursivist-1.4.8.tar.gz",
-  "download_time": "2026-02-27T05:09:10.509767",
+  "download_filename": "recursivist-1.4.11.tar.gz",
+  "download_time": "2026-02-28T12:28:45.078391",
   "package_url": "https://pypi.org/project/recursivist/"
 }

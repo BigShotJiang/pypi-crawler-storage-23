@@ -1,0 +1,11 @@
+{
+  "name": "LLaMArch",
+  "version": "0.1.0",
+  "summary": "Building Block Architectures for GenAI",
+  "author": "gpavanb1",
+  "license": "MIT",
+  "home_page": "https://github.com/gpavanb1/llamarch-docs",
+  "download_filename": "llamarch-0.1.0.tar.gz",
+  "download_time": "2026-02-28T12:28:17.781793",
+  "package_url": "https://pypi.org/project/LLaMArch/"
+}

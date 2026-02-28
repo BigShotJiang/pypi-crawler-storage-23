@@ -1,11 +1,11 @@
 {
   "name": "rabbitllm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Run 70B+ LLMs on a single 4GB GPU — no quantization required. Layer-streaming inference for consumer hardware.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rabbitllm-1.0.0.tar.gz",
-  "download_time": "2026-02-22T15:59:18.782061",
+  "download_filename": "rabbitllm-1.1.0.tar.gz",
+  "download_time": "2026-02-28T12:28:00.952234",
   "package_url": "https://pypi.org/project/rabbitllm/"
 }
