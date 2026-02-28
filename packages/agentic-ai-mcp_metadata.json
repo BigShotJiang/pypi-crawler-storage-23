@@ -1,11 +1,11 @@
 {
   "name": "agentic-ai-mcp",
-  "version": "0.1.0",
-  "summary": "A production-grade multi-agent AI orchestration framework",
+  "version": "0.5.4",
+  "summary": "A lightweight agentic AI framework with MCP tool serving",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_ai_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-22T12:26:46.077399",
+  "download_filename": "agentic_ai_mcp-0.5.4.tar.gz",
+  "download_time": "2026-02-28T15:16:29.362875",
   "package_url": "https://pypi.org/project/agentic-ai-mcp/"
 }

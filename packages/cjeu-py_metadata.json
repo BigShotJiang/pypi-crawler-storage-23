@@ -1,11 +1,11 @@
 {
   "name": "cjeu-py",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python toolkit for empirical research on the Court of Justice of the European Union",
   "author": "Niccolò Ridi",
   "license": null,
   "home_page": null,
-  "download_filename": "cjeu_py-0.2.0.tar.gz",
-  "download_time": "2026-02-28T01:15:31.694503",
+  "download_filename": "cjeu_py-0.2.1.tar.gz",
+  "download_time": "2026-02-28T15:16:22.436866",
   "package_url": "https://pypi.org/project/cjeu-py/"
 }

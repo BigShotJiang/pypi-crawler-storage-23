@@ -1,0 +1,11 @@
+{
+  "name": "grapec",
+  "version": "0.2.0",
+  "summary": "Load protobuf and grpc definition file dynamiclly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grapec-0.2.0.tar.gz",
+  "download_time": "2026-02-28T15:16:21.904818",
+  "package_url": "https://pypi.org/project/grapec/"
+}

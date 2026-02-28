@@ -1,0 +1,11 @@
+{
+  "name": "minipy-framework",
+  "version": "0.1.0",
+  "summary": "A simple Python web framework",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minipy_framework-0.1.0.tar.gz",
+  "download_time": "2026-02-28T15:16:27.234048",
+  "package_url": "https://pypi.org/project/minipy-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fontforge-ref-sel-util",
+  "version": "0.1.1",
+  "summary": "Utility FontForge_plugin on references and selections",
+  "author": "MihailJP",
+  "license": "MIT",
+  "home_page": "https://github.com/MihailJP/fontforge-ref-sel-util",
+  "download_filename": "fontforge_ref_sel_util-0.1.1.tar.gz",
+  "download_time": "2026-02-28T15:16:26.169653",
+  "package_url": "https://pypi.org/project/fontforge-ref-sel-util/"
+}

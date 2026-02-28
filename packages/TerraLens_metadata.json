@@ -1,11 +1,11 @@
 {
   "name": "TerraLens",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Terraform TUI viewer",
   "author": "Bubu",
   "license": null,
   "home_page": null,
-  "download_filename": "terralens-0.1.1.tar.gz",
-  "download_time": "2026-02-28T13:51:18.167868",
+  "download_filename": "terralens-0.1.2.tar.gz",
+  "download_time": "2026-02-28T15:16:23.509925",
   "package_url": "https://pypi.org/project/TerraLens/"
 }
