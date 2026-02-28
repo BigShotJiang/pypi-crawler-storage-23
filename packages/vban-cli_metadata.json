@@ -1,11 +1,11 @@
 {
   "name": "vban-cli",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A command-line interface for Voicemeeter leveraging VBAN.",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "vban_cli-0.4.0.tar.gz",
-  "download_time": "2026-02-27T23:02:18.656805",
+  "download_filename": "vban_cli-0.4.1.tar.gz",
+  "download_time": "2026-02-28T13:51:15.001575",
   "package_url": "https://pypi.org/project/vban-cli/"
 }

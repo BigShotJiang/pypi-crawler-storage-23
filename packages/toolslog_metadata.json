@@ -1,0 +1,11 @@
+{
+  "name": "toolslog",
+  "version": "0.1.1",
+  "summary": "Opinionated Python logging config for local dev and Cloud Run/Functions",
+  "author": "MH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolslog-0.1.1.tar.gz",
+  "download_time": "2026-02-28T13:51:12.376892",
+  "package_url": "https://pypi.org/project/toolslog/"
+}

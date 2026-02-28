@@ -1,11 +1,11 @@
 {
   "name": "ez-ptc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Easy Programmatic Tool Calling — framework-agnostic multi-tool execution for any LLM",
   "author": "Abhishek Satish",
   "license": null,
   "home_page": null,
-  "download_filename": "ez_ptc-0.1.1.tar.gz",
-  "download_time": "2026-02-28T11:14:56.276710",
+  "download_filename": "ez_ptc-0.1.2.tar.gz",
+  "download_time": "2026-02-28T13:51:27.186354",
   "package_url": "https://pypi.org/project/ez-ptc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mobot-bridge-update",
-  "version": "4.5.6",
-  "summary": "MobotAgentService code-only update package v4.5.6",
+  "version": "4.5.7",
+  "summary": "MobotAgentService code-only update package v4.5.7",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mobot_bridge_update-4.5.6-py3-none-any.whl",
-  "download_time": "2026-02-28T12:28:08.094133",
+  "download_filename": "mobot_bridge_update-4.5.7-py3-none-any.whl",
+  "download_time": "2026-02-28T13:51:24.551672",
   "package_url": "https://pypi.org/project/mobot-bridge-update/"
 }

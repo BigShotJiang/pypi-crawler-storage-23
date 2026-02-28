@@ -1,0 +1,11 @@
+{
+  "name": "mindkosh",
+  "version": "1.0.3",
+  "summary": "Mindkosh Python SDK",
+  "author": "Mindkosh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Mindkosh/mindkosh-python-sdk",
+  "download_filename": "mindkosh-1.0.3.tar.gz",
+  "download_time": "2026-02-28T13:51:32.629371",
+  "package_url": "https://pypi.org/project/mindkosh/"
+}

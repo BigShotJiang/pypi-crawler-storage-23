@@ -1,0 +1,11 @@
+{
+  "name": "pysvgedit",
+  "version": "0.0.6",
+  "summary": "Native Python library to create and edit SVG documents",
+  "author": "Johannes Bauer",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/johndoe31415/pysvgedit",
+  "download_filename": "pysvgedit-0.0.6.tar.gz",
+  "download_time": "2026-02-28T13:51:23.474582",
+  "package_url": "https://pypi.org/project/pysvgedit/"
+}

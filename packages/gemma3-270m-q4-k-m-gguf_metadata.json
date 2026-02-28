@@ -1,0 +1,11 @@
+{
+  "name": "gemma3-270m-q4-k-m-gguf",
+  "version": "1.0.0",
+  "summary": "Gemma 3 270M GGUF in Q4_K_M, assembled from PyPI chunk packages.",
+  "author": "OpenAI Codex workspace packaging",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemma3_270m_q4_k_m_gguf-1.0.0-py3-none-any.whl",
+  "download_time": "2026-02-28T13:51:10.811038",
+  "package_url": "https://pypi.org/project/gemma3-270m-q4-k-m-gguf/"
+}

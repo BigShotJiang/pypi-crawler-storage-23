@@ -1,0 +1,11 @@
+{
+  "name": "ai-injection-guard",
+  "version": "0.1.0",
+  "summary": "Lightweight prompt injection detector for LLM applications. Blocks injection attacks before they reach your model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_injection_guard-0.1.0.tar.gz",
+  "download_time": "2026-02-28T13:51:21.364221",
+  "package_url": "https://pypi.org/project/ai-injection-guard/"
+}

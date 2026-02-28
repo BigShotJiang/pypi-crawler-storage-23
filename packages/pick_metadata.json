@@ -1,0 +1,11 @@
+{
+  "name": "pick",
+  "version": "2.6.0",
+  "summary": "Pick an option in the terminal with a simple GUI",
+  "author": "wong2",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pick-2.6.0.tar.gz",
+  "download_time": "2026-02-28T13:50:56.029458",
+  "package_url": "https://pypi.org/project/pick/"
+}

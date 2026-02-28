@@ -1,11 +1,11 @@
 {
   "name": "eagleliz",
-  "version": "0.0.9",
-  "summary": "Add your description here",
+  "version": "0.0.19",
+  "summary": "Eagle.cool related utility scripts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eagleliz-0.0.9.tar.gz",
-  "download_time": "2026-02-28T10:17:41.136178",
+  "download_filename": "eagleliz-0.0.19.tar.gz",
+  "download_time": "2026-02-28T13:50:57.091406",
   "package_url": "https://pypi.org/project/eagleliz/"
 }

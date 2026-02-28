@@ -1,0 +1,11 @@
+{
+  "name": "easylora",
+  "version": "0.1.1",
+  "summary": "Batteries-included toolkit for LoRA / QLoRA fine-tuning with Hugging Face Transformers",
+  "author": "easylora contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "easylora-0.1.1.tar.gz",
+  "download_time": "2026-02-28T13:51:02.367942",
+  "package_url": "https://pypi.org/project/easylora/"
+}
