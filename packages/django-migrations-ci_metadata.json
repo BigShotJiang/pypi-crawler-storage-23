@@ -1,0 +1,11 @@
+{
+  "name": "django-migrations-ci",
+  "version": "0.13",
+  "summary": "Django migrations CI optimization",
+  "author": "Iuri de Silvio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_migrations_ci-0.13.tar.gz",
+  "download_time": "2026-02-28T20:58:50.023642",
+  "package_url": "https://pypi.org/project/django-migrations-ci/"
+}

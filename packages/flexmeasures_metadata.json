@@ -1,0 +1,11 @@
+{
+  "name": "flexmeasures",
+  "version": "0.31.0",
+  "summary": "The *FlexMeasures Platform* is the intelligent backend to support real-time energy flexibility apps, rapidly and scalable.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flexmeasures-0.31.0.tar.gz",
+  "download_time": "2026-02-28T20:59:06.214359",
+  "package_url": "https://pypi.org/project/flexmeasures/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "puup",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Potentially Universally Unique Phrase generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "puup-0.1.5.tar.gz",
-  "download_time": "2026-02-28T20:43:54.196777",
+  "download_filename": "puup-0.1.8.tar.gz",
+  "download_time": "2026-02-28T20:59:03.419483",
   "package_url": "https://pypi.org/project/puup/"
 }

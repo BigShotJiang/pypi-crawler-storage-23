@@ -1,11 +1,11 @@
 {
   "name": "gwp-py",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python client for the GQL Wire Protocol (GWP)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gwp_py-0.1.5.tar.gz",
-  "download_time": "2026-02-19T16:14:17.996961",
+  "download_filename": "gwp_py-0.1.6.tar.gz",
+  "download_time": "2026-02-28T20:58:56.073988",
   "package_url": "https://pypi.org/project/gwp-py/"
 }
