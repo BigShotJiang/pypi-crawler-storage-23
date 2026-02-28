@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mysql-explorer",
+  "version": "0.1.0",
+  "summary": "MCP server for querying MySQL databases — let AI agents explore schemas, run queries, and manage data via Model Context Protocol.",
+  "author": "soullove",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_mysql_explorer-0.1.0.tar.gz",
+  "download_time": "2026-02-28T07:41:50.735325",
+  "package_url": "https://pypi.org/project/mcp-mysql-explorer/"
+}

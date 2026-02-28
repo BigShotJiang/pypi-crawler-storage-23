@@ -1,0 +1,11 @@
+{
+  "name": "inscript-lang",
+  "version": "0.5.0",
+  "summary": "InScript — A game-focused programming language with built-in ECS, physics, AI, networking, and UI",
+  "author": "InScript Team",
+  "license": "MIT",
+  "home_page": "https://github.com/inscript-lang/inscript",
+  "download_filename": "inscript_lang-0.5.0-py3-none-any.whl",
+  "download_time": "2026-02-28T07:42:12.148528",
+  "package_url": "https://pypi.org/project/inscript-lang/"
+}

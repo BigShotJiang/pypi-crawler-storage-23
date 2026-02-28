@@ -1,0 +1,11 @@
+{
+  "name": "llm-diff",
+  "version": "1.0.0",
+  "summary": "A CLI tool for comparing LLM outputs — semantically, visually, and at scale",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_diff-1.0.0.tar.gz",
+  "download_time": "2026-02-28T07:42:11.108814",
+  "package_url": "https://pypi.org/project/llm-diff/"
+}

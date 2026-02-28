@@ -1,11 +1,11 @@
 {
   "name": "nb-cache",
-  "version": "0.1.0",
+  "version": "0.2",
   "summary": "更强的缓存装饰器，支持同步和异步函数，支持加锁防止缓存击穿，支持内存和Redis作为缓存器，支持Redis+内存双缓存提高性能",
   "author": "ydf0509",
   "license": null,
   "home_page": null,
-  "download_filename": "nb_cache-0.1.0.tar.gz",
-  "download_time": "2026-02-28T07:05:48.637513",
+  "download_filename": "nb_cache-0.2.tar.gz",
+  "download_time": "2026-02-28T07:41:53.434684",
   "package_url": "https://pypi.org/project/nb-cache/"
 }

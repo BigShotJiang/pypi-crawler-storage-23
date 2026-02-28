@@ -1,11 +1,11 @@
 {
   "name": "vibe-collab",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "AI-powered project collaboration framework with three-mode CLI (IDE/interactive/agent)",
   "author": "VibeCollab Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_collab-0.9.5.tar.gz",
-  "download_time": "2026-02-28T06:28:24.797953",
+  "download_filename": "vibe_collab-0.9.6.tar.gz",
+  "download_time": "2026-02-28T07:41:56.582436",
   "package_url": "https://pypi.org/project/vibe-collab/"
 }
