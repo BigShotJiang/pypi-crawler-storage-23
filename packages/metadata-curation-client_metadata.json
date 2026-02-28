@@ -1,11 +1,11 @@
 {
   "name": "metadata-curation-client",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "API client for metadata curation platforms",
   "author": "Digital Edition Curation Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metadata_curation_client-0.9.3.tar.gz",
-  "download_time": "2026-02-28T16:47:45.203748",
+  "download_filename": "metadata_curation_client-0.9.4.tar.gz",
+  "download_time": "2026-02-28T17:01:52.930925",
   "package_url": "https://pypi.org/project/metadata-curation-client/"
 }

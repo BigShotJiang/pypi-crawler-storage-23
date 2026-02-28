@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-webpanel",
+  "version": "0.1.2",
+  "summary": "A plug-and-play SQLite admin panel for FastAPI — beautiful, fast, and intelligent by default.",
+  "author": "Purva Sanjay Patel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlite_webpanel-0.1.2.tar.gz",
+  "download_time": "2026-02-28T17:01:35.090014",
+  "package_url": "https://pypi.org/project/sqlite-webpanel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "devmemory",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "DevMemory is a long‑term memory for AI coding agents. Make AI knowledge searchable.",
   "author": "DevMemory",
   "license": null,
   "home_page": null,
-  "download_filename": "devmemory-0.1.31.tar.gz",
-  "download_time": "2026-02-28T16:47:58.637134",
+  "download_filename": "devmemory-0.1.32.tar.gz",
+  "download_time": "2026-02-28T17:01:49.636356",
   "package_url": "https://pypi.org/project/devmemory/"
 }

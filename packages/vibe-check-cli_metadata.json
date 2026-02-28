@@ -1,11 +1,11 @@
 {
   "name": "vibe-check-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "🎵 Security auditor for vibe-coded repos — 95% deterministic, 25x cheaper than competitors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_check_cli-0.1.4.tar.gz",
-  "download_time": "2026-02-28T16:47:38.515048",
+  "download_filename": "vibe_check_cli-0.1.5.tar.gz",
+  "download_time": "2026-02-28T17:01:52.413770",
   "package_url": "https://pypi.org/project/vibe-check-cli/"
 }

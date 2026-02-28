@@ -1,0 +1,11 @@
+{
+  "name": "egocrowd",
+  "version": "0.1.0",
+  "summary": "Crowdsourced egocentric manipulation data pipeline for robot learning",
+  "author": null,
+  "license": "CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "egocrowd-0.1.0.tar.gz",
+  "download_time": "2026-02-28T17:01:27.639543",
+  "package_url": "https://pypi.org/project/egocrowd/"
+}
