@@ -1,11 +1,11 @@
 {
   "name": "skill-scanner",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "summary": "Security scanner for AI agent skills and instruction artifacts",
   "author": "skill-scanner",
   "license": null,
   "home_page": null,
-  "download_filename": "skill_scanner-0.1.6.tar.gz",
-  "download_time": "2026-02-24T13:58:38.864312",
+  "download_filename": "skill_scanner-0.2.1.tar.gz",
+  "download_time": "2026-02-28T00:00:00.343801",
   "package_url": "https://pypi.org/project/skill-scanner/"
 }

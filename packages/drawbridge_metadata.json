@@ -1,0 +1,11 @@
+{
+  "name": "drawbridge",
+  "version": "0.1.2",
+  "summary": "SSRF-safe HTTP client for Python. Opinionated httpx wrapper that blocks private IPs, prevents DNS rebinding, and validates redirects.",
+  "author": "Rahul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drawbridge-0.1.2.tar.gz",
+  "download_time": "2026-02-27T23:59:57.249297",
+  "package_url": "https://pypi.org/project/drawbridge/"
+}
