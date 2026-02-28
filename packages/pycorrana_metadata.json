@@ -1,11 +1,11 @@
 {
   "name": "pycorrana",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Python Correlation Analysis Toolkit - 自动化相关性分析工具",
   "author": "Sidney Zhang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycorrana-0.1.9.tar.gz",
-  "download_time": "2026-02-28T07:05:29.981745",
+  "download_filename": "pycorrana-0.1.10.tar.gz",
+  "download_time": "2026-02-28T09:59:50.721967",
   "package_url": "https://pypi.org/project/pycorrana/"
 }

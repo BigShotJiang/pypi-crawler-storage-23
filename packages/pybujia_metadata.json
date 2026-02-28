@@ -1,0 +1,11 @@
+{
+  "name": "pybujia",
+  "version": "0.1.0",
+  "summary": "Enables human-readable formats like Markdown or Spark's .show() for unit test input/expected tables — easy to document and version, making test data changes simple to track and review",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybujia-0.1.0.tar.gz",
+  "download_time": "2026-02-28T09:59:23.115697",
+  "package_url": "https://pypi.org/project/pybujia/"
+}

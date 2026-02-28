@@ -1,11 +1,11 @@
 {
   "name": "pollyweb-aws",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AWS helpers for PollyWeb.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pollyweb_aws-1.0.1.tar.gz",
-  "download_time": "2026-02-28T09:49:43.772689",
+  "download_filename": "pollyweb_aws-1.0.2.tar.gz",
+  "download_time": "2026-02-28T09:59:29.369816",
   "package_url": "https://pypi.org/project/pollyweb-aws/"
 }

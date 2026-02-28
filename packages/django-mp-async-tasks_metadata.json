@@ -1,0 +1,11 @@
+{
+  "name": "django-mp-async-tasks",
+  "version": "0.0.2",
+  "summary": "Django async tasks",
+  "author": "Paul Maigutyak",
+  "license": "MIT",
+  "home_page": "https://github.com/pmaigutyak/mp-async-tasks",
+  "download_filename": "django_mp_async_tasks-0.0.2.tar.gz",
+  "download_time": "2026-02-28T09:59:44.047873",
+  "package_url": "https://pypi.org/project/django-mp-async-tasks/"
+}

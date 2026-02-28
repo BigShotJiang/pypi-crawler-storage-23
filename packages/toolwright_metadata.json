@@ -1,0 +1,11 @@
+{
+  "name": "toolwright",
+  "version": "1.0.0a2",
+  "summary": "Self-expanding, self-repairing, human-correctable tool infrastructure for AI agents",
+  "author": "Tom Allicino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolwright-1.0.0a2.tar.gz",
+  "download_time": "2026-02-28T09:59:31.530025",
+  "package_url": "https://pypi.org/project/toolwright/"
+}

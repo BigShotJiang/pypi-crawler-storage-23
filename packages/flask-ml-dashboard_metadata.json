@@ -1,11 +1,11 @@
 {
   "name": "flask-ml-dashboard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Flask CLI tool to scaffold ML dashboard projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flask_ml_dashboard-0.1.1.tar.gz",
-  "download_time": "2026-02-28T05:23:09.704789",
+  "download_filename": "flask_ml_dashboard-0.1.2.tar.gz",
+  "download_time": "2026-02-28T09:59:50.203796",
   "package_url": "https://pypi.org/project/flask-ml-dashboard/"
 }
