@@ -1,11 +1,11 @@
 {
   "name": "dna-rag",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "DNA analysis RAG pipeline powered by LLMs",
-  "author": null,
+  "author": "ilia iakhin",
   "license": null,
   "home_page": null,
-  "download_filename": "dna_rag-1.0.0.tar.gz",
-  "download_time": "2026-02-28T17:40:57.473571",
+  "download_filename": "dna_rag-1.1.0.tar.gz",
+  "download_time": "2026-02-28T21:16:28.683061",
   "package_url": "https://pypi.org/project/dna-rag/"
 }

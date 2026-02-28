@@ -1,0 +1,11 @@
+{
+  "name": "dnsight",
+  "version": "0.1.1",
+  "summary": "DNS, email, and web security hygiene SDK and CLI for DevOps and security engineers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dnsight-0.1.1.tar.gz",
+  "download_time": "2026-02-28T21:16:25.059141",
+  "package_url": "https://pypi.org/project/dnsight/"
+}

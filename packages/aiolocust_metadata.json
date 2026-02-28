@@ -1,0 +1,11 @@
+{
+  "name": "aiolocust",
+  "version": "0.3.0",
+  "summary": "Add your description here",
+  "author": "Lars Holmberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiolocust-0.3.0.tar.gz",
+  "download_time": "2026-02-28T21:16:31.786278",
+  "package_url": "https://pypi.org/project/aiolocust/"
+}

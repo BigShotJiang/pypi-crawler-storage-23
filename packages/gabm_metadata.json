@@ -1,11 +1,11 @@
 {
   "name": "gabm",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Generative Agent-Based Model (GABM) framework.",
   "author": "GABM Contributors",
   "license": "BSD License",
   "home_page": "https://github.com/compolis/GABM",
-  "download_filename": "gabm-0.2.10.tar.gz",
-  "download_time": "2026-02-27T23:48:19.616847",
+  "download_filename": "gabm-0.2.12.tar.gz",
+  "download_time": "2026-02-28T21:16:34.874957",
   "package_url": "https://pypi.org/project/gabm/"
 }

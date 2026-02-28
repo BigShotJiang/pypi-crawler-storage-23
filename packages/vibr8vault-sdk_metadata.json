@@ -1,0 +1,11 @@
+{
+  "name": "vibr8vault-sdk",
+  "version": "0.5.0",
+  "summary": "Python SDK for Vibr8Vault — a self-hosted secrets manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibr8vault_sdk-0.5.0.tar.gz",
+  "download_time": "2026-02-28T21:16:36.921919",
+  "package_url": "https://pypi.org/project/vibr8vault-sdk/"
+}

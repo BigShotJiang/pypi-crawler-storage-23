@@ -1,11 +1,11 @@
 {
   "name": "repowire",
-  "version": "0.3.4",
+  "version": "0.4.1",
   "summary": "Mesh network for AI coding agents - enables Claude Code and OpenCode sessions to communicate",
   "author": "Prassanna Ravishankar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "repowire-0.3.4.tar.gz",
-  "download_time": "2026-02-25T01:16:33.022025",
+  "download_filename": "repowire-0.4.1.tar.gz",
+  "download_time": "2026-02-28T21:16:43.063769",
   "package_url": "https://pypi.org/project/repowire/"
 }

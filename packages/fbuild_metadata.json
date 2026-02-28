@@ -1,11 +1,11 @@
 {
   "name": "fbuild",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "summary": "Modern replacement for PlatformIO with URL-based platform/toolchain management and bug-free architecture",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/fastled/fbuild",
-  "download_filename": "fbuild-1.4.10-py3-none-any.whl",
-  "download_time": "2026-02-24T03:47:09.609489",
+  "download_filename": "fbuild-1.4.11-py3-none-any.whl",
+  "download_time": "2026-02-28T21:16:35.389480",
   "package_url": "https://pypi.org/project/fbuild/"
 }

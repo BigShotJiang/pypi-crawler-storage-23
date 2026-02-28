@@ -1,11 +1,11 @@
 {
   "name": "simgen-vla",
-  "version": "3.4.6",
+  "version": "3.4.7",
   "summary": "VLA: Zero-Error GPU Arithmetic for Scientific Computing. Exact results, every calculation.",
   "author": "Clouthier Simulation Labs",
   "license": "Proprietary",
   "home_page": "https://simgen.dev",
-  "download_filename": "simgen_vla-3.4.6-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-28T19:53:42.736458",
+  "download_filename": "simgen_vla-3.4.7-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-28T21:16:25.597038",
   "package_url": "https://pypi.org/project/simgen-vla/"
 }

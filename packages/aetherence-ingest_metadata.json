@@ -1,0 +1,11 @@
+{
+  "name": "aetherence-ingest",
+  "version": "0.1.0",
+  "summary": "The foundational library for the Aetherence framework in Python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aetherence_ingest-0.1.0.tar.gz",
+  "download_time": "2026-02-28T21:16:52.836959",
+  "package_url": "https://pypi.org/project/aetherence-ingest/"
+}

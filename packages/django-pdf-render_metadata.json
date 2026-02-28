@@ -1,0 +1,11 @@
+{
+  "name": "django-pdf-render",
+  "version": "0.1.4",
+  "summary": "Archived package. Use django-gotenberg for Django PDF rendering.",
+  "author": "Leonhard Kuboschek",
+  "license": "BSD-3-Clause  # Example license",
+  "home_page": "https://www.example.com/",
+  "download_filename": "django_pdf_render-0.1.4.tar.gz",
+  "download_time": "2026-02-28T21:16:27.139948",
+  "package_url": "https://pypi.org/project/django-pdf-render/"
+}

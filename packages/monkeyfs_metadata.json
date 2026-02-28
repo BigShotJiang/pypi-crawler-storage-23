@@ -1,0 +1,11 @@
+{
+  "name": "monkeyfs",
+  "version": "0.1.1",
+  "summary": "Transparent filesystem interception via monkey-patching.",
+  "author": "ashenfad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "monkeyfs-0.1.1.tar.gz",
+  "download_time": "2026-02-28T21:16:59.566479",
+  "package_url": "https://pypi.org/project/monkeyfs/"
+}

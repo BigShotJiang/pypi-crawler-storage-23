@@ -1,11 +1,11 @@
 {
   "name": "fcp-midi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "MIDI File Context Protocol — semantic MIDI composition for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fcp_midi-0.1.2.tar.gz",
-  "download_time": "2026-02-28T18:22:43.675747",
+  "download_filename": "fcp_midi-0.1.3.tar.gz",
+  "download_time": "2026-02-28T21:16:26.625687",
   "package_url": "https://pypi.org/project/fcp-midi/"
 }
