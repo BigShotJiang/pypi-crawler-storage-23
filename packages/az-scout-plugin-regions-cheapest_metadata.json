@@ -1,0 +1,11 @@
+{
+  "name": "az-scout-plugin-regions-cheapest",
+  "version": "0.1.0",
+  "summary": "az-scout plugin: Regions Cheapest – choropleth, bar chart & table of VM pricing by region",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "az_scout_plugin_regions_cheapest-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:38:47.349805",
+  "package_url": "https://pypi.org/project/az-scout-plugin-regions-cheapest/"
+}

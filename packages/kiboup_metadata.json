@@ -1,0 +1,11 @@
+{
+  "name": "kiboup",
+  "version": "0.1.0",
+  "summary": "Framework-agnostic library for deploying AI agents via HTTP, A2A, and MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiboup-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:38:36.551719",
+  "package_url": "https://pypi.org/project/kiboup/"
+}

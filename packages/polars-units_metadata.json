@@ -1,11 +1,11 @@
 {
   "name": "polars-units",
-  "version": "0.1.0a0",
+  "version": "0.1.0a1",
   "summary": "Unit management for polars",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_units-0.1.0a0.tar.gz",
-  "download_time": "2026-02-28T22:42:44.533991",
+  "download_filename": "polars_units-0.1.0a1.tar.gz",
+  "download_time": "2026-02-28T23:38:46.835731",
   "package_url": "https://pypi.org/project/polars-units/"
 }

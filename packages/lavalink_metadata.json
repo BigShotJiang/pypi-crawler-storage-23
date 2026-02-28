@@ -1,0 +1,11 @@
+{
+  "name": "lavalink",
+  "version": "5.10.0",
+  "summary": "A Lavalink WebSocket & API wrapper built around coverage, reliability and performance.",
+  "author": "Devoxin",
+  "license": null,
+  "home_page": "https://github.com/Devoxin/Lavalink.py",
+  "download_filename": "lavalink-5.10.0.tar.gz",
+  "download_time": "2026-02-28T23:38:40.150247",
+  "package_url": "https://pypi.org/project/lavalink/"
+}

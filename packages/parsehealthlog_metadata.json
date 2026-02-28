@@ -1,0 +1,11 @@
+{
+  "name": "parsehealthlog",
+  "version": "0.1.6",
+  "summary": "AI-powered tool for structuring and auditing personal health logs",
+  "author": "Tiago Silva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parsehealthlog-0.1.6.tar.gz",
+  "download_time": "2026-02-28T23:39:03.339086",
+  "package_url": "https://pypi.org/project/parsehealthlog/"
+}

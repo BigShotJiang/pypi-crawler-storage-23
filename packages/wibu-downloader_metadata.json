@@ -1,11 +1,11 @@
 {
   "name": "wibu-downloader",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "summary": "yt-dlp extractor for animeinweb.com",
   "author": "Asep5K",
   "license": null,
   "home_page": null,
-  "download_filename": "wibu_downloader-2.1.3.tar.gz",
-  "download_time": "2026-02-21T08:54:17.364261",
+  "download_filename": "wibu_downloader-2.1.4.tar.gz",
+  "download_time": "2026-02-28T23:38:32.907754",
   "package_url": "https://pypi.org/project/wibu-downloader/"
 }

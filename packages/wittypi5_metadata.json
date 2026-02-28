@@ -1,0 +1,11 @@
+{
+  "name": "wittypi5",
+  "version": "0.1.0",
+  "summary": "Python driver for Witty Pi 5 HAT+ on Raspberry Pi 5",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wittypi5-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:38:31.358135",
+  "package_url": "https://pypi.org/project/wittypi5/"
+}

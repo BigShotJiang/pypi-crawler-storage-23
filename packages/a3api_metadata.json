@@ -1,0 +1,11 @@
+{
+  "name": "a3api",
+  "version": "0.1.0",
+  "summary": "Official Python client for the A3 Age Assurance API",
+  "author": "A3 API Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "a3api-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:38:30.831826",
+  "package_url": "https://pypi.org/project/a3api/"
+}
