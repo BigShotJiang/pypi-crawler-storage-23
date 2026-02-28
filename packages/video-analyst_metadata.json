@@ -1,0 +1,11 @@
+{
+  "name": "video-analyst",
+  "version": "0.1.0",
+  "summary": "Analyze videos and produce AI reproduction plans using Veo 3 and Nano Banana 2",
+  "author": "getvrex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_analyst-0.1.0.tar.gz",
+  "download_time": "2026-02-28T20:18:43.136663",
+  "package_url": "https://pypi.org/project/video-analyst/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eva-shell",
+  "version": "0.2.45",
+  "summary": "EVA ICS v4 shell",
+  "author": "Bohemia Automation / Altertech",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/eva-ics/eva4",
+  "download_filename": "eva_shell-0.2.45.tar.gz",
+  "download_time": "2026-02-28T20:18:40.508858",
+  "package_url": "https://pypi.org/project/eva-shell/"
+}

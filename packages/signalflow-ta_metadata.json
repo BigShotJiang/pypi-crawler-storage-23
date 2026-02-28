@@ -1,0 +1,11 @@
+{
+  "name": "signalflow-ta",
+  "version": "0.6.0",
+  "summary": "Technical analysis extension for signalflow-trading.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signalflow_ta-0.6.0.tar.gz",
+  "download_time": "2026-02-28T20:19:12.956155",
+  "package_url": "https://pypi.org/project/signalflow-ta/"
+}

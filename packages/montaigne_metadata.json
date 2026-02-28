@@ -1,11 +1,11 @@
 {
   "name": "montaigne",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Media processing toolkit for presentation localization",
   "author": "Yann Debray",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "montaigne-1.1.2.tar.gz",
-  "download_time": "2026-02-28T15:57:07.877347",
+  "download_filename": "montaigne-1.2.0.tar.gz",
+  "download_time": "2026-02-28T20:19:01.452187",
   "package_url": "https://pypi.org/project/montaigne/"
 }

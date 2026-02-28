@@ -1,0 +1,11 @@
+{
+  "name": "auditgate",
+  "version": "0.1.0",
+  "summary": "Compliance-grade audit logging for agent systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auditgate-0.1.0.tar.gz",
+  "download_time": "2026-02-28T20:18:41.598536",
+  "package_url": "https://pypi.org/project/auditgate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymcurl",
+  "version": "8.18.0.1",
+  "summary": "Manage outbound HTTP connections using Curl & CurlMulti",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymcurl-8.18.0.1.tar.gz",
+  "download_time": "2026-02-28T20:19:04.600800",
+  "package_url": "https://pypi.org/project/pymcurl/"
+}

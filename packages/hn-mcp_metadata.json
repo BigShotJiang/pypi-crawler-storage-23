@@ -1,0 +1,11 @@
+{
+  "name": "hn-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for browsing full Hacker News API, with no limits with regards to depth etc",
+  "author": "Tomasz Wójcik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hn_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-28T20:18:51.604226",
+  "package_url": "https://pypi.org/project/hn-mcp/"
+}

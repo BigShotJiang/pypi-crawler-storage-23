@@ -1,11 +1,11 @@
 {
   "name": "janus-labs",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "3DMark for AI Agents - Profile AI coding agent capabilities across code quality, error resilience, and context retention",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "janus_labs-0.8.2.tar.gz",
-  "download_time": "2026-02-28T19:17:58.601330",
+  "download_filename": "janus_labs-0.8.3.tar.gz",
+  "download_time": "2026-02-28T20:19:07.682996",
   "package_url": "https://pypi.org/project/janus-labs/"
 }

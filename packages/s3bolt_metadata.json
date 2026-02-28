@@ -1,0 +1,11 @@
+{
+  "name": "s3bolt",
+  "version": "0.2.0",
+  "summary": "High-performance S3 file copy tool — concurrent, async, built in Rust",
+  "author": "cykruss",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s3bolt-0.2.0.tar.gz",
+  "download_time": "2026-02-28T20:18:48.867022",
+  "package_url": "https://pypi.org/project/s3bolt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arq-optimus",
+  "version": "0.27.0",
+  "summary": "ARQ fork with key-prefix isolation, cancellable jobs, and multi-project Redis support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arq_optimus-0.27.0.tar.gz",
+  "download_time": "2026-02-28T20:18:56.842186",
+  "package_url": "https://pypi.org/project/arq-optimus/"
+}

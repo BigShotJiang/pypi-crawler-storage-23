@@ -1,11 +1,11 @@
 {
   "name": "trustguard",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Lightweight, extensible Python framework that validates LLM inputs and outputs with fast rule-based validation and pluggable AI judges",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trustguard-0.2.3.tar.gz",
-  "download_time": "2026-02-28T14:41:56.807523",
+  "download_filename": "trustguard-0.2.4.tar.gz",
+  "download_time": "2026-02-28T20:18:57.353680",
   "package_url": "https://pypi.org/project/trustguard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "okareo-mcp",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Okareo MCP erver for AI model evaluation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "okareo_mcp-0.0.13.tar.gz",
-  "download_time": "2026-02-28T05:57:35.425177",
+  "download_filename": "okareo_mcp-0.0.14.tar.gz",
+  "download_time": "2026-02-28T20:18:50.509072",
   "package_url": "https://pypi.org/project/okareo-mcp/"
 }
