@@ -1,0 +1,11 @@
+{
+  "name": "minkdb",
+  "version": "0.1.0",
+  "summary": "A metadata-link between iTunes and MusicBrainz",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minkdb-0.1.0.tar.gz",
+  "download_time": "2026-02-28T18:22:45.317440",
+  "package_url": "https://pypi.org/project/minkdb/"
+}

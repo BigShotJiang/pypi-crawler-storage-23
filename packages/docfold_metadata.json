@@ -1,11 +1,11 @@
 {
   "name": "docfold",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Turn any document into structured data. Unified interface for document structuring engines with built-in evaluation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docfold-0.6.2.tar.gz",
-  "download_time": "2026-02-28T14:41:59.880634",
+  "download_filename": "docfold-0.6.3.tar.gz",
+  "download_time": "2026-02-28T18:22:46.932441",
   "package_url": "https://pypi.org/project/docfold/"
 }

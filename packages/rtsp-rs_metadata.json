@@ -1,0 +1,11 @@
+{
+  "name": "rtsp-rs",
+  "version": "0.1.4",
+  "summary": "Python bindings for the RTSP server library — publish live encoded video over RTSP from Python.",
+  "author": "the rtsp-rs authors",
+  "license": "MIT",
+  "home_page": "https://github.com/marmikshah/rtsp-rs",
+  "download_filename": "rtsp_rs-0.1.4-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-28T18:22:30.689322",
+  "package_url": "https://pypi.org/project/rtsp-rs/"
+}

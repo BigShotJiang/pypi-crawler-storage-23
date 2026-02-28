@@ -1,0 +1,11 @@
+{
+  "name": "muvit",
+  "version": "0.1.0",
+  "summary": "Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "muvit-0.1.0.tar.gz",
+  "download_time": "2026-02-28T18:22:51.256366",
+  "package_url": "https://pypi.org/project/muvit/"
+}

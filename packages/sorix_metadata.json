@@ -1,11 +1,11 @@
 {
   "name": "sorix",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A minimalistic and high-performance Machine Learning library based on NumPy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sorix-1.0.3.tar.gz",
-  "download_time": "2026-02-18T23:29:26.006477",
+  "download_filename": "sorix-1.0.5.tar.gz",
+  "download_time": "2026-02-28T18:22:53.416027",
   "package_url": "https://pypi.org/project/sorix/"
 }

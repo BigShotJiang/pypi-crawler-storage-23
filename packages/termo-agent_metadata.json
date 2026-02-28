@@ -1,11 +1,11 @@
 {
   "name": "termo-agent",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Open-source serverless runtime for AI agents — bring any framework, get a production HTTP server with SSE streaming, sessions, auth, and memory.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "termo_agent-0.3.0.tar.gz",
-  "download_time": "2026-02-28T03:23:34.662537",
+  "download_filename": "termo_agent-0.3.1.tar.gz",
+  "download_time": "2026-02-28T18:22:42.599830",
   "package_url": "https://pypi.org/project/termo-agent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "newcode",
-  "version": "0.1.17",
+  "version": "0.2.1",
   "summary": "AI-powered code generation agent platform",
   "author": "Jan Feddersen, Michael Pfaffenberger (original code-puppy author)",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "newcode-0.1.17.tar.gz",
-  "download_time": "2026-02-28T17:41:04.284258",
+  "download_filename": "newcode-0.2.1.tar.gz",
+  "download_time": "2026-02-28T18:22:29.613103",
   "package_url": "https://pypi.org/project/newcode/"
 }

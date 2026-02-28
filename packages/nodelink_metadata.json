@@ -1,11 +1,11 @@
 {
   "name": "nodelink",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A high-level Python multiplayer library. Just works.",
   "author": "Alexander",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nodelink-0.4.0.tar.gz",
-  "download_time": "2026-02-28T07:05:25.617889",
+  "download_filename": "nodelink-0.4.1.tar.gz",
+  "download_time": "2026-02-28T18:22:51.793627",
   "package_url": "https://pypi.org/project/nodelink/"
 }

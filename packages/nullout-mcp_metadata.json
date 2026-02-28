@@ -1,0 +1,11 @@
+{
+  "name": "nullout-mcp",
+  "version": "1.1.4",
+  "summary": "MCP server that finds and safely removes undeletable files on Windows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nullout_mcp-1.1.4.tar.gz",
+  "download_time": "2026-02-28T18:22:40.987551",
+  "package_url": "https://pypi.org/project/nullout-mcp/"
+}

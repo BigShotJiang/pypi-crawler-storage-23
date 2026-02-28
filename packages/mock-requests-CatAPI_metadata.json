@@ -1,0 +1,11 @@
+{
+  "name": "mock-requests-CatAPI",
+  "version": "0.0.2",
+  "summary": "mock requests: pre-cached per-URL; missing URLs fetched and cached automatically.",
+  "author": "Martin Oman",
+  "license": "MIT",
+  "home_page": "https://example.com/mock-requests-restcountries",
+  "download_filename": "mock_requests_catapi-0.0.2.tar.gz",
+  "download_time": "2026-02-28T18:22:48.543928",
+  "package_url": "https://pypi.org/project/mock-requests-CatAPI/"
+}

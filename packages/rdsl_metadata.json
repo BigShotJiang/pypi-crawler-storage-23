@@ -1,11 +1,11 @@
 {
   "name": "rdsl",
-  "version": "0.0.1",
-  "summary": "This is a template repository for Python projects that use uv for their dependency management.",
+  "version": "0.0.2",
+  "summary": "A powerful Domain Specific Language (DSL) for expressive molecule selection and extraction in RDKit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rdsl-0.0.1.tar.gz",
-  "download_time": "2026-02-28T17:40:33.012741",
+  "download_filename": "rdsl-0.0.2.tar.gz",
+  "download_time": "2026-02-28T18:22:38.830032",
   "package_url": "https://pypi.org/project/rdsl/"
 }

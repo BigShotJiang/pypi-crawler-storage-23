@@ -1,0 +1,11 @@
+{
+  "name": "medium2md-cli",
+  "version": "0.1.0",
+  "summary": "Convert a Medium export ZIP into Hugo-ready Markdown page bundles with localized images.",
+  "author": "Edgar Bermudez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "medium2md_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-28T18:22:35.529697",
+  "package_url": "https://pypi.org/project/medium2md-cli/"
+}

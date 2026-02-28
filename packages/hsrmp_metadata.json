@@ -1,0 +1,11 @@
+{
+  "name": "hsrmp",
+  "version": "1.2.2",
+  "summary": "HioSW System Resource Monitoring Protocol. Pls, if you code not working, do it: import harp.discovery import taftp import hsrmp ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hsrmp-1.2.2.tar.gz",
+  "download_time": "2026-02-28T18:22:21.425226",
+  "package_url": "https://pypi.org/project/hsrmp/"
+}
