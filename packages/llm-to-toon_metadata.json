@@ -1,11 +1,11 @@
 {
   "name": "llm-to-toon",
-  "version": "1.0.43",
+  "version": "1.0.48",
   "summary": "Tiny wrapper exposing Prompture helpers to convert LLM output into TOON.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_to_toon-1.0.43.tar.gz",
-  "download_time": "2026-02-25T21:57:19.866576",
+  "download_filename": "llm_to_toon-1.0.48.tar.gz",
+  "download_time": "2026-02-28T05:23:48.169360",
   "package_url": "https://pypi.org/project/llm-to-toon/"
 }

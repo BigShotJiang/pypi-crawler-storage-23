@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-python",
+  "version": "1.1.0",
+  "summary": "Open-source, secure, decentralized agent registration and discovery infrastructure for AI Agent world",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentmesh_python-1.1.0.tar.gz",
+  "download_time": "2026-02-28T05:23:51.809976",
+  "package_url": "https://pypi.org/project/agentmesh-python/"
+}

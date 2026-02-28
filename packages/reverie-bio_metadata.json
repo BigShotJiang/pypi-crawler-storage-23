@@ -1,0 +1,11 @@
+{
+  "name": "reverie-bio",
+  "version": "0.0.1",
+  "summary": "Fine-tune foundation models for life sciences",
+  "author": "Zaais van Zyl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reverie_bio-0.0.1.tar.gz",
+  "download_time": "2026-02-28T05:23:30.909210",
+  "package_url": "https://pypi.org/project/reverie-bio/"
+}

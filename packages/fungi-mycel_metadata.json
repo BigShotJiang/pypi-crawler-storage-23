@@ -1,0 +1,11 @@
+{
+  "name": "fungi-mycel",
+  "version": "1.0.0",
+  "summary": "FUNGI-MYCEL: Quantitative Framework for Mycelial Network Intelligence",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://fungi-mycel.netlify.app",
+  "download_filename": "fungi_mycel-1.0.0.tar.gz",
+  "download_time": "2026-02-28T05:23:12.297824",
+  "package_url": "https://pypi.org/project/fungi-mycel/"
+}

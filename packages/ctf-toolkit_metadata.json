@@ -1,0 +1,11 @@
+{
+  "name": "ctf-toolkit",
+  "version": "0.1.0",
+  "summary": "Advanced network analysis and evasion testing toolkit",
+  "author": "Security Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctf_toolkit-0.1.0.tar.gz",
+  "download_time": "2026-02-28T05:23:40.832709",
+  "package_url": "https://pypi.org/project/ctf-toolkit/"
+}

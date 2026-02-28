@@ -1,0 +1,11 @@
+{
+  "name": "agent-dev-cli",
+  "version": "0.0.1b260228",
+  "summary": "AI Toolkit - CLI and SDK for agent debugging and workflow visualization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_dev_cli-0.0.1b260228.tar.gz",
+  "download_time": "2026-02-28T05:23:36.621750",
+  "package_url": "https://pypi.org/project/agent-dev-cli/"
+}

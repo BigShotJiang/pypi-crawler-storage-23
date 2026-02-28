@@ -1,0 +1,11 @@
+{
+  "name": "clampai",
+  "version": "1.0.1",
+  "summary": "Safety guardrails for LLM agents — budget enforcement, invariants, and provable guarantees. Zero dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clampai-1.0.1.tar.gz",
+  "download_time": "2026-02-28T05:23:52.849739",
+  "package_url": "https://pypi.org/project/clampai/"
+}

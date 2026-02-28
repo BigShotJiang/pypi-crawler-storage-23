@@ -1,11 +1,11 @@
 {
   "name": "mxlm",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Language Model Utils",
   "author": "DIYer22",
   "license": null,
   "home_page": "https://github.com/magic-python-toolbox/mxlm",
-  "download_filename": "mxlm-0.2.6.tar.gz",
-  "download_time": "2026-02-26T14:44:57.986606",
+  "download_filename": "mxlm-0.2.7.tar.gz",
+  "download_time": "2026-02-28T05:23:24.159705",
   "package_url": "https://pypi.org/project/mxlm/"
 }

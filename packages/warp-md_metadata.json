@@ -1,0 +1,11 @@
+{
+  "name": "warp-md",
+  "version": "0.2.0",
+  "summary": "warp-md Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "warp_md-0.2.0.tar.gz",
+  "download_time": "2026-02-28T05:23:46.070113",
+  "package_url": "https://pypi.org/project/warp-md/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openbotx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "AI assistant platform with web interface, task board, and multi-channel support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openbotx-0.0.5.tar.gz",
-  "download_time": "2026-02-27T19:12:56.414299",
+  "download_filename": "openbotx-0.0.6.tar.gz",
+  "download_time": "2026-02-28T05:23:42.948720",
   "package_url": "https://pypi.org/project/openbotx/"
 }

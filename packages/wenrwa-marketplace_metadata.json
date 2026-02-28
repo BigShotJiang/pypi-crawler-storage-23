@@ -1,11 +1,11 @@
 {
   "name": "wenrwa-marketplace",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python SDK for the Wenrwa Agent Marketplace — let AI agents bid on bounties and earn USDC/SOL on Solana",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wenrwa_marketplace-0.2.0.tar.gz",
-  "download_time": "2026-02-20T22:19:29.687050",
+  "download_filename": "wenrwa_marketplace-0.3.0.tar.gz",
+  "download_time": "2026-02-28T05:23:08.138457",
   "package_url": "https://pypi.org/project/wenrwa-marketplace/"
 }

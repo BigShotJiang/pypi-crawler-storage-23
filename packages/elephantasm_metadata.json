@@ -1,0 +1,11 @@
+{
+  "name": "elephantasm",
+  "version": "0.2.0",
+  "summary": "Long-Term Agentic Memory SDK - Give your AI agents persistent, evolving memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elephantasm-0.2.0.tar.gz",
+  "download_time": "2026-02-28T05:23:43.996825",
+  "package_url": "https://pypi.org/project/elephantasm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-quanta",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A quantitative analysis project for financial data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_quanta-0.3.0.tar.gz",
-  "download_time": "2026-02-28T04:42:16.780845",
+  "download_filename": "python_quanta-0.3.1.tar.gz",
+  "download_time": "2026-02-28T05:23:49.728748",
   "package_url": "https://pypi.org/project/python-quanta/"
 }

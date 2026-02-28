@@ -1,11 +1,11 @@
 {
   "name": "mcpx-go",
-  "version": "0.1.8",
-  "summary": "Installable Python wrapper that downloads and runs the mcpx Go binary",
+  "version": "0.1.14",
+  "summary": "Python package for mcpx, a CLI that turns MCP servers into composable CLIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpx_go-0.1.8.tar.gz",
-  "download_time": "2026-02-24T07:19:02.773439",
+  "download_filename": "mcpx_go-0.1.14.tar.gz",
+  "download_time": "2026-02-28T05:23:20.523434",
   "package_url": "https://pypi.org/project/mcpx-go/"
 }
