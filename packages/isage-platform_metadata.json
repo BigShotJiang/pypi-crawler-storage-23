@@ -1,0 +1,11 @@
+{
+  "name": "isage-platform",
+  "version": "0.2.4.22",
+  "summary": "SAGE Platform Services - Queue, Storage, and Service Abstractions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_platform-0.2.4.22-py2.py3-none-any.whl",
+  "download_time": "2026-02-28T14:58:29.097213",
+  "package_url": "https://pypi.org/project/isage-platform/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cwtwb",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Tableau Workbook (.twb) Generation MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cwtwb-0.3.1.tar.gz",
-  "download_time": "2026-02-28T14:17:12.221261",
+  "download_filename": "cwtwb-0.4.0.tar.gz",
+  "download_time": "2026-02-28T14:58:24.983495",
   "package_url": "https://pypi.org/project/cwtwb/"
 }

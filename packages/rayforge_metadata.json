@@ -1,0 +1,11 @@
+{
+  "name": "rayforge",
+  "version": "1.1.2",
+  "summary": "A desktop application for laser cutting and engraving",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rayforge-1.1.2.tar.gz",
+  "download_time": "2026-02-28T14:58:04.819785",
+  "package_url": "https://pypi.org/project/rayforge/"
+}

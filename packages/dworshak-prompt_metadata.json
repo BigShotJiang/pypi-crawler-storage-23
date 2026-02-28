@@ -1,11 +1,11 @@
 {
   "name": "dworshak-prompt",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "summary": "Multiplexed user input via console, GUI, and web, depending on availability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dworshak_prompt-0.2.22.tar.gz",
-  "download_time": "2026-02-26T22:26:27.253384",
+  "download_filename": "dworshak_prompt-0.2.23.tar.gz",
+  "download_time": "2026-02-28T14:58:27.561532",
   "package_url": "https://pypi.org/project/dworshak-prompt/"
 }

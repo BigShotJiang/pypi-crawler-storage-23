@@ -1,0 +1,11 @@
+{
+  "name": "narrate",
+  "version": "0.1.0",
+  "summary": "Local text-to-speech with Kokoro and Chatterbox engines",
+  "author": "Manim Studio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "narrate-0.1.0.tar.gz",
+  "download_time": "2026-02-28T14:58:18.134659",
+  "package_url": "https://pypi.org/project/narrate/"
+}

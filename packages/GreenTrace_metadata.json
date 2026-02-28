@@ -1,11 +1,11 @@
 {
   "name": "GreenTrace",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Effortless CO₂ Emissions Tracking for Python Code",
   "author": "Sov Bur",
   "license": null,
   "home_page": "https://github.com/so89bur/GreenTrace",
-  "download_filename": "greentrace-0.1.7.tar.gz",
-  "download_time": "2026-02-28T14:42:05.076916",
+  "download_filename": "greentrace-0.1.8.tar.gz",
+  "download_time": "2026-02-28T14:58:26.018294",
   "package_url": "https://pypi.org/project/GreenTrace/"
 }

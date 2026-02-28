@@ -1,0 +1,11 @@
+{
+  "name": "rdkit-to-params",
+  "version": "1.3.4",
+  "summary": "Create or modify Rosetta params files (topology files) from scratch, RDKit mols or another params file.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rdkit_to_params-1.3.4.tar.gz",
+  "download_time": "2026-02-28T14:58:05.353619",
+  "package_url": "https://pypi.org/project/rdkit-to-params/"
+}

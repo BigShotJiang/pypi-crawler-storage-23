@@ -1,11 +1,11 @@
 {
   "name": "openartemis",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "CLI to harvest transcripts from YouTube, TikTok, Instagram, and X — chat with Artemis, an AI that researches for you",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openartemis-0.2.5.tar.gz",
-  "download_time": "2026-02-28T14:41:53.219220",
+  "download_filename": "openartemis-0.2.6.tar.gz",
+  "download_time": "2026-02-28T14:58:14.287354",
   "package_url": "https://pypi.org/project/openartemis/"
 }

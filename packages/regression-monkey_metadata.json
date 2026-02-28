@@ -1,11 +1,11 @@
 {
   "name": "regression-monkey",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Reproducible regression workflow: loaders → dependency tracking → codegen → execution.",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n        ",
   "home_page": null,
-  "download_filename": "regression_monkey-0.2.0.tar.gz",
-  "download_time": "2026-02-26T16:40:10.393802",
+  "download_filename": "regression_monkey-0.2.1.tar.gz",
+  "download_time": "2026-02-28T14:58:16.051301",
   "package_url": "https://pypi.org/project/regression-monkey/"
 }

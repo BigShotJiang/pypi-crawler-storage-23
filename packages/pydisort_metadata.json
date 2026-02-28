@@ -1,11 +1,11 @@
 {
   "name": "pydisort",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Modern Python package for DISORT with support for parallel computation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydisort-1.5.0-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2026-02-25T20:56:17.716261",
+  "download_filename": "pydisort-1.6.0-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-02-28T14:58:19.184904",
   "package_url": "https://pypi.org/project/pydisort/"
 }

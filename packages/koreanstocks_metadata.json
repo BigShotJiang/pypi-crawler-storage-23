@@ -1,11 +1,11 @@
 {
   "name": "koreanstocks",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "KOSPI·KOSDAQ 종목 자동 스크리닝 + AI/ML 분석 + 텔레그램 리포트 플랫폼",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "koreanstocks-0.2.8.tar.gz",
-  "download_time": "2026-02-28T14:41:54.244358",
+  "download_filename": "koreanstocks-0.2.9.tar.gz",
+  "download_time": "2026-02-28T14:58:26.536016",
   "package_url": "https://pypi.org/project/koreanstocks/"
 }

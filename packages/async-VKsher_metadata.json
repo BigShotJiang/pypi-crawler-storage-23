@@ -1,0 +1,11 @@
+{
+  "name": "async-VKsher",
+  "version": "2.3.1",
+  "summary": "asyncVK is asynchronous library for creating a bot in VK",
+  "author": "Kulenov Islam",
+  "license": null,
+  "home_page": "https://github.com/Ekventor/asyncVK",
+  "download_filename": "async_vksher-2.3.1.tar.gz",
+  "download_time": "2026-02-28T14:58:01.109424",
+  "package_url": "https://pypi.org/project/async-VKsher/"
+}
