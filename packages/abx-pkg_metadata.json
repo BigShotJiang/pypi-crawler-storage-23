@@ -1,11 +1,11 @@
 {
   "name": "abx-pkg",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "System package manager interfaces with Python type hints",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abx_pkg-0.6.2.tar.gz",
-  "download_time": "2026-02-28T09:59:35.180420",
+  "download_filename": "abx_pkg-0.6.3.tar.gz",
+  "download_time": "2026-02-28T10:59:14.784794",
   "package_url": "https://pypi.org/project/abx-pkg/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sppt",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Spatial Point Pattern Test (SPPT) for Aggregated Data — bootstrap-based spatial distribution comparison",
   "author": "Yunus Serhat Bıçakçı",
   "license": null,
   "home_page": null,
-  "download_filename": "sppt-0.1.3.tar.gz",
-  "download_time": "2026-02-28T10:17:42.736212",
+  "download_filename": "sppt-0.1.5.tar.gz",
+  "download_time": "2026-02-28T10:59:14.147978",
   "package_url": "https://pypi.org/project/sppt/"
 }
