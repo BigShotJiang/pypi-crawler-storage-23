@@ -1,0 +1,11 @@
+{
+  "name": "pycaretaker",
+  "version": "0.1.0",
+  "summary": "A smart Python package manager companion — manage, monitor, visualize, and analyze your environment with optional AI insights.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycaretaker-0.1.0.tar.gz",
+  "download_time": "2026-02-28T17:40:37.630123",
+  "package_url": "https://pypi.org/project/pycaretaker/"
+}

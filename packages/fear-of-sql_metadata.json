@@ -1,11 +1,11 @@
 {
   "name": "fear-of-sql",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Don't fear the SQL",
   "author": "Sean Moon",
   "license": null,
   "home_page": null,
-  "download_filename": "fear_of_sql-0.2.0.tar.gz",
-  "download_time": "2026-02-28T17:19:23.587930",
+  "download_filename": "fear_of_sql-0.2.1.tar.gz",
+  "download_time": "2026-02-28T17:40:52.181639",
   "package_url": "https://pypi.org/project/fear-of-sql/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "twsrt",
+  "version": "0.3.0",
+  "summary": "Agent security configuration generator — translates canonical security rules into agent-specific configs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twsrt-0.3.0.tar.gz",
+  "download_time": "2026-02-28T17:40:39.671011",
+  "package_url": "https://pypi.org/project/twsrt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "guardflow-sdk",
+  "version": "1.1.1",
+  "summary": "Official Python SDK for GuardFlow - AI Prompt Security & Management",
+  "author": "GuardFlow",
+  "license": null,
+  "home_page": "https://github.com/guardflow/guardflow-sdk",
+  "download_filename": "guardflow_sdk-1.1.1.tar.gz",
+  "download_time": "2026-02-28T17:40:37.120831",
+  "package_url": "https://pypi.org/project/guardflow-sdk/"
+}

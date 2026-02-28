@@ -1,11 +1,11 @@
 {
   "name": "sdsavior",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Crash-recoverable memory-mapped ring buffer for JSON records (SD-card friendly-ish)",
   "author": null,
   "license": "CC0-1.0",
   "home_page": null,
-  "download_filename": "sdsavior-0.1.0.tar.gz",
-  "download_time": "2026-02-28T17:18:50.022143",
+  "download_filename": "sdsavior-1.0.0-py3-none-any.whl",
+  "download_time": "2026-02-28T17:40:40.183305",
   "package_url": "https://pypi.org/project/sdsavior/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cryptocom-tools-wallet",
+  "version": "2.0.0",
+  "summary": "Wallet management tools for Crypto.com blockchain operations including signing and transactions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptocom_tools_wallet-2.0.0.tar.gz",
+  "download_time": "2026-02-28T17:40:23.687893",
+  "package_url": "https://pypi.org/project/cryptocom-tools-wallet/"
+}

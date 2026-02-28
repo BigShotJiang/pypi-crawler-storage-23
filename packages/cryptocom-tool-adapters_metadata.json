@@ -1,0 +1,11 @@
+{
+  "name": "cryptocom-tool-adapters",
+  "version": "2.0.0",
+  "summary": "Framework adapters for Crypto.com blockchain tools - convert to LangGraph, OpenAI, Anthropic, and MCP formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptocom_tool_adapters-2.0.0.tar.gz",
+  "download_time": "2026-02-28T17:40:23.108175",
+  "package_url": "https://pypi.org/project/cryptocom-tool-adapters/"
+}
