@@ -1,0 +1,11 @@
+{
+  "name": "quickbg",
+  "version": "1.0.0",
+  "summary": "Lightning-fast AI background removal for images - CLI tool for Mac, Linux, and Windows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickbg-1.0.0.tar.gz",
+  "download_time": "2026-02-28T11:54:07.362542",
+  "package_url": "https://pypi.org/project/quickbg/"
+}

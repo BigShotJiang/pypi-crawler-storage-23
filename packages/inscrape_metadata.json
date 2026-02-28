@@ -1,0 +1,11 @@
+{
+  "name": "inscrape",
+  "version": "0.1.0",
+  "summary": "The official Python SDK for Inscrape — the AI-first web scraping API for Instagram, X & beyond.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inscrape-0.1.0.tar.gz",
+  "download_time": "2026-02-28T11:54:02.204625",
+  "package_url": "https://pypi.org/project/inscrape/"
+}

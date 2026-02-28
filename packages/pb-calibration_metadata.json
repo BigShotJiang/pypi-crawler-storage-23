@@ -1,11 +1,11 @@
 {
   "name": "pb-calibration",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "PB 车辆配置/标定文件（vehicle_config.proto）反序列化校验、解析为 YAML、从 YAML 组装为 .pb.txt；含真实 pb 往返测试。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pb_calibration-0.0.9.tar.gz",
-  "download_time": "2026-02-28T11:34:49.095575",
+  "download_filename": "pb_calibration-0.1.0.tar.gz",
+  "download_time": "2026-02-28T11:54:09.966731",
   "package_url": "https://pypi.org/project/pb-calibration/"
 }

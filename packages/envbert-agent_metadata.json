@@ -1,0 +1,11 @@
+{
+  "name": "envbert-agent",
+  "version": "0.2.0",
+  "summary": "Agentic environmental due-diligence text classification using EnvBert and LangGraph",
+  "author": "Afreen Aman, Deepak John Reji",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envbert_agent-0.2.0.tar.gz",
+  "download_time": "2026-02-28T11:53:58.586803",
+  "package_url": "https://pypi.org/project/envbert-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "penbot",
-  "version": "1.2.8",
+  "version": "1.3.1",
   "summary": "AI Chatbot Penetration Testing Framework",
   "author": "terminal48",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "penbot-1.2.8.tar.gz",
-  "download_time": "2026-02-26T14:45:22.561335",
+  "download_filename": "penbot-1.3.1.tar.gz",
+  "download_time": "2026-02-28T11:53:59.633274",
   "package_url": "https://pypi.org/project/penbot/"
 }

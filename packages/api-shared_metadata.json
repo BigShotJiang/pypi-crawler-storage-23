@@ -1,0 +1,11 @@
+{
+  "name": "api-shared",
+  "version": "0.0.3",
+  "summary": "Shared dependencies for both api and the worker services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_shared-0.0.3.tar.gz",
+  "download_time": "2026-02-28T11:53:59.097908",
+  "package_url": "https://pypi.org/project/api-shared/"
+}

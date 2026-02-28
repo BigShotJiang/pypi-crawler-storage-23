@@ -1,0 +1,11 @@
+{
+  "name": "markdown-redactor",
+  "version": "0.1.1",
+  "summary": "Lightweight, pluggable markdown redaction library for LLM pipelines",
+  "author": "markdown-redactor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markdown_redactor-0.1.1.tar.gz",
+  "download_time": "2026-02-28T11:54:11.501997",
+  "package_url": "https://pypi.org/project/markdown-redactor/"
+}
