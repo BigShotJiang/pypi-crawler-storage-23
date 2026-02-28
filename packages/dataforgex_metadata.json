@@ -1,11 +1,11 @@
 {
   "name": "dataforgex",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "DataForgeX: Prep • Plot • Evaluate • Detect",
   "author": "Prince Saxena",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dataforgex-0.1.2.tar.gz",
-  "download_time": "2026-02-27T15:08:46.322846",
+  "download_filename": "dataforgex-0.1.4.tar.gz",
+  "download_time": "2026-02-28T06:28:08.447002",
   "package_url": "https://pypi.org/project/dataforgex/"
 }

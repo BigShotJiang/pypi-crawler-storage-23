@@ -1,11 +1,11 @@
 {
   "name": "newtex-cli",
-  "version": "0.1.1.dev1",
+  "version": "0.1.4",
   "summary": "Local LaTeX project scaffolder",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "newtex_cli-0.1.1.dev1.tar.gz",
-  "download_time": "2026-02-26T05:15:13.445062",
+  "download_filename": "newtex_cli-0.1.4.tar.gz",
+  "download_time": "2026-02-28T06:28:29.090069",
   "package_url": "https://pypi.org/project/newtex-cli/"
 }

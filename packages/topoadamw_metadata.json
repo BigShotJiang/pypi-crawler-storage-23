@@ -1,0 +1,11 @@
+{
+  "name": "topoadamw",
+  "version": "0.1.0",
+  "summary": "Topology-guided adaptive optimizer for PyTorch",
+  "author": "Kelvin Peng",
+  "license": null,
+  "home_page": "https://github.com/SVAH-X/topoadamw",
+  "download_filename": "topoadamw-0.1.0.tar.gz",
+  "download_time": "2026-02-28T06:28:26.936602",
+  "package_url": "https://pypi.org/project/topoadamw/"
+}

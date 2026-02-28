@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-profiler",
+  "version": "0.1.0",
+  "summary": "Interactive flamegraph profiling for Metaflow steps — pluggable backends, beautiful cards",
+  "author": "npow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaflow_profiler-0.1.0.tar.gz",
+  "download_time": "2026-02-28T06:27:50.787637",
+  "package_url": "https://pypi.org/project/metaflow-profiler/"
+}

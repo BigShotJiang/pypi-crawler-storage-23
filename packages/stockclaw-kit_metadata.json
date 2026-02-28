@@ -1,0 +1,11 @@
+{
+  "name": "stockclaw-kit",
+  "version": "3.5.3",
+  "summary": "Korean stock market data & trading toolkit — CLI direct call",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stockclaw_kit-3.5.3-py3-none-any.whl",
+  "download_time": "2026-02-28T06:28:21.046263",
+  "package_url": "https://pypi.org/project/stockclaw-kit/"
+}

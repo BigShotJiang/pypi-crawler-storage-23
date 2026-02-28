@@ -1,11 +1,11 @@
 {
   "name": "usecli",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "summary": "A powerful Python CLI framework for building beautiful, developer-friendly command-line tools.",
   "author": "Edward Boswell",
   "license": null,
   "home_page": null,
-  "download_filename": "usecli-0.1.45.tar.gz",
-  "download_time": "2026-02-28T05:57:29.959981",
+  "download_filename": "usecli-0.1.46.tar.gz",
+  "download_time": "2026-02-28T06:28:09.547782",
   "package_url": "https://pypi.org/project/usecli/"
 }

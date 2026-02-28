@@ -1,0 +1,11 @@
+{
+  "name": "v2sim",
+  "version": "1.4.0",
+  "summary": "V2Sim: An Open-Source V2G Simulation Platform in Urban Power and Transportation Network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "v2sim-1.4.0.tar.gz",
+  "download_time": "2026-02-28T06:28:27.472054",
+  "package_url": "https://pypi.org/project/v2sim/"
+}

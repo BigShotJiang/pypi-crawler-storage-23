@@ -1,11 +1,11 @@
 {
   "name": "agents-gateway",
-  "version": "0.1.57",
+  "version": "0.1.58",
   "summary": "A FastAPI extension for building API-first AI agent services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agents_gateway-0.1.57.tar.gz",
-  "download_time": "2026-02-28T04:41:47.591907",
+  "download_filename": "agents_gateway-0.1.58.tar.gz",
+  "download_time": "2026-02-28T06:28:24.262233",
   "package_url": "https://pypi.org/project/agents-gateway/"
 }

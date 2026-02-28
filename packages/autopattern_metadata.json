@@ -1,0 +1,11 @@
+{
+  "name": "autopattern",
+  "version": "0.2.0",
+  "summary": "Record and automate browser workflows with AI. Chat-based CLI + API server powered by Gemini and browser-use.",
+  "author": "Ganesh, Charan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autopattern-0.2.0.tar.gz",
+  "download_time": "2026-02-28T06:28:19.405228",
+  "package_url": "https://pypi.org/project/autopattern/"
+}
