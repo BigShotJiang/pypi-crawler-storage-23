@@ -1,0 +1,11 @@
+{
+  "name": "ffid-python-sdk",
+  "version": "0.2.0",
+  "summary": "FeelFlow ID Platform SDK for Python (FastAPI)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffid_python_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-28T08:21:10.286016",
+  "package_url": "https://pypi.org/project/ffid-python-sdk/"
+}

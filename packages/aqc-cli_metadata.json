@@ -1,0 +1,11 @@
+{
+  "name": "aqc-cli",
+  "version": "1.0.0",
+  "summary": "CLI for astroquery modules with autocompletion and multi-language support.",
+  "author": "inoribea",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "aqc_cli-1.0.0.tar.gz",
+  "download_time": "2026-02-28T08:21:07.165184",
+  "package_url": "https://pypi.org/project/aqc-cli/"
+}

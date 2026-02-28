@@ -1,11 +1,11 @@
 {
   "name": "proxy-doctor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Diagnose proxy misconfigurations that break AI coding tools (Cursor, VS Code, Windsurf)",
   "author": "Jiansen He",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "proxy_doctor-0.2.0.tar.gz",
-  "download_time": "2026-02-28T07:05:14.648229",
+  "download_filename": "proxy_doctor-0.2.1.tar.gz",
+  "download_time": "2026-02-28T08:20:45.487196",
   "package_url": "https://pypi.org/project/proxy-doctor/"
 }

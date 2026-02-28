@@ -1,0 +1,11 @@
+{
+  "name": "marsys",
+  "version": "0.2.1",
+  "summary": "A powerful framework for orchestrating collaborative AI agents with sophisticated reasoning, planning, and autonomous capabilities",
+  "author": "Reza Hosseini",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rezaho/MARSYS",
+  "download_filename": "marsys-0.2.1.tar.gz",
+  "download_time": "2026-02-28T08:20:50.172209",
+  "package_url": "https://pypi.org/project/marsys/"
+}

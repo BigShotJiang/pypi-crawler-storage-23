@@ -1,11 +1,11 @@
 {
   "name": "forgeapi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A highly modular FastAPI project scaffolding CLI tool for the AI application era",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forgeapi-0.1.0.tar.gz",
-  "download_time": "2026-02-28T07:42:00.741319",
+  "download_filename": "forgeapi-0.1.1.tar.gz",
+  "download_time": "2026-02-28T08:21:06.142413",
   "package_url": "https://pypi.org/project/forgeapi/"
 }
