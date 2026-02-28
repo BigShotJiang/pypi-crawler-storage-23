@@ -1,0 +1,11 @@
+{
+  "name": "AsyncPayments",
+  "version": "1.5",
+  "summary": "Add payment acceptance to your projects.",
+  "author": "ToSa",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "asyncpayments-1.5.tar.gz",
+  "download_time": "2026-02-28T17:57:22.394879",
+  "package_url": "https://pypi.org/project/AsyncPayments/"
+}

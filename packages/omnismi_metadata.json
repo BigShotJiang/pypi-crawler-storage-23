@@ -1,11 +1,11 @@
 {
   "name": "omnismi",
-  "version": "1.0.0rc0",
-  "summary": "Unified, minimal GPU observability across NVIDIA and AMD",
+  "version": "1.0.0",
+  "summary": "Cross-vendor GPU observability for AI agents and Python apps (NVIDIA and AMD today)",
   "author": "Omnismi Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnismi-1.0.0rc0.tar.gz",
-  "download_time": "2026-02-27T19:12:55.329950",
+  "download_filename": "omnismi-1.0.0.tar.gz",
+  "download_time": "2026-02-28T17:57:55.746462",
   "package_url": "https://pypi.org/project/omnismi/"
 }

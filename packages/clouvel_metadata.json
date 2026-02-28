@@ -1,11 +1,11 @@
 {
   "name": "clouvel",
-  "version": "6.0.0",
+  "version": "6.2.0",
   "summary": "MCP server that remembers AI mistakes and prevents regressions - AI makes it fast, Clouvel makes it right",
   "author": "SINABRO",
   "license": null,
   "home_page": null,
-  "download_filename": "clouvel-6.0.0.tar.gz",
-  "download_time": "2026-02-23T09:13:46.285594",
+  "download_filename": "clouvel-6.2.0.tar.gz",
+  "download_time": "2026-02-28T17:57:27.673400",
   "package_url": "https://pypi.org/project/clouvel/"
 }

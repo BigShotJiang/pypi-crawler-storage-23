@@ -1,0 +1,11 @@
+{
+  "name": "casm-tools",
+  "version": "2.0a3",
+  "summary": "CASM command line tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "casm_tools-2.0a3.tar.gz",
+  "download_time": "2026-02-28T17:57:17.200279",
+  "package_url": "https://pypi.org/project/casm-tools/"
+}

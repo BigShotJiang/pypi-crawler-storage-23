@@ -1,0 +1,11 @@
+{
+  "name": "tms-integration",
+  "version": "0.24",
+  "summary": "A library for TMS integration",
+  "author": "F-ONE Group",
+  "license": null,
+  "home_page": "https://github.com/F-ONE-Group/tms_integration/tree/pypi",
+  "download_filename": "tms_integration-0.24.tar.gz",
+  "download_time": "2026-02-28T17:57:34.087739",
+  "package_url": "https://pypi.org/project/tms-integration/"
+}

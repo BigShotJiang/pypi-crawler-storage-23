@@ -1,0 +1,11 @@
+{
+  "name": "phederation",
+  "version": "0.4.8",
+  "summary": "Phederation implementation of ActivityPub. Can be used to setup a server in the fediverse, and can also be used as a library to build clients connecting to these (and other ActivityPub) servers.",
+  "author": "Felix Dietrich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phederation-0.4.8.tar.gz",
+  "download_time": "2026-02-28T17:57:32.995598",
+  "package_url": "https://pypi.org/project/phederation/"
+}
