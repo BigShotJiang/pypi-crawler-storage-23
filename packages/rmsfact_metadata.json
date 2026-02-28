@@ -1,0 +1,11 @@
+{
+  "name": "rmsfact",
+  "version": "0.5.0",
+  "summary": "Display a randomly selected quote about Richard M. Stallman.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmsfact-0.5.0.tar.gz",
+  "download_time": "2026-02-28T04:42:03.187825",
+  "package_url": "https://pypi.org/project/rmsfact/"
+}

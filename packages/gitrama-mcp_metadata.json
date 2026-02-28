@@ -1,11 +1,11 @@
 {
   "name": "gitrama-mcp",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "MCP Server for Gitrama — AI-powered Git intelligence for your IDE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitrama_mcp-1.1.2-py3-none-any.whl",
-  "download_time": "2026-02-28T03:23:53.458306",
+  "download_filename": "gitrama_mcp-1.1.4-py3-none-any.whl",
+  "download_time": "2026-02-28T04:42:04.284550",
   "package_url": "https://pypi.org/project/gitrama-mcp/"
 }

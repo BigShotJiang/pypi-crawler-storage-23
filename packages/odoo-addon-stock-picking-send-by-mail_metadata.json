@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-send-by-mail",
+  "version": "18.0.1.0.1.1",
+  "summary": "Send stock picking by email",
+  "author": "=?utf-8?q?Sandra_Figueroa_Varela=2C_Tecnativa=2C_Odoo_Community_Association_=28OCA=29=2C_Daniel_Dom=C3=ADnguez_=28Xtendoo=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_picking_send_by_mail-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-28T04:42:03.716345",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-send-by-mail/"
+}

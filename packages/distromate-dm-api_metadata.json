@@ -1,0 +1,11 @@
+{
+  "name": "distromate-dm-api",
+  "version": "1.2.0",
+  "summary": "DistroMate License Verification SDK for Python",
+  "author": "DistroMate",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "distromate_dm_api-1.2.0.tar.gz",
+  "download_time": "2026-02-28T04:41:54.018277",
+  "package_url": "https://pypi.org/project/distromate-dm-api/"
+}

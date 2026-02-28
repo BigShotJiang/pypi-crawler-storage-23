@@ -1,0 +1,11 @@
+{
+  "name": "wsp-balsa",
+  "version": "2.2.0",
+  "summary": "Python tools for travel demand forecasting applications and analyses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wsp_balsa-2.2.0.tar.gz",
+  "download_time": "2026-02-28T04:41:49.194309",
+  "package_url": "https://pypi.org/project/wsp-balsa/"
+}

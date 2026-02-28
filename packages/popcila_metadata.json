@@ -1,0 +1,11 @@
+{
+  "name": "popcila",
+  "version": "1.0.0",
+  "summary": "Population-level Complex Phenotypic Intercellular signaling Linkage Analyzer",
+  "author": "Youpeng Yang",
+  "license": null,
+  "home_page": "https://github.com/yyp1999/PopCILA",
+  "download_filename": "popcila-1.0.0.tar.gz",
+  "download_time": "2026-02-28T04:41:44.337497",
+  "package_url": "https://pypi.org/project/popcila/"
+}

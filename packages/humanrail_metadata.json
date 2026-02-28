@@ -1,0 +1,11 @@
+{
+  "name": "humanrail",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for HumanRail — route tasks to vetted human workers when AI hits its limits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "humanrail-0.1.0.tar.gz",
+  "download_time": "2026-02-28T04:41:39.236288",
+  "package_url": "https://pypi.org/project/humanrail/"
+}
