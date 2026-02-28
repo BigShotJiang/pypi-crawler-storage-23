@@ -1,11 +1,11 @@
 {
   "name": "cargopy",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Rust Cargo-like project manager for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cargopy-0.2.2.tar.gz",
-  "download_time": "2026-02-28T21:37:46.261567",
+  "download_filename": "cargopy-0.2.5.tar.gz",
+  "download_time": "2026-02-28T21:55:26.015655",
   "package_url": "https://pypi.org/project/cargopy/"
 }

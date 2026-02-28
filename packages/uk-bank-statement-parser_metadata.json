@@ -1,0 +1,11 @@
+{
+  "name": "uk-bank-statement-parser",
+  "version": "0.2.0a2",
+  "summary": "Parse bank statement PDFs, extract transactions, and persist to Parquet and SQLite.",
+  "author": "Jason Farrar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uk_bank_statement_parser-0.2.0a2.tar.gz",
+  "download_time": "2026-02-28T21:55:23.961170",
+  "package_url": "https://pypi.org/project/uk-bank-statement-parser/"
+}

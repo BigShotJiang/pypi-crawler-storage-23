@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-extension-azure",
+  "version": "1.4.4",
+  "summary": "Duckdb azure extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdb_extension_azure-1.4.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-28T21:55:20.713912",
+  "package_url": "https://pypi.org/project/duckdb-extension-azure/"
+}

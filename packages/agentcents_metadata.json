@@ -1,11 +1,11 @@
 {
   "name": "agentcents",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "LLM API cost interceptor and budget enforcer for AI agents",
   "author": "Labham LLC",
   "license": "MIT",
   "home_page": "https://github.com/Chandrajith/labham-agentcents",
-  "download_filename": "agentcents-0.1.0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2026-02-28T01:15:26.371249",
+  "download_filename": "agentcents-0.1.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-28T21:55:47.317587",
   "package_url": "https://pypi.org/project/agentcents/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "plutus-ai",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Autonomous AI agent with subprocess orchestration, dynamic tool creation, and a local-first web interface",
   "author": "Plutus Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plutus_ai-0.3.7.tar.gz",
-  "download_time": "2026-02-28T19:35:49.187476",
+  "download_filename": "plutus_ai-0.3.8.tar.gz",
+  "download_time": "2026-02-28T21:55:41.051167",
   "package_url": "https://pypi.org/project/plutus-ai/"
 }

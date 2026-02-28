@@ -1,0 +1,11 @@
+{
+  "name": "m3wal",
+  "version": "1.1.10",
+  "summary": "Material 3 wallpaper-based color scheme generator for Linux desktop theming",
+  "author": "Diaz",
+  "license": "MIT",
+  "home_page": "https://github.com/MDiaznf23/m3wal",
+  "download_filename": "m3wal-1.1.10.tar.gz",
+  "download_time": "2026-02-28T21:55:44.718722",
+  "package_url": "https://pypi.org/project/m3wal/"
+}
