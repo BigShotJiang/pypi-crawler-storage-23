@@ -1,11 +1,11 @@
 {
   "name": "picoclaw",
-  "version": "2026.2.25",
-  "summary": "Agent orchestration SDK — see CMDOP (pip install cmdop) for full features",
-  "author": "CMDOP Team",
+  "version": "2026.2.28",
+  "summary": "PicoClaw — lightweight agent plugin for CMDOP optimized for speed",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "picoclaw-2026.2.25.tar.gz",
-  "download_time": "2026-02-25T08:29:37.947999",
+  "download_filename": "picoclaw-2026.2.28.tar.gz",
+  "download_time": "2026-02-28T11:14:48.596054",
   "package_url": "https://pypi.org/project/picoclaw/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "scoutagent",
-  "version": "2026.2.25",
-  "summary": "Agent orchestration SDK — see CMDOP (pip install cmdop) for full features",
-  "author": "CMDOP Team",
+  "version": "2026.2.28",
+  "summary": "ScoutAgent — no-code agent builder plugin for CMDOP",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scoutagent-2026.2.25.tar.gz",
-  "download_time": "2026-02-25T08:29:36.396152",
+  "download_filename": "scoutagent-2026.2.28.tar.gz",
+  "download_time": "2026-02-28T11:14:47.573522",
   "package_url": "https://pypi.org/project/scoutagent/"
 }

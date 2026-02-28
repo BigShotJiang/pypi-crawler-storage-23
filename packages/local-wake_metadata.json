@@ -1,0 +1,11 @@
+{
+  "name": "local-wake",
+  "version": "0.1.1",
+  "summary": "Lightweight local wake word detection that recognizes phrases with just a few user-provided recordings. No model training required.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "local_wake-0.1.1.tar.gz",
+  "download_time": "2026-02-28T11:14:29.610606",
+  "package_url": "https://pypi.org/project/local-wake/"
+}

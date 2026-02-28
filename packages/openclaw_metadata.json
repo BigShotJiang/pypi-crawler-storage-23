@@ -1,11 +1,11 @@
 {
   "name": "openclaw",
-  "version": "0.0.2",
-  "summary": "Agent orchestration SDK — see CMDOP (pip install cmdop) for full features",
-  "author": "CMDOP Team",
+  "version": "2026.2.28",
+  "summary": "OpenClaw — open-source agent orchestration plugin for CMDOP",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openclaw-0.0.2.tar.gz",
-  "download_time": "2026-02-24T14:47:57.544450",
+  "download_filename": "openclaw-2026.2.28.tar.gz",
+  "download_time": "2026-02-28T11:14:49.620063",
   "package_url": "https://pypi.org/project/openclaw/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lvglgdb",
+  "version": "0.2.0",
+  "summary": "LVGL GDB scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lvglgdb-0.2.0.tar.gz",
+  "download_time": "2026-02-28T11:14:45.009203",
+  "package_url": "https://pypi.org/project/lvglgdb/"
+}

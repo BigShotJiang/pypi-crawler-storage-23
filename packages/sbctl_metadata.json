@@ -1,0 +1,11 @@
+{
+  "name": "sbctl",
+  "version": "25.10.5",
+  "summary": "CLI for managing SimplyBlock cluster",
+  "author": "Hamdy",
+  "license": null,
+  "home_page": "https://www.simplyblock.io/",
+  "download_filename": "sbctl-25.10.5.tar.gz",
+  "download_time": "2026-02-28T11:14:27.557747",
+  "package_url": "https://pypi.org/project/sbctl/"
+}

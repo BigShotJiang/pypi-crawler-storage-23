@@ -1,11 +1,11 @@
 {
   "name": "punt-biff",
-  "version": "0.10.4",
+  "version": "0.12.1",
   "summary": "The dog that barked when messages arrived. A modern CLI communication tool for software engineers.",
-  "author": "JF",
+  "author": "Punt Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "punt_biff-0.10.4.tar.gz",
-  "download_time": "2026-02-25T22:24:51.268680",
+  "download_filename": "punt_biff-0.12.1.tar.gz",
+  "download_time": "2026-02-28T11:14:34.746814",
   "package_url": "https://pypi.org/project/punt-biff/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "WikiSQL",
+  "version": "0.1.0",
+  "summary": "Run SQL queries against Wikidata by translating them to SPARQL",
+  "author": "Emma-Leonhart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wikisql-0.1.0.tar.gz",
+  "download_time": "2026-02-28T11:14:37.305602",
+  "package_url": "https://pypi.org/project/WikiSQL/"
+}
