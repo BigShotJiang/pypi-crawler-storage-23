@@ -1,11 +1,11 @@
 {
   "name": "cortexos",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "CortexOS Python SDK — hallucination detection for LLM agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortexos-0.2.0.tar.gz",
-  "download_time": "2026-02-28T00:00:11.117168",
+  "download_filename": "cortexos-0.2.1.tar.gz",
+  "download_time": "2026-02-28T01:15:22.390364",
   "package_url": "https://pypi.org/project/cortexos/"
 }

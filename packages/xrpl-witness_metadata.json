@@ -1,0 +1,11 @@
+{
+  "name": "xrpl-witness",
+  "version": "1.0.0",
+  "summary": "Local-first, append-only event journal for human-AI work",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xrpl_witness-1.0.0.tar.gz",
+  "download_time": "2026-02-28T01:15:02.476169",
+  "package_url": "https://pypi.org/project/xrpl-witness/"
+}

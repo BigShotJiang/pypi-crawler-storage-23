@@ -1,0 +1,11 @@
+{
+  "name": "geoslurp",
+  "version": "4.0.0",
+  "summary": "Python postgreSQL-PostGIS client for managing earth science datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geoslurp-4.0.0.tar.gz",
+  "download_time": "2026-02-28T01:15:15.021297",
+  "package_url": "https://pypi.org/project/geoslurp/"
+}

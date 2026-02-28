@@ -1,0 +1,11 @@
+{
+  "name": "voice-soundboard-plugin",
+  "version": "1.1.2",
+  "summary": "Claude Code plugin for voice synthesis via voice-soundboard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voice_soundboard_plugin-1.1.2.tar.gz",
+  "download_time": "2026-02-28T01:15:05.064972",
+  "package_url": "https://pypi.org/project/voice-soundboard-plugin/"
+}

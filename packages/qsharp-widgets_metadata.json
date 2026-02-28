@@ -1,11 +1,11 @@
 {
   "name": "qsharp-widgets",
-  "version": "1.25.1",
+  "version": "1.26.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qsharp_widgets-1.25.1-py2.py3-none-any.whl",
-  "download_time": "2026-02-19T21:23:42.392500",
+  "download_filename": "qsharp_widgets-1.26.0-py2.py3-none-any.whl",
+  "download_time": "2026-02-28T01:14:53.016708",
   "package_url": "https://pypi.org/project/qsharp-widgets/"
 }

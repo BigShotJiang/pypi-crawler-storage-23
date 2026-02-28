@@ -1,0 +1,11 @@
+{
+  "name": "pointcloud2",
+  "version": "0.3.0",
+  "summary": "PointCloud2 lib for non ROS environments",
+  "author": "Marko Bausch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pointcloud2-0.3.0.tar.gz",
+  "download_time": "2026-02-28T01:15:20.214458",
+  "package_url": "https://pypi.org/project/pointcloud2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CTKFileDialog-plus",
+  "version": "0.4.0",
+  "summary": "A modern file dialog for CustomTkinter",
+  "author": "abdelilah",
+  "license": null,
+  "home_page": "https://github.com/hmidani-abdelilah/CTkFileDialog-plus",
+  "download_filename": "ctkfiledialog_plus-0.4.0.tar.gz",
+  "download_time": "2026-02-28T01:15:07.137504",
+  "package_url": "https://pypi.org/project/CTKFileDialog-plus/"
+}

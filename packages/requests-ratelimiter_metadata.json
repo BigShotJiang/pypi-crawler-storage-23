@@ -1,0 +1,11 @@
+{
+  "name": "requests-ratelimiter",
+  "version": "0.9.2",
+  "summary": "Rate-limiting for the requests library",
+  "author": "Jordan Cook",
+  "license": null,
+  "home_page": null,
+  "download_filename": "requests_ratelimiter-0.9.2.tar.gz",
+  "download_time": "2026-02-28T01:15:24.435914",
+  "package_url": "https://pypi.org/project/requests-ratelimiter/"
+}

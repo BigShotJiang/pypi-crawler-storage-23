@@ -1,0 +1,11 @@
+{
+  "name": "cwm-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for lossless LLM context restoration via KV cache persistence",
+  "author": "AI Development Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cwm_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-28T01:14:58.824586",
+  "package_url": "https://pypi.org/project/cwm-mcp/"
+}

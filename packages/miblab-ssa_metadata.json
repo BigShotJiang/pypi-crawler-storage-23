@@ -1,11 +1,11 @@
 {
   "name": "miblab-ssa",
-  "version": "0.0.28",
+  "version": "0.0.31",
   "summary": "Statistical shape analysis for medical imaging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miblab_ssa-0.0.28.tar.gz",
-  "download_time": "2026-02-27T10:01:24.771076",
+  "download_filename": "miblab_ssa-0.0.31.tar.gz",
+  "download_time": "2026-02-28T01:14:55.629928",
   "package_url": "https://pypi.org/project/miblab-ssa/"
 }

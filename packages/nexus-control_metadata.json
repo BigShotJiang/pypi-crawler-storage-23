@@ -1,11 +1,11 @@
 {
   "name": "nexus-control",
-  "version": "0.6.2",
+  "version": "1.0.0",
   "summary": "Orchestration and approval layer for nexus-router executions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexus_control-0.6.2.tar.gz",
-  "download_time": "2026-02-26T23:30:10.231299",
+  "download_filename": "nexus_control-1.0.0.tar.gz",
+  "download_time": "2026-02-28T01:15:08.204738",
   "package_url": "https://pypi.org/project/nexus-control/"
 }

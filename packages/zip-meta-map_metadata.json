@@ -1,0 +1,11 @@
+{
+  "name": "zip-meta-map",
+  "version": "1.0.0",
+  "summary": "Generate machine-readable metadata manifests for ZIP archives and project directories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zip_meta_map-1.0.0.tar.gz",
+  "download_time": "2026-02-28T01:15:01.956554",
+  "package_url": "https://pypi.org/project/zip-meta-map/"
+}

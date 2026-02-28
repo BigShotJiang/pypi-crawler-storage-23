@@ -1,0 +1,11 @@
+{
+  "name": "CheeseAPI",
+  "version": "2.0.2",
+  "summary": "一款web协程框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheeseapi-2.0.2.tar.gz",
+  "download_time": "2026-02-28T01:14:52.505180",
+  "package_url": "https://pypi.org/project/CheeseAPI/"
+}
