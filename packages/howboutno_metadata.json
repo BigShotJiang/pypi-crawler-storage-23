@@ -1,11 +1,11 @@
 {
   "name": "howboutno",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "An open source ASGI middleware designed to block unwanted traffic on web apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "howboutno-0.1.1.tar.gz",
-  "download_time": "2026-02-27T09:11:53.630802",
+  "download_filename": "howboutno-0.1.4.tar.gz",
+  "download_time": "2026-02-28T16:47:44.668070",
   "package_url": "https://pypi.org/project/howboutno/"
 }

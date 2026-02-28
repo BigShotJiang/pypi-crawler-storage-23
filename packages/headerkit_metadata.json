@@ -1,11 +1,11 @@
 {
   "name": "headerkit",
-  "version": "0.4.0",
-  "summary": "C/C++ header parsing toolkit with IR, libclang backend, and CFFI writer",
+  "version": "0.5.0",
+  "summary": "C/C++ header analysis toolkit with pluggable backends and writers for ctypes, Cython, CFFI, LuaJIT FFI, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "headerkit-0.4.0.tar.gz",
-  "download_time": "2026-02-28T14:58:00.044818",
+  "download_filename": "headerkit-0.5.0.tar.gz",
+  "download_time": "2026-02-28T16:47:33.254747",
   "package_url": "https://pypi.org/project/headerkit/"
 }

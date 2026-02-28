@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-revealjs",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "MkDocs plugin to embed Reveal.js presentations with Markdown syntax",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mkdocs_revealjs-0.8.0.tar.gz",
-  "download_time": "2026-02-28T14:58:22.288030",
+  "download_filename": "mkdocs_revealjs-0.8.1.tar.gz",
+  "download_time": "2026-02-28T16:48:03.353361",
   "package_url": "https://pypi.org/project/mkdocs-revealjs/"
 }

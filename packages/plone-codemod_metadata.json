@@ -1,11 +1,11 @@
 {
   "name": "plone-codemod",
-  "version": "1.0.0a1",
+  "version": "1.0.0a2",
   "summary": "Automated code migration tool for Plone 5.2 → 6.x upgrades",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plone_codemod-1.0.0a1.tar.gz",
-  "download_time": "2026-02-28T15:57:11.474721",
+  "download_filename": "plone_codemod-1.0.0a2.tar.gz",
+  "download_time": "2026-02-28T16:47:36.965739",
   "package_url": "https://pypi.org/project/plone-codemod/"
 }

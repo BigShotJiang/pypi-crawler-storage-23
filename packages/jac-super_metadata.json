@@ -1,0 +1,11 @@
+{
+  "name": "jac-super",
+  "version": "0.1.5",
+  "summary": "Enhanced console output for Jac CLI with Rich formatting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jac_super-0.1.5.tar.gz",
+  "download_time": "2026-02-28T16:47:50.873109",
+  "package_url": "https://pypi.org/project/jac-super/"
+}

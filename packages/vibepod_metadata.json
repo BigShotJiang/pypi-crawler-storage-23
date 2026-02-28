@@ -1,11 +1,11 @@
 {
   "name": "vibepod",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "One CLI for containerized AI coding agents",
   "author": "VibePod",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibepod-0.3.0.tar.gz",
-  "download_time": "2026-02-28T09:49:22.671132",
+  "download_filename": "vibepod-0.3.1.tar.gz",
+  "download_time": "2026-02-28T16:48:00.772106",
   "package_url": "https://pypi.org/project/vibepod/"
 }

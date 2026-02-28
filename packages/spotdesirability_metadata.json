@@ -1,11 +1,11 @@
 {
   "name": "spotdesirability",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "summary": "spotdesirability - a Python package for desirability",
   "author": "T. Bartz-Beielstein",
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "spotdesirability-0.0.26.tar.gz",
-  "download_time": "2026-02-28T16:19:10.788902",
+  "download_filename": "spotdesirability-0.0.27.tar.gz",
+  "download_time": "2026-02-28T16:47:31.209090",
   "package_url": "https://pypi.org/project/spotdesirability/"
 }

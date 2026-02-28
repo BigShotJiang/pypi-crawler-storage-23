@@ -1,0 +1,11 @@
+{
+  "name": "hiosw-harp",
+  "version": "1.0.0",
+  "summary": "Network Auto-Discovery Service for TAFTP Protocol Stack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hiosw_harp-1.0.0.tar.gz",
+  "download_time": "2026-02-28T16:47:36.455210",
+  "package_url": "https://pypi.org/project/hiosw-harp/"
+}
