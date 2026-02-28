@@ -1,11 +1,11 @@
 {
   "name": "bcmd",
-  "version": "0.6.53",
+  "version": "0.6.54",
   "summary": "Commands for Beni",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bcmd-0.6.53.tar.gz",
-  "download_time": "2026-02-28T09:20:41.674688",
+  "download_filename": "bcmd-0.6.54.tar.gz",
+  "download_time": "2026-02-28T10:17:54.259827",
   "package_url": "https://pypi.org/project/bcmd/"
 }

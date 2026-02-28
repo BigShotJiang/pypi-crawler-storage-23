@@ -1,0 +1,11 @@
+{
+  "name": "taskclf",
+  "version": "0.2.0",
+  "summary": "Local-first task classifier that infers your work type from computer activity signals",
+  "author": "fruitiecutiepie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taskclf-0.2.0.tar.gz",
+  "download_time": "2026-02-28T10:17:48.572729",
+  "package_url": "https://pypi.org/project/taskclf/"
+}

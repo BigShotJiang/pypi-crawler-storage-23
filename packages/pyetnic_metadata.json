@@ -1,0 +1,11 @@
+{
+  "name": "pyetnic",
+  "version": "0.0.4",
+  "summary": "Access to ETNIC web services through Python",
+  "author": "Fabien Toune",
+  "license": "MIT",
+  "home_page": "https://github.com/Lapin-Blanc/pyetnic",
+  "download_filename": "pyetnic-0.0.4.tar.gz",
+  "download_time": "2026-02-28T10:17:47.508754",
+  "package_url": "https://pypi.org/project/pyetnic/"
+}

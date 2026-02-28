@@ -1,11 +1,11 @@
 {
   "name": "nanodns",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight, JSON-configurable DNS server for internal networks",
   "author": "NanoDNS Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nanodns-0.1.1.tar.gz",
-  "download_time": "2026-02-28T09:59:39.364453",
+  "download_filename": "nanodns-0.1.2.tar.gz",
+  "download_time": "2026-02-28T10:18:05.121043",
   "package_url": "https://pypi.org/project/nanodns/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ctyunsdk-monitor20220909",
-  "version": "0.0.5.16",
+  "version": "2.0.0",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ctyunsdk_monitor20220909-0.0.5.16.tar.gz",
-  "download_time": "2026-02-28T09:49:13.747133",
+  "download_filename": "ctyunsdk_monitor20220909-2.0.0.tar.gz",
+  "download_time": "2026-02-28T10:17:44.326816",
   "package_url": "https://pypi.org/project/ctyunsdk-monitor20220909/"
 }

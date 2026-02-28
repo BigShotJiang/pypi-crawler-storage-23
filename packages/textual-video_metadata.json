@@ -1,0 +1,11 @@
+{
+  "name": "textual-video",
+  "version": "0.1.4",
+  "summary": "Video playback widgets & controls for Textual (textual-image based)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_video-0.1.4.tar.gz",
+  "download_time": "2026-02-28T10:17:40.617505",
+  "package_url": "https://pypi.org/project/textual-video/"
+}

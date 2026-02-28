@@ -1,0 +1,11 @@
+{
+  "name": "mongopot",
+  "version": "2.0.0",
+  "summary": "A MongoDB Honeypot",
+  "author": "Vesselin Bontchev",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.com/bontchev/mongopot",
+  "download_filename": "mongopot-2.0.0.tar.gz",
+  "download_time": "2026-02-28T10:18:03.045015",
+  "package_url": "https://pypi.org/project/mongopot/"
+}
