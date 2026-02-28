@@ -1,11 +1,11 @@
 {
   "name": "pyodbc-mi",
-  "version": "1.1.12",
+  "version": "1.1.15",
   "summary": "DB API module for ODBC",
   "author": null,
   "license": "MIT-0",
   "home_page": "https://github.com/mkleehammer/pyodbc",
-  "download_filename": "pyodbc_mi-1.1.12.tar.gz",
-  "download_time": "2026-02-22T23:18:11.387801",
+  "download_filename": "pyodbc_mi-1.1.15.tar.gz",
+  "download_time": "2026-02-28T03:23:40.153278",
   "package_url": "https://pypi.org/project/pyodbc-mi/"
 }

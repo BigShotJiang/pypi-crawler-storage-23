@@ -1,0 +1,11 @@
+{
+  "name": "grinmw",
+  "version": "0.2",
+  "summary": "Python wrappers around the Grin wallet V3 and Grin node V2 APIs",
+  "author": "xiaojay, Blade M. Doyle, marekyggdrasil",
+  "license": "MIT",
+  "home_page": "https://github.com/grinfans/grinmw.py",
+  "download_filename": "grinmw-0.2.tar.gz",
+  "download_time": "2026-02-28T03:23:44.129075",
+  "package_url": "https://pypi.org/project/grinmw/"
+}

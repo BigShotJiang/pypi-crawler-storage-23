@@ -1,11 +1,11 @@
 {
   "name": "artbox",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "ArtBox is a tool set for handling multimedia files.",
   "author": "Ivan Ogasawara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "artbox-0.11.0.tar.gz",
-  "download_time": "2026-02-26T16:40:43.839389",
+  "download_filename": "artbox-0.12.0.tar.gz",
+  "download_time": "2026-02-28T03:24:05.106210",
   "package_url": "https://pypi.org/project/artbox/"
 }
