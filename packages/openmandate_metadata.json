@@ -1,0 +1,11 @@
+{
+  "name": "openmandate",
+  "version": "0.0.1",
+  "summary": "Python SDK for the OpenMandate matching exchange",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openmandate-0.0.1.tar.gz",
+  "download_time": "2026-02-28T08:53:17.615301",
+  "package_url": "https://pypi.org/project/openmandate/"
+}

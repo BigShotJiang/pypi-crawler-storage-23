@@ -1,11 +1,11 @@
 {
   "name": "flask-fenrir",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Drop-in Flask API for LLM agent access to SQLModel web apps",
   "author": "Fenrir",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flask_fenrir-0.2.0.tar.gz",
-  "download_time": "2026-02-28T08:20:51.217848",
+  "download_filename": "flask_fenrir-0.4.0.tar.gz",
+  "download_time": "2026-02-28T08:52:51.033863",
   "package_url": "https://pypi.org/project/flask-fenrir/"
 }

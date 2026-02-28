@@ -1,0 +1,11 @@
+{
+  "name": "cip-protocol",
+  "version": "0.4.0",
+  "summary": "Customer Intelligence Protocol — domain-agnostic framework for consumer-facing MCP servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cip_protocol-0.4.0.tar.gz",
+  "download_time": "2026-02-28T08:52:33.206651",
+  "package_url": "https://pypi.org/project/cip-protocol/"
+}

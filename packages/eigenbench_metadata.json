@@ -1,0 +1,11 @@
+{
+  "name": "eigenbench",
+  "version": "0.2.0",
+  "summary": "EigenBench: LLM evaluation with Bradley-Terry models and EigenTrust scoring",
+  "author": "invi_bhagyesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eigenbench-0.2.0.tar.gz",
+  "download_time": "2026-02-28T08:52:31.487706",
+  "package_url": "https://pypi.org/project/eigenbench/"
+}

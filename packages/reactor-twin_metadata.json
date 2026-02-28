@@ -1,11 +1,11 @@
 {
   "name": "reactor-twin",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "Physics-constrained Neural DEs for chemical reactor digital twins",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reactor_twin-0.1.0.tar.gz",
-  "download_time": "2026-02-27T23:26:37.262030",
+  "download_filename": "reactor_twin-0.3.1.tar.gz",
+  "download_time": "2026-02-28T08:53:09.130085",
   "package_url": "https://pypi.org/project/reactor-twin/"
 }

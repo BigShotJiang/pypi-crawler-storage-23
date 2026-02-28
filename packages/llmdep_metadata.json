@@ -1,0 +1,11 @@
+{
+  "name": "llmdep",
+  "version": "0.1.0",
+  "summary": "Distributed LLM Evaluation Benchmark Server",
+  "author": "TJUNLP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmdep-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-28T08:53:14.796869",
+  "package_url": "https://pypi.org/project/llmdep/"
+}

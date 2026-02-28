@@ -1,11 +1,11 @@
 {
   "name": "github-agent",
-  "version": "0.2.17",
+  "version": "0.2.22",
   "summary": "GitHub Agent for MCP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "github_agent-0.2.17.tar.gz",
-  "download_time": "2026-02-26T06:14:18.245636",
+  "download_filename": "github_agent-0.2.22.tar.gz",
+  "download_time": "2026-02-28T08:52:56.780988",
   "package_url": "https://pypi.org/project/github-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "LazyCommitsLint",
+  "version": "0.1.1",
+  "summary": "Something like a Linter for git commits.",
+  "author": "Silletr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lazycommitslint-0.1.1.tar.gz",
+  "download_time": "2026-02-28T08:52:49.379451",
+  "package_url": "https://pypi.org/project/LazyCommitsLint/"
+}

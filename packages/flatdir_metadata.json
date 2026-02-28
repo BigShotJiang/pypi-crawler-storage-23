@@ -1,11 +1,11 @@
 {
   "name": "flatdir",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "summary": "A Python library to create a flat JSON index of files and directories.",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "flatdir-0.0.21.tar.gz",
-  "download_time": "2026-02-27T07:57:57.654907",
+  "download_filename": "flatdir-0.0.22.tar.gz",
+  "download_time": "2026-02-28T08:53:11.875677",
   "package_url": "https://pypi.org/project/flatdir/"
 }

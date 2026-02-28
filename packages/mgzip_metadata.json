@@ -1,0 +1,11 @@
+{
+  "name": "mgzip",
+  "version": "0.2.2",
+  "summary": "A multi-threading implementation of Python gzip module",
+  "author": "Craig Milo Rogers",
+  "license": "MIT License",
+  "home_page": "https://github.com/usc-isi-i2/mgzip",
+  "download_filename": "mgzip-0.2.2.tar.gz",
+  "download_time": "2026-02-28T08:52:27.947103",
+  "package_url": "https://pypi.org/project/mgzip/"
+}

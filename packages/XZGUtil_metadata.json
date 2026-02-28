@@ -1,11 +1,11 @@
 {
   "name": "XZGUtil",
-  "version": "2.6.8",
+  "version": "2.7.0",
   "summary": "xzgutil",
   "author": "xu-zhiguo",
   "license": "BSD License",
   "home_page": null,
-  "download_filename": "xzgutil-2.6.8.tar.gz",
-  "download_time": "2026-02-28T07:42:09.033722",
+  "download_filename": "xzgutil-2.7.0.tar.gz",
+  "download_time": "2026-02-28T08:52:29.769741",
   "package_url": "https://pypi.org/project/XZGUtil/"
 }

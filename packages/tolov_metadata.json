@@ -1,11 +1,11 @@
 {
   "name": "tolov",
-  "version": "1.0.0",
-  "summary": "Unified payment library for Uzbekistan payment systems (Payme, Click, Uzum, Paynet, Octo)",
+  "version": "2.0.0",
+  "summary": "Accept payments from every major provider in Uzbekistan with a single, beautiful API. Payme, Click, Uzum, Paynet, Octo — sync & async.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tolov-1.0.0.tar.gz",
-  "download_time": "2026-02-28T03:23:48.667324",
+  "download_filename": "tolov-2.0.0.tar.gz",
+  "download_time": "2026-02-28T08:52:48.810610",
   "package_url": "https://pypi.org/project/tolov/"
 }

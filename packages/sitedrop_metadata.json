@@ -1,0 +1,11 @@
+{
+  "name": "sitedrop",
+  "version": "0.0.5",
+  "summary": "Self-hosted static site hosting. Upload HTML, get a URL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sitedrop-0.0.5.tar.gz",
+  "download_time": "2026-02-28T08:52:41.794864",
+  "package_url": "https://pypi.org/project/sitedrop/"
+}
