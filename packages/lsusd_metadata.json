@@ -1,0 +1,11 @@
+{
+  "name": "lsusd",
+  "version": "1.0.3",
+  "summary": "List USB serial devices with their associated USB metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsusd-1.0.3.tar.gz",
+  "download_time": "2026-02-28T09:49:37.612909",
+  "package_url": "https://pypi.org/project/lsusd/"
+}

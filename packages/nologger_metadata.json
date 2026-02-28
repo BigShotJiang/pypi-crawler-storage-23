@@ -1,11 +1,11 @@
 {
   "name": "nologger",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A powerful, structured logging solution for Python designed for production environments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nologger-0.1.0.tar.gz",
-  "download_time": "2026-02-28T08:21:13.967063",
+  "download_filename": "nologger-0.2.0.tar.gz",
+  "download_time": "2026-02-28T09:49:23.181127",
   "package_url": "https://pypi.org/project/nologger/"
 }

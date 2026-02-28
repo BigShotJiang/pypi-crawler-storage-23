@@ -1,0 +1,11 @@
+{
+  "name": "cs-ascii-art",
+  "version": "20260228",
+  "summary": "Utilities to assist with ASCII art such as railroad diagrams; since these use Unicode box drawing characters and are better for diagrams such as railroad diagrams, this is neither ASCII nor art.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cs_ascii_art-20260228.tar.gz",
+  "download_time": "2026-02-28T09:49:08.469348",
+  "package_url": "https://pypi.org/project/cs-ascii-art/"
+}

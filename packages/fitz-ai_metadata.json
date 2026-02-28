@@ -1,0 +1,11 @@
+{
+  "name": "fitz-ai",
+  "version": "0.10.1",
+  "summary": "Intelligent, honest knowledge retrieval in 5 minutes. No infrastructure. No boilerplate.",
+  "author": "Yan Fitzner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fitz_ai-0.10.1.tar.gz",
+  "download_time": "2026-02-28T09:49:47.363863",
+  "package_url": "https://pypi.org/project/fitz-ai/"
+}

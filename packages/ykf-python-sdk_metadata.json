@@ -1,11 +1,11 @@
 {
   "name": "ykf-python-sdk",
-  "version": "5.0.10",
+  "version": "5.0.11",
   "summary": "Volcengine SDK for Python",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ykfykf/python_sdk",
-  "download_filename": "ykf_python_sdk-5.0.10.tar.gz",
-  "download_time": "2026-02-25T08:29:07.783815",
+  "download_filename": "ykf_python_sdk-5.0.11.tar.gz",
+  "download_time": "2026-02-28T09:49:18.069282",
   "package_url": "https://pypi.org/project/ykf-python-sdk/"
 }

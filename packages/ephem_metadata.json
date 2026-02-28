@@ -1,0 +1,11 @@
+{
+  "name": "ephem",
+  "version": "4.2.1",
+  "summary": "Compute positions of the planets and stars",
+  "author": "Brandon Rhodes",
+  "license": "MIT",
+  "home_page": "http://rhodesmill.org/pyephem/",
+  "download_filename": "ephem-4.2.1-cp27-cp27m-manylinux2010_i686.whl",
+  "download_time": "2026-02-28T09:49:09.508735",
+  "package_url": "https://pypi.org/project/ephem/"
+}

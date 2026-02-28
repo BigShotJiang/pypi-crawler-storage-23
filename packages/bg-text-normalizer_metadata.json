@@ -1,0 +1,11 @@
+{
+  "name": "bg-text-normalizer",
+  "version": "1.1.0",
+  "summary": "Bulgarian text normalization for TTS — converts numbers, dates, currency, abbreviations to spoken form",
+  "author": "Radi Totev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bg_text_normalizer-1.1.0.tar.gz",
+  "download_time": "2026-02-28T09:49:12.627142",
+  "package_url": "https://pypi.org/project/bg-text-normalizer/"
+}

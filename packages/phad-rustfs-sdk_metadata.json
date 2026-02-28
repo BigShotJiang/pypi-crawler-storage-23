@@ -1,0 +1,11 @@
+{
+  "name": "phad-rustfs-sdk",
+  "version": "1.2.2",
+  "summary": "Phad RustFS SDK - 文件服务Python SDK，支持文件上传和查询",
+  "author": "linghu",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/phad-rustfs-sdk",
+  "download_filename": "phad_rustfs_sdk-1.2.2.tar.gz",
+  "download_time": "2026-02-28T09:49:30.950457",
+  "package_url": "https://pypi.org/project/phad-rustfs-sdk/"
+}

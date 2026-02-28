@@ -1,0 +1,11 @@
+{
+  "name": "pyspainmobility",
+  "version": "1.1.2",
+  "summary": "Library for downloading and processing Spanish mobility data from MITMA",
+  "author": "Massimiliano Luca",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/pySpainMobility/pySpainMobility",
+  "download_filename": "pyspainmobility-1.1.2.tar.gz",
+  "download_time": "2026-02-28T09:49:31.970175",
+  "package_url": "https://pypi.org/project/pyspainmobility/"
+}

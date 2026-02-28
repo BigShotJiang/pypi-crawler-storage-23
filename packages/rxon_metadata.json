@@ -1,0 +1,11 @@
+{
+  "name": "rxon",
+  "version": "1.0b5",
+  "summary": "RXON (Reverse Axon) - Lightweight Inter-node Reverse Communication Protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rxon-1.0b5.tar.gz",
+  "download_time": "2026-02-28T09:49:06.862865",
+  "package_url": "https://pypi.org/project/rxon/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tcalendars",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "交易日历",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tcalendars-1.1.0.tar.gz",
-  "download_time": "2026-02-28T04:42:15.721398",
+  "download_filename": "tcalendars-1.2.0.tar.gz",
+  "download_time": "2026-02-28T09:49:25.735040",
   "package_url": "https://pypi.org/project/tcalendars/"
 }
