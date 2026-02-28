@@ -1,0 +1,11 @@
+{
+  "name": "jsontap",
+  "version": "0.3.0",
+  "summary": "Reactive access to incrementally parsed JSON for Python",
+  "author": "fhalde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsontap-0.3.0.tar.gz",
+  "download_time": "2026-02-28T13:14:45.344816",
+  "package_url": "https://pypi.org/project/jsontap/"
+}

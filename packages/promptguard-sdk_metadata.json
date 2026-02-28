@@ -1,11 +1,11 @@
 {
   "name": "promptguard-sdk",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Drop-in security for AI applications - AI Firewall SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptguard_sdk-1.5.0.tar.gz",
-  "download_time": "2026-02-28T11:14:57.817424",
+  "download_filename": "promptguard_sdk-1.5.1.tar.gz",
+  "download_time": "2026-02-28T13:15:08.462368",
   "package_url": "https://pypi.org/project/promptguard-sdk/"
 }

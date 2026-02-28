@@ -1,11 +1,11 @@
 {
   "name": "trunkate-ai",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Official Python SDK for Trunkate AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trunkate_ai-0.1.6.tar.gz",
-  "download_time": "2026-02-28T06:28:22.658411",
+  "download_filename": "trunkate_ai-0.1.7.tar.gz",
+  "download_time": "2026-02-28T13:15:30.624785",
   "package_url": "https://pypi.org/project/trunkate-ai/"
 }

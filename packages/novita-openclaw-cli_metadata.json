@@ -1,11 +1,11 @@
 {
   "name": "novita-openclaw-cli",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "One-click launch of OpenClaw sandbox environment powered by Novita Agent Sandbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "novita_openclaw_cli-0.4.1.tar.gz",
-  "download_time": "2026-02-28T12:28:34.178266",
+  "download_filename": "novita_openclaw_cli-0.4.3.tar.gz",
+  "download_time": "2026-02-28T13:14:58.126352",
   "package_url": "https://pypi.org/project/novita-openclaw-cli/"
 }

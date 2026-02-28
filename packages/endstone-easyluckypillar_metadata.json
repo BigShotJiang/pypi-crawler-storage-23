@@ -1,0 +1,11 @@
+{
+  "name": "endstone-easyluckypillar",
+  "version": "0.1.1",
+  "summary": "一个基于 EndStone 的幸运之柱小游戏插件 / A Lucky Pillar mini-game plugin based on EndStone.",
+  "author": "MengHanLOVE",
+  "license": null,
+  "home_page": "https://github.com/MengHanLOVE1027",
+  "download_filename": "endstone_easyluckypillar-0.1.1.tar.gz",
+  "download_time": "2026-02-28T13:15:13.028498",
+  "package_url": "https://pypi.org/project/endstone-easyluckypillar/"
+}

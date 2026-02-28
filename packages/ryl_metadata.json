@@ -1,0 +1,11 @@
+{
+  "name": "ryl",
+  "version": "0.3.2",
+  "summary": "Fast YAML linter (Rust) packaged for PyPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ryl-0.3.2.tar.gz",
+  "download_time": "2026-02-28T13:15:23.850700",
+  "package_url": "https://pypi.org/project/ryl/"
+}

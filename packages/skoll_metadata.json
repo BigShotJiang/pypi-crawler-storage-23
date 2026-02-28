@@ -1,11 +1,11 @@
 {
   "name": "skoll",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "A simple package that provide a basic API python framework based on starlette and some domain driven design concepts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skoll-0.1.10.tar.gz",
-  "download_time": "2026-02-26T11:16:01.227401",
+  "download_filename": "skoll-0.1.12.tar.gz",
+  "download_time": "2026-02-28T13:15:14.302108",
   "package_url": "https://pypi.org/project/skoll/"
 }

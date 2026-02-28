@@ -1,11 +1,11 @@
 {
   "name": "infrastructure-connector-finaurio",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Strict versioned infrastructure connector for PostgreSQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "infrastructure_connector_finaurio-0.3.0.tar.gz",
-  "download_time": "2026-02-28T12:28:03.881200",
+  "download_filename": "infrastructure_connector_finaurio-0.3.1.tar.gz",
+  "download_time": "2026-02-28T13:14:55.571697",
   "package_url": "https://pypi.org/project/infrastructure-connector-finaurio/"
 }

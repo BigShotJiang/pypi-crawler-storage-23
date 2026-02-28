@@ -1,0 +1,11 @@
+{
+  "name": "extra-platforms",
+  "version": "11.0.0",
+  "summary": "🔎 Detect architectures, platforms, shells, terminals, CI systems and agents, grouped by family",
+  "author": "Kevin Deldycke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "extra_platforms-11.0.0.tar.gz",
+  "download_time": "2026-02-28T13:15:21.933638",
+  "package_url": "https://pypi.org/project/extra-platforms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toolssql",
+  "version": "0.1.4",
+  "summary": "Small SQL helper utilities with optional external authsql.py config loading.",
+  "author": "MH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolssql-0.1.4.tar.gz",
+  "download_time": "2026-02-28T13:14:41.394625",
+  "package_url": "https://pypi.org/project/toolssql/"
+}

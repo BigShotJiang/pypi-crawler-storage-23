@@ -1,0 +1,11 @@
+{
+  "name": "popimg",
+  "version": "0.1.0",
+  "summary": "Cross-platform image popup for debugging — macOS menu bar, Windows system tray & Linux notification area",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "popimg-0.1.0-cp310-cp310-macosx_26_0_arm64.whl",
+  "download_time": "2026-02-28T13:15:32.534021",
+  "package_url": "https://pypi.org/project/popimg/"
+}
