@@ -1,0 +1,11 @@
+{
+  "name": "furnilytics",
+  "version": "0.2.3",
+  "summary": "Python client for the Furnilytics API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "furnilytics-0.2.3.tar.gz",
+  "download_time": "2026-02-28T09:20:35.366513",
+  "package_url": "https://pypi.org/project/furnilytics/"
+}

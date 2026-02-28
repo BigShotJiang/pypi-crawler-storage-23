@@ -1,11 +1,11 @@
 {
   "name": "async-xenapi",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "An async library for XenAPI",
   "author": null,
   "license": "LGPL-2.1-only",
   "home_page": null,
-  "download_filename": "async_xenapi-1.0.4.tar.gz",
-  "download_time": "2026-02-28T08:53:18.166132",
+  "download_filename": "async_xenapi-1.0.5.tar.gz",
+  "download_time": "2026-02-28T09:20:59.159382",
   "package_url": "https://pypi.org/project/async-xenapi/"
 }

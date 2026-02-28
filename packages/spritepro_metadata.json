@@ -1,11 +1,11 @@
 {
   "name": "spritepro",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "A high-level 2D game framework for Python, built on Pygame, designed to simplify and speed up game development.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spritepro-2.2.1.tar.gz",
-  "download_time": "2026-02-27T19:12:31.950836",
+  "download_filename": "spritepro-2.2.3.tar.gz",
+  "download_time": "2026-02-28T09:20:38.023573",
   "package_url": "https://pypi.org/project/spritepro/"
 }

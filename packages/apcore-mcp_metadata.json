@@ -1,11 +1,11 @@
 {
   "name": "apcore-mcp",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Automatic MCP Server & OpenAI Tools Bridge for apcore",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apcore_mcp-0.6.0.tar.gz",
-  "download_time": "2026-02-25T11:11:19.258058",
+  "download_filename": "apcore_mcp-0.7.0.tar.gz",
+  "download_time": "2026-02-28T09:20:50.150980",
   "package_url": "https://pypi.org/project/apcore-mcp/"
 }

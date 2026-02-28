@@ -1,11 +1,11 @@
 {
   "name": "mantic-thinking",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Cross-domain anomaly and opportunity detection using 4-layer hierarchical analysis",
   "author": null,
   "license": "Elastic License 2.0",
   "home_page": null,
-  "download_filename": "mantic_thinking-2.2.0.tar.gz",
-  "download_time": "2026-02-23T17:38:58.047071",
+  "download_filename": "mantic_thinking-2.2.1.tar.gz",
+  "download_time": "2026-02-28T09:20:51.706630",
   "package_url": "https://pypi.org/project/mantic-thinking/"
 }

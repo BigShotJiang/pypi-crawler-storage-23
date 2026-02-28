@@ -1,0 +1,11 @@
+{
+  "name": "roundamix",
+  "version": "0.1.1",
+  "summary": "Roundabout-network stochastic stream shuffler",
+  "author": "Daniel Alves Rösel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "roundamix-0.1.1.tar.gz",
+  "download_time": "2026-02-28T09:21:14.240171",
+  "package_url": "https://pypi.org/project/roundamix/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "krypton-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight SDK to connect to a Krypton AI Gateway over the internet.",
   "author": "Saajan",
   "license": null,
   "home_page": "https://github.com/saaj376/Krypton",
-  "download_filename": "krypton_sdk-0.2.0.tar.gz",
-  "download_time": "2026-02-28T08:20:41.910149",
+  "download_filename": "krypton_sdk-0.2.1.tar.gz",
+  "download_time": "2026-02-28T09:20:48.596139",
   "package_url": "https://pypi.org/project/krypton-sdk/"
 }

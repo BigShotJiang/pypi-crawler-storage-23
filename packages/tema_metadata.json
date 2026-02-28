@@ -1,0 +1,11 @@
+{
+  "name": "tema",
+  "version": "0.1.0",
+  "summary": "Multi-provider temporary email CLI with real domains (gmail, outlook, edu)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tema-0.1.0.tar.gz",
+  "download_time": "2026-02-28T09:21:03.320606",
+  "package_url": "https://pypi.org/project/tema/"
+}

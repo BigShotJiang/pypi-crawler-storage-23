@@ -1,0 +1,11 @@
+{
+  "name": "pyloops-so",
+  "version": "0.1.5",
+  "summary": "Lightweight Python SDK (unofficial) for the Loops API",
+  "author": "Loops Py Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyloops_so-0.1.5.tar.gz",
+  "download_time": "2026-02-28T09:21:11.646456",
+  "package_url": "https://pypi.org/project/pyloops-so/"
+}

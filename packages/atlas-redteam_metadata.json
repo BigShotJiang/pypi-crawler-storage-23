@@ -1,11 +1,11 @@
 {
   "name": "atlas-redteam",
-  "version": "2.0.0a1.dev47",
+  "version": "2.0.0a1.dev50",
   "summary": "AWS Cloud Attack Path Mapping — BloodHound-style graph analysis (recon + planning + simulation, no execution)",
   "author": "Omar",
   "license": null,
   "home_page": null,
-  "download_filename": "atlas_redteam-2.0.0a1.dev47.tar.gz",
-  "download_time": "2026-02-27T01:10:52.546929",
+  "download_filename": "atlas_redteam-2.0.0a1.dev50.tar.gz",
+  "download_time": "2026-02-28T09:20:30.169465",
   "package_url": "https://pypi.org/project/atlas-redteam/"
 }
