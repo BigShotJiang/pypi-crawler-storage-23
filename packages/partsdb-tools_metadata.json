@@ -1,11 +1,11 @@
 {
   "name": "partsdb-tools",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Test tools for partmanager partsdb",
   "author": "sakoPO",
   "license": null,
   "home_page": "https://github.com/partmanager/partsdb-tools",
-  "download_filename": "partsdb_tools-0.2.1.tar.gz",
-  "download_time": "2026-02-27T21:52:37.884602",
+  "download_filename": "partsdb_tools-0.2.3.tar.gz",
+  "download_time": "2026-02-28T15:57:02.726186",
   "package_url": "https://pypi.org/project/partsdb-tools/"
 }

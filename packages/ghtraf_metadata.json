@@ -1,0 +1,11 @@
+{
+  "name": "ghtraf",
+  "version": "0.2.8a0",
+  "summary": "Alias for github-traffic-tracker — zero-server GitHub traffic analytics CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghtraf-0.2.8a0.tar.gz",
+  "download_time": "2026-02-28T15:56:52.922626",
+  "package_url": "https://pypi.org/project/ghtraf/"
+}

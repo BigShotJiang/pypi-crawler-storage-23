@@ -1,11 +1,11 @@
 {
   "name": "vsapy",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "Vector Symbolic Architecture(VSA) library that allows building VSA apps that use various flavours of VSA vectors.",
   "author": "Chris Simpkin",
   "license": "MIT",
   "home_page": "https://github.com/vsapy/vsapy",
-  "download_filename": "vsapy-0.10.0.tar.gz",
-  "download_time": "2026-02-24T11:55:54.801583",
+  "download_filename": "vsapy-0.10.1.tar.gz",
+  "download_time": "2026-02-28T15:57:10.434747",
   "package_url": "https://pypi.org/project/vsapy/"
 }

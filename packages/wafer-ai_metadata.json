@@ -1,11 +1,11 @@
 {
   "name": "wafer-ai",
-  "version": "0.0.50",
+  "version": "0.0.53",
   "summary": "Unified Wafer CLI, SDK, and LSP package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wafer_ai-0.0.50.tar.gz",
-  "download_time": "2026-02-28T05:23:36.103290",
+  "download_filename": "wafer_ai-0.0.53.tar.gz",
+  "download_time": "2026-02-28T15:56:54.972270",
   "package_url": "https://pypi.org/project/wafer-ai/"
 }

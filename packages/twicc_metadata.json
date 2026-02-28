@@ -1,11 +1,11 @@
 {
   "name": "twicc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Claude Code Web UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twicc-1.0.0.tar.gz",
-  "download_time": "2026-02-27T23:48:19.098099",
+  "download_filename": "twicc-1.0.2.tar.gz",
+  "download_time": "2026-02-28T15:57:03.784619",
   "package_url": "https://pypi.org/project/twicc/"
 }

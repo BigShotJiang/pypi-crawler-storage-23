@@ -1,0 +1,11 @@
+{
+  "name": "supadns",
+  "version": "1.0.0",
+  "summary": "Bypass blocked DNS for Supabase using DNS-over-HTTPS",
+  "author": "SupaDNS Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supadns-1.0.0.tar.gz",
+  "download_time": "2026-02-28T15:57:13.001561",
+  "package_url": "https://pypi.org/project/supadns/"
+}

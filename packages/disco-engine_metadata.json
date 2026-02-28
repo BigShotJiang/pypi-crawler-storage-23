@@ -1,0 +1,11 @@
+{
+  "name": "disco-engine",
+  "version": "0.0.1rc1",
+  "summary": "A distributed event simulation core (disco) engine.",
+  "author": "Michiel Jansen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "disco_engine-0.0.1rc1.tar.gz",
+  "download_time": "2026-02-28T15:57:06.849830",
+  "package_url": "https://pypi.org/project/disco-engine/"
+}

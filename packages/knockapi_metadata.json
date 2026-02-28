@@ -1,11 +1,11 @@
 {
   "name": "knockapi",
-  "version": "1.20.1",
+  "version": "1.20.2",
   "summary": "The official Python library for the knock API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "knockapi-1.20.1.tar.gz",
-  "download_time": "2026-02-24T18:40:03.314369",
+  "download_filename": "knockapi-1.20.2.tar.gz",
+  "download_time": "2026-02-28T15:56:51.384427",
   "package_url": "https://pypi.org/project/knockapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "creevo-agent-library",
+  "version": "0.1.0",
+  "summary": "CAL (Creevo Agent Library) - A Python library for building agentic AI applications with LLM abstraction, tool management, and conversation memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "creevo_agent_library-0.1.0.tar.gz",
+  "download_time": "2026-02-28T15:57:13.510413",
+  "package_url": "https://pypi.org/project/creevo-agent-library/"
+}
