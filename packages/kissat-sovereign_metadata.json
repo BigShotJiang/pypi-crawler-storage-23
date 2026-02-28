@@ -1,11 +1,11 @@
 {
   "name": "kissat-sovereign",
-  "version": "2.0.0.post2",
+  "version": "2.0.0.post3",
   "summary": null,
   "author": "Americo Simoes",
   "license": null,
   "home_page": null,
-  "download_filename": "kissat_sovereign-2.0.0.post2.tar.gz",
-  "download_time": "2026-02-28T18:22:19.816216",
+  "download_filename": "kissat_sovereign-2.0.0.post3.tar.gz",
+  "download_time": "2026-02-28T18:57:57.981546",
   "package_url": "https://pypi.org/project/kissat-sovereign/"
 }

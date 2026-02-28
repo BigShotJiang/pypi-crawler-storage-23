@@ -1,11 +1,11 @@
 {
   "name": "phaethon",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Unit-Safe Data Pipeline Schema and Semantic Data Transformation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phaethon-0.2.2.tar.gz",
-  "download_time": "2026-02-27T18:31:31.103230",
+  "download_filename": "phaethon-0.2.3.tar.gz",
+  "download_time": "2026-02-28T18:57:48.181827",
   "package_url": "https://pypi.org/project/phaethon/"
 }

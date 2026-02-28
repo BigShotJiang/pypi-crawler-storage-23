@@ -1,0 +1,11 @@
+{
+  "name": "vantagepoint-doorway",
+  "version": "0.1.0",
+  "summary": "Structured thinking methodology as infrastructure. Five phases. Works standalone, with an LLM, or with the Doorway AGI engine.",
+  "author": "Luke H",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vantagepoint_doorway-0.1.0.tar.gz",
+  "download_time": "2026-02-28T18:57:26.914563",
+  "package_url": "https://pypi.org/project/vantagepoint-doorway/"
+}

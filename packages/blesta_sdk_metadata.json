@@ -1,0 +1,11 @@
+{
+  "name": "blesta_sdk",
+  "version": "0.1.7",
+  "summary": "A SDK for integrating with Blesta",
+  "author": "jwogrady",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blesta_sdk-0.1.7.tar.gz",
+  "download_time": "2026-02-28T18:57:42.563595",
+  "package_url": "https://pypi.org/project/blesta_sdk/"
+}

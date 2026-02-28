@@ -1,11 +1,11 @@
 {
   "name": "texsmith-exam",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "TeXSmith exam template.",
   "author": "Yves Chevallier",
   "license": null,
   "home_page": null,
-  "download_filename": "texsmith_exam-0.2.0.tar.gz",
-  "download_time": "2026-02-26T11:57:17.941035",
+  "download_filename": "texsmith_exam-0.2.3.tar.gz",
+  "download_time": "2026-02-28T18:58:01.581772",
   "package_url": "https://pypi.org/project/texsmith-exam/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "signalflow-nn",
+  "version": "0.6.0",
+  "summary": "Neural network extension for signalflow (torch/lightning).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signalflow_nn-0.6.0.tar.gz",
+  "download_time": "2026-02-28T18:57:29.106213",
+  "package_url": "https://pypi.org/project/signalflow-nn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codebase-qa-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for codebase Q&A powered by RAG — index any git repo and ask questions about the code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codebase_qa_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-28T18:57:58.490920",
+  "package_url": "https://pypi.org/project/codebase-qa-mcp/"
+}
