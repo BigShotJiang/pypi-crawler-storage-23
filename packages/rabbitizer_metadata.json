@@ -1,0 +1,11 @@
+{
+  "name": "rabbitizer",
+  "version": "1.15.0",
+  "summary": "MIPS instruction decoder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rabbitizer-1.15.0-cp314-cp314t-macosx_10_15_x86_64.whl",
+  "download_time": "2026-02-28T21:37:44.203729",
+  "package_url": "https://pypi.org/project/rabbitizer/"
+}

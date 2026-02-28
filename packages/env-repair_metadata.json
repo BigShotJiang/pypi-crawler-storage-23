@@ -1,0 +1,11 @@
+{
+  "name": "env-repair",
+  "version": "0.2.6",
+  "summary": "Scan and repair venv/virtualenv/conda/mamba/micromamba/miniforge environments with mixed conda/pip installs.",
+  "author": "Tobias",
+  "license": null,
+  "home_page": null,
+  "download_filename": "env_repair-0.2.6.tar.gz",
+  "download_time": "2026-02-28T21:37:58.300023",
+  "package_url": "https://pypi.org/project/env-repair/"
+}

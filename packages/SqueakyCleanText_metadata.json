@@ -1,11 +1,11 @@
 {
   "name": "SqueakyCleanText",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Text preprocessing & PII anonymization pipeline for NLP/ML: ONNX NER ensemble, language detection, stopword removal, and configurable token replacement.",
   "author": "Rehan Fazal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "squeakycleantext-0.6.0.tar.gz",
-  "download_time": "2026-02-28T18:22:52.331552",
+  "download_filename": "squeakycleantext-0.6.1.tar.gz",
+  "download_time": "2026-02-28T21:38:07.633208",
   "package_url": "https://pypi.org/project/SqueakyCleanText/"
 }

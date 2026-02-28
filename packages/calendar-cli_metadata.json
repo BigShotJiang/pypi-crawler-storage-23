@@ -1,0 +1,11 @@
+{
+  "name": "calendar-cli",
+  "version": "1.0.2",
+  "summary": "Simple command-line CalDav client, for adding and browsing calendar items, todo list items, etc.",
+  "author": "Tobias Brox",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/tobixen/calendar-cli",
+  "download_filename": "calendar_cli-1.0.2.tar.gz",
+  "download_time": "2026-02-28T21:38:07.121324",
+  "package_url": "https://pypi.org/project/calendar-cli/"
+}

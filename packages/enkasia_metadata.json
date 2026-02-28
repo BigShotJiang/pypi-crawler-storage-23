@@ -1,11 +1,11 @@
 {
   "name": "enkasia",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "summary": "Enkasia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "enkasia-0.0.9.tar.gz",
-  "download_time": "2026-02-28T19:53:46.382190",
+  "download_filename": "enkasia-0.0.11.tar.gz",
+  "download_time": "2026-02-28T21:37:50.926140",
   "package_url": "https://pypi.org/project/enkasia/"
 }
