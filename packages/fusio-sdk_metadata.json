@@ -1,11 +1,11 @@
 {
   "name": "fusio-sdk",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "summary": "SDK to talk to the Fusio REST API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fusio_sdk-7.0.1.tar.gz",
-  "download_time": "2026-02-28T16:19:07.073411",
+  "download_filename": "fusio_sdk-7.0.2.tar.gz",
+  "download_time": "2026-02-28T17:18:50.535578",
   "package_url": "https://pypi.org/project/fusio-sdk/"
 }

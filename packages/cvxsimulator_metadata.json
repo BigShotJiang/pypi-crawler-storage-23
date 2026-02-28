@@ -1,11 +1,11 @@
 {
   "name": "cvxsimulator",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "Simple simulator for investors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cvxsimulator-1.4.5.tar.gz",
-  "download_time": "2026-02-28T16:19:33.614797",
+  "download_filename": "cvxsimulator-1.4.6.tar.gz",
+  "download_time": "2026-02-28T17:19:25.692269",
   "package_url": "https://pypi.org/project/cvxsimulator/"
 }

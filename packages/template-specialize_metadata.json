@@ -1,0 +1,11 @@
+{
+  "name": "template-specialize",
+  "version": "1.6.2",
+  "summary": "Command-line tool for rendering Jinja2 templates",
+  "author": "Craig A. Hobbs",
+  "license": "MIT",
+  "home_page": "https://github.com/craigahobbs/template-specialize",
+  "download_filename": "template_specialize-1.6.2.tar.gz",
+  "download_time": "2026-02-28T17:19:12.761394",
+  "package_url": "https://pypi.org/project/template-specialize/"
+}

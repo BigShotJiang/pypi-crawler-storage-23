@@ -1,0 +1,11 @@
+{
+  "name": "mutobj",
+  "version": "0.2.0",
+  "summary": "Mutable Object Declaration - 支持声明与实现分离的类定义库",
+  "author": "mutobj contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mutobj-0.2.0.tar.gz",
+  "download_time": "2026-02-28T17:19:18.950744",
+  "package_url": "https://pypi.org/project/mutobj/"
+}

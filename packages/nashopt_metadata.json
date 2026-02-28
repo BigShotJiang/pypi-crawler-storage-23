@@ -1,11 +1,11 @@
 {
   "name": "nashopt",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "NashOpt - A Python Library for Computing Generalized Nash Equilibria and Solving Game-Design and Game-Theoretic Control Problems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nashopt-1.0.6.tar.gz",
-  "download_time": "2026-02-28T11:14:43.987279",
+  "download_filename": "nashopt-1.0.7.tar.gz",
+  "download_time": "2026-02-28T17:19:24.618285",
   "package_url": "https://pypi.org/project/nashopt/"
 }

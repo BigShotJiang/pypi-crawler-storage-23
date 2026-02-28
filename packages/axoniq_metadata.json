@@ -1,11 +1,11 @@
 {
   "name": "axoniq",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
   "author": "harshkedia177",
   "license": null,
   "home_page": null,
-  "download_filename": "axoniq-0.2.1.tar.gz",
-  "download_time": "2026-02-21T09:53:02.806657",
+  "download_filename": "axoniq-0.2.4.tar.gz",
+  "download_time": "2026-02-28T17:18:59.838323",
   "package_url": "https://pypi.org/project/axoniq/"
 }
