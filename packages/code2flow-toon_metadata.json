@@ -1,11 +1,11 @@
 {
   "name": "code2flow-toon",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "High-performance Python code flow analysis with optimized TOON format - CFG, DFG, call graphs, and intelligent code queries",
   "author": "STTS Project",
   "license": null,
   "home_page": "https://github.com/wronai/stts",
-  "download_filename": "code2flow_toon-0.2.4.tar.gz",
-  "download_time": "2026-02-28T21:55:03.365515",
+  "download_filename": "code2flow_toon-0.2.5.tar.gz",
+  "download_time": "2026-02-28T22:43:11.453351",
   "package_url": "https://pypi.org/project/code2flow-toon/"
 }

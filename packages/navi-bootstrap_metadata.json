@@ -1,0 +1,11 @@
+{
+  "name": "navi-bootstrap",
+  "version": "0.1.0",
+  "summary": "Jinja2 rendering engine and template packs for bootstrapping projects to navi-os-grade posture",
+  "author": "Nelson Spencer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "navi_bootstrap-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-28T22:42:58.440836",
+  "package_url": "https://pypi.org/project/navi-bootstrap/"
+}

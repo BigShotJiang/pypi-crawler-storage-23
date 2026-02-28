@@ -1,0 +1,11 @@
+{
+  "name": "camelot-key",
+  "version": "0.1.0",
+  "summary": "Parse and format musical key notation and convert between Camelot key notation",
+  "author": "BasementCat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "camelot_key-0.1.0.tar.gz",
+  "download_time": "2026-02-28T22:43:00.521791",
+  "package_url": "https://pypi.org/project/camelot-key/"
+}

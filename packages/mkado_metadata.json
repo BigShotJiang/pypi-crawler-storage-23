@@ -1,0 +1,11 @@
+{
+  "name": "mkado",
+  "version": "0.1.2",
+  "summary": "Modern Python implementation of the McDonald-Kreitman test toolkit",
+  "author": "Andrew Kern",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkado-0.1.2.tar.gz",
+  "download_time": "2026-02-28T22:43:21.293753",
+  "package_url": "https://pypi.org/project/mkado/"
+}

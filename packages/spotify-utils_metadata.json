@@ -1,0 +1,11 @@
+{
+  "name": "spotify-utils",
+  "version": "2.0.1",
+  "summary": "An awesome and easy-to-use CLI for various Spotify® utility tasks",
+  "author": "Fabian Eulitz",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spotify_utils-2.0.1.tar.gz",
+  "download_time": "2026-02-28T22:43:19.741283",
+  "package_url": "https://pypi.org/project/spotify-utils/"
+}

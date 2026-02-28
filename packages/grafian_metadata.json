@@ -1,0 +1,11 @@
+{
+  "name": "grafian",
+  "version": "0.0.1",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "grafian-0.0.1.tar.gz",
+  "download_time": "2026-02-28T22:43:08.306023",
+  "package_url": "https://pypi.org/project/grafian/"
+}

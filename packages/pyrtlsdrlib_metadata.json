@@ -1,0 +1,11 @@
+{
+  "name": "pyrtlsdrlib",
+  "version": "0.0.4",
+  "summary": "librtlsdr installer for use with pyrtlsdr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrtlsdrlib-0.0.4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-28T22:43:17.658433",
+  "package_url": "https://pypi.org/project/pyrtlsdrlib/"
+}

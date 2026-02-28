@@ -1,0 +1,11 @@
+{
+  "name": "ngram-polars",
+  "version": "0.1.2",
+  "summary": "High-performance n-gram generation for Polars",
+  "author": "Eric",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ngram_polars-0.1.2-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-28T22:43:08.839652",
+  "package_url": "https://pypi.org/project/ngram-polars/"
+}

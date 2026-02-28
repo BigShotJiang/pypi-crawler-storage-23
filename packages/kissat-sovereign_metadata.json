@@ -1,11 +1,11 @@
 {
   "name": "kissat-sovereign",
-  "version": "2.1.0",
-  "summary": null,
+  "version": "1.0.3",
+  "summary": "NS-33 Fractal Layer P=NP Solver Bridge",
   "author": "Americo Simoes",
   "license": null,
   "home_page": null,
-  "download_filename": "kissat_sovereign-2.1.0.tar.gz",
-  "download_time": "2026-02-28T19:18:04.575217",
+  "download_filename": "kissat_sovereign-1.0.3.tar.gz",
+  "download_time": "2026-02-28T22:43:18.721384",
   "package_url": "https://pypi.org/project/kissat-sovereign/"
 }

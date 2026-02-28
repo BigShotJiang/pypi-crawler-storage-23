@@ -1,11 +1,11 @@
 {
   "name": "stepcount",
-  "version": "3.18.0",
+  "version": "3.18.1",
   "summary": "Step counter for wrist-worn accelerometers compatible with the UK Biobank Accelerometer Dataset",
   "author": "Shing Chan, Scott Small, Gert Mertes, Aiden Doherty",
   "license": "See LICENSE file.",
   "home_page": "https://github.com/OxWearables/stepcount",
-  "download_filename": "stepcount-3.18.0.tar.gz",
-  "download_time": "2026-02-28T21:16:44.091382",
+  "download_filename": "stepcount-3.18.1.tar.gz",
+  "download_time": "2026-02-28T22:43:14.566695",
   "package_url": "https://pypi.org/project/stepcount/"
 }

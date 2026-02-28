@@ -1,11 +1,11 @@
 {
   "name": "orca-discord-bot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Discord music bot with hybrid slash and prefix commands, queue controls, Spotify playlist import, and moderation tools.",
   "author": "Jaden Sun",
   "license": null,
   "home_page": null,
-  "download_filename": "orca_discord_bot-0.1.0.tar.gz",
-  "download_time": "2026-02-28T05:23:22.590056",
+  "download_filename": "orca_discord_bot-0.1.1.tar.gz",
+  "download_time": "2026-02-28T22:42:54.828421",
   "package_url": "https://pypi.org/project/orca-discord-bot/"
 }

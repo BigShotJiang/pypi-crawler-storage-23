@@ -1,11 +1,11 @@
 {
   "name": "hledger-textual",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A terminal user interface for managing hledger journal transactions",
   "author": "Michele Broggi",
   "license": null,
   "home_page": null,
-  "download_filename": "hledger_textual-0.1.1.tar.gz",
-  "download_time": "2026-02-28T07:05:17.378758",
+  "download_filename": "hledger_textual-0.1.2.tar.gz",
+  "download_time": "2026-02-28T22:43:24.360828",
   "package_url": "https://pypi.org/project/hledger-textual/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ultimate-gemini-mcp",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "summary": "Gemini 3.1 Flash Image MCP server - fast image generation with advanced reasoning, 512px-4K resolution, up to 14 reference images, Google Search grounding, and configurable thinking mode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ultimate_gemini_mcp-6.0.2-py3-none-any.whl",
-  "download_time": "2026-02-26T21:54:51.033533",
+  "download_filename": "ultimate_gemini_mcp-6.0.3-py3-none-any.whl",
+  "download_time": "2026-02-28T22:43:04.687655",
   "package_url": "https://pypi.org/project/ultimate-gemini-mcp/"
 }
