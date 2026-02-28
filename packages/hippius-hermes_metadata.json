@@ -1,0 +1,11 @@
+{
+  "name": "hippius-hermes",
+  "version": "0.2.0",
+  "summary": "High-performance M2M protocol for Bittensor subnets using Hippius Arion",
+  "author": "Hippius Protocol",
+  "license": null,
+  "home_page": "https://hermes.hippius.com",
+  "download_filename": "hippius_hermes-0.2.0.tar.gz",
+  "download_time": "2026-02-28T11:34:45.918610",
+  "package_url": "https://pypi.org/project/hippius-hermes/"
+}

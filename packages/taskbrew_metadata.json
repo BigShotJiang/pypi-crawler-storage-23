@@ -1,11 +1,11 @@
 {
   "name": "taskbrew",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Multi-agent AI team orchestrator — coordinate Claude Code, Gemini CLI, and custom AI agents into collaborative development workflows",
   "author": "Nikhil Chatragadda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "taskbrew-1.0.3.tar.gz",
-  "download_time": "2026-02-28T11:14:39.883474",
+  "download_filename": "taskbrew-1.0.4.tar.gz",
+  "download_time": "2026-02-28T11:34:48.577972",
   "package_url": "https://pypi.org/project/taskbrew/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neuroconscious-transformer",
-  "version": "3.1.2",
+  "version": "3.1.4",
   "summary": "NeuroConscious Transformer: Next-Generation Neuromorphic Consciousness Architecture",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuroconscious_transformer-3.1.2.tar.gz",
-  "download_time": "2026-02-28T09:49:31.460291",
+  "download_filename": "neuroconscious_transformer-3.1.4.tar.gz",
+  "download_time": "2026-02-28T11:34:48.038795",
   "package_url": "https://pypi.org/project/neuroconscious-transformer/"
 }

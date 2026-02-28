@@ -1,11 +1,11 @@
 {
   "name": "opop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The Optimizer Optimizer -- a tiny brain for any ML optimizer",
   "author": "a guy who cant code and an AI on a metal shelf in Nebraska",
   "license": null,
   "home_page": null,
-  "download_filename": "opop-0.1.0.tar.gz",
-  "download_time": "2026-02-28T11:14:58.329631",
+  "download_filename": "opop-0.1.1.tar.gz",
+  "download_time": "2026-02-28T11:34:53.820784",
   "package_url": "https://pypi.org/project/opop/"
 }
