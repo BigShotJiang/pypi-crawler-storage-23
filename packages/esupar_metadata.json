@@ -1,11 +1,11 @@
 {
   "name": "esupar",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "Tokenizer POS-tagger and Dependency-parser with BERT/RoBERTa/DeBERTa models for Japanese and other languages",
   "author": "Koichi Yasuoka",
   "license": "MIT",
   "home_page": "https://github.com/KoichiYasuoka/esupar",
-  "download_filename": "esupar-1.9.1-py3-none-any.whl",
-  "download_time": "2026-02-23T03:49:31.623051",
+  "download_filename": "esupar-1.9.2-py3-none-any.whl",
+  "download_time": "2026-02-28T07:05:40.304326",
   "package_url": "https://pypi.org/project/esupar/"
 }

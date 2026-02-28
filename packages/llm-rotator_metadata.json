@@ -1,11 +1,11 @@
 {
   "name": "llm-rotator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Fault-tolerant LLM provider rotation with circuit breaker, quotas, and model-first routing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_rotator-0.2.0.tar.gz",
-  "download_time": "2026-02-22T10:16:36.315917",
+  "download_filename": "llm_rotator-0.3.0.tar.gz",
+  "download_time": "2026-02-28T07:05:44.939861",
   "package_url": "https://pypi.org/project/llm-rotator/"
 }

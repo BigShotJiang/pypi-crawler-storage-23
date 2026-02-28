@@ -1,0 +1,11 @@
+{
+  "name": "indexly",
+  "version": "1.2.3",
+  "summary": "A local file indexing and search tool with FTS5, regex, and CSV analysis support.",
+  "author": "N. K Franklin-Gent",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indexly-1.2.3.tar.gz",
+  "download_time": "2026-02-28T07:05:10.865591",
+  "package_url": "https://pypi.org/project/indexly/"
+}

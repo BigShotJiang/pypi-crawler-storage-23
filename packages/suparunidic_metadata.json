@@ -1,0 +1,11 @@
+{
+  "name": "suparunidic",
+  "version": "1.4.7",
+  "summary": "Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese with BERT models",
+  "author": "Koichi Yasuoka",
+  "license": "MIT",
+  "home_page": "https://github.com/KoichiYasuoka/SuPar-UniDic",
+  "download_filename": "suparunidic-1.4.7-py3-none-any.whl",
+  "download_time": "2026-02-28T07:05:36.650119",
+  "package_url": "https://pypi.org/project/suparunidic/"
+}

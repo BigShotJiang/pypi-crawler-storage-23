@@ -1,0 +1,11 @@
+{
+  "name": "ixv",
+  "version": "0.4.1",
+  "summary": "IXV - AI-powered development support for Japanese documentation",
+  "author": "elvezjp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ixv-0.4.1.tar.gz",
+  "download_time": "2026-02-28T07:05:50.197311",
+  "package_url": "https://pypi.org/project/ixv/"
+}
