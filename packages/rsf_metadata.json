@@ -1,0 +1,11 @@
+{
+  "name": "rsf",
+  "version": "1.5",
+  "summary": "Replacement for Step Functions — YAML DSL, code gen, and visual tooling for Lambda Durable Functions",
+  "author": "Esa Teittinen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsf-1.5-py3-none-any.whl",
+  "download_time": "2026-02-28T23:16:53.181436",
+  "package_url": "https://pypi.org/project/rsf/"
+}

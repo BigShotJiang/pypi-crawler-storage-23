@@ -1,0 +1,11 @@
+{
+  "name": "spondex",
+  "version": "0.1.0",
+  "summary": "CLI daemon for syncing music libraries between Yandex Music and Spotify",
+  "author": "alesha-pro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spondex-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:16:52.666695",
+  "package_url": "https://pypi.org/project/spondex/"
+}

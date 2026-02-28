@@ -1,0 +1,11 @@
+{
+  "name": "leximini",
+  "version": "0.1.0",
+  "summary": "LexiMini: A Rust-based BPE tokenizer for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "leximini-0.1.0.tar.gz",
+  "download_time": "2026-02-28T23:16:59.378526",
+  "package_url": "https://pypi.org/project/leximini/"
+}

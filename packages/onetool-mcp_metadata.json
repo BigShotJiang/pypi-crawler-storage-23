@@ -1,11 +1,11 @@
 {
   "name": "onetool-mcp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "🧿 One MCP for developers - No tool tax, no context rot. 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Version Checker, Excel, File Ops, Database, Playwright, Chrome DevTools and many more.",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "onetool_mcp-2.0.0-py3-none-any.whl",
-  "download_time": "2026-02-28T22:58:43.502247",
+  "download_filename": "onetool_mcp-2.0.1-py3-none-any.whl",
+  "download_time": "2026-02-28T23:16:50.090853",
   "package_url": "https://pypi.org/project/onetool-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "logging-metrics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Advanced logging utilities for robust, standardized logs in Python projects, APIs, data engineering, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logging_metrics-1.0.0.tar.gz",
-  "download_time": "2026-02-28T20:59:21.403314",
+  "download_filename": "logging_metrics-1.0.1.tar.gz",
+  "download_time": "2026-02-28T23:16:48.542260",
   "package_url": "https://pypi.org/project/logging-metrics/"
 }

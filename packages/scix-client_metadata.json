@@ -1,0 +1,11 @@
+{
+  "name": "scix-client",
+  "version": "0.3.0",
+  "summary": "Python client for the SciX (NASA ADS) API — powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/yipihey/scix-client",
+  "download_filename": "scix_client-0.3.0.tar.gz",
+  "download_time": "2026-02-28T23:17:00.405173",
+  "package_url": "https://pypi.org/project/scix-client/"
+}

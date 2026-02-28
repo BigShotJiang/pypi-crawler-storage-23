@@ -1,0 +1,11 @@
+{
+  "name": "forgery",
+  "version": "0.2.0",
+  "summary": "Fake data at the speed of Rust",
+  "author": "williajm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forgery-0.2.0.tar.gz",
+  "download_time": "2026-02-28T23:16:55.751491",
+  "package_url": "https://pypi.org/project/forgery/"
+}

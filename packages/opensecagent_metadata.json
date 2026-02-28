@@ -1,11 +1,11 @@
 {
   "name": "opensecagent",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Autonomous Server Cybersecurity Expert Bot - monitors hosts and containers, detects risks, recommends and executes safe remediation",
   "author": "OpenSecAgent Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opensecagent-0.2.2.tar.gz",
-  "download_time": "2026-02-28T22:58:49.741894",
+  "download_filename": "opensecagent-0.2.5.tar.gz",
+  "download_time": "2026-02-28T23:16:44.923951",
   "package_url": "https://pypi.org/project/opensecagent/"
 }

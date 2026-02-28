@@ -1,0 +1,11 @@
+{
+  "name": "ucs-detect",
+  "version": "2.0.2",
+  "summary": "Detects Unicode support of an interactive terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucs_detect-2.0.2.tar.gz",
+  "download_time": "2026-02-28T23:16:51.133544",
+  "package_url": "https://pypi.org/project/ucs-detect/"
+}
