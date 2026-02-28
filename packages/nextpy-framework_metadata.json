@@ -1,11 +1,11 @@
 {
   "name": "nextpy-framework",
-  "version": "2.4.8",
+  "version": "2.4.9",
   "summary": "A Python web framework inspired by Next.js with file-based routing, SSR, and SSG and more",
   "author": "NextPy Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nextpy_framework-2.4.8.tar.gz",
-  "download_time": "2026-02-28T13:15:29.991630",
+  "download_filename": "nextpy_framework-2.4.9.tar.gz",
+  "download_time": "2026-02-28T15:39:18.081496",
   "package_url": "https://pypi.org/project/nextpy-framework/"
 }

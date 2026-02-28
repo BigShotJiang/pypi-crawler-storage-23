@@ -1,11 +1,11 @@
 {
   "name": "unal-autograder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "An automated tool for grading coding workshops at the UNAL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unal_autograder-0.0.2.tar.gz",
-  "download_time": "2026-02-28T14:17:39.002768",
+  "download_filename": "unal_autograder-0.0.3.tar.gz",
+  "download_time": "2026-02-28T15:39:28.838254",
   "package_url": "https://pypi.org/project/unal-autograder/"
 }

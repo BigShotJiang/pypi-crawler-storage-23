@@ -1,0 +1,11 @@
+{
+  "name": "cowfs",
+  "version": "0.2.1",
+  "summary": "Copy-on-Write Filesystem - a FUSE-based versioning filesystem",
+  "author": "Atikul Islam Munna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cowfs-0.2.1.tar.gz",
+  "download_time": "2026-02-28T15:38:51.729861",
+  "package_url": "https://pypi.org/project/cowfs/"
+}

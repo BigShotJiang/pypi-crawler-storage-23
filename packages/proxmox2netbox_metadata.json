@@ -1,11 +1,11 @@
 {
   "name": "proxmox2netbox",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "NetBox plugin for synchronizing Proxmox inventory data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxmox2netbox-1.2.0.tar.gz",
-  "download_time": "2026-02-28T11:34:43.852282",
+  "download_filename": "proxmox2netbox-1.2.2.tar.gz",
+  "download_time": "2026-02-28T15:39:07.252891",
   "package_url": "https://pypi.org/project/proxmox2netbox/"
 }

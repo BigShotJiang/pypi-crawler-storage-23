@@ -1,11 +1,11 @@
 {
   "name": "hmd-cli-librarian-sync-manager",
-  "version": "1.0.177",
+  "version": "1.0.180",
   "summary": null,
   "author": "Adam Stortz",
   "license": "unlicensed",
   "home_page": null,
-  "download_filename": "hmd_cli_librarian_sync_manager-1.0.177-py3-none-any.whl",
-  "download_time": "2026-02-23T23:25:14.121856",
+  "download_filename": "hmd_cli_librarian_sync_manager-1.0.180-py3-none-any.whl",
+  "download_time": "2026-02-28T15:39:05.181158",
   "package_url": "https://pypi.org/project/hmd-cli-librarian-sync-manager/"
 }

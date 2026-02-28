@@ -1,0 +1,11 @@
+{
+  "name": "isage-eval",
+  "version": "0.1.0.2",
+  "summary": "SAGE Evaluation Framework - Metrics, profilers, and judges for AI systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isage_eval-0.1.0.2.tar.gz",
+  "download_time": "2026-02-28T15:39:19.615946",
+  "package_url": "https://pypi.org/project/isage-eval/"
+}

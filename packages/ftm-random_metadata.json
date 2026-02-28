@@ -1,11 +1,11 @@
 {
   "name": "ftm-random",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ftm_random-0.1.0.tar.gz",
-  "download_time": "2026-02-27T21:52:45.230094",
+  "download_filename": "ftm_random-0.2.1.tar.gz",
+  "download_time": "2026-02-28T15:39:16.020177",
   "package_url": "https://pypi.org/project/ftm-random/"
 }
