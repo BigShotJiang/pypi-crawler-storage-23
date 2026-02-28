@@ -1,0 +1,11 @@
+{
+  "name": "easecation-iam-client",
+  "version": "1.0.0",
+  "summary": "IAM V2 client library for EaseCation services (Python port of @easecation/iam-client)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easecation_iam_client-1.0.0.tar.gz",
+  "download_time": "2026-02-28T14:17:27.654015",
+  "package_url": "https://pypi.org/project/easecation-iam-client/"
+}

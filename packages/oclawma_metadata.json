@@ -1,0 +1,11 @@
+{
+  "name": "oclawma",
+  "version": "0.4.1",
+  "summary": "OpenClaw Workflow Management Agent",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oclawma-0.4.1.tar.gz",
+  "download_time": "2026-02-28T14:17:37.421712",
+  "package_url": "https://pypi.org/project/oclawma/"
+}

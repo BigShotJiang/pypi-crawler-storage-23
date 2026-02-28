@@ -1,11 +1,11 @@
 {
   "name": "netflix-scrapper",
-  "version": "1.0.6",
-  "summary": "A powerful CLI tool to download content from Netflix (net22.cc clone)",
+  "version": "1.0.7",
+  "summary": "A powerful CLI tool to download content(Movies/series) from Netflix (net22.cc clone)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netflix_scrapper-1.0.6.tar.gz",
-  "download_time": "2026-02-28T08:20:57.357646",
+  "download_filename": "netflix_scrapper-1.0.7.tar.gz",
+  "download_time": "2026-02-28T14:17:21.214458",
   "package_url": "https://pypi.org/project/netflix-scrapper/"
 }

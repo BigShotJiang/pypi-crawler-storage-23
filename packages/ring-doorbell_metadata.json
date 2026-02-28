@@ -1,0 +1,11 @@
+{
+  "name": "ring-doorbell",
+  "version": "0.9.14",
+  "summary": "A Python library to communicate with Ring Door Bell (https://ring.com/)",
+  "author": "python-ring-doorbell developers",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ring_doorbell-0.9.14.tar.gz",
+  "download_time": "2026-02-28T14:17:01.527537",
+  "package_url": "https://pypi.org/project/ring-doorbell/"
+}

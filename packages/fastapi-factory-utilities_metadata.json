@@ -1,11 +1,11 @@
 {
   "name": "fastapi-factory-utilities",
-  "version": "0.19.1",
+  "version": "0.19.2",
   "summary": "Consolidate libraries and utilities to create microservices in Python with FastAPI, Beanie, Taskiq, AioPika and OpenTelemetry.",
   "author": "miragecentury",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_factory_utilities-0.19.1.tar.gz",
-  "download_time": "2026-02-26T11:15:43.136832",
+  "download_filename": "fastapi_factory_utilities-0.19.2.tar.gz",
+  "download_time": "2026-02-28T14:17:03.662484",
   "package_url": "https://pypi.org/project/fastapi-factory-utilities/"
 }

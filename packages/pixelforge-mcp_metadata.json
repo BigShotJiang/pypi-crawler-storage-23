@@ -1,0 +1,11 @@
+{
+  "name": "pixelforge-mcp",
+  "version": "0.2.0",
+  "summary": "AI-powered image generation MCP server with multi-model support",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pixelforge_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-28T14:17:22.813253",
+  "package_url": "https://pypi.org/project/pixelforge-mcp/"
+}

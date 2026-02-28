@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-xlwings",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "MCP server for Excel automation via xlwings COM. Supports DRM-protected files.",
   "author": "Euiyun",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_xlwings-0.3.0.tar.gz",
-  "download_time": "2026-02-28T12:27:59.036650",
+  "download_filename": "mcp_server_xlwings-0.4.0.tar.gz",
+  "download_time": "2026-02-28T14:17:30.420558",
   "package_url": "https://pypi.org/project/mcp-server-xlwings/"
 }

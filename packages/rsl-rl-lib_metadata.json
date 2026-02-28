@@ -1,0 +1,11 @@
+{
+  "name": "rsl-rl-lib",
+  "version": "5.0.0",
+  "summary": "Fast and simple RL algorithms implemented in PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsl_rl_lib-5.0.0.tar.gz",
+  "download_time": "2026-02-28T14:17:17.517558",
+  "package_url": "https://pypi.org/project/rsl-rl-lib/"
+}

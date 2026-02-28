@@ -1,11 +1,11 @@
 {
   "name": "anonlm-pii",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Open-source PII anonymization agent with reproducible benchmarking for OpenAI-compatible models",
   "author": "AnonLM Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "anonlm_pii-0.1.4.tar.gz",
-  "download_time": "2026-02-28T13:50:52.344269",
+  "download_filename": "anonlm_pii-0.1.5.tar.gz",
+  "download_time": "2026-02-28T14:17:33.120781",
   "package_url": "https://pypi.org/project/anonlm-pii/"
 }

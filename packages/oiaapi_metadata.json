@@ -1,0 +1,11 @@
+{
+  "name": "oiaapi",
+  "version": "0.1.0",
+  "summary": "A minimalist and powerful interface for the OpenAI API with multimodal and history management support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oiaapi-0.1.0.tar.gz",
+  "download_time": "2026-02-28T14:17:29.888655",
+  "package_url": "https://pypi.org/project/oiaapi/"
+}

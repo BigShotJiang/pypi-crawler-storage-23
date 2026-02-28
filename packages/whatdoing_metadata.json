@@ -1,11 +1,11 @@
 {
   "name": "whatdoing",
-  "version": "2.1.3",
+  "version": "2.3.0",
   "summary": "Terminal dashboard for tracking what you're working on",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "whatdoing-2.1.3.tar.gz",
-  "download_time": "2026-02-27T09:12:32.724831",
+  "download_filename": "whatdoing-2.3.0.tar.gz",
+  "download_time": "2026-02-28T14:17:25.503264",
   "package_url": "https://pypi.org/project/whatdoing/"
 }

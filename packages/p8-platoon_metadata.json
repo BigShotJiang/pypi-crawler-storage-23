@@ -1,11 +1,11 @@
 {
   "name": "p8-platoon",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Feed aggregator and percolate entity producer — library + CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "p8_platoon-0.3.1.tar.gz",
-  "download_time": "2026-02-28T13:51:31.521393",
+  "download_filename": "p8_platoon-0.4.0.tar.gz",
+  "download_time": "2026-02-28T14:17:05.261305",
   "package_url": "https://pypi.org/project/p8-platoon/"
 }
