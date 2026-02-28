@@ -1,0 +1,11 @@
+{
+  "name": "mioflow",
+  "version": "0.1.12",
+  "summary": "MIOFlow is a Python package for modeling and analyzing single-cell RNA-seq data using optimal flows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mioflow-0.1.12.tar.gz",
+  "download_time": "2026-02-28T14:42:01.929593",
+  "package_url": "https://pypi.org/project/mioflow/"
+}

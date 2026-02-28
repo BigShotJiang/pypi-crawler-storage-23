@@ -1,11 +1,11 @@
 {
   "name": "python-etcd3-async",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "etcd3 async sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_etcd3_async-0.1.1-py3-none-any.whl",
-  "download_time": "2026-02-28T14:17:03.127821",
+  "download_filename": "python_etcd3_async-0.1.4-py3-none-any.whl",
+  "download_time": "2026-02-28T14:41:44.999350",
   "package_url": "https://pypi.org/project/python-etcd3-async/"
 }

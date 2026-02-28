@@ -1,0 +1,11 @@
+{
+  "name": "spikard",
+  "version": "0.12.0",
+  "summary": "High-performance Python web framework with a Rust core. Build REST APIs, WebSockets, and SSE services with FastAPI/Litestar-style decorators backed by Axum and Tower-HTTP. 2.8x faster than FastAPI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Goldziher/spikard",
+  "download_filename": "spikard-0.12.0.tar.gz",
+  "download_time": "2026-02-28T14:41:40.895660",
+  "package_url": "https://pypi.org/project/spikard/"
+}

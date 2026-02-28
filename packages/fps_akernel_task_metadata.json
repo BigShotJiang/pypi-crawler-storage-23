@@ -1,0 +1,11 @@
+{
+  "name": "fps_akernel_task",
+  "version": "0.1.6",
+  "summary": "An FPS plugin for the kernel task API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fps_akernel_task-0.1.6.tar.gz",
+  "download_time": "2026-02-28T14:41:46.025788",
+  "package_url": "https://pypi.org/project/fps_akernel_task/"
+}

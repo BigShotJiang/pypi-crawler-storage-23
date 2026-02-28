@@ -1,11 +1,11 @@
 {
   "name": "pulumiverse-vercel",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumiverse_vercel-4.6.0.tar.gz",
-  "download_time": "2026-02-28T07:57:09.659733",
+  "download_filename": "pulumiverse_vercel-4.6.1.tar.gz",
+  "download_time": "2026-02-28T14:41:57.833588",
   "package_url": "https://pypi.org/project/pulumiverse-vercel/"
 }

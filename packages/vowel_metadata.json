@@ -1,11 +1,11 @@
 {
   "name": "vowel",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "A modular evaluation framework for testing functions with YAML-based specifications",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vowel-0.3.2.tar.gz",
-  "download_time": "2026-02-23T19:44:26.339054",
+  "download_filename": "vowel-0.3.4.tar.gz",
+  "download_time": "2026-02-28T14:41:42.441632",
   "package_url": "https://pypi.org/project/vowel/"
 }
