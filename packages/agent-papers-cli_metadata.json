@@ -1,0 +1,11 @@
+{
+  "name": "agent-papers-cli",
+  "version": "0.2.0",
+  "summary": "Building the infra for Claude Code-native deep research",
+  "author": "collaborative-deep-research",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_papers_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-28T20:44:29.440683",
+  "package_url": "https://pypi.org/project/agent-papers-cli/"
+}

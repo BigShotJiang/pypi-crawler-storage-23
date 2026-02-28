@@ -1,0 +1,11 @@
+{
+  "name": "vyos-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for managing VyOS routers via the VyOS HTTP API",
+  "author": "Anthony Nixon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vyos_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-28T20:44:24.601437",
+  "package_url": "https://pypi.org/project/vyos-mcp/"
+}

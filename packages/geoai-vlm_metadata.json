@@ -1,0 +1,11 @@
+{
+  "name": "geoai-vlm",
+  "version": "0.2.1",
+  "summary": "Geospatial Vision-Language Model analysis for street-level imagery. Download Mapillary images by location and generate structured descriptions using VLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geoai_vlm-0.2.1.tar.gz",
+  "download_time": "2026-02-28T20:43:53.154994",
+  "package_url": "https://pypi.org/project/geoai-vlm/"
+}

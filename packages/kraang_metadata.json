@@ -1,11 +1,11 @@
 {
   "name": "kraang",
-  "version": "0.2.2",
-  "summary": "A second brain for humans and their agents — MCP server backed by SQLite FTS5.",
+  "version": "0.2.3",
+  "summary": "Long-term memory for your agents — MCP server backed by SQLite FTS5.",
   "author": "Johnny Greco",
   "license": null,
   "home_page": null,
-  "download_filename": "kraang-0.2.2.tar.gz",
-  "download_time": "2026-02-28T19:53:47.944180",
+  "download_filename": "kraang-0.2.3.tar.gz",
+  "download_time": "2026-02-28T20:44:21.992667",
   "package_url": "https://pypi.org/project/kraang/"
 }

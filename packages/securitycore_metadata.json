@@ -1,11 +1,11 @@
 {
   "name": "securitycore",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Modular library for analysis, data protection, and validation",
   "author": "Mihhail327",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "securitycore-1.1.0.tar.gz",
-  "download_time": "2026-02-25T21:57:54.745561",
+  "download_filename": "securitycore-1.1.1.tar.gz",
+  "download_time": "2026-02-28T20:44:19.355041",
   "package_url": "https://pypi.org/project/securitycore/"
 }

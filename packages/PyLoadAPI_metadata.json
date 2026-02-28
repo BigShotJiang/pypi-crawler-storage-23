@@ -1,0 +1,11 @@
+{
+  "name": "PyLoadAPI",
+  "version": "2.0.0",
+  "summary": "Simple wrapper for pyLoad's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyloadapi-2.0.0.tar.gz",
+  "download_time": "2026-02-28T20:44:31.534011",
+  "package_url": "https://pypi.org/project/PyLoadAPI/"
+}

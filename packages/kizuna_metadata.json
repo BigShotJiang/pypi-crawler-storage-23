@@ -1,0 +1,11 @@
+{
+  "name": "kizuna",
+  "version": "0.1.0",
+  "summary": "A game engine on top of Pyglet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kizuna-0.1.0.tar.gz",
+  "download_time": "2026-02-28T20:44:21.473441",
+  "package_url": "https://pypi.org/project/kizuna/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastled-wasm-server",
+  "version": "1.2.0",
+  "summary": "fastled wasm server",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/zackees/fastled-wasm-server",
+  "download_filename": "fastled_wasm_server-1.2.0-py3-none-any.whl",
+  "download_time": "2026-02-28T20:44:06.292443",
+  "package_url": "https://pypi.org/project/fastled-wasm-server/"
+}

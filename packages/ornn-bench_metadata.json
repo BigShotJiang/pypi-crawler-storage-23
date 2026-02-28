@@ -1,0 +1,11 @@
+{
+  "name": "ornn-bench",
+  "version": "0.1.0",
+  "summary": "Ornn GPU Benchmarking CLI — run standardized GPU benchmarks, compute Ornn-I/Ornn-T scores, and upload results.",
+  "author": "Ornn AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ornn_bench-0.1.0.tar.gz",
+  "download_time": "2026-02-28T20:44:07.856447",
+  "package_url": "https://pypi.org/project/ornn-bench/"
+}

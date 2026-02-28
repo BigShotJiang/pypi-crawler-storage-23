@@ -1,11 +1,11 @@
 {
   "name": "pyavedominaplus",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Python SDK for AVE DominaPlus home automation systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyavedominaplus-0.1.3.tar.gz",
-  "download_time": "2026-02-22T13:25:43.244884",
+  "download_filename": "pyavedominaplus-0.1.4.tar.gz",
+  "download_time": "2026-02-28T20:44:29.960691",
   "package_url": "https://pypi.org/project/pyavedominaplus/"
 }
