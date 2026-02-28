@@ -1,0 +1,11 @@
+{
+  "name": "riverse",
+  "version": "0.1.0",
+  "summary": "River Algorithm memory consolidation for AI applications",
+  "author": "JK",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "riverse-0.1.0.tar.gz",
+  "download_time": "2026-02-28T05:56:58.135927",
+  "package_url": "https://pypi.org/project/riverse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "clangir",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "C/C++ header parsing toolkit with IR, libclang backend, and CFFI writer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clangir-0.3.1.tar.gz",
-  "download_time": "2026-02-28T04:41:57.222550",
+  "download_filename": "clangir-0.3.2.tar.gz",
+  "download_time": "2026-02-28T05:57:31.051282",
   "package_url": "https://pypi.org/project/clangir/"
 }

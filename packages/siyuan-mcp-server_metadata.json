@@ -1,11 +1,11 @@
 {
   "name": "siyuan-mcp-server",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "summary": "思源笔记 MCP Server - 提供思源笔记API的MCP工具接口",
   "author": "leolulu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "siyuan_mcp_server-0.24.0.tar.gz",
-  "download_time": "2026-02-28T05:23:51.290632",
+  "download_filename": "siyuan_mcp_server-0.25.0.tar.gz",
+  "download_time": "2026-02-28T05:57:27.208859",
   "package_url": "https://pypi.org/project/siyuan-mcp-server/"
 }

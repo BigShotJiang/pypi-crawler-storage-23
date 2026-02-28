@@ -1,11 +1,11 @@
 {
   "name": "tinyhumansai",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Python SDK for TinyHumans API - ingest and delete memory",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tinyhumansai-0.1.0.tar.gz",
-  "download_time": "2026-02-28T05:23:50.772702",
+  "download_filename": "tinyhumansai-0.4.0.tar.gz",
+  "download_time": "2026-02-28T05:57:01.497699",
   "package_url": "https://pypi.org/project/tinyhumansai/"
 }

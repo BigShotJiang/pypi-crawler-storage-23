@@ -1,11 +1,11 @@
 {
   "name": "cachekaro",
-  "version": "2.3.2",
+  "version": "2.3.4",
   "summary": "Cross-platform storage and cache analyzer & cleaner - Cache Karo!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cachekaro-2.3.2.tar.gz",
-  "download_time": "2026-02-28T05:23:10.223177",
+  "download_filename": "cachekaro-2.3.4.tar.gz",
+  "download_time": "2026-02-28T05:57:16.211115",
   "package_url": "https://pypi.org/project/cachekaro/"
 }

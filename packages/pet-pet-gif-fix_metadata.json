@@ -1,0 +1,11 @@
+{
+  "name": "pet-pet-gif-fix",
+  "version": "1.0.4",
+  "summary": "Generate a petting gif from a static image (known as \"petpet\", \"Pet the X\", or \"PETTHE\").",
+  "author": "TheMrRedSlime",
+  "license": "MIT",
+  "home_page": "https://github.com/TheMrRedSlime/pet-pet-gif",
+  "download_filename": "pet_pet_gif_fix-1.0.4.tar.gz",
+  "download_time": "2026-02-28T05:57:16.823971",
+  "package_url": "https://pypi.org/project/pet-pet-gif-fix/"
+}

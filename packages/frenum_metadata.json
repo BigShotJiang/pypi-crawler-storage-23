@@ -1,0 +1,11 @@
+{
+  "name": "frenum",
+  "version": "0.1.0",
+  "summary": "Deterministic, config-driven guardrails for LLM agent tool calls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frenum-0.1.0.tar.gz",
+  "download_time": "2026-02-28T05:57:34.323463",
+  "package_url": "https://pypi.org/project/frenum/"
+}

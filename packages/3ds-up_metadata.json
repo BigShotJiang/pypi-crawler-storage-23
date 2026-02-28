@@ -1,0 +1,11 @@
+{
+  "name": "3ds-up",
+  "version": "0.1.1",
+  "summary": "Actualizador seguro de Nintendo 3DS para macOS",
+  "author": "Oscar Campohermoso",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "3ds_up-0.1.1.tar.gz",
+  "download_time": "2026-02-28T05:57:12.434661",
+  "package_url": "https://pypi.org/project/3ds-up/"
+}

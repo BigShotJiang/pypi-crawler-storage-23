@@ -1,0 +1,11 @@
+{
+  "name": "workflow-mcp-server",
+  "version": "0.1.0",
+  "summary": "An MCP server that enforces workflow planning and task loops.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "workflow_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-28T05:57:13.520351",
+  "package_url": "https://pypi.org/project/workflow-mcp-server/"
+}
