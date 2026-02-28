@@ -1,11 +1,11 @@
 {
   "name": "kenate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Professional C++/Python Robotics Framework",
   "author": "Euretix Labs",
   "license": null,
   "home_page": "https://github.com/euretix/kenate",
-  "download_filename": "kenate-1.0.3.tar.gz",
-  "download_time": "2026-02-28T15:56:47.737391",
+  "download_filename": "kenate-1.0.4.tar.gz",
+  "download_time": "2026-02-28T16:19:35.159383",
   "package_url": "https://pypi.org/project/kenate/"
 }

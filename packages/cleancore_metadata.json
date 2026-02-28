@@ -1,11 +1,11 @@
 {
   "name": "cleancore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Zero-overhead data observability with row-level immutability",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/provena",
-  "download_filename": "cleancore-1.0.0.tar.gz",
-  "download_time": "2026-02-28T15:56:50.874189",
+  "download_filename": "cleancore-1.0.1.tar.gz",
+  "download_time": "2026-02-28T16:19:29.933960",
   "package_url": "https://pypi.org/project/cleancore/"
 }

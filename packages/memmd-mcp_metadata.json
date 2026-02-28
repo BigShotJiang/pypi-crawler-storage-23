@@ -1,0 +1,11 @@
+{
+  "name": "memmd-mcp",
+  "version": "0.1.0",
+  "summary": "MCP stdio server that manages local memory.md with dedupe/merge/cleanup.",
+  "author": "memmd contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memmd_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-28T16:19:32.497526",
+  "package_url": "https://pypi.org/project/memmd-mcp/"
+}

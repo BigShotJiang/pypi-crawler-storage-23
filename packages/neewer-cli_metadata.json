@@ -1,0 +1,11 @@
+{
+  "name": "neewer-cli",
+  "version": "0.1.2",
+  "summary": "Standalone Neewer BLE CLI utility",
+  "author": "Sergei Dubovsky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neewer_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-28T16:19:20.152724",
+  "package_url": "https://pypi.org/project/neewer-cli/"
+}

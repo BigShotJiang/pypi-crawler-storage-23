@@ -1,11 +1,11 @@
 {
   "name": "fioblisswriter",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "FIO BlissData Writer",
   "author": "Jan Kotanski",
   "license": "GNU GENERAL PUBLIC LICENSE v3",
   "home_page": "http://github.com/jkotan/nexdatas/fioblisswriter",
-  "download_filename": "fioblisswriter-0.0.4.tar.gz",
-  "download_time": "2026-02-28T09:20:38.543134",
+  "download_filename": "fioblisswriter-0.0.5.tar.gz",
+  "download_time": "2026-02-28T16:19:25.831170",
   "package_url": "https://pypi.org/project/fioblisswriter/"
 }

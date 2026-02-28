@@ -1,0 +1,11 @@
+{
+  "name": "git-dumper",
+  "version": "1.0.9",
+  "summary": "A tool to dump a git repository from a website",
+  "author": "Maxime Arthaud",
+  "license": "MIT",
+  "home_page": "https://github.com/arthaud/git-dumper",
+  "download_filename": "git_dumper-1.0.9.tar.gz",
+  "download_time": "2026-02-28T16:19:13.876868",
+  "package_url": "https://pypi.org/project/git-dumper/"
+}

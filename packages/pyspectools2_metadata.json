@@ -1,11 +1,11 @@
 {
   "name": "pyspectools2",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "A library for recording and plotting spectrograms from audio data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyspectools2-2.0.7.tar.gz",
-  "download_time": "2026-02-28T13:50:59.211174",
+  "download_filename": "pyspectools2-2.0.8.tar.gz",
+  "download_time": "2026-02-28T16:19:40.848109",
   "package_url": "https://pypi.org/project/pyspectools2/"
 }

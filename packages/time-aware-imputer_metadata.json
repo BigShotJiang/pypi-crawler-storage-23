@@ -1,0 +1,11 @@
+{
+  "name": "time-aware-imputer",
+  "version": "1.0.0",
+  "summary": "Time-aware missing data imputation for irregular time series",
+  "author": "Abhishake Reddy O ",
+  "license": "MIT",
+  "home_page": "https://github.com/ontedduabhishakereddy/time-aware-imputer",
+  "download_filename": "time_aware_imputer-1.0.0.tar.gz",
+  "download_time": "2026-02-28T16:19:18.600218",
+  "package_url": "https://pypi.org/project/time-aware-imputer/"
+}

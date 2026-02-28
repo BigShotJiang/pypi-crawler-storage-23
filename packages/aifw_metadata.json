@@ -1,0 +1,11 @@
+{
+  "name": "aifw",
+  "version": "0.1.0",
+  "summary": "Django AI Services Framework — DB-driven LLM provider, model & usage management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aifw-0.1.0.tar.gz",
+  "download_time": "2026-02-28T16:19:08.137081",
+  "package_url": "https://pypi.org/project/aifw/"
+}

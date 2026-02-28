@@ -1,0 +1,11 @@
+{
+  "name": "avp",
+  "version": "0.2.2",
+  "summary": "Transfer LLM KV-cache between agents instead of regenerating text — 73-78% fewer tokens, 2-4x faster multi-agent pipelines",
+  "author": "VectorArc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avp-0.2.2.tar.gz",
+  "download_time": "2026-02-28T16:19:27.368803",
+  "package_url": "https://pypi.org/project/avp/"
+}

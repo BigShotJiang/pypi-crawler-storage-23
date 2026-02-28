@@ -1,11 +1,11 @@
 {
   "name": "citysense",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Geospatial RAG and MCP server for urban AI development; WUF13 aligned.",
   "author": "CitySense Contributors",
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "citysense-0.2.0.tar.gz",
-  "download_time": "2026-02-28T11:34:49.625726",
+  "download_filename": "citysense-0.2.1.tar.gz",
+  "download_time": "2026-02-28T16:19:17.562030",
   "package_url": "https://pypi.org/project/citysense/"
 }

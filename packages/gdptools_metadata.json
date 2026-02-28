@@ -1,11 +1,11 @@
 {
   "name": "gdptools",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Gdptools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gdptools-0.3.10-py3-none-any.whl",
-  "download_time": "2026-02-21T21:15:42.931525",
+  "download_filename": "gdptools-0.3.11-py3-none-any.whl",
+  "download_time": "2026-02-28T16:19:24.803736",
   "package_url": "https://pypi.org/project/gdptools/"
 }
