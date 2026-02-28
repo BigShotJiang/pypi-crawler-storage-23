@@ -1,11 +1,11 @@
 {
   "name": "dracula-ai",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "summary": "A simple Python library for Google Gemini with memory support.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dracula_ai-0.5.3.tar.gz",
-  "download_time": "2026-02-28T21:55:41.563487",
+  "download_filename": "dracula_ai-0.5.5.tar.gz",
+  "download_time": "2026-02-28T22:17:15.686338",
   "package_url": "https://pypi.org/project/dracula-ai/"
 }

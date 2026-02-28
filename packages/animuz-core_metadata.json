@@ -1,11 +1,11 @@
 {
   "name": "animuz-core",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Core shared utilities for Animuz RAG system - LLM clients, pipelines, vector DB, and document ingestion",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "animuz_core-0.1.5.tar.gz",
-  "download_time": "2026-02-22T06:06:01.458433",
+  "download_filename": "animuz_core-0.1.7.tar.gz",
+  "download_time": "2026-02-28T22:17:21.988138",
   "package_url": "https://pypi.org/project/animuz-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dedrive",
+  "version": "0.1.1",
+  "summary": "Find duplicate files in Google Drive using MD5 checksums",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dedrive-0.1.1.tar.gz",
+  "download_time": "2026-02-28T22:17:09.080390",
+  "package_url": "https://pypi.org/project/dedrive/"
+}

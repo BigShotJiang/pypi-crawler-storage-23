@@ -1,11 +1,11 @@
 {
   "name": "colnade-polars",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Polars backend adapter for Colnade",
   "author": "jwde",
   "license": null,
   "home_page": null,
-  "download_filename": "colnade_polars-0.5.1.tar.gz",
-  "download_time": "2026-02-22T21:59:15.494913",
+  "download_filename": "colnade_polars-0.6.0.tar.gz",
+  "download_time": "2026-02-28T22:17:31.890951",
   "package_url": "https://pypi.org/project/colnade-polars/"
 }

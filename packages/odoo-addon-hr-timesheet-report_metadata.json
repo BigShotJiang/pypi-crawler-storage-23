@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-timesheet-report",
+  "version": "18.0.1.0.0.3",
+  "summary": "Generate Timesheet Report from Task Logs",
+  "author": "CorporateHub, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_hr_timesheet_report-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-02-28T22:17:42.809318",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-timesheet-report/"
+}

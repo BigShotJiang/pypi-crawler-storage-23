@@ -1,11 +1,11 @@
 {
   "name": "django-gotenberg",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Render any Django template to a PDF using Gotenberg",
   "author": "Leonhard Kuboschek",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/kuboschek/django-pdf-render",
-  "download_filename": "django_gotenberg-0.1.0.tar.gz",
-  "download_time": "2026-02-28T20:59:17.088949",
+  "download_filename": "django_gotenberg-0.2.0.tar.gz",
+  "download_time": "2026-02-28T22:17:39.076040",
   "package_url": "https://pypi.org/project/django-gotenberg/"
 }

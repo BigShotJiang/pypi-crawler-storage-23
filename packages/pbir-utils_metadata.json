@@ -1,11 +1,11 @@
 {
   "name": "pbir-utils",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "A tool for managing Power BI Enhanced Report Format (PBIR) projects",
   "author": "Akhil Ashok",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pbir_utils-2.2.0.tar.gz",
-  "download_time": "2026-02-28T16:47:50.342904",
+  "download_filename": "pbir_utils-2.2.1.tar.gz",
+  "download_time": "2026-02-28T22:17:30.348213",
   "package_url": "https://pypi.org/project/pbir-utils/"
 }

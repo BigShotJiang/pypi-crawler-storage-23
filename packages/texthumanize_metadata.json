@@ -1,0 +1,11 @@
+{
+  "name": "texthumanize",
+  "version": "0.23.0",
+  "summary": "Algorithmic text humanization with AI detection, tone analysis, paraphrasing, and spinning — 17-stage pipeline, 14 languages, zero dependencies",
+  "author": "TextHumanize Contributors",
+  "license": "Dual License — Free for personal use, commercial license required for business",
+  "home_page": null,
+  "download_filename": "texthumanize-0.23.0.tar.gz",
+  "download_time": "2026-02-28T22:17:29.833830",
+  "package_url": "https://pypi.org/project/texthumanize/"
+}
