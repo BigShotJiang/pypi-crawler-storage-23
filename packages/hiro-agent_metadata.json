@@ -1,11 +1,11 @@
 {
   "name": "hiro-agent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "AI security review agent for code, plans, and infrastructure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hiro_agent-0.1.4.tar.gz",
-  "download_time": "2026-02-28T19:17:54.719715",
+  "download_filename": "hiro_agent-0.1.5.tar.gz",
+  "download_time": "2026-02-28T22:58:48.714889",
   "package_url": "https://pypi.org/project/hiro-agent/"
 }

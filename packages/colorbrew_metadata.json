@@ -1,11 +1,11 @@
 {
   "name": "colorbrew",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A lightweight, zero-dependency Python library for color manipulation.",
   "author": "Dawid Prus",
   "license": null,
   "home_page": null,
-  "download_filename": "colorbrew-0.5.2.tar.gz",
-  "download_time": "2026-02-28T22:42:59.494899",
+  "download_filename": "colorbrew-0.5.3.tar.gz",
+  "download_time": "2026-02-28T22:58:41.453116",
   "package_url": "https://pypi.org/project/colorbrew/"
 }

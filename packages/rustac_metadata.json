@@ -1,0 +1,11 @@
+{
+  "name": "rustac",
+  "version": "0.9.7",
+  "summary": "The power of Rust for the Python STAC ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustac-0.9.7.tar.gz",
+  "download_time": "2026-02-28T22:58:44.568141",
+  "package_url": "https://pypi.org/project/rustac/"
+}

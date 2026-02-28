@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-connector-models",
+  "version": "0.1.5",
+  "summary": "Typed Pydantic models for Airbyte connectors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airbyte_connector_models-0.1.5.tar.gz",
+  "download_time": "2026-02-28T22:58:55.419202",
+  "package_url": "https://pypi.org/project/airbyte-connector-models/"
+}

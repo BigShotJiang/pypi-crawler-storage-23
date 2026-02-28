@@ -1,27 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-28T22:43:24.861849
+- **Download Time**: 2026-02-28T22:59:22.464167
 - **Total Packages**: 79
-- **Total Size**: 56.88 MB
+- **Total Size**: 35.11 MB
 
 ## Packages List
+- dna-rag
+- colorbrew
+- sphinx-source-tree
+- mcp-print
+- onetool-mcp
+- rbx-cp
+- rustac
+- dogcat
+- neurocore-ai
+- styrene
+- captain-claw
+- styrened
+- redflow
+- opensearch-orchestrator
+- hiro-agent
+- brainfile
+- opensecagent
+- llm-fragments-folder
+- sidematter-format
+- eis-auth
+- captcha-bypass
+- networkxr
+- fastmcp-gateway
+- blackletter
+- juvenal
+- pycarta
+- meeting-tui
+- airbyte-connector-models
+- mcptube
+- austaltools
+- baw
+- tianchi-crawler
+- ultimate-gemini-mcp
+- gevt
+- parsemedicalexams
 - I4-0-Client-PY
 - mindroom
 - daz-agent-sdk
 - polars-units
 - comfy-env
 - dracula-ai
-- styrene
 - pigeovpn
-- styrened
 - fairyex
 - cinei
 - pytest-redis
 - jsontap
 - pyicmdocking
 - sigalg
-- opensecagent
 - orze
 - odoo-addon-product-supplierinfo-for-customer-sale
 - matrx-orm
@@ -35,10 +67,8 @@
 - datajunction
 - datajunction-reflection
 - datajunction-server
-- llm-fragments-folder
 - navi-bootstrap
 - pypolydim
-- colorbrew
 - parselabs
 - camelot-key
 - biblemateweb
@@ -47,7 +77,6 @@
 - sphinxcontrib-xlink
 - mars-ms
 - tollbooth-dpyc
-- ultimate-gemini-mcp
 - sqlfp
 - hatch-locked-deps
 - osbornehoffman
@@ -56,32 +85,3 @@
 - baltra-sdk
 - grafian
 - ngram-polars
-- lielab
-- adbc-poolhouse
-- maildiff
-- officeclaw
-- code2flow-toon
-- threejs-viewer
-- fastmcp-gateway
-- manhattan-mcp
-- familiar-agent
-- tianchi-crawler
-- stepcount
-- daylily-cognito
-- things.py
-- simgen-vla
-- matchlock
-- spot-planner
-- pyrtlsdrlib
-- mytestcli1234321
-- kissat-sovereign
-- spotify-utils
-- iltero-cli
-- networkxr
-- mkado
-- next.dj
-- vibeblocks
-- intercept-agent
-- predicate-authority
-- predicate-contracts
-- hledger-textual

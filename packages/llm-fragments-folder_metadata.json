@@ -1,11 +1,11 @@
 {
   "name": "llm-fragments-folder",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "LLM plugin to load entire folder contents as fragments",
   "author": "Michael Borck",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llm_fragments_folder-0.2.0.tar.gz",
-  "download_time": "2026-02-28T22:42:57.928694",
+  "download_filename": "llm_fragments_folder-0.3.0.tar.gz",
+  "download_time": "2026-02-28T22:58:50.254199",
   "package_url": "https://pypi.org/project/llm-fragments-folder/"
 }
