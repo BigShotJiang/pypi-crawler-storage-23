@@ -1,0 +1,11 @@
+{
+  "name": "convoseed-agent",
+  "version": "1.1.0",
+  "summary": "Agent skill caching via CSP-1 fingerprints — every session makes the next one better",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "convoseed_agent-1.1.0.tar.gz",
+  "download_time": "2026-02-28T19:35:55.376619",
+  "package_url": "https://pypi.org/project/convoseed-agent/"
+}

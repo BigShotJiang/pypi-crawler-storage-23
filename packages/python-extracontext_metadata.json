@@ -1,0 +1,11 @@
+{
+  "name": "python-extracontext",
+  "version": "1.2.0",
+  "summary": "Context Variable namespaces supporting generators, asyncio and multi-threading",
+  "author": "Joao S. O. Bueno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_extracontext-1.2.0.tar.gz",
+  "download_time": "2026-02-28T19:35:42.377265",
+  "package_url": "https://pypi.org/project/python-extracontext/"
+}

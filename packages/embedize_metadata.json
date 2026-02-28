@@ -1,11 +1,11 @@
 {
   "name": "embedize",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "SQLite and DuckDB Tiny Lib",
   "author": "Asinerum Conlang Project",
   "license": "MIT",
   "home_page": "https://github.com/asinerum/embedize",
-  "download_filename": "embedize-1.0.9.tar.gz",
-  "download_time": "2026-02-27T23:02:15.240997",
+  "download_filename": "embedize-1.0.10.tar.gz",
+  "download_time": "2026-02-28T19:35:39.297185",
   "package_url": "https://pypi.org/project/embedize/"
 }

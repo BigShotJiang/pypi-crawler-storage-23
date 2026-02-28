@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-28T19:18:34.602361
-- **Total Packages**: 83
-- **Total Size**: 27.34 MB
+- **Download Time**: 2026-02-28T19:36:21.158632
+- **Total Packages**: 89
+- **Total Size**: 25.02 MB
 
 ## Packages List
+- pyopu
+- react-ubiquitous-py
+- ducpy
+- celltraj
+- apiliter
+- newcode
+- backio
+- free-threading
+- gv-specwright
+- iatoolkit
+- embedize
+- torchlens
+- ddi-fw
+- ic-basilisk
+- django-kamal-healthcheck
+- python-extracontext
+- piki-rag-scrapper
+- sendkit
+- vrs-anvil-toolkit
+- ai-search-mcp
+- pl_compare
+- keephive
+- openagent-app
+- dechromium
+- p8-platoon
+- simple-dwd-weatherforecast
+- randomcode
+- vasyan
+- plutus-ai
+- manhattan-mcp
+- axcent
+- pytest-skill-engineering
+- fast-mcp-telegram
+- simgen-vla
+- openab
+- pywiim
+- lensboy
+- agentsite
+- openagent-core
+- convoseed-agent
+- ISB
 - tianchi-crawler
 - instaharvest-v2
 - broccoli-ml
@@ -32,7 +73,6 @@
 - querycraft
 - captain-claw
 - discovery-engine-api
-- agentsite
 - pypnm-docsis
 - kissat-sovereign
 - consolidation-memory
@@ -42,7 +82,6 @@
 - andropy
 - adbc-driver-gizmosql
 - leggen
-- lensboy
 - winebox
 - secry
 - ferp
@@ -56,36 +95,3 @@
 - wafer-ai
 - tasca
 - IMDBx
-- lightwave-core
-- centris-sdk
-- dayz-dev-tools
-- agent-discover-scanner
-- gruncellka-porto-data
-- nxsblisswriter
-- flasgo
-- verlex
-- detakon
-- p8-platoon
-- snaplet
-- dragen
-- pylocal-akuvox
-- drp-dev
-- cogbench
-- wemake-python-styleguide
-- pyroblock
-- lb-auto-tk
-- societal-costs-cli-2802-20
-- upyog
-- asrai-mcp
-- vantagepoint-doorway
-- fastapi-filters
-- cortexos
-- signalflow-nn
-- agenticore
-- yunetas
-- ducktools-pythonfinder
-- szyjiyi
-- cowfs
-- django-pid
-- tracecore
-- ryl

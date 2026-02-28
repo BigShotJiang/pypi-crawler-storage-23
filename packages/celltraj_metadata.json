@@ -1,11 +1,11 @@
 {
   "name": "celltraj",
-  "version": "0.1.82",
+  "version": "0.1.85",
   "summary": "Toolset for single-cell trajectory modeling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "celltraj-0.1.82-py2.py3-none-any.whl",
-  "download_time": "2026-02-28T17:19:08.567935",
+  "download_filename": "celltraj-0.1.85-py2.py3-none-any.whl",
+  "download_time": "2026-02-28T19:35:35.691798",
   "package_url": "https://pypi.org/project/celltraj/"
 }

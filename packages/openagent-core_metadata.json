@@ -1,0 +1,11 @@
+{
+  "name": "openagent-core",
+  "version": "0.1.0",
+  "summary": "Production agentic loop backend — FastAPI + WebSocket",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openagent_core-0.1.0.tar.gz",
+  "download_time": "2026-02-28T19:35:54.865802",
+  "package_url": "https://pypi.org/project/openagent-core/"
+}
