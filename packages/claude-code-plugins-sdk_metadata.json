@@ -1,11 +1,11 @@
 {
   "name": "claude-code-plugins-sdk",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python SDK for Claude Code plugins and marketplaces",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_code_plugins_sdk-0.3.0.tar.gz",
-  "download_time": "2026-02-27T23:01:56.545902",
+  "download_filename": "claude_code_plugins_sdk-0.4.0.tar.gz",
+  "download_time": "2026-03-01T19:56:10.160123",
   "package_url": "https://pypi.org/project/claude-code-plugins-sdk/"
 }

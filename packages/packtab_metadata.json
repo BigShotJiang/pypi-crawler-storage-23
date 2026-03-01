@@ -1,0 +1,11 @@
+{
+  "name": "packtab",
+  "version": "1.4.0",
+  "summary": "Unicode (and other integer) table packer",
+  "author": "Behdad Esfahbod",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/harfbuzz/packtab",
+  "download_filename": "packtab-1.4.0.tar.gz",
+  "download_time": "2026-03-01T19:56:23.638391",
+  "package_url": "https://pypi.org/project/packtab/"
+}

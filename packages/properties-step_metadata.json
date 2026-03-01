@@ -1,0 +1,11 @@
+{
+  "name": "properties-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for Properties",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/properties_step",
+  "download_filename": "properties_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T19:56:08.099152",
+  "package_url": "https://pypi.org/project/properties-step/"
+}

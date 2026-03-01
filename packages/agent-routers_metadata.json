@@ -1,0 +1,11 @@
+{
+  "name": "agent-routers",
+  "version": "0.1.0",
+  "summary": "Priority-based async/sync routing engine for multi-agent systems",
+  "author": "Michael Douglas Barbosa Araujo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_routers-0.1.0.tar.gz",
+  "download_time": "2026-03-01T19:56:05.013616",
+  "package_url": "https://pypi.org/project/agent-routers/"
+}

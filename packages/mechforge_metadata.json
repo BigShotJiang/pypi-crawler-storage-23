@@ -1,0 +1,11 @@
+{
+  "name": "mechforge",
+  "version": "0.1.0",
+  "summary": "MechForge: Next-Generation Mechanical Engineering Python Platform",
+  "author": "MechForge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mechforge-0.1.0.tar.gz",
+  "download_time": "2026-03-01T19:56:08.610609",
+  "package_url": "https://pypi.org/project/mechforge/"
+}

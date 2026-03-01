@@ -1,11 +1,11 @@
 {
   "name": "flet-circular-slider",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Circular/radial slider control for Flet, wrapping sleek_circular_slider Flutter package",
   "author": "Alex Stoica",
   "license": "MIT",
-  "home_page": "https://github.com/alex-stoica/flet-circular-slider",
-  "download_filename": "flet_circular_slider-0.3.0.tar.gz",
-  "download_time": "2026-02-27T22:17:53.907260",
+  "home_page": null,
+  "download_filename": "flet_circular_slider-0.4.0.tar.gz",
+  "download_time": "2026-03-01T19:56:00.292028",
   "package_url": "https://pypi.org/project/flet-circular-slider/"
 }
