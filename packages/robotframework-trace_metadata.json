@@ -1,11 +1,11 @@
 {
   "name": "robotframework-trace",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "summary": "Alternative CLI for Robot Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_trace-1.0.5.tar.gz",
-  "download_time": "2026-02-28T17:19:16.906600",
+  "download_filename": "robotframework_trace-1.1.1.tar.gz",
+  "download_time": "2026-03-01T23:22:36.265629",
   "package_url": "https://pypi.org/project/robotframework-trace/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py3dbl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A powerful tool for 3D bin packing problem solving",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py3dbl-1.0.0.tar.gz",
-  "download_time": "2026-03-01T22:55:13.217934",
+  "download_filename": "py3dbl-1.0.1.tar.gz",
+  "download_time": "2026-03-01T23:22:11.009755",
   "package_url": "https://pypi.org/project/py3dbl/"
 }

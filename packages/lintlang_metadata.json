@@ -1,0 +1,11 @@
+{
+  "name": "lintlang",
+  "version": "0.1.0",
+  "summary": "Linter for AI agent tool descriptions, system prompts, and configs. Catches vague instructions, missing constraints, and schema mismatches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lintlang-0.1.0.tar.gz",
+  "download_time": "2026-03-01T23:22:05.315555",
+  "package_url": "https://pypi.org/project/lintlang/"
+}
