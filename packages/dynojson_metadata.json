@@ -1,11 +1,11 @@
 {
   "name": "dynojson",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Marshall/unmarshall JSON to/from DynamoDB JSON format — fast Python library backed by Rust",
   "author": "cykruss",
   "license": "MIT",
   "home_page": "https://github.com/cykruss/dynojson",
-  "download_filename": "dynojson-0.1.1.tar.gz",
-  "download_time": "2026-02-21T08:23:53.531653",
+  "download_filename": "dynojson-0.2.0.tar.gz",
+  "download_time": "2026-03-01T18:27:22.003219",
   "package_url": "https://pypi.org/project/dynojson/"
 }

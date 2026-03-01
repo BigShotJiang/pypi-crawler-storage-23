@@ -1,11 +1,11 @@
 {
   "name": "anteroom",
-  "version": "1.88.1",
+  "version": "1.89.0",
   "summary": "Anteroom - your gateway to AI conversation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anteroom-1.88.1.tar.gz",
-  "download_time": "2026-03-01T15:21:07.706719",
+  "download_filename": "anteroom-1.89.0.tar.gz",
+  "download_time": "2026-03-01T18:26:48.557566",
   "package_url": "https://pypi.org/project/anteroom/"
 }

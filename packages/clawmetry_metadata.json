@@ -1,11 +1,11 @@
 {
   "name": "clawmetry",
-  "version": "0.11.9",
+  "version": "0.11.11",
   "summary": "ClawMetry - Real-time observability dashboard for OpenClaw AI agents",
   "author": "Vivek Chand",
   "license": "MIT",
   "home_page": "https://github.com/vivekchand/clawmetry",
-  "download_filename": "clawmetry-0.11.9.tar.gz",
-  "download_time": "2026-03-01T15:47:57.850627",
+  "download_filename": "clawmetry-0.11.11.tar.gz",
+  "download_time": "2026-03-01T18:26:43.400153",
   "package_url": "https://pypi.org/project/clawmetry/"
 }

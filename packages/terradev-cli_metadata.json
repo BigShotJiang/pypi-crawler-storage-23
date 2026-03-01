@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "summary": "Cross-cloud GPU provisioning with GitOps automation and HuggingFace Spaces deployment",
   "author": null,
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "terradev_cli-3.5.0.tar.gz",
-  "download_time": "2026-03-01T01:20:53.538676",
+  "download_filename": "terradev_cli-3.5.1.tar.gz",
+  "download_time": "2026-03-01T18:26:57.449668",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

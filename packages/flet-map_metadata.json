@@ -1,11 +1,11 @@
 {
   "name": "flet-map",
-  "version": "0.80.5",
+  "version": "0.81.0",
   "summary": "Interactive map controls for Flet apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet_map-0.80.5.tar.gz",
-  "download_time": "2026-02-21T23:57:38.595027",
+  "download_filename": "flet_map-0.81.0.tar.gz",
+  "download_time": "2026-03-01T18:27:01.916073",
   "package_url": "https://pypi.org/project/flet-map/"
 }
