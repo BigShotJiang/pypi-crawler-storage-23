@@ -1,0 +1,11 @@
+{
+  "name": "llm-async",
+  "version": "0.4.2",
+  "summary": "Multi-LLM Provider Library",
+  "author": "Johanderson Mogollon",
+  "license": "MIT",
+  "home_page": "https://github.com/sonic182/llm-async",
+  "download_filename": "llm_async-0.4.2.tar.gz",
+  "download_time": "2026-03-01T21:58:19.094160",
+  "package_url": "https://pypi.org/project/llm-async/"
+}
