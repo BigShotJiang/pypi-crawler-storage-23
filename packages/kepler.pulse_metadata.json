@@ -1,11 +1,11 @@
 {
   "name": "kepler.pulse",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Trade day handling utilities for A-share market",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kepler_pulse-0.1.7.tar.gz",
-  "download_time": "2026-02-28T13:15:00.666107",
+  "download_filename": "kepler_pulse-0.1.8.tar.gz",
+  "download_time": "2026-03-01T08:57:49.977669",
   "package_url": "https://pypi.org/project/kepler.pulse/"
 }

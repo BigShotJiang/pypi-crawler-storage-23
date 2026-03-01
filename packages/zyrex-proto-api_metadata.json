@@ -1,11 +1,11 @@
 {
   "name": "zyrex-proto-api",
-  "version": "1.0.4",
-  "summary": "ZYREX Bypass Engine - Professional SDK (ABI3 Compatible)",
+  "version": "1.0.8",
+  "summary": "ZYREX Bypass Engine - Professional SDK",
   "author": "ZYREX",
   "license": null,
   "home_page": null,
-  "download_filename": "zyrex_proto_api-1.0.4-cp37-abi3-win_amd64.whl",
-  "download_time": "2026-02-28T13:51:12.902510",
+  "download_filename": "zyrex_proto_api-1.0.8-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-01T08:57:46.120645",
   "package_url": "https://pypi.org/project/zyrex-proto-api/"
 }

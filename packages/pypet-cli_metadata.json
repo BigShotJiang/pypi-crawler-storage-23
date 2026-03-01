@@ -1,0 +1,11 @@
+{
+  "name": "pypet-cli",
+  "version": "0.6.1",
+  "summary": "A modern command-line snippet manager with Git synchronization, clipboard integration, and parameterized commands",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypet_cli-0.6.1.tar.gz",
+  "download_time": "2026-03-01T08:57:12.185012",
+  "package_url": "https://pypi.org/project/pypet-cli/"
+}

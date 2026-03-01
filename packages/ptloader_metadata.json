@@ -1,11 +1,11 @@
 {
   "name": "ptloader",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "summary": "Load torch checkpoints as NumPy arrays without torch at runtime.",
   "author": "Andrea Boscolo Camiletto",
   "license": null,
   "home_page": null,
-  "download_filename": "ptloader-0.1.5.tar.gz",
-  "download_time": "2026-03-01T07:50:30.458059",
+  "download_filename": "ptloader-0.3.0.tar.gz",
+  "download_time": "2026-03-01T08:57:47.749247",
   "package_url": "https://pypi.org/project/ptloader/"
 }

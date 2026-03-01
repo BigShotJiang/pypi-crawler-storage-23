@@ -1,11 +1,11 @@
 {
   "name": "vectordbpipe",
-  "version": "0.2.1",
-  "summary": "vectorDBpipe v0.2.1 — Enterprise Omni-RAG SDK. Tri-Processing Ingestion + 4 AI Engines (Vector RAG, Vectorless RAG, GraphRAG, Structured JSON Extract) + 15+ data connectors. One pipeline. One API. Zero glue code.",
+  "version": "0.2.2",
+  "summary": "vectorDBpipe v0.2.2 — Enterprise Omni-RAG SDK. Tri-Processing Ingestion + 4 AI Engines (Vector RAG, Vectorless RAG, GraphRAG, Structured JSON Extract) + 15+ data connectors. One pipeline. One API. Zero glue code.",
   "author": "Yash Desai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectordbpipe-0.2.1.tar.gz",
-  "download_time": "2026-02-28T17:18:56.754647",
+  "download_filename": "vectordbpipe-0.2.2.tar.gz",
+  "download_time": "2026-03-01T08:57:48.290808",
   "package_url": "https://pypi.org/project/vectordbpipe/"
 }

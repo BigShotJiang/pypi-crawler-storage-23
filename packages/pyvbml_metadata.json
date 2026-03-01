@@ -1,0 +1,11 @@
+{
+  "name": "pyvbml",
+  "version": "0.1.0",
+  "summary": "A python package to parse Vestaboard markup language (VBML) to Vestaboard character arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvbml-0.1.0.tar.gz",
+  "download_time": "2026-03-01T08:57:34.118510",
+  "package_url": "https://pypi.org/project/pyvbml/"
+}

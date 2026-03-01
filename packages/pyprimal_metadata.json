@@ -1,0 +1,11 @@
+{
+  "name": "pyprimal",
+  "version": "2.0.0",
+  "summary": "Parametric Simplex Method for Sparse Learning",
+  "author": "Zichong Li, Qianli Shen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyprimal-2.0.0.tar.gz",
+  "download_time": "2026-03-01T08:57:12.773880",
+  "package_url": "https://pypi.org/project/pyprimal/"
+}

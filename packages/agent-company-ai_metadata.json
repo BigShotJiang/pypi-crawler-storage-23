@@ -1,11 +1,11 @@
 {
   "name": "agent-company-ai",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Spin up an AI agent company - a business run by AI agents, managed by you",
   "author": "Agent Company AI",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_company_ai-0.4.0.tar.gz",
-  "download_time": "2026-03-01T08:30:33.100516",
+  "download_filename": "agent_company_ai-0.4.1.tar.gz",
+  "download_time": "2026-03-01T08:57:26.449190",
   "package_url": "https://pypi.org/project/agent-company-ai/"
 }
