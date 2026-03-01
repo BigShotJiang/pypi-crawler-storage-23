@@ -1,0 +1,11 @@
+{
+  "name": "udtp-protocol-genesis",
+  "version": "3.6.5",
+  "summary": "Universal Data Transfer Protocol - Genesis Build 3.6.5",
+  "author": "UDTP_ARCHITECT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "udtp_protocol_genesis-3.6.5.tar.gz",
+  "download_time": "2026-03-01T14:20:11.147189",
+  "package_url": "https://pypi.org/project/udtp-protocol-genesis/"
+}

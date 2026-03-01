@@ -1,0 +1,11 @@
+{
+  "name": "syncreg",
+  "version": "0.0.0",
+  "summary": "Empty placeholder package - reserved for mozilla-services",
+  "author": "Package Protector",
+  "license": null,
+  "home_page": null,
+  "download_filename": "syncreg-0.0.0.tar.gz",
+  "download_time": "2026-03-01T14:20:43.481376",
+  "package_url": "https://pypi.org/project/syncreg/"
+}

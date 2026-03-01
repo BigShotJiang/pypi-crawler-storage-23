@@ -1,0 +1,11 @@
+{
+  "name": "gpt-researcher",
+  "version": "0.14.7",
+  "summary": "GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks.",
+  "author": "Assaf Elovic",
+  "license": "MIT",
+  "home_page": "https://github.com/assafelovic/gpt-researcher",
+  "download_filename": "gpt_researcher-0.14.7.tar.gz",
+  "download_time": "2026-03-01T14:20:09.452599",
+  "package_url": "https://pypi.org/project/gpt-researcher/"
+}

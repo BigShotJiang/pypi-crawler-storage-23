@@ -1,0 +1,11 @@
+{
+  "name": "labpgmml",
+  "version": "0.3",
+  "summary": "Download Machine Learning lab notebooks from GitHub",
+  "author": "Mithun Kulal",
+  "license": null,
+  "home_page": "https://github.com/KulalMithun/labpgmml",
+  "download_filename": "labpgmml-0.3.tar.gz",
+  "download_time": "2026-03-01T14:20:19.786440",
+  "package_url": "https://pypi.org/project/labpgmml/"
+}

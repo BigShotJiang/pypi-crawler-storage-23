@@ -1,0 +1,11 @@
+{
+  "name": "cadis-core",
+  "version": "0.1.0",
+  "summary": "Country-agnostic structural engine for admin hierarchy lookup.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cadis_core-0.1.0.tar.gz",
+  "download_time": "2026-03-01T14:20:39.138479",
+  "package_url": "https://pypi.org/project/cadis-core/"
+}

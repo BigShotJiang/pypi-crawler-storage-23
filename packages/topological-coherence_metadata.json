@@ -1,0 +1,11 @@
+{
+  "name": "topological-coherence",
+  "version": "0.2.1",
+  "summary": "Toroidal attention constraints for reducing LLM hallucination",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "topological_coherence-0.2.1.tar.gz",
+  "download_time": "2026-03-01T14:20:41.312646",
+  "package_url": "https://pypi.org/project/topological-coherence/"
+}

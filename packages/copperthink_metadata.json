@@ -1,0 +1,11 @@
+{
+  "name": "copperthink",
+  "version": "0.0.1",
+  "summary": "Copperthink — intelligent memory system",
+  "author": "Ben Finklea",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copperthink-0.0.1.tar.gz",
+  "download_time": "2026-03-01T14:20:36.972132",
+  "package_url": "https://pypi.org/project/copperthink/"
+}

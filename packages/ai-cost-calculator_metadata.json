@@ -1,11 +1,11 @@
 {
   "name": "ai-cost-calculator",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "Python SDK to calculate LLM API costs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_cost_calculator-0.1.17.tar.gz",
-  "download_time": "2026-03-01T08:57:28.631979",
+  "download_filename": "ai_cost_calculator-0.1.19.tar.gz",
+  "download_time": "2026-03-01T14:20:55.121813",
   "package_url": "https://pypi.org/project/ai-cost-calculator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ztxexp",
+  "version": "0.2.0",
+  "summary": "Experiment framework for ML/LLM workflows with reproducible run artifacts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ztxexp-0.2.0.tar.gz",
+  "download_time": "2026-03-01T14:20:24.907112",
+  "package_url": "https://pypi.org/project/ztxexp/"
+}

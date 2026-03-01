@@ -1,11 +1,11 @@
 {
   "name": "codeapi-client",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "CodeAPI Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeapi_client-0.7.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2026-02-28T22:17:07.900975",
+  "download_filename": "codeapi_client-0.7.3-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-01T14:20:15.184672",
   "package_url": "https://pypi.org/project/codeapi-client/"
 }

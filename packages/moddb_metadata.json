@@ -1,0 +1,11 @@
+{
+  "name": "moddb",
+  "version": "0.15.0",
+  "summary": "A scrapper for ModDB Mod and Game pages",
+  "author": "Clement Julia",
+  "license": null,
+  "home_page": "https://github.com/ClementJ18/moddb",
+  "download_filename": "moddb-0.15.0.tar.gz",
+  "download_time": "2026-03-01T14:20:58.941241",
+  "package_url": "https://pypi.org/project/moddb/"
+}

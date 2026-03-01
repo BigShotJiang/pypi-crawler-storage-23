@@ -1,0 +1,11 @@
+{
+  "name": "tootsnoop",
+  "version": "2026.3.1.2",
+  "summary": "Statisics of the last x days for your Mastodon messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tootsnoop-2026.3.1.2.tar.gz",
+  "download_time": "2026-03-01T14:20:17.489713",
+  "package_url": "https://pypi.org/project/tootsnoop/"
+}

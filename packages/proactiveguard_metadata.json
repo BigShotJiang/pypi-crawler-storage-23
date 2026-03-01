@@ -1,0 +1,11 @@
+{
+  "name": "proactiveguard",
+  "version": "0.1.0",
+  "summary": "Predictive failure detection for distributed consensus systems (etcd, Raft, CockroachDB)",
+  "author": "ProactiveGuard Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proactiveguard-0.1.0.tar.gz",
+  "download_time": "2026-03-01T14:20:33.714550",
+  "package_url": "https://pypi.org/project/proactiveguard/"
+}

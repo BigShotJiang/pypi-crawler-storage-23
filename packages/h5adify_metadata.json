@@ -1,0 +1,11 @@
+{
+  "name": "h5adify",
+  "version": "0.1.1",
+  "summary": "Download, normalize metadata, and convert public sc/snRNA-seq + spatial datasets to standardized .h5ad (AnnData).",
+  "author": "h5adify contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "h5adify-0.1.1.tar.gz",
+  "download_time": "2026-03-01T14:20:28.249993",
+  "package_url": "https://pypi.org/project/h5adify/"
+}
