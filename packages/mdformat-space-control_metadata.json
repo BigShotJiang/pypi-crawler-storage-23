@@ -1,0 +1,11 @@
+{
+  "name": "mdformat-space-control",
+  "version": "0.4.0",
+  "summary": "An mdformat plugin for space control: EditorConfig indentation, tight lists, frontmatter spacing, smart dash conversion, explicit line breaks, and wikilinks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdformat_space_control-0.4.0.tar.gz",
+  "download_time": "2026-03-01T16:53:30.949295",
+  "package_url": "https://pypi.org/project/mdformat-space-control/"
+}

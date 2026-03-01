@@ -1,0 +1,11 @@
+{
+  "name": "FF-Tokens",
+  "version": "2.1.4",
+  "summary": "Generate JWT tokens from Free Fire access tokens",
+  "author": "NR CODEX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ff_tokens-2.1.4.tar.gz",
+  "download_time": "2026-03-01T16:53:01.377600",
+  "package_url": "https://pypi.org/project/FF-Tokens/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "abstract-solcatcher",
-  "version": "0.0.3.261",
+  "version": "0.0.3.262",
   "summary": "`abstract_solcatcher` provides a comprehensive solution for making HTTP requests specifically tailored for interacting with Solcatcher.io's APIs. It simplifies complex tasks such as data fetching, data manipulation, and interacting with the Flask backend of Solcatcher.io.",
   "author": "putkoff",
   "license": "MIT",
   "home_page": "https://github.com/AbstractEndeavors/abstract_solcatcher",
-  "download_filename": "abstract_solcatcher-0.0.3.261.tar.gz",
-  "download_time": "2026-03-01T15:48:22.046841",
+  "download_filename": "abstract_solcatcher-0.0.3.262.tar.gz",
+  "download_time": "2026-03-01T16:53:02.937629",
   "package_url": "https://pypi.org/project/abstract-solcatcher/"
 }

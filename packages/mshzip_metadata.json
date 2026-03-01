@@ -1,0 +1,11 @@
+{
+  "name": "mshzip",
+  "version": "1.0.0",
+  "summary": "고정 청크 dedup + 엔트로피 압축 유틸 (MSH1 바이너리 포맷)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mshzip-1.0.0.tar.gz",
+  "download_time": "2026-03-01T16:52:55.695344",
+  "package_url": "https://pypi.org/project/mshzip/"
+}

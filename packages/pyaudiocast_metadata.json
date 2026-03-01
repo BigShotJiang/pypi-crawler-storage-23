@@ -1,11 +1,11 @@
 {
   "name": "pyaudiocast",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Cross-platform audio output for Python, powered by Rust and CPAL",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyaudiocast-0.1.8.tar.gz",
-  "download_time": "2026-02-24T23:00:12.351942",
+  "download_filename": "pyaudiocast-0.1.10.tar.gz",
+  "download_time": "2026-03-01T16:53:12.302799",
   "package_url": "https://pypi.org/project/pyaudiocast/"
 }

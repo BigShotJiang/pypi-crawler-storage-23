@@ -1,11 +1,11 @@
 {
   "name": "voiceterm",
-  "version": "1.0.96",
+  "version": "1.0.97",
   "summary": "Voice-first terminal overlay for Codex and Claude with local Whisper STT, PTY passthrough, and a customizable HUD",
   "author": "Justin Guida",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voiceterm-1.0.96.tar.gz",
-  "download_time": "2026-03-01T13:54:37.387279",
+  "download_filename": "voiceterm-1.0.97.tar.gz",
+  "download_time": "2026-03-01T16:53:23.111687",
   "package_url": "https://pypi.org/project/voiceterm/"
 }

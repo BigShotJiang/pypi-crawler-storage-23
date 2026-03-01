@@ -1,0 +1,11 @@
+{
+  "name": "abstract-ai",
+  "version": "0.2.1.173",
+  "summary": "abstract_ai is a Python module that serves as a bridge between your application and the OpenAI GPT-3 API. It provides a convenient interface for sending requests, managing responses, and controlling the behavior of the API calls. This module is highly customizable, allowing you to establish prompts, instructions, and response handling logic.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": "https://github.com/AbstractEndeavors/abstract_ai",
+  "download_filename": "abstract_ai-0.2.1.173.tar.gz",
+  "download_time": "2026-03-01T16:53:24.264738",
+  "package_url": "https://pypi.org/project/abstract-ai/"
+}
