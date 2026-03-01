@@ -1,11 +1,11 @@
 {
   "name": "pyonir",
-  "version": "0.0.61",
+  "version": "0.0.63",
   "summary": "a python library for building web applications",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pyonir-0.0.61.tar.gz",
-  "download_time": "2026-02-18T12:36:43.318377",
+  "download_filename": "pyonir-0.0.63.tar.gz",
+  "download_time": "2026-03-01T14:47:38.979236",
   "package_url": "https://pypi.org/project/pyonir/"
 }

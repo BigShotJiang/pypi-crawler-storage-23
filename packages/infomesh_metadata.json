@@ -1,11 +1,11 @@
 {
   "name": "infomesh",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Fully decentralized P2P search engine for LLMs via MCP",
   "author": "InfoMesh Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "infomesh-0.1.3.tar.gz",
-  "download_time": "2026-03-01T11:45:55.588460",
+  "download_filename": "infomesh-0.1.4.tar.gz",
+  "download_time": "2026-03-01T14:48:04.662578",
   "package_url": "https://pypi.org/project/infomesh/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jasper-finance",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "summary": "Terminal-native autonomous financial research agent with deterministic planning and validation gating.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jasper_finance-1.0.9.tar.gz",
-  "download_time": "2026-02-21T13:16:31.434350",
+  "download_filename": "jasper_finance-1.1.0.tar.gz",
+  "download_time": "2026-03-01T14:47:49.920500",
   "package_url": "https://pypi.org/project/jasper-finance/"
 }

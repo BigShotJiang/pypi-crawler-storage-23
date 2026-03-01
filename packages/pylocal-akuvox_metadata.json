@@ -1,11 +1,11 @@
 {
   "name": "pylocal-akuvox",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Async Python library for the Akuvox local HTTP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylocal_akuvox-0.2.2.tar.gz",
-  "download_time": "2026-02-28T19:18:23.635973",
+  "download_filename": "pylocal_akuvox-0.2.3.tar.gz",
+  "download_time": "2026-03-01T14:47:37.928588",
   "package_url": "https://pypi.org/project/pylocal-akuvox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "appendfilename",
+  "version": "2026.3.1.1",
+  "summary": "Intelligent appending text to file names, considering file extensions and file tags",
+  "author": "Karl Voit",
+  "license": null,
+  "home_page": "https://github.com/novoid/appendfilename",
+  "download_filename": "appendfilename-2026.3.1.1.tar.gz",
+  "download_time": "2026-03-01T14:48:06.222200",
+  "package_url": "https://pypi.org/project/appendfilename/"
+}

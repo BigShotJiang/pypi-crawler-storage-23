@@ -1,0 +1,11 @@
+{
+  "name": "uploadwhen",
+  "version": "1.0.0",
+  "summary": "Find out exactly when a YouTube video was uploaded — date & time in IST.",
+  "author": "SoubhagyaSwain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uploadwhen-1.0.0.tar.gz",
+  "download_time": "2026-03-01T14:47:45.717141",
+  "package_url": "https://pypi.org/project/uploadwhen/"
+}

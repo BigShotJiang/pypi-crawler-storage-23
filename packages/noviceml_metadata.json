@@ -1,0 +1,11 @@
+{
+  "name": "noviceml",
+  "version": "0.5",
+  "summary": "Download Machine Learning lab notebooks from GitHub",
+  "author": "Mithun Kulal",
+  "license": null,
+  "home_page": "https://github.com/KulalMithun/labpgmml",
+  "download_filename": "noviceml-0.5.tar.gz",
+  "download_time": "2026-03-01T14:47:58.925949",
+  "package_url": "https://pypi.org/project/noviceml/"
+}

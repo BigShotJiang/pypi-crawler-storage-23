@@ -1,0 +1,11 @@
+{
+  "name": "airqosm",
+  "version": "0.2.0",
+  "summary": "Air pollution source metadata client, inference engine, and optional API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airqosm-0.2.0.tar.gz",
+  "download_time": "2026-03-01T14:47:45.198986",
+  "package_url": "https://pypi.org/project/airqosm/"
+}

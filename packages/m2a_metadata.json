@@ -1,0 +1,11 @@
+{
+  "name": "m2a",
+  "version": "2026.3.1.1",
+  "summary": "This script moves items (files or directories) containing ISO datestamps like YYYY-MM-DD into a directory stucture for the corresponding year.",
+  "author": "Karl Voit",
+  "license": null,
+  "home_page": "https://github.com/novoid/move2archive",
+  "download_filename": "m2a-2026.3.1.1.tar.gz",
+  "download_time": "2026-03-01T14:47:56.849350",
+  "package_url": "https://pypi.org/project/m2a/"
+}

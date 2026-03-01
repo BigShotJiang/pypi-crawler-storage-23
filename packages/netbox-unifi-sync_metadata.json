@@ -1,11 +1,11 @@
 {
   "name": "netbox-unifi-sync",
-  "version": "0.3.12",
+  "version": "0.3.17",
   "summary": "Production-ready NetBox plugin for UniFi synchronization",
   "author": "Patrick Lind",
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_unifi_sync-0.3.12.tar.gz",
-  "download_time": "2026-02-28T22:17:24.159193",
+  "download_filename": "netbox_unifi_sync-0.3.17.tar.gz",
+  "download_time": "2026-03-01T14:47:34.819288",
   "package_url": "https://pypi.org/project/netbox-unifi-sync/"
 }

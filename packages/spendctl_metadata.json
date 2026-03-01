@@ -1,0 +1,11 @@
+{
+  "name": "spendctl",
+  "version": "0.2.0",
+  "summary": "Personal finance CLI built for AI workflows",
+  "author": "Jscoats",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spendctl-0.2.0.tar.gz",
+  "download_time": "2026-03-01T14:47:54.771402",
+  "package_url": "https://pypi.org/project/spendctl/"
+}

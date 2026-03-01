@@ -1,11 +1,11 @@
 {
   "name": "llm-feature-gen",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Feature discovery and generation utilities",
   "author": "Julija Jeršova",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_feature_gen-0.1.4.tar.gz",
-  "download_time": "2026-03-01T13:55:03.706766",
+  "download_filename": "llm_feature_gen-0.1.6.tar.gz",
+  "download_time": "2026-03-01T14:47:36.377720",
   "package_url": "https://pypi.org/project/llm-feature-gen/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tartape",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "summary": "An efficient, secure, and deterministic TAR streaming engine.",
   "author": "Leo",
   "license": null,
   "home_page": "https://github.com/CalumRakk/tartape",
-  "download_filename": "tartape-1.6.0.tar.gz",
-  "download_time": "2026-02-26T20:57:04.519738",
+  "download_filename": "tartape-2.0.0.tar.gz",
+  "download_time": "2026-03-01T14:48:00.486667",
   "package_url": "https://pypi.org/project/tartape/"
 }
