@@ -1,0 +1,11 @@
+{
+  "name": "crackie",
+  "version": "1.0.3",
+  "summary": "A simple, silly library to generate combinations",
+  "author": "Pablo Brasero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crackie-1.0.3.tar.gz",
+  "download_time": "2026-03-01T16:28:05.426906",
+  "package_url": "https://pypi.org/project/crackie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langfuse-lens-agent",
+  "version": "0.3.0",
+  "summary": "Langfuse trace analysis agent with built-in web console",
+  "author": "BAEM1N",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langfuse_lens_agent-0.3.0.tar.gz",
+  "download_time": "2026-03-01T16:27:52.161972",
+  "package_url": "https://pypi.org/project/langfuse-lens-agent/"
+}

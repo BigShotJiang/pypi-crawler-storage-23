@@ -1,0 +1,11 @@
+{
+  "name": "connectionsphere-fastapi-cli",
+  "version": "0.3.2",
+  "summary": "CLI to scaffold production-ready FastAPI projects with UV, Docker, and GitHub Actions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "connectionsphere_fastapi_cli-0.3.2.tar.gz",
+  "download_time": "2026-03-01T16:27:39.286810",
+  "package_url": "https://pypi.org/project/connectionsphere-fastapi-cli/"
+}

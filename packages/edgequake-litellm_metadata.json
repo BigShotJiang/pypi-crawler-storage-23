@@ -1,11 +1,11 @@
 {
   "name": "edgequake-litellm",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Drop-in LiteLLM replacement backed by Rust — same API, 10× lower latency",
   "author": "EdgeQuake Contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/raphaelmansuy/edgequake-llm",
-  "download_filename": "edgequake_litellm-0.1.2.tar.gz",
-  "download_time": "2026-02-21T11:15:34.633424",
+  "download_filename": "edgequake_litellm-0.2.0.tar.gz",
+  "download_time": "2026-03-01T16:28:19.376342",
   "package_url": "https://pypi.org/project/edgequake-litellm/"
 }

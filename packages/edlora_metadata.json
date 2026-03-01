@@ -1,11 +1,11 @@
 {
   "name": "edlora",
-  "version": "1.1.1",
+  "version": "1.2.4",
   "summary": "A lightweight cross-language communication protocol for rocketry telemetry over LoRa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edlora-1.1.1.tar.gz",
-  "download_time": "2026-03-01T01:20:54.595072",
+  "download_filename": "edlora-1.2.4.tar.gz",
+  "download_time": "2026-03-01T16:28:17.834354",
   "package_url": "https://pypi.org/project/edlora/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "should-not-be-found-by-test",
+  "version": "0.0.0",
+  "summary": "Empty placeholder package - reserved name",
+  "author": "Package Protector",
+  "license": null,
+  "home_page": null,
+  "download_filename": "should_not_be_found_by_test-0.0.0.tar.gz",
+  "download_time": "2026-03-01T16:28:12.739200",
+  "package_url": "https://pypi.org/project/should-not-be-found-by-test/"
+}

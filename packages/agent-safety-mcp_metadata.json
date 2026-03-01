@@ -1,0 +1,11 @@
+{
+  "name": "agent-safety-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for AI agent safety — cost guards, injection scanning, and decision tracing",
+  "author": "LuciferForge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_safety_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-01T16:28:01.080218",
+  "package_url": "https://pypi.org/project/agent-safety-mcp/"
+}

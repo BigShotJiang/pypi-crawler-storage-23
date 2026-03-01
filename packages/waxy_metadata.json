@@ -1,0 +1,11 @@
+{
+  "name": "waxy",
+  "version": "0.4.0",
+  "summary": "A Python wrapper around the Rust taffy UI layout library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waxy-0.4.0.tar.gz",
+  "download_time": "2026-03-01T16:27:43.885801",
+  "package_url": "https://pypi.org/project/waxy/"
+}

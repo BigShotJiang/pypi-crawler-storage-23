@@ -1,0 +1,11 @@
+{
+  "name": "gpyconform",
+  "version": "0.2.0.post1",
+  "summary": "Extends GPyTorch with Gaussian Process Regression Conformal Prediction",
+  "author": "Harris Papadopoulos",
+  "license": null,
+  "home_page": "https://github.com/harrisp/GPyConform",
+  "download_filename": "gpyconform-0.2.0.post1.tar.gz",
+  "download_time": "2026-03-01T16:28:12.229714",
+  "package_url": "https://pypi.org/project/gpyconform/"
+}

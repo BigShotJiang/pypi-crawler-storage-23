@@ -1,11 +1,11 @@
 {
   "name": "vectrix",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Zero-config time series forecasting & analysis library. Pure numpy + scipy implementation with 30+ models, regression, and adaptive intelligence.",
   "author": "eddmpython",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectrix-0.0.2.tar.gz",
-  "download_time": "2026-02-27T23:26:32.257174",
+  "download_filename": "vectrix-0.0.4.tar.gz",
+  "download_time": "2026-03-01T16:28:05.939321",
   "package_url": "https://pypi.org/project/vectrix/"
 }

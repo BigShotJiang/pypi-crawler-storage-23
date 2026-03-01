@@ -1,0 +1,11 @@
+{
+  "name": "discord-ferry",
+  "version": "1.2.1",
+  "summary": "Migrate Discord servers to Stoat (formerly Revolt)",
+  "author": "Peter Sterkenburg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_ferry-1.2.1-py3-none-any.whl",
+  "download_time": "2026-03-01T16:28:26.849293",
+  "package_url": "https://pypi.org/project/discord-ferry/"
+}
