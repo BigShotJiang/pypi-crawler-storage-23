@@ -1,0 +1,11 @@
+{
+  "name": "date2name",
+  "version": "2026.3.1.1",
+  "summary": "Handling time-stamps and date-stamps in file names",
+  "author": "Karl Voit",
+  "license": null,
+  "home_page": "https://github.com/novoid/date2name",
+  "download_filename": "date2name-2026.3.1.1.tar.gz",
+  "download_time": "2026-03-01T15:21:37.001726",
+  "package_url": "https://pypi.org/project/date2name/"
+}

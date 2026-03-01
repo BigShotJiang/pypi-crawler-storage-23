@@ -1,0 +1,11 @@
+{
+  "name": "kepler-metric",
+  "version": "1.0.1",
+  "summary": "kepler-metric is a Python library with performance and risk statistics commonly used in quantitative finance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kepler_metric-1.0.1.tar.gz",
+  "download_time": "2026-03-01T15:22:04.689918",
+  "package_url": "https://pypi.org/project/kepler-metric/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "open-vulnera",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A cybersecurity-focused AI execution engine for vulnerability research and offensive tooling",
   "author": "Killian Lucas",
   "license": "Custom - Open Vulnera License v1.0",
   "home_page": null,
-  "download_filename": "open_vulnera-0.0.2.tar.gz",
-  "download_time": "2026-03-01T09:53:53.198586",
+  "download_filename": "open_vulnera-0.0.3.tar.gz",
+  "download_time": "2026-03-01T15:21:57.482693",
   "package_url": "https://pypi.org/project/open-vulnera/"
 }

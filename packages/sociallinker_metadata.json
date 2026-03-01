@@ -1,0 +1,11 @@
+{
+  "name": "sociallinker",
+  "version": "2.6.0",
+  "summary": "CLI tool to generate direct social media contact links",
+  "author": "SEU NOME AQUI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sociallinker-2.6.0.tar.gz",
+  "download_time": "2026-03-01T15:21:12.565152",
+  "package_url": "https://pypi.org/project/sociallinker/"
+}

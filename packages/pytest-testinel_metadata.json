@@ -1,11 +1,11 @@
 {
   "name": "pytest-testinel",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Testinel’s pytest plugin captures structured test execution data directly from pytest and sends it to Testinel, where your test results become searchable, comparable, and actually useful.",
   "author": "Volodymyr Obrizan",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_testinel-0.5.0.tar.gz",
-  "download_time": "2026-03-01T07:50:28.930174",
+  "download_filename": "pytest_testinel-0.5.1.tar.gz",
+  "download_time": "2026-03-01T15:22:04.052731",
   "package_url": "https://pypi.org/project/pytest-testinel/"
 }

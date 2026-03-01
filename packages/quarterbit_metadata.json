@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "19.8.1",
+  "version": "19.8.2",
   "summary": "Memory-efficient LLM training. AXIOM enables 70B on single H100, 7B on consumer GPUs.",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-19.8.1-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-25T22:24:22.294069",
+  "download_filename": "quarterbit-19.8.2-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-03-01T15:21:46.222263",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sefrone-api-e2e",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A Python package to provide e2e testing helpers for sefrone API projects",
   "author": "Sefrone",
   "license": null,
   "home_page": "https://bitbucket.org/sefrone/sefrone_pypi",
-  "download_filename": "sefrone_api_e2e-1.0.7.tar.gz",
-  "download_time": "2026-03-01T06:11:42.557360",
+  "download_filename": "sefrone_api_e2e-1.0.8.tar.gz",
+  "download_time": "2026-03-01T15:21:20.414881",
   "package_url": "https://pypi.org/project/sefrone-api-e2e/"
 }
