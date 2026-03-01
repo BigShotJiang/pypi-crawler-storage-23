@@ -1,0 +1,11 @@
+{
+  "name": "keras-rs-nightly",
+  "version": "0.4.1.dev202603010403",
+  "summary": "Multi-backend recommender systems with Keras 3.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "keras_rs_nightly-0.4.1.dev202603010403.tar.gz",
+  "download_time": "2026-03-01T04:04:21.194192",
+  "package_url": "https://pypi.org/project/keras-rs-nightly/"
+}

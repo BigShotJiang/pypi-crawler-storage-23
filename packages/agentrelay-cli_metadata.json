@@ -1,0 +1,11 @@
+{
+  "name": "agentrelay-cli",
+  "version": "0.5.3",
+  "summary": "OpenAI- and Anthropic-compatible API server that routes through agent CLIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentrelay_cli-0.5.3.tar.gz",
+  "download_time": "2026-03-01T04:04:49.834271",
+  "package_url": "https://pypi.org/project/agentrelay-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "omninode-claude",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Claude Code hooks + learning loop integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omninode_claude-0.3.0.tar.gz",
-  "download_time": "2026-02-27T17:07:55.995429",
+  "download_filename": "omninode_claude-0.4.0.tar.gz",
+  "download_time": "2026-03-01T04:05:01.375744",
   "package_url": "https://pypi.org/project/omninode-claude/"
 }

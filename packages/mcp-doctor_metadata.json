@@ -1,0 +1,11 @@
+{
+  "name": "mcp-doctor",
+  "version": "0.1.0",
+  "summary": "Check and improve the contract quality of any MCP server — for humans, agents, and platforms.",
+  "author": "Jiansen He",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_doctor-0.1.0.tar.gz",
+  "download_time": "2026-03-01T04:04:58.797705",
+  "package_url": "https://pypi.org/project/mcp-doctor/"
+}

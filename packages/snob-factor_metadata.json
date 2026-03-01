@@ -1,0 +1,11 @@
+{
+  "name": "snob-factor",
+  "version": "2026.2.16",
+  "summary": "Mixture modelling by Minimum Message Length (MML) using Factor Snob",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snob_factor-2026.2.16-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-01T04:04:31.034907",
+  "package_url": "https://pypi.org/project/snob-factor/"
+}

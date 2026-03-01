@@ -1,11 +1,11 @@
 {
   "name": "punt-tts",
-  "version": "0.7.1",
+  "version": "0.9.0",
   "summary": "Text-to-speech CLI, MCP server, and Claude Code plugin (ElevenLabs, AWS Polly, OpenAI)",
   "author": "Punt Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "punt_tts-0.7.1.tar.gz",
-  "download_time": "2026-02-28T00:00:00.896818",
+  "download_filename": "punt_tts-0.9.0.tar.gz",
+  "download_time": "2026-03-01T04:04:40.888359",
   "package_url": "https://pypi.org/project/punt-tts/"
 }

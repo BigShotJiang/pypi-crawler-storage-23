@@ -1,0 +1,11 @@
+{
+  "name": "synthflow-py",
+  "version": "0.1.1",
+  "summary": "Async workflow orchestration framework with a lightweight DSL.",
+  "author": "sszgr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthflow_py-0.1.1.tar.gz",
+  "download_time": "2026-03-01T04:04:21.707418",
+  "package_url": "https://pypi.org/project/synthflow-py/"
+}
