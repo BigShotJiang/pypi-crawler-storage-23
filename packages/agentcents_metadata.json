@@ -1,11 +1,11 @@
 {
   "name": "agentcents",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "LLM API cost interceptor and budget enforcer for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentcents-0.1.14-py3-none-any.whl",
-  "download_time": "2026-03-01T20:47:57.183666",
+  "download_filename": "agentcents-0.1.15-py3-none-any.whl",
+  "download_time": "2026-03-01T21:03:24.961508",
   "package_url": "https://pypi.org/project/agentcents/"
 }

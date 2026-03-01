@@ -1,0 +1,11 @@
+{
+  "name": "stm-shared",
+  "version": "0.1.0a2",
+  "summary": "Shared schemas for cheat detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stm_shared-0.1.0a2.tar.gz",
+  "download_time": "2026-03-01T21:03:28.041127",
+  "package_url": "https://pypi.org/project/stm-shared/"
+}

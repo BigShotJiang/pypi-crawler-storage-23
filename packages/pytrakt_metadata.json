@@ -1,0 +1,11 @@
+{
+  "name": "pytrakt",
+  "version": "4.2.3",
+  "summary": "Pythonic abstraction layer for easier scripting of the Trakt.tv REST API.",
+  "author": "Elan Ruusamäe",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/glensc/python-pytrakt",
+  "download_filename": "pytrakt-4.2.3.tar.gz",
+  "download_time": "2026-03-01T21:02:58.942820",
+  "package_url": "https://pypi.org/project/pytrakt/"
+}

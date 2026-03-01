@@ -1,11 +1,11 @@
 {
   "name": "polymarklib",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polymarklib-0.1.9.tar.gz",
-  "download_time": "2026-02-28T15:16:30.426970",
+  "download_filename": "polymarklib-0.1.10.tar.gz",
+  "download_time": "2026-03-01T21:03:25.473727",
   "package_url": "https://pypi.org/project/polymarklib/"
 }

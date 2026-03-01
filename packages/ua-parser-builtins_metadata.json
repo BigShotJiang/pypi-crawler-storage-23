@@ -1,0 +1,11 @@
+{
+  "name": "ua-parser-builtins",
+  "version": "202603",
+  "summary": "Precompiled rules for User Agent Parser",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ua_parser_builtins-202603-py3-none-any.whl",
+  "download_time": "2026-03-01T21:03:23.413286",
+  "package_url": "https://pypi.org/project/ua-parser-builtins/"
+}

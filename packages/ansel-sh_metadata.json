@@ -1,11 +1,11 @@
 {
   "name": "ansel-sh",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Demand forecasting API for AIs",
   "author": "Ansel Intelligence LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "ansel_sh-0.1.8.tar.gz",
-  "download_time": "2026-03-01T20:48:02.826649",
+  "download_filename": "ansel_sh-0.1.9.tar.gz",
+  "download_time": "2026-03-01T21:03:17.115690",
   "package_url": "https://pypi.org/project/ansel-sh/"
 }

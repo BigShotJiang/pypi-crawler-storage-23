@@ -1,0 +1,11 @@
+{
+  "name": "httpkom",
+  "version": "0.32",
+  "summary": "REST-like HTTP API for LysKOM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpkom-0.32.tar.gz",
+  "download_time": "2026-03-01T21:03:11.424592",
+  "package_url": "https://pypi.org/project/httpkom/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "labquiz",
-  "version": "0.8.9",
-  "summary": "Quizzes intégrés pour Jupyter",
+  "version": "0.8.10",
+  "summary": "LabQuiz is a Python package that allows to integrate interactive quizzes directly into Jupyter notebooks — useful for labs, tutorials, practical assignments, continuous assessment, and controlled exams",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "labquiz-0.8.9.tar.gz",
-  "download_time": "2026-03-01T19:40:58.826375",
+  "download_filename": "labquiz-0.8.10.tar.gz",
+  "download_time": "2026-03-01T21:03:27.009601",
   "package_url": "https://pypi.org/project/labquiz/"
 }

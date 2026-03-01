@@ -1,0 +1,11 @@
+{
+  "name": "scuisei-rs",
+  "version": "0.1.2",
+  "summary": "Scene-change detection library and CLI",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yuv420p10le/scuisei-rs",
+  "download_filename": "scuisei_rs-0.1.2.tar.gz",
+  "download_time": "2026-03-01T21:03:19.242875",
+  "package_url": "https://pypi.org/project/scuisei-rs/"
+}
