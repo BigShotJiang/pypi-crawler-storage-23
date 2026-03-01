@@ -1,0 +1,11 @@
+{
+  "name": "chname",
+  "version": "3.0.7",
+  "summary": "Renames files in powerful ways",
+  "author": "Steve Scholnick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chname-3.0.7.tar.gz",
+  "download_time": "2026-03-01T17:58:30.311280",
+  "package_url": "https://pypi.org/project/chname/"
+}

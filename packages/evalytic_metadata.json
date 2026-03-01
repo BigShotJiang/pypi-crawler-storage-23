@@ -1,11 +1,11 @@
 {
   "name": "evalytic",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Visual Generation Quality Evaluation SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evalytic-0.3.0.tar.gz",
-  "download_time": "2026-03-01T16:52:50.966041",
+  "download_filename": "evalytic-0.3.1.tar.gz",
+  "download_time": "2026-03-01T17:58:38.153037",
   "package_url": "https://pypi.org/project/evalytic/"
 }

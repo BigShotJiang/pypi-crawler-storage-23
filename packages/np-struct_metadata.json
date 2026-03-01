@@ -1,0 +1,11 @@
+{
+  "name": "np-struct",
+  "version": "0.0.4",
+  "summary": "Interface for NumPy structured arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "np_struct-0.0.4.tar.gz",
+  "download_time": "2026-03-01T17:58:25.611785",
+  "package_url": "https://pypi.org/project/np-struct/"
+}

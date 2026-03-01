@@ -1,11 +1,11 @@
 {
   "name": "gcp-pipeline-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Core library for GCP data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcp_pipeline_core-1.0.2.tar.gz",
-  "download_time": "2026-03-01T16:00:40.442698",
+  "download_filename": "gcp_pipeline_core-1.0.3.tar.gz",
+  "download_time": "2026-03-01T17:58:48.124592",
   "package_url": "https://pypi.org/project/gcp-pipeline-core/"
 }

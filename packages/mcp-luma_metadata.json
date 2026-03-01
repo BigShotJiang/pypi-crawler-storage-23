@@ -1,11 +1,11 @@
 {
   "name": "mcp-luma",
-  "version": "2026.2.28.0",
+  "version": "2026.3.1.0",
   "summary": "MCP Server for Luma AI Video Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_luma-2026.2.28.0.tar.gz",
-  "download_time": "2026-02-28T06:28:00.544965",
+  "download_filename": "mcp_luma-2026.3.1.0.tar.gz",
+  "download_time": "2026-03-01T17:58:51.785872",
   "package_url": "https://pypi.org/project/mcp-luma/"
 }

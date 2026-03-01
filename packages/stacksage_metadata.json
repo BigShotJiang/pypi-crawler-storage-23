@@ -1,11 +1,11 @@
 {
   "name": "stacksage",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "AWS cost & security audit — runs on your machine, nothing shared",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stacksage-0.7.3-py3-none-any.whl",
-  "download_time": "2026-03-01T17:43:07.702695",
+  "download_filename": "stacksage-0.7.4-py3-none-any.whl",
+  "download_time": "2026-03-01T17:58:43.403753",
   "package_url": "https://pypi.org/project/stacksage/"
 }
