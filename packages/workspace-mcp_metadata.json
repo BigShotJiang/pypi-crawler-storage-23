@@ -1,11 +1,11 @@
 {
   "name": "workspace-mcp",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "summary": "Comprehensive, highly performant Google Workspace Streamable HTTP & SSE MCP Server for Calendar, Gmail, Docs, Sheets, Slides & Drive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "workspace_mcp-1.14.0.tar.gz",
-  "download_time": "2026-03-01T22:55:30.625764",
+  "download_filename": "workspace_mcp-1.14.1.tar.gz",
+  "download_time": "2026-03-01T23:48:34.515989",
   "package_url": "https://pypi.org/project/workspace-mcp/"
 }

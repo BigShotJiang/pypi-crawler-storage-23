@@ -1,0 +1,11 @@
+{
+  "name": "air-compliance",
+  "version": "1.0.0",
+  "summary": "EU AI Act compliance scanner for Python AI projects — tool-agnostic, checks real compliance patterns",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "air_compliance-1.0.0.tar.gz",
+  "download_time": "2026-03-01T23:48:35.028216",
+  "package_url": "https://pypi.org/project/air-compliance/"
+}

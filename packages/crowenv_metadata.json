@@ -1,0 +1,11 @@
+{
+  "name": "crowenv",
+  "version": "1.0.1",
+  "summary": "CrowEnv — Smart secrets. Like a crow. 🐦‍⬛ Python loader for the .cenv encrypted secrets standard (AES-256-GCM)",
+  "author": "yogesh-singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crowenv-1.0.1.tar.gz",
+  "download_time": "2026-03-01T23:48:30.326825",
+  "package_url": "https://pypi.org/project/crowenv/"
+}

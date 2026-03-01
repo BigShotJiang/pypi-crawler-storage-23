@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-metagpt",
+  "version": "1.0.0",
+  "summary": "DomiNode toolkit for MetaGPT -- 22 proxy, wallet, and team management tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dominusnode_metagpt-1.0.0.tar.gz",
+  "download_time": "2026-03-01T23:48:13.569160",
+  "package_url": "https://pypi.org/project/dominusnode-metagpt/"
+}

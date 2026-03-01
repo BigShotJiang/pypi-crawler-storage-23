@@ -1,0 +1,11 @@
+{
+  "name": "knoteboard",
+  "version": "0.1.1",
+  "summary": "knoteboard – is a small command-line personal ticket management tool that provides a Kanban-style board",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knoteboard-0.1.1.tar.gz",
+  "download_time": "2026-03-01T23:48:01.815972",
+  "package_url": "https://pypi.org/project/knoteboard/"
+}

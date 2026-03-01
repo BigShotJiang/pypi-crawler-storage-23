@@ -1,0 +1,11 @@
+{
+  "name": "tox-toml-fmt",
+  "version": "1.8.0",
+  "summary": "Format your pyproject.toml file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox_toml_fmt-1.8.0.tar.gz",
+  "download_time": "2026-03-01T23:48:36.645133",
+  "package_url": "https://pypi.org/project/tox-toml-fmt/"
+}

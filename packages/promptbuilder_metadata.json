@@ -1,0 +1,11 @@
+{
+  "name": "promptbuilder",
+  "version": "0.4.45",
+  "summary": "Library for building prompts for LLMs",
+  "author": "Kapulkin Stanislav",
+  "license": null,
+  "home_page": "https://github.com/kapulkin/promptbuilder",
+  "download_filename": "promptbuilder-0.4.45.tar.gz",
+  "download_time": "2026-03-01T23:48:38.812912",
+  "package_url": "https://pypi.org/project/promptbuilder/"
+}

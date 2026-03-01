@@ -1,11 +1,11 @@
 {
   "name": "genvexnabto",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "A library to interface with Genvex Connect enabled ventilation units.",
   "author": "Superrob",
   "license": "GPLv3",
   "home_page": "https://github.com/superrob/genvexnabto",
-  "download_filename": "genvexnabto-1.5.0.tar.gz",
-  "download_time": "2026-02-27T13:48:02.234647",
+  "download_filename": "genvexnabto-1.5.1.tar.gz",
+  "download_time": "2026-03-01T23:48:32.425801",
   "package_url": "https://pypi.org/project/genvexnabto/"
 }

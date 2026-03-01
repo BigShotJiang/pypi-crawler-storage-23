@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-crewai",
+  "version": "1.0.0",
+  "summary": "CrewAI tools for DomiNode rotating proxy service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dominusnode_crewai-1.0.0.tar.gz",
+  "download_time": "2026-03-01T23:48:19.780823",
+  "package_url": "https://pypi.org/project/dominusnode-crewai/"
+}
