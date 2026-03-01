@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-database-cremona-ellcurve",
+  "version": "10.8.1",
+  "summary": "passagemath: Database of elliptic curves",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_database_cremona_ellcurve-10.8.1.tar.gz",
+  "download_time": "2026-03-01T18:59:43.421332",
+  "package_url": "https://pypi.org/project/passagemath-database-cremona-ellcurve/"
+}

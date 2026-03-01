@@ -1,0 +1,11 @@
+{
+  "name": "cstg-airflow-container-utils",
+  "version": "0.1.1",
+  "summary": "Conditional usage of DockerOperator/KubernetesPodOpetor",
+  "author": "Felix Yman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cstg_airflow_container_utils-0.1.1.tar.gz",
+  "download_time": "2026-03-01T18:59:18.500172",
+  "package_url": "https://pypi.org/project/cstg-airflow-container-utils/"
+}

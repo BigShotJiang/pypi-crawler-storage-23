@@ -1,11 +1,11 @@
 {
   "name": "jobless",
-  "version": "0.15.2",
+  "version": "0.16.0",
   "summary": "A simple job application manager for your terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jobless-0.15.2.tar.gz",
-  "download_time": "2026-02-19T10:04:27.769042",
+  "download_filename": "jobless-0.16.0.tar.gz",
+  "download_time": "2026-03-01T18:59:08.780711",
   "package_url": "https://pypi.org/project/jobless/"
 }

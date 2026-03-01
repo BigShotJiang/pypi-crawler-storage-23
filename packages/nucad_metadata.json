@@ -1,0 +1,11 @@
+{
+  "name": "nucad",
+  "version": "0.1.0a5",
+  "summary": "CAD tool focused on designing nuclear physics experimental instruments",
+  "author": "Takayuki Yano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nucad-0.1.0a5.tar.gz",
+  "download_time": "2026-03-01T18:59:11.478629",
+  "package_url": "https://pypi.org/project/nucad/"
+}

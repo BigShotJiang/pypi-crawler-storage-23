@@ -1,0 +1,11 @@
+{
+  "name": "tropha",
+  "version": "0.1.1",
+  "summary": "The official Python SDK for the Tropha M2M Economy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tropha-0.1.1.tar.gz",
+  "download_time": "2026-03-01T18:59:04.434737",
+  "package_url": "https://pypi.org/project/tropha/"
+}

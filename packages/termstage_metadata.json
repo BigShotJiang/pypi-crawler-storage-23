@@ -1,11 +1,11 @@
 {
   "name": "termstage",
-  "version": "0.4.3",
+  "version": "0.4.5",
   "summary": "Fake terminal demos. YAML in, SVG out. No recording.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termstage-0.4.3.tar.gz",
-  "download_time": "2026-03-01T18:26:57.960041",
+  "download_filename": "termstage-0.4.5.tar.gz",
+  "download_time": "2026-03-01T18:59:33.058695",
   "package_url": "https://pypi.org/project/termstage/"
 }

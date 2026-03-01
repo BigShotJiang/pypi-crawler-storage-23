@@ -1,0 +1,11 @@
+{
+  "name": "uf-language",
+  "version": "1.0.0",
+  "summary": "UF Language Engine with 4 modes (UF, iUF, nUF, dnUF)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uf_language-1.0.0.tar.gz",
+  "download_time": "2026-03-01T18:59:21.747258",
+  "package_url": "https://pypi.org/project/uf-language/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a2a-settlement-auth",
+  "version": "0.1.0",
+  "summary": "OAuth 2.0 settlement scopes for agent economic authorization — extends identity tokens with spending limits, counterparty policies, and delegation chains for the A2A Settlement Exchange.",
+  "author": "Richard Smith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a2a_settlement_auth-0.1.0.tar.gz",
+  "download_time": "2026-03-01T18:59:26.627580",
+  "package_url": "https://pypi.org/project/a2a-settlement-auth/"
+}

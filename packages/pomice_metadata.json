@@ -1,0 +1,11 @@
+{
+  "name": "pomice",
+  "version": "2.11.0",
+  "summary": "The modern Lavalink wrapper designed for Discord.py",
+  "author": "cloudwithax",
+  "license": "GPL",
+  "home_page": "https://github.com/cloudwithax/pomice",
+  "download_filename": "pomice-2.11.0.tar.gz",
+  "download_time": "2026-03-01T18:59:12.015287",
+  "package_url": "https://pypi.org/project/pomice/"
+}

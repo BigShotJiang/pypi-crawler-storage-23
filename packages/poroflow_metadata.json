@@ -1,0 +1,11 @@
+{
+  "name": "poroflow",
+  "version": "0.1.0",
+  "summary": "Physics-informed machine learning for flow in porous media",
+  "author": "Roman Manasipov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "poroflow-0.1.0.tar.gz",
+  "download_time": "2026-03-01T18:59:35.729719",
+  "package_url": "https://pypi.org/project/poroflow/"
+}

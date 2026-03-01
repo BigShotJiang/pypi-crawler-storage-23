@@ -1,0 +1,11 @@
+{
+  "name": "fhi-aims-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for FHI-aims",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/fhi_aims_step",
+  "download_filename": "fhi_aims_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T18:59:24.470301",
+  "package_url": "https://pypi.org/project/fhi-aims-step/"
+}
