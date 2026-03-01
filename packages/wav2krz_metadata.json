@@ -1,11 +1,11 @@
 {
   "name": "wav2krz",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Collect WAV files into Kurzweil .krz/.k25/.k26/.for format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wav2krz-0.7.3.tar.gz",
-  "download_time": "2026-02-28T16:47:55.991976",
+  "download_filename": "wav2krz-0.7.4.tar.gz",
+  "download_time": "2026-03-01T20:47:58.720126",
   "package_url": "https://pypi.org/project/wav2krz/"
 }

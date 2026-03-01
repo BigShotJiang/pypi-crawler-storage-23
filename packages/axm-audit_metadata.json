@@ -1,11 +1,11 @@
 {
   "name": "axm-audit",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Code auditing and quality rules for AXM",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "axm_audit-0.6.0.tar.gz",
-  "download_time": "2026-03-01T14:48:14.019495",
+  "download_filename": "axm_audit-0.6.1.tar.gz",
+  "download_time": "2026-03-01T20:47:51.416201",
   "package_url": "https://pypi.org/project/axm-audit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pollyweb-parallel",
+  "version": "1.0.0",
+  "summary": "Parallel processing helpers for PollyWeb.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pollyweb_parallel-1.0.0.tar.gz",
+  "download_time": "2026-03-01T20:48:14.240022",
+  "package_url": "https://pypi.org/project/pollyweb-parallel/"
+}

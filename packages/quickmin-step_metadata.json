@@ -1,0 +1,11 @@
+{
+  "name": "quickmin-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for simple, quick minimization",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/quickmin_step",
+  "download_filename": "quickmin_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T20:47:42.631145",
+  "package_url": "https://pypi.org/project/quickmin-step/"
+}

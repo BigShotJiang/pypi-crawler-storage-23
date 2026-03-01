@@ -1,11 +1,11 @@
 {
   "name": "phalanx-cli",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "summary": "Open-source, vendor-agnostic multi-agent orchestration CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phalanx_cli-0.1.1.tar.gz",
-  "download_time": "2026-03-01T11:46:14.702608",
+  "download_filename": "phalanx_cli-0.2.2.tar.gz",
+  "download_time": "2026-03-01T20:47:47.270278",
   "package_url": "https://pypi.org/project/phalanx-cli/"
 }

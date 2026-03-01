@@ -1,0 +1,11 @@
+{
+  "name": "cloakllm-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for CloakLLM — PII cloaking tools for Claude Desktop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloakllm_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-01T20:47:33.805215",
+  "package_url": "https://pypi.org/project/cloakllm-mcp/"
+}

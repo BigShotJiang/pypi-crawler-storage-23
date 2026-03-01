@@ -1,0 +1,11 @@
+{
+  "name": "claudeset",
+  "version": "0.1.1",
+  "summary": "Export your Claude Code conversations to HuggingFace as rich training datasets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claudeset-0.1.1.tar.gz",
+  "download_time": "2026-03-01T20:48:01.290407",
+  "package_url": "https://pypi.org/project/claudeset/"
+}

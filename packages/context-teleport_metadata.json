@@ -1,11 +1,11 @@
 {
   "name": "context-teleport",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Portable, git-backed context store for AI coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "context_teleport-0.5.2.tar.gz",
-  "download_time": "2026-02-27T21:53:27.027063",
+  "download_filename": "context_teleport-0.5.3.tar.gz",
+  "download_time": "2026-03-01T20:48:16.382420",
   "package_url": "https://pypi.org/project/context-teleport/"
 }

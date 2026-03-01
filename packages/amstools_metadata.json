@@ -1,0 +1,11 @@
+{
+  "name": "amstools",
+  "version": "0.4.1",
+  "summary": "Atomistic Modelling and Simulation tools for material properties by AMS department of ICAMS, Ruhr Univerisity Bochum",
+  "author": null,
+  "license": "Academic Software License (ASL)",
+  "home_page": null,
+  "download_filename": "amstools-0.4.1.tar.gz",
+  "download_time": "2026-03-01T20:47:45.728023",
+  "package_url": "https://pypi.org/project/amstools/"
+}

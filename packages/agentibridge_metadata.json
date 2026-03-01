@@ -1,11 +1,11 @@
 {
   "name": "agentibridge",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": "Claude CLI transcript indexer and MCP server",
   "author": "The Cloud Clock Work",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentibridge-0.2.12.tar.gz",
-  "download_time": "2026-02-28T11:14:36.795662",
+  "download_filename": "agentibridge-0.2.13.tar.gz",
+  "download_time": "2026-03-01T20:47:31.212540",
   "package_url": "https://pypi.org/project/agentibridge/"
 }

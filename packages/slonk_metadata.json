@@ -1,11 +1,11 @@
 {
   "name": "slonk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Experiment in typed pipelining of data between python, shell and various data sources and sinks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slonk-0.2.0.tar.gz",
-  "download_time": "2026-03-01T19:56:02.427488",
+  "download_filename": "slonk-0.3.0.tar.gz",
+  "download_time": "2026-03-01T20:48:05.413214",
   "package_url": "https://pypi.org/project/slonk/"
 }

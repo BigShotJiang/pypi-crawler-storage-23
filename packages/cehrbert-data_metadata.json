@@ -1,0 +1,11 @@
+{
+  "name": "cehrbert-data",
+  "version": "0.1.2",
+  "summary": "The Spark ETL tools for generating the CEHR-BERT and CEHR-GPT pre-training and finetuning data",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "cehrbert_data-0.1.2.tar.gz",
+  "download_time": "2026-03-01T20:48:06.997265",
+  "package_url": "https://pypi.org/project/cehrbert-data/"
+}

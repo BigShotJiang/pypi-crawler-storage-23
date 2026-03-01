@@ -1,0 +1,11 @@
+{
+  "name": "Concern",
+  "version": "36",
+  "summary": "Control pym2149 (via Lurlene) or FoxDot using Vim",
+  "author": "Andrzej Cichocki",
+  "license": null,
+  "home_page": "https://github.com/combatopera/Concern",
+  "download_filename": "concern-36.tar.gz",
+  "download_time": "2026-03-01T20:47:43.660289",
+  "package_url": "https://pypi.org/project/Concern/"
+}

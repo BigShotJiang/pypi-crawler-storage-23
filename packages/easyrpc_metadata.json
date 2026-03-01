@@ -1,0 +1,11 @@
+{
+  "name": "easyrpc",
+  "version": "0.246",
+  "summary": "An easy to use rpc framework for enabling fast inter-process, inter-host communication",
+  "author": "Joshua Jamison",
+  "license": null,
+  "home_page": "https://github.com/codemation/easyrpc",
+  "download_filename": "easyrpc-0.246-py3-none-any.whl",
+  "download_time": "2026-03-01T20:47:40.053417",
+  "package_url": "https://pypi.org/project/easyrpc/"
+}
