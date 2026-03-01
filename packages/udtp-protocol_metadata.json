@@ -1,0 +1,11 @@
+{
+  "name": "udtp-protocol",
+  "version": "3.6.2",
+  "summary": "Universal Data Transfer Protocol Stack, created on TAFTP. With new functions based on TCP, TAFTP.",
+  "author": "HioDev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "udtp_protocol-3.6.2.tar.gz",
+  "download_time": "2026-03-01T15:01:31.056373",
+  "package_url": "https://pypi.org/project/udtp-protocol/"
+}

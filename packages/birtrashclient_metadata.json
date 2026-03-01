@@ -1,11 +1,11 @@
 {
   "name": "birtrashclient",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Async client library for the BIR Trash Collection API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "birtrashclient-0.1.1.tar.gz",
-  "download_time": "2026-03-01T14:20:57.308989",
+  "download_filename": "birtrashclient-0.1.2.tar.gz",
+  "download_time": "2026-03-01T15:01:53.283264",
   "package_url": "https://pypi.org/project/birtrashclient/"
 }

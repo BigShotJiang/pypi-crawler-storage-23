@@ -1,11 +1,11 @@
 {
   "name": "colnade",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "A statically type-safe DataFrame abstraction layer",
   "author": "jwde",
   "license": null,
   "home_page": null,
-  "download_filename": "colnade-0.8.0.tar.gz",
-  "download_time": "2026-02-28T22:17:32.404818",
+  "download_filename": "colnade-0.8.1.tar.gz",
+  "download_time": "2026-03-01T15:01:43.290320",
   "package_url": "https://pypi.org/project/colnade/"
 }

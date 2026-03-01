@@ -1,11 +1,11 @@
 {
   "name": "ec2-tui",
-  "version": "2.0.0",
-  "summary": "Interactive TUI for managing AWS EC2 SSH connections",
+  "version": "2.2.0",
+  "summary": "DEPRECATED — this package has been renamed to 'servonaut'. Install servonaut instead: pipx install servonaut",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ec2_tui-2.0.0.tar.gz",
-  "download_time": "2026-03-01T01:20:40.007455",
+  "download_filename": "ec2_tui-2.2.0.tar.gz",
+  "download_time": "2026-03-01T15:01:39.828477",
   "package_url": "https://pypi.org/project/ec2-tui/"
 }

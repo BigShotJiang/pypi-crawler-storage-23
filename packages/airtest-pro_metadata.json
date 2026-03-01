@@ -1,0 +1,11 @@
+{
+  "name": "airtest-pro",
+  "version": "1.4.3",
+  "summary": "UI Test Automation Framework for Games and Apps on Android/iOS/Windows/Linux",
+  "author": "Netease Games",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/AirtestProject/Airtest",
+  "download_filename": "airtest_pro-1.4.3.tar.gz",
+  "download_time": "2026-03-01T15:01:52.165553",
+  "package_url": "https://pypi.org/project/airtest-pro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "remembra",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Universal memory layer for AI applications. Self-host in 5 minutes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remembra-0.4.1.tar.gz",
-  "download_time": "2026-03-01T14:20:19.207704",
+  "download_filename": "remembra-0.5.0.tar.gz",
+  "download_time": "2026-03-01T15:01:57.113142",
   "package_url": "https://pypi.org/project/remembra/"
 }

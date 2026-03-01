@@ -1,11 +1,11 @@
 {
   "name": "pypi-changes",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "check out when packages changed",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypi_changes-1.5.0.tar.gz",
-  "download_time": "2026-03-01T14:47:42.592959",
+  "download_filename": "pypi_changes-1.5.1.tar.gz",
+  "download_time": "2026-03-01T15:01:36.953287",
   "package_url": "https://pypi.org/project/pypi-changes/"
 }
