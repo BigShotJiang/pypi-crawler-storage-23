@@ -1,11 +1,11 @@
 {
   "name": "scpn-quantum-control",
-  "version": "0.5.1",
+  "version": "0.6.1",
   "summary": "Quantum-native reformulations of SCPN spiking, phase dynamics, and plasma control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scpn_quantum_control-0.5.1.tar.gz",
-  "download_time": "2026-02-28T23:56:53.057613",
+  "download_filename": "scpn_quantum_control-0.6.1.tar.gz",
+  "download_time": "2026-03-01T05:23:28.611178",
   "package_url": "https://pypi.org/project/scpn-quantum-control/"
 }

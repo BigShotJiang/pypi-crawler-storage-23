@@ -1,0 +1,11 @@
+{
+  "name": "edt",
+  "version": "3.1.1",
+  "summary": "Multi-Label Anisotropic Euclidean Distance Transform 3D",
+  "author": "William Silversmith",
+  "license": null,
+  "home_page": "https://github.com/seung-lab/euclidean-distance-transform-3d/",
+  "download_filename": "edt-3.1.1.tar.gz",
+  "download_time": "2026-03-01T05:23:33.046236",
+  "package_url": "https://pypi.org/project/edt/"
+}

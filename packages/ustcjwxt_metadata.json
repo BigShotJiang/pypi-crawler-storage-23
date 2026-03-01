@@ -1,0 +1,11 @@
+{
+  "name": "ustcjwxt",
+  "version": "0.2.1",
+  "summary": "ustc jwxt api, for study only",
+  "author": "brealid",
+  "license": null,
+  "home_page": "https://github.com/brealid/ustcjwxt-python-lib",
+  "download_filename": "ustcjwxt-0.2.1.tar.gz",
+  "download_time": "2026-03-01T05:23:59.857783",
+  "package_url": "https://pypi.org/project/ustcjwxt/"
+}

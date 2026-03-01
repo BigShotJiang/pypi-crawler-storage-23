@@ -1,0 +1,11 @@
+{
+  "name": "kvlr",
+  "version": "1.0.0",
+  "summary": "Zero-Trust Middleware for Agentic Coding",
+  "author": "Tanmay Dikey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kvlr-1.0.0.tar.gz",
+  "download_time": "2026-03-01T05:23:34.198959",
+  "package_url": "https://pypi.org/project/kvlr/"
+}

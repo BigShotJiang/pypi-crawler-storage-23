@@ -1,0 +1,11 @@
+{
+  "name": "pijector",
+  "version": "0.1.4",
+  "summary": "A drop-in security layer for LLM applications (WAF for AI)",
+  "author": "animeshs34",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pijector-0.1.4.tar.gz",
+  "download_time": "2026-03-01T05:23:44.466439",
+  "package_url": "https://pypi.org/project/pijector/"
+}

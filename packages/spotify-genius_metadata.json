@@ -1,0 +1,11 @@
+{
+  "name": "spotify-genius",
+  "version": "0.1.3",
+  "summary": "Open Genius lyrics for the currently playing Spotify track",
+  "author": "Andre Ferreira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_genius-0.1.3.tar.gz",
+  "download_time": "2026-03-01T05:23:56.001488",
+  "package_url": "https://pypi.org/project/spotify-genius/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hymns",
+  "version": "2026.2.0",
+  "summary": "Compile a single PDF containing all the hymns in the collection \"Hymns—For Home and Church\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hymns-2026.2.0.tar.gz",
+  "download_time": "2026-03-01T05:24:09.243267",
+  "package_url": "https://pypi.org/project/hymns/"
+}

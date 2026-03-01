@@ -1,11 +1,11 @@
 {
   "name": "pyntercept",
-  "version": "0.0.5",
+  "version": "0.0.20",
   "summary": "library & utility to intercept i/o from interactive CLI programs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyntercept-0.0.5.tar.gz",
-  "download_time": "2026-02-21T14:51:03.100531",
+  "download_filename": "pyntercept-0.0.20.tar.gz",
+  "download_time": "2026-03-01T05:24:08.702093",
   "package_url": "https://pypi.org/project/pyntercept/"
 }
