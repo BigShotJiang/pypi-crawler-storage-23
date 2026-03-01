@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-wrap",
+  "version": "0.1.0a5",
+  "summary": "A Package for wrapping Python classes into Scikit-Learn estimators",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sklearn_wrap-0.1.0a5.tar.gz",
+  "download_time": "2026-03-01T12:29:35.106283",
+  "package_url": "https://pypi.org/project/sklearn-wrap/"
+}

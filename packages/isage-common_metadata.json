@@ -1,11 +1,11 @@
 {
   "name": "isage-common",
-  "version": "0.2.4.20",
+  "version": "0.2.4.23",
   "summary": "SAGE 框架核心公共工具包",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_common-0.2.4.20-py2.py3-none-any.whl",
-  "download_time": "2026-02-28T08:21:04.596706",
+  "download_filename": "isage_common-0.2.4.23.tar.gz",
+  "download_time": "2026-03-01T12:29:47.468134",
   "package_url": "https://pypi.org/project/isage-common/"
 }

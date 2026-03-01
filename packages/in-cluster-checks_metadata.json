@@ -1,0 +1,11 @@
+{
+  "name": "in-cluster-checks",
+  "version": "0.1.0",
+  "summary": "Generic framework for running health validation rules on OpenShift cluster nodes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "in_cluster_checks-0.1.0.tar.gz",
+  "download_time": "2026-03-01T12:30:12.142133",
+  "package_url": "https://pypi.org/project/in-cluster-checks/"
+}

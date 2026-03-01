@@ -1,0 +1,11 @@
+{
+  "name": "chompack",
+  "version": "2.3.4",
+  "summary": "Library for chordal matrix computations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chompack-2.3.4.tar.gz",
+  "download_time": "2026-03-01T12:29:39.232462",
+  "package_url": "https://pypi.org/project/chompack/"
+}

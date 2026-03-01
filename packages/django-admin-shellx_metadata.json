@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-shellx",
+  "version": "0.4.0",
+  "summary": "A Django Admin Shell",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_shellx-0.4.0.tar.gz",
+  "download_time": "2026-03-01T12:29:34.082403",
+  "package_url": "https://pypi.org/project/django-admin-shellx/"
+}

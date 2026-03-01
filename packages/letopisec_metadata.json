@@ -1,0 +1,11 @@
+{
+  "name": "letopisec",
+  "version": "0.1.0",
+  "summary": "Log upload server for Zubax CANFace CF3D",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "letopisec-0.1.0.tar.gz",
+  "download_time": "2026-03-01T12:29:45.925386",
+  "package_url": "https://pypi.org/project/letopisec/"
+}

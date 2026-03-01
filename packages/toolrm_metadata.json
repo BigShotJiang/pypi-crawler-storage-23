@@ -1,0 +1,11 @@
+{
+  "name": "toolrm",
+  "version": "0.24.5.26",
+  "summary": "Command line interface to FreeDesktop.org Trash.",
+  "author": "Andrea Francia",
+  "license": "GPL v2",
+  "home_page": "https://github.com/andreafrancia/trash-cli",
+  "download_filename": "toolrm-0.24.5.26.tar.gz",
+  "download_time": "2026-03-01T12:29:40.780805",
+  "package_url": "https://pypi.org/project/toolrm/"
+}

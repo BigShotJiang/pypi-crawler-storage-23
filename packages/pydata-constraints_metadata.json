@@ -1,0 +1,11 @@
+{
+  "name": "pydata-constraints",
+  "version": "1.0.0",
+  "summary": "Validate your data streams easily. Rule-based, works with JSON and CSV.",
+  "author": "Francisco Pinto-Santos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydata_constraints-1.0.0.tar.gz",
+  "download_time": "2026-03-01T12:29:43.348858",
+  "package_url": "https://pypi.org/project/pydata-constraints/"
+}

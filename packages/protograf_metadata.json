@@ -1,0 +1,11 @@
+{
+  "name": "protograf",
+  "version": "0.4.5",
+  "summary": "Python utility for designing and creating simple, regular, graphic outputs as PDF/PNG files",
+  "author": "Derek Hohls",
+  "license": null,
+  "home_page": null,
+  "download_filename": "protograf-0.4.5.tar.gz",
+  "download_time": "2026-03-01T12:29:38.206008",
+  "package_url": "https://pypi.org/project/protograf/"
+}

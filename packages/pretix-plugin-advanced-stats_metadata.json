@@ -1,0 +1,11 @@
+{
+  "name": "pretix-plugin-advanced-stats",
+  "version": "1.1.1",
+  "summary": "Short description",
+  "author": "Ernesto Arbitrio",
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pretix_plugin_advanced_stats-1.1.1.tar.gz",
+  "download_time": "2026-03-01T12:29:35.618195",
+  "package_url": "https://pypi.org/project/pretix-plugin-advanced-stats/"
+}

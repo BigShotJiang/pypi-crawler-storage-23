@@ -1,0 +1,11 @@
+{
+  "name": "smartwright",
+  "version": "0.2.0",
+  "summary": "Adaptive web automation engine — intent-driven, type+index, replay, DOM serializer, network learning",
+  "author": "smartwright contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartwright-0.2.0.tar.gz",
+  "download_time": "2026-03-01T12:29:52.607240",
+  "package_url": "https://pypi.org/project/smartwright/"
+}

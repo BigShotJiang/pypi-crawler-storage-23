@@ -1,11 +1,11 @@
 {
   "name": "presage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Anticipatory memory for LLMs — predicts what context you'll need next and pre-stages it before you ask.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "presage-0.1.0.tar.gz",
-  "download_time": "2026-03-01T12:00:16.503231",
+  "download_filename": "presage-0.1.1.tar.gz",
+  "download_time": "2026-03-01T12:29:57.802474",
   "package_url": "https://pypi.org/project/presage/"
 }
