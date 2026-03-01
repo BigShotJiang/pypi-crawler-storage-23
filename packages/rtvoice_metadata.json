@@ -1,11 +1,11 @@
 {
   "name": "rtvoice",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Real-time voice assistant built on OpenAI's Realtime API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rtvoice-0.1.5.tar.gz",
-  "download_time": "2026-02-28T09:59:28.852485",
+  "download_filename": "rtvoice-0.1.6.tar.gz",
+  "download_time": "2026-03-01T08:02:02.547149",
   "package_url": "https://pypi.org/project/rtvoice/"
 }

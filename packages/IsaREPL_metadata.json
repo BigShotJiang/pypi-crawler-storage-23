@@ -1,0 +1,11 @@
+{
+  "name": "IsaREPL",
+  "version": "0.14.1",
+  "summary": "Isabelle REPL client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isarepl-0.14.1.tar.gz",
+  "download_time": "2026-03-01T08:02:01.254653",
+  "package_url": "https://pypi.org/project/IsaREPL/"
+}
