@@ -1,11 +1,11 @@
 {
   "name": "cerebral-sdk",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Python SDK for the Cerebral data versioning API",
   "author": "Treeverse Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "cerebral_sdk-0.4.1.tar.gz",
-  "download_time": "2026-02-28T22:42:55.343077",
+  "download_filename": "cerebral_sdk-0.5.0.tar.gz",
+  "download_time": "2026-03-01T23:01:29.881950",
   "package_url": "https://pypi.org/project/cerebral-sdk/"
 }

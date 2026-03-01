@@ -1,11 +1,11 @@
 {
   "name": "asap-protocol",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Async Simple Agent Protocol - A streamlined protocol for agent-to-agent communication",
   "author": "ASAP Protocol Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "asap_protocol-2.1.0.tar.gz",
-  "download_time": "2026-03-01T04:04:51.408704",
+  "download_filename": "asap_protocol-2.1.1.tar.gz",
+  "download_time": "2026-03-01T23:01:31.203417",
   "package_url": "https://pypi.org/project/asap-protocol/"
 }

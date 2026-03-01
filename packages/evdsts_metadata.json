@@ -1,11 +1,11 @@
 {
   "name": "evdsts",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python implementation for retrieving and transforming macroeconomic time series data from TCMB EVDS (CBRT EDDS) API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evdsts-0.1.2.tar.gz",
-  "download_time": "2026-03-01T21:23:44.207079",
+  "download_filename": "evdsts-0.1.3.tar.gz",
+  "download_time": "2026-03-01T23:01:39.737107",
   "package_url": "https://pypi.org/project/evdsts/"
 }

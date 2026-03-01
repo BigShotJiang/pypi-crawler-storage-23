@@ -1,11 +1,11 @@
 {
   "name": "jamma",
-  "version": "2.9.1",
+  "version": "2.9.3",
   "summary": "Fast Mixed Model Association for GWAS",
   "author": "JAMMA Contributors",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "jamma-2.9.1-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-01T13:17:35.693158",
+  "download_filename": "jamma-2.9.3-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-01T23:01:34.237533",
   "package_url": "https://pypi.org/project/jamma/"
 }

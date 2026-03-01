@@ -1,11 +1,11 @@
 {
   "name": "RampantTrackGeneration",
-  "version": "0.0.1.2.2",
+  "version": "0.0.1.2.3",
   "summary": "Rampant on the Tracks's Track generation logic, leveraging Voronout and optimized for a web service.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rampanttrackgeneration-0.0.1.2.2.tar.gz",
-  "download_time": "2026-03-01T21:48:23.476363",
+  "download_filename": "rampanttrackgeneration-0.0.1.2.3.tar.gz",
+  "download_time": "2026-03-01T23:01:32.959627",
   "package_url": "https://pypi.org/project/RampantTrackGeneration/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fetchly",
+  "version": "0.1.0",
+  "summary": "A lightweight Python HTTP library with retries, timeouts, and automatic headers",
+  "author": "Sudhamsh Kalaonda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchly-0.1.0.tar.gz",
+  "download_time": "2026-03-01T23:01:38.624206",
+  "package_url": "https://pypi.org/project/fetchly/"
+}
