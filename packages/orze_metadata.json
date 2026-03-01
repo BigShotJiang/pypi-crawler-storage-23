@@ -1,11 +1,11 @@
 {
   "name": "orze",
-  "version": "2.6.3",
-  "summary": "GPU experiment orchestrator using filesystem coordination",
+  "version": "2.6.6",
+  "summary": "orze.ai",
   "author": "orze contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "orze-2.6.3.tar.gz",
-  "download_time": "2026-02-28T23:16:43.897009",
+  "download_filename": "orze-2.6.6.tar.gz",
+  "download_time": "2026-03-01T01:20:17.806363",
   "package_url": "https://pypi.org/project/orze/"
 }

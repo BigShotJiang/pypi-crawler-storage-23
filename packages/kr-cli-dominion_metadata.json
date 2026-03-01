@@ -1,0 +1,11 @@
+{
+  "name": "kr-cli-dominion",
+  "version": "6.2.1",
+  "summary": "Advanced AI Security CLI — DOMINION Edition. Powered by Google Gemini. KR credit economy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kr_cli_dominion-6.2.1.tar.gz",
+  "download_time": "2026-03-01T01:20:32.795418",
+  "package_url": "https://pypi.org/project/kr-cli-dominion/"
+}

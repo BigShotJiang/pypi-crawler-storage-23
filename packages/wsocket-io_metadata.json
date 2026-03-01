@@ -1,0 +1,11 @@
+{
+  "name": "wsocket-io",
+  "version": "0.1.0",
+  "summary": "wSocket Realtime Pub/Sub SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsocket_io-0.1.0.tar.gz",
+  "download_time": "2026-03-01T01:20:53.000375",
+  "package_url": "https://pypi.org/project/wsocket-io/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wwdtm",
-  "version": "2.23.0",
+  "version": "2.23.1",
   "summary": "Library used to query data from copy of Wait Wait Stats Database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wwdtm-2.23.0.tar.gz",
-  "download_time": "2026-02-28T03:23:35.768112",
+  "download_filename": "wwdtm-2.23.1.tar.gz",
+  "download_time": "2026-03-01T01:20:26.595638",
   "package_url": "https://pypi.org/project/wwdtm/"
 }

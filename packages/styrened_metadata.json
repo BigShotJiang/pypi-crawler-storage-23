@@ -1,11 +1,11 @@
 {
   "name": "styrened",
-  "version": "0.10.20",
+  "version": "0.10.25",
   "summary": "Unified Styrene library and headless daemon for RNS/LXMF mesh networking",
   "author": "Vanderlyn Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "styrened-0.10.20.tar.gz",
-  "download_time": "2026-02-28T23:38:39.118192",
+  "download_filename": "styrened-0.10.25.tar.gz",
+  "download_time": "2026-03-01T01:20:37.933327",
   "package_url": "https://pypi.org/project/styrened/"
 }

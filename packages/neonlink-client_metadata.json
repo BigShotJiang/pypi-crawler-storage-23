@@ -1,11 +1,11 @@
 {
   "name": "neonlink-client",
-  "version": "1.5.20",
-  "summary": "Official Python client for NeonLink message broker",
+  "version": "0.0.1",
+  "summary": "NeonLink SDK — Kafka/Redpanda client + Protocol Buffer definitions for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neonlink_client-1.5.20.tar.gz",
-  "download_time": "2026-02-27T15:08:25.675248",
+  "download_filename": "neonlink_client-0.0.1.tar.gz",
+  "download_time": "2026-03-01T01:20:45.170010",
   "package_url": "https://pypi.org/project/neonlink-client/"
 }

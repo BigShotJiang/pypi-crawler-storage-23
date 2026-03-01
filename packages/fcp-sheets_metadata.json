@@ -1,0 +1,11 @@
+{
+  "name": "fcp-sheets",
+  "version": "0.1.1",
+  "summary": "Spreadsheet File Context Protocol — semantic spreadsheet operations for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcp_sheets-0.1.1.tar.gz",
+  "download_time": "2026-03-01T01:20:20.403156",
+  "package_url": "https://pypi.org/project/fcp-sheets/"
+}
