@@ -1,11 +1,11 @@
 {
   "name": "adrf-caching",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Async caching with MD5 and OpenAPI schema generation for ADRF (Asynchronous Django Rest Framework) and Django 5.0+",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adrf_caching-0.1.3.tar.gz",
-  "download_time": "2026-03-01T09:29:00.339371",
+  "download_filename": "adrf_caching-0.1.4.tar.gz",
+  "download_time": "2026-03-01T09:54:16.113584",
   "package_url": "https://pypi.org/project/adrf-caching/"
 }

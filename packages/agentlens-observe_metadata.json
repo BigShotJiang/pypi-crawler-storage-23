@@ -1,11 +1,11 @@
 {
   "name": "agentlens-observe",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "summary": "Debug AI agents visually — self-hosted, open-source observability SDK",
   "author": "AgentLens Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentlens_observe-0.2.0.tar.gz",
-  "download_time": "2026-02-28T07:05:34.602136",
+  "download_filename": "agentlens_observe-0.6.0.tar.gz",
+  "download_time": "2026-03-01T09:54:04.718436",
   "package_url": "https://pypi.org/project/agentlens-observe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flexexecutor",
+  "version": "0.0.12",
+  "summary": "Executors for both async and sync functions and automatically scales the number of workers",
+  "author": "leavers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexexecutor-0.0.12.tar.gz",
+  "download_time": "2026-03-01T09:54:14.206032",
+  "package_url": "https://pypi.org/project/flexexecutor/"
+}

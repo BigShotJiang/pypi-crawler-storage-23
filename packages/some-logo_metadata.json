@@ -1,0 +1,11 @@
+{
+  "name": "some-logo",
+  "version": "0.0.0",
+  "summary": "Generate some logo from text when I am too lazy to design a logo myself.",
+  "author": "cuinixam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "some_logo-0.0.0.tar.gz",
+  "download_time": "2026-03-01T09:53:52.558765",
+  "package_url": "https://pypi.org/project/some-logo/"
+}

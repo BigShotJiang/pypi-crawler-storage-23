@@ -1,11 +1,11 @@
 {
   "name": "yoink-yt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server that gives AI assistants YouTube download capabilities. Also ships with a terminal UI.",
   "author": "Jaysh Khan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yoink_yt-0.1.1.tar.gz",
-  "download_time": "2026-02-21T18:58:52.430504",
+  "download_filename": "yoink_yt-0.1.2.tar.gz",
+  "download_time": "2026-03-01T09:54:07.619562",
   "package_url": "https://pypi.org/project/yoink-yt/"
 }

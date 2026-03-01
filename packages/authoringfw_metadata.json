@@ -1,11 +1,11 @@
 {
   "name": "authoringfw",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Authoring Framework — domain schemas for AI-assisted creative writing applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "authoringfw-0.2.0.tar.gz",
-  "download_time": "2026-03-01T08:30:28.963622",
+  "download_filename": "authoringfw-0.3.0.tar.gz",
+  "download_time": "2026-03-01T09:54:06.976896",
   "package_url": "https://pypi.org/project/authoringfw/"
 }

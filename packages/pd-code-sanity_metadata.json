@@ -1,0 +1,11 @@
+{
+  "name": "pd-code-sanity",
+  "version": "0.0.1",
+  "summary": "check pd_code weak sanity.",
+  "author": "GGN_2015",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pd_code_sanity-0.0.1.tar.gz",
+  "download_time": "2026-03-01T09:54:14.842725",
+  "package_url": "https://pypi.org/project/pd-code-sanity/"
+}
