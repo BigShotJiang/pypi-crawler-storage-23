@@ -1,11 +1,11 @@
 {
   "name": "prozemi-rune",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "summary": "Python client for Programming Zemi API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prozemi_rune-0.9.3.tar.gz",
-  "download_time": "2026-02-28T11:34:51.681701",
+  "download_filename": "prozemi_rune-0.9.5.tar.gz",
+  "download_time": "2026-03-01T06:11:39.441191",
   "package_url": "https://pypi.org/project/prozemi-rune/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dusun",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "MCP server for systemic reasoning — 7-lens analytical framework, bileshke composite engine, kavaid constraints, inference chains, and Holographic Context Protocol. Plug into VS Code Copilot Chat.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dusun-1.1.0.tar.gz",
-  "download_time": "2026-03-01T05:23:37.515401",
+  "download_filename": "dusun-1.2.0.tar.gz",
+  "download_time": "2026-03-01T06:11:24.140275",
   "package_url": "https://pypi.org/project/dusun/"
 }

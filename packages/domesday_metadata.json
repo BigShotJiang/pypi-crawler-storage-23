@@ -1,0 +1,11 @@
+{
+  "name": "domesday",
+  "version": "0.1.6",
+  "summary": "A shared knowledge base that keeps AI tools informed of your team's project-specific information.",
+  "author": "bjhardcastle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "domesday-0.1.6.tar.gz",
+  "download_time": "2026-03-01T06:11:36.834473",
+  "package_url": "https://pypi.org/project/domesday/"
+}

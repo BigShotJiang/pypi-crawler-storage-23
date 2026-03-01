@@ -1,11 +1,11 @@
 {
   "name": "timesage-ts",
-  "version": "0.2.3",
+  "version": "0.2.7",
   "summary": "The Wise Time Series Library - Beautiful EDA, All Models, Plain-English Interpretation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timesage_ts-0.2.3.tar.gz",
-  "download_time": "2026-03-01T05:23:48.860232",
+  "download_filename": "timesage_ts-0.2.7.tar.gz",
+  "download_time": "2026-03-01T06:11:15.116740",
   "package_url": "https://pypi.org/project/timesage-ts/"
 }

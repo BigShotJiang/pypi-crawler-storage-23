@@ -1,0 +1,11 @@
+{
+  "name": "tradememory-protocol",
+  "version": "0.3.0",
+  "summary": "MCP memory system for AI trading agents. Store, recall, and learn from past trades.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradememory_protocol-0.3.0.tar.gz",
+  "download_time": "2026-03-01T06:11:17.200646",
+  "package_url": "https://pypi.org/project/tradememory-protocol/"
+}

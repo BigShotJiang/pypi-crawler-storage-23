@@ -1,0 +1,11 @@
+{
+  "name": "primp",
+  "version": "1.1.2",
+  "summary": "HTTP client that can impersonate web browsers",
+  "author": "deedy5",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "primp-1.1.2.tar.gz",
+  "download_time": "2026-03-01T06:11:34.736200",
+  "package_url": "https://pypi.org/project/primp/"
+}
