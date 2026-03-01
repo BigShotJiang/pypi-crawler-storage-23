@@ -1,11 +1,11 @@
 {
   "name": "supero",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Unified SDK for Supero platform - includes intuitive wrapper (supero) and low-level API client (py_api_lib)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "supero-1.0.6-py3-none-any.whl",
-  "download_time": "2026-03-01T08:57:45.577465",
+  "download_filename": "supero-1.0.7-py3-none-any.whl",
+  "download_time": "2026-03-01T20:19:40.920651",
   "package_url": "https://pypi.org/project/supero/"
 }

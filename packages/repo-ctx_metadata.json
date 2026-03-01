@@ -1,0 +1,11 @@
+{
+  "name": "repo-ctx",
+  "version": "0.8.0",
+  "summary": "Git repository documentation indexer with MCP server, CLI, and library interfaces",
+  "author": "Oliver Sick",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "repo_ctx-0.8.0.tar.gz",
+  "download_time": "2026-03-01T20:19:57.790684",
+  "package_url": "https://pypi.org/project/repo-ctx/"
+}

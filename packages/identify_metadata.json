@@ -1,0 +1,11 @@
+{
+  "name": "identify",
+  "version": "2.6.17",
+  "summary": "File identification library for Python",
+  "author": "Chris Kuehl",
+  "license": "MIT",
+  "home_page": "https://github.com/pre-commit/identify",
+  "download_filename": "identify-2.6.17.tar.gz",
+  "download_time": "2026-03-01T20:19:47.810891",
+  "package_url": "https://pypi.org/project/identify/"
+}

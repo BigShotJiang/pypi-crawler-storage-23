@@ -1,0 +1,11 @@
+{
+  "name": "toqito",
+  "version": "1.1.4",
+  "summary": "Python tools for the study of quantum information.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toqito-1.1.4.tar.gz",
+  "download_time": "2026-03-01T20:19:35.099068",
+  "package_url": "https://pypi.org/project/toqito/"
+}

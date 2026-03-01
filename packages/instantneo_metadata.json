@@ -1,0 +1,11 @@
+{
+  "name": "instantneo",
+  "version": "0.2.1",
+  "summary": "Framework para construir agentes con LLMs, con control granular y composición simple.",
+  "author": "Diego Ponce de León Franco",
+  "license": null,
+  "home_page": "https://github.com/instantneo/instantneo",
+  "download_filename": "instantneo-0.2.1.tar.gz",
+  "download_time": "2026-03-01T20:19:47.289135",
+  "package_url": "https://pypi.org/project/instantneo/"
+}

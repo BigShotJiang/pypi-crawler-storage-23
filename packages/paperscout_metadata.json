@@ -1,11 +1,11 @@
 {
   "name": "paperscout",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A multi-purpose tool for searching, downloading, and managing academic papers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paperscout-0.1.1.tar.gz",
-  "download_time": "2026-03-01T15:47:55.720586",
+  "download_filename": "paperscout-0.1.2.tar.gz",
+  "download_time": "2026-03-01T20:19:45.117311",
   "package_url": "https://pypi.org/project/paperscout/"
 }

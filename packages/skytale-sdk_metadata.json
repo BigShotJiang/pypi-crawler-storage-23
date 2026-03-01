@@ -1,11 +1,11 @@
 {
   "name": "skytale-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Encrypted channels for AI agents",
   "author": "Nicholas Raimbault",
   "license": "Apache-2.0",
   "home_page": "https://skytale.sh",
-  "download_filename": "skytale_sdk-0.2.0.tar.gz",
-  "download_time": "2026-03-01T19:40:37.357567",
+  "download_filename": "skytale_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-01T20:19:43.034335",
   "package_url": "https://pypi.org/project/skytale-sdk/"
 }

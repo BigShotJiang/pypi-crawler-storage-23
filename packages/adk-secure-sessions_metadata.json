@@ -1,0 +1,11 @@
+{
+  "name": "adk-secure-sessions",
+  "version": "1.0.0",
+  "summary": "Encrypted session storage for Google ADK — drop-in replacement for DatabaseSessionService with at-rest encryption",
+  "author": "Alberto-Codes",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adk_secure_sessions-1.0.0.tar.gz",
+  "download_time": "2026-03-01T20:19:54.639019",
+  "package_url": "https://pypi.org/project/adk-secure-sessions/"
+}

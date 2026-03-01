@@ -1,11 +1,11 @@
 {
   "name": "PeakPo",
-  "version": "7.9.4",
+  "version": "7.10.0",
   "summary": "X-ray diffraction analysis for high pressure science",
   "author": "S.-H. Dan Shim",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SHDShim/PeakPo",
-  "download_filename": "peakpo-7.9.4.tar.gz",
-  "download_time": "2026-02-26T19:27:27.294178",
+  "download_filename": "peakpo-7.10.0.tar.gz",
+  "download_time": "2026-03-01T20:19:37.770479",
   "package_url": "https://pypi.org/project/PeakPo/"
 }

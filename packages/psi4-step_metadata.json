@@ -1,0 +1,11 @@
+{
+  "name": "psi4-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in to setup, run and analyze quantum chemistry calculations using Psi4",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/psi4_step",
+  "download_filename": "psi4_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T20:19:35.620584",
+  "package_url": "https://pypi.org/project/psi4-step/"
+}

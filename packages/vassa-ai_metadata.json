@@ -1,0 +1,11 @@
+{
+  "name": "vassa-ai",
+  "version": "0.1.3",
+  "summary": "Python SDK for VassaAI multi-LLM consultation system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vassa_ai-0.1.3.tar.gz",
+  "download_time": "2026-03-01T20:19:28.225699",
+  "package_url": "https://pypi.org/project/vassa-ai/"
+}
