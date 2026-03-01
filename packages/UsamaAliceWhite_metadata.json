@@ -1,11 +1,11 @@
 {
   "name": "UsamaAliceWhite",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "A versatile utility library designed to streamline common development tasks.",
   "author": "UsamaAliceWhite",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "usamaalicewhite-2.0.0.tar.gz",
-  "download_time": "2026-02-27T18:31:34.907028",
+  "download_filename": "usamaalicewhite-3.0.0.tar.gz",
+  "download_time": "2026-03-01T17:43:05.374466",
   "package_url": "https://pypi.org/project/UsamaAliceWhite/"
 }

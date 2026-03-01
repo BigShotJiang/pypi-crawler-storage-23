@@ -1,11 +1,11 @@
 {
   "name": "fluxqueue",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A lightweight, resource-efficient, high-throughput task queue for Python, written in Rust.",
   "author": null,
   "license": null,
   "home_page": "https://fluxqueue.ccxlv.dev",
-  "download_filename": "fluxqueue-0.2.1.tar.gz",
-  "download_time": "2026-02-21T10:17:46.628874",
+  "download_filename": "fluxqueue-0.3.0.tar.gz",
+  "download_time": "2026-03-01T17:43:03.100838",
   "package_url": "https://pypi.org/project/fluxqueue/"
 }

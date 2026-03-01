@@ -1,0 +1,11 @@
+{
+  "name": "logs-asmr",
+  "version": "1.0.2",
+  "summary": "A live log streaming workspace with ambient audio cues",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logs_asmr-1.0.2.tar.gz",
+  "download_time": "2026-03-01T17:42:50.308144",
+  "package_url": "https://pypi.org/project/logs-asmr/"
+}

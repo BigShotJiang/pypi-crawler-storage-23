@@ -1,0 +1,11 @@
+{
+  "name": "beets-yt-dlp",
+  "version": "0.1.0",
+  "summary": "Download audio from youtube-dl soures and import into beets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_yt_dlp-0.1.0.tar.gz",
+  "download_time": "2026-03-01T17:43:15.792361",
+  "package_url": "https://pypi.org/project/beets-yt-dlp/"
+}

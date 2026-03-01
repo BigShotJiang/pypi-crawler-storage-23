@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-agno-provider",
-  "version": "0.88.0",
+  "version": "0.89.0",
   "summary": "Agno agent provider for Pragmatiks",
   "author": "Pragmatiks",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_agno_provider-0.88.0.tar.gz",
-  "download_time": "2026-02-25T19:47:35.829245",
+  "download_filename": "pragmatiks_agno_provider-0.89.0.tar.gz",
+  "download_time": "2026-03-01T17:42:43.225810",
   "package_url": "https://pypi.org/project/pragmatiks-agno-provider/"
 }
