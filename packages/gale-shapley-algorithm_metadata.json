@@ -1,11 +1,11 @@
 {
   "name": "gale-shapley-algorithm",
-  "version": "1.4.1",
+  "version": "1.5.2",
   "summary": "A Python implementation of the celebrated Gale-Shapley Algorithm.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gale_shapley_algorithm-1.4.1.tar.gz",
-  "download_time": "2026-02-20T14:11:54.551645",
+  "download_filename": "gale_shapley_algorithm-1.5.2.tar.gz",
+  "download_time": "2026-03-01T17:20:59.203746",
   "package_url": "https://pypi.org/project/gale-shapley-algorithm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "inducoapi",
+  "version": "2.1.12",
+  "summary": "A simple python program to generate OpenApi documentation by supplying request/response bodies.",
+  "author": "Matteo Pergolesi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/TheWall89/inducoapi",
+  "download_filename": "inducoapi-2.1.12.tar.gz",
+  "download_time": "2026-03-01T17:20:58.689473",
+  "package_url": "https://pypi.org/project/inducoapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wazuh-findings-exporter",
+  "version": "2.0",
+  "summary": "Simple script that exports Wazuh Vulnerabilities by Agent groups",
+  "author": "Quirin Hardy Zießler",
+  "license": "MIT",
+  "home_page": "https://github.com/quirinziessler/wazuh_findings_exporter",
+  "download_filename": "wazuh_findings_exporter-2.0.tar.gz",
+  "download_time": "2026-03-01T17:21:06.439017",
+  "package_url": "https://pypi.org/project/wazuh-findings-exporter/"
+}

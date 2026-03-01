@@ -1,11 +1,11 @@
 {
   "name": "OmniSTEval",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Evaluate simultaneous speech/text translation systems (shortform and longform) with quality (BLEU, chrF, COMET) and latency (YAAL) metrics. For longform, re-segments outputs to match reference segmentation.",
   "author": "Peter Polák",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "omnisteval-0.1.1.tar.gz",
-  "download_time": "2026-03-01T15:22:03.414931",
+  "download_filename": "omnisteval-0.1.2.tar.gz",
+  "download_time": "2026-03-01T17:20:47.310999",
   "package_url": "https://pypi.org/project/OmniSTEval/"
 }

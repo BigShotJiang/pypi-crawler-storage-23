@@ -1,11 +1,11 @@
 {
   "name": "dse-polars",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python library for working with digital scholarly editions in polars dataframes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dse_polars-0.3.0.tar.gz",
-  "download_time": "2026-02-28T11:34:30.190250",
+  "download_filename": "dse_polars-0.3.1.tar.gz",
+  "download_time": "2026-03-01T17:20:39.580369",
   "package_url": "https://pypi.org/project/dse-polars/"
 }

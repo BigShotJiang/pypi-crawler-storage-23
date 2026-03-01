@@ -1,0 +1,11 @@
+{
+  "name": "bipa-agent-pay",
+  "version": "0.0.1.dev0",
+  "summary": "Agent Pay - AI-native payment infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bipa_agent_pay-0.0.1.dev0.tar.gz",
+  "download_time": "2026-03-01T17:21:00.238310",
+  "package_url": "https://pypi.org/project/bipa-agent-pay/"
+}

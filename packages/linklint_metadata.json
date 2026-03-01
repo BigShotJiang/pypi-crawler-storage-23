@@ -1,0 +1,11 @@
+{
+  "name": "linklint",
+  "version": "0.3.1",
+  "summary": "A Sphinx extension to remove needless links",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linklint-0.3.1.tar.gz",
+  "download_time": "2026-03-01T17:21:02.337269",
+  "package_url": "https://pypi.org/project/linklint/"
+}

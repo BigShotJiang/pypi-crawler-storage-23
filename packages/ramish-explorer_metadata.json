@@ -1,11 +1,11 @@
 {
   "name": "ramish-explorer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Explore .ramish knowledge graph files — query, validate, predict, and audit geometric truth.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ramish_explorer-0.1.1.tar.gz",
-  "download_time": "2026-02-18T16:42:48.321823",
+  "download_filename": "ramish_explorer-0.1.2.tar.gz",
+  "download_time": "2026-03-01T17:20:58.176510",
   "package_url": "https://pypi.org/project/ramish-explorer/"
 }

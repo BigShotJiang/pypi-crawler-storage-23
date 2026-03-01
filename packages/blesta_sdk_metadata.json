@@ -1,11 +1,11 @@
 {
   "name": "blesta_sdk",
-  "version": "0.1.7",
-  "summary": "A SDK for integrating with Blesta",
+  "version": "0.2.0",
+  "summary": "Python SDK and CLI for the Blesta billing platform REST API",
   "author": "jwogrady",
   "license": null,
   "home_page": null,
-  "download_filename": "blesta_sdk-0.1.7.tar.gz",
-  "download_time": "2026-02-28T18:57:42.563595",
+  "download_filename": "blesta_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-01T17:20:57.663898",
   "package_url": "https://pypi.org/project/blesta_sdk/"
 }

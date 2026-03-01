@@ -1,11 +1,11 @@
 {
   "name": "file-brain",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "Smart local file search engine that understands your files",
   "author": "Hamza Abbad",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "file_brain-0.1.23.tar.gz",
-  "download_time": "2026-02-22T11:54:29.547531",
+  "download_filename": "file_brain-0.1.24.tar.gz",
+  "download_time": "2026-03-01T17:20:36.331384",
   "package_url": "https://pypi.org/project/file-brain/"
 }

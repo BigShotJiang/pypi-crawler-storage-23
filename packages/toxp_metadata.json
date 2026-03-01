@@ -1,0 +1,11 @@
+{
+  "name": "toxp",
+  "version": "0.6.1",
+  "summary": "TOXP CLI - Team Of eXPerts parallel reasoning with multiple LLM agents and AWS Bedrock",
+  "author": "Team of Experts Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toxp-0.6.1.tar.gz",
+  "download_time": "2026-03-01T17:21:16.752147",
+  "package_url": "https://pypi.org/project/toxp/"
+}
