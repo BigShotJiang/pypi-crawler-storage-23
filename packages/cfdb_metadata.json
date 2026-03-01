@@ -1,11 +1,11 @@
 {
   "name": "cfdb",
-  "version": "0.3.5",
+  "version": "0.4.3",
   "summary": "CF conventions multi-dimensional array storage on top of Booklet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cfdb-0.3.5.tar.gz",
-  "download_time": "2026-02-20T06:08:56.643484",
+  "download_filename": "cfdb-0.4.3.tar.gz",
+  "download_time": "2026-03-01T22:18:50.893650",
   "package_url": "https://pypi.org/project/cfdb/"
 }

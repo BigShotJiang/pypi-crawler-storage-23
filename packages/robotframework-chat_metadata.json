@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-chat",
+  "version": "1.0.0",
+  "summary": "Robot Framework-based test harness for systematically testing LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_chat-1.0.0.tar.gz",
+  "download_time": "2026-03-01T22:18:41.582904",
+  "package_url": "https://pypi.org/project/robotframework-chat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qrisp",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Qrisp - A high level language for gate-based quantum computing",
   "author": "The Qrisp team",
   "license": null,
   "home_page": "https://github.com/eclipse-qrisp/Qrisp",
-  "download_filename": "qrisp-0.8.1.tar.gz",
-  "download_time": "2026-02-23T10:12:46.797758",
+  "download_filename": "qrisp-0.8.2.tar.gz",
+  "download_time": "2026-03-01T22:18:34.352843",
   "package_url": "https://pypi.org/project/qrisp/"
 }

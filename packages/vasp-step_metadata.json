@@ -1,0 +1,11 @@
+{
+  "name": "vasp-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for VASP",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/vasp_step",
+  "download_filename": "vasp_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T22:18:43.658860",
+  "package_url": "https://pypi.org/project/vasp-step/"
+}

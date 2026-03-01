@@ -1,0 +1,11 @@
+{
+  "name": "bibleagent",
+  "version": "1.0.0",
+  "summary": "BibleMate AI - Automate Your Bible Study; A headless version of BibleMate AI Agent Mode",
+  "author": "Eliran Wong",
+  "license": "GNU General Public License (GPL)",
+  "home_page": "https://biblemate.ai",
+  "download_filename": "bibleagent-1.0.0.tar.gz",
+  "download_time": "2026-03-01T22:18:34.863241",
+  "package_url": "https://pypi.org/project/bibleagent/"
+}

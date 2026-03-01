@@ -1,0 +1,11 @@
+{
+  "name": "yarl",
+  "version": "1.23.0",
+  "summary": "Yet another URL library",
+  "author": "Andrew Svetlov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aio-libs/yarl",
+  "download_filename": "yarl-1.23.0.tar.gz",
+  "download_time": "2026-03-01T22:18:48.839108",
+  "package_url": "https://pypi.org/project/yarl/"
+}

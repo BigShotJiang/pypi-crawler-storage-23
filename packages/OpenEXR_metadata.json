@@ -1,11 +1,11 @@
 {
   "name": "OpenEXR",
-  "version": "3.4.5",
+  "version": "3.4.6",
   "summary": "Python bindings for the OpenEXR image file format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openexr-3.4.5-cp310-cp310-macosx_10_15_universal2.whl",
-  "download_time": "2026-02-21T21:55:26.376602",
+  "download_filename": "openexr-3.4.6-cp310-cp310-macosx_10_15_universal2.whl",
+  "download_time": "2026-03-01T22:18:42.119398",
   "package_url": "https://pypi.org/project/OpenEXR/"
 }

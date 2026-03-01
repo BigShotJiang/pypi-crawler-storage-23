@@ -1,0 +1,11 @@
+{
+  "name": "purpleair-api",
+  "version": "1.4.0",
+  "summary": null,
+  "author": "Carlos Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/carlkidcrypto/purpleair_api",
+  "download_filename": "purpleair_api-1.4.0.tar.gz",
+  "download_time": "2026-03-01T22:18:42.631337",
+  "package_url": "https://pypi.org/project/purpleair-api/"
+}

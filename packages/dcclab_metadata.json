@@ -1,0 +1,11 @@
+{
+  "name": "dcclab",
+  "version": "1.1.4",
+  "summary": "A Python library to read, transform, manipulate image and manage databases",
+  "author": "Daniel Côté, Gabriel Genest, Mathieu Fournier, Ludovick Bégin",
+  "license": "MIT",
+  "home_page": "https://github.com/DCC-Lab/PyDCCLab",
+  "download_filename": "dcclab-1.1.4.tar.gz",
+  "download_time": "2026-03-01T22:18:59.191728",
+  "package_url": "https://pypi.org/project/dcclab/"
+}
