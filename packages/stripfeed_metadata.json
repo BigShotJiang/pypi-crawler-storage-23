@@ -1,0 +1,11 @@
+{
+  "name": "stripfeed",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for StripFeed - convert any URL to clean Markdown",
+  "author": "StripFeed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stripfeed-1.0.0.tar.gz",
+  "download_time": "2026-03-01T19:20:23.888872",
+  "package_url": "https://pypi.org/project/stripfeed/"
+}

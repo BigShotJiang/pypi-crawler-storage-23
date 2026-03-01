@@ -1,0 +1,11 @@
+{
+  "name": "gaussian-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plugin for A SEAMM plug-in for Gaussian",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/gaussian_step",
+  "download_filename": "gaussian_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T19:20:31.868934",
+  "package_url": "https://pypi.org/project/gaussian-step/"
+}

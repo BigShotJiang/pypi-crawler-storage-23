@@ -1,11 +1,11 @@
 {
   "name": "sangfor-scp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Sangfor Cloud Platform (SCP) Open-API Python Client Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sangfor_scp-0.1.7.tar.gz",
-  "download_time": "2026-03-01T14:20:26.622853",
+  "download_filename": "sangfor_scp-0.1.8.tar.gz",
+  "download_time": "2026-03-01T19:20:13.865174",
   "package_url": "https://pypi.org/project/sangfor-scp/"
 }

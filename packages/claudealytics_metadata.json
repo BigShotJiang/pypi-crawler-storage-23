@@ -1,0 +1,11 @@
+{
+  "name": "claudealytics",
+  "version": "0.2.0",
+  "summary": "Analytics dashboard for Claude Code power users — mine your conversation history to understand usage patterns, track costs, and optimize your setup.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claudealytics-0.2.0.tar.gz",
+  "download_time": "2026-03-01T19:20:28.651705",
+  "package_url": "https://pypi.org/project/claudealytics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simpledownload",
+  "version": "1.0.0",
+  "summary": "CLI tool to generate simplified download links for public document platforms",
+  "author": "Tiago Rabelo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simpledownload-1.0.0.tar.gz",
+  "download_time": "2026-03-01T19:20:29.171263",
+  "package_url": "https://pypi.org/project/simpledownload/"
+}
