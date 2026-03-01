@@ -1,11 +1,11 @@
 {
   "name": "telegram-async",
-  "version": "3.2",
+  "version": "3.3",
   "summary": "Nowoczesna biblioteka asynchroniczna do Telegram Bot API",
   "author": "Denys",
   "license": null,
   "home_page": "https://github.com/Denba236/telegram-async",
-  "download_filename": "telegram_async-3.2.tar.gz",
-  "download_time": "2026-03-01T11:22:48.343075",
+  "download_filename": "telegram_async-3.3.tar.gz",
+  "download_time": "2026-03-01T11:46:28.400313",
   "package_url": "https://pypi.org/project/telegram-async/"
 }

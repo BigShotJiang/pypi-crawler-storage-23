@@ -1,0 +1,11 @@
+{
+  "name": "bnnr",
+  "version": "0.1.0",
+  "summary": "BNNR — Train → Explain → Improve → Prove",
+  "author": "Mateusz Walo, Diana Morzhak, Dominika Zydorczyk, Zuzanna Saczuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bnnr-0.1.0.tar.gz",
+  "download_time": "2026-03-01T11:46:06.495442",
+  "package_url": "https://pypi.org/project/bnnr/"
+}

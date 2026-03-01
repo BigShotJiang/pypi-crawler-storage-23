@@ -1,0 +1,11 @@
+{
+  "name": "tracertm",
+  "version": "0.2.0",
+  "summary": "Agent-native, multi-view requirements traceability and project management system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tracertm-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-01T11:45:57.228928",
+  "package_url": "https://pypi.org/project/tracertm/"
+}

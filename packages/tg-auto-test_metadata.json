@@ -1,11 +1,11 @@
 {
   "name": "tg-auto-test",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Serverless Telegram bot testing library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tg_auto_test-1.3.2.tar.gz",
-  "download_time": "2026-03-01T11:22:49.397228",
+  "download_filename": "tg_auto_test-1.3.3.tar.gz",
+  "download_time": "2026-03-01T11:46:29.485093",
   "package_url": "https://pypi.org/project/tg-auto-test/"
 }

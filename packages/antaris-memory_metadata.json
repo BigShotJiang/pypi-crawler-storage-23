@@ -1,11 +1,11 @@
 {
   "name": "antaris-memory",
-  "version": "4.5.5",
+  "version": "4.5.6",
   "summary": "File-based persistent memory for AI agents. Zero dependencies.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "antaris_memory-4.5.5.tar.gz",
-  "download_time": "2026-03-01T09:54:24.217047",
+  "download_filename": "antaris_memory-4.5.6.tar.gz",
+  "download_time": "2026-03-01T11:46:20.170609",
   "package_url": "https://pypi.org/project/antaris-memory/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-yarbo",
+  "version": "0.1.0",
+  "summary": "Python library for local and cloud control of Yarbo robot mowers via MQTT",
+  "author": "Markus Lassfolk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_yarbo-0.1.0.tar.gz",
+  "download_time": "2026-03-01T11:45:45.607915",
+  "package_url": "https://pypi.org/project/python-yarbo/"
+}

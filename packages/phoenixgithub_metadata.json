@@ -1,11 +1,11 @@
 {
   "name": "phoenixgithub",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Always-on AI agent that picks up GitHub issues, implements them, and creates PRs for human review.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phoenixgithub-0.1.3.tar.gz",
-  "download_time": "2026-03-01T11:02:36.001394",
+  "download_filename": "phoenixgithub-0.1.4.tar.gz",
+  "download_time": "2026-03-01T11:46:13.072251",
   "package_url": "https://pypi.org/project/phoenixgithub/"
 }

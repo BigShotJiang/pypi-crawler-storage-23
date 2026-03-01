@@ -1,11 +1,11 @@
 {
   "name": "vicompres",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Efficiently compress video files using ffmpeg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vicompres-0.1.0-py3-none-any.whl",
-  "download_time": "2026-02-19T09:04:44.963008",
+  "download_filename": "vicompres-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-01T11:46:09.277855",
   "package_url": "https://pypi.org/project/vicompres/"
 }

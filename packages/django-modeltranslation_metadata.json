@@ -1,0 +1,11 @@
+{
+  "name": "django-modeltranslation",
+  "version": "0.20.1",
+  "summary": "Translates Django models using a registration approach.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_modeltranslation-0.20.1.tar.gz",
+  "download_time": "2026-03-01T11:46:10.347511",
+  "package_url": "https://pypi.org/project/django-modeltranslation/"
+}

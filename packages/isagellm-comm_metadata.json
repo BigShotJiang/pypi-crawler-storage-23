@@ -1,11 +1,11 @@
 {
   "name": "isagellm-comm",
-  "version": "0.5.4.1",
+  "version": "0.5.4.4",
   "summary": "Communication Layer for sageLLM distributed inference",
   "author": null,
   "license": "Private",
   "home_page": null,
-  "download_filename": "isagellm_comm-0.5.4.1-py2.py3-none-any.whl",
-  "download_time": "2026-02-28T08:21:02.540379",
+  "download_filename": "isagellm_comm-0.5.4.4.tar.gz",
+  "download_time": "2026-03-01T11:45:59.948960",
   "package_url": "https://pypi.org/project/isagellm-comm/"
 }

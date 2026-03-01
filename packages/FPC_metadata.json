@@ -1,0 +1,11 @@
+{
+  "name": "FPC",
+  "version": "0.90",
+  "summary": "Frank's Personal Conllection",
+  "author": "Frank",
+  "license": "BSD License",
+  "home_page": "http://ff2.pw",
+  "download_filename": "fpc-0.90.tar.gz",
+  "download_time": "2026-03-01T11:46:13.615261",
+  "package_url": "https://pypi.org/project/FPC/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bigbrotr",
-  "version": "5.3.1",
+  "version": "5.5.0",
   "summary": "A modular Nostr data archiving and monitoring system",
   "author": "BigBrotr Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bigbrotr-5.3.1.tar.gz",
-  "download_time": "2026-02-26T17:46:45.192593",
+  "download_filename": "bigbrotr-5.5.0.tar.gz",
+  "download_time": "2026-03-01T11:46:27.856288",
   "package_url": "https://pypi.org/project/bigbrotr/"
 }

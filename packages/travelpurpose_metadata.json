@@ -1,0 +1,11 @@
+{
+  "name": "travelpurpose",
+  "version": "2.3.0",
+  "summary": "Production-Grade Explainable AI for city travel purpose classification: temporal/seasonal awareness, city fingerprints, confidence decomposition, synthetic data generation - 100% ethical multi-source harvesting, offline-first!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "travelpurpose-2.3.0.tar.gz",
+  "download_time": "2026-03-01T11:45:58.313311",
+  "package_url": "https://pypi.org/project/travelpurpose/"
+}

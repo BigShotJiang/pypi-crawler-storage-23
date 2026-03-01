@@ -1,0 +1,11 @@
+{
+  "name": "trendscout",
+  "version": "0.3.0",
+  "summary": "AI-Powered Market Trend Analysis & Sentiment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trendscout-0.3.0.tar.gz",
+  "download_time": "2026-03-01T11:45:46.725725",
+  "package_url": "https://pypi.org/project/trendscout/"
+}

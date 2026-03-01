@@ -1,11 +1,11 @@
 {
   "name": "sgraph-ai-app-send",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "SGraph-AI__App__Send",
   "author": "Dinis Cruz",
   "license": "Apache 2.0",
   "home_page": "https://github.com/the-cyber-boardroom/SGraph-AI__App__Send",
-  "download_filename": "sgraph_ai_app_send-0.6.0.tar.gz",
-  "download_time": "2026-02-23T01:12:00.146899",
+  "download_filename": "sgraph_ai_app_send-0.8.0.tar.gz",
+  "download_time": "2026-03-01T11:45:52.849021",
   "package_url": "https://pypi.org/project/sgraph-ai-app-send/"
 }

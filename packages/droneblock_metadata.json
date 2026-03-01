@@ -1,0 +1,11 @@
+{
+  "name": "droneblock",
+  "version": "1.0.0",
+  "summary": "A professional, event-driven drone control framework.",
+  "author": "Hemhalatha V R",
+  "license": null,
+  "home_page": "https://github.com/hemhalatha/droneblock",
+  "download_filename": "droneblock-1.0.0.tar.gz",
+  "download_time": "2026-03-01T11:46:08.158723",
+  "package_url": "https://pypi.org/project/droneblock/"
+}
