@@ -1,0 +1,11 @@
+{
+  "name": "aedev-aedev",
+  "version": "0.3.31",
+  "summary": "aedev namespace-root: aedev namespace root, providing setup, development and documentation tools/templates for Python projects.",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_aedev",
+  "download_filename": "aedev_aedev-0.3.31.tar.gz",
+  "download_time": "2026-03-01T15:48:17.512576",
+  "package_url": "https://pypi.org/project/aedev-aedev/"
+}

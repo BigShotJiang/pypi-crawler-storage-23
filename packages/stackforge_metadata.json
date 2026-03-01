@@ -1,0 +1,11 @@
+{
+  "name": "stackforge",
+  "version": "0.3.0",
+  "summary": "High-performance network packet manipulation with Rust and Python",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/LaBackDoor/stackforge",
+  "download_filename": "stackforge-0.3.0.tar.gz",
+  "download_time": "2026-03-01T15:48:15.296768",
+  "package_url": "https://pypi.org/project/stackforge/"
+}

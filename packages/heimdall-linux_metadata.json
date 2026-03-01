@@ -1,11 +1,11 @@
 {
   "name": "heimdall-linux",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Interactive curses-based port and process viewer (using witr)",
   "author": "Serkan Sunel",
   "license": "MIT",
   "home_page": "https://github.com/sunels/heimdall",
-  "download_filename": "heimdall_linux-1.0.8.tar.gz",
-  "download_time": "2026-03-01T08:57:35.293304",
+  "download_filename": "heimdall_linux-1.0.9.tar.gz",
+  "download_time": "2026-03-01T15:47:47.845434",
   "package_url": "https://pypi.org/project/heimdall-linux/"
 }

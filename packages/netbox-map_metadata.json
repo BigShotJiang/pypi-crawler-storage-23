@@ -1,11 +1,11 @@
 {
   "name": "netbox-map",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Interactive floor plan visualization for NetBox sites",
   "author": "Christian Rose",
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_map-0.7.2.tar.gz",
-  "download_time": "2026-03-01T15:01:38.676624",
+  "download_filename": "netbox_map-0.7.3.tar.gz",
+  "download_time": "2026-03-01T15:48:07.610770",
   "package_url": "https://pypi.org/project/netbox-map/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vc-replan-mcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Architecture Review MCP Server — 7-dimension audit with KB",
   "author": "VCnoC",
   "license": null,
   "home_page": null,
-  "download_filename": "vc_replan_mcp-0.1.7.tar.gz",
-  "download_time": "2026-03-01T14:20:51.672012",
+  "download_filename": "vc_replan_mcp-0.1.8.tar.gz",
+  "download_time": "2026-03-01T15:47:58.908407",
   "package_url": "https://pypi.org/project/vc-replan-mcp/"
 }

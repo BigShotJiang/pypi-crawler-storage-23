@@ -1,11 +1,11 @@
 {
   "name": "whisper-dic",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "Voice-to-text dictation tool with hotkey activation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "whisper_dic-0.7.1.tar.gz",
-  "download_time": "2026-03-01T15:01:33.446388",
+  "download_filename": "whisper_dic-0.8.0.tar.gz",
+  "download_time": "2026-03-01T15:48:13.518451",
   "package_url": "https://pypi.org/project/whisper-dic/"
 }

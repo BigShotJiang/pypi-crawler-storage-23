@@ -1,11 +1,11 @@
 {
   "name": "py-alaska",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "ALASKA - Multiprocess Task Management Framework for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_alaska-0.1.25.tar.gz",
-  "download_time": "2026-03-01T11:45:47.307485",
+  "download_filename": "py_alaska-0.1.26.tar.gz",
+  "download_time": "2026-03-01T15:48:21.493943",
   "package_url": "https://pypi.org/project/py-alaska/"
 }

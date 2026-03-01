@@ -1,11 +1,11 @@
 {
   "name": "pyfreshr",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Async Python client for the Fresh-R / bw-log.com API.",
-  "author": null,
-  "license": null,
+  "author": "Leon Grave",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfreshr-0.9.0.tar.gz",
-  "download_time": "2026-02-28T12:27:47.835781",
+  "download_filename": "pyfreshr-0.10.0.tar.gz",
+  "download_time": "2026-03-01T15:48:28.701065",
   "package_url": "https://pypi.org/project/pyfreshr/"
 }

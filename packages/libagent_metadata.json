@@ -1,11 +1,11 @@
 {
   "name": "libagent",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "Using hardware wallets as SSH/GPG/age agent",
   "author": "Roman Zeyde",
   "license": null,
   "home_page": "http://github.com/romanz/trezor-agent",
-  "download_filename": "libagent-0.16.0.tar.gz",
-  "download_time": "2026-02-21T08:54:14.296709",
+  "download_filename": "libagent-0.16.1.tar.gz",
+  "download_time": "2026-03-01T15:48:07.065383",
   "package_url": "https://pypi.org/project/libagent/"
 }

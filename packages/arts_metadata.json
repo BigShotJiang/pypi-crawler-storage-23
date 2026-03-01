@@ -1,0 +1,11 @@
+{
+  "name": "arts",
+  "version": "2026.3.1",
+  "summary": "一个基于正则表达式的文件/文件夹路径查找工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arts-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T15:47:56.246437",
+  "package_url": "https://pypi.org/project/arts/"
+}

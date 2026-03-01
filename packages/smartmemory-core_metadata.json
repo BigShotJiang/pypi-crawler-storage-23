@@ -1,0 +1,11 @@
+{
+  "name": "smartmemory-core",
+  "version": "0.5.0",
+  "summary": "Multi-layered AI memory system with graph databases, vector stores, and intelligent processing pipelines",
+  "author": "SmartMemory Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartmemory_core-0.5.0.tar.gz",
+  "download_time": "2026-03-01T15:47:59.438007",
+  "package_url": "https://pypi.org/project/smartmemory-core/"
+}
