@@ -1,11 +1,11 @@
 {
   "name": "captain-claw",
-  "version": "0.2.6.3",
+  "version": "0.2.6.3.1",
   "summary": "A powerful console-based AI agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "captain_claw-0.2.6.3.tar.gz",
-  "download_time": "2026-02-28T22:58:46.646170",
+  "download_filename": "captain_claw-0.2.6.3.1.tar.gz",
+  "download_time": "2026-03-01T07:50:54.032899",
   "package_url": "https://pypi.org/project/captain-claw/"
 }

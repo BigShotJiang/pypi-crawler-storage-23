@@ -1,11 +1,11 @@
 {
   "name": "bicep-whatif-advisor",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "summary": "AI-powered Azure Bicep What-If deployment advisor with automated safety reviews",
   "author": "Azure Tools Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bicep_whatif_advisor-3.5.2.tar.gz",
-  "download_time": "2026-03-01T07:14:03.181782",
+  "download_filename": "bicep_whatif_advisor-3.5.3.tar.gz",
+  "download_time": "2026-03-01T07:50:25.804721",
   "package_url": "https://pypi.org/project/bicep-whatif-advisor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "feishu-bot-sdk",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Reusable SDK for Feishu bot messaging, Bitable, Docx, and Drive permissions.",
   "author": "Anderson",
   "license": null,
   "home_page": null,
-  "download_filename": "feishu_bot_sdk-0.3.0.tar.gz",
-  "download_time": "2026-03-01T07:14:10.553288",
+  "download_filename": "feishu_bot_sdk-0.4.0.tar.gz",
+  "download_time": "2026-03-01T07:50:43.275793",
   "package_url": "https://pypi.org/project/feishu-bot-sdk/"
 }

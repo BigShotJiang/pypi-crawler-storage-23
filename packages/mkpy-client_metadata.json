@@ -1,11 +1,11 @@
 {
   "name": "mkpy-client",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Minimalistic Python library for generating and serving documentation from Markdown files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkpy_client-1.4.2.tar.gz",
-  "download_time": "2026-02-28T05:57:03.128292",
+  "download_filename": "mkpy_client-1.4.3.tar.gz",
+  "download_time": "2026-03-01T07:50:46.841852",
   "package_url": "https://pypi.org/project/mkpy-client/"
 }

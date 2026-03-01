@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-pypowerpoint",
+  "version": "0.6.11",
+  "summary": "Convert PPTX to text using python-pptx",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyconverters_pypowerpoint-0.6.11-py3-none-any.whl",
+  "download_time": "2026-03-01T07:50:41.742985",
+  "package_url": "https://pypi.org/project/pyconverters-pypowerpoint/"
+}

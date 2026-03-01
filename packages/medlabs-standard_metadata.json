@@ -1,0 +1,11 @@
+{
+  "name": "medlabs-standard",
+  "version": "0.1.1",
+  "summary": "Open JSON standard and Python SDK for deterministic lab report normalization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "medlabs_standard-0.1.1.tar.gz",
+  "download_time": "2026-03-01T07:50:47.862555",
+  "package_url": "https://pypi.org/project/medlabs-standard/"
+}
