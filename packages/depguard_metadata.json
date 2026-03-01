@@ -1,0 +1,11 @@
+{
+  "name": "depguard",
+  "version": "0.1.0",
+  "summary": "AI-powered Python dependency vulnerability scanner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "depguard-0.1.0.tar.gz",
+  "download_time": "2026-03-01T07:14:11.574625",
+  "package_url": "https://pypi.org/project/depguard/"
+}

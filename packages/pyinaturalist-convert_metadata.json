@@ -1,11 +1,11 @@
 {
   "name": "pyinaturalist-convert",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Data conversion tools for iNaturalist observations and taxonomy",
   "author": "Jordan Cook",
   "license": null,
   "home_page": null,
-  "download_filename": "pyinaturalist_convert-0.8.2.tar.gz",
-  "download_time": "2026-02-28T19:18:05.644985",
+  "download_filename": "pyinaturalist_convert-0.8.3.tar.gz",
+  "download_time": "2026-03-01T07:13:42.907290",
   "package_url": "https://pypi.org/project/pyinaturalist-convert/"
 }

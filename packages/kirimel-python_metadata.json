@@ -1,11 +1,11 @@
 {
   "name": "kirimel-python",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Official KiriMel Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kirimel_python-0.1.1.tar.gz",
-  "download_time": "2026-03-01T06:11:06.304691",
+  "download_filename": "kirimel_python-0.1.3.tar.gz",
+  "download_time": "2026-03-01T07:14:02.646041",
   "package_url": "https://pypi.org/project/kirimel-python/"
 }

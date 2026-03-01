@@ -1,0 +1,11 @@
+{
+  "name": "vsdview",
+  "version": "0.5.0",
+  "summary": "A read-only viewer for Microsoft Visio files (.vsdx/.vsd)",
+  "author": "Daniel Nylander",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vsdview-0.5.0.tar.gz",
+  "download_time": "2026-03-01T07:14:08.486763",
+  "package_url": "https://pypi.org/project/vsdview/"
+}

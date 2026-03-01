@@ -1,0 +1,11 @@
+{
+  "name": "skillgate",
+  "version": "1.2.0",
+  "summary": "CLI-first CI/CD policy enforcement tool that scans agent skills for security risks",
+  "author": "SkillGate Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "skillgate-1.2.0.tar.gz",
+  "download_time": "2026-03-01T07:14:12.139025",
+  "package_url": "https://pypi.org/project/skillgate/"
+}

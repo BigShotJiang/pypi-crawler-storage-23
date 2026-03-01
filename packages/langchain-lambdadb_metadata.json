@@ -1,0 +1,11 @@
+{
+  "name": "langchain-lambdadb",
+  "version": "0.1.1",
+  "summary": "An integration package connecting LambdaDB and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/lambdadb/langchain-lambdadb",
+  "download_filename": "langchain_lambdadb-0.1.1.tar.gz",
+  "download_time": "2026-03-01T07:13:42.391304",
+  "package_url": "https://pypi.org/project/langchain-lambdadb/"
+}

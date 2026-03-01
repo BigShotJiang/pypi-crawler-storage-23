@@ -1,0 +1,11 @@
+{
+  "name": "onit-office",
+  "version": "0.1.0",
+  "summary": "Standalone MCP server for Microsoft Office document creation (PowerPoint, Excel, Word)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onit_office-0.1.0.tar.gz",
+  "download_time": "2026-03-01T07:14:13.689529",
+  "package_url": "https://pypi.org/project/onit-office/"
+}

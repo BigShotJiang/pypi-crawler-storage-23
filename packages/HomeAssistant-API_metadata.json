@@ -1,0 +1,11 @@
+{
+  "name": "HomeAssistant-API",
+  "version": "5.0.3",
+  "summary": "Python Wrapper for Homeassistant's REST API",
+  "author": "GrandMoff100",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "homeassistant_api-5.0.3.tar.gz",
+  "download_time": "2026-03-01T07:14:01.114285",
+  "package_url": "https://pypi.org/project/HomeAssistant-API/"
+}

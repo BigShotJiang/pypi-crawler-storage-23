@@ -1,0 +1,11 @@
+{
+  "name": "snapfold",
+  "version": "0.1.0",
+  "summary": "Snapshot your project folder into a single structured text file.",
+  "author": "Nandakrishnan O",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snapfold-0.1.0.tar.gz",
+  "download_time": "2026-03-01T07:14:15.225580",
+  "package_url": "https://pypi.org/project/snapfold/"
+}

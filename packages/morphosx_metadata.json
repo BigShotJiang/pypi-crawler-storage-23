@@ -1,0 +1,11 @@
+{
+  "name": "morphosx",
+  "version": "0.5.1",
+  "summary": "high-performance media processing engine for on-the-fly image transformations and storage.",
+  "author": "Davide Di Criscito",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morphosx-0.5.1.tar.gz",
+  "download_time": "2026-03-01T07:13:46.001886",
+  "package_url": "https://pypi.org/project/morphosx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcpsec",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "Security scanner and protocol fuzzer for MCP (Model Context Protocol) servers. Found and reported vulnerabilities in official Anthropic and GitHub MCP implementations.",
   "author": "Manthan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpsec-2.3.0.tar.gz",
-  "download_time": "2026-03-01T04:04:54.496033",
+  "download_filename": "mcpsec-2.4.0.tar.gz",
+  "download_time": "2026-03-01T07:14:00.089669",
   "package_url": "https://pypi.org/project/mcpsec/"
 }
