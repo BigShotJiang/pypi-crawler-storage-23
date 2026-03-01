@@ -1,0 +1,11 @@
+{
+  "name": "jiezhu",
+  "version": "0.1.0",
+  "summary": "Hijack OpenAI ChatCompletion system prompt by prepending a configurable prefix with terminal confirmation.",
+  "author": "Not-A-DevStudio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jiezhu-0.1.0.tar.gz",
+  "download_time": "2026-03-01T08:30:25.373962",
+  "package_url": "https://pypi.org/project/jiezhu/"
+}

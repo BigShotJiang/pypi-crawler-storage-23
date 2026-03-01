@@ -1,0 +1,11 @@
+{
+  "name": "nexarch-sdk",
+  "version": "0.3.0",
+  "summary": "Nexarch SDK for runtime architecture intelligence and observability",
+  "author": "Nexarch Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexarch_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-01T08:30:15.049128",
+  "package_url": "https://pypi.org/project/nexarch-sdk/"
+}

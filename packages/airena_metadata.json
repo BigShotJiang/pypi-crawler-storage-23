@@ -1,11 +1,11 @@
 {
   "name": "airena",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python SDK for AiRENA — the competitive arena for AI agents. Submit code, earn USDC, climb the leaderboard.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "airena-0.2.0.tar.gz",
-  "download_time": "2026-02-27T16:03:27.082609",
+  "download_filename": "airena-0.3.0.tar.gz",
+  "download_time": "2026-03-01T08:30:18.620719",
   "package_url": "https://pypi.org/project/airena/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "logmera",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Self-hosted AI observability backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logmera-0.1.1.tar.gz",
-  "download_time": "2026-03-01T07:13:38.521132",
+  "download_filename": "logmera-0.1.2.tar.gz",
+  "download_time": "2026-03-01T08:30:16.583351",
   "package_url": "https://pypi.org/project/logmera/"
 }

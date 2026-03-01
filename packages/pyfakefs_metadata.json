@@ -1,0 +1,11 @@
+{
+  "name": "pyfakefs",
+  "version": "6.1.3",
+  "summary": "Implements a fake file system that mocks the Python file system modules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfakefs-6.1.3.tar.gz",
+  "download_time": "2026-03-01T08:30:50.076483",
+  "package_url": "https://pypi.org/project/pyfakefs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kbx",
-  "version": "0.1.1",
+  "version": "0.1.9",
   "summary": "Local knowledge base CLI — hybrid search over markdown files with AI embeddings",
   "author": "Jeremy Brown",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kbx-0.1.1.tar.gz",
-  "download_time": "2026-02-23T11:07:56.407246",
+  "download_filename": "kbx-0.1.9.tar.gz",
+  "download_time": "2026-03-01T08:30:20.674961",
   "package_url": "https://pypi.org/project/kbx/"
 }

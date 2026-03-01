@@ -1,11 +1,11 @@
 {
   "name": "cloudwright-ai-web",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Web UI for Cloudwright architecture intelligence",
   "author": "Xavier Puspus",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudwright_ai_web-0.2.10.tar.gz",
-  "download_time": "2026-03-01T07:50:45.824965",
+  "download_filename": "cloudwright_ai_web-0.2.12.tar.gz",
+  "download_time": "2026-03-01T08:30:11.426408",
   "package_url": "https://pypi.org/project/cloudwright-ai-web/"
 }

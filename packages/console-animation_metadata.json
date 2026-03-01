@@ -1,11 +1,11 @@
 {
   "name": "console-animation",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "An easy to use decorator to show a console spinner during function execution.",
   "author": "Koushik",
   "license": null,
   "home_page": "https://github.com/KoushikEng/console-animation",
-  "download_filename": "console_animation-0.2.6.tar.gz",
-  "download_time": "2026-02-28T17:57:28.771389",
+  "download_filename": "console_animation-0.2.7.tar.gz",
+  "download_time": "2026-03-01T08:30:39.263475",
   "package_url": "https://pypi.org/project/console-animation/"
 }

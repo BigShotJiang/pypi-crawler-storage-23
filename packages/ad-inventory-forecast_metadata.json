@@ -1,11 +1,11 @@
 {
   "name": "ad-inventory-forecast",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Production-grade Python library for ad inventory (impressions) forecasting",
   "author": "Ad Inventory Forecast Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ad_inventory_forecast-0.1.0.tar.gz",
-  "download_time": "2026-02-27T18:31:39.299347",
+  "download_filename": "ad_inventory_forecast-0.2.0.tar.gz",
+  "download_time": "2026-03-01T08:30:43.905957",
   "package_url": "https://pypi.org/project/ad-inventory-forecast/"
 }
