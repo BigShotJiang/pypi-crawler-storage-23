@@ -1,0 +1,11 @@
+{
+  "name": "fluentlog",
+  "version": "0.1.0",
+  "summary": "Opinionated structured logging library for Python with a fluent interface",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fluentlog-0.1.0.tar.gz",
+  "download_time": "2026-03-01T13:54:38.025828",
+  "package_url": "https://pypi.org/project/fluentlog/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "react-ubiquitous-py",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Python package for @nssivanitesh/react-ubiquitous — typed config models and fluent builders",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "react_ubiquitous_py-1.2.0.tar.gz",
-  "download_time": "2026-03-01T05:23:53.282313",
+  "download_filename": "react_ubiquitous_py-1.3.0.tar.gz",
+  "download_time": "2026-03-01T13:54:47.831590",
   "package_url": "https://pypi.org/project/react-ubiquitous-py/"
 }

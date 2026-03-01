@@ -1,11 +1,11 @@
 {
   "name": "ppclaw-cli",
-  "version": "0.4.6",
+  "version": "0.5.1",
   "summary": "One-click launch of OpenClaw sandbox environment powered by PPIO Agent Sandbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ppclaw_cli-0.4.6.tar.gz",
-  "download_time": "2026-03-01T12:00:27.373732",
+  "download_filename": "ppclaw_cli-0.5.1.tar.gz",
+  "download_time": "2026-03-01T13:55:06.964705",
   "package_url": "https://pypi.org/project/ppclaw-cli/"
 }

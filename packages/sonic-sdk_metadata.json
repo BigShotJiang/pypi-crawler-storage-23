@@ -1,11 +1,11 @@
 {
   "name": "sonic-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python SDK for the Sonic settlement engine — typed client for multi-currency payments with cryptographic receipts.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sonic_sdk-0.2.0.tar.gz",
-  "download_time": "2026-03-01T04:04:36.204745",
+  "download_filename": "sonic_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-01T13:55:04.345257",
   "package_url": "https://pypi.org/project/sonic-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "yohou",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "A time series forecasting package based on Scikit-Learn and Polars",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "yohou-0.1.0a2.tar.gz",
-  "download_time": "2026-02-23T12:49:29.548296",
+  "download_filename": "yohou-0.1.0a3.tar.gz",
+  "download_time": "2026-03-01T13:54:39.369950",
   "package_url": "https://pypi.org/project/yohou/"
 }
