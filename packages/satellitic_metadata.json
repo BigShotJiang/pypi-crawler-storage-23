@@ -1,11 +1,11 @@
 {
   "name": "satellitic",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A collection of satellite methods and approaches to satellite simulations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "satellitic-0.1.17.tar.gz",
-  "download_time": "2026-02-27T11:22:38.016581",
+  "download_filename": "satellitic-0.1.18.tar.gz",
+  "download_time": "2026-03-01T12:00:33.018658",
   "package_url": "https://pypi.org/project/satellitic/"
 }

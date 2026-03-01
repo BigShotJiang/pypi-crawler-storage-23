@@ -1,0 +1,11 @@
+{
+  "name": "opa-eval",
+  "version": "0.1.0",
+  "summary": "OPA policy evaluator using regorus",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opa_eval-0.1.0-cp313-cp313t-win_amd64.whl",
+  "download_time": "2026-03-01T12:00:11.231392",
+  "package_url": "https://pypi.org/project/opa-eval/"
+}

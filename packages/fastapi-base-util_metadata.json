@@ -1,11 +1,11 @@
 {
   "name": "fastapi-base-util",
-  "version": "1.0",
+  "version": "1.0.2",
   "summary": "FastAPI base modules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_base_util-1.0-py3-none-any.whl",
-  "download_time": "2026-03-01T11:45:55.021161",
+  "download_filename": "fastapi_base_util-1.0.2.tar.gz",
+  "download_time": "2026-03-01T12:00:28.931955",
   "package_url": "https://pypi.org/project/fastapi-base-util/"
 }

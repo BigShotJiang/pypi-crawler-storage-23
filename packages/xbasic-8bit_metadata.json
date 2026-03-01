@@ -1,0 +1,11 @@
+{
+  "name": "xbasic-8bit",
+  "version": "2.0.0",
+  "summary": "XBasic — a compiled BASIC language targeting a custom 8-bit CPU.",
+  "author": "Vivek Dagar",
+  "license": "MIT",
+  "home_page": "https://github.com/alwaysvivek/xbasic",
+  "download_filename": "xbasic_8bit-2.0.0.tar.gz",
+  "download_time": "2026-03-01T12:00:29.440221",
+  "package_url": "https://pypi.org/project/xbasic-8bit/"
+}

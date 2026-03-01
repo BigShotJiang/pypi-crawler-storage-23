@@ -1,0 +1,11 @@
+{
+  "name": "atendentepro",
+  "version": "0.6.20",
+  "summary": "Framework de orquestração de agentes IA com tom e estilo customizáveis. Integra documentos (RAG), APIs e bancos de dados em uma plataforma inteligente multi-agente.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "atendentepro-0.6.20.tar.gz",
+  "download_time": "2026-03-01T12:00:36.663529",
+  "package_url": "https://pypi.org/project/atendentepro/"
+}
