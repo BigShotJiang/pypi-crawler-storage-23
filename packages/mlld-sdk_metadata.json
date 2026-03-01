@@ -1,0 +1,11 @@
+{
+  "name": "mlld-sdk",
+  "version": "2.0.3",
+  "summary": "Python wrapper for the mlld CLI",
+  "author": "mlld-lang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlld_sdk-2.0.3.tar.gz",
+  "download_time": "2026-03-01T22:54:57.237917",
+  "package_url": "https://pypi.org/project/mlld-sdk/"
+}

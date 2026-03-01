@@ -1,11 +1,11 @@
 {
   "name": "sikuligo",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "summary": "SikuliGO gRPC client wrapper and generated stubs for Python",
   "author": "SikuliGO Maintainers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sikuligo-0.1.44.tar.gz",
-  "download_time": "2026-03-01T21:23:57.641224",
+  "download_filename": "sikuligo-0.1.45.tar.gz",
+  "download_time": "2026-03-01T22:55:06.606571",
   "package_url": "https://pypi.org/project/sikuligo/"
 }

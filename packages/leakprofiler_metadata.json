@@ -1,11 +1,11 @@
 {
   "name": "leakprofiler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Pre-model data leakage scanner for ML datasets",
   "author": "LeakProfiler Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "leakprofiler-1.0.1.tar.gz",
-  "download_time": "2026-03-01T22:18:47.255741",
+  "download_filename": "leakprofiler-1.0.2.tar.gz",
+  "download_time": "2026-03-01T22:55:12.674056",
   "package_url": "https://pypi.org/project/leakprofiler/"
 }

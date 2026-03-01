@@ -1,0 +1,11 @@
+{
+  "name": "consensus-fs",
+  "version": "0.1.1",
+  "summary": "Ensemble Feature Selection Library",
+  "author": "Ulaş Taylan Met",
+  "license": null,
+  "home_page": null,
+  "download_filename": "consensus_fs-0.1.1.tar.gz",
+  "download_time": "2026-03-01T22:55:30.076115",
+  "package_url": "https://pypi.org/project/consensus-fs/"
+}

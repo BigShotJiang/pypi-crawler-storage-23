@@ -1,11 +1,11 @@
 {
   "name": "sbn-sdk",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Python SDK for the SmartBlocks Network — attestation, GEC compute, SnapChore integrity, governance, and more.",
   "author": "SmartBlocks Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sbn_sdk-0.9.0.tar.gz",
-  "download_time": "2026-03-01T15:21:26.453183",
+  "download_filename": "sbn_sdk-0.9.1.tar.gz",
+  "download_time": "2026-03-01T22:54:51.828586",
   "package_url": "https://pypi.org/project/sbn-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hn-query",
+  "version": "0.2.0",
+  "summary": "HN CLI utility.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hn_query-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-01T22:54:46.454238",
+  "package_url": "https://pypi.org/project/hn-query/"
+}

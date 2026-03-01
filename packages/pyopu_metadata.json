@@ -1,11 +1,11 @@
 {
   "name": "pyopu",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Organoid Processing Unit (OPU) framework with NeoCode Compiler for High-Order Tensor support",
   "author": "Neuroqudit Research & Development",
   "license": null,
   "home_page": null,
-  "download_filename": "pyopu-0.3.0.tar.gz",
-  "download_time": "2026-03-01T21:23:45.233136",
+  "download_filename": "pyopu-0.3.1.tar.gz",
+  "download_time": "2026-03-01T22:54:43.560441",
   "package_url": "https://pypi.org/project/pyopu/"
 }

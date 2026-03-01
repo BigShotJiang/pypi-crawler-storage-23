@@ -1,11 +1,11 @@
 {
   "name": "MAMMOth-commons",
-  "version": "0.1.26",
+  "version": "0.1.28",
   "summary": "Component interfaces of the MAI-BIAS toolkit.",
   "author": "Emmanouil (Manios) Krasanakis",
   "license": null,
   "home_page": "https://github.com/mammoth-eu/mammoth-commons",
-  "download_filename": "mammoth_commons-0.1.26-py3-none-any.whl",
-  "download_time": "2026-03-01T22:18:24.446156",
+  "download_filename": "mammoth_commons-0.1.28-py3-none-any.whl",
+  "download_time": "2026-03-01T22:54:54.398058",
   "package_url": "https://pypi.org/project/MAMMOth-commons/"
 }
