@@ -1,11 +1,11 @@
 {
   "name": "bigbrotr",
-  "version": "5.5.0",
-  "summary": "A modular Nostr data archiving and monitoring system",
+  "version": "5.6.0",
+  "summary": "Nostr network observatory: relay discovery, health monitoring, event archiving, and data access",
   "author": "BigBrotr Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bigbrotr-5.5.0.tar.gz",
-  "download_time": "2026-03-01T11:46:27.856288",
+  "download_filename": "bigbrotr-5.6.0.tar.gz",
+  "download_time": "2026-03-01T21:48:22.647850",
   "package_url": "https://pypi.org/project/bigbrotr/"
 }

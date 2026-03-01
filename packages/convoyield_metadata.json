@@ -1,0 +1,11 @@
+{
+  "name": "convoyield",
+  "version": "1.0.0",
+  "summary": "Conversational Yield Optimization Engine — Extract maximum value from every bot conversation using zero-cost behavioral algorithms",
+  "author": "J. DeVere Cooley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "convoyield-1.0.0.tar.gz",
+  "download_time": "2026-03-01T21:48:33.440437",
+  "package_url": "https://pypi.org/project/convoyield/"
+}

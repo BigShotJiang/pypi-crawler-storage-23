@@ -1,0 +1,11 @@
+{
+  "name": "know-the-time",
+  "version": "0.0.9",
+  "summary": "Get the time in different formats. Quickly available time stamps, dates, etc. are available useing functions. - makes `datetime` more available.",
+  "author": "André Herber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "know_the_time-0.0.9.tar.gz",
+  "download_time": "2026-03-01T21:48:34.970741",
+  "package_url": "https://pypi.org/project/know-the-time/"
+}

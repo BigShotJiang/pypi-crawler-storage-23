@@ -1,11 +1,11 @@
 {
   "name": "matrx-utils",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Basic utilities for matrx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrx_utils-1.0.10.tar.gz",
-  "download_time": "2026-03-01T17:20:48.376423",
+  "download_filename": "matrx_utils-1.0.11.tar.gz",
+  "download_time": "2026-03-01T21:48:45.738924",
   "package_url": "https://pypi.org/project/matrx-utils/"
 }

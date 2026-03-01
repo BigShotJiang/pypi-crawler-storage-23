@@ -1,0 +1,11 @@
+{
+  "name": "tfreader-iac",
+  "version": "0.1.0",
+  "summary": "Terraform IaC parser and security analyzer with API and CLI.",
+  "author": "tfreader contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tfreader_iac-0.1.0.tar.gz",
+  "download_time": "2026-03-01T21:48:11.279028",
+  "package_url": "https://pypi.org/project/tfreader-iac/"
+}

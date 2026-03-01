@@ -1,0 +1,11 @@
+{
+  "name": "napari-metadata",
+  "version": "0.1.1",
+  "summary": "View and edit layer metadata",
+  "author": "napari-metadata contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_metadata-0.1.1.tar.gz",
+  "download_time": "2026-03-01T21:48:39.482699",
+  "package_url": "https://pypi.org/project/napari-metadata/"
+}

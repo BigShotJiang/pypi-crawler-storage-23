@@ -1,0 +1,11 @@
+{
+  "name": "plinth-cli",
+  "version": "1.0.0",
+  "summary": "A high-performance, developer-first CLI scaffolding tool for FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plinth_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-01T21:48:33.950621",
+  "package_url": "https://pypi.org/project/plinth-cli/"
+}

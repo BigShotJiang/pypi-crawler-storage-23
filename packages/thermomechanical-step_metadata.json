@@ -1,0 +1,11 @@
+{
+  "name": "thermomechanical-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for calculating thermomechanical properties",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/thermomechanical_step",
+  "download_filename": "thermomechanical_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T21:48:05.358284",
+  "package_url": "https://pypi.org/project/thermomechanical-step/"
+}

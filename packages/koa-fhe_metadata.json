@@ -1,0 +1,11 @@
+{
+  "name": "koa-fhe",
+  "version": "0.1.3",
+  "summary": "Confidential coprocessor client — compute on encrypted data via Koa's FHE service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koa_fhe-0.1.3.tar.gz",
+  "download_time": "2026-03-01T21:48:36.013618",
+  "package_url": "https://pypi.org/project/koa-fhe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phykit",
-  "version": "2.1.12",
+  "version": "2.1.20",
   "summary": null,
   "author": "Jacob L. Steenwyk",
   "license": null,
   "home_page": "https://github.com/jlsteenwyk/phykit",
-  "download_filename": "phykit-2.1.12.tar.gz",
-  "download_time": "2026-02-28T23:16:43.380651",
+  "download_filename": "phykit-2.1.20.tar.gz",
+  "download_time": "2026-03-01T21:48:27.274042",
   "package_url": "https://pypi.org/project/phykit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "saython",
+  "version": "0.1.2",
+  "summary": "A beginner-friendly Python web framework for CRUD apps with auth and ORM",
+  "author": "Sabbir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "saython-0.1.2.tar.gz",
+  "download_time": "2026-03-01T21:48:08.651236",
+  "package_url": "https://pypi.org/project/saython/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keyboard-extended",
+  "version": "0.2.5",
+  "summary": "Extension for the keyboard package",
+  "author": "André Herber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keyboard_extended-0.2.5.tar.gz",
+  "download_time": "2026-03-01T21:48:41.011323",
+  "package_url": "https://pypi.org/project/keyboard-extended/"
+}

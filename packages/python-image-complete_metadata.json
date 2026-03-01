@@ -1,0 +1,11 @@
+{
+  "name": "python-image-complete",
+  "version": "0.0.6",
+  "summary": "Python3 library for checking whether images are complete.",
+  "author": "Peter Reutemann",
+  "license": "MIT License",
+  "home_page": "https://github.com/waikato-datamining/python-image-complete",
+  "download_filename": "python_image_complete-0.0.6.tar.gz",
+  "download_time": "2026-03-01T21:48:04.843964",
+  "package_url": "https://pypi.org/project/python-image-complete/"
+}

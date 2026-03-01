@@ -1,0 +1,11 @@
+{
+  "name": "jpipe-runner",
+  "version": "3.1.0",
+  "summary": "A Justification Runner designed for jPipe.",
+  "author": "Jason Lyu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jpipe_runner-3.1.0.tar.gz",
+  "download_time": "2026-03-01T21:48:45.201227",
+  "package_url": "https://pypi.org/project/jpipe-runner/"
+}

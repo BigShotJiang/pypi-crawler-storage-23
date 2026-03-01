@@ -1,0 +1,11 @@
+{
+  "name": "img2gba",
+  "version": "0.1.0",
+  "summary": "Convert images to Butano GBA format",
+  "author": "Sara Vieira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "img2gba-0.1.0.tar.gz",
+  "download_time": "2026-03-01T21:48:10.707595",
+  "package_url": "https://pypi.org/project/img2gba/"
+}

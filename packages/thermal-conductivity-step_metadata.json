@@ -1,0 +1,11 @@
+{
+  "name": "thermal-conductivity-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for Thermal Conductivity",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/thermal_conductivity_step",
+  "download_filename": "thermal_conductivity_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T21:48:38.579357",
+  "package_url": "https://pypi.org/project/thermal-conductivity-step/"
+}

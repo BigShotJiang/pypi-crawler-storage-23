@@ -1,0 +1,11 @@
+{
+  "name": "cartoblobpy",
+  "version": "0.0.2",
+  "summary": "A simple map representation and path planning library for 2D occupancy grids.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cartoblobpy-0.0.2.tar.gz",
+  "download_time": "2026-03-01T21:48:43.157362",
+  "package_url": "https://pypi.org/project/cartoblobpy/"
+}

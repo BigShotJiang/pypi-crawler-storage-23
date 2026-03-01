@@ -1,0 +1,11 @@
+{
+  "name": "procyclingstats",
+  "version": "0.2.8",
+  "summary": "A Python API wrapper for procyclingstats.com",
+  "author": "Martin Madzin",
+  "license": "MIT",
+  "home_page": "https://github.com/themm1/procyclingstats",
+  "download_filename": "procyclingstats-0.2.8.tar.gz",
+  "download_time": "2026-03-01T21:48:06.526712",
+  "package_url": "https://pypi.org/project/procyclingstats/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smalldreamcollective-tokenmeter",
+  "version": "0.1.0",
+  "summary": "Track, budget, and understand the cost of your AI API calls",
+  "author": "Small Dream Collective",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smalldreamcollective_tokenmeter-0.1.0.tar.gz",
+  "download_time": "2026-03-01T21:48:03.760734",
+  "package_url": "https://pypi.org/project/smalldreamcollective-tokenmeter/"
+}
