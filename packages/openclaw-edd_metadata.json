@@ -1,11 +1,11 @@
 {
   "name": "openclaw-edd",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Evaluation-Driven Development toolkit for OpenClaw agents",
-  "author": "OpenClaw Community",
+  "author": "Allison Walker",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openclaw_edd-0.1.2.tar.gz",
-  "download_time": "2026-02-28T16:47:35.938235",
+  "download_filename": "openclaw_edd-0.2.0.tar.gz",
+  "download_time": "2026-03-01T10:48:45.491948",
   "package_url": "https://pypi.org/project/openclaw-edd/"
 }
