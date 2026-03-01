@@ -1,11 +1,11 @@
 {
   "name": "rdc-cli",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "CLI for RenderDoc .rdc captures",
   "author": "Jim",
   "license": null,
   "home_page": null,
-  "download_filename": "rdc_cli-0.3.7.tar.gz",
-  "download_time": "2026-02-28T14:17:07.926754",
+  "download_filename": "rdc_cli-0.3.8.tar.gz",
+  "download_time": "2026-03-01T11:22:31.370527",
   "package_url": "https://pypi.org/project/rdc-cli/"
 }

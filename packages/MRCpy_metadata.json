@@ -1,0 +1,11 @@
+{
+  "name": "MRCpy",
+  "version": "3.0.0",
+  "summary": "Minimax Risk Classification",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/MachineLearningBCAM/MRCpy",
+  "download_filename": "mrcpy-3.0.0.tar.gz",
+  "download_time": "2026-03-01T11:22:27.241024",
+  "package_url": "https://pypi.org/project/MRCpy/"
+}

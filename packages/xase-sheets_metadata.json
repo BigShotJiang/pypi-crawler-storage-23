@@ -1,11 +1,11 @@
 {
   "name": "xase-sheets",
-  "version": "2.0.0",
-  "summary": "Official Python SDK for XASE Sheets - Secure Data Marketplace",
+  "version": "2.0.1",
+  "summary": "Official Python SDK for XASE - Secure Data Marketplace",
   "author": "XASE AI",
   "license": "MIT",
   "home_page": "https://github.com/xaseai/xase-sheets",
-  "download_filename": "xase_sheets-2.0.0.tar.gz",
-  "download_time": "2026-03-01T01:20:43.625672",
+  "download_filename": "xase_sheets-2.0.1.tar.gz",
+  "download_time": "2026-03-01T11:22:24.668694",
   "package_url": "https://pypi.org/project/xase-sheets/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "teenyfactories",
+  "version": "0.1.0.dev2",
+  "summary": "Multi-provider LLM and message queue abstraction for distributed agent systems",
+  "author": "TeenyFactories Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "teenyfactories-0.1.0.dev2.tar.gz",
+  "download_time": "2026-03-01T11:22:44.241122",
+  "package_url": "https://pypi.org/project/teenyfactories/"
+}

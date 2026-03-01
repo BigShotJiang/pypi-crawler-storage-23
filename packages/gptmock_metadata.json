@@ -1,11 +1,11 @@
 {
   "name": "gptmock",
-  "version": "2026.2.28",
+  "version": "2026.3.1",
   "summary": "OpenAI & Ollama compatible API powered by your ChatGPT account",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gptmock-2026.2.28.tar.gz",
-  "download_time": "2026-02-27T16:33:00.098769",
+  "download_filename": "gptmock-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T11:22:25.181013",
   "package_url": "https://pypi.org/project/gptmock/"
 }

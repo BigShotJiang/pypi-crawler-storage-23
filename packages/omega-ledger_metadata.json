@@ -1,0 +1,11 @@
+{
+  "name": "omega-ledger",
+  "version": "1.0.0",
+  "summary": "Singapore-Zenith-Mainnet Unitary Ledger Engine",
+  "author": "SimoesCTT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omega_ledger-1.0.0.tar.gz",
+  "download_time": "2026-03-01T11:22:33.454891",
+  "package_url": "https://pypi.org/project/omega-ledger/"
+}
