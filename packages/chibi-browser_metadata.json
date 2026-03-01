@@ -1,0 +1,11 @@
+{
+  "name": "chibi-browser",
+  "version": "1.0.0",
+  "summary": "Capa para controlar selenium para chibi_ste",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_browser",
+  "download_filename": "chibi_browser-1.0.0.tar.gz",
+  "download_time": "2026-03-01T21:24:02.769890",
+  "package_url": "https://pypi.org/project/chibi-browser/"
+}

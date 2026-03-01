@@ -1,11 +1,11 @@
 {
   "name": "pypitui",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "A Python TUI library with differential rendering - port of @mariozechner/pi-tui",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypitui-0.2.6-py3-none-any.whl",
-  "download_time": "2026-03-01T04:04:52.443773",
+  "download_filename": "pypitui-0.3.0-py3-none-any.whl",
+  "download_time": "2026-03-01T21:24:00.206503",
   "package_url": "https://pypi.org/project/pypitui/"
 }

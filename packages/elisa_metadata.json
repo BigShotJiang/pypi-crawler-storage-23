@@ -1,0 +1,11 @@
+{
+  "name": "elisa",
+  "version": "0.6.2",
+  "summary": "Eclipsing Binary Modeling Software",
+  "author": "Michal Cokina, Miroslav Fedurco",
+  "license": "GPLv2",
+  "home_page": "https://github.com/mikecokina/elisa",
+  "download_filename": "elisa-0.6.2.tar.gz",
+  "download_time": "2026-03-01T21:23:40.480284",
+  "package_url": "https://pypi.org/project/elisa/"
+}

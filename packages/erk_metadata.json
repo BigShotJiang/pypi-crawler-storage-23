@@ -1,11 +1,11 @@
 {
   "name": "erk",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "erk-0.9.0.tar.gz",
-  "download_time": "2026-02-27T22:47:57.061147",
+  "download_filename": "erk-0.9.1.tar.gz",
+  "download_time": "2026-03-01T21:23:47.827121",
   "package_url": "https://pypi.org/project/erk/"
 }

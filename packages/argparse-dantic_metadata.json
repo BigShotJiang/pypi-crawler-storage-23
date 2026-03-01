@@ -1,0 +1,11 @@
+{
+  "name": "argparse-dantic",
+  "version": "0.2.0",
+  "summary": "Typed Argument Parsing with Pydantic enhanced version",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argparse_dantic-0.2.0.tar.gz",
+  "download_time": "2026-03-01T21:23:43.689699",
+  "package_url": "https://pypi.org/project/argparse-dantic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "liken",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A Python library for near deduplication and record linkage.",
   "author": "VictorAut",
   "license": null,
   "home_page": null,
-  "download_filename": "liken-0.3.1.tar.gz",
-  "download_time": "2026-02-22T19:23:57.264930",
+  "download_filename": "liken-0.4.0.tar.gz",
+  "download_time": "2026-03-01T21:23:41.058205",
   "package_url": "https://pypi.org/project/liken/"
 }
