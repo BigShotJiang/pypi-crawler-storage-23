@@ -1,0 +1,11 @@
+{
+  "name": "bunny-dns-sync",
+  "version": "0.1.0",
+  "summary": "Declaratively manage DNS zones, Pull Zones, and Edge Rules on bunny.net",
+  "author": "Aleš Kancilija",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bunny_dns_sync-0.1.0.tar.gz",
+  "download_time": "2026-03-01T11:02:39.614581",
+  "package_url": "https://pypi.org/project/bunny-dns-sync/"
+}

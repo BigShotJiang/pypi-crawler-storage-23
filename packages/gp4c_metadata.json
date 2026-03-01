@@ -1,0 +1,11 @@
+{
+  "name": "gp4c",
+  "version": "0.0.12",
+  "summary": "Fast joint GP sampling with integral and derivative relationships",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gp4c-0.0.12.tar.gz",
+  "download_time": "2026-03-01T11:02:43.761564",
+  "package_url": "https://pypi.org/project/gp4c/"
+}

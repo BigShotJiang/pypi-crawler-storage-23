@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-connector-chatwoot-contact",
+  "version": "14.0.1.0.1.dev1",
+  "summary": "Chatwoot Connector - Contact",
+  "author": "PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_connector_chatwoot_contact-14.0.1.0.1.dev1-py3-none-any.whl",
+  "download_time": "2026-03-01T11:02:57.207946",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-connector-chatwoot-contact/"
+}

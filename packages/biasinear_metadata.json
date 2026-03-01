@@ -1,11 +1,11 @@
 {
   "name": "biasinear",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "BiasInEar: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations",
   "author": "Sheng-Lun Wei, Yu-Ling Liao, Yen-Hua Chang, Hen-Hsen Huang, Hsin-Hsi Chen",
   "license": null,
   "home_page": null,
-  "download_filename": "biasinear-0.2.0.tar.gz",
-  "download_time": "2026-03-01T07:50:27.876522",
+  "download_filename": "biasinear-0.2.1.tar.gz",
+  "download_time": "2026-03-01T11:02:40.124821",
   "package_url": "https://pypi.org/project/biasinear/"
 }

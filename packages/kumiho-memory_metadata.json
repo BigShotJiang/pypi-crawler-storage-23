@@ -1,11 +1,11 @@
 {
   "name": "kumiho-memory",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Universal memory provider for AI agents (Redis + Kumiho)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kumiho_memory-0.3.10.tar.gz",
-  "download_time": "2026-02-28T11:54:13.553806",
+  "download_filename": "kumiho_memory-0.3.11.tar.gz",
+  "download_time": "2026-03-01T11:02:53.551881",
   "package_url": "https://pypi.org/project/kumiho-memory/"
 }

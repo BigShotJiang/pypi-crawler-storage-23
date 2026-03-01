@@ -1,11 +1,11 @@
 {
   "name": "rastion",
-  "version": "0.1.0",
-  "summary": "Local-first portable optimization problems and solver plugins",
+  "version": "0.1.2",
+  "summary": "Local-first portable decision plugins and solver plugins",
   "author": "rastion contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rastion-0.1.0.tar.gz",
-  "download_time": "2026-02-27T12:37:36.877358",
+  "download_filename": "rastion-0.1.2.tar.gz",
+  "download_time": "2026-03-01T11:02:58.232394",
   "package_url": "https://pypi.org/project/rastion/"
 }

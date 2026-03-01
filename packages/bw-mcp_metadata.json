@@ -1,11 +1,11 @@
 {
   "name": "bw-mcp",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "A sovereign MCP server acting as a security-hardened blind proxy between LLMs and the Bitwarden CLI. Zero Trust · Total Transparency · Total Blind.",
   "author": "Ivann KAMDEM",
   "license": null,
   "home_page": null,
-  "download_filename": "bw_mcp-1.3.0.tar.gz",
-  "download_time": "2026-03-01T09:54:09.541156",
+  "download_filename": "bw_mcp-1.3.1.tar.gz",
+  "download_time": "2026-03-01T11:02:37.546141",
   "package_url": "https://pypi.org/project/bw-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ultrastable",
+  "version": "0.4.0",
+  "summary": "Local-first, audit-grade stability/guard library for AI agents (with optional robotics extras)",
+  "author": "Zsolt Döme",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ultrastable-0.4.0.tar.gz",
+  "download_time": "2026-03-01T11:02:33.440342",
+  "package_url": "https://pypi.org/project/ultrastable/"
+}

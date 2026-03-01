@@ -1,0 +1,11 @@
+{
+  "name": "p-cast",
+  "version": "2.0.0",
+  "summary": "Cast audio from PipeWire to chromecast devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "p_cast-2.0.0.tar.gz",
+  "download_time": "2026-03-01T11:02:41.657662",
+  "package_url": "https://pypi.org/project/p-cast/"
+}

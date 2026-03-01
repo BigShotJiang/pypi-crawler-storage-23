@@ -1,0 +1,11 @@
+{
+  "name": "stealthfetch",
+  "version": "0.2.0",
+  "summary": "URL in, LLM-ready markdown out. Stealth fetch with anti-bot bypass.",
+  "author": "leba01",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stealthfetch-0.2.0.tar.gz",
+  "download_time": "2026-03-01T11:02:52.511634",
+  "package_url": "https://pypi.org/project/stealthfetch/"
+}

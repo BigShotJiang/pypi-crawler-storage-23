@@ -1,11 +1,11 @@
 {
   "name": "magic-spec",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Magic Specification-Driven Development (SDD) Workflow",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "magic_spec-1.4.1.tar.gz",
-  "download_time": "2026-03-01T09:29:05.392946",
+  "download_filename": "magic_spec-1.4.2.tar.gz",
+  "download_time": "2026-03-01T11:02:42.167412",
   "package_url": "https://pypi.org/project/magic-spec/"
 }

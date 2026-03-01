@@ -1,11 +1,11 @@
 {
   "name": "testigo-recall-mcp",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "MCP server for querying testigo-recall knowledge bases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testigo_recall_mcp-0.5.2.tar.gz",
-  "download_time": "2026-02-28T23:56:55.142310",
+  "download_filename": "testigo_recall_mcp-0.5.4.tar.gz",
+  "download_time": "2026-03-01T11:02:58.743487",
   "package_url": "https://pypi.org/project/testigo-recall-mcp/"
 }

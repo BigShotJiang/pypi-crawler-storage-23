@@ -1,11 +1,11 @@
 {
   "name": "flowweaver",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A lightweight, resilient DAG orchestrator with parallel execution and state persistence.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flowweaver-0.2.0.tar.gz",
-  "download_time": "2026-02-28T18:58:00.043652",
+  "download_filename": "flowweaver-0.2.2.tar.gz",
+  "download_time": "2026-03-01T11:03:02.890399",
   "package_url": "https://pypi.org/project/flowweaver/"
 }
