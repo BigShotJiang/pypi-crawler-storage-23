@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-flint",
+  "version": "10.8.1",
+  "summary": "passagemath: Fast computations with MPFI and FLINT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_flint-10.8.1.tar.gz",
+  "download_time": "2026-03-01T16:00:01.197847",
+  "package_url": "https://pypi.org/project/passagemath-flint/"
+}

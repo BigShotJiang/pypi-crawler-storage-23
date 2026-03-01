@@ -1,11 +1,11 @@
 {
   "name": "fasttgbot",
-  "version": "36.0.0",
+  "version": "37.0.0",
   "summary": "простая библиотека для создания простого бота",
   "author": "mawwki",
   "license": null,
   "home_page": null,
-  "download_filename": "fasttgbot-36.0.0.tar.gz",
-  "download_time": "2026-03-01T15:48:02.803362",
+  "download_filename": "fasttgbot-37.0.0.tar.gz",
+  "download_time": "2026-03-01T16:00:00.028639",
   "package_url": "https://pypi.org/project/fasttgbot/"
 }

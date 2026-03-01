@@ -1,0 +1,11 @@
+{
+  "name": "nau7802",
+  "version": "0.5.2",
+  "summary": "NAU7802 Driver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nau7802-0.5.2.tar.gz",
+  "download_time": "2026-03-01T16:00:36.147028",
+  "package_url": "https://pypi.org/project/nau7802/"
+}

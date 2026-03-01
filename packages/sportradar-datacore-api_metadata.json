@@ -1,11 +1,11 @@
 {
   "name": "sportradar-datacore-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python wrapper for accessing and processing Sportradar DataCore data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sportradar_datacore_api-0.1.0.tar.gz",
-  "download_time": "2026-02-28T15:16:37.423104",
+  "download_filename": "sportradar_datacore_api-0.1.1.tar.gz",
+  "download_time": "2026-03-01T15:59:57.168895",
   "package_url": "https://pypi.org/project/sportradar-datacore-api/"
 }

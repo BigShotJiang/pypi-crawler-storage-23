@@ -1,0 +1,11 @@
+{
+  "name": "long-term-memory",
+  "version": "0.5.0",
+  "summary": "Long-term memory system for AI assistants — persistent, searchable, self-organizing memory powered by semantic search, knowledge graphs, and reinforcement learning",
+  "author": "ihwoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "long_term_memory-0.5.0.tar.gz",
+  "download_time": "2026-03-01T16:00:34.107414",
+  "package_url": "https://pypi.org/project/long-term-memory/"
+}
