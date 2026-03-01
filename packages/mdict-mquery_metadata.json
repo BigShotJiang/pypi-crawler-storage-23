@@ -1,0 +1,11 @@
+{
+  "name": "mdict-mquery",
+  "version": "1.0.0",
+  "summary": "High-performance MDX/MDD dictionary file lookup library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdict_mquery-1.0.0.tar.gz",
+  "download_time": "2026-03-01T09:29:08.606365",
+  "package_url": "https://pypi.org/project/mdict-mquery/"
+}

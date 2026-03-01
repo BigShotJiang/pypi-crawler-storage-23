@@ -1,0 +1,11 @@
+{
+  "name": "finagent-evals",
+  "version": "0.1.0",
+  "summary": "111 labeled eval cases, deterministic checks, and scoring for financial trading agents",
+  "author": "Ghostfolio Trading Agent Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finagent_evals-0.1.0.tar.gz",
+  "download_time": "2026-03-01T09:29:41.700045",
+  "package_url": "https://pypi.org/project/finagent-evals/"
+}

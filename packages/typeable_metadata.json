@@ -1,0 +1,11 @@
+{
+  "name": "typeable",
+  "version": "0.7.1",
+  "summary": "A Python type casting at runtime",
+  "author": "Flowdas Inc.",
+  "license": null,
+  "home_page": "https://github.com/flowdas/typeable",
+  "download_filename": "typeable-0.7.1.tar.gz",
+  "download_time": "2026-03-01T09:29:43.815915",
+  "package_url": "https://pypi.org/project/typeable/"
+}

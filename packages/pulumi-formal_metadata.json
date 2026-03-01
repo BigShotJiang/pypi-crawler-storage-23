@@ -1,11 +1,11 @@
 {
   "name": "pulumi-formal",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "A Pulumi package for creating and managing Formal resources.",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "pulumi_formal-1.0.3.tar.gz",
-  "download_time": "2026-03-01T08:57:18.836510",
+  "download_filename": "pulumi_formal-1.1.0.tar.gz",
+  "download_time": "2026-03-01T09:29:37.578666",
   "package_url": "https://pypi.org/project/pulumi-formal/"
 }

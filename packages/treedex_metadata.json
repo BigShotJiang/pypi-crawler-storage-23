@@ -1,0 +1,11 @@
+{
+  "name": "treedex",
+  "version": "0.1.1",
+  "summary": "Tree-based, vectorless document RAG framework. Connect any LLM via URL/API key.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treedex-0.1.1.tar.gz",
+  "download_time": "2026-03-01T09:29:22.944497",
+  "package_url": "https://pypi.org/project/treedex/"
+}

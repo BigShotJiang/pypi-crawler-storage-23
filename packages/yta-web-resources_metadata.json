@@ -1,11 +1,11 @@
 {
   "name": "yta-web-resources",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Youtube Autonomous Web Resources module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_web_resources-0.0.10.tar.gz",
-  "download_time": "2026-03-01T07:50:45.315658",
+  "download_filename": "yta_web_resources-0.0.11.tar.gz",
+  "download_time": "2026-03-01T09:29:26.135725",
   "package_url": "https://pypi.org/project/yta-web-resources/"
 }

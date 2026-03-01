@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-alignment",
+  "version": "1.0.0",
+  "summary": "Reinforcement-learning driven alignment engine for OpenClaw workflows",
+  "author": "OpenClaw Alignment Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openclaw_alignment-1.0.0.tar.gz",
+  "download_time": "2026-03-01T09:29:27.672030",
+  "package_url": "https://pypi.org/project/openclaw-alignment/"
+}

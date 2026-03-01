@@ -1,11 +1,11 @@
 {
   "name": "norma-ntc",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python library for structural verification according to NTC 2018 (Italian Building Code)",
   "author": "Raffaele Sestito",
   "license": null,
   "home_page": null,
-  "download_filename": "norma_ntc-0.1.1.tar.gz",
-  "download_time": "2026-02-26T14:44:55.241024",
+  "download_filename": "norma_ntc-0.2.0.tar.gz",
+  "download_time": "2026-03-01T09:29:40.173917",
   "package_url": "https://pypi.org/project/norma-ntc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opengeode",
+  "version": "4.3.12",
+  "summary": "A free SDL editor for TASTE",
+  "author": "Maxime Perrotin",
+  "license": null,
+  "home_page": "http://opengeode.net",
+  "download_filename": "opengeode-4.3.12.tar.gz",
+  "download_time": "2026-03-01T09:29:24.517859",
+  "package_url": "https://pypi.org/project/opengeode/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gluex.hddm-s",
-  "version": "2.4.5",
+  "version": "2.5.10",
   "summary": "methods for reading and writing GlueX simulated event data",
-  "author": "Richard T. Jones",
-  "license": "MIT License",
-  "home_page": "https://github.com/rjones30/hddm_s",
-  "download_filename": "gluex_hddm_s-2.4.5-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2026-02-28T14:58:30.739318",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gluex_hddm_s-2.5.10-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-03-01T09:29:39.663052",
   "package_url": "https://pypi.org/project/gluex.hddm-s/"
 }

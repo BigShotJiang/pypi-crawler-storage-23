@@ -1,11 +1,11 @@
 {
   "name": "pycontrolcharts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "pyControlCharts - Statistical Process Control (SPC) charts library for Python with pandas integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycontrolcharts-0.1.0.tar.gz",
-  "download_time": "2026-02-28T12:28:35.390221",
+  "download_filename": "pycontrolcharts-0.1.1.tar.gz",
+  "download_time": "2026-03-01T09:29:27.163614",
   "package_url": "https://pypi.org/project/pycontrolcharts/"
 }

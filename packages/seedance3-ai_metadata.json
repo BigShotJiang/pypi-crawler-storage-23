@@ -1,0 +1,11 @@
+{
+  "name": "seedance3-ai",
+  "version": "0.1.0",
+  "summary": "Seedance 3.0 AI video generator. Create cinematic videos from text prompts online.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seedance3_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-01T09:29:19.873739",
+  "package_url": "https://pypi.org/project/seedance3-ai/"
+}

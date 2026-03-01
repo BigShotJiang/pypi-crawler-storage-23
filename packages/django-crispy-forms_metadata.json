@@ -1,0 +1,11 @@
+{
+  "name": "django-crispy-forms",
+  "version": "2.6",
+  "summary": "Best way to have Django DRY forms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_crispy_forms-2.6.tar.gz",
+  "download_time": "2026-03-01T09:29:38.606637",
+  "package_url": "https://pypi.org/project/django-crispy-forms/"
+}

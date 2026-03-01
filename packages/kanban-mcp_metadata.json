@@ -1,0 +1,11 @@
+{
+  "name": "kanban-mcp",
+  "version": "0.1.2",
+  "summary": "Kanban board MCP server for Claude Code — track issues, features, and todos",
+  "author": "multidimensionalcats",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kanban_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-01T09:29:19.365254",
+  "package_url": "https://pypi.org/project/kanban-mcp/"
+}
