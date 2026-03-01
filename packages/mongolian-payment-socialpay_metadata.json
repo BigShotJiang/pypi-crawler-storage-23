@@ -1,0 +1,11 @@
+{
+  "name": "mongolian-payment-socialpay",
+  "version": "1.0.0",
+  "summary": "SocialPay payment gateway SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongolian_payment_socialpay-1.0.0.tar.gz",
+  "download_time": "2026-03-01T10:20:43.013751",
+  "package_url": "https://pypi.org/project/mongolian-payment-socialpay/"
+}

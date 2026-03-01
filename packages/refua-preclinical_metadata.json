@@ -1,0 +1,11 @@
+{
+  "name": "refua-preclinical",
+  "version": "0.6.0",
+  "summary": "GLP tox/pharmacology planning, in vivo scheduling, and bioanalytical pipelines for Refua.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "refua_preclinical-0.6.0.tar.gz",
+  "download_time": "2026-03-01T10:20:40.321268",
+  "package_url": "https://pypi.org/project/refua-preclinical/"
+}

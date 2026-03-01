@@ -1,0 +1,11 @@
+{
+  "name": "create-clean-archi-fastapi",
+  "version": "0.1.0",
+  "summary": "A CLI tool to create a FastAPI project with a clean architecture template.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "create_clean_archi_fastapi-0.1.0.tar.gz",
+  "download_time": "2026-03-01T10:20:54.255640",
+  "package_url": "https://pypi.org/project/create-clean-archi-fastapi/"
+}

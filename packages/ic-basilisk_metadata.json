@@ -1,11 +1,11 @@
 {
   "name": "ic-basilisk",
-  "version": "0.8.12",
+  "version": "0.8.14",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ic_basilisk-0.8.12.tar.gz",
-  "download_time": "2026-03-01T09:29:22.434586",
+  "download_filename": "ic_basilisk-0.8.14.tar.gz",
+  "download_time": "2026-03-01T10:20:33.816542",
   "package_url": "https://pypi.org/project/ic-basilisk/"
 }

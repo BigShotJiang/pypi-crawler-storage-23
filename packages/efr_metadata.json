@@ -1,11 +1,11 @@
 {
   "name": "efr",
-  "version": "0.3",
+  "version": "0.3.1",
   "summary": "...",
   "author": null,
   "license": "Apache Licence 2.0",
   "home_page": null,
-  "download_filename": "efr-0.3.tar.gz",
-  "download_time": "2026-02-28T15:57:12.494097",
+  "download_filename": "efr-0.3.1.tar.gz",
+  "download_time": "2026-03-01T10:21:09.599035",
   "package_url": "https://pypi.org/project/efr/"
 }

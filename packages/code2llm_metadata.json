@@ -1,11 +1,11 @@
 {
   "name": "code2llm",
-  "version": "0.3.11",
+  "version": "0.5.2",
   "summary": "High-performance Python code flow analysis with optimized TOON format - CFG, DFG, call graphs, and intelligent code queries",
   "author": "STTS Project",
   "license": null,
   "home_page": "https://github.com/wronai/stts",
-  "download_filename": "code2llm-0.3.11.tar.gz",
-  "download_time": "2026-03-01T08:57:35.836934",
+  "download_filename": "code2llm-0.5.2.tar.gz",
+  "download_time": "2026-03-01T10:21:00.899174",
   "package_url": "https://pypi.org/project/code2llm/"
 }

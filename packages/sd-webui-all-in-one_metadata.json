@@ -1,11 +1,11 @@
 {
   "name": "sd-webui-all-in-one",
-  "version": "2.0.31",
+  "version": "2.0.32",
   "summary": "支持部署和管理多种 WebUI 的工具",
   "author": "licyk",
   "license": null,
   "home_page": null,
-  "download_filename": "sd_webui_all_in_one-2.0.31.tar.gz",
-  "download_time": "2026-03-01T09:54:30.505541",
+  "download_filename": "sd_webui_all_in_one-2.0.32.tar.gz",
+  "download_time": "2026-03-01T10:20:47.605775",
   "package_url": "https://pypi.org/project/sd-webui-all-in-one/"
 }

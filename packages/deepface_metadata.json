@@ -1,0 +1,11 @@
+{
+  "name": "deepface",
+  "version": "0.0.99",
+  "summary": "A Lightweight Face Recognition and Facial Attribute Analysis Framework (Age, Gender, Emotion, Race) for Python",
+  "author": "Sefik Ilkin Serengil",
+  "license": "MIT",
+  "home_page": "https://github.com/serengil/deepface",
+  "download_filename": "deepface-0.0.99.tar.gz",
+  "download_time": "2026-03-01T10:20:37.138060",
+  "package_url": "https://pypi.org/project/deepface/"
+}

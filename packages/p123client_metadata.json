@@ -1,0 +1,11 @@
+{
+  "name": "p123client",
+  "version": "0.0.9.3",
+  "summary": "Python 123 webdisk client.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p123client",
+  "download_filename": "p123client-0.0.9.3.tar.gz",
+  "download_time": "2026-03-01T10:20:50.670469",
+  "package_url": "https://pypi.org/project/p123client/"
+}

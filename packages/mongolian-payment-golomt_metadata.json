@@ -1,0 +1,11 @@
+{
+  "name": "mongolian-payment-golomt",
+  "version": "1.0.0",
+  "summary": "Golomt Bank payment gateway SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongolian_payment_golomt-1.0.0.tar.gz",
+  "download_time": "2026-03-01T10:20:40.893258",
+  "package_url": "https://pypi.org/project/mongolian-payment-golomt/"
+}

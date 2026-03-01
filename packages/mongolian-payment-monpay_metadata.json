@@ -1,0 +1,11 @@
+{
+  "name": "mongolian-payment-monpay",
+  "version": "1.0.0",
+  "summary": "MonPay payment gateway SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongolian_payment_monpay-1.0.0.tar.gz",
+  "download_time": "2026-03-01T10:20:41.981907",
+  "package_url": "https://pypi.org/project/mongolian-payment-monpay/"
+}

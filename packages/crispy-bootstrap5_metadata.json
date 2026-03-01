@@ -1,0 +1,11 @@
+{
+  "name": "crispy-bootstrap5",
+  "version": "2026.3",
+  "summary": "Bootstrap5 template pack for django-crispy-forms",
+  "author": "David Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crispy_bootstrap5-2026.3.tar.gz",
+  "download_time": "2026-03-01T10:20:56.306886",
+  "package_url": "https://pypi.org/project/crispy-bootstrap5/"
+}
