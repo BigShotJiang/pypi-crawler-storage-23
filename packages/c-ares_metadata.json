@@ -1,0 +1,11 @@
+{
+  "name": "c-ares",
+  "version": "0.0.0",
+  "summary": "Empty placeholder package - reserved for Meta (Facebook)",
+  "author": "Package Protector",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c_ares-0.0.0.tar.gz",
+  "download_time": "2026-03-01T13:17:59.987495",
+  "package_url": "https://pypi.org/project/c-ares/"
+}

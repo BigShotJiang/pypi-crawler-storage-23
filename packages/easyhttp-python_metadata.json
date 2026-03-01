@@ -1,0 +1,11 @@
+{
+  "name": "easyhttp-python",
+  "version": "0.3.3",
+  "summary": "Simple HTTP-based P2P framework for IoT",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easyhttp_python-0.3.3-py3-none-any.whl",
+  "download_time": "2026-03-01T13:17:44.027947",
+  "package_url": "https://pypi.org/project/easyhttp-python/"
+}

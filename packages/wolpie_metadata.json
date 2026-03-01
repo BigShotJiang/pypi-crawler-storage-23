@@ -1,0 +1,11 @@
+{
+  "name": "wolpie",
+  "version": "0.4.0",
+  "summary": "I got tired of copy-pasting the same blocks of code from project to project. So I decided to create Wolpie as my own personal swiss army knife for Python development. The one package to rule them all... for my needs at least...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wolpie-0.4.0.tar.gz",
+  "download_time": "2026-03-01T13:17:49.661933",
+  "package_url": "https://pypi.org/project/wolpie/"
+}

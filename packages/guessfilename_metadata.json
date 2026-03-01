@@ -1,0 +1,11 @@
+{
+  "name": "guessfilename",
+  "version": "2026.3.1.1",
+  "summary": "Derive a file name according to old file name cues and/or PDF file content",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guessfilename-2026.3.1.1.tar.gz",
+  "download_time": "2026-03-01T13:18:15.521164",
+  "package_url": "https://pypi.org/project/guessfilename/"
+}

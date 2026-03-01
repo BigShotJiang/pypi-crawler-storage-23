@@ -1,11 +1,11 @@
 {
   "name": "wilrise",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A modern async JSON-RPC framework built on Starlette. Where determination rises from simplicity.",
   "author": "William",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wilrise-0.3.0.tar.gz",
-  "download_time": "2026-03-01T12:00:33.531452",
+  "download_filename": "wilrise-0.3.1.tar.gz",
+  "download_time": "2026-03-01T13:18:10.842487",
   "package_url": "https://pypi.org/project/wilrise/"
 }

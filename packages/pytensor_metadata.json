@@ -1,11 +1,11 @@
 {
   "name": "pytensor",
-  "version": "2.38.0",
+  "version": "2.38.1",
   "summary": "Optimizing compiler for evaluating mathematical expressions on CPUs and GPUs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytensor-2.38.0.tar.gz",
-  "download_time": "2026-02-19T15:30:45.177899",
+  "download_filename": "pytensor-2.38.1.tar.gz",
+  "download_time": "2026-03-01T13:17:50.728177",
   "package_url": "https://pypi.org/project/pytensor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lb-hash-dec",
+  "version": "0.0.2",
+  "summary": "lib made for lazy, by lazy",
+  "author": "logic-break",
+  "license": "MIT",
+  "home_page": "https://github.com/logic-break/logic-break/tree/main/libraries/lb_hash_dec",
+  "download_filename": "lb_hash_dec-0.0.2.tar.gz",
+  "download_time": "2026-03-01T13:18:16.557597",
+  "package_url": "https://pypi.org/project/lb-hash-dec/"
+}

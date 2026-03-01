@@ -1,11 +1,11 @@
 {
   "name": "sixtysix",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Framework for building trading strategies and technical indicators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sixtysix-0.0.10.tar.gz",
-  "download_time": "2026-03-01T11:45:54.479878",
+  "download_filename": "sixtysix-0.0.11.tar.gz",
+  "download_time": "2026-03-01T13:17:35.179888",
   "package_url": "https://pypi.org/project/sixtysix/"
 }

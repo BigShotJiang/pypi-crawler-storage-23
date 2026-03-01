@@ -1,0 +1,11 @@
+{
+  "name": "vision-calibration",
+  "version": "0.1.4",
+  "summary": "Python bindings for calibration-rs end-to-end camera calibration",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://vitalyvorobyev.github.io/calibration-rs",
+  "download_filename": "vision_calibration-0.1.4.tar.gz",
+  "download_time": "2026-03-01T13:18:13.471438",
+  "package_url": "https://pypi.org/project/vision-calibration/"
+}

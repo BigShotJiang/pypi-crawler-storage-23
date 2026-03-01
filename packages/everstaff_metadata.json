@@ -1,0 +1,11 @@
+{
+  "name": "everstaff",
+  "version": "0.0.3",
+  "summary": "AI agents that know when to act and when to ask — autonomous by default, human-supervised when it counts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "everstaff-0.0.3-py3-none-any.whl",
+  "download_time": "2026-03-01T13:17:37.863755",
+  "package_url": "https://pypi.org/project/everstaff/"
+}

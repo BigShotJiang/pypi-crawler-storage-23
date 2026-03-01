@@ -1,0 +1,11 @@
+{
+  "name": "lb-easy-weather",
+  "version": "0.0.2",
+  "summary": "Simple weather library for lazy developers",
+  "author": "logic-break",
+  "license": "Non-Commercial",
+  "home_page": "https://github.com/logic-break/logic-break/tree/main/libraries/lb_easy_weather",
+  "download_filename": "lb_easy_weather-0.0.2.tar.gz",
+  "download_time": "2026-03-01T13:17:38.395222",
+  "package_url": "https://pypi.org/project/lb-easy-weather/"
+}
