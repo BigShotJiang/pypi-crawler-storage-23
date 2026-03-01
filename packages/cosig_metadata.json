@@ -1,0 +1,11 @@
+{
+  "name": "cosig",
+  "version": "0.2.0a4",
+  "summary": "Hardware token approval for AI agent tool calls - WebAuthn security layer for MCP tools",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cosig-0.2.0a4.tar.gz",
+  "download_time": "2026-03-01T19:40:46.690276",
+  "package_url": "https://pypi.org/project/cosig/"
+}

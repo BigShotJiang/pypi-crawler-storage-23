@@ -1,11 +1,11 @@
 {
   "name": "nanopy",
-  "version": "28.0.1.post1",
+  "version": "28.0.1.post2",
   "summary": "Python implementation of NANO currency related functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanopy-28.0.1.post1-cp310-cp310-macosx_15_0_x86_64.whl",
-  "download_time": "2026-03-01T15:01:34.606923",
+  "download_filename": "nanopy-28.0.1.post2.tar.gz",
+  "download_time": "2026-03-01T19:40:34.217824",
   "package_url": "https://pypi.org/project/nanopy/"
 }

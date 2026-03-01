@@ -1,0 +1,11 @@
+{
+  "name": "quiz-dash",
+  "version": "0.8.9",
+  "summary": "Quizzes intégrés pour Jupyter",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "quiz_dash-0.8.9.tar.gz",
+  "download_time": "2026-03-01T19:40:43.065554",
+  "package_url": "https://pypi.org/project/quiz-dash/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-toolstack-cli",
+  "version": "1.0.0",
+  "summary": "CLI client for Claude Toolstack gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_toolstack_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-01T19:41:02.918643",
+  "package_url": "https://pypi.org/project/claude-toolstack-cli/"
+}

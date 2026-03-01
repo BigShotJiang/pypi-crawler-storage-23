@@ -1,11 +1,11 @@
 {
   "name": "rehla-dbx-tools",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "Rehla FlightDeck for Databricks: a production-focused unified API toolkit for AWS workspace and account automation.",
   "author": "Rehla Digital Inc",
   "license": null,
   "home_page": null,
-  "download_filename": "rehla_dbx_tools-1.2.6.tar.gz",
-  "download_time": "2026-03-01T19:20:24.426504",
+  "download_filename": "rehla_dbx_tools-1.2.7.tar.gz",
+  "download_time": "2026-03-01T19:40:49.905604",
   "package_url": "https://pypi.org/project/rehla-dbx-tools/"
 }

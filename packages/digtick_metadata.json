@@ -1,11 +1,11 @@
 {
   "name": "digtick",
-  "version": "0.0.1",
-  "summary": "A command-line tool for computing digital circuits",
+  "version": "0.0.2",
+  "summary": "Digital logic design toolkit: simplify, minimize and transform Boolean expressions, draw KV-maps, etc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "digtick-0.0.1.tar.gz",
-  "download_time": "2026-03-01T09:53:51.283567",
+  "download_filename": "digtick-0.0.2.tar.gz",
+  "download_time": "2026-03-01T19:40:58.318360",
   "package_url": "https://pypi.org/project/digtick/"
 }

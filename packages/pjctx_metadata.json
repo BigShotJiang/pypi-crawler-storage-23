@@ -1,0 +1,11 @@
+{
+  "name": "pjctx",
+  "version": "0.1.0",
+  "summary": "Capture and restore AI coding context across sessions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pjctx-0.1.0.tar.gz",
+  "download_time": "2026-03-01T19:41:00.363429",
+  "package_url": "https://pypi.org/project/pjctx/"
+}

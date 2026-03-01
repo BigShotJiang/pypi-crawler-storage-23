@@ -1,0 +1,11 @@
+{
+  "name": "geometry-analysis-step",
+  "version": "2026.3.1",
+  "summary": "A SEAMM plug-in for analysis of the geometry of particularly small molecules",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/geometry_analysis_step",
+  "download_filename": "geometry_analysis_step-2026.3.1.tar.gz",
+  "download_time": "2026-03-01T19:40:55.748787",
+  "package_url": "https://pypi.org/project/geometry-analysis-step/"
+}

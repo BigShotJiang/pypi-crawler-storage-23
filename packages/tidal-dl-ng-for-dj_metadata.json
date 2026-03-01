@@ -1,11 +1,11 @@
 {
   "name": "tidal-dl-ng-for-dj",
-  "version": "0.33.4",
+  "version": "0.33.5",
   "summary": "TIDAL Media Downloader Next Generation!",
   "author": "Warry",
   "license": null,
   "home_page": null,
-  "download_filename": "tidal_dl_ng_for_dj-0.33.4.tar.gz",
-  "download_time": "2026-03-01T18:59:07.711026",
+  "download_filename": "tidal_dl_ng_for_dj-0.33.5.tar.gz",
+  "download_time": "2026-03-01T19:40:46.178648",
   "package_url": "https://pypi.org/project/tidal-dl-ng-for-dj/"
 }

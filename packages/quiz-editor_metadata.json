@@ -1,0 +1,11 @@
+{
+  "name": "quiz-editor",
+  "version": "0.8.11",
+  "summary": "Quizzes intégrés pour Jupyter",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "quiz_editor-0.8.11.tar.gz",
+  "download_time": "2026-03-01T19:40:49.379024",
+  "package_url": "https://pypi.org/project/quiz-editor/"
+}

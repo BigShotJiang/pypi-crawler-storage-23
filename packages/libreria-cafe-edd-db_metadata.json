@@ -1,11 +1,11 @@
 {
   "name": "libreria-cafe-edd-db",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Librería para manejar una base de datos relacional SQLite entre todos los módulos del proyecto final de Estructuras de Datos de manera consistente.",
   "author": "justcarlux",
   "license": null,
   "home_page": null,
-  "download_filename": "libreria_cafe_edd_db-1.0.3.tar.gz",
-  "download_time": "2026-02-19T07:36:50.589216",
+  "download_filename": "libreria_cafe_edd_db-1.0.6.tar.gz",
+  "download_time": "2026-03-01T19:41:01.383613",
   "package_url": "https://pypi.org/project/libreria-cafe-edd-db/"
 }
