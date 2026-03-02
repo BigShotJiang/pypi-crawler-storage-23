@@ -1,0 +1,11 @@
+{
+  "name": "shorttext",
+  "version": "3.1.0",
+  "summary": "Short Text Mining",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shorttext-3.1.0.tar.gz",
+  "download_time": "2026-03-02T21:37:09.152306",
+  "package_url": "https://pypi.org/project/shorttext/"
+}

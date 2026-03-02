@@ -1,0 +1,11 @@
+{
+  "name": "namaka",
+  "version": "0.1.1",
+  "summary": "Namaka Python SDK for experiment tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "namaka-0.1.1.tar.gz",
+  "download_time": "2026-03-02T21:36:39.752962",
+  "package_url": "https://pypi.org/project/namaka/"
+}

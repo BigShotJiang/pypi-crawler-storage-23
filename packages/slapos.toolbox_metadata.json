@@ -1,0 +1,11 @@
+{
+  "name": "slapos.toolbox",
+  "version": "0.162",
+  "summary": "SlapOS toolbox.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://lab.nexedi.com/nexedi/slapos.toolbox",
+  "download_filename": "slapos_toolbox-0.162.tar.gz",
+  "download_time": "2026-03-02T21:36:56.085882",
+  "package_url": "https://pypi.org/project/slapos.toolbox/"
+}

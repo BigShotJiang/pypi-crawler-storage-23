@@ -1,0 +1,11 @@
+{
+  "name": "trytond-product-price-list",
+  "version": "7.8.1",
+  "summary": "Tryton module with price list",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_product_price_list-7.8.1.tar.gz",
+  "download_time": "2026-03-02T21:37:11.729947",
+  "package_url": "https://pypi.org/project/trytond-product-price-list/"
+}

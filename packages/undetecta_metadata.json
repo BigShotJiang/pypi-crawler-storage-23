@@ -1,0 +1,11 @@
+{
+  "name": "undetecta",
+  "version": "0.2.0",
+  "summary": "Python client for the Undetecta API - Anti-detection web scraping made simple",
+  "author": "Undetecta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "undetecta-0.2.0.tar.gz",
+  "download_time": "2026-03-02T21:36:53.473829",
+  "package_url": "https://pypi.org/project/undetecta/"
+}

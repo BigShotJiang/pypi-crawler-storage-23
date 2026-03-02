@@ -1,0 +1,11 @@
+{
+  "name": "kv-dict",
+  "version": "0.2.0",
+  "summary": "KV backed dictionary, similar to RedisJSONDict",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "kv_dict-0.2.0.tar.gz",
+  "download_time": "2026-03-02T21:36:56.612740",
+  "package_url": "https://pypi.org/project/kv-dict/"
+}

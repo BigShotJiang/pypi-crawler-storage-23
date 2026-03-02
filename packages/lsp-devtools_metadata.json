@@ -1,0 +1,11 @@
+{
+  "name": "lsp-devtools",
+  "version": "0.3.0",
+  "summary": "Developer tooling for language servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lsp_devtools-0.3.0.tar.gz",
+  "download_time": "2026-03-02T21:37:08.109933",
+  "package_url": "https://pypi.org/project/lsp-devtools/"
+}

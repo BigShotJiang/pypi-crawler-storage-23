@@ -1,0 +1,11 @@
+{
+  "name": "spider-client",
+  "version": "0.1.87",
+  "summary": "Python SDK for Spider Cloud API",
+  "author": "Spider",
+  "license": "MIT",
+  "home_page": "https://github.com/spider-rs/spider-clients/tree/main/python",
+  "download_filename": "spider_client-0.1.87.tar.gz",
+  "download_time": "2026-03-02T21:36:39.231150",
+  "package_url": "https://pypi.org/project/spider-client/"
+}

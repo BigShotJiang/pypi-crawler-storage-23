@@ -1,11 +1,11 @@
 {
   "name": "deep-variance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "GPU Virtual Memory Stitching SDK — CUDA VMM allocator with chunk caching and DLPack tensors for PyTorch",
   "author": "Deep Variance",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deep_variance-0.1.0.tar.gz",
-  "download_time": "2026-03-02T19:54:47.727332",
+  "download_filename": "deep_variance-0.1.1.tar.gz",
+  "download_time": "2026-03-02T21:36:58.169949",
   "package_url": "https://pypi.org/project/deep-variance/"
 }

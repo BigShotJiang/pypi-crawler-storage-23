@@ -1,0 +1,11 @@
+{
+  "name": "responsibleai-tabular-automl",
+  "version": "0.15.1",
+  "summary": "SDK for computing RAI insights for AutoML models.",
+  "author": "Gaurav Gupta, Ke Xu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "responsibleai_tabular_automl-0.15.1.tar.gz",
+  "download_time": "2026-03-02T21:37:20.229130",
+  "package_url": "https://pypi.org/project/responsibleai-tabular-automl/"
+}

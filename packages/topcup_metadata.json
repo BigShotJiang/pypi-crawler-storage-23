@@ -1,0 +1,11 @@
+{
+  "name": "topcup",
+  "version": "1.2.2",
+  "summary": "An implementation of 2024-2025 Kaggle/CZI cryoET ML challenge winning models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "topcup-1.2.2.tar.gz",
+  "download_time": "2026-03-02T21:36:44.578524",
+  "package_url": "https://pypi.org/project/topcup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zodb-pgjsonb-thumborblobloader",
+  "version": "0.1.0.dev0",
+  "summary": "Thumbor image loader reading blobs from zodb-pgjsonb blob_state table",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zodb_pgjsonb_thumborblobloader-0.1.0.dev0.tar.gz",
+  "download_time": "2026-03-02T21:37:19.186285",
+  "package_url": "https://pypi.org/project/zodb-pgjsonb-thumborblobloader/"
+}

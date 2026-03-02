@@ -1,0 +1,11 @@
+{
+  "name": "trytond-product-classification-taxonomic",
+  "version": "7.8.1",
+  "summary": "Tryton module to implement product classification taxonomic",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_product_classification_taxonomic-7.8.1.tar.gz",
+  "download_time": "2026-03-02T21:37:01.857168",
+  "package_url": "https://pypi.org/project/trytond-product-classification-taxonomic/"
+}

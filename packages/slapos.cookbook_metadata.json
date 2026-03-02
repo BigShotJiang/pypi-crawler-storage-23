@@ -1,0 +1,11 @@
+{
+  "name": "slapos.cookbook",
+  "version": "1.0.467",
+  "summary": "SlapOS recipes.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://lab.nexedi.com/nexedi/slapos",
+  "download_filename": "slapos_cookbook-1.0.467.tar.gz",
+  "download_time": "2026-03-02T21:36:52.428786",
+  "package_url": "https://pypi.org/project/slapos.cookbook/"
+}
