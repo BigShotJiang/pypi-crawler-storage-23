@@ -1,0 +1,11 @@
+{
+  "name": "snekquiz",
+  "version": "0.2.0",
+  "summary": "A minimalist MCQ quiz web application",
+  "author": "AC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snekquiz-0.2.0.tar.gz",
+  "download_time": "2026-03-02T07:19:47.976649",
+  "package_url": "https://pypi.org/project/snekquiz/"
+}

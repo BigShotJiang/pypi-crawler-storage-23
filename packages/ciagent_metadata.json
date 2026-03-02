@@ -1,11 +1,11 @@
 {
   "name": "ciagent",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "Continuous Integration for AI Agents. Catch cost spikes and logic regressions before production.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ciagent-0.4.2.tar.gz",
-  "download_time": "2026-03-01T04:05:05.009296",
+  "download_filename": "ciagent-0.5.1.tar.gz",
+  "download_time": "2026-03-02T07:20:17.320572",
   "package_url": "https://pypi.org/project/ciagent/"
 }

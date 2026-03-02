@@ -1,0 +1,11 @@
+{
+  "name": "ibm-cloud-harvester",
+  "version": "0.1.0",
+  "summary": "Collect IBM Cloud infrastructure data into XLSX for classic_analyser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibm_cloud_harvester-0.1.0.tar.gz",
+  "download_time": "2026-03-02T07:20:01.669061",
+  "package_url": "https://pypi.org/project/ibm-cloud-harvester/"
+}

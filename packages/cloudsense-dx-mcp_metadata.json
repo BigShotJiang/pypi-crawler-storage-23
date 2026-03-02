@@ -1,11 +1,11 @@
 {
   "name": "cloudsense-dx-mcp",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "MCP server for CloudSense DX operations (orchestration templates, etc.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudsense_dx_mcp-0.3.2.tar.gz",
-  "download_time": "2026-03-02T06:11:03.184692",
+  "download_filename": "cloudsense_dx_mcp-0.3.6.tar.gz",
+  "download_time": "2026-03-02T07:20:20.001154",
   "package_url": "https://pypi.org/project/cloudsense-dx-mcp/"
 }

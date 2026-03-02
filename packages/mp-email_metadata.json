@@ -1,0 +1,11 @@
+{
+  "name": "mp-email",
+  "version": "0.0.5",
+  "summary": "Django mail app",
+  "author": "Paul Maigutyak",
+  "license": "MIT",
+  "home_page": "https://github.com/pmaigutyak/djmail",
+  "download_filename": "mp_email-0.0.5.tar.gz",
+  "download_time": "2026-03-02T07:19:50.715885",
+  "package_url": "https://pypi.org/project/mp-email/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trailback",
+  "version": "0.1.0",
+  "summary": "Vendor-neutral CLI/TUI for browsing local agent logs",
+  "author": "Varun Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trailback-0.1.0.tar.gz",
+  "download_time": "2026-03-02T07:19:46.317972",
+  "package_url": "https://pypi.org/project/trailback/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "weltenfw",
+  "version": "0.1.0",
+  "summary": "WeltenHub Client Framework — typed REST client and Pydantic schemas for the WeltenHub Story Universe API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weltenfw-0.1.0.tar.gz",
+  "download_time": "2026-03-02T07:19:53.976657",
+  "package_url": "https://pypi.org/project/weltenfw/"
+}

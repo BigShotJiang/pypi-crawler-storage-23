@@ -1,0 +1,11 @@
+{
+  "name": "baselode",
+  "version": "0.1.3",
+  "summary": "Domain-aware data models and utilities for exploration and mining datasets.",
+  "author": "Tamara Vasey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "baselode-0.1.3.tar.gz",
+  "download_time": "2026-03-02T07:20:16.246048",
+  "package_url": "https://pypi.org/project/baselode/"
+}

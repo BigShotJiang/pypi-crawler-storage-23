@@ -1,11 +1,11 @@
 {
   "name": "nano-eval",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "Nano Eval - A minimal tool for verifying VLMs/LLMs across frameworks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nano_eval-0.2.9.tar.gz",
-  "download_time": "2026-02-26T21:27:49.074024",
+  "download_filename": "nano_eval-0.3.0.tar.gz",
+  "download_time": "2026-03-02T07:20:08.143977",
   "package_url": "https://pypi.org/project/nano-eval/"
 }

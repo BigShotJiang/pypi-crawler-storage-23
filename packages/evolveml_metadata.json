@@ -1,0 +1,11 @@
+{
+  "name": "evolveml",
+  "version": "0.26.0",
+  "summary": "A Python ML library that evolves with your data. Batch + Real-time Learning, AutoML, XAI, NLP, RL, Anomaly Detection & more.",
+  "author": "SAPPA VAMSI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evolveml-0.26.0.tar.gz",
+  "download_time": "2026-03-02T07:20:20.538808",
+  "package_url": "https://pypi.org/project/evolveml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lizard",
+  "version": "1.21.2",
+  "summary": "A code analyzer without caring the C/C++ header files. It works with Java, C/C++, JavaScript, Python, Ruby, Swift, Objective C. Metrics includes cyclomatic complexity number etc.",
+  "author": "Terry Yin",
+  "license": "MIT",
+  "home_page": "http://www.lizard.ws",
+  "download_filename": "lizard-1.21.2.tar.gz",
+  "download_time": "2026-03-02T07:19:58.402232",
+  "package_url": "https://pypi.org/project/lizard/"
+}

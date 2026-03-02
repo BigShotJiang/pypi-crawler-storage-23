@@ -1,0 +1,11 @@
+{
+  "name": "excel-writer-mcp",
+  "version": "1.0.1",
+  "summary": "MCP Server for writing Excel files (.xlsx/.xlsm) with openpyxl",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "excel_writer_mcp-1.0.1.tar.gz",
+  "download_time": "2026-03-02T07:20:07.090910",
+  "package_url": "https://pypi.org/project/excel-writer-mcp/"
+}
