@@ -1,0 +1,11 @@
+{
+  "name": "Adafruit-Blinka",
+  "version": "8.70.0",
+  "summary": "CircuitPython APIs for non-CircuitPython versions of Python such as CPython on Linux and MicroPython.",
+  "author": "Adafruit Industries",
+  "license": "MIT",
+  "home_page": "https://github.com/adafruit/Adafruit_Blinka",
+  "download_filename": "adafruit_blinka-8.70.0.tar.gz",
+  "download_time": "2026-03-02T06:11:23.625546",
+  "package_url": "https://pypi.org/project/Adafruit-Blinka/"
+}

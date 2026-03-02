@@ -1,11 +1,11 @@
 {
   "name": "siglab-py",
-  "version": "0.7.68",
+  "version": "0.7.73",
   "summary": "Market data fetches, TA calculations and generic order gateway.",
   "author": "r0bbarh00d",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "siglab_py-0.7.68.tar.gz",
-  "download_time": "2026-02-26T01:09:43.605002",
+  "download_filename": "siglab_py-0.7.73.tar.gz",
+  "download_time": "2026-03-02T06:11:39.347514",
   "package_url": "https://pypi.org/project/siglab-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zspdu",
+  "version": "1.0.0",
+  "summary": "Smart PDU control via serial interface",
+  "author": "Ganesan Selvaraj",
+  "license": "MIT",
+  "home_page": "https://github.com/ganesanluna/zspdu",
+  "download_filename": "zspdu-1.0.0.tar.gz",
+  "download_time": "2026-03-02T06:11:24.143457",
+  "package_url": "https://pypi.org/project/zspdu/"
+}

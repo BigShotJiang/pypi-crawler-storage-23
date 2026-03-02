@@ -1,11 +1,11 @@
 {
   "name": "orze",
-  "version": "2.6.6",
+  "version": "2.7.3",
   "summary": "orze.ai",
   "author": "orze contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "orze-2.6.6.tar.gz",
-  "download_time": "2026-03-01T01:20:17.806363",
+  "download_filename": "orze-2.7.3.tar.gz",
+  "download_time": "2026-03-02T06:11:15.268650",
   "package_url": "https://pypi.org/project/orze/"
 }

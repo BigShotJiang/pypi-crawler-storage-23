@@ -1,0 +1,11 @@
+{
+  "name": "mlgame",
+  "version": "10.7.2",
+  "summary": "A machine learning game framework based on Pygame",
+  "author": "PAIA-Tech",
+  "license": null,
+  "home_page": "https://github.com/PAIA-Playful-AI-Arena/MLGame",
+  "download_filename": "mlgame-10.7.2.tar.gz",
+  "download_time": "2026-03-02T06:11:27.849555",
+  "package_url": "https://pypi.org/project/mlgame/"
+}
