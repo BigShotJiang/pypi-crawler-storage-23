@@ -1,36 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-02T18:07:13.603912
+- **Download Time**: 2026-03-02T19:11:14.075840
 - **Total Packages**: 89
-- **Total Size**: 50.15 MB
+- **Total Size**: 7.05 MB
 
 ## Packages List
-- ClawCures
-- huec
-- python-picnic-api2
-- gdsfactoryplus
-- agentlys
-- triton-model-analyzer
-- tsdb-tool
-- trino-mcp
-- lusid-notifications-sdk
-- weaviate-engram
-- simpn
-- iscc-core
-- mthds
-- finqual
-- nebula-core
-- credigraph
-- exokern-eval
-- serieux
-- open-terminal
-- pywiim
-- pandas-plots
-- http-utils
-- truezmanim-tui
-- python-fasthtml
-- datarobot-genai
 - ai-extract
 - nanodrr
 - bar-raiser
@@ -43,6 +18,7 @@
 - fraiseql
 - physioblocks
 - google-genai-haystack
+- exokern-eval
 - familiar-agent
 - gradio-gpu-monitor
 - riichienv
@@ -95,3 +71,27 @@
 - sirc
 - mo-kwargs
 - kinto-attachment
+- stockprice-mcp
+- whats77
+- seafoam
+- psplines
+- truezmanim-tui
+- xcoll
+- celeryspread
+- enable-ai
+- datarobot-early-access
+- torchlens
+- multihist
+- sbss
+- ASHReports
+- unique-swot
+- agp-tool
+- ukam-os-builder
+- lazyclaude
+- checkm-genome
+- sapl-tornado
+- ASHC-v3
+- tracecraft
+- modekeeper
+- elluminate
+- sapl-fastapi

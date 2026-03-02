@@ -1,0 +1,11 @@
+{
+  "name": "multihist",
+  "version": "0.6.6",
+  "summary": "Convenience wrappers around numpy histograms",
+  "author": "Jelle Aalbers",
+  "license": "MIT",
+  "home_page": "https://github.com/jelleaalbers/multihist",
+  "download_filename": "multihist-0.6.6.tar.gz",
+  "download_time": "2026-03-02T19:11:05.802139",
+  "package_url": "https://pypi.org/project/multihist/"
+}

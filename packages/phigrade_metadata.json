@@ -1,11 +1,11 @@
 {
   "name": "phigrade",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "A lightweight autograder where tests run locally and data is stored remotely",
   "author": "Matt Gormley",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phigrade-2.1.0.tar.gz",
-  "download_time": "2026-03-02T18:06:55.561696",
+  "download_filename": "phigrade-2.1.1.tar.gz",
+  "download_time": "2026-03-02T19:10:40.386784",
   "package_url": "https://pypi.org/project/phigrade/"
 }

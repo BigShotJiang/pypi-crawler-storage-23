@@ -1,0 +1,11 @@
+{
+  "name": "checkm-genome",
+  "version": "1.2.5",
+  "summary": "Assess the quality of putative genome bins.",
+  "author": "Donovan Parks, Michael Imelfort, Connor Skennerton",
+  "license": "GPL3",
+  "home_page": "http://pypi.python.org/pypi/checkm-genome/",
+  "download_filename": "checkm_genome-1.2.5.tar.gz",
+  "download_time": "2026-03-02T19:11:09.951928",
+  "package_url": "https://pypi.org/project/checkm-genome/"
+}

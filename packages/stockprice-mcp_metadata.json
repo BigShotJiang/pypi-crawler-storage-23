@@ -1,0 +1,11 @@
+{
+  "name": "stockprice-mcp",
+  "version": "0.2.0",
+  "summary": "Stock price & FX MCP server for Claude Desktop, powered by yfinance — no API key required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stockprice_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-02T19:10:59.792807",
+  "package_url": "https://pypi.org/project/stockprice-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llmvalidate",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "Oncoshot LLM validation framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmvalidate-0.3.0.tar.gz",
-  "download_time": "2026-03-02T18:07:00.185983",
+  "download_filename": "llmvalidate-0.4.2.tar.gz",
+  "download_time": "2026-03-02T19:10:45.427513",
   "package_url": "https://pypi.org/project/llmvalidate/"
 }
