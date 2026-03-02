@@ -1,11 +1,11 @@
 {
   "name": "clawd-code-sdk",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Python SDK for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawd_code_sdk-0.4.0.tar.gz",
-  "download_time": "2026-02-28T01:14:50.959990",
+  "download_filename": "clawd_code_sdk-0.5.1.tar.gz",
+  "download_time": "2026-03-02T23:21:52.886363",
   "package_url": "https://pypi.org/project/clawd-code-sdk/"
 }

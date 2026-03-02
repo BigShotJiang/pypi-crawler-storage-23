@@ -1,0 +1,11 @@
+{
+  "name": "fastforgex",
+  "version": "0.1.4",
+  "summary": "FastAPI project scaffolding CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastforgex-0.1.4.tar.gz",
+  "download_time": "2026-03-02T23:21:36.286376",
+  "package_url": "https://pypi.org/project/fastforgex/"
+}

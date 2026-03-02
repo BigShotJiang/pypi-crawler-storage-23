@@ -1,11 +1,11 @@
 {
   "name": "numba-cuda",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "summary": "CUDA target for Numba",
   "author": "Anaconda Inc., NVIDIA Corporation",
   "license": null,
   "home_page": null,
-  "download_filename": "numba_cuda-0.28.0-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
-  "download_time": "2026-03-02T17:09:43.168947",
+  "download_filename": "numba_cuda-0.28.1-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-02T23:21:17.611066",
   "package_url": "https://pypi.org/project/numba-cuda/"
 }

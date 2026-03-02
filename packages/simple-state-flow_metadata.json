@@ -1,0 +1,11 @@
+{
+  "name": "simple-state-flow",
+  "version": "0.1.3",
+  "summary": "A graph-based state flow library using Pydantic",
+  "author": "Marc Nealer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_state_flow-0.1.3.tar.gz",
+  "download_time": "2026-03-02T23:21:25.953354",
+  "package_url": "https://pypi.org/project/simple-state-flow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "probmetrics",
+  "version": "1.2.0",
+  "summary": "Probabilistic metrics and calibration methods",
+  "author": "David Holzmüller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "probmetrics-1.2.0.tar.gz",
+  "download_time": "2026-03-02T23:21:17.085061",
+  "package_url": "https://pypi.org/project/probmetrics/"
+}

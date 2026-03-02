@@ -1,0 +1,11 @@
+{
+  "name": "radvel",
+  "version": "1.5.2",
+  "summary": "General Toolkit for Modeling Radial Velocities",
+  "author": "BJ Fulton, Erik Petigura, Sarah Blunt, Evan Sinukoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "radvel-1.5.2.tar.gz",
+  "download_time": "2026-03-02T23:21:38.403216",
+  "package_url": "https://pypi.org/project/radvel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kintsugi-tax-platform-sdk",
+  "version": "0.11.0",
+  "summary": "Python Client SDK for Kintsugi Tax Platform API.",
+  "author": "Kintsugi Tax",
+  "license": null,
+  "home_page": "https://github.com/kintsugi-tax/kintsugi-tax-python-sdk.git",
+  "download_filename": "kintsugi_tax_platform_sdk-0.11.0.tar.gz",
+  "download_time": "2026-03-02T23:21:42.548727",
+  "package_url": "https://pypi.org/project/kintsugi-tax-platform-sdk/"
+}

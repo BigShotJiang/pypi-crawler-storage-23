@@ -1,0 +1,11 @@
+{
+  "name": "fractale-agents",
+  "version": "0.0.0",
+  "summary": "Agents to support fractale agentic framework",
+  "author": "Vanessa Sochat",
+  "license": "LICENSE",
+  "home_page": "https://github.com/converged-computing/fractale-agents",
+  "download_filename": "fractale_agents-0.0.0.tar.gz",
+  "download_time": "2026-03-02T23:21:37.844426",
+  "package_url": "https://pypi.org/project/fractale-agents/"
+}
