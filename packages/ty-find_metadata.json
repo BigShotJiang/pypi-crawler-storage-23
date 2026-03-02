@@ -1,11 +1,11 @@
 {
   "name": "ty-find",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "CLI tool for finding Python function definitions using ty's LSP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ty_find-0.2.0.tar.gz",
-  "download_time": "2026-03-01T23:01:35.896564",
+  "download_filename": "ty_find-0.2.2.tar.gz",
+  "download_time": "2026-03-02T09:36:54.005466",
   "package_url": "https://pypi.org/project/ty-find/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "serilux",
+  "version": "0.4.0",
+  "summary": "A powerful serialization framework for Python objects with automatic type registration and validation",
+  "author": "Serilux Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "serilux-0.4.0.tar.gz",
+  "download_time": "2026-03-02T09:37:15.160066",
+  "package_url": "https://pypi.org/project/serilux/"
+}

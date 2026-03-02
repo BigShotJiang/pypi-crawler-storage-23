@@ -1,0 +1,11 @@
+{
+  "name": "ose-plugin-annotation-sheets",
+  "version": "1.4.0",
+  "summary": "OntoSpreadEd plugin for generating annotation sheet templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ose_plugin_annotation_sheets-1.4.0-py3-none-any.whl",
+  "download_time": "2026-03-02T09:37:08.330623",
+  "package_url": "https://pypi.org/project/ose-plugin-annotation-sheets/"
+}

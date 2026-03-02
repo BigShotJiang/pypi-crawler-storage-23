@@ -1,0 +1,11 @@
+{
+  "name": "iode-gui",
+  "version": "7.0.5",
+  "summary": "Graphical User Interface (GUI) for the iode python package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iode_gui-7.0.5.tar.gz",
+  "download_time": "2026-03-02T09:37:04.761319",
+  "package_url": "https://pypi.org/project/iode-gui/"
+}

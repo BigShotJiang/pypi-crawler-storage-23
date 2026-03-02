@@ -1,0 +1,11 @@
+{
+  "name": "meeg-utils",
+  "version": "0.1.0",
+  "summary": "A Python-based MEEG processing toolkit primarily based on MNE-Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meeg_utils-0.1.0.tar.gz",
+  "download_time": "2026-03-02T09:36:25.161972",
+  "package_url": "https://pypi.org/project/meeg-utils/"
+}

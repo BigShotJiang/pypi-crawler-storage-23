@@ -1,0 +1,11 @@
+{
+  "name": "rl-llm-toolkit",
+  "version": "0.2.0",
+  "summary": "Open-source framework for Reinforcement Learning integrated with Large Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rl_llm_toolkit-0.2.0.tar.gz",
+  "download_time": "2026-03-02T09:36:44.802026",
+  "package_url": "https://pypi.org/project/rl-llm-toolkit/"
+}

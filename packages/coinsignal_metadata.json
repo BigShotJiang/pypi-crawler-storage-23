@@ -1,11 +1,11 @@
 {
   "name": "coinsignal",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "summary": "coin data analysis and return predicting framework",
   "author": "Zehao Yang",
   "license": null,
   "home_page": null,
-  "download_filename": "coinsignal-1.8.3-cp312-cp312-macosx_10_13_universal2.whl",
-  "download_time": "2026-02-27T17:55:54.889242",
+  "download_filename": "coinsignal-1.8.4-cp312-cp312-macosx_10_13_universal2.whl",
+  "download_time": "2026-03-02T09:36:39.449721",
   "package_url": "https://pypi.org/project/coinsignal/"
 }

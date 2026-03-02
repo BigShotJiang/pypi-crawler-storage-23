@@ -1,11 +1,11 @@
 {
   "name": "claude-updater",
-  "version": "0.3.1",
+  "version": "2026.3.0",
   "summary": "Multi-tool update checker for the Claude Code ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_updater-0.3.1.tar.gz",
-  "download_time": "2026-03-02T08:40:57.194718",
+  "download_filename": "claude_updater-2026.3.0.tar.gz",
+  "download_time": "2026-03-02T09:37:02.100419",
   "package_url": "https://pypi.org/project/claude-updater/"
 }

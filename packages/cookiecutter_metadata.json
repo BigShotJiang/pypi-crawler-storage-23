@@ -1,0 +1,11 @@
+{
+  "name": "cookiecutter",
+  "version": "2.7.0",
+  "summary": "A command-line utility that creates projects from project templates, e.g. creating a Python package project from a Python package project template.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cookiecutter-2.7.0.tar.gz",
+  "download_time": "2026-03-02T09:37:05.983684",
+  "package_url": "https://pypi.org/project/cookiecutter/"
+}

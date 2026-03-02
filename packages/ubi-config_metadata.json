@@ -1,0 +1,11 @@
+{
+  "name": "ubi-config",
+  "version": "3.3.0",
+  "summary": "A Python Library for accessing Universal Base Image configuration",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/release-engineering/ubi-config",
+  "download_filename": "ubi_config-3.3.0.tar.gz",
+  "download_time": "2026-03-02T09:36:40.034177",
+  "package_url": "https://pypi.org/project/ubi-config/"
+}

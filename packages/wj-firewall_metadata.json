@@ -1,11 +1,11 @@
 {
   "name": "wj-firewall",
-  "version": "1.0.0b4",
+  "version": "1.0.0b5",
   "summary": "macOS PF (Packet Filter) firewall configuration TUI",
   "author": "WaterJuice",
   "license": null,
   "home_page": null,
-  "download_filename": "wj_firewall-1.0.0b4-py3-none-any.whl",
-  "download_time": "2026-02-28T07:57:21.948922",
+  "download_filename": "wj_firewall-1.0.0b5-py3-none-any.whl",
+  "download_time": "2026-03-02T09:37:13.252369",
   "package_url": "https://pypi.org/project/wj-firewall/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-pricelist-from-commitment-date",
+  "version": "16.0.1.0.1",
+  "summary": "Use sale order commitment date to compute line price from pricelist",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_pricelist_from_commitment_date-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-02T09:36:59.671804",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-pricelist-from-commitment-date/"
+}

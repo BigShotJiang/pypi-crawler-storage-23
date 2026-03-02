@@ -1,11 +1,11 @@
 {
   "name": "onex-cli",
-  "version": "1.6.0",
-  "summary": "Official CLI for deploying and managing services on OneXEOS Platform",
+  "version": "1.7.2",
+  "summary": "Official CLI for deploying and managing services on OneXEOS Platform (Windows, macOS, Linux)",
   "author": "OneXEOS Platform Team",
   "license": null,
   "home_page": "https://github.com/onexeos/onex-cli",
-  "download_filename": "onex_cli-1.6.0.tar.gz",
-  "download_time": "2026-03-02T08:41:13.248472",
+  "download_filename": "onex_cli-1.7.2.tar.gz",
+  "download_time": "2026-03-02T09:36:22.941348",
   "package_url": "https://pypi.org/project/onex-cli/"
 }
