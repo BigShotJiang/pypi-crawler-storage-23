@@ -1,11 +1,11 @@
 {
   "name": "vocal-ai",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Ollama-style Voice Model Management - Self-hosted OpenAI-compatible Speech AI",
   "author": "Vocal Contributors",
   "license": "SSPL-1.0",
   "home_page": null,
-  "download_filename": "vocal_ai-0.3.4.tar.gz",
-  "download_time": "2026-03-02T09:36:57.169094",
+  "download_filename": "vocal_ai-0.3.5.tar.gz",
+  "download_time": "2026-03-02T22:06:31.364079",
   "package_url": "https://pypi.org/project/vocal-ai/"
 }

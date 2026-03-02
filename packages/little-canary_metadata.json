@@ -1,0 +1,11 @@
+{
+  "name": "little-canary",
+  "version": "0.2.2",
+  "summary": "Sacrificial LLM instances as behavioral probes for prompt injection detection",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "little_canary-0.2.2.tar.gz",
+  "download_time": "2026-03-02T22:06:43.298020",
+  "package_url": "https://pypi.org/project/little-canary/"
+}

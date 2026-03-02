@@ -1,11 +1,11 @@
 {
   "name": "pyweber",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A lightweight Python framework for building and managing web applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyweber-1.1.0.tar.gz",
-  "download_time": "2026-02-28T16:48:03.887115",
+  "download_filename": "pyweber-1.1.1.tar.gz",
+  "download_time": "2026-03-02T22:06:50.001423",
   "package_url": "https://pypi.org/project/pyweber/"
 }

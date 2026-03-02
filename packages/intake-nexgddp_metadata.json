@@ -1,0 +1,11 @@
+{
+  "name": "intake-nexgddp",
+  "version": "1.0.8",
+  "summary": "Intake plugin for NEX-GDDP-CMIP6 via OpenVisus",
+  "author": "Aashish Panta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intake_nexgddp-1.0.8.tar.gz",
+  "download_time": "2026-03-02T22:06:40.598115",
+  "package_url": "https://pypi.org/project/intake-nexgddp/"
+}

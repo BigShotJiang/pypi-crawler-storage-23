@@ -1,0 +1,11 @@
+{
+  "name": "hippotorch",
+  "version": "0.4.3",
+  "summary": "Differentiable episodic memory for reinforcement learning.",
+  "author": "Döme Zsolt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hippotorch-0.4.3.tar.gz",
+  "download_time": "2026-03-02T22:06:35.466827",
+  "package_url": "https://pypi.org/project/hippotorch/"
+}

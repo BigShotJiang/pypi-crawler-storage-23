@@ -1,0 +1,11 @@
+{
+  "name": "trytond-carrier",
+  "version": "7.8.1",
+  "summary": "Tryton module with carriers",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_carrier-7.8.1.tar.gz",
+  "download_time": "2026-03-02T22:06:59.853666",
+  "package_url": "https://pypi.org/project/trytond-carrier/"
+}

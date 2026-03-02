@@ -1,11 +1,11 @@
 {
   "name": "vocal-api",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "FastAPI server for Vocal - Ollama-style Voice Model Management",
   "author": "Vocal Contributors",
   "license": "SSPL-1.0",
   "home_page": null,
-  "download_filename": "vocal_api-0.3.4.tar.gz",
-  "download_time": "2026-03-02T09:36:58.395750",
+  "download_filename": "vocal_api-0.3.5.tar.gz",
+  "download_time": "2026-03-02T22:06:33.416884",
   "package_url": "https://pypi.org/project/vocal-api/"
 }

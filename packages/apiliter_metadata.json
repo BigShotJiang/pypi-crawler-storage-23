@@ -1,11 +1,11 @@
 {
   "name": "apiliter",
-  "version": "1.0.4",
-  "summary": "Literp Compact Server Lib",
+  "version": "1.0.5",
+  "summary": "Literp Standard API Gateway",
   "author": "Asinerum Conlang Project",
   "license": "MIT",
   "home_page": "https://github.com/asinerum/apiliter",
-  "download_filename": "apiliter-1.0.4.tar.gz",
-  "download_time": "2026-03-01T19:56:23.126422",
+  "download_filename": "apiliter-1.0.5.tar.gz",
+  "download_time": "2026-03-02T22:06:52.093258",
   "package_url": "https://pypi.org/project/apiliter/"
 }

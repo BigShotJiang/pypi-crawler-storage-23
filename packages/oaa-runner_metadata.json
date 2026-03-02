@@ -1,11 +1,11 @@
 {
   "name": "oaa-runner",
-  "version": "0.1.52",
+  "version": "0.1.56",
   "summary": "An OAA Local Runner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaa_runner-0.1.52.tar.gz",
-  "download_time": "2026-03-02T21:36:46.144404",
+  "download_filename": "oaa_runner-0.1.56.tar.gz",
+  "download_time": "2026-03-02T22:06:18.757226",
   "package_url": "https://pypi.org/project/oaa-runner/"
 }

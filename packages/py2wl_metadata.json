@@ -1,0 +1,11 @@
+{
+  "name": "py2wl",
+  "version": "0.6.2",
+  "summary": "Python → Wolfram Language bridge via PTY, with compat layer for NumPy/SciPy/pandas/PyTorch etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2wl-0.6.2.tar.gz",
+  "download_time": "2026-03-02T22:06:46.387815",
+  "package_url": "https://pypi.org/project/py2wl/"
+}

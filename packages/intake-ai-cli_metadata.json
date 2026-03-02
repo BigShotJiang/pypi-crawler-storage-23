@@ -1,0 +1,11 @@
+{
+  "name": "intake-ai-cli",
+  "version": "0.1.0",
+  "summary": "From requirements in any format to verified implementation",
+  "author": "intake contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intake_ai_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-02T22:06:33.929128",
+  "package_url": "https://pypi.org/project/intake-ai-cli/"
+}
