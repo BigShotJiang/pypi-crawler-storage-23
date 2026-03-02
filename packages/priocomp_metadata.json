@@ -1,0 +1,11 @@
+{
+  "name": "priocomp",
+  "version": "1.1.1",
+  "summary": "A simple Python library that lets you check comparisons in order of priority (importance).",
+  "author": "Egglord",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "priocomp-1.1.1.tar.gz",
+  "download_time": "2026-03-02T00:00:49.267339",
+  "package_url": "https://pypi.org/project/priocomp/"
+}
