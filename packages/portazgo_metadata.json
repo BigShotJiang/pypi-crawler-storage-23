@@ -1,0 +1,11 @@
+{
+  "name": "portazgo",
+  "version": "0.1.5",
+  "summary": "Pluggable agent SDK to talk to Llama Stack using a cohort of agents (default Llama Stack Responses API or LangGraph)",
+  "author": "Alpha Hack Program",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "portazgo-0.1.5.tar.gz",
+  "download_time": "2026-03-02T11:49:05.054654",
+  "package_url": "https://pypi.org/project/portazgo/"
+}

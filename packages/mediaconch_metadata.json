@@ -1,0 +1,11 @@
+{
+  "name": "mediaconch",
+  "version": "25.4",
+  "summary": "A python ctypes wrapper for mediaconch library.",
+  "author": "MediaArea.Net",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/MediaArea/MediaConch_SourceCode",
+  "download_filename": "mediaconch-25.4-py3-none-macosx_10_9_arm64.whl",
+  "download_time": "2026-03-02T11:48:59.199450",
+  "package_url": "https://pypi.org/project/mediaconch/"
+}

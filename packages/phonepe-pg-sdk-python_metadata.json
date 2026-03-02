@@ -1,0 +1,11 @@
+{
+  "name": "phonepe-pg-sdk-python",
+  "version": "2.1.8",
+  "summary": "SDK for integration with PhonePe PG APIs",
+  "author": "PhonePe",
+  "license": null,
+  "home_page": "https://github.com/PhonePe/phonepe-pg-sdk-python",
+  "download_filename": "phonepe_pg_sdk_python-2.1.8.tar.gz",
+  "download_time": "2026-03-02T11:48:54.465201",
+  "package_url": "https://pypi.org/project/phonepe-pg-sdk-python/"
+}

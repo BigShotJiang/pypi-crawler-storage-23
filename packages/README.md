@@ -1,64 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-02T11:13:55.671626
-- **Total Packages**: 87
-- **Total Size**: 45.58 MB
+- **Download Time**: 2026-03-02T11:49:14.719450
+- **Total Packages**: 89
+- **Total Size**: 16.9 MB
 
 ## Packages List
-- justai
-- Telethon-MCUB
-- xrd-rust
-- llmcomp
-- restalker
-- marinerg-data-access
-- lfm-trainer
-- mobot-bridge-update
-- float16-sfogliatella
-- snippy-nextgen
-- matrice-streaming
-- vathos_vision
-- wiremock-mock
-- codereviewbuddy
-- jupyterhub-usage-quotas
-- matrice-common
-- pluto-ml-nightly
-- pymatchit-causal
-- skaro
-- trainy-policy-nightly
-- quranpro
-- tokennuke
-- proxygen-cli
-- southstar-sdk
-- pytensor-distributions
-- rwa-calc
-- traceflow-ai
-- nwave-ai
-- capsule-run
-- secgate
-- cycode
-- otc-sphinx-directives
-- odoo-addon-account-ecotax-tax
-- odoo-addon-account-ecotax-sale
-- odoo-addon-account-ecotax
-- odoo-addon-account-ecotax-sale-tax
-- openBES
-- traveltimepy
-- execdiff
-- epic-utils
-- lqft-python-engine
-- iron-sql
-- nvidia-riva-client
-- anteroom
-- marinerg-facility
-- xparse-client
-- jupyterlab-notifications-extension
-- mcp-scoring-engine
-- onex-cli
-- aifw
-- s1ard
-- pinexq-client
-- agmemory
 - data-science-document-ai
 - mech-interp-toolkit
 - layeredlearning
@@ -71,6 +18,7 @@
 - ctao-bdms-rucio-policy
 - unified-planning
 - sentient-evals
+- execdiff
 - anatomic-locations
 - oidm-common
 - dvlogger
@@ -93,3 +41,57 @@
 - depictio-cli
 - odoo-addon-purchase-sale-stock-inter-company
 - llmdebug
+- anteroom
+- fioblisswriter
+- django-base-ai
+- saritasa-invocations
+- codereviewbuddy
+- letta-nightly
+- pymatchit-causal
+- pytest-loco
+- fastapiex-settings
+- reviewate
+- copaw
+- bossanova
+- kerykeion
+- mld-sdk
+- smello-server
+- mcp-scan
+- vease-modeling-back
+- pulumi
+- ypricemagic
+- dbt-review-assistant
+- FlexMenu
+- leap-model-parser
+- phonepe-pg-sdk-python
+- long-run-agent
+- ed25519-blake2b-fork
+- similarius
+- norfab
+- keboola.vcr
+- qhub-commons
+- mediaconch
+- cybrid-api-bank-python
+- mem0ai-jizhi
+- watchllm
+- justai
+- xpk
+- cybrid-api-id-python
+- cybrid-api-organization-python
+- kingsoftcloud-sdk-python
+- portazgo
+- mem0ai-bugfix-updatememory
+- nvidia-nat-ragaai
+- confluent-pyflink
+- nvidia-nat-test
+- nvidia-nat-strands
+- reg-normalizer
+- onnx2kerastl
+- nvidia-nat-phoenix
+- flashoptim
+- apcore-mcp
+- pretty-debugger
+- nvidia-nat-mcp
+- vathos_vision
+- garf-executors
+- nvidia-nat-adk

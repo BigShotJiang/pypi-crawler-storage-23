@@ -1,11 +1,11 @@
 {
   "name": "confluent-pyflink",
-  "version": "1.0.0",
+  "version": "2.2.0",
   "summary": "Confluent Apache Flink Table API Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "confluent_pyflink-1.0.0.tar.gz",
-  "download_time": "2026-02-23T08:42:48.426710",
+  "download_filename": "confluent_pyflink-2.2.0.tar.gz",
+  "download_time": "2026-03-02T11:49:06.915405",
   "package_url": "https://pypi.org/project/confluent-pyflink/"
 }
