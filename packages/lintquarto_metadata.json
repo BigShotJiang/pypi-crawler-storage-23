@@ -1,0 +1,11 @@
+{
+  "name": "lintquarto",
+  "version": "0.9.0",
+  "summary": "Package for running linters, static type checkers and code analysis tools on python code in quarto (.qmd) files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lintquarto-0.9.0.tar.gz",
+  "download_time": "2026-03-02T12:06:00.840247",
+  "package_url": "https://pypi.org/project/lintquarto/"
+}

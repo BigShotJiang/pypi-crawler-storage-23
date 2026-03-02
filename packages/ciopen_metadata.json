@@ -1,11 +1,11 @@
 {
   "name": "ciopen",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "summary": "Open CI pipelines from your current Git repository",
-  "author": "Mel Cadano",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ciopen-1.0.1.tar.gz",
-  "download_time": "2026-03-01T11:02:42.677208",
+  "download_filename": "ciopen-0.1.0.tar.gz",
+  "download_time": "2026-03-02T12:06:11.397790",
   "package_url": "https://pypi.org/project/ciopen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "torqueclient",
+  "version": "0.8.4",
+  "summary": "Python client for mediawiki/torque",
+  "author": "Open Tech Strategies, LLC",
+  "license": null,
+  "home_page": "https://code.librehq.com/ots/mediawiki/torque",
+  "download_filename": "torqueclient-0.8.4.tar.gz",
+  "download_time": "2026-03-02T12:06:29.188397",
+  "package_url": "https://pypi.org/project/torqueclient/"
+}

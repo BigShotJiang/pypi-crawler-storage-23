@@ -1,0 +1,11 @@
+{
+  "name": "mangen",
+  "version": "1.0.0",
+  "summary": "Fast and reliable manifest generator for ML/DL datasets",
+  "author": "ash1ra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mangen-1.0.0.tar.gz",
+  "download_time": "2026-03-02T12:06:46.233445",
+  "package_url": "https://pypi.org/project/mangen/"
+}

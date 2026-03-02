@@ -1,0 +1,11 @@
+{
+  "name": "intermod-metronomo",
+  "version": "1.1.0",
+  "summary": "Python API for the Metronomo hardware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intermod_metronomo-1.1.0.tar.gz",
+  "download_time": "2026-03-02T12:06:07.892692",
+  "package_url": "https://pypi.org/project/intermod-metronomo/"
+}

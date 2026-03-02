@@ -1,11 +1,11 @@
 {
   "name": "wiremock-mock",
-  "version": "2026.3.2",
+  "version": "2026.3.2.1",
   "summary": "Serve WireMock stubs as a mock with respx.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wiremock_mock-2026.3.2.tar.gz",
-  "download_time": "2026-03-02T11:13:14.966757",
+  "download_filename": "wiremock_mock-2026.3.2.1.tar.gz",
+  "download_time": "2026-03-02T12:06:52.239862",
   "package_url": "https://pypi.org/project/wiremock-mock/"
 }

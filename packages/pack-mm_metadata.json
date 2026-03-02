@@ -1,0 +1,11 @@
+{
+  "name": "pack-mm",
+  "version": "0.1.14",
+  "summary": "packing materials and molecules in boxes using for machine learnt interatomic potentials",
+  "author": "Alin M. Elena",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pack_mm-0.1.14.tar.gz",
+  "download_time": "2026-03-02T12:06:09.672179",
+  "package_url": "https://pypi.org/project/pack-mm/"
+}

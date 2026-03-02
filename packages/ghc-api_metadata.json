@@ -1,0 +1,11 @@
+{
+  "name": "ghc-api",
+  "version": "1.0.8",
+  "summary": "GitHub Copilot API Proxy - A Flask application serving as a proxy server for GitHub Copilot API",
+  "author": "sxwxs",
+  "license": null,
+  "home_page": "https://github.com/sxwxs/ghc-api",
+  "download_filename": "ghc_api-1.0.8.tar.gz",
+  "download_time": "2026-03-02T12:06:19.451932",
+  "package_url": "https://pypi.org/project/ghc-api/"
+}

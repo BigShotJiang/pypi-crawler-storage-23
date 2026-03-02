@@ -1,11 +1,11 @@
 {
   "name": "casambi-web-controller",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Using BLE to control a Casambi-based home lighting system via a web interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "casambi_web_controller-0.2.0.tar.gz",
-  "download_time": "2026-02-21T11:16:11.710436",
+  "download_filename": "casambi_web_controller-0.4.0.tar.gz",
+  "download_time": "2026-03-02T12:06:36.991223",
   "package_url": "https://pypi.org/project/casambi-web-controller/"
 }

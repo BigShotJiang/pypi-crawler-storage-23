@@ -1,0 +1,11 @@
+{
+  "name": "JoyPi-Advanced-RaspberryPi",
+  "version": "2.0.0",
+  "summary": "This library enables usage of some sensors and actors of the Joy-Pi Advanced on the Raspberry Pi.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "joypi_advanced_raspberrypi-2.0.0.tar.gz",
+  "download_time": "2026-03-02T12:06:16.582546",
+  "package_url": "https://pypi.org/project/JoyPi-Advanced-RaspberryPi/"
+}

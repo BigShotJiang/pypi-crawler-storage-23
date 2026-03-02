@@ -1,0 +1,11 @@
+{
+  "name": "Antares-Launcher",
+  "version": "1.4.7",
+  "summary": "Antares_Launcher to run Antares on a remote linux machine",
+  "author": "RTE, Antares Web Team",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/AntaresSimulatorTeam/antares-launcher.git",
+  "download_filename": "antares_launcher-1.4.7.tar.gz",
+  "download_time": "2026-03-02T12:06:20.307930",
+  "package_url": "https://pypi.org/project/Antares-Launcher/"
+}
