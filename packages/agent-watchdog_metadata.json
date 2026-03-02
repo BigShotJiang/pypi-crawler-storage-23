@@ -1,0 +1,11 @@
+{
+  "name": "agent-watchdog",
+  "version": "0.1.2",
+  "summary": "A circuit breaker for AI agent runs: loop detection, budget guards, graceful halts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_watchdog-0.1.2.tar.gz",
+  "download_time": "2026-03-02T05:11:56.574243",
+  "package_url": "https://pypi.org/project/agent-watchdog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "license-comply",
+  "version": "1.0.0",
+  "summary": "Open-source license compliance analysis — risk ratings, plain-English explanations, and remediation steps for your project type.",
+  "author": "Sam Clearwater",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "license_comply-1.0.0.tar.gz",
+  "download_time": "2026-03-02T05:12:04.496482",
+  "package_url": "https://pypi.org/project/license-comply/"
+}

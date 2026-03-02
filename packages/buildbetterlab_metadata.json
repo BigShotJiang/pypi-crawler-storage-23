@@ -1,0 +1,11 @@
+{
+  "name": "buildbetterlab",
+  "version": "0.1.1",
+  "summary": "Utility to convert datetime between different timezones",
+  "author": "Siddharth More",
+  "license": null,
+  "home_page": null,
+  "download_filename": "buildbetterlab-0.1.1.tar.gz",
+  "download_time": "2026-03-02T05:12:24.832559",
+  "package_url": "https://pypi.org/project/buildbetterlab/"
+}

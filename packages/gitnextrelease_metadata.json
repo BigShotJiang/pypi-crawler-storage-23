@@ -1,0 +1,11 @@
+{
+  "name": "gitnextrelease",
+  "version": "0.8.7",
+  "summary": "A git release/feature/fix branch management cli. This package is used to release itself.",
+  "author": "Joe Siwiak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitnextrelease-0.8.7.tar.gz",
+  "download_time": "2026-03-02T05:11:58.114451",
+  "package_url": "https://pypi.org/project/gitnextrelease/"
+}

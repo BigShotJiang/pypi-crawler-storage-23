@@ -1,0 +1,11 @@
+{
+  "name": "tutorbot-safety-agent",
+  "version": "0.1.1",
+  "summary": "Safety Agent for evaluating TutorBot AI responses",
+  "author": "TutorBot Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tutorbot_safety_agent-0.1.1.tar.gz",
+  "download_time": "2026-03-02T05:12:07.574695",
+  "package_url": "https://pypi.org/project/tutorbot-safety-agent/"
+}

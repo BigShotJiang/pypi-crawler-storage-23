@@ -1,11 +1,11 @@
 {
   "name": "simmer-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server that gives AI agents Simmer's API docs and error troubleshooting",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simmer_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-27T07:15:01.372667",
+  "download_filename": "simmer_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-02T05:12:11.182444",
   "package_url": "https://pypi.org/project/simmer-mcp/"
 }

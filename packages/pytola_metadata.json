@@ -1,11 +1,11 @@
 {
   "name": "pytola",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Pytola: Python Tools and Applications Collection - A comprehensive suite of Python utilities and applications",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "pytola-0.1.4.tar.gz",
-  "download_time": "2026-03-01T14:47:42.072834",
+  "download_filename": "pytola-0.1.5.tar.gz",
+  "download_time": "2026-03-02T05:12:06.040162",
   "package_url": "https://pypi.org/project/pytola/"
 }

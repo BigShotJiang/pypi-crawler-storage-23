@@ -1,0 +1,11 @@
+{
+  "name": "mcp-documents-reader",
+  "version": "1.2.0",
+  "summary": "An MCP enabled multi-format document reader supporting DOCX, PDF, TXT, and Excel files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_documents_reader-1.2.0.tar.gz",
+  "download_time": "2026-03-02T05:12:18.585927",
+  "package_url": "https://pypi.org/project/mcp-documents-reader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-iam",
+  "version": "0.1.0",
+  "summary": "Hanzo MCP tool for IAM — identity, access management, users, orgs, roles, and permissions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_iam-0.1.0.tar.gz",
+  "download_time": "2026-03-02T05:12:15.421272",
+  "package_url": "https://pypi.org/project/hanzo-tools-iam/"
+}

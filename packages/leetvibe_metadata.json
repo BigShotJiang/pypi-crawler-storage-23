@@ -1,0 +1,11 @@
+{
+  "name": "leetvibe",
+  "version": "0.1.1",
+  "summary": "AI Pair Programming CLI for LeetCode — powered by Mistral Vibe",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leetvibe-0.1.1.tar.gz",
+  "download_time": "2026-03-02T05:11:59.686567",
+  "package_url": "https://pypi.org/project/leetvibe/"
+}

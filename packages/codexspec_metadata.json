@@ -1,11 +1,11 @@
 {
   "name": "codexspec",
-  "version": "0.3.10",
+  "version": "0.3.13",
   "summary": "CodexSpec - A Spec-Driven Development (SDD) toolkit for Claude Code",
   "author": "CodexSpec Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codexspec-0.3.10.tar.gz",
-  "download_time": "2026-02-28T05:57:21.738675",
+  "download_filename": "codexspec-0.3.13.tar.gz",
+  "download_time": "2026-03-02T05:12:24.319458",
   "package_url": "https://pypi.org/project/codexspec/"
 }
