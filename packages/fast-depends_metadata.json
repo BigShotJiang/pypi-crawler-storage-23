@@ -1,0 +1,11 @@
+{
+  "name": "fast-depends",
+  "version": "3.0.8",
+  "summary": "FastDepends - extracted and cleared from HTTP domain logic FastAPI Dependency Injection System. Async and sync are both supported.",
+  "author": "Nikita Pastukhov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_depends-3.0.8.tar.gz",
+  "download_time": "2026-03-02T19:54:39.598360",
+  "package_url": "https://pypi.org/project/fast-depends/"
+}

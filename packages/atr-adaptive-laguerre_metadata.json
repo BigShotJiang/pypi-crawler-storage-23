@@ -1,0 +1,11 @@
+{
+  "name": "atr-adaptive-laguerre",
+  "version": "2.5.0",
+  "summary": "ATR-adaptive Laguerre RSI for non-anticipative feature engineering in seq-2-seq forecasting",
+  "author": "Eon Labs Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atr_adaptive_laguerre-2.5.0.tar.gz",
+  "download_time": "2026-03-02T19:54:23.270563",
+  "package_url": "https://pypi.org/project/atr-adaptive-laguerre/"
+}

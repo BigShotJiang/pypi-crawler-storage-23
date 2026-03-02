@@ -1,0 +1,11 @@
+{
+  "name": "vexray",
+  "version": "0.2.2",
+  "summary": "Interactive ML/DL concept explorer — learn with live graphs, code, and playgrounds",
+  "author": "VexRay",
+  "license": null,
+  "home_page": "https://github.com/vexray/vexray",
+  "download_filename": "vexray-0.2.2.tar.gz",
+  "download_time": "2026-03-02T19:54:38.492995",
+  "package_url": "https://pypi.org/project/vexray/"
+}

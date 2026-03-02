@@ -1,0 +1,11 @@
+{
+  "name": "vfairness",
+  "version": "0.0.1",
+  "summary": "End-to-end ML fairness library: bias detection, fairness-aware training, calibration, threshold optimization, evaluation metrics with confidence intervals, drift monitoring, CI/CD gates, and A/B testing for fairness interventions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vfairness-0.0.1.tar.gz",
+  "download_time": "2026-03-02T19:54:53.077658",
+  "package_url": "https://pypi.org/project/vfairness/"
+}

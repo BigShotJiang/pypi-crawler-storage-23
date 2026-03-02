@@ -1,11 +1,11 @@
 {
   "name": "brainfile",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python library for the Brainfile task management protocol",
   "author": "Brainfile Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "brainfile-0.3.0.tar.gz",
-  "download_time": "2026-03-02T16:13:06.894805",
+  "download_filename": "brainfile-0.4.0.tar.gz",
+  "download_time": "2026-03-02T19:55:02.986442",
   "package_url": "https://pypi.org/project/brainfile/"
 }

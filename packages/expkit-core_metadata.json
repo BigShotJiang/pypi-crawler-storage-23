@@ -1,0 +1,11 @@
+{
+  "name": "expkit-core",
+  "version": "1.0.7",
+  "summary": "Package for managing research experiments text results.",
+  "author": "Goncalo Faria",
+  "license": null,
+  "home_page": "https://github.com/goncalorafaria/expkit-core",
+  "download_filename": "expkit_core-1.0.7.tar.gz",
+  "download_time": "2026-03-02T19:54:48.799554",
+  "package_url": "https://pypi.org/project/expkit-core/"
+}

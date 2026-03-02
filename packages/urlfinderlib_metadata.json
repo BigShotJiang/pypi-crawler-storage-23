@@ -1,0 +1,11 @@
+{
+  "name": "urlfinderlib",
+  "version": "0.20.1",
+  "summary": "Library to find URLs and check their validity.",
+  "author": "Matthew Wilson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "urlfinderlib-0.20.1.tar.gz",
+  "download_time": "2026-03-02T19:54:46.145878",
+  "package_url": "https://pypi.org/project/urlfinderlib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "naas-abi-core",
-  "version": "1.18.1",
+  "version": "1.18.2",
   "summary": "Abi framework allowing you to build your AI system.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "naas_abi_core-1.18.1.tar.gz",
-  "download_time": "2026-03-02T16:13:11.563492",
+  "download_filename": "naas_abi_core-1.18.2.tar.gz",
+  "download_time": "2026-03-02T19:54:17.757406",
   "package_url": "https://pypi.org/project/naas-abi-core/"
 }

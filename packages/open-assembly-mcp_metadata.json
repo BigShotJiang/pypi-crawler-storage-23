@@ -1,0 +1,11 @@
+{
+  "name": "open-assembly-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server for Korean National Assembly Open API (open.assembly.go.kr) — bills, members, votes, committee composition, and per-member vote records",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_assembly_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-02T19:54:29.807781",
+  "package_url": "https://pypi.org/project/open-assembly-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apisql",
+  "version": "0.8.0",
+  "summary": "A flask blueprint providing a read-lny API for querying RDBMS",
+  "author": "Adam Kariv",
+  "license": "MIT",
+  "home_page": "https://github.com/dataspot/apisql",
+  "download_filename": "apisql-0.8.0.tar.gz",
+  "download_time": "2026-03-02T19:54:30.349936",
+  "package_url": "https://pypi.org/project/apisql/"
+}
