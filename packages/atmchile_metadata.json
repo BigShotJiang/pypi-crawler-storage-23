@@ -1,11 +1,11 @@
 {
   "name": "atmchile",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python library to obtain climate and air quality data from monitoring stations in Chile",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "atmchile-0.2.0.tar.gz",
-  "download_time": "2026-02-27T23:26:18.371361",
+  "download_filename": "atmchile-0.2.1.tar.gz",
+  "download_time": "2026-03-02T01:17:13.001008",
   "package_url": "https://pypi.org/project/atmchile/"
 }

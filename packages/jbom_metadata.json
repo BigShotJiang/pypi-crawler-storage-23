@@ -1,11 +1,11 @@
 {
   "name": "jbom",
-  "version": "6.15.0",
+  "version": "6.16.0",
   "summary": "Intelligent KiCad Bill of Materials generator with inventory matching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jbom-6.15.0.tar.gz",
-  "download_time": "2026-03-01T06:11:32.613029",
+  "download_filename": "jbom-6.16.0.tar.gz",
+  "download_time": "2026-03-02T01:17:48.994608",
   "package_url": "https://pypi.org/project/jbom/"
 }

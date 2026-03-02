@@ -1,0 +1,11 @@
+{
+  "name": "pyrwgps",
+  "version": "0.2.1",
+  "summary": "A Python client for the RideWithGPS API. Not affiliated with RideWithGPS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrwgps-0.2.1.tar.gz",
+  "download_time": "2026-03-02T01:17:31.282120",
+  "package_url": "https://pypi.org/project/pyrwgps/"
+}

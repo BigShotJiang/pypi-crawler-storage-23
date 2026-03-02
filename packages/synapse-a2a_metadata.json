@@ -1,11 +1,11 @@
 {
   "name": "synapse-a2a",
-  "version": "0.8.2",
+  "version": "0.8.4",
   "summary": "Agent-to-Agent communication protocol for CLI agents",
   "author": "Synapse A2A Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synapse_a2a-0.8.2.tar.gz",
-  "download_time": "2026-03-01T01:20:18.323106",
+  "download_filename": "synapse_a2a-0.8.4.tar.gz",
+  "download_time": "2026-03-02T01:17:14.045192",
   "package_url": "https://pypi.org/project/synapse-a2a/"
 }

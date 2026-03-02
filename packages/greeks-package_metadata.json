@@ -1,0 +1,11 @@
+{
+  "name": "greeks-package",
+  "version": "1.1.1",
+  "summary": "Black-Scholes option Greeks made easy - comprehensive Greek calculations for European options",
+  "author": "JR Concepcion",
+  "license": null,
+  "home_page": "https://github.com/JRCon1/greeks-package",
+  "download_filename": "greeks_package-1.1.1.tar.gz",
+  "download_time": "2026-03-02T01:17:35.929092",
+  "package_url": "https://pypi.org/project/greeks-package/"
+}

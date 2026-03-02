@@ -1,11 +1,11 @@
 {
   "name": "agenticore",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Claude Code runner and orchestrator — thin job lifecycle, repo management, and OTEL pipeline",
   "author": "The Cloud Clock Work",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agenticore-0.4.0.tar.gz",
-  "download_time": "2026-03-01T22:18:52.961597",
+  "download_filename": "agenticore-0.4.1.tar.gz",
+  "download_time": "2026-03-02T01:17:07.711741",
   "package_url": "https://pypi.org/project/agenticore/"
 }

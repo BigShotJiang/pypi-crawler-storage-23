@@ -1,0 +1,11 @@
+{
+  "name": "nose2",
+  "version": "0.16.0",
+  "summary": "unittest with plugins",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "nose2-0.16.0.tar.gz",
+  "download_time": "2026-03-02T01:17:44.288624",
+  "package_url": "https://pypi.org/project/nose2/"
+}

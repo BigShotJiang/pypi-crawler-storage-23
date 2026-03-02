@@ -1,11 +1,11 @@
 {
   "name": "chronow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Chronow deterministic temporal engine Python bindings (CLI bridge)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chronow-0.2.0.tar.gz",
-  "download_time": "2026-02-28T03:23:41.915345",
+  "download_filename": "chronow-0.2.1.tar.gz",
+  "download_time": "2026-03-02T01:17:08.743730",
   "package_url": "https://pypi.org/project/chronow/"
 }

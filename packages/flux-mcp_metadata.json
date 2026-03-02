@@ -1,11 +1,11 @@
 {
   "name": "flux-mcp",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "Agentic MCP tools for Flux Framework and HPC",
   "author": "Vanessa Sochat",
   "license": "LICENSE",
   "home_page": "https://github.com/converged-computing/flux-mcp",
-  "download_filename": "flux_mcp-0.0.18.tar.gz",
-  "download_time": "2026-02-28T22:17:18.298725",
+  "download_filename": "flux_mcp-0.0.19.tar.gz",
+  "download_time": "2026-03-02T01:17:09.777457",
   "package_url": "https://pypi.org/project/flux-mcp/"
 }

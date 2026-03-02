@@ -1,11 +1,11 @@
 {
   "name": "shish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Async shell command library with operator-based DSL",
   "author": "Matthew Mazzanti",
   "license": null,
   "home_page": null,
-  "download_filename": "shish-0.0.1.tar.gz",
-  "download_time": "2026-02-24T06:16:28.398348",
+  "download_filename": "shish-0.0.2.tar.gz",
+  "download_time": "2026-03-02T01:17:20.424221",
   "package_url": "https://pypi.org/project/shish/"
 }
