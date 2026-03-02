@@ -1,0 +1,11 @@
+{
+  "name": "pyddff",
+  "version": "1.0.2",
+  "summary": "Pure python interface to reading ddff files",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/dueca/dueca",
+  "download_filename": "pyddff-1.0.2.tar.gz",
+  "download_time": "2026-03-02T08:40:27.015282",
+  "package_url": "https://pypi.org/project/pyddff/"
+}

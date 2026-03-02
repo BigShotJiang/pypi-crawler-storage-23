@@ -1,0 +1,11 @@
+{
+  "name": "sable-fortran",
+  "version": "0.1.4",
+  "summary": "An uncompromising Fortran formatter, inspired by Black",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sable_fortran-0.1.4.tar.gz",
+  "download_time": "2026-03-02T08:40:42.618876",
+  "package_url": "https://pypi.org/project/sable-fortran/"
+}

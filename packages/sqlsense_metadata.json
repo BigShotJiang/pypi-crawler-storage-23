@@ -1,11 +1,11 @@
 {
   "name": "sqlsense",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Safe, audited SQL for AI agents via MCP",
   "author": "SQLSense Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlsense-0.1.2.tar.gz",
-  "download_time": "2026-03-02T06:10:55.109915",
+  "download_filename": "sqlsense-0.1.3.tar.gz",
+  "download_time": "2026-03-02T08:41:00.386194",
   "package_url": "https://pypi.org/project/sqlsense/"
 }

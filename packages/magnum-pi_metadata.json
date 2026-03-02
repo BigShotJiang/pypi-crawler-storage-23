@@ -1,0 +1,11 @@
+{
+  "name": "magnum-pi",
+  "version": "2026.3.1",
+  "summary": "Private investigator for Magnum Energy inverter/charger RS-485 networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magnum_pi-2026.3.1.tar.gz",
+  "download_time": "2026-03-02T08:40:30.768891",
+  "package_url": "https://pypi.org/project/magnum-pi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ecutest-code",
+  "version": "2026.1.0.382",
+  "summary": "Library ecu.test code for ecu.test",
+  "author": "tracetronic GmbH",
+  "license": "LicenseRef-tracetronic-ecutest-code-license",
+  "home_page": "http://www.tracetronic.de",
+  "download_filename": "ecutest_code-2026.1.0.382-py3-none-any.whl",
+  "download_time": "2026-03-02T08:40:24.831634",
+  "package_url": "https://pypi.org/project/ecutest-code/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agenttest-py",
+  "version": "0.1.0",
+  "summary": "The pytest of AI agents. Eval-driven testing for LLM applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agenttest_py-0.1.0.tar.gz",
+  "download_time": "2026-03-02T08:41:08.422577",
+  "package_url": "https://pypi.org/project/agenttest-py/"
+}

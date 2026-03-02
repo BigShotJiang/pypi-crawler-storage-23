@@ -1,0 +1,11 @@
+{
+  "name": "model-graph-drawer",
+  "version": "0.1.0",
+  "summary": "Draw interaction graphs from systems biology reaction models",
+  "author": "William Lövfors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_graph_drawer-0.1.0.tar.gz",
+  "download_time": "2026-03-02T08:40:58.794979",
+  "package_url": "https://pypi.org/project/model-graph-drawer/"
+}

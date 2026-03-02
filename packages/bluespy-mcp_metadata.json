@@ -1,0 +1,11 @@
+{
+  "name": "bluespy-mcp",
+  "version": "1.2.0",
+  "summary": "MCP server for BlueSPY Bluetooth LE protocol analyzer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bluespy_mcp-1.2.0.tar.gz",
+  "download_time": "2026-03-02T08:41:06.820975",
+  "package_url": "https://pypi.org/project/bluespy-mcp/"
+}

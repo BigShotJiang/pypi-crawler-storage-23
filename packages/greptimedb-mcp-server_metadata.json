@@ -1,0 +1,11 @@
+{
+  "name": "greptimedb-mcp-server",
+  "version": "0.4.7",
+  "summary": "MCP server for GreptimeDB with SQL/TQL/PromQL support, sensitive data masking, and prompt templates for observability data analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greptimedb_mcp_server-0.4.7.tar.gz",
+  "download_time": "2026-03-02T08:41:06.286702",
+  "package_url": "https://pypi.org/project/greptimedb-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mectl",
+  "version": "0.1.2",
+  "summary": "A command line tool for downloading files from MinIO",
+  "author": "luxu1220",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mectl-0.1.2.tar.gz",
+  "download_time": "2026-03-02T08:40:55.594803",
+  "package_url": "https://pypi.org/project/mectl/"
+}

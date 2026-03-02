@@ -1,0 +1,11 @@
+{
+  "name": "shopcloud-eventbus",
+  "version": "1.6.0",
+  "summary": "CLI tool for the Shopcloud EventBus",
+  "author": "Konstantin Stoldt",
+  "license": "MIT",
+  "home_page": "https://github.com/Talk-Point/shopcloud-eventbus",
+  "download_filename": "shopcloud_eventbus-1.6.0.tar.gz",
+  "download_time": "2026-03-02T08:41:09.488937",
+  "package_url": "https://pypi.org/project/shopcloud-eventbus/"
+}

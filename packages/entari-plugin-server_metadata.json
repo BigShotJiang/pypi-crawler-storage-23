@@ -1,0 +1,11 @@
+{
+  "name": "entari-plugin-server",
+  "version": "0.6.2",
+  "summary": "Entari plugin for running Satori Server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entari_plugin_server-0.6.2.tar.gz",
+  "download_time": "2026-03-02T08:40:45.326292",
+  "package_url": "https://pypi.org/project/entari-plugin-server/"
+}

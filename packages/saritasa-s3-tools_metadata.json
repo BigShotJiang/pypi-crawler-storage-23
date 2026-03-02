@@ -1,0 +1,11 @@
+{
+  "name": "saritasa-s3-tools",
+  "version": "0.6.1",
+  "summary": "Tools For S3 Used By Saritasa",
+  "author": "Saritasa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "saritasa_s3_tools-0.6.1.tar.gz",
+  "download_time": "2026-03-02T08:40:27.548133",
+  "package_url": "https://pypi.org/project/saritasa-s3-tools/"
+}

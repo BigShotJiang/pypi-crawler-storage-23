@@ -1,0 +1,11 @@
+{
+  "name": "satisfactory-api-client",
+  "version": "0.2.0",
+  "summary": "A Python Package for interacting with the Satisfactory Dedicated Server API",
+  "author": "Programmer-Timmy",
+  "license": "MIT",
+  "home_page": "https://github.com/Programmer-Timmy/satisfactory-dedicated-server-api-SDK",
+  "download_filename": "satisfactory_api_client-0.2.0.tar.gz",
+  "download_time": "2026-03-02T08:40:52.913785",
+  "package_url": "https://pypi.org/project/satisfactory-api-client/"
+}
