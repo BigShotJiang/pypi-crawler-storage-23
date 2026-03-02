@@ -1,0 +1,11 @@
+{
+  "name": "refua-wetlab",
+  "version": "0.7.0",
+  "summary": "Unified API layer for wet lab automation across multiple providers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "refua_wetlab-0.7.0.tar.gz",
+  "download_time": "2026-03-02T08:03:23.930175",
+  "package_url": "https://pypi.org/project/refua-wetlab/"
+}

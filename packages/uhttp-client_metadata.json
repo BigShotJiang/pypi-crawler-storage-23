@@ -1,11 +1,11 @@
 {
   "name": "uhttp-client",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Micro HTTP client for Python and MicroPython",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uhttp_client-2.2.0.tar.gz",
-  "download_time": "2026-03-01T21:03:21.333171",
+  "download_filename": "uhttp_client-2.2.1.tar.gz",
+  "download_time": "2026-03-02T08:03:21.342537",
   "package_url": "https://pypi.org/project/uhttp-client/"
 }

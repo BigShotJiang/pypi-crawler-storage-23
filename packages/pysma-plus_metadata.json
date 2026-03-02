@@ -1,0 +1,11 @@
+{
+  "name": "pysma-plus",
+  "version": "0.4",
+  "summary": "Library to interface SMA Devices via Speedwire, WebConnect, EnnexOS and Energy Meter Protocol",
+  "author": "Sven Bursch-Osewold, Johann Kellerman and other",
+  "license": null,
+  "home_page": "https://github.com/littleyoda/pysma",
+  "download_filename": "pysma_plus-0.4.tar.gz",
+  "download_time": "2026-03-02T08:03:21.854163",
+  "package_url": "https://pypi.org/project/pysma-plus/"
+}

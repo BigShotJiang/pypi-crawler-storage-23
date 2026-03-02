@@ -1,0 +1,11 @@
+{
+  "name": "ioi-graph",
+  "version": "0.1.0",
+  "summary": "IOI contestant graph — scrape, store, and analyze IOI contestant relationships",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ioi_graph-0.1.0.tar.gz",
+  "download_time": "2026-03-02T08:02:55.462037",
+  "package_url": "https://pypi.org/project/ioi-graph/"
+}

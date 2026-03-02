@@ -1,0 +1,11 @@
+{
+  "name": "refua-regulatory",
+  "version": "0.7.0",
+  "summary": "Regulatory and audit evidence packaging for Refua campaign decisions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "refua_regulatory-0.7.0.tar.gz",
+  "download_time": "2026-03-02T08:03:24.959557",
+  "package_url": "https://pypi.org/project/refua-regulatory/"
+}

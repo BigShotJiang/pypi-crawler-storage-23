@@ -1,0 +1,11 @@
+{
+  "name": "rustypca",
+  "version": "0.1.0",
+  "summary": "Probabilistic PCA with missing value support using Rust and PyO3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustypca-0.1.0.tar.gz",
+  "download_time": "2026-03-02T08:03:22.899785",
+  "package_url": "https://pypi.org/project/rustypca/"
+}

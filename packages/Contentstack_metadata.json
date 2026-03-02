@@ -1,0 +1,11 @@
+{
+  "name": "Contentstack",
+  "version": "2.5.0",
+  "summary": "Contentstack is a headless CMS with an API-first approach.",
+  "author": "Contentstack",
+  "license": "MIT",
+  "home_page": "https://github.com/contentstack/contentstack-python",
+  "download_filename": "contentstack-2.5.0.tar.gz",
+  "download_time": "2026-03-02T08:02:57.570925",
+  "package_url": "https://pypi.org/project/Contentstack/"
+}
