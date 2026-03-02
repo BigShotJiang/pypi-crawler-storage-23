@@ -1,0 +1,11 @@
+{
+  "name": "rule-migration-agent",
+  "version": "1.2.1",
+  "summary": "Bidirectional conversion tool for migrating between Cursor rules and Claude Skills",
+  "author": "patrikmichi",
+  "license": "MIT",
+  "home_page": "https://github.com/patrikmichi/rule-migration-agent",
+  "download_filename": "rule_migration_agent-1.2.1.tar.gz",
+  "download_time": "2026-03-02T20:30:08.850559",
+  "package_url": "https://pypi.org/project/rule-migration-agent/"
+}

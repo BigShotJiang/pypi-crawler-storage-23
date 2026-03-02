@@ -1,0 +1,11 @@
+{
+  "name": "mo-logs",
+  "version": "8.702.26061",
+  "summary": "More Logs! Structured Logging and Exception Handling",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-logs",
+  "download_filename": "mo_logs-8.702.26061.tar.gz",
+  "download_time": "2026-03-02T20:30:25.545649",
+  "package_url": "https://pypi.org/project/mo-logs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instmodel",
+  "version": "1.2.2",
+  "summary": "A package that provides advanced coding tools for training and deploying AI",
+  "author": "Joao Ferreira",
+  "license": "MIT",
+  "home_page": "https://github.com/Joaoprcf/instmodel",
+  "download_filename": "instmodel-1.2.2.tar.gz",
+  "download_time": "2026-03-02T20:30:41.907201",
+  "package_url": "https://pypi.org/project/instmodel/"
+}

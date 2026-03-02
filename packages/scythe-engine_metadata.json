@@ -1,0 +1,11 @@
+{
+  "name": "scythe-engine",
+  "version": "1.0.0",
+  "summary": "This is a repository for managing embarassingly parallel experiments with Hatchet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scythe_engine-1.0.0.tar.gz",
+  "download_time": "2026-03-02T20:30:48.715841",
+  "package_url": "https://pypi.org/project/scythe-engine/"
+}

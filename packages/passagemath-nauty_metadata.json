@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-nauty",
+  "version": "10.8.1",
+  "summary": "passagemath: Find automorphism groups of graphs, generate non-isomorphic graphs with nauty",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_nauty-10.8.1.tar.gz",
+  "download_time": "2026-03-02T20:30:15.932582",
+  "package_url": "https://pypi.org/project/passagemath-nauty/"
+}

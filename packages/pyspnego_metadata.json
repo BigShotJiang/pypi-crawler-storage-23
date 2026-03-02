@@ -1,0 +1,11 @@
+{
+  "name": "pyspnego",
+  "version": "0.12.1",
+  "summary": "Windows Negotiate Authentication Client and Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspnego-0.12.1.tar.gz",
+  "download_time": "2026-03-02T20:30:51.985904",
+  "package_url": "https://pypi.org/project/pyspnego/"
+}

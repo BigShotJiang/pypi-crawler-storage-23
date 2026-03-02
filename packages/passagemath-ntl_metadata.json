@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-ntl",
+  "version": "10.8.1",
+  "summary": "passagemath: Computational Number Theory with NTL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_ntl-10.8.1.tar.gz",
+  "download_time": "2026-03-02T20:30:14.233150",
+  "package_url": "https://pypi.org/project/passagemath-ntl/"
+}

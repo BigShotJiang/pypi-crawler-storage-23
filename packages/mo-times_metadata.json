@@ -1,0 +1,11 @@
+{
+  "name": "mo-times",
+  "version": "5.702.26061",
+  "summary": "More Time! Time as a vector space, the way it was meant to be.",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-times",
+  "download_filename": "mo_times-5.702.26061.tar.gz",
+  "download_time": "2026-03-02T20:30:13.703916",
+  "package_url": "https://pypi.org/project/mo-times/"
+}

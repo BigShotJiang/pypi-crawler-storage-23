@@ -1,0 +1,11 @@
+{
+  "name": "ductile-loads",
+  "version": "1.0.0",
+  "summary": "Loads processing tool for structural analysis — certified under DQMS",
+  "author": "Alex Pradas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ductile_loads-1.0.0.tar.gz",
+  "download_time": "2026-03-02T20:30:09.907765",
+  "package_url": "https://pypi.org/project/ductile-loads/"
+}
