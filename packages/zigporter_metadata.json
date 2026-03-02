@@ -1,11 +1,11 @@
 {
   "name": "zigporter",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "CLI toolkit for Zigbee device management in Home Assistant: migrate from ZHA to Zigbee2MQTT, rename entities, and fix stale registry entries",
   "author": "Even Nordstad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zigporter-0.2.1.tar.gz",
-  "download_time": "2026-03-01T23:01:36.443296",
+  "download_filename": "zigporter-0.3.0.tar.gz",
+  "download_time": "2026-03-02T16:12:50.850532",
   "package_url": "https://pypi.org/project/zigporter/"
 }

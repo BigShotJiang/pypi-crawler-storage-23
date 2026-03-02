@@ -1,0 +1,11 @@
+{
+  "name": "goodpoints",
+  "version": "0.4.2",
+  "summary": "Tools to generate concise high-quality summaries of a probability distribution",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/microsoft/goodpoints",
+  "download_filename": "goodpoints-0.4.2.tar.gz",
+  "download_time": "2026-03-02T16:12:47.222210",
+  "package_url": "https://pypi.org/project/goodpoints/"
+}

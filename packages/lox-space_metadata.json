@@ -1,11 +1,11 @@
 {
   "name": "lox-space",
-  "version": "0.1.0a29",
+  "version": "0.1.0a33",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lox_space-0.1.0a29.tar.gz",
-  "download_time": "2026-02-22T11:54:27.153184",
+  "download_filename": "lox_space-0.1.0a33.tar.gz",
+  "download_time": "2026-03-02T16:12:57.582231",
   "package_url": "https://pypi.org/project/lox-space/"
 }

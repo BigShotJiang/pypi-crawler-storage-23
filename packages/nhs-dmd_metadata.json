@@ -1,0 +1,11 @@
+{
+  "name": "nhs-dmd",
+  "version": "0.2.4b0",
+  "summary": "For handling data from the NHS DM+D, along with general prescription parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nhs_dmd-0.2.4b0.tar.gz",
+  "download_time": "2026-03-02T16:12:52.442225",
+  "package_url": "https://pypi.org/project/nhs-dmd/"
+}

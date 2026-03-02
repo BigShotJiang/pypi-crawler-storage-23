@@ -1,0 +1,11 @@
+{
+  "name": "transformer-lens",
+  "version": "2.17.0",
+  "summary": "An implementation of transformers tailored for mechanistic interpretability.",
+  "author": "Neel Nanda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transformer_lens-2.17.0.tar.gz",
+  "download_time": "2026-03-02T16:12:53.472903",
+  "package_url": "https://pypi.org/project/transformer-lens/"
+}

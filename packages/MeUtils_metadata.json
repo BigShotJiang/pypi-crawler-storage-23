@@ -1,11 +1,11 @@
 {
   "name": "MeUtils",
-  "version": "2026.2.23.20.42.6",
+  "version": "2026.3.3.0.3.37",
   "summary": "description",
   "author": "yuanjie",
   "license": "MIT License",
   "home_page": "https://github.com/yuanjie-ai/MeUtils",
-  "download_filename": "meutils-2026.2.23.20.42.6.tar.gz",
-  "download_time": "2026-02-23T12:49:10.107165",
+  "download_filename": "meutils-2026.3.3.0.3.37.tar.gz",
+  "download_time": "2026-03-02T16:13:19.884835",
   "package_url": "https://pypi.org/project/MeUtils/"
 }

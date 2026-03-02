@@ -1,0 +1,11 @@
+{
+  "name": "codex-sdk-unofficial",
+  "version": "0.1.1",
+  "summary": "Unofficial Python SDK for the OpenAI Codex CLI.",
+  "author": "Unofficial Community Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_sdk_unofficial-0.1.1.tar.gz",
+  "download_time": "2026-03-02T16:13:00.152948",
+  "package_url": "https://pypi.org/project/codex-sdk-unofficial/"
+}
