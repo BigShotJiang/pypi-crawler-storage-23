@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent-waldur",
+  "version": "0.9.4",
+  "summary": "Waldur-to-Waldur federation plugin for Waldur Site Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent_waldur-0.9.4.tar.gz",
+  "download_time": "2026-03-02T14:12:09.070271",
+  "package_url": "https://pypi.org/project/waldur-site-agent-waldur/"
+}

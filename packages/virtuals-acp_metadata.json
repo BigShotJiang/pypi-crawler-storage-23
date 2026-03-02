@@ -1,0 +1,11 @@
+{
+  "name": "virtuals-acp",
+  "version": "0.3.21",
+  "summary": "Agent Commerce Protocol Python SDK by Virtuals",
+  "author": "Steven Lee Soon Fatt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtuals_acp-0.3.21.tar.gz",
+  "download_time": "2026-03-02T14:12:28.483613",
+  "package_url": "https://pypi.org/project/virtuals-acp/"
+}

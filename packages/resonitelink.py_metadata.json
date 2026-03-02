@@ -1,0 +1,11 @@
+{
+  "name": "resonitelink.py",
+  "version": "0.1.0b83",
+  "summary": "A Python wrapper for the ResoniteLink API",
+  "author": "JackTheFoxOtter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "resonitelink_py-0.1.0b83.tar.gz",
+  "download_time": "2026-03-02T14:11:52.567275",
+  "package_url": "https://pypi.org/project/resonitelink.py/"
+}

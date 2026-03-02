@@ -1,11 +1,11 @@
 {
   "name": "madblog",
-  "version": "0.6.7",
+  "version": "0.6.12",
   "summary": "A general-purpose framework for automation",
   "author": "Fabio Manganiello",
   "license": "AGPL-3.0-only",
   "home_page": "https://git.fabiomanganiello.com/madblog",
-  "download_filename": "madblog-0.6.7.tar.gz",
-  "download_time": "2026-03-02T00:00:38.772050",
+  "download_filename": "madblog-0.6.12.tar.gz",
+  "download_time": "2026-03-02T14:12:24.789961",
   "package_url": "https://pypi.org/project/madblog/"
 }

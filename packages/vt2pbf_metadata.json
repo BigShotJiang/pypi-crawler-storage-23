@@ -1,0 +1,11 @@
+{
+  "name": "vt2pbf",
+  "version": "0.3.0",
+  "summary": "Python library for encoding mapbox vector tiles into tile_pbf",
+  "author": "DenysMoskalenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vt2pbf-0.3.0.tar.gz",
+  "download_time": "2026-03-02T14:12:16.677627",
+  "package_url": "https://pypi.org/project/vt2pbf/"
+}

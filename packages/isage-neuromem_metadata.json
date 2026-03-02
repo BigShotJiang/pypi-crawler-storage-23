@@ -1,0 +1,11 @@
+{
+  "name": "isage-neuromem",
+  "version": "0.2.1.6",
+  "summary": "NeuroMem - Brain-inspired memory system for AI agents with multi-modal storage",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "isage_neuromem-0.2.1.6.tar.gz",
+  "download_time": "2026-03-02T14:12:21.562652",
+  "package_url": "https://pypi.org/project/isage-neuromem/"
+}

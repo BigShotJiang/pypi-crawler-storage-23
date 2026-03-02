@@ -1,0 +1,11 @@
+{
+  "name": "argumint",
+  "version": "1.1.0",
+  "summary": "A fresh new way to handle cli",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "argumint-1.1.0.tar.gz",
+  "download_time": "2026-03-02T14:12:16.156667",
+  "package_url": "https://pypi.org/project/argumint/"
+}
