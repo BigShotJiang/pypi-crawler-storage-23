@@ -1,0 +1,11 @@
+{
+  "name": "tritonclient",
+  "version": "2.66.0",
+  "summary": "Python client library and utilities for communicating with Triton Inference Server",
+  "author": "NVIDIA Inc.",
+  "license": "BSD",
+  "home_page": "https://developer.nvidia.com/nvidia-triton-inference-server",
+  "download_filename": "tritonclient-2.66.0-py3-none-any.whl",
+  "download_time": "2026-03-02T18:06:43.496716",
+  "package_url": "https://pypi.org/project/tritonclient/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiodukeenergy",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Asyncio Duke Energy",
   "author": "Jason Hunter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiodukeenergy-1.0.1.tar.gz",
-  "download_time": "2026-02-27T19:12:27.622330",
+  "download_filename": "aiodukeenergy-1.1.0.tar.gz",
+  "download_time": "2026-03-02T18:07:10.017348",
   "package_url": "https://pypi.org/project/aiodukeenergy/"
 }

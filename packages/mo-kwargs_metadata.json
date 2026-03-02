@@ -1,0 +1,11 @@
+{
+  "name": "mo-kwargs",
+  "version": "8.700.26061",
+  "summary": "Object destructuring of function parameters for Python!",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-kwargs",
+  "download_filename": "mo_kwargs-8.700.26061.tar.gz",
+  "download_time": "2026-03-02T18:07:12.588736",
+  "package_url": "https://pypi.org/project/mo-kwargs/"
+}

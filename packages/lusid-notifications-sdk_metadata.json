@@ -1,0 +1,11 @@
+{
+  "name": "lusid-notifications-sdk",
+  "version": "2.3.2",
+  "summary": "FINBOURNE Notifications API",
+  "author": "FINBOURNE Technology",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lusid_notifications_sdk-2.3.2.tar.gz",
+  "download_time": "2026-03-02T18:06:29.073965",
+  "package_url": "https://pypi.org/project/lusid-notifications-sdk/"
+}

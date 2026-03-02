@@ -1,0 +1,11 @@
+{
+  "name": "weaviate-engram",
+  "version": "0.2.0",
+  "summary": "Python SDK for Engram by Weaviate.",
+  "author": "Weaviate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weaviate_engram-0.2.0.tar.gz",
+  "download_time": "2026-03-02T18:06:29.585775",
+  "package_url": "https://pypi.org/project/weaviate-engram/"
+}

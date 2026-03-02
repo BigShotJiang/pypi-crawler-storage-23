@@ -1,0 +1,11 @@
+{
+  "name": "http-utils",
+  "version": "0.1.6",
+  "summary": "Utils for HTTP requests using the requests library",
+  "author": "Juntos Somos Mais",
+  "license": "MIT",
+  "home_page": "https://juntossomosmais.com.br",
+  "download_filename": "http_utils-0.1.6.tar.gz",
+  "download_time": "2026-03-02T18:06:35.810717",
+  "package_url": "https://pypi.org/project/http-utils/"
+}
