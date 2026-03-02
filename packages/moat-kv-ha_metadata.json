@@ -1,0 +1,11 @@
+{
+  "name": "moat-kv-ha",
+  "version": "0.5.11",
+  "summary": "Home Assistant connector for MoaT-KV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_kv_ha-0.5.11.tar.gz",
+  "download_time": "2026-03-02T10:34:03.547891",
+  "package_url": "https://pypi.org/project/moat-kv-ha/"
+}

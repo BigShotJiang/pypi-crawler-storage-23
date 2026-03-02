@@ -1,0 +1,11 @@
+{
+  "name": "moat-db-thing",
+  "version": "0.0.3",
+  "summary": "MoaT support for storing info about things",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_db_thing-0.0.3.tar.gz",
+  "download_time": "2026-03-02T10:34:09.416843",
+  "package_url": "https://pypi.org/project/moat-db-thing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-gpio",
+  "version": "0.9.5",
+  "summary": "Easy async access to GPIO pins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_gpio-0.9.5.tar.gz",
+  "download_time": "2026-03-02T10:33:58.753570",
+  "package_url": "https://pypi.org/project/moat-lib-gpio/"
+}

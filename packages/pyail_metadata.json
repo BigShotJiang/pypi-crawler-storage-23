@@ -1,0 +1,11 @@
+{
+  "name": "pyail",
+  "version": "0.0.13",
+  "summary": "Python API for AIL",
+  "author": "Aurelien Thirion (terrtia)",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/ail-project/PyAIL",
+  "download_filename": "pyail-0.0.13.tar.gz",
+  "download_time": "2026-03-02T10:33:46.587871",
+  "package_url": "https://pypi.org/project/pyail/"
+}

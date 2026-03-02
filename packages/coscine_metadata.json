@@ -1,0 +1,11 @@
+{
+  "name": "coscine",
+  "version": "0.11.13",
+  "summary": "The Coscine Python SDK provides a pythonic high-level interface to the Coscine REST API.",
+  "author": "RWTH Aachen University",
+  "license": null,
+  "home_page": "https://git.rwth-aachen.de/coscine/community-features/coscine-python-sdk",
+  "download_filename": "coscine-0.11.13.tar.gz",
+  "download_time": "2026-03-02T10:34:09.950779",
+  "package_url": "https://pypi.org/project/coscine/"
+}

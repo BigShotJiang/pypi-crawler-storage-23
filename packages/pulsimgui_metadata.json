@@ -1,11 +1,11 @@
 {
   "name": "pulsimgui",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "summary": "Cross-platform GUI for Pulsim power electronics simulator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulsimgui-0.5.4.tar.gz",
-  "download_time": "2026-03-01T22:54:47.619685",
+  "download_filename": "pulsimgui-0.6.0.tar.gz",
+  "download_time": "2026-03-02T10:33:54.911238",
   "package_url": "https://pypi.org/project/pulsimgui/"
 }

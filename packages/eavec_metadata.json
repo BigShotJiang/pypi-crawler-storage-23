@@ -1,0 +1,11 @@
+{
+  "name": "eavec",
+  "version": "0.1.0",
+  "summary": "SIMD-accelerated vector similarity search. 3-4x faster than FAISS at dim=384.",
+  "author": "Peter Lukka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eavec-0.1.0-py3-none-manylinux_2_17_aarch64.whl",
+  "download_time": "2026-03-02T10:33:53.249677",
+  "package_url": "https://pypi.org/project/eavec/"
+}

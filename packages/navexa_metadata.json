@@ -1,11 +1,11 @@
 {
   "name": "navexa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Navexa document indexing and reasoning workflows",
   "author": "Navexa Team",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "navexa-0.1.1.tar.gz",
-  "download_time": "2026-02-26T16:40:25.123710",
+  "download_filename": "navexa-0.1.2.tar.gz",
+  "download_time": "2026-03-02T10:34:34.226560",
   "package_url": "https://pypi.org/project/navexa/"
 }

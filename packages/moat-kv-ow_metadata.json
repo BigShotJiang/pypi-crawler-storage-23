@@ -1,0 +1,11 @@
+{
+  "name": "moat-kv-ow",
+  "version": "0.9.16",
+  "summary": "1wire connector for MoaT-KV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_kv_ow-0.9.16.tar.gz",
+  "download_time": "2026-03-02T10:34:10.482656",
+  "package_url": "https://pypi.org/project/moat-kv-ow/"
+}

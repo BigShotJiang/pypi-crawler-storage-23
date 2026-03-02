@@ -1,11 +1,11 @@
 {
   "name": "moat-kv",
-  "version": "0.71.26",
+  "version": "0.71.27",
   "summary": "A distributed no-master key-value store",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moat_kv-0.71.26.tar.gz",
-  "download_time": "2026-02-20T11:06:28.498993",
+  "download_filename": "moat_kv-0.71.27.tar.gz",
+  "download_time": "2026-03-02T10:34:06.218568",
   "package_url": "https://pypi.org/project/moat-kv/"
 }

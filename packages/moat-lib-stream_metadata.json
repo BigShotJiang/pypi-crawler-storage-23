@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-stream",
+  "version": "0.3.0",
+  "summary": "Stream infrastructure for MoaT applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_stream-0.3.0.tar.gz",
+  "download_time": "2026-03-02T10:34:13.150312",
+  "package_url": "https://pypi.org/project/moat-lib-stream/"
+}

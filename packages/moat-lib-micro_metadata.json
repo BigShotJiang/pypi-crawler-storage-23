@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-micro",
+  "version": "0.3.1",
+  "summary": "Compatibility layer for CPython/anyio and MicroPython/uasyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_micro-0.3.1.tar.gz",
+  "download_time": "2026-03-02T10:34:06.751491",
+  "package_url": "https://pypi.org/project/moat-lib-micro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libreflow.extensions.nebuleuse.utilities",
+  "version": "1.0.0",
+  "summary": null,
+  "author": "LFS",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/lfs.coop/libreflow/libreflow_launcher",
+  "download_filename": "libreflow_extensions_nebuleuse_utilities-1.0.0.tar.gz",
+  "download_time": "2026-03-02T10:33:41.546108",
+  "package_url": "https://pypi.org/project/libreflow.extensions.nebuleuse.utilities/"
+}

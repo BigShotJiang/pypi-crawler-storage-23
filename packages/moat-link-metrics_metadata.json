@@ -1,11 +1,11 @@
 {
   "name": "moat-link-metrics",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Metrics time-series connector for MoaT-Link",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moat_link_metrics-0.0.4.tar.gz",
-  "download_time": "2026-02-18T17:40:47.226337",
+  "download_filename": "moat_link_metrics-0.0.5.tar.gz",
+  "download_time": "2026-03-02T10:33:55.462866",
   "package_url": "https://pypi.org/project/moat-link-metrics/"
 }
