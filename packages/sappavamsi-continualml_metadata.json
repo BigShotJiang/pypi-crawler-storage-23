@@ -1,0 +1,11 @@
+{
+  "name": "sappavamsi-continualml",
+  "version": "0.1.0",
+  "summary": "A modular Python library for continual learning and incremental model training, designed for real-time, streaming, and adaptive machine learning systems.",
+  "author": "SAPPA VAMSI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sappavamsi_continualml-0.1.0.tar.gz",
+  "download_time": "2026-03-02T04:16:16.861329",
+  "package_url": "https://pypi.org/project/sappavamsi-continualml/"
+}

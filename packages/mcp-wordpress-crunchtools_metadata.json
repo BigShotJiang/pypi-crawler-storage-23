@@ -1,0 +1,11 @@
+{
+  "name": "mcp-wordpress-crunchtools",
+  "version": "0.4.1",
+  "summary": "Secure MCP server for WordPress content management",
+  "author": "crunchtools.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_wordpress_crunchtools-0.4.1.tar.gz",
+  "download_time": "2026-03-02T04:16:10.736692",
+  "package_url": "https://pypi.org/project/mcp-wordpress-crunchtools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aegypti",
+  "version": "0.3.7",
+  "summary": "Solve the Triangle-Free Problem for an undirected graph encoded in DIMACS format.",
+  "author": "Frank Vega",
+  "license": "MIT License",
+  "home_page": "https://github.com/frankvegadelgado/finlay",
+  "download_filename": "aegypti-0.3.7.tar.gz",
+  "download_time": "2026-03-02T04:15:54.287008",
+  "package_url": "https://pypi.org/project/aegypti/"
+}

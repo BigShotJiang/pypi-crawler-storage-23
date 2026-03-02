@@ -1,11 +1,11 @@
 {
   "name": "sandtrap",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Local Python sandbox using AST rewriting, with optional subprocess isolation and kernel-level enforcement.",
   "author": "ashenfad",
   "license": null,
   "home_page": null,
-  "download_filename": "sandtrap-0.1.6.tar.gz",
-  "download_time": "2026-02-28T21:16:44.604461",
+  "download_filename": "sandtrap-0.1.7.tar.gz",
+  "download_time": "2026-03-02T04:16:06.873487",
   "package_url": "https://pypi.org/project/sandtrap/"
 }

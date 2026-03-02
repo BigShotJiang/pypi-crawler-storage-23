@@ -1,0 +1,11 @@
+{
+  "name": "taskr-rabbitburns",
+  "version": "0.1.0",
+  "summary": "A simple task manager CLI with built-in telemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskr_rabbitburns-0.1.0.tar.gz",
+  "download_time": "2026-03-02T04:16:14.109641",
+  "package_url": "https://pypi.org/project/taskr-rabbitburns/"
+}

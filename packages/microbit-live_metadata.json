@@ -1,0 +1,11 @@
+{
+  "name": "microbit-live",
+  "version": "2026.3.1",
+  "summary": "Use the micro:bit without flashing scripts!",
+  "author": "Akhilesh",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "microbit_live-2026.3.1.tar.gz",
+  "download_time": "2026-03-02T04:16:00.933879",
+  "package_url": "https://pypi.org/project/microbit-live/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "easy-worktree",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": "Git worktree を簡単に管理するための CLI ツール",
   "author": "igtm",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "easy_worktree-0.2.12.tar.gz",
-  "download_time": "2026-03-01T16:52:59.326554",
+  "download_filename": "easy_worktree-0.2.13-py3-none-any.whl",
+  "download_time": "2026-03-02T04:15:51.996218",
   "package_url": "https://pypi.org/project/easy-worktree/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-gitlab-crunchtools",
+  "version": "0.4.1",
+  "summary": "Secure MCP server for GitLab projects, merge requests, issues, and pipelines",
+  "author": "crunchtools.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_gitlab_crunchtools-0.4.1.tar.gz",
+  "download_time": "2026-03-02T04:16:06.342373",
+  "package_url": "https://pypi.org/project/mcp-gitlab-crunchtools/"
+}
