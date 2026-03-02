@@ -1,0 +1,11 @@
+{
+  "name": "midasverse-citest",
+  "version": "0.3.1",
+  "summary": "A conditional independence test for missing data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midasverse_citest-0.3.1.tar.gz",
+  "download_time": "2026-03-02T15:44:17.118894",
+  "package_url": "https://pypi.org/project/midasverse-citest/"
+}

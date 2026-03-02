@@ -1,0 +1,11 @@
+{
+  "name": "magic-wormhole-transit-relay",
+  "version": "0.5.0",
+  "summary": "Transit Relay server for Magic-Wormhole",
+  "author": "Brian Warner",
+  "license": "MIT",
+  "home_page": "https://github.com/warner/magic-wormhole-transit-relay",
+  "download_filename": "magic_wormhole_transit_relay-0.5.0-py3-none-any.whl",
+  "download_time": "2026-03-02T15:43:43.000804",
+  "package_url": "https://pypi.org/project/magic-wormhole-transit-relay/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opsduty-client",
+  "version": "0.0.9",
+  "summary": "A client library for accessing opsduty",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opsduty_client-0.0.9.tar.gz",
+  "download_time": "2026-03-02T15:44:15.074054",
+  "package_url": "https://pypi.org/project/opsduty-client/"
+}

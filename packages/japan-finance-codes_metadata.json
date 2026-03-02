@@ -1,11 +1,11 @@
 {
   "name": "japan-finance-codes",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Unified company ID registry for Japanese financial data (EDINET, TDnet, yfinance)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "japan_finance_codes-0.1.1.tar.gz",
-  "download_time": "2026-03-01T18:26:47.002870",
+  "download_filename": "japan_finance_codes-0.2.0.tar.gz",
+  "download_time": "2026-03-02T15:44:18.148020",
   "package_url": "https://pypi.org/project/japan-finance-codes/"
 }

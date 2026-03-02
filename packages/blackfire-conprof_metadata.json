@@ -1,0 +1,11 @@
+{
+  "name": "blackfire-conprof",
+  "version": "1.2.7",
+  "summary": "Blackfire Continuous Profiler",
+  "author": "Blackfire.io",
+  "license": "MIT",
+  "home_page": "https://blackfire.io",
+  "download_filename": "blackfire_conprof-1.2.7-py3-none-any.whl",
+  "download_time": "2026-03-02T15:44:16.602150",
+  "package_url": "https://pypi.org/project/blackfire-conprof/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "carbatpy",
+  "version": "0.6.4",
+  "summary": "Calculate and Optimize Carnot Batteries (Thermal energy storage) for different Fluid Mixtures",
+  "author": "Burak Atakan",
+  "license": null,
+  "home_page": "https://git.uni-due.de/spp-2403/td-ude/carbatpy",
+  "download_filename": "carbatpy-0.6.4.tar.gz",
+  "download_time": "2026-03-02T15:43:45.115665",
+  "package_url": "https://pypi.org/project/carbatpy/"
+}

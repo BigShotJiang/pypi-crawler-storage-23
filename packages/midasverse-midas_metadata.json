@@ -1,0 +1,11 @@
+{
+  "name": "midasverse-midas",
+  "version": "0.3.0",
+  "summary": "Multiple Imputation using Denoising Autoencoders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midasverse_midas-0.3.0.tar.gz",
+  "download_time": "2026-03-02T15:44:20.197266",
+  "package_url": "https://pypi.org/project/midasverse-midas/"
+}

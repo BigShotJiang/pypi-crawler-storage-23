@@ -1,0 +1,11 @@
+{
+  "name": "circuitpython-build-tools",
+  "version": "1.20.1",
+  "summary": "CircuitPython library build tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "circuitpython_build_tools-1.20.1.tar.gz",
+  "download_time": "2026-03-02T15:43:58.039448",
+  "package_url": "https://pypi.org/project/circuitpython-build-tools/"
+}
