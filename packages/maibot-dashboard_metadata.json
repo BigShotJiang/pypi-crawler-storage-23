@@ -1,11 +1,11 @@
 {
   "name": "maibot-dashboard",
-  "version": "1.0.0.dev2026030110",
+  "version": "1.0.0.dev2026030211",
   "summary": "MaiBot WebUI static assets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maibot_dashboard-1.0.0.dev2026030110.tar.gz",
-  "download_time": "2026-03-01T15:21:31.383758",
+  "download_filename": "maibot_dashboard-1.0.0.dev2026030211.tar.gz",
+  "download_time": "2026-03-02T17:09:44.721084",
   "package_url": "https://pypi.org/project/maibot-dashboard/"
 }

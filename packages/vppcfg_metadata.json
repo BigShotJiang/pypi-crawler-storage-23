@@ -1,0 +1,11 @@
+{
+  "name": "vppcfg",
+  "version": "1.1.1",
+  "summary": "A configuration tool for Vector Packet Processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vppcfg-1.1.1.tar.gz",
+  "download_time": "2026-03-02T17:09:22.095377",
+  "package_url": "https://pypi.org/project/vppcfg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tower",
-  "version": "0.3.48",
+  "version": "0.3.51",
   "summary": "Tower CLI and runtime environment for Tower.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tower-0.3.48.tar.gz",
-  "download_time": "2026-02-24T13:58:14.227630",
+  "download_filename": "tower-0.3.51-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-03-02T17:09:09.287842",
   "package_url": "https://pypi.org/project/tower/"
 }

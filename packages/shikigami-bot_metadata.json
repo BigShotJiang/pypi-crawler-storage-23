@@ -1,11 +1,11 @@
 {
   "name": "shikigami-bot",
-  "version": "20260302.153407",
+  "version": "20260302.165807",
   "summary": "Multi-agent Telegram bot with semantic routing and OS-level security",
   "author": "Malte Sussdorff",
   "license": null,
   "home_page": null,
-  "download_filename": "shikigami_bot-20260302.153407.tar.gz",
-  "download_time": "2026-03-02T15:44:18.659645",
+  "download_filename": "shikigami_bot-20260302.165807.tar.gz",
+  "download_time": "2026-03-02T17:09:50.928506",
   "package_url": "https://pypi.org/project/shikigami-bot/"
 }

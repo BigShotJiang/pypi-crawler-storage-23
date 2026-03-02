@@ -1,11 +1,11 @@
 {
   "name": "capper",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Semantic, typed wrappers for Faker with automatic Polyfactory integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "capper-0.2.0.tar.gz",
-  "download_time": "2026-02-24T15:41:57.052783",
+  "download_filename": "capper-0.4.0.tar.gz",
+  "download_time": "2026-03-02T17:09:15.097123",
   "package_url": "https://pypi.org/project/capper/"
 }

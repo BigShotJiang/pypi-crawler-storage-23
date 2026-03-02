@@ -1,0 +1,11 @@
+{
+  "name": "webkitcorepy",
+  "version": "1.0.2",
+  "summary": "Library containing various Python support classes and functions.",
+  "author": "Jonathan Bedard",
+  "license": "Modified BSD",
+  "home_page": "https://github.com/WebKit/WebKit/tree/main/Tools/Scripts/libraries/webkitcorepy",
+  "download_filename": "webkitcorepy-1.0.2.tar.gz",
+  "download_time": "2026-03-02T17:09:08.661525",
+  "package_url": "https://pypi.org/project/webkitcorepy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "attack-executor",
+  "version": "0.2.8",
+  "summary": "This library provides standard Python APIs to interact with common penetration testing and cyberattack tools, enabling automated penetration testing, red team operations, and development of cybersecurity-related LLM agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "attack_executor-0.2.8.tar.gz",
+  "download_time": "2026-03-02T17:09:23.657949",
+  "package_url": "https://pypi.org/project/attack-executor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cfde-c2m2",
+  "version": "0.4.3",
+  "summary": "Utilities for preparing C2M2 tables",
+  "author": "CFDE DRC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfde_c2m2-0.4.3.tar.gz",
+  "download_time": "2026-03-02T17:09:29.455368",
+  "package_url": "https://pypi.org/project/cfde-c2m2/"
+}

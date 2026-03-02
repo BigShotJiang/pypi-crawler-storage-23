@@ -1,11 +1,11 @@
 {
   "name": "pyqrack-cuda-complex128",
-  "version": "1.84.12",
+  "version": "1.87.0",
   "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/pyqrack",
-  "download_filename": "pyqrack_cuda_complex128-1.84.12.tar.gz",
-  "download_time": "2026-02-25T07:39:56.325596",
+  "download_filename": "pyqrack_cuda_complex128-1.87.0.tar.gz",
+  "download_time": "2026-03-02T17:09:24.178411",
   "package_url": "https://pypi.org/project/pyqrack-cuda-complex128/"
 }

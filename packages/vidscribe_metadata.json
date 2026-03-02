@@ -1,0 +1,11 @@
+{
+  "name": "vidscribe",
+  "version": "0.1.8",
+  "summary": "CLI tool for automatic video summarization using Whisper and LLMs",
+  "author": "yeyuan98",
+  "license": "CC-BY-NC-ND-4.0",
+  "home_page": null,
+  "download_filename": "vidscribe-0.1.8-py3-none-any.whl",
+  "download_time": "2026-03-02T17:09:12.488412",
+  "package_url": "https://pypi.org/project/vidscribe/"
+}
