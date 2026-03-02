@@ -1,0 +1,11 @@
+{
+  "name": "codemunch-pro",
+  "version": "1.2.0",
+  "summary": "Intelligent code indexing MCP server. Tree-sitter AST extraction, hybrid search (FTS5 + vector), call graphs, 10 languages, incremental indexing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codemunch_pro-1.2.0.tar.gz",
+  "download_time": "2026-03-02T13:09:22.170752",
+  "package_url": "https://pypi.org/project/codemunch-pro/"
+}

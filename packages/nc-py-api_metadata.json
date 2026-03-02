@@ -1,0 +1,11 @@
+{
+  "name": "nc-py-api",
+  "version": "0.24.2",
+  "summary": "Nextcloud Python Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nc_py_api-0.24.2.tar.gz",
+  "download_time": "2026-03-02T13:09:18.097427",
+  "package_url": "https://pypi.org/project/nc-py-api/"
+}

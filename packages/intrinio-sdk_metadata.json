@@ -1,0 +1,11 @@
+{
+  "name": "intrinio-sdk",
+  "version": "7.0.0",
+  "summary": "Intrinio API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/intrinio/python-sdk",
+  "download_filename": "intrinio_sdk-7.0.0.tar.gz",
+  "download_time": "2026-03-02T13:09:04.689775",
+  "package_url": "https://pypi.org/project/intrinio-sdk/"
+}

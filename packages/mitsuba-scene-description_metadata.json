@@ -1,0 +1,11 @@
+{
+  "name": "mitsuba-scene-description",
+  "version": "0.2.1",
+  "summary": "Generated, typed, autocompletable Python API for composing Mitsuba scenes.",
+  "author": "Benjamin Beilharz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mitsuba_scene_description-0.2.1.tar.gz",
+  "download_time": "2026-03-02T13:08:48.344205",
+  "package_url": "https://pypi.org/project/mitsuba-scene-description/"
+}

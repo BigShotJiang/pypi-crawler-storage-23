@@ -1,0 +1,11 @@
+{
+  "name": "kidash",
+  "version": "1.1.6",
+  "summary": "GrimoireLab script to manage Kibana dashboards from the command line",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": null,
+  "download_filename": "kidash-1.1.6.tar.gz",
+  "download_time": "2026-03-02T13:08:45.740404",
+  "package_url": "https://pypi.org/project/kidash/"
+}

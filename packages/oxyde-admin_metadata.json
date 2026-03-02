@@ -1,11 +1,11 @@
 {
   "name": "oxyde-admin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Admin interface for Oxyde ORM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oxyde_admin-0.1.0.tar.gz",
-  "download_time": "2026-02-27T22:47:53.782869",
+  "download_filename": "oxyde_admin-0.2.0.tar.gz",
+  "download_time": "2026-03-02T13:08:53.039049",
   "package_url": "https://pypi.org/project/oxyde-admin/"
 }

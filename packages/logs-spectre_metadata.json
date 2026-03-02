@@ -1,0 +1,11 @@
+{
+  "name": "logs-spectre",
+  "version": "0.1.1",
+  "summary": "Stream log files and extract context/blocks around spanId matches.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logs_spectre-0.1.1.tar.gz",
+  "download_time": "2026-03-02T13:08:55.913684",
+  "package_url": "https://pypi.org/project/logs-spectre/"
+}

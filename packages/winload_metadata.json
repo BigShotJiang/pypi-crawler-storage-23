@@ -1,11 +1,11 @@
 {
   "name": "winload",
-  "version": "0.1.7rc4",
+  "version": "0.1.7rc7",
   "summary": "Network Load Monitor - nload-like TUI tool for Windows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "winload-0.1.7rc4.tar.gz",
-  "download_time": "2026-02-28T13:51:33.173149",
+  "download_filename": "winload-0.1.7rc7.tar.gz",
+  "download_time": "2026-03-02T13:09:02.646210",
   "package_url": "https://pypi.org/project/winload/"
 }
