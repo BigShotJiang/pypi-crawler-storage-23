@@ -1,0 +1,11 @@
+{
+  "name": "netcoloc",
+  "version": "1.0.0",
+  "summary": "Analyze network colocalization of gene sets",
+  "author": "Brin Rosenthal, Sophie Liu, Sarah Wright",
+  "license": "MIT license",
+  "home_page": "https://github.com/ucsd-ccbb/netcoloc",
+  "download_filename": "netcoloc-1.0.0.tar.gz",
+  "download_time": "2026-03-02T21:04:14.250082",
+  "package_url": "https://pypi.org/project/netcoloc/"
+}

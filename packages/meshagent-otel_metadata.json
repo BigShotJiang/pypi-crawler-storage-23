@@ -1,11 +1,11 @@
 {
   "name": "meshagent-otel",
-  "version": "0.28.15",
+  "version": "0.29.1",
   "summary": "CLI for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_otel-0.28.15.tar.gz",
-  "download_time": "2026-03-01T07:50:20.110925",
+  "download_filename": "meshagent_otel-0.29.1.tar.gz",
+  "download_time": "2026-03-02T21:04:22.106026",
   "package_url": "https://pypi.org/project/meshagent-otel/"
 }

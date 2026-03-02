@@ -1,11 +1,11 @@
 {
   "name": "adhoc-api",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "summary": "Agent automatically figures out how to make API requests given API docs and user query in plain text",
   "author": "David Samson",
   "license": null,
   "home_page": null,
-  "download_filename": "adhoc_api-2.8.0.tar.gz",
-  "download_time": "2026-03-02T19:54:57.456520",
+  "download_filename": "adhoc_api-2.9.0.tar.gz",
+  "download_time": "2026-03-02T21:03:40.095260",
   "package_url": "https://pypi.org/project/adhoc-api/"
 }

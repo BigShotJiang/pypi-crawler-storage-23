@@ -1,0 +1,11 @@
+{
+  "name": "relaya-sdk-python",
+  "version": "0.1.1",
+  "summary": "Relaya MAX API Python SDK",
+  "author": "Relaya",
+  "license": null,
+  "home_page": "https://relaya.ru",
+  "download_filename": "relaya_sdk_python-0.1.1.tar.gz",
+  "download_time": "2026-03-02T21:03:58.391162",
+  "package_url": "https://pypi.org/project/relaya-sdk-python/"
+}

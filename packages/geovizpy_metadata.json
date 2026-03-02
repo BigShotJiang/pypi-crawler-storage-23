@@ -1,0 +1,11 @@
+{
+  "name": "geovizpy",
+  "version": "0.1.10",
+  "summary": "A Python wrapper for the geoviz JavaScript library",
+  "author": "fbxyz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geovizpy-0.1.10.tar.gz",
+  "download_time": "2026-03-02T21:04:14.771560",
+  "package_url": "https://pypi.org/project/geovizpy/"
+}
