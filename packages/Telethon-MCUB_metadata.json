@@ -1,11 +1,11 @@
 {
   "name": "Telethon-MCUB",
-  "version": "1.42.5",
+  "version": "1.42.6",
   "summary": "Full-featured Telegram client library for Python 3, forked for userbot use",
   "author": "Lonami Exo",
   "license": "MIT",
   "home_page": "https://github.com/LonamiWebs/Telethon",
-  "download_filename": "telethon_mcub-1.42.5-py3-none-any.whl",
-  "download_time": "2026-03-02T07:19:46.865586",
+  "download_filename": "telethon_mcub-1.42.6.tar.gz",
+  "download_time": "2026-03-02T11:13:09.325059",
   "package_url": "https://pypi.org/project/Telethon-MCUB/"
 }

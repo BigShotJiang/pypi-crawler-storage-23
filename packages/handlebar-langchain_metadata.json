@@ -1,0 +1,11 @@
+{
+  "name": "handlebar-langchain",
+  "version": "0.2.0",
+  "summary": "AI control layer for Langchain agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "handlebar_langchain-0.2.0.tar.gz",
+  "download_time": "2026-03-02T11:13:46.359929",
+  "package_url": "https://pypi.org/project/handlebar-langchain/"
+}

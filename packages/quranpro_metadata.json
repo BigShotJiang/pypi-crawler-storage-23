@@ -1,0 +1,11 @@
+{
+  "name": "quranpro",
+  "version": "0.1.0",
+  "summary": "Developer-friendly Python library for accessing the Holy Qur’an.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quranpro-0.1.0.tar.gz",
+  "download_time": "2026-03-02T11:13:19.101184",
+  "package_url": "https://pypi.org/project/quranpro/"
+}

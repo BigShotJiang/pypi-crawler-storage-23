@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-sale-stock-inter-company",
+  "version": "18.0.1.0.3",
+  "summary": "Intercompany PO/SO rules with warehouse",
+  "author": "Akretion, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/multi-company",
+  "download_filename": "odoo_addon_purchase_sale_stock_inter_company-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2026-03-02T11:13:54.126074",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-sale-stock-inter-company/"
+}

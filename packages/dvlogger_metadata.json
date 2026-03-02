@@ -1,0 +1,11 @@
+{
+  "name": "dvlogger",
+  "version": "2.0.1",
+  "summary": "A custom logger with coloured output and uncaught exception logging. Supports threading and asyncio.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvlogger-2.0.1.tar.gz",
+  "download_time": "2026-03-02T11:13:44.825146",
+  "package_url": "https://pypi.org/project/dvlogger/"
+}

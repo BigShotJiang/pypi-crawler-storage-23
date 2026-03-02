@@ -1,11 +1,11 @@
 {
   "name": "execdiff",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "summary": "Passive execution tracing for file and package changes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "execdiff-0.0.1.tar.gz",
-  "download_time": "2026-02-18T17:40:17.809168",
+  "download_filename": "execdiff-0.1.2.tar.gz",
+  "download_time": "2026-03-02T11:13:28.333742",
   "package_url": "https://pypi.org/project/execdiff/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "otc-sphinx-directives",
-  "version": "1.13.1",
+  "version": "1.13.2",
   "summary": "Open Telekom Cloud Sphinx Directives",
   "author": "Open Telekom Cloud Ecosystem Squad",
   "license": null,
   "home_page": null,
-  "download_filename": "otc_sphinx_directives-1.13.1.tar.gz",
-  "download_time": "2026-03-02T10:34:27.033588",
+  "download_filename": "otc_sphinx_directives-1.13.2.tar.gz",
+  "download_time": "2026-03-02T11:13:24.760824",
   "package_url": "https://pypi.org/project/otc-sphinx-directives/"
 }

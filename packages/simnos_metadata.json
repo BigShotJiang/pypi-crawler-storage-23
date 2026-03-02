@@ -1,11 +1,11 @@
 {
   "name": "simnos",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Simulated Network Operating System",
   "author": "KeroRoute lab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simnos-2.0.3.tar.gz",
-  "download_time": "2026-03-02T08:41:03.073631",
+  "download_filename": "simnos-2.0.4.tar.gz",
+  "download_time": "2026-03-02T11:13:51.532105",
   "package_url": "https://pypi.org/project/simnos/"
 }

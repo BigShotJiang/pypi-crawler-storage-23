@@ -1,0 +1,11 @@
+{
+  "name": "dbt-flink-adapter-vikki",
+  "version": "1.3.12",
+  "summary": "The Flink adapter plugin for dbt (enhanced fork with HTTPS support)",
+  "author": "GetInData",
+  "license": null,
+  "home_page": "https://github.com/NguyenDuyVikki/dbt-flink-adapter",
+  "download_filename": "dbt_flink_adapter_vikki-1.3.12.tar.gz",
+  "download_time": "2026-03-02T11:13:50.468293",
+  "package_url": "https://pypi.org/project/dbt-flink-adapter-vikki/"
+}

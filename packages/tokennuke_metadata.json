@@ -1,0 +1,11 @@
+{
+  "name": "tokennuke",
+  "version": "0.2.0",
+  "summary": "Nuke your token usage. Intelligent code indexer with O(1) symbol retrieval, hybrid search, and call graph analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokennuke-0.2.0.tar.gz",
+  "download_time": "2026-03-02T11:13:19.612865",
+  "package_url": "https://pypi.org/project/tokennuke/"
+}

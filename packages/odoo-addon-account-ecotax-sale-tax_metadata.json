@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-ecotax-sale-tax",
+  "version": "16.0.3.0.0",
+  "summary": "Sale Ecotaxe managed as a tax",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-fiscal-rule",
+  "download_filename": "odoo_addon_account_ecotax_sale_tax-16.0.3.0.0-py3-none-any.whl",
+  "download_time": "2026-03-02T11:13:26.804124",
+  "package_url": "https://pypi.org/project/odoo-addon-account-ecotax-sale-tax/"
+}
