@@ -1,0 +1,11 @@
+{
+  "name": "mo-files",
+  "version": "6.703.26061",
+  "summary": "More Files! Steamlined for UTF8 and JSON.",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-files",
+  "download_filename": "mo_files-6.703.26061.tar.gz",
+  "download_time": "2026-03-02T23:52:00.930527",
+  "package_url": "https://pypi.org/project/mo-files/"
+}

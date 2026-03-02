@@ -1,11 +1,11 @@
 {
   "name": "gsvd4py",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Generalized SVD (GSVD) via LAPACK ?ggsvd3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gsvd4py-0.1.2.tar.gz",
-  "download_time": "2026-03-02T06:11:15.787821",
+  "download_filename": "gsvd4py-0.2.0.tar.gz",
+  "download_time": "2026-03-02T23:52:00.407653",
   "package_url": "https://pypi.org/project/gsvd4py/"
 }

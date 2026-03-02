@@ -1,0 +1,11 @@
+{
+  "name": "mng-opencode",
+  "version": "0.1.1",
+  "summary": "OpenCode agent type plugin for mng",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mng_opencode-0.1.1.tar.gz",
+  "download_time": "2026-03-02T23:52:23.718575",
+  "package_url": "https://pypi.org/project/mng-opencode/"
+}

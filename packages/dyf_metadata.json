@@ -1,11 +1,11 @@
 {
   "name": "dyf",
-  "version": "0.4.1",
+  "version": "0.6.2",
   "summary": "Density Yields Features - discover structure in embedding spaces",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dyf-0.4.1.tar.gz",
-  "download_time": "2026-02-24T23:31:46.423990",
+  "download_filename": "dyf-0.6.2.tar.gz",
+  "download_time": "2026-03-02T23:51:57.181665",
   "package_url": "https://pypi.org/project/dyf/"
 }

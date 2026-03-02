@@ -1,0 +1,11 @@
+{
+  "name": "thonny-blvdiff",
+  "version": "0.1.3",
+  "summary": "BLVDIFF integration plugin for Thonny",
+  "author": "Rylan Sedlacek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thonny_blvdiff-0.1.3.tar.gz",
+  "download_time": "2026-03-02T23:52:37.301529",
+  "package_url": "https://pypi.org/project/thonny-blvdiff/"
+}

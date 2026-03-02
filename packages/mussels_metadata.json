@@ -1,0 +1,11 @@
+{
+  "name": "mussels",
+  "version": "0.5.0",
+  "summary": "Mussels Dependency Build Automation Tool",
+  "author": "The ClamAV Team",
+  "license": null,
+  "home_page": "https://github.com/Cisco-Talos/mussels",
+  "download_filename": "mussels-0.5.0.tar.gz",
+  "download_time": "2026-03-02T23:52:26.324991",
+  "package_url": "https://pypi.org/project/mussels/"
+}

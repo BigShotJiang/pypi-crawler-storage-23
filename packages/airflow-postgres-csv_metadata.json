@@ -1,0 +1,11 @@
+{
+  "name": "airflow-postgres-csv",
+  "version": "0.3.2",
+  "summary": "Airflow operators for PostgreSQL <-> CSV file transfers using COPY",
+  "author": "Qing Wan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_postgres_csv-0.3.2.tar.gz",
+  "download_time": "2026-03-02T23:52:04.144271",
+  "package_url": "https://pypi.org/project/airflow-postgres-csv/"
+}

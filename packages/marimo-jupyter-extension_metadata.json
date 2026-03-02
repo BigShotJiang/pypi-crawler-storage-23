@@ -1,0 +1,11 @@
+{
+  "name": "marimo-jupyter-extension",
+  "version": "0.1.4",
+  "summary": "Jupyter extension to proxy marimo with JupyterLab integration",
+  "author": "Marimo Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marimo_jupyter_extension-0.1.4.tar.gz",
+  "download_time": "2026-03-02T23:52:10.974540",
+  "package_url": "https://pypi.org/project/marimo-jupyter-extension/"
+}

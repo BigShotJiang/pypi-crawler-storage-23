@@ -1,11 +1,11 @@
 {
   "name": "hotdot",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A DOT file visualizer for control-flow graphs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hotdot-0.1.2.tar.gz",
-  "download_time": "2026-03-02T23:21:49.276256",
+  "download_filename": "hotdot-0.1.5.tar.gz",
+  "download_time": "2026-03-02T23:52:05.188924",
   "package_url": "https://pypi.org/project/hotdot/"
 }
