@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-fishaudio",
+  "version": "1.4.4",
+  "summary": "Agent Framework plugin for voice synthesis with Fish Audio's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_fishaudio-1.4.4.tar.gz",
+  "download_time": "2026-03-03T01:15:27.716804",
+  "package_url": "https://pypi.org/project/livekit-plugins-fishaudio/"
+}

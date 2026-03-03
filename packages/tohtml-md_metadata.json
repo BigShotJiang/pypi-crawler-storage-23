@@ -1,0 +1,11 @@
+{
+  "name": "tohtml-md",
+  "version": "0.1.0",
+  "summary": "Convert Markdown to a styled HTML document with print + dark/light toggle.",
+  "author": "YOUR_NAME",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tohtml_md-0.1.0.tar.gz",
+  "download_time": "2026-03-03T01:15:45.387561",
+  "package_url": "https://pypi.org/project/tohtml-md/"
+}

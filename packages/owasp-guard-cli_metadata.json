@@ -1,0 +1,11 @@
+{
+  "name": "owasp-guard-cli",
+  "version": "0.2.0",
+  "summary": "OWASP Guard CLI: prompt-engineered secure code inspector",
+  "author": "CBRS503 Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "owasp_guard_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-03T01:15:49.076421",
+  "package_url": "https://pypi.org/project/owasp-guard-cli/"
+}

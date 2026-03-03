@@ -1,0 +1,11 @@
+{
+  "name": "Ncore",
+  "version": "0.9.803",
+  "summary": "Высокопроизводительная асинхронная библиотека для работы с MTProto (Telegram API).",
+  "author": "zovdev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ncore-0.9.803.tar.gz",
+  "download_time": "2026-03-03T01:15:15.455709",
+  "package_url": "https://pypi.org/project/Ncore/"
+}

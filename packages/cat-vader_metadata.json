@@ -1,11 +1,11 @@
 {
   "name": "cat-vader",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "summary": "A tool for classifying and analyzing social media data using LLMs and vision models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cat_vader-1.0.0.tar.gz",
-  "download_time": "2026-03-02T23:52:16.856007",
+  "download_filename": "cat_vader-1.4.0.tar.gz",
+  "download_time": "2026-03-03T01:15:40.883366",
   "package_url": "https://pypi.org/project/cat-vader/"
 }

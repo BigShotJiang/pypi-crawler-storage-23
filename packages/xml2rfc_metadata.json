@@ -1,0 +1,11 @@
+{
+  "name": "xml2rfc",
+  "version": "3.32.0",
+  "summary": "xml2rfc generates RFCs and IETF drafts from document source in XML according to the IETF xml2rfc v2 and v3 vocabularies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xml2rfc-3.32.0.tar.gz",
+  "download_time": "2026-03-03T01:15:44.841298",
+  "package_url": "https://pypi.org/project/xml2rfc/"
+}
