@@ -1,11 +1,11 @@
 {
   "name": "python-package-folder",
-  "version": "4.3.2",
+  "version": "5.1.0",
   "summary": "Python package to automatically package and build a folder, fetching all relevant dependencies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_package_folder-4.3.2.tar.gz",
-  "download_time": "2026-03-03T11:56:53.554336",
+  "download_filename": "python_package_folder-5.1.0.tar.gz",
+  "download_time": "2026-03-03T14:34:59.474661",
   "package_url": "https://pypi.org/project/python-package-folder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "skip-django-security-logger",
+  "version": "1.10.0",
+  "summary": "Django security library.",
+  "author": "Lubos Matl",
+  "license": "MIT",
+  "home_page": "https://github.com/skip-pay/django-security",
+  "download_filename": "skip_django_security_logger-1.10.0.tar.gz",
+  "download_time": "2026-03-03T14:34:42.131585",
+  "package_url": "https://pypi.org/project/skip-django-security-logger/"
+}

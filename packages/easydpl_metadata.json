@@ -1,11 +1,11 @@
 {
   "name": "easydpl",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "summary": "easydpl simplifies training fast and accurate neural nets using modern best practices",
   "author": "Jeremy Howard, Sylvain Gugger, and contributors",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/easydpl/easydpl",
-  "download_filename": "easydpl-1.5.5.tar.gz",
-  "download_time": "2026-03-02T08:40:54.526161",
+  "download_filename": "easydpl-1.5.6.tar.gz",
+  "download_time": "2026-03-03T14:34:58.401854",
   "package_url": "https://pypi.org/project/easydpl/"
 }

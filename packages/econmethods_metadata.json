@@ -1,0 +1,11 @@
+{
+  "name": "econmethods",
+  "version": "0.0.8",
+  "summary": "A python package implementing various econometrical tests and estimators",
+  "author": "NaturionBG",
+  "license": "MIT",
+  "home_page": "https://github.com/NaturionBG/econmethods",
+  "download_filename": "econmethods-0.0.8.tar.gz",
+  "download_time": "2026-03-03T14:35:01.076732",
+  "package_url": "https://pypi.org/project/econmethods/"
+}

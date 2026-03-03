@@ -1,0 +1,11 @@
+{
+  "name": "octen",
+  "version": "0.1.1b4",
+  "summary": "Official Python SDK for Octen API - Web Search and Text Embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octen-0.1.1b4.tar.gz",
+  "download_time": "2026-03-03T14:35:04.810741",
+  "package_url": "https://pypi.org/project/octen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "devs-webhook",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "GitHub webhook handler for automated devcontainer operations with Claude Code",
   "author": "Dan Lester",
   "license": null,
   "home_page": null,
-  "download_filename": "devs_webhook-2.0.1.tar.gz",
-  "download_time": "2026-03-03T10:05:29.002208",
+  "download_filename": "devs_webhook-2.0.3.tar.gz",
+  "download_time": "2026-03-03T14:35:08.080048",
   "package_url": "https://pypi.org/project/devs-webhook/"
 }

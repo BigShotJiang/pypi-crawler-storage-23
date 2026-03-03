@@ -1,11 +1,11 @@
 {
   "name": "waldur-site-agent-croit-s3",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "summary": "Croit S3 storage plugin for Waldur Site Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waldur_site_agent_croit_s3-0.9.4.tar.gz",
-  "download_time": "2026-03-02T14:12:12.301568",
+  "download_filename": "waldur_site_agent_croit_s3-0.9.6.tar.gz",
+  "download_time": "2026-03-03T14:34:41.577824",
   "package_url": "https://pypi.org/project/waldur-site-agent-croit-s3/"
 }

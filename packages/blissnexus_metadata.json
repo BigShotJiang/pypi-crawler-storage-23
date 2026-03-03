@@ -1,0 +1,11 @@
+{
+  "name": "blissnexus",
+  "version": "1.0.0",
+  "summary": "BlissNexus SDK - Decentralized AI Agent Marketplace",
+  "author": "BlissNexus",
+  "license": "MIT",
+  "home_page": "https://blissnexus.ai",
+  "download_filename": "blissnexus-1.0.0.tar.gz",
+  "download_time": "2026-03-03T14:34:22.077222",
+  "package_url": "https://pypi.org/project/blissnexus/"
+}

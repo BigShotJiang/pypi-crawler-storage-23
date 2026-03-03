@@ -1,0 +1,11 @@
+{
+  "name": "pytecgg",
+  "version": "1.0.2",
+  "summary": "Total Electron Content (TEC) reconstruction with GNSS data – a Python package with a Rust core",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pytecgg-1.0.2.tar.gz",
+  "download_time": "2026-03-03T14:34:54.610213",
+  "package_url": "https://pypi.org/project/pytecgg/"
+}

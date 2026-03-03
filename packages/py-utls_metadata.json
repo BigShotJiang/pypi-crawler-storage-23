@@ -1,0 +1,11 @@
+{
+  "name": "py-utls",
+  "version": "0.3.2",
+  "summary": "Utilities for Python",
+  "author": "Cyril Dever",
+  "license": null,
+  "home_page": "https://github.com/cyrildever/py-utls",
+  "download_filename": "py_utls-0.3.2.tar.gz",
+  "download_time": "2026-03-03T14:34:57.864511",
+  "package_url": "https://pypi.org/project/py-utls/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ml4t-engineer",
-  "version": "0.1.0a9",
+  "version": "0.1.0a11",
   "summary": "High-performance quantitative finance feature engineering library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ml4t_engineer-0.1.0a9.tar.gz",
-  "download_time": "2026-02-28T18:22:40.449497",
+  "download_filename": "ml4t_engineer-0.1.0a11.tar.gz",
+  "download_time": "2026-03-03T14:34:51.894060",
   "package_url": "https://pypi.org/project/ml4t-engineer/"
 }
