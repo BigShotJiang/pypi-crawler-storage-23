@@ -1,0 +1,11 @@
+{
+  "name": "unstructured-platform-plugins",
+  "version": "0.0.42",
+  "summary": "Wrapper to convert arbitrary code into a uvicorn/fastapi implementation for Unstructured Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unstructured_platform_plugins-0.0.42.tar.gz",
+  "download_time": "2026-03-03T10:05:48.862029",
+  "package_url": "https://pypi.org/project/unstructured-platform-plugins/"
+}

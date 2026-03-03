@@ -1,11 +1,11 @@
 {
   "name": "nucliadb",
-  "version": "6.12.0.post5928",
+  "version": "6.12.0.post5941",
   "summary": "NucliaDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb-6.12.0.post5928-py3-none-any.whl",
-  "download_time": "2026-02-27T10:01:31.145782",
+  "download_filename": "nucliadb-6.12.0.post5941-py3-none-any.whl",
+  "download_time": "2026-03-03T10:05:45.153621",
   "package_url": "https://pypi.org/project/nucliadb/"
 }

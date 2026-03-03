@@ -1,0 +1,11 @@
+{
+  "name": "neuromath",
+  "version": "0.1.4",
+  "summary": "NeuroMath - A lightweight symbolic mathematical DSL",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuromath-0.1.4.tar.gz",
+  "download_time": "2026-03-03T10:05:16.839161",
+  "package_url": "https://pypi.org/project/neuromath/"
+}

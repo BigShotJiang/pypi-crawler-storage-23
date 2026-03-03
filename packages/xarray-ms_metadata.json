@@ -1,0 +1,11 @@
+{
+  "name": "xarray-ms",
+  "version": "0.5.0",
+  "summary": "xarray MSv4 views over MSv2 Measurement Sets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarray_ms-0.5.0.tar.gz",
+  "download_time": "2026-03-03T10:05:35.907153",
+  "package_url": "https://pypi.org/project/xarray-ms/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cheby",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "summary": "Functions represented as Chebyshev series",
-  "author": "Gwénaël Gabard",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/GwenaelGabard/cheby",
-  "download_filename": "cheby-0.3.11-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-02-27T13:47:52.053761",
+  "home_page": null,
+  "download_filename": "cheby-0.3.12-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-03-03T10:05:16.296576",
   "package_url": "https://pypi.org/project/cheby/"
 }

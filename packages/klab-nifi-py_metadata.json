@@ -1,0 +1,11 @@
+{
+  "name": "klab-nifi-py",
+  "version": "0.0.4",
+  "summary": "Python Based Workflow to Interact with K.LAB Semantic Web, using Apache Nifi",
+  "author": "Arnab Moitra",
+  "license": null,
+  "home_page": "https://github.com/integratedmodelling/klab-nifi",
+  "download_filename": "klab_nifi_py-0.0.4.tar.gz",
+  "download_time": "2026-03-03T10:05:38.029014",
+  "package_url": "https://pypi.org/project/klab-nifi-py/"
+}
