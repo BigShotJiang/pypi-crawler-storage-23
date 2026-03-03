@@ -1,11 +1,11 @@
 {
   "name": "antaris-suite",
-  "version": "4.5.6",
+  "version": "4.7.0",
   "summary": "Complete AI memory, routing, safety, and context management suite",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "antaris_suite-4.5.6.tar.gz",
-  "download_time": "2026-03-01T11:46:18.542138",
+  "download_filename": "antaris_suite-4.7.0.tar.gz",
+  "download_time": "2026-03-03T03:46:39.013363",
   "package_url": "https://pypi.org/project/antaris-suite/"
 }

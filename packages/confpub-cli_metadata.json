@@ -1,11 +1,11 @@
 {
   "name": "confpub-cli",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "summary": "Agent-first CLI to publish Markdown to Confluence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "confpub_cli-1.4.2.tar.gz",
-  "download_time": "2026-03-02T05:12:26.382569",
+  "download_filename": "confpub_cli-1.4.4.tar.gz",
+  "download_time": "2026-03-03T03:46:44.327993",
   "package_url": "https://pypi.org/project/confpub-cli/"
 }

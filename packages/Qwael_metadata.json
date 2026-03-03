@@ -1,11 +1,11 @@
 {
   "name": "Qwael",
-  "version": "4.0.5.0",
+  "version": "4.0.5.1",
   "summary": "Qwael: İşlevsel ve kolaylaştırılmış Python kütüphanesi",
   "author": "Bedirhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qwael-4.0.5.0.tar.gz",
-  "download_time": "2026-03-02T10:34:25.965250",
+  "download_filename": "qwael-4.0.5.1.tar.gz",
+  "download_time": "2026-03-03T03:46:22.748023",
   "package_url": "https://pypi.org/project/Qwael/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wxmp",
-  "version": "2.1.2",
+  "version": "2.5.0",
   "summary": "微信公众号 API 等相关工具",
   "author": "morning-start",
   "license": null,
   "home_page": null,
-  "download_filename": "wxmp-2.1.2.tar.gz",
-  "download_time": "2026-02-21T19:45:03.288639",
+  "download_filename": "wxmp-2.5.0.tar.gz",
+  "download_time": "2026-03-03T03:46:50.728295",
   "package_url": "https://pypi.org/project/wxmp/"
 }
