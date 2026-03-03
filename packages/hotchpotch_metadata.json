@@ -1,11 +1,11 @@
 {
   "name": "hotchpotch",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Fast Rust-powered serialization format for embedding Python objects in CSV fields",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hotchpotch-0.1.4.tar.gz",
-  "download_time": "2026-03-03T15:18:08.791623",
+  "download_filename": "hotchpotch-0.1.6.tar.gz",
+  "download_time": "2026-03-03T16:05:44.802088",
   "package_url": "https://pypi.org/project/hotchpotch/"
 }

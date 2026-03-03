@@ -1,11 +1,11 @@
 {
   "name": "idds-atlas",
-  "version": "2.5.9",
+  "version": "2.5.10",
   "summary": "intelligent Distributed Dispatch and Scheduling Service (iDDS) - ATLAS Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idds_atlas-2.5.9-py2.py3-none-any.whl",
-  "download_time": "2026-03-03T10:47:00.970600",
+  "download_filename": "idds_atlas-2.5.10-py2.py3-none-any.whl",
+  "download_time": "2026-03-03T16:05:51.740741",
   "package_url": "https://pypi.org/project/idds-atlas/"
 }

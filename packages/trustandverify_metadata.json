@@ -1,0 +1,11 @@
+{
+  "name": "trustandverify",
+  "version": "0.2.0",
+  "summary": "Agentic knowledge verification using Subjective Logic confidence algebra",
+  "author": "Muntaser Syed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trustandverify-0.2.0.tar.gz",
+  "download_time": "2026-03-03T16:06:04.222174",
+  "package_url": "https://pypi.org/project/trustandverify/"
+}

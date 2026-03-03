@@ -1,0 +1,11 @@
+{
+  "name": "KolejkaCommon",
+  "version": "0.1.202603031436",
+  "summary": "Kolejka Common",
+  "author": "KOLEJKA",
+  "license": "MIT",
+  "home_page": "https://github.com/kolejka/kolejka",
+  "download_filename": "kolejkacommon-0.1.202603031436-py3-none-any.whl",
+  "download_time": "2026-03-03T16:05:22.276650",
+  "package_url": "https://pypi.org/project/KolejkaCommon/"
+}

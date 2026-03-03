@@ -1,11 +1,11 @@
 {
   "name": "zsc",
-  "version": "0.2.2",
-  "summary": "AI Agents-driven project task CLI for initializing .agents task structure and skills.",
+  "version": "0.2.8",
+  "summary": "zsc (zig slice code): AI Agents-driven project task CLI for initializing .agents task structure and skills.",
   "author": "zigslice",
   "license": null,
   "home_page": null,
-  "download_filename": "zsc-0.2.2.tar.gz",
-  "download_time": "2026-02-26T12:41:58.648844",
+  "download_filename": "zsc-0.2.8.tar.gz",
+  "download_time": "2026-03-03T16:06:15.033092",
   "package_url": "https://pypi.org/project/zsc/"
 }

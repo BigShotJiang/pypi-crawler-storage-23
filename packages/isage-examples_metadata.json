@@ -1,11 +1,11 @@
 {
   "name": "isage-examples",
-  "version": "0.1.1.9",
+  "version": "0.1.1.14",
   "summary": "SAGE Examples - Production application examples for SAGE framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isage_examples-0.1.1.9.tar.gz",
-  "download_time": "2026-03-03T15:17:57.364911",
+  "download_filename": "isage_examples-0.1.1.14.tar.gz",
+  "download_time": "2026-03-03T16:05:24.120068",
   "package_url": "https://pypi.org/project/isage-examples/"
 }

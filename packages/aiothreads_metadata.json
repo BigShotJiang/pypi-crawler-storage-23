@@ -1,11 +1,11 @@
 {
   "name": "aiothreads",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "glue between async and thread worlds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiothreads-1.0.1.tar.gz",
-  "download_time": "2026-03-02T19:54:26.532253",
+  "download_filename": "aiothreads-1.1.0.tar.gz",
+  "download_time": "2026-03-03T16:05:54.352568",
   "package_url": "https://pypi.org/project/aiothreads/"
 }

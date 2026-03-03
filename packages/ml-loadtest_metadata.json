@@ -1,11 +1,11 @@
 {
   "name": "ml-loadtest",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Adaptive load testing tool for ML inference APIs with dynamic scaling and regression detection",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/IncodeTechnologies/ml-load-testing-tool",
-  "download_filename": "ml_loadtest-1.1.2.tar.gz",
-  "download_time": "2026-02-25T19:47:34.756458",
+  "download_filename": "ml_loadtest-1.2.0.tar.gz",
+  "download_time": "2026-03-03T16:06:14.453294",
   "package_url": "https://pypi.org/project/ml-loadtest/"
 }

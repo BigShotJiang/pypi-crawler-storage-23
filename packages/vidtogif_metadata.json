@@ -1,0 +1,11 @@
+{
+  "name": "vidtogif",
+  "version": "0.1.0",
+  "summary": "Convert any video to GIF at original resolution, with CLI and GUI support.",
+  "author": "VidToGif Contributors",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "vidtogif-0.1.0.tar.gz",
+  "download_time": "2026-03-03T16:06:11.533515",
+  "package_url": "https://pypi.org/project/vidtogif/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rain-assistant",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "AI-powered coding assistant with voice, plugins, web UI, and Telegram bot",
   "author": "Rain Assistant Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rain_assistant-1.0.14.tar.gz",
-  "download_time": "2026-02-28T19:53:59.434059",
+  "download_filename": "rain_assistant-1.0.15.tar.gz",
+  "download_time": "2026-03-03T16:05:25.290098",
   "package_url": "https://pypi.org/project/rain-assistant/"
 }

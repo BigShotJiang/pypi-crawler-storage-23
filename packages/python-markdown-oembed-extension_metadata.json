@@ -1,11 +1,11 @@
 {
   "name": "python-markdown-oembed-extension",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Markdown extension to allow media embedding using the oEmbed standard.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_markdown_oembed_extension-0.4.0.tar.gz",
-  "download_time": "2026-03-03T10:47:33.555022",
+  "download_filename": "python_markdown_oembed_extension-0.5.1.tar.gz",
+  "download_time": "2026-03-03T16:05:45.816419",
   "package_url": "https://pypi.org/project/python-markdown-oembed-extension/"
 }
