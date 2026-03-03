@@ -1,0 +1,11 @@
+{
+  "name": "aipaygent-llamaindex",
+  "version": "1.0.1",
+  "summary": "LlamaIndex ToolSpec for AiPayGent — 123 AI endpoints via x402 micropayments (USDC on Base)",
+  "author": "AiPayGent",
+  "license": null,
+  "home_page": "https://api.aipaygent.xyz",
+  "download_filename": "aipaygent_llamaindex-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-03T10:47:31.872205",
+  "package_url": "https://pypi.org/project/aipaygent-llamaindex/"
+}

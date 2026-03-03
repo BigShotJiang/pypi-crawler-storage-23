@@ -1,0 +1,11 @@
+{
+  "name": "satori-python-adapter-qq",
+  "version": "0.2.1",
+  "summary": "Satori Protocol SDK for python, adapter for QQ",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/RF-Tar-Railt/satori-python",
+  "download_filename": "satori_python_adapter_qq-0.2.1.tar.gz",
+  "download_time": "2026-03-03T10:47:38.534372",
+  "package_url": "https://pypi.org/project/satori-python-adapter-qq/"
+}

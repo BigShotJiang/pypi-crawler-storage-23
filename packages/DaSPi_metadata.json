@@ -1,0 +1,11 @@
+{
+  "name": "DaSPi",
+  "version": "1.10.0",
+  "summary": "Visualize and analyze your data with DaSPi. This package is designed for users who want to find relevant influencing factors in processes and validate improvements.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "daspi-1.10.0-py3-none-any.whl",
+  "download_time": "2026-03-03T10:47:14.357207",
+  "package_url": "https://pypi.org/project/DaSPi/"
+}

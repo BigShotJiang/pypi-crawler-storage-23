@@ -1,11 +1,11 @@
 {
   "name": "sivan-cli",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sivan_cli-1.0.4.tar.gz",
-  "download_time": "2026-03-03T07:16:37.695974",
+  "download_filename": "sivan_cli-2.0.0.tar.gz",
+  "download_time": "2026-03-03T10:47:28.061072",
   "package_url": "https://pypi.org/project/sivan-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flowlines",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Automatic instrumentation for LLM provider APIs — capture requests, responses, timing, and errors with minimal code changes.",
   "author": "Flowlines",
   "license": null,
   "home_page": null,
-  "download_filename": "flowlines-0.1.0.tar.gz",
-  "download_time": "2026-02-24T10:10:24.721478",
+  "download_filename": "flowlines-0.2.1.tar.gz",
+  "download_time": "2026-03-03T10:47:24.847782",
   "package_url": "https://pypi.org/project/flowlines/"
 }
