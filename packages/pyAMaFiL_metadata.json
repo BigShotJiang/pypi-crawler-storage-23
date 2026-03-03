@@ -1,0 +1,11 @@
+{
+  "name": "pyAMaFiL",
+  "version": "1.1.5",
+  "summary": "Library for reconstructing solar magnetic fields with NLFFF optimization approach",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyamafil-1.1.5.tar.gz",
+  "download_time": "2026-03-03T08:37:16.631970",
+  "package_url": "https://pypi.org/project/pyAMaFiL/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mice",
+  "version": "1.0.1",
+  "summary": "Multi-Iteration stochastiC Estimator for gradient-based stochastic optimization",
+  "author": "Luis Espath, Rafael Holdorf, Raúl Tempone",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "mice-1.0.1.tar.gz",
+  "download_time": "2026-03-03T08:36:42.198493",
+  "package_url": "https://pypi.org/project/mice/"
+}

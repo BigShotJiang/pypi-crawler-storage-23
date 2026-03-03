@@ -1,0 +1,11 @@
+{
+  "name": "reasoning-core",
+  "version": "0.2.2",
+  "summary": "A RL env with procedurally generated symbolic reasoning data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reasoning_core-0.2.2.tar.gz",
+  "download_time": "2026-03-03T08:36:41.656851",
+  "package_url": "https://pypi.org/project/reasoning-core/"
+}

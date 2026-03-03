@@ -1,0 +1,11 @@
+{
+  "name": "osm-osw-reformatter",
+  "version": "0.3.2",
+  "summary": "Python package to convert OSM to OSW and OSW to OSM",
+  "author": "Sujata Misra",
+  "license": null,
+  "home_page": "https://github.com/TaskarCenterAtUW/TDEI-python-lib-osw-formatter",
+  "download_filename": "osm_osw_reformatter-0.3.2-py3-none-any.whl",
+  "download_time": "2026-03-03T08:36:46.048959",
+  "package_url": "https://pypi.org/project/osm-osw-reformatter/"
+}

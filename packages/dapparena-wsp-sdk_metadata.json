@@ -1,11 +1,11 @@
 {
   "name": "dapparena-wsp-sdk",
-  "version": "1.1.0",
-  "summary": "DappArena WSP SDK — WorldLand Scholar Protocol 멀티 에이전트 프레임워크 (MCP+RAG+LLM Router)",
+  "version": "1.2.0",
+  "summary": "DappArena WSP SDK — WorldLand Scholar Protocol 멀티 에이전트 프레임워크 (DID+ERC-6551+x402+MCP+RAG)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dapparena_wsp_sdk-1.1.0.tar.gz",
-  "download_time": "2026-03-03T05:12:14.835521",
+  "download_filename": "dapparena_wsp_sdk-1.2.0.tar.gz",
+  "download_time": "2026-03-03T08:37:20.425845",
   "package_url": "https://pypi.org/project/dapparena-wsp-sdk/"
 }

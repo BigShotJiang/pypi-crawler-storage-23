@@ -1,0 +1,11 @@
+{
+  "name": "calphy",
+  "version": "1.5.10",
+  "summary": "free energy calculation for python",
+  "author": "Yury Lysogorskiy, Ralf Drautz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "calphy-1.5.10.tar.gz",
+  "download_time": "2026-03-03T08:37:11.716012",
+  "package_url": "https://pypi.org/project/calphy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "auto-yes",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Automatically respond 'yes' to interactive CLI prompts via PTY proxy",
   "author": "auto-yes contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "auto_yes-0.10.0.tar.gz",
-  "download_time": "2026-03-03T06:10:02.121237",
+  "download_filename": "auto_yes-0.11.0.tar.gz",
+  "download_time": "2026-03-03T08:37:23.145635",
   "package_url": "https://pypi.org/project/auto-yes/"
 }

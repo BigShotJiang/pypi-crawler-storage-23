@@ -1,0 +1,11 @@
+{
+  "name": "motosan-prediction-sdk",
+  "version": "0.2.0",
+  "summary": "Cross-platform prediction market SDK for Polymarket and Kalshi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "motosan_prediction_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-03T08:37:13.883018",
+  "package_url": "https://pypi.org/project/motosan-prediction-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eastat",
+  "version": "0.1.1",
+  "summary": "CSV column statistics powered by Ea SIMD kernels",
+  "author": "Peter Lukka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eastat-0.1.1-py3-none-manylinux_2_17_aarch64.whl",
+  "download_time": "2026-03-03T08:37:12.798825",
+  "package_url": "https://pypi.org/project/eastat/"
+}

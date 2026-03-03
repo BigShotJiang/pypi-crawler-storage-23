@@ -1,11 +1,11 @@
 {
   "name": "radar-ai",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "RADAR-AI Production Debugging SDK",
   "author": "Ayush Sharma",
   "license": null,
   "home_page": null,
-  "download_filename": "radar_ai-0.1.0.tar.gz",
-  "download_time": "2026-03-03T06:10:10.936605",
+  "download_filename": "radar_ai-0.1.2.tar.gz",
+  "download_time": "2026-03-03T08:36:49.843156",
   "package_url": "https://pypi.org/project/radar-ai/"
 }

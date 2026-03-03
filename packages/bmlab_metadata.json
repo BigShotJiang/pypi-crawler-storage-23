@@ -1,0 +1,11 @@
+{
+  "name": "bmlab",
+  "version": "0.12.0",
+  "summary": "Library for Brillouin microscopy data analysis",
+  "author": "bmlab developers",
+  "license": "GPL v3",
+  "home_page": "https://github.com/BrillouinMicroscopy/bmlab",
+  "download_filename": "bmlab-0.12.0.tar.gz",
+  "download_time": "2026-03-03T08:37:01.230471",
+  "package_url": "https://pypi.org/project/bmlab/"
+}
