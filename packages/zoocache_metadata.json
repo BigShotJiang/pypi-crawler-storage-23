@@ -1,0 +1,11 @@
+{
+  "name": "zoocache",
+  "version": "2026.3.3",
+  "summary": "Cache that invalidates when your data changes, not when a timer expires. Rust-powered semantic invalidation for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zoocache-2026.3.3.tar.gz",
+  "download_time": "2026-03-03T18:32:26.514068",
+  "package_url": "https://pypi.org/project/zoocache/"
+}

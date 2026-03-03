@@ -1,11 +1,11 @@
 {
   "name": "uiwrapper",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A chainable PySide6 UI wrapper for building desktop apps fast",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uiwrapper-0.1.0-cp312-cp312-macosx_10_13_universal2.whl",
-  "download_time": "2026-03-03T12:39:12.393440",
+  "download_filename": "uiwrapper-0.1.2-cp312-cp312-macosx_10_13_universal2.whl",
+  "download_time": "2026-03-03T18:32:41.323757",
   "package_url": "https://pypi.org/project/uiwrapper/"
 }

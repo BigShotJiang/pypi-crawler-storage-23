@@ -1,0 +1,11 @@
+{
+  "name": "joltax",
+  "version": "0.1.2",
+  "summary": "JolTax is a high-performance, vectorized taxonomy library for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "joltax-0.1.2.tar.gz",
+  "download_time": "2026-03-03T18:32:25.628465",
+  "package_url": "https://pypi.org/project/joltax/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oh-my-linear",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "OhMyLinearMCP - unified Linear MCP (local-fast reads + official fallback/writes) on macOS",
   "author": "everything-chalna",
   "license": null,
   "home_page": null,
-  "download_filename": "oh_my_linear-0.6.1.tar.gz",
-  "download_time": "2026-03-03T14:34:49.728446",
+  "download_filename": "oh_my_linear-0.6.2.tar.gz",
+  "download_time": "2026-03-03T18:32:04.779662",
   "package_url": "https://pypi.org/project/oh-my-linear/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "isage-agentic-tooluse",
+  "version": "0.1.0.4",
+  "summary": "Tool retrieval and ranking algorithms for LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isage_agentic_tooluse-0.1.0.4.tar.gz",
+  "download_time": "2026-03-03T18:32:40.085473",
+  "package_url": "https://pypi.org/project/isage-agentic-tooluse/"
+}

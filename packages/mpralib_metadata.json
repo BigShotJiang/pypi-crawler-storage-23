@@ -1,0 +1,11 @@
+{
+  "name": "mpralib",
+  "version": "0.10.1",
+  "summary": "Library to analyze count data of MPRA experiments.",
+  "author": "Max Schubach",
+  "license": null,
+  "home_page": "https://github.com/kircherlab/MPRAlib",
+  "download_filename": "mpralib-0.10.1.tar.gz",
+  "download_time": "2026-03-03T18:32:41.904955",
+  "package_url": "https://pypi.org/project/mpralib/"
+}

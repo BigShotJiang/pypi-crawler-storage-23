@@ -1,11 +1,11 @@
 {
   "name": "isagellm-dev-tools",
-  "version": "0.5.4.0",
+  "version": "0.5.4.8",
   "summary": "Developer tools for sageLLM multi-repository development",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "isagellm_dev_tools-0.5.4.0.tar.gz",
-  "download_time": "2026-02-27T07:57:48.823513",
+  "download_filename": "isagellm_dev_tools-0.5.4.8.tar.gz",
+  "download_time": "2026-03-03T18:32:47.808836",
   "package_url": "https://pypi.org/project/isagellm-dev-tools/"
 }
