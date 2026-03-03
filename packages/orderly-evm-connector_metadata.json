@@ -1,0 +1,11 @@
+{
+  "name": "orderly-evm-connector",
+  "version": "0.2.7",
+  "summary": "This is a lightweight library that works as a connector to Orderly API and Websocket.",
+  "author": "Orderly Tech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orderly_evm_connector-0.2.7.tar.gz",
+  "download_time": "2026-03-03T05:12:31.523585",
+  "package_url": "https://pypi.org/project/orderly-evm-connector/"
+}

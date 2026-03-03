@@ -1,0 +1,11 @@
+{
+  "name": "tune-dms",
+  "version": "0.1.7",
+  "summary": "TUNE DMS desktop GUI automation: login and report generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tune_dms-0.1.7.tar.gz",
+  "download_time": "2026-03-03T05:13:02.175557",
+  "package_url": "https://pypi.org/project/tune-dms/"
+}

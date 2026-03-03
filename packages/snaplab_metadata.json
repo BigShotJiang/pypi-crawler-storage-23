@@ -1,11 +1,11 @@
 {
   "name": "snaplab",
-  "version": "0.0.6",
+  "version": "0.1.1",
   "summary": "Lightweight ML evaluation and publishing helper.",
   "author": "Mohit Rajput",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snaplab-0.0.6.tar.gz",
-  "download_time": "2026-03-01T14:20:13.453553",
+  "download_filename": "snaplab-0.1.1.tar.gz",
+  "download_time": "2026-03-03T05:12:37.570033",
   "package_url": "https://pypi.org/project/snaplab/"
 }

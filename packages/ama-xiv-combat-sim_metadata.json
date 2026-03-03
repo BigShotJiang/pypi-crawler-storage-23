@@ -1,11 +1,11 @@
 {
   "name": "ama-xiv-combat-sim",
-  "version": "2026.2.24.2",
+  "version": "2026.3.2.1",
   "summary": "Ama's FF14 Combat Sim",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ama_xiv_combat_sim-2026.2.24.2.tar.gz",
-  "download_time": "2026-02-24T10:09:50.163461",
+  "download_filename": "ama_xiv_combat_sim-2026.3.2.1.tar.gz",
+  "download_time": "2026-03-03T05:12:54.348821",
   "package_url": "https://pypi.org/project/ama-xiv-combat-sim/"
 }

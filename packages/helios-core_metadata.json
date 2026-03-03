@@ -1,0 +1,11 @@
+{
+  "name": "helios-core",
+  "version": "1.0.4",
+  "summary": "RBMK reactor control station simulator and operator utilities",
+  "author": "Helios Core Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "helios_core-1.0.4.tar.gz",
+  "download_time": "2026-03-03T05:12:51.019554",
+  "package_url": "https://pypi.org/project/helios-core/"
+}

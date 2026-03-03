@@ -1,0 +1,11 @@
+{
+  "name": "zenpulse-scheduler",
+  "version": "0.1.4",
+  "summary": "A DB-driven APScheduler for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenpulse_scheduler-0.1.4.tar.gz",
+  "download_time": "2026-03-03T05:12:38.147841",
+  "package_url": "https://pypi.org/project/zenpulse-scheduler/"
+}
