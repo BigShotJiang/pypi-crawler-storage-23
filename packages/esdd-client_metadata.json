@@ -1,11 +1,11 @@
 {
   "name": "esdd-client",
-  "version": "0.1.317",
+  "version": "0.1.341",
   "summary": "API client for the online platform ESDD (evaluation, standardization, and derived data)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "esdd_client-0.1.317.tar.gz",
-  "download_time": "2026-03-03T21:59:09.321662",
+  "download_filename": "esdd_client-0.1.341.tar.gz",
+  "download_time": "2026-03-03T22:33:25.792056",
   "package_url": "https://pypi.org/project/esdd-client/"
 }

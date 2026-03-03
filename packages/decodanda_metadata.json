@@ -1,0 +1,11 @@
+{
+  "name": "decodanda",
+  "version": "0.8.4",
+  "summary": "Geometric decoding of neural data with built-in best practices.",
+  "author": "Lorenzo Posani",
+  "license": null,
+  "home_page": "https://github.com/lposani/decodanda",
+  "download_filename": "decodanda-0.8.4.tar.gz",
+  "download_time": "2026-03-03T22:33:48.340030",
+  "package_url": "https://pypi.org/project/decodanda/"
+}

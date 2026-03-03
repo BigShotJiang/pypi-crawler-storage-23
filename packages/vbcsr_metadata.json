@@ -1,0 +1,11 @@
+{
+  "name": "vbcsr",
+  "version": "0.2.2",
+  "summary": "Variable Block Compressed Sparse Row Matrix with MPI support",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "vbcsr-0.2.2.tar.gz",
+  "download_time": "2026-03-03T22:34:00.790501",
+  "package_url": "https://pypi.org/project/vbcsr/"
+}

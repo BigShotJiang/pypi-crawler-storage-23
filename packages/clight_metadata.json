@@ -1,0 +1,11 @@
+{
+  "name": "clight",
+  "version": "2.4.5",
+  "summary": "CLight is a Python command-line interface application. A lightweight Framework that simplifies CLI app development and the package distribution process, with automatic deployment strategies from Local, GitHub and GitLab environments.",
+  "author": "Irakli Gzirishvili",
+  "license": null,
+  "home_page": "https://github.com/IG-onGit/CLight",
+  "download_filename": "clight-2.4.5.tar.gz",
+  "download_time": "2026-03-03T22:34:07.754272",
+  "package_url": "https://pypi.org/project/clight/"
+}

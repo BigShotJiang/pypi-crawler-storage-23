@@ -1,11 +1,11 @@
 {
   "name": "chronometry-ai",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "Privacy-first activity tracker with AI-powered annotation and timeline generation",
   "author": "Chronometry Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "chronometry_ai-1.0.21.tar.gz",
-  "download_time": "2026-03-03T01:15:24.189375",
+  "download_filename": "chronometry_ai-1.0.22.tar.gz",
+  "download_time": "2026-03-03T22:33:26.324603",
   "package_url": "https://pypi.org/project/chronometry-ai/"
 }

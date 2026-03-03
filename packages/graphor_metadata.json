@@ -1,11 +1,11 @@
 {
   "name": "graphor",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "summary": "The official Python library for the graphor API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "graphor-0.17.0.tar.gz",
-  "download_time": "2026-02-26T18:32:22.410578",
+  "download_filename": "graphor-0.17.1.tar.gz",
+  "download_time": "2026-03-03T22:33:42.931893",
   "package_url": "https://pypi.org/project/graphor/"
 }

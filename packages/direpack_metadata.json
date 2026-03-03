@@ -1,0 +1,11 @@
+{
+  "name": "direpack",
+  "version": "1.2.0",
+  "summary": "A Python 3 Library for State-of-the-Art Statistical Dimension Reduction Methods",
+  "author": "Emmanuel Jordy Menvouta, Sven Serneels, Tim Verdonck",
+  "license": null,
+  "home_page": "https://github.com/SvenSerneels/direpack",
+  "download_filename": "direpack-1.2.0.tar.gz",
+  "download_time": "2026-03-03T22:34:09.356842",
+  "package_url": "https://pypi.org/project/direpack/"
+}

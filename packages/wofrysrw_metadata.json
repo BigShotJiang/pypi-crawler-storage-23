@@ -1,0 +1,11 @@
+{
+  "name": "wofrysrw",
+  "version": "1.1.36",
+  "summary": "WOFRY for SRW library",
+  "author": "Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/lucarebuffi/wofrysrw",
+  "download_filename": "wofrysrw-1.1.36.tar.gz",
+  "download_time": "2026-03-03T22:34:08.823918",
+  "package_url": "https://pypi.org/project/wofrysrw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "samlib",
+  "version": "1.303.3",
+  "summary": "High-level library for NLR's SAM Simulation Core (SSC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "samlib-1.303.3.tar.gz",
+  "download_time": "2026-03-03T22:34:02.916639",
+  "package_url": "https://pypi.org/project/samlib/"
+}

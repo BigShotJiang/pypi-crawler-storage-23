@@ -1,0 +1,11 @@
+{
+  "name": "flink-unittest",
+  "version": "0.2.1",
+  "summary": "Unit test your Flink SQL with YAML-defined fixtures",
+  "author": "Florian Eiden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flink_unittest-0.2.1.tar.gz",
+  "download_time": "2026-03-03T22:33:49.942016",
+  "package_url": "https://pypi.org/project/flink-unittest/"
+}

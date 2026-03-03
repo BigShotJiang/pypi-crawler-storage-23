@@ -1,0 +1,11 @@
+{
+  "name": "plumb-dev",
+  "version": "0.2.4",
+  "summary": "Keep spec, tests, and code in sync during AI-assisted development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plumb_dev-0.2.4.tar.gz",
+  "download_time": "2026-03-03T22:33:53.220514",
+  "package_url": "https://pypi.org/project/plumb-dev/"
+}

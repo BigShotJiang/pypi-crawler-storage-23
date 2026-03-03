@@ -1,11 +1,11 @@
 {
   "name": "open-export",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Archive and export your AI chat conversations as JSON and Markdown.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "open_export-0.1.1.tar.gz",
-  "download_time": "2026-03-03T21:59:19.288322",
+  "download_filename": "open_export-0.1.6.tar.gz",
+  "download_time": "2026-03-03T22:34:02.383954",
   "package_url": "https://pypi.org/project/open-export/"
 }
