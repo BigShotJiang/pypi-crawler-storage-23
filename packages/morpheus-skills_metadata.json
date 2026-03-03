@@ -1,0 +1,11 @@
+{
+  "name": "morpheus-skills",
+  "version": "0.2.0",
+  "summary": "Install Codex/Claude style SKILL.md packages to local agent skill directories.",
+  "author": "Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morpheus_skills-0.2.0.tar.gz",
+  "download_time": "2026-03-03T20:28:18.774207",
+  "package_url": "https://pypi.org/project/morpheus-skills/"
+}

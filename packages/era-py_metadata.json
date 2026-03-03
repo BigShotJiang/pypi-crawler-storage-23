@@ -1,11 +1,11 @@
 {
   "name": "era-py",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Helper functions for the Python version of Empirical Research in Accounting: Tools and Methods",
   "author": "Ian D. Gow",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "era_py-0.0.11.tar.gz",
-  "download_time": "2026-03-01T19:20:09.514982",
+  "download_filename": "era_py-0.0.12.tar.gz",
+  "download_time": "2026-03-03T20:27:57.177617",
   "package_url": "https://pypi.org/project/era-py/"
 }

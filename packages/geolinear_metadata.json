@@ -1,0 +1,11 @@
+{
+  "name": "geolinear",
+  "version": "0.2.0",
+  "summary": "Boosted linear models on HVRT cooperative geometry partitions",
+  "author": "Jake Peace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geolinear-0.2.0.tar.gz",
+  "download_time": "2026-03-03T20:28:15.122603",
+  "package_url": "https://pypi.org/project/geolinear/"
+}

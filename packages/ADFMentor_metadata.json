@@ -1,11 +1,11 @@
 {
   "name": "ADFMentor",
-  "version": "0.3.0",
-  "summary": "Parse Azure Data Factory project files and evaluate them using AI models.",
+  "version": "1.0.1",
+  "summary": "Evaluate Azure Data Factory submissions from JSON/ZIP/folder inputs with comprehensive AI-driven grading and professional reporting.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "adfmentor-0.3.0.tar.gz",
-  "download_time": "2026-03-03T17:44:33.961727",
+  "download_filename": "adfmentor-1.0.1.tar.gz",
+  "download_time": "2026-03-03T20:27:57.697222",
   "package_url": "https://pypi.org/project/ADFMentor/"
 }

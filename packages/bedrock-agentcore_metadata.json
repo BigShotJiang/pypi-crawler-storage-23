@@ -1,11 +1,11 @@
 {
   "name": "bedrock-agentcore",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "An SDK for using Bedrock AgentCore",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bedrock_agentcore-1.4.1.tar.gz",
-  "download_time": "2026-02-27T21:52:39.703022",
+  "download_filename": "bedrock_agentcore-1.4.2.tar.gz",
+  "download_time": "2026-03-03T20:28:17.730933",
   "package_url": "https://pypi.org/project/bedrock-agentcore/"
 }

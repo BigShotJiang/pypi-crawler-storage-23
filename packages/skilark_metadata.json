@@ -1,11 +1,11 @@
 {
   "name": "skilark",
-  "version": "0.3.5",
+  "version": "0.4.3",
   "summary": "Your career intelligence companion — coding challenges, job matching, and market signals",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skilark-0.3.5.tar.gz",
-  "download_time": "2026-02-28T08:52:35.601034",
+  "download_filename": "skilark-0.4.3.tar.gz",
+  "download_time": "2026-03-03T20:27:48.058836",
   "package_url": "https://pypi.org/project/skilark/"
 }

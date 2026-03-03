@@ -1,0 +1,11 @@
+{
+  "name": "lsdb",
+  "version": "0.8.2",
+  "summary": "Spatial analysis for extremely large astronomical catalogs using dask",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsdb-0.8.2-py3-none-any.whl",
+  "download_time": "2026-03-03T20:27:46.467685",
+  "package_url": "https://pypi.org/project/lsdb/"
+}

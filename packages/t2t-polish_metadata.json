@@ -1,0 +1,11 @@
+{
+  "name": "t2t-polish",
+  "version": "4.1.1",
+  "summary": "Fully automatic, iterative K-mer based polishing of genome assemblies",
+  "author": "Patrick Grady",
+  "license": "Public Domain (U.S. Government Work - NHGRI/NIH)",
+  "home_page": null,
+  "download_filename": "t2t_polish-4.1.1.tar.gz",
+  "download_time": "2026-03-03T20:27:55.583396",
+  "package_url": "https://pypi.org/project/t2t-polish/"
+}
