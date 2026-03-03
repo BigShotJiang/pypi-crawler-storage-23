@@ -1,11 +1,11 @@
 {
   "name": "dbconform",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Synchronize database schema to models — document-driven project.",
   "author": "Brian L. Pond",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbconform-0.1.1.tar.gz",
-  "download_time": "2026-03-03T22:56:48.577078",
+  "download_filename": "dbconform-0.1.3.tar.gz",
+  "download_time": "2026-03-03T23:52:14.395899",
   "package_url": "https://pypi.org/project/dbconform/"
 }

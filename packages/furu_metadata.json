@@ -1,11 +1,11 @@
 {
   "name": "furu",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Add your description here",
   "author": "Herman Brunborg",
   "license": null,
   "home_page": null,
-  "download_filename": "furu-0.0.15.tar.gz",
-  "download_time": "2026-03-03T23:22:45.460120",
+  "download_filename": "furu-0.0.16.tar.gz",
+  "download_time": "2026-03-03T23:52:50.719343",
   "package_url": "https://pypi.org/project/furu/"
 }

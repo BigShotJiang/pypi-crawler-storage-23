@@ -1,11 +1,11 @@
 {
   "name": "pgplan",
-  "version": "1.0.0",
-  "summary": "Compare and analyze PostgreSQL EXPLAIN plans from the CLI",
-  "author": "Jacob Arthurs",
+  "version": "1.1.1",
+  "summary": "Analyze and compare PostgreSQL query plans",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pgplan-1.0.0-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-21T21:55:21.170593",
+  "download_filename": "pgplan-1.1.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-03T23:52:20.907590",
   "package_url": "https://pypi.org/project/pgplan/"
 }

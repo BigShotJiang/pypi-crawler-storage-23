@@ -1,0 +1,11 @@
+{
+  "name": "gt-flask",
+  "version": "0.0.0",
+  "summary": "Flask and FastAPI integration for General Translation",
+  "author": "Ernest McCarter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gt_flask-0.0.0.tar.gz",
+  "download_time": "2026-03-03T23:52:36.714602",
+  "package_url": "https://pypi.org/project/gt-flask/"
+}

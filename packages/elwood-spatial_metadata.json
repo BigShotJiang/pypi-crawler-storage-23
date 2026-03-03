@@ -1,0 +1,11 @@
+{
+  "name": "elwood-spatial",
+  "version": "0.1.0",
+  "summary": "Information-theoretic outlier detection for spatial time series networks",
+  "author": "Stuart Illson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elwood_spatial-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-03T23:52:56.004097",
+  "package_url": "https://pypi.org/project/elwood-spatial/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "websai",
+  "version": "1.0.0",
+  "summary": "WebsAI is an AI-powered full-stack framework for fast and intelligent generation of non-standard simple web applications.",
+  "author": "Irakli Gzirishvili",
+  "license": null,
+  "home_page": "https://github.com/IG-onGit/WebsAI",
+  "download_filename": "websai-1.0.0.tar.gz",
+  "download_time": "2026-03-03T23:52:29.880840",
+  "package_url": "https://pypi.org/project/websai/"
+}

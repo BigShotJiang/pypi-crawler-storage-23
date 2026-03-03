@@ -1,0 +1,11 @@
+{
+  "name": "foto2pptx",
+  "version": "0.1.0",
+  "summary": "Konvertiert Workshop-Fotos automatisch in PowerPoint-Präsentationen mithilfe von LLM Vision APIs",
+  "author": "Dein Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foto2pptx-0.1.0.tar.gz",
+  "download_time": "2026-03-03T23:52:43.523868",
+  "package_url": "https://pypi.org/project/foto2pptx/"
+}
