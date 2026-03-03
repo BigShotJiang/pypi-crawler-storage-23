@@ -1,11 +1,11 @@
 {
   "name": "pyphi-mvda",
-  "version": "6.0",
+  "version": "6.0.4",
   "summary": "A Python toolbox for multivariate analysis using PCA and PLS methods",
   "author": "Sal Garcia",
   "license": "MIT",
-  "home_page": "https://github.com/salvadorgarciamunoz/pyphi",
-  "download_filename": "pyphi_mvda-6.0.tar.gz",
-  "download_time": "2026-03-03T20:27:45.377797",
+  "home_page": "https://salvadorgarciamunoz.github.io/pyphi/",
+  "download_filename": "pyphi_mvda-6.0.4.tar.gz",
+  "download_time": "2026-03-03T21:18:24.463273",
   "package_url": "https://pypi.org/project/pyphi-mvda/"
 }

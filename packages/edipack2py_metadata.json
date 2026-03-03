@@ -1,0 +1,11 @@
+{
+  "name": "edipack2py",
+  "version": "5.4.3",
+  "summary": "EDIpack Python API",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "edipack2py-5.4.3.tar.gz",
+  "download_time": "2026-03-03T21:18:18.346490",
+  "package_url": "https://pypi.org/project/edipack2py/"
+}

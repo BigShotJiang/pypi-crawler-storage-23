@@ -1,0 +1,11 @@
+{
+  "name": "mhi-help",
+  "version": "1.0.2",
+  "summary": "Manitoba Hydro International: Help files",
+  "author": null,
+  "license": "BSD-3-Clause-Clear",
+  "home_page": null,
+  "download_filename": "mhi_help-1.0.2-py3-none-any.whl",
+  "download_time": "2026-03-03T21:18:34.203055",
+  "package_url": "https://pypi.org/project/mhi-help/"
+}

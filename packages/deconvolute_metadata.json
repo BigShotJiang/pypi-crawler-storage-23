@@ -1,0 +1,11 @@
+{
+  "name": "deconvolute",
+  "version": "0.1.0b2",
+  "summary": "Real-time security layer protecting AI Agents from Confused Deputy attacks, malicious MCP payloads, and Indirect Prompt Injection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deconvolute-0.1.0b2.tar.gz",
+  "download_time": "2026-03-03T21:18:20.609489",
+  "package_url": "https://pypi.org/project/deconvolute/"
+}

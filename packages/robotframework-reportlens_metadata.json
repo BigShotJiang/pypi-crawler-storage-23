@@ -1,11 +1,11 @@
 {
   "name": "robotframework-reportlens",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Generate a modern, interactive HTML report from Robot Framework output.xml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_reportlens-0.1.4.tar.gz",
-  "download_time": "2026-02-20T18:08:08.231671",
+  "download_filename": "robotframework_reportlens-0.1.5.tar.gz",
+  "download_time": "2026-03-03T21:18:40.267946",
   "package_url": "https://pypi.org/project/robotframework-reportlens/"
 }

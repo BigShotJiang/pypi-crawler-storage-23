@@ -1,0 +1,11 @@
+{
+  "name": "tfitpy",
+  "version": "0.5.1",
+  "summary": "TFit : Assessing the combinatorial potential of Transcription Factors in Gene Regulation",
+  "author": "SVJ",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tfitpy-0.5.1.tar.gz",
+  "download_time": "2026-03-03T21:18:17.803456",
+  "package_url": "https://pypi.org/project/tfitpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-auth",
+  "version": "0.3.0",
+  "summary": "LangChain Auth SDK for OAuth and tool authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_auth-0.3.0.tar.gz",
+  "download_time": "2026-03-03T21:18:20.067645",
+  "package_url": "https://pypi.org/project/langchain-auth/"
+}
