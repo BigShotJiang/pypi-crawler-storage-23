@@ -1,11 +1,11 @@
 {
   "name": "atac",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Recording and Replay AI Agent Trajectory.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atac-0.4.0.tar.gz",
-  "download_time": "2026-03-03T03:46:56.347106",
+  "download_filename": "atac-0.4.2.tar.gz",
+  "download_time": "2026-03-03T06:10:15.158259",
   "package_url": "https://pypi.org/project/atac/"
 }

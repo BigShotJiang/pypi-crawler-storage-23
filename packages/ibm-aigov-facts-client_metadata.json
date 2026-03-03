@@ -1,0 +1,11 @@
+{
+  "name": "ibm-aigov-facts-client",
+  "version": "1.0.105",
+  "summary": "FactSheetService ML facts collection utility",
+  "author": "IBM",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ibm_aigov_facts_client-1.0.105-py3-none-any.whl",
+  "download_time": "2026-03-03T06:10:21.340427",
+  "package_url": "https://pypi.org/project/ibm-aigov-facts-client/"
+}

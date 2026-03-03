@@ -1,11 +1,11 @@
 {
   "name": "sexp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A minimal-allocation S-expression library for Python, backed by a C extension.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sexp-1.0.0.tar.gz",
-  "download_time": "2026-03-03T05:12:20.935394",
+  "download_filename": "sexp-1.0.2.tar.gz",
+  "download_time": "2026-03-03T06:10:12.548664",
   "package_url": "https://pypi.org/project/sexp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-google-search-console-crunchtools",
+  "version": "0.1.0",
+  "summary": "Secure MCP server for Google Search Console analytics, sitemaps, and URL inspection",
+  "author": "crunchtools.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_google_search_console_crunchtools-0.1.0.tar.gz",
+  "download_time": "2026-03-03T06:10:43.583657",
+  "package_url": "https://pypi.org/project/mcp-google-search-console-crunchtools/"
+}

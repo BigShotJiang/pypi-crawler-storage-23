@@ -1,0 +1,11 @@
+{
+  "name": "streamator",
+  "version": "0.2.0",
+  "summary": "Backend logging primitive for long-running async jobs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamator-0.2.0.tar.gz",
+  "download_time": "2026-03-03T06:10:00.344842",
+  "package_url": "https://pypi.org/project/streamator/"
+}

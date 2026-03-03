@@ -1,0 +1,11 @@
+{
+  "name": "jpg-dwg",
+  "version": "0.1.0",
+  "summary": "Convert scanned P&ID images to DXF/DWG",
+  "author": "jpg-dwg contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jpg_dwg-0.1.0.tar.gz",
+  "download_time": "2026-03-03T06:09:59.309073",
+  "package_url": "https://pypi.org/project/jpg-dwg/"
+}

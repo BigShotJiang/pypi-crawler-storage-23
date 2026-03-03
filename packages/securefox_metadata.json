@@ -1,0 +1,11 @@
+{
+  "name": "securefox",
+  "version": "0.1.1",
+  "summary": "A cryptographically secure password generator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "securefox-0.1.1.tar.gz",
+  "download_time": "2026-03-03T06:10:05.813095",
+  "package_url": "https://pypi.org/project/securefox/"
+}

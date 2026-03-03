@@ -1,0 +1,11 @@
+{
+  "name": "csu",
+  "version": "1.22.1",
+  "summary": "Clean Slate Utils - bunch of utility code, mostly Django/DRF specific.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csu-1.22.1.tar.gz",
+  "download_time": "2026-03-03T06:10:01.518863",
+  "package_url": "https://pypi.org/project/csu/"
+}
