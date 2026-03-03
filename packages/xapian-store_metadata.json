@@ -1,0 +1,11 @@
+{
+  "name": "xapian-store",
+  "version": "0.2.4",
+  "summary": "Python package that provides the XStore model class, built on top of xapian_model.base.BaseXapianModel",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xapian_store-0.2.4.tar.gz",
+  "download_time": "2026-03-03T17:44:20.443003",
+  "package_url": "https://pypi.org/project/xapian-store/"
+}

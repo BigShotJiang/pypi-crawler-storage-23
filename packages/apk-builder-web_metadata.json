@@ -1,0 +1,11 @@
+{
+  "name": "apk-builder-web",
+  "version": "3.0.3",
+  "summary": "Convert any website URL or ZIP file into an Android APK — run it locally or deploy it anywhere",
+  "author": "Ayaan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apk_builder_web-3.0.3.tar.gz",
+  "download_time": "2026-03-03T17:44:28.413883",
+  "package_url": "https://pypi.org/project/apk-builder-web/"
+}

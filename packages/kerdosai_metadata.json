@@ -1,0 +1,11 @@
+{
+  "name": "kerdosai",
+  "version": "0.2.1",
+  "summary": "Universal LLM Training & RAG Agent for HuggingFace",
+  "author": "KerdosAI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kerdosai-0.2.1.tar.gz",
+  "download_time": "2026-03-03T17:45:04.585882",
+  "package_url": "https://pypi.org/project/kerdosai/"
+}

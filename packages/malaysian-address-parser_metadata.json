@@ -1,0 +1,11 @@
+{
+  "name": "malaysian-address-parser",
+  "version": "0.1.1",
+  "summary": "Deterministic, offline Malaysian address parser (A1/A2/A3/Postcode/State) for messy real-world datasets.",
+  "author": "Imaduddin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "malaysian_address_parser-0.1.1.tar.gz",
+  "download_time": "2026-03-03T17:44:30.646997",
+  "package_url": "https://pypi.org/project/malaysian-address-parser/"
+}

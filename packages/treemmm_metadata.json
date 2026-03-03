@@ -1,0 +1,11 @@
+{
+  "name": "treemmm",
+  "version": "0.1.0",
+  "summary": "Tree-based Market Mix Modeling with SHAP attribution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treemmm-0.1.0.tar.gz",
+  "download_time": "2026-03-03T17:44:56.577582",
+  "package_url": "https://pypi.org/project/treemmm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cogames",
-  "version": "0.16.0",
+  "version": "0.17.1",
   "summary": "Multi-agent cooperative games",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cogames-0.16.0-py3-none-any.whl",
-  "download_time": "2026-02-26T20:07:05.479630",
+  "download_filename": "cogames-0.17.1-py3-none-any.whl",
+  "download_time": "2026-03-03T17:44:38.480046",
   "package_url": "https://pypi.org/project/cogames/"
 }

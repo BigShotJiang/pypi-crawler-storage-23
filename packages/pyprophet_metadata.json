@@ -1,11 +1,11 @@
 {
   "name": "pyprophet",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "summary": "PyProphet: Semi-supervised learning and scoring of OpenSWATH results.",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "pyprophet-3.0.7.tar.gz",
-  "download_time": "2026-03-02T18:07:06.917786",
+  "download_filename": "pyprophet-3.0.8.tar.gz",
+  "download_time": "2026-03-03T17:44:24.347162",
   "package_url": "https://pypi.org/project/pyprophet/"
 }

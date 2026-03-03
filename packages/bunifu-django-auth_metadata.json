@@ -1,11 +1,11 @@
 {
   "name": "bunifu-django-auth",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "Internal authentication package using Django Allauth, DRF and SimpleJWT",
   "author": "Bunifu Capital",
   "license": null,
   "home_page": null,
-  "download_filename": "bunifu_django_auth-0.2.4.tar.gz",
-  "download_time": "2026-03-03T14:34:47.046706",
+  "download_filename": "bunifu_django_auth-0.2.7.tar.gz",
+  "download_time": "2026-03-03T17:44:59.781477",
   "package_url": "https://pypi.org/project/bunifu-django-auth/"
 }

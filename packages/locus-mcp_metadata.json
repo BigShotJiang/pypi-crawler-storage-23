@@ -1,11 +1,11 @@
 {
   "name": "locus-mcp",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "Hierarchical markdown memory palace for AI agents — MCP server, skills, and audit tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "locus_mcp-0.7.1.tar.gz",
-  "download_time": "2026-03-03T07:58:00.824555",
+  "download_filename": "locus_mcp-0.8.0.tar.gz",
+  "download_time": "2026-03-03T17:44:58.719748",
   "package_url": "https://pypi.org/project/locus-mcp/"
 }

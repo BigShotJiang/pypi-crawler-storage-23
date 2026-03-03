@@ -1,0 +1,11 @@
+{
+  "name": "gitter-colony",
+  "version": "1.2.1",
+  "summary": "Python port of the gitter colony quantification pipeline.",
+  "author": "Stefan",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gitter_colony-1.2.1.tar.gz",
+  "download_time": "2026-03-03T17:44:49.639463",
+  "package_url": "https://pypi.org/project/gitter-colony/"
+}

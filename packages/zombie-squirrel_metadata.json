@@ -1,11 +1,11 @@
 {
   "name": "zombie-squirrel",
-  "version": "0.10.6",
+  "version": "0.12.0",
   "summary": "Generated from aind-library-template",
   "author": "Allen Institute for Neural Dynamics",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zombie_squirrel-0.10.6.tar.gz",
-  "download_time": "2026-02-22T13:58:51.474082",
+  "download_filename": "zombie_squirrel-0.12.0.tar.gz",
+  "download_time": "2026-03-03T17:44:19.895710",
   "package_url": "https://pypi.org/project/zombie-squirrel/"
 }

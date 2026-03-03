@@ -1,0 +1,11 @@
+{
+  "name": "airev",
+  "version": "1.9.0",
+  "summary": "CLI tool for AI-powered code review with context backtracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airev-1.9.0.tar.gz",
+  "download_time": "2026-03-03T17:45:02.974206",
+  "package_url": "https://pypi.org/project/airev/"
+}

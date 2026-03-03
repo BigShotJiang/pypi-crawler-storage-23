@@ -1,0 +1,11 @@
+{
+  "name": "file-watchman",
+  "version": "0.1.0",
+  "summary": "Work directory manifest and delta library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "file_watchman-0.1.0.tar.gz",
+  "download_time": "2026-03-03T17:44:21.515514",
+  "package_url": "https://pypi.org/project/file-watchman/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zubax-nestor",
+  "version": "0.2.2",
+  "summary": "Log upload server for Zubax CANFace CF3D",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zubax_nestor-0.2.2.tar.gz",
+  "download_time": "2026-03-03T17:44:51.839594",
+  "package_url": "https://pypi.org/project/zubax-nestor/"
+}
