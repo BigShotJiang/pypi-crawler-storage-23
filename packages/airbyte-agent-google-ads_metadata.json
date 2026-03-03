@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-google-ads",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "Airbyte Google-Ads Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_google_ads-0.1.1.tar.gz",
-  "download_time": "2026-02-25T22:24:44.028726",
+  "download_filename": "airbyte_agent_google_ads-0.1.8.tar.gz",
+  "download_time": "2026-03-03T21:59:46.978261",
   "package_url": "https://pypi.org/project/airbyte-agent-google-ads/"
 }

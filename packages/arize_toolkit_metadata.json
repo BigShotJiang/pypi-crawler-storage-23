@@ -1,0 +1,11 @@
+{
+  "name": "arize_toolkit",
+  "version": "1.0.12",
+  "summary": "A library to interact with Arize AI APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arize_toolkit-1.0.12.tar.gz",
+  "download_time": "2026-03-03T21:59:34.222820",
+  "package_url": "https://pypi.org/project/arize_toolkit/"
+}

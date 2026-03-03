@@ -1,0 +1,11 @@
+{
+  "name": "lara-django-people-grpc",
+  "version": "0.2.110",
+  "summary": "gRPC interface to lara_django_people",
+  "author": "mark doerr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lara_django_people_grpc-0.2.110.tar.gz",
+  "download_time": "2026-03-03T21:59:18.198107",
+  "package_url": "https://pypi.org/project/lara-django-people-grpc/"
+}

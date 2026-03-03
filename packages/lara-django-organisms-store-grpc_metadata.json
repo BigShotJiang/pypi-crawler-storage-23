@@ -1,0 +1,11 @@
+{
+  "name": "lara-django-organisms-store-grpc",
+  "version": "0.2.102",
+  "summary": "gRPC interface to lara_django_organisms_store",
+  "author": "mark doerr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lara_django_organisms_store_grpc-0.2.102.tar.gz",
+  "download_time": "2026-03-03T21:59:29.017558",
+  "package_url": "https://pypi.org/project/lara-django-organisms-store-grpc/"
+}

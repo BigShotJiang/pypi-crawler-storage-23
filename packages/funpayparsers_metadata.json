@@ -1,11 +1,11 @@
 {
   "name": "funpayparsers",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Set of parsers for FunPay website.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funpayparsers-0.6.0.tar.gz",
-  "download_time": "2026-02-20T22:19:24.540252",
+  "download_filename": "funpayparsers-0.6.1.tar.gz",
+  "download_time": "2026-03-03T21:59:51.516075",
   "package_url": "https://pypi.org/project/funpayparsers/"
 }

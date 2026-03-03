@@ -1,11 +1,11 @@
 {
   "name": "funpaybotengine",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Framework for creating FunPay bots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funpaybotengine-0.5.0.tar.gz",
-  "download_time": "2026-02-20T22:19:12.063647",
+  "download_filename": "funpaybotengine-0.5.2.tar.gz",
+  "download_time": "2026-03-03T21:59:30.120198",
   "package_url": "https://pypi.org/project/funpaybotengine/"
 }

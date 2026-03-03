@@ -1,0 +1,11 @@
+{
+  "name": "agentdbg",
+  "version": "0.1.0",
+  "summary": "Local-first debugger for AI agents (traces, timeline UI, loop warnings).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentdbg-0.1.0.tar.gz",
+  "download_time": "2026-03-03T21:59:17.656775",
+  "package_url": "https://pypi.org/project/agentdbg/"
+}

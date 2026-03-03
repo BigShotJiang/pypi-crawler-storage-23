@@ -1,0 +1,11 @@
+{
+  "name": "upgrade-py-direct-reqs",
+  "version": "0.3.0",
+  "summary": "Upgrade only direct dependencies in requirements.txt or pyproject.toml",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upgrade_py_direct_reqs-0.3.0.tar.gz",
+  "download_time": "2026-03-03T21:59:35.914113",
+  "package_url": "https://pypi.org/project/upgrade-py-direct-reqs/"
+}

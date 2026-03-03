@@ -1,0 +1,11 @@
+{
+  "name": "sylvica",
+  "version": "1.0.0",
+  "summary": "Sylvester Vector Inference Core Accelerator (SYLVICA): Zero-Memory-Wall Matrix Multiplication",
+  "author": "Zero-Class Mathematical Architect",
+  "license": null,
+  "home_page": "https://github.com/yourusername/sylvica",
+  "download_filename": "sylvica-1.0.0.tar.gz",
+  "download_time": "2026-03-03T21:59:24.186058",
+  "package_url": "https://pypi.org/project/sylvica/"
+}
