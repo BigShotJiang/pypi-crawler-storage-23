@@ -1,0 +1,11 @@
+{
+  "name": "tstrait",
+  "version": "0.1.2",
+  "summary": "Quantitative trait simulation of tree sequence data",
+  "author": "Daiki Tagami et al.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tstrait-0.1.2.tar.gz",
+  "download_time": "2026-03-03T13:52:25.407973",
+  "package_url": "https://pypi.org/project/tstrait/"
+}

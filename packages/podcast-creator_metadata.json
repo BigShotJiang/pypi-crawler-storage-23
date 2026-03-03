@@ -1,0 +1,11 @@
+{
+  "name": "podcast-creator",
+  "version": "0.12.0",
+  "summary": "AI-powered podcast generation tool that creates conversational audio content from text sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "podcast_creator-0.12.0.tar.gz",
+  "download_time": "2026-03-03T13:51:59.208926",
+  "package_url": "https://pypi.org/project/podcast-creator/"
+}

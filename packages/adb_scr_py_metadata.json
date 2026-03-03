@@ -1,11 +1,11 @@
 {
   "name": "adb_scr_py",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "summary": "使用ADB协议在电脑上控制手机，并能高效获取屏幕显示的内容",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adb_scr_py-0.0.3.tar.gz",
-  "download_time": "2026-03-02T08:03:09.291856",
+  "download_filename": "adb_scr_py-0.1.0.tar.gz",
+  "download_time": "2026-03-03T13:52:17.171344",
   "package_url": "https://pypi.org/project/adb_scr_py/"
 }

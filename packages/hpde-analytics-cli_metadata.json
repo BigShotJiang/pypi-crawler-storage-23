@@ -1,0 +1,11 @@
+{
+  "name": "hpde-analytics-cli",
+  "version": "6.0.3",
+  "summary": "Data analysis and reporting tool for HPDE and Time Trials programs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hpde_analytics_cli-6.0.3.tar.gz",
+  "download_time": "2026-03-03T13:51:50.910451",
+  "package_url": "https://pypi.org/project/hpde-analytics-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kagent-langgraph",
-  "version": "0.7.19",
+  "version": "0.7.20",
   "summary": "LangGraph integration for KAgent with A2A server support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagent_langgraph-0.7.19.tar.gz",
-  "download_time": "2026-02-27T13:48:12.524560",
+  "download_filename": "kagent_langgraph-0.7.20.tar.gz",
+  "download_time": "2026-03-03T13:52:01.251076",
   "package_url": "https://pypi.org/project/kagent-langgraph/"
 }

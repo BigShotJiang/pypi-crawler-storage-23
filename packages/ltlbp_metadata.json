@@ -1,0 +1,11 @@
+{
+  "name": "ltlbp",
+  "version": "1.0.0",
+  "summary": "Logarithmic Transformation based Local Binary Pattern (LT-LBP) for Medical Image Analysis",
+  "author": "P.Pankaja Lakshmi",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "ltlbp-1.0.0.tar.gz",
+  "download_time": "2026-03-03T13:51:45.193640",
+  "package_url": "https://pypi.org/project/ltlbp/"
+}

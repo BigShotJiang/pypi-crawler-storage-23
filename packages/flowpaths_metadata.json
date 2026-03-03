@@ -1,0 +1,11 @@
+{
+  "name": "flowpaths",
+  "version": "0.2.13",
+  "summary": "A Python package to quickly decompose weighted graphs into weights paths, under various models.",
+  "author": "Graph Algorithms and Bioinformatics Group @ University of Helsinki, and external collaborators",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowpaths-0.2.13.tar.gz",
+  "download_time": "2026-03-03T13:52:06.386125",
+  "package_url": "https://pypi.org/project/flowpaths/"
+}

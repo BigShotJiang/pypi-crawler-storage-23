@@ -1,0 +1,11 @@
+{
+  "name": "bell-feed-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Bell Feed — crypto Twitter intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bell_feed_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-03T13:51:49.883994",
+  "package_url": "https://pypi.org/project/bell-feed-mcp/"
+}

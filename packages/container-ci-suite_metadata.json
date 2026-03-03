@@ -1,0 +1,11 @@
+{
+  "name": "container-ci-suite",
+  "version": "0.12.0",
+  "summary": "A python3 container CI tool for testing images.",
+  "author": "Petr Hracek",
+  "license": "MIT",
+  "home_page": "https://github.com/sclorg/container-ci-suite",
+  "download_filename": "container_ci_suite-0.12.0.tar.gz",
+  "download_time": "2026-03-03T13:52:11.035625",
+  "package_url": "https://pypi.org/project/container-ci-suite/"
+}

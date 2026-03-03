@@ -1,0 +1,11 @@
+{
+  "name": "pyrkafka",
+  "version": "0.2.1",
+  "summary": "Fast Python Kafka client powered by Rust and librdkafka — producer and consumer with native performance",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pyrkafka-0.2.1.tar.gz",
+  "download_time": "2026-03-03T13:52:21.780407",
+  "package_url": "https://pypi.org/project/pyrkafka/"
+}

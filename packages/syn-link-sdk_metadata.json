@@ -1,0 +1,11 @@
+{
+  "name": "syn-link-sdk",
+  "version": "1.1.3",
+  "summary": "End-to-end encrypted messaging for AI agents. Any agent, any framework, anywhere.",
+  "author": "Platin Digital",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "syn_link_sdk-1.1.3.tar.gz",
+  "download_time": "2026-03-03T13:52:19.737872",
+  "package_url": "https://pypi.org/project/syn-link-sdk/"
+}
