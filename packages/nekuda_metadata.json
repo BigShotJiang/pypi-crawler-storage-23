@@ -1,0 +1,11 @@
+{
+  "name": "nekuda",
+  "version": "0.2.10",
+  "summary": "Python SDK for Nekuda payment processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nekuda-0.2.10-py3-none-any.whl",
+  "download_time": "2026-03-03T19:20:20.838205",
+  "package_url": "https://pypi.org/project/nekuda/"
+}

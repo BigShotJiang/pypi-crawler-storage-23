@@ -1,11 +1,11 @@
 {
   "name": "huec",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "huec-0.1.4.tar.gz",
-  "download_time": "2026-03-02T18:06:25.391866",
+  "download_filename": "huec-0.1.6.tar.gz",
+  "download_time": "2026-03-03T19:20:27.074453",
   "package_url": "https://pypi.org/project/huec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tg-notify",
+  "version": "0.1.5",
+  "summary": "Rate-limited Telegram notifications with priority queue",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tg_notify-0.1.5.tar.gz",
+  "download_time": "2026-03-03T19:20:15.712408",
+  "package_url": "https://pypi.org/project/tg-notify/"
+}

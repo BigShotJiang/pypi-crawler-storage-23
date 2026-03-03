@@ -1,0 +1,11 @@
+{
+  "name": "open-aea-test-autonomy",
+  "version": "0.21.11",
+  "summary": "Plugin containing test tools for open-autonomy packages.",
+  "author": "Valory AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_aea_test_autonomy-0.21.11.tar.gz",
+  "download_time": "2026-03-03T19:20:00.134755",
+  "package_url": "https://pypi.org/project/open-aea-test-autonomy/"
+}

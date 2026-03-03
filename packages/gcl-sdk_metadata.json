@@ -1,11 +1,11 @@
 {
   "name": "gcl-sdk",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "The Genesis Core SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gcl_sdk-2.0.2.tar.gz",
-  "download_time": "2026-02-27T09:12:10.611834",
+  "download_filename": "gcl_sdk-2.0.3.tar.gz",
+  "download_time": "2026-03-03T19:20:00.668540",
   "package_url": "https://pypi.org/project/gcl-sdk/"
 }

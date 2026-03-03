@@ -1,0 +1,11 @@
+{
+  "name": "physlang",
+  "version": "0.1.1",
+  "summary": "Write math, run code. A DSL for mathematical physics.",
+  "author": "David Johnson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "physlang-0.1.1.tar.gz",
+  "download_time": "2026-03-03T19:20:11.616388",
+  "package_url": "https://pypi.org/project/physlang/"
+}

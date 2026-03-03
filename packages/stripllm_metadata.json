@@ -1,0 +1,11 @@
+{
+  "name": "stripllm",
+  "version": "0.1.0",
+  "summary": "LLM sanitization SDK — DOMPurify, but for LLM context windows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stripllm-0.1.0.tar.gz",
+  "download_time": "2026-03-03T19:19:58.494534",
+  "package_url": "https://pypi.org/project/stripllm/"
+}

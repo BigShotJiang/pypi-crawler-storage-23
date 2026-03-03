@@ -1,0 +1,11 @@
+{
+  "name": "railtracks-cli",
+  "version": "1.2.3",
+  "summary": "railtracks - A Python development server with JSON API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "railtracks_cli-1.2.3.tar.gz",
+  "download_time": "2026-03-03T19:19:55.233479",
+  "package_url": "https://pypi.org/project/railtracks-cli/"
+}
