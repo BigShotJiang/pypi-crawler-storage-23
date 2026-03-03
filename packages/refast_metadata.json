@@ -1,0 +1,11 @@
+{
+  "name": "refast",
+  "version": "0.0.5",
+  "summary": "Python + React UI framework for building reactive web applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "refast-0.0.5.tar.gz",
+  "download_time": "2026-03-03T21:44:41.656039",
+  "package_url": "https://pypi.org/project/refast/"
+}

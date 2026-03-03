@@ -1,0 +1,11 @@
+{
+  "name": "smartystreets-python-sdk",
+  "version": "5.2.0",
+  "summary": "An official library to help Python developers easily access the SmartyStreets APIs",
+  "author": "SmartyStreets SDK Team",
+  "license": "Apache 2",
+  "home_page": "https://github.com/smartystreets/smartystreets-python-sdk",
+  "download_filename": "smartystreets_python_sdk-5.2.0.tar.gz",
+  "download_time": "2026-03-03T21:44:37.744423",
+  "package_url": "https://pypi.org/project/smartystreets-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyofdm",
+  "version": "2.1.2",
+  "summary": "OFDM transmitter and receiver",
+  "author": "Bernd Porr, David Hutchings",
+  "license": null,
+  "home_page": "https://github.com/dchutchings/py_ofdm",
+  "download_filename": "pyofdm-2.1.2.tar.gz",
+  "download_time": "2026-03-03T21:45:24.273521",
+  "package_url": "https://pypi.org/project/pyofdm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gtirb-rewriting",
+  "version": "0.4.0",
+  "summary": "Utilities for rewriting GTIRB",
+  "author": "GrammaTech",
+  "license": "GPLv3",
+  "home_page": "https://github.com/grammatech/gtirb-rewriting",
+  "download_filename": "gtirb_rewriting-0.4.0-py3-none-any.whl",
+  "download_time": "2026-03-03T21:45:11.261778",
+  "package_url": "https://pypi.org/project/gtirb-rewriting/"
+}

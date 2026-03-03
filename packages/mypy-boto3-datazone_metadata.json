@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-datazone",
-  "version": "1.42.55",
-  "summary": "Type annotations for boto3 DataZone 1.42.55 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.60",
+  "summary": "Type annotations for boto3 DataZone 1.42.60 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_datazone-1.42.55.tar.gz",
-  "download_time": "2026-02-23T20:37:57.638018",
+  "download_filename": "mypy_boto3_datazone-1.42.60.tar.gz",
+  "download_time": "2026-03-03T21:44:52.520406",
   "package_url": "https://pypi.org/project/mypy-boto3-datazone/"
 }

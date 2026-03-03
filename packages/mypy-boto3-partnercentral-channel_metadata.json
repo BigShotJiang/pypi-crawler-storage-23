@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-partnercentral-channel",
+  "version": "1.42.60",
+  "summary": "Type annotations for boto3 PartnerCentralChannelAPI 1.42.60 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_partnercentral_channel-1.42.60.tar.gz",
+  "download_time": "2026-03-03T21:44:52.004536",
+  "package_url": "https://pypi.org/project/mypy-boto3-partnercentral-channel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "albums",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Manage music albums, automatically correct tags, organize and sync copies with interactive command line interface.",
   "author": "Ivan Cooper",
   "license": null,
   "home_page": null,
-  "download_filename": "albums-0.1.20.tar.gz",
-  "download_time": "2026-03-02T08:03:18.753579",
+  "download_filename": "albums-0.1.21.tar.gz",
+  "download_time": "2026-03-03T21:44:55.099763",
   "package_url": "https://pypi.org/project/albums/"
 }

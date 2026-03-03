@@ -1,0 +1,11 @@
+{
+  "name": "cfs-nxlib",
+  "version": "0.5.0",
+  "summary": "Reusable Python functions for the NXOpen Python API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfs_nxlib-0.5.0.tar.gz",
+  "download_time": "2026-03-03T21:45:21.150280",
+  "package_url": "https://pypi.org/project/cfs-nxlib/"
+}

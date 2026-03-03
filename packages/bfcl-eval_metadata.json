@@ -1,0 +1,11 @@
+{
+  "name": "bfcl-eval",
+  "version": "2026.3.3",
+  "summary": "Berkeley Function Calling Leaderboard (BFCL)",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "bfcl_eval-2026.3.3.tar.gz",
+  "download_time": "2026-03-03T21:45:08.107343",
+  "package_url": "https://pypi.org/project/bfcl-eval/"
+}

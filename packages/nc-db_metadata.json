@@ -1,0 +1,11 @@
+{
+  "name": "nc-db",
+  "version": "0.1.6",
+  "summary": "Simple document-oriented library for PostgresSql and Pydantic. High performance w/ support for large jsonb objects and fast querying using  native b-tree indexes.",
+  "author": "Dave Beck",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nc_db-0.1.6.tar.gz",
+  "download_time": "2026-03-03T21:44:47.206388",
+  "package_url": "https://pypi.org/project/nc-db/"
+}

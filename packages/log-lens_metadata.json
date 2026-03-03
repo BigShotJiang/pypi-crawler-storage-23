@@ -1,0 +1,11 @@
+{
+  "name": "log-lens",
+  "version": "0.7.1",
+  "summary": "Lightweight CLI for analyzing Apache/Nginx server logs",
+  "author": "KnowOneActual",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "log_lens-0.7.1.tar.gz",
+  "download_time": "2026-03-03T21:45:13.081332",
+  "package_url": "https://pypi.org/project/log-lens/"
+}
