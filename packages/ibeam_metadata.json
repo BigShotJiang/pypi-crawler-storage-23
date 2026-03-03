@@ -1,0 +1,11 @@
+{
+  "name": "ibeam",
+  "version": "0.5.10",
+  "summary": "IBeam is an authentication and maintenance tool used for the Interactive Brokers Client Portal Web API Gateway.",
+  "author": "Voy Zan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Voyz/ibeam",
+  "download_filename": "ibeam-0.5.10.tar.gz",
+  "download_time": "2026-03-03T11:56:27.589260",
+  "package_url": "https://pypi.org/project/ibeam/"
+}

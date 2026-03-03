@@ -1,0 +1,11 @@
+{
+  "name": "openrlhf",
+  "version": "0.9.4",
+  "summary": "A Ray-based High-performance RLHF framework.",
+  "author": "OpenRLHF Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrlhf-0.9.4-cp310-cp310-manylinux1_x86_64.whl",
+  "download_time": "2026-03-03T11:56:32.971850",
+  "package_url": "https://pypi.org/project/openrlhf/"
+}

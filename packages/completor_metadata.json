@@ -1,0 +1,11 @@
+{
+  "name": "completor",
+  "version": "1.6.0",
+  "summary": "Advanced multi-segmented well completion tool.",
+  "author": "Equinor ASA",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/equinor/completor",
+  "download_filename": "completor-1.6.0.tar.gz",
+  "download_time": "2026-03-03T11:56:52.014697",
+  "package_url": "https://pypi.org/project/completor/"
+}

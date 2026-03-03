@@ -1,0 +1,11 @@
+{
+  "name": "egypt-nlp",
+  "version": "2.0.0",
+  "summary": "مكتبة Python لاستخراج الكيانات الجغرافية المصرية مع معالجة الأخطاء الكتابية",
+  "author": "Egypt NLP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/egypt-nlp",
+  "download_filename": "egypt_nlp-2.0.0.tar.gz",
+  "download_time": "2026-03-03T11:56:19.738859",
+  "package_url": "https://pypi.org/project/egypt-nlp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "metatrain",
+  "version": "2026.2.1",
+  "summary": "Training and evaluating machine learning models for atomistic systems.",
+  "author": "metatrain developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metatrain-2026.2.1.tar.gz",
+  "download_time": "2026-03-03T11:56:30.388670",
+  "package_url": "https://pypi.org/project/metatrain/"
+}

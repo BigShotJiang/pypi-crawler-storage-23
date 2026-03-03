@@ -1,0 +1,11 @@
+{
+  "name": "otree",
+  "version": "6.0.12",
+  "summary": "Framework for multiplayer strategy games and complex surveys.",
+  "author": "chris@otree.org",
+  "license": "MIT License",
+  "home_page": "http://otree.org/",
+  "download_filename": "otree-6.0.12.tar.gz",
+  "download_time": "2026-03-03T11:56:55.610429",
+  "package_url": "https://pypi.org/project/otree/"
+}

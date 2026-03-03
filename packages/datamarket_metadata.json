@@ -1,0 +1,11 @@
+{
+  "name": "datamarket",
+  "version": "0.10.15",
+  "summary": "Utilities that integrate advanced scraping knowledge into just one library.",
+  "author": "DataMarket",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "datamarket-0.10.15.tar.gz",
+  "download_time": "2026-03-03T11:56:34.511763",
+  "package_url": "https://pypi.org/project/datamarket/"
+}

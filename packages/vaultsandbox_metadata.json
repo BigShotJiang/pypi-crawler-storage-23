@@ -1,0 +1,11 @@
+{
+  "name": "vaultsandbox",
+  "version": "0.9.3",
+  "summary": "Python SDK for VaultSandbox - Secure, receive-only SMTP server for QA/testing with quantum-safe encryption",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vaultsandbox-0.9.3.tar.gz",
+  "download_time": "2026-03-03T11:56:25.536834",
+  "package_url": "https://pypi.org/project/vaultsandbox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vectrix",
-  "version": "0.0.7",
-  "summary": "Zero-config time series forecasting & analysis library. Pure numpy + scipy implementation with 30+ models, regression, and adaptive intelligence.",
+  "version": "0.0.8",
+  "summary": "Zero-config time series forecasting & analysis library. 30+ models with built-in Rust engine for blazing-fast performance.",
   "author": "eddmpython",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "vectrix-0.0.7-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-02T06:11:32.021012",
+  "download_filename": "vectrix-0.0.8-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-03T11:56:20.276459",
   "package_url": "https://pypi.org/project/vectrix/"
 }

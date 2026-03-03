@@ -1,11 +1,11 @@
 {
   "name": "devdox-sonar",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "A CLI tool to analyze SonarCloud issues and attempt LLM-powered fixes",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "devdox_sonar-0.0.3.tar.gz",
-  "download_time": "2026-02-27T11:22:51.376769",
+  "download_filename": "devdox_sonar-0.0.5.tar.gz",
+  "download_time": "2026-03-03T11:56:48.940529",
   "package_url": "https://pypi.org/project/devdox-sonar/"
 }

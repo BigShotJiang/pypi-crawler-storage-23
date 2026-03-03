@@ -1,0 +1,11 @@
+{
+  "name": "bib-extractor",
+  "version": "0.1.5",
+  "summary": "Extract DOIs or titles from PDF papers and generate a BibTeX bibliography",
+  "author": "msrtarit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bib_extractor-0.1.5.tar.gz",
+  "download_time": "2026-03-03T11:56:59.221961",
+  "package_url": "https://pypi.org/project/bib-extractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anime-seg",
+  "version": "0.1.6",
+  "summary": "Anime Character Segmentation with DINOv2",
+  "author": "suzukimain",
+  "license": null,
+  "home_page": "https://github.com/suzukimain/AnimeSeg",
+  "download_filename": "anime_seg-0.1.6.tar.gz",
+  "download_time": "2026-03-03T11:56:36.060510",
+  "package_url": "https://pypi.org/project/anime-seg/"
+}

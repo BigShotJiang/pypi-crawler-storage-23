@@ -1,0 +1,11 @@
+{
+  "name": "realms-gos",
+  "version": "0.2.9",
+  "summary": "Realms Government Operating System - CLI and SDK for managing realms on the Internet Computer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "realms_gos-0.2.9.tar.gz",
+  "download_time": "2026-03-03T11:56:46.369263",
+  "package_url": "https://pypi.org/project/realms-gos/"
+}
