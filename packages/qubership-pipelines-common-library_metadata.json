@@ -1,0 +1,11 @@
+{
+  "name": "qubership-pipelines-common-library",
+  "version": "2.0.6",
+  "summary": "Qubership Pipelines common library",
+  "author": "Qubership",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qubership_pipelines_common_library-2.0.6.tar.gz",
+  "download_time": "2026-03-03T07:16:32.029135",
+  "package_url": "https://pypi.org/project/qubership-pipelines-common-library/"
+}

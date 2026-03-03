@@ -1,0 +1,11 @@
+{
+  "name": "pyser-panel",
+  "version": "3.1.4",
+  "summary": "A premium XAMPP-like control panel for Python developers.",
+  "author": "gtsivam",
+  "license": null,
+  "home_page": "https://github.com/gtsivam/pyser",
+  "download_filename": "pyser_panel-3.1.4.tar.gz",
+  "download_time": "2026-03-03T07:16:20.175993",
+  "package_url": "https://pypi.org/project/pyser-panel/"
+}

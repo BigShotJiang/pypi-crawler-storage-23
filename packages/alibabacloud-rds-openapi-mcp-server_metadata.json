@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-rds-openapi-mcp-server",
+  "version": "3.1.2",
+  "summary": "MCP server for RDS Services via OPENAPI.",
+  "author": "AlibabaCloud RDS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alibabacloud_rds_openapi_mcp_server-3.1.2.tar.gz",
+  "download_time": "2026-03-03T07:16:19.157025",
+  "package_url": "https://pypi.org/project/alibabacloud-rds-openapi-mcp-server/"
+}

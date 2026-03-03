@@ -1,0 +1,11 @@
+{
+  "name": "autolife-vamp",
+  "version": "0.6.1",
+  "summary": "Vector-Accelerated Motion Planner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autolife_vamp-0.6.1-cp312-abi3-manylinux_2_39_x86_64.whl",
+  "download_time": "2026-03-03T07:16:12.348902",
+  "package_url": "https://pypi.org/project/autolife-vamp/"
+}

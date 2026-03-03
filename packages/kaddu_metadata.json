@@ -1,0 +1,11 @@
+{
+  "name": "kaddu",
+  "version": "0.1.2",
+  "summary": "Generate project structure from AI-generated file trees",
+  "author": "Avinash",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaddu-0.1.2.tar.gz",
+  "download_time": "2026-03-03T07:16:17.606690",
+  "package_url": "https://pypi.org/project/kaddu/"
+}

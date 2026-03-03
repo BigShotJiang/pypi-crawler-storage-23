@@ -1,11 +1,11 @@
 {
   "name": "matrx-orm",
-  "version": "3.0.5",
+  "version": "3.0.12",
   "summary": "Async-first PostgreSQL ORM with bidirectional migrations, schema introspection, many-to-many relationships, and built-in state caching. Works with any PostgreSQL database.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "matrx_orm-3.0.5.tar.gz",
-  "download_time": "2026-03-02T08:02:50.085358",
+  "download_filename": "matrx_orm-3.0.12.tar.gz",
+  "download_time": "2026-03-03T07:16:20.690062",
   "package_url": "https://pypi.org/project/matrx-orm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lorien-memory",
+  "version": "0.4.2",
+  "summary": "Local-first personal knowledge graph for AI agents — ontology, causal chains, contradiction detection",
+  "author": "paperbags1103-hash",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lorien_memory-0.4.2.tar.gz",
+  "download_time": "2026-03-03T07:16:09.702142",
+  "package_url": "https://pypi.org/project/lorien-memory/"
+}

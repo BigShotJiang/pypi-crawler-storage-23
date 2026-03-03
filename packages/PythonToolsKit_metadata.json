@@ -1,0 +1,11 @@
+{
+  "name": "PythonToolsKit",
+  "version": "1.3.0",
+  "summary": "This package implements tools to build python package and tools.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/PythonToolsKit",
+  "download_filename": "pythontoolskit-1.3.0.tar.gz",
+  "download_time": "2026-03-03T07:16:36.163044",
+  "package_url": "https://pypi.org/project/PythonToolsKit/"
+}

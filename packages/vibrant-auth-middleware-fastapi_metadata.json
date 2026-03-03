@@ -1,0 +1,11 @@
+{
+  "name": "vibrant-auth-middleware-fastapi",
+  "version": "0.1.2",
+  "summary": "FastAPI authentication middleware with JWT verification and Azure integration",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "vibrant_auth_middleware_fastapi-0.1.2.tar.gz",
+  "download_time": "2026-03-03T07:16:00.142893",
+  "package_url": "https://pypi.org/project/vibrant-auth-middleware-fastapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Record",
+  "version": "4.2",
+  "summary": "Special Record objects used in Zope.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "record-4.2.tar.gz",
+  "download_time": "2026-03-03T07:16:14.469235",
+  "package_url": "https://pypi.org/project/Record/"
+}
