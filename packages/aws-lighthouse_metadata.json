@@ -1,11 +1,11 @@
 {
   "name": "aws-lighthouse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Terminal-first FinOps, Security, and Cloud Infrastructure Agent for AWS",
   "author": "AWS Lighthouse Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_lighthouse-0.1.0.tar.gz",
-  "download_time": "2026-03-03T12:39:13.556606",
+  "download_filename": "aws_lighthouse-0.1.1.tar.gz",
+  "download_time": "2026-03-03T16:58:31.209476",
   "package_url": "https://pypi.org/project/aws-lighthouse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tfmx",
-  "version": "0.9",
+  "version": "0.10.1",
   "summary": "Serve Transformers and Manage GPUs",
   "author": "Hansimov",
   "license": null,
   "home_page": null,
-  "download_filename": "tfmx-0.9.tar.gz",
-  "download_time": "2026-03-02T14:12:18.886124",
+  "download_filename": "tfmx-0.10.1.tar.gz",
+  "download_time": "2026-03-03T16:58:33.287107",
   "package_url": "https://pypi.org/project/tfmx/"
 }

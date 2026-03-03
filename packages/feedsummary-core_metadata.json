@@ -1,0 +1,11 @@
+{
+  "name": "feedsummary-core",
+  "version": "1.1.1",
+  "summary": "Core library for FeedSummary.",
+  "author": "Martin Vesterlund",
+  "license": null,
+  "home_page": null,
+  "download_filename": "feedsummary_core-1.1.1.tar.gz",
+  "download_time": "2026-03-03T16:58:20.578209",
+  "package_url": "https://pypi.org/project/feedsummary-core/"
+}

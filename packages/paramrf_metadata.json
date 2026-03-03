@@ -1,11 +1,11 @@
 {
   "name": "paramrf",
-  "version": "0.10.2",
+  "version": "0.10.4",
   "summary": "ParamRF: Parametric Radio Frequency Modelling, Fitting and Sampling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paramrf-0.10.2.tar.gz",
-  "download_time": "2026-03-03T09:13:35.381203",
+  "download_filename": "paramrf-0.10.4.tar.gz",
+  "download_time": "2026-03-03T16:58:22.282458",
   "package_url": "https://pypi.org/project/paramrf/"
 }

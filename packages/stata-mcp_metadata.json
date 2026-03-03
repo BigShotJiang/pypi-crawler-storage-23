@@ -1,11 +1,11 @@
 {
   "name": "stata-mcp",
-  "version": "1.13.38",
+  "version": "1.13.40",
   "summary": "Let LLM help you achieve your regression analysis with Stata",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "stata_mcp-1.13.38.tar.gz",
-  "download_time": "2026-02-28T08:52:43.519203",
+  "download_filename": "stata_mcp-1.13.40.tar.gz",
+  "download_time": "2026-03-03T16:58:28.353145",
   "package_url": "https://pypi.org/project/stata-mcp/"
 }

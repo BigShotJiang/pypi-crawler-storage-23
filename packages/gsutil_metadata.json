@@ -1,0 +1,11 @@
+{
+  "name": "gsutil",
+  "version": "5.36",
+  "summary": "A command line tool for interacting with cloud storage services.",
+  "author": "Google Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://cloud.google.com/storage/docs/gsutil",
+  "download_filename": "gsutil-5.36.tar.gz",
+  "download_time": "2026-03-03T16:58:34.374994",
+  "package_url": "https://pypi.org/project/gsutil/"
+}

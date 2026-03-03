@@ -1,0 +1,11 @@
+{
+  "name": "sonyalphapy",
+  "version": "0.1.0",
+  "summary": "Python bindings for the Sony Camera Remote SDK v1",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sonyalphapy-0.1.0.tar.gz",
+  "download_time": "2026-03-03T16:58:17.276765",
+  "package_url": "https://pypi.org/project/sonyalphapy/"
+}
