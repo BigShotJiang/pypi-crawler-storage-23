@@ -1,11 +1,11 @@
 {
   "name": "autoray",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "Abstract your array operations.",
   "author": null,
   "license": "Apache",
   "home_page": null,
-  "download_filename": "autoray-0.8.7.tar.gz",
-  "download_time": "2026-03-03T08:36:41.114426",
+  "download_filename": "autoray-0.8.8.tar.gz",
+  "download_time": "2026-03-03T22:56:47.015648",
   "package_url": "https://pypi.org/project/autoray/"
 }

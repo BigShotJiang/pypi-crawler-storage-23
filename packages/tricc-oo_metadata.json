@@ -1,11 +1,11 @@
 {
   "name": "tricc-oo",
-  "version": "1.6.33",
+  "version": "1.6.34",
   "summary": "Python library that converts CDSS L2 in L3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tricc_oo-1.6.33.tar.gz",
-  "download_time": "2026-02-22T14:22:50.539913",
+  "download_filename": "tricc_oo-1.6.34.tar.gz",
+  "download_time": "2026-03-03T22:57:09.193793",
   "package_url": "https://pypi.org/project/tricc-oo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "radix-edge",
+  "version": "2.0.0",
+  "summary": "Radix Edge Agent — GPU orchestration with information-theoretic scheduling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "radix_edge-2.0.0.tar.gz",
+  "download_time": "2026-03-03T22:56:58.643741",
+  "package_url": "https://pypi.org/project/radix-edge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepparameters",
+  "version": "2.0.9",
+  "summary": "Advanced Neural Network CPD Learning for Bayesian Networks with Parallel Execution and CLI Interface - Beta",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepparameters-2.0.9.tar.gz",
+  "download_time": "2026-03-03T22:57:16.005140",
+  "package_url": "https://pypi.org/project/deepparameters/"
+}

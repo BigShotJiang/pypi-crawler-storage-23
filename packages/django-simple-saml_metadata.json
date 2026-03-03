@@ -1,0 +1,11 @@
+{
+  "name": "django-simple-saml",
+  "version": "1.0.0",
+  "summary": "Django app for managing multiple SAML Identity Providers.",
+  "author": "YunoJuno",
+  "license": "MIT",
+  "home_page": "https://github.com/yunojuno/django-simple-saml",
+  "download_filename": "django_simple_saml-1.0.0.tar.gz",
+  "download_time": "2026-03-03T22:56:49.097273",
+  "package_url": "https://pypi.org/project/django-simple-saml/"
+}
