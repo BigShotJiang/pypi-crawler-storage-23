@@ -1,11 +1,11 @@
 {
   "name": "jpfin",
-  "version": "0.3.0",
+  "version": "0.11.0",
   "summary": "Unified CLI for Japanese equity factor analysis",
   "author": "ajtgjmdjp",
   "license": null,
   "home_page": null,
-  "download_filename": "jpfin-0.3.0.tar.gz",
-  "download_time": "2026-03-02T08:40:42.085420",
+  "download_filename": "jpfin-0.11.0.tar.gz",
+  "download_time": "2026-03-03T12:39:46.154501",
   "package_url": "https://pypi.org/project/jpfin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tuma250-mcp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "MCP server for the Tuma250 grocery site (Kigali, Rwanda)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tuma250_mcp-0.1.4.tar.gz",
-  "download_time": "2026-03-03T07:58:05.184011",
+  "download_filename": "tuma250_mcp-0.1.6.tar.gz",
+  "download_time": "2026-03-03T12:39:26.708475",
   "package_url": "https://pypi.org/project/tuma250-mcp/"
 }

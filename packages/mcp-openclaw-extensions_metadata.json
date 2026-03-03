@@ -1,11 +1,11 @@
 {
   "name": "mcp-openclaw-extensions",
-  "version": "3.3.0",
-  "summary": "138-tool MCP server for AI agent firms — security audit, A2A protocol, Hebbian memory, fleet management, and 25 more modules",
+  "version": "4.0.0",
+  "summary": "138-tool generic MCP server for AI agent firms. Works with Claude Code, Codex, VS Code, Cursor, Antigravity",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_openclaw_extensions-3.3.0.tar.gz",
-  "download_time": "2026-03-03T11:24:58.160984",
+  "download_filename": "mcp_openclaw_extensions-4.0.0.tar.gz",
+  "download_time": "2026-03-03T12:39:20.053453",
   "package_url": "https://pypi.org/project/mcp-openclaw-extensions/"
 }

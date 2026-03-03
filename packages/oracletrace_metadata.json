@@ -1,0 +1,11 @@
+{
+  "name": "oracletrace",
+  "version": "1.0.0",
+  "summary": "Detect Python performance regressions and compare execution traces with lightweight call graph visualization",
+  "author": "Kayk Caputo, André Gustavo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracletrace-1.0.0.tar.gz",
+  "download_time": "2026-03-03T12:39:34.837034",
+  "package_url": "https://pypi.org/project/oracletrace/"
+}

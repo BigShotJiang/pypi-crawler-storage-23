@@ -1,11 +1,11 @@
 {
   "name": "uns-kit",
-  "version": "0.0.32",
+  "version": "0.0.34",
   "summary": "Lightweight Python UNS MQTT client (pub/sub + infra topics)",
   "author": "Aljoša Vister",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uns_kit-0.0.32.tar.gz",
-  "download_time": "2026-02-26T10:32:51.114013",
+  "download_filename": "uns_kit-0.0.34.tar.gz",
+  "download_time": "2026-03-03T12:39:18.318550",
   "package_url": "https://pypi.org/project/uns-kit/"
 }

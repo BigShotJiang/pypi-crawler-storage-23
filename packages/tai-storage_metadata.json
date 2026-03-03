@@ -1,0 +1,11 @@
+{
+  "name": "tai-storage",
+  "version": "0.1.5",
+  "summary": "Librería para gestión unificada de archivos en múltiples orígenes de almacenamiento",
+  "author": "MateoSaezMata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tai_storage-0.1.5.tar.gz",
+  "download_time": "2026-03-03T12:39:57.452029",
+  "package_url": "https://pypi.org/project/tai-storage/"
+}

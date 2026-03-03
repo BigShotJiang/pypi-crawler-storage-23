@@ -1,0 +1,11 @@
+{
+  "name": "bondzai-gateway",
+  "version": "0.0.32",
+  "summary": "Bondzai Gateway",
+  "author": "Bondzai",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "bondzai_gateway-0.0.32.tar.gz",
+  "download_time": "2026-03-03T12:39:52.579237",
+  "package_url": "https://pypi.org/project/bondzai-gateway/"
+}
