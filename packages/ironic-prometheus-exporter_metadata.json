@@ -1,0 +1,11 @@
+{
+  "name": "ironic-prometheus-exporter",
+  "version": "4.8.0",
+  "summary": "Prometheus Exporter for Ironic Hardware Sensor data",
+  "author": "OpenStack",
+  "license": "Apache-2",
+  "home_page": "https://opendev.org/openstack/ironic-prometheus-exporter",
+  "download_filename": "ironic_prometheus_exporter-4.8.0.tar.gz",
+  "download_time": "2026-03-03T09:14:00.245859",
+  "package_url": "https://pypi.org/project/ironic-prometheus-exporter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "iker-python-common",
-  "version": "1.0.73",
+  "version": "1.0.74",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iker_python_common-1.0.73.tar.gz",
-  "download_time": "2026-02-26T08:03:39.236143",
+  "download_filename": "iker_python_common-1.0.74.tar.gz",
+  "download_time": "2026-03-03T09:13:55.588381",
   "package_url": "https://pypi.org/project/iker-python-common/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-extractor-timescaledb",
+  "version": "0.1.0",
+  "summary": "TimescaleDB extractor for mkpipe (uses PostgreSQL JDBC driver).",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_extractor_timescaledb-0.1.0.tar.gz",
+  "download_time": "2026-03-03T09:14:00.755301",
+  "package_url": "https://pypi.org/project/mkpipe-extractor-timescaledb/"
+}

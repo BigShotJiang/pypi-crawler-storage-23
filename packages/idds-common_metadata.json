@@ -1,11 +1,11 @@
 {
   "name": "idds-common",
-  "version": "2.5.6",
+  "version": "2.5.7",
   "summary": "intelligent Distributed Dispatch and Scheduling Service (iDDS) - Common Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idds_common-2.5.6-py2.py3-none-any.whl",
-  "download_time": "2026-03-02T22:06:28.280256",
+  "download_filename": "idds_common-2.5.7-py2.py3-none-any.whl",
+  "download_time": "2026-03-03T09:13:48.906058",
   "package_url": "https://pypi.org/project/idds-common/"
 }

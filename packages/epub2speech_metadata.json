@@ -1,0 +1,11 @@
+{
+  "name": "epub2speech",
+  "version": "0.0.7",
+  "summary": "Convert EPUB e-books into high-quality audiobooks using multiple Text-to-Speech providers (Azure, Doubao)",
+  "author": "TaoZeyu",
+  "license": "MIT",
+  "home_page": "https://github.com/oomol-lab/epub2speech",
+  "download_filename": "epub2speech-0.0.7.tar.gz",
+  "download_time": "2026-03-03T09:13:51.476665",
+  "package_url": "https://pypi.org/project/epub2speech/"
+}

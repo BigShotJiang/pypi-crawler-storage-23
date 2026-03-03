@@ -1,11 +1,11 @@
 {
   "name": "angel-cpu",
-  "version": "1.2",
+  "version": "1.4",
   "summary": "A CPU framework",
   "author": "ERROR-Xmakernotfound",
   "license": null,
   "home_page": null,
-  "download_filename": "angel_cpu-1.2.tar.gz",
-  "download_time": "2026-03-02T12:06:44.194319",
+  "download_filename": "angel_cpu-1.4.tar.gz",
+  "download_time": "2026-03-03T09:13:56.671337",
   "package_url": "https://pypi.org/project/angel-cpu/"
 }

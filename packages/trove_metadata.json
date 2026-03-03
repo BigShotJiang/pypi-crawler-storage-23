@@ -1,0 +1,11 @@
+{
+  "name": "trove",
+  "version": "24.0.0",
+  "summary": "OpenStack DBaaS",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/trove/latest/",
+  "download_filename": "trove-24.0.0.tar.gz",
+  "download_time": "2026-03-03T09:13:28.060495",
+  "package_url": "https://pypi.org/project/trove/"
+}

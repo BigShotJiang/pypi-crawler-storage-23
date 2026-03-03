@@ -1,11 +1,11 @@
 {
   "name": "video-research-mcp",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Unified Gemini research partner — 41 tools for video analysis, deep research, content extraction, and explainer video creation via MCP",
   "author": "Fausto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "video_research_mcp-0.3.1.tar.gz",
-  "download_time": "2026-03-03T08:36:40.566820",
+  "download_filename": "video_research_mcp-0.3.2.tar.gz",
+  "download_time": "2026-03-03T09:13:42.650714",
   "package_url": "https://pypi.org/project/video-research-mcp/"
 }

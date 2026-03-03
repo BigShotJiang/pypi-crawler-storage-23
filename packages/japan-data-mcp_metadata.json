@@ -1,0 +1,11 @@
+{
+  "name": "japan-data-mcp",
+  "version": "0.2.0",
+  "summary": "日本の公的データ（統計・法人・不動産・インボイス）にAIからアクセスするMCPサーバー",
+  "author": "Izyuusya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "japan_data_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-03T09:13:38.495196",
+  "package_url": "https://pypi.org/project/japan-data-mcp/"
+}

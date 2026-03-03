@@ -1,0 +1,11 @@
+{
+  "name": "rag-plug",
+  "version": "0.1.1",
+  "summary": "RAG client",
+  "author": "George K",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_plug-0.1.1.tar.gz",
+  "download_time": "2026-03-03T09:13:55.077487",
+  "package_url": "https://pypi.org/project/rag-plug/"
+}

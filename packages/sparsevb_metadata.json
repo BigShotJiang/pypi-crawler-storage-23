@@ -1,0 +1,11 @@
+{
+  "name": "sparsevb",
+  "version": "0.1.1",
+  "summary": "Spike-and-Slab Variational Bayes for Linear and Logistic Regression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparsevb-0.1.1.tar.gz",
+  "download_time": "2026-03-03T09:13:52.508888",
+  "package_url": "https://pypi.org/project/sparsevb/"
+}

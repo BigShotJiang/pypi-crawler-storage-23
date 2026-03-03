@@ -1,0 +1,11 @@
+{
+  "name": "boring-cli",
+  "version": "0.1.10",
+  "summary": "CLI tool for managing Lark Suite tasks",
+  "author": "Boring Agents Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "boring_cli-0.1.10.tar.gz",
+  "download_time": "2026-03-03T09:13:16.407737",
+  "package_url": "https://pypi.org/project/boring-cli/"
+}
