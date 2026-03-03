@@ -1,0 +1,11 @@
+{
+  "name": "variablesplus",
+  "version": "3.0.0",
+  "summary": "A Python package for handling variables, also my first library. I hope you enjoy! You can create, clear, write to, delete and read variables. Safely.",
+  "author": "Egglord",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "variablesplus-3.0.0.tar.gz",
+  "download_time": "2026-03-03T15:17:32.939206",
+  "package_url": "https://pypi.org/project/variablesplus/"
+}

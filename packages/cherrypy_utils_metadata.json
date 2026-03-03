@@ -1,0 +1,11 @@
+{
+  "name": "cherrypy_utils",
+  "version": "1.4.1",
+  "summary": "Collection of utility functions and modules for cherrypy web servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cherrypy_utils-1.4.1.tar.gz",
+  "download_time": "2026-03-03T15:17:41.636842",
+  "package_url": "https://pypi.org/project/cherrypy_utils/"
+}

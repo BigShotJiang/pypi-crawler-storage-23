@@ -1,0 +1,11 @@
+{
+  "name": "open-agent-search",
+  "version": "1.0.1",
+  "summary": "A production-ready metasearch API and MCP server powered by DuckDuckGo",
+  "author": "Jayanth-MKV",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_agent_search-1.0.1.tar.gz",
+  "download_time": "2026-03-03T15:18:06.643584",
+  "package_url": "https://pypi.org/project/open-agent-search/"
+}

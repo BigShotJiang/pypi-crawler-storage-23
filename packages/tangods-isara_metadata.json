@@ -1,0 +1,11 @@
+{
+  "name": "tangods-isara",
+  "version": "5.1.0",
+  "summary": "Tango device server for ISARA and ISARA2 sample changers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tangods_isara-5.1.0.tar.gz",
+  "download_time": "2026-03-03T15:17:34.568486",
+  "package_url": "https://pypi.org/project/tangods-isara/"
+}

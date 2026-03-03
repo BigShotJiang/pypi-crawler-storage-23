@@ -1,0 +1,11 @@
+{
+  "name": "sflibgen",
+  "version": "0.1.2",
+  "summary": "CLI to generate and maintain pybind11 bindings",
+  "author": "LibGen Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sflibgen-0.1.2.tar.gz",
+  "download_time": "2026-03-03T15:17:56.289701",
+  "package_url": "https://pypi.org/project/sflibgen/"
+}

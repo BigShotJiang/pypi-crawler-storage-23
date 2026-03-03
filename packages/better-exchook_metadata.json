@@ -1,11 +1,11 @@
 {
   "name": "better-exchook",
-  "version": "1.20260303.133251",
+  "version": "1.20260303.161200",
   "summary": "nice Python exception hook replacement",
   "author": "Albert Zeyer",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/albertz/py_better_exchook",
-  "download_filename": "better_exchook-1.20260303.133251.tar.gz",
-  "download_time": "2026-03-03T12:39:23.390742",
+  "download_filename": "better_exchook-1.20260303.161200.tar.gz",
+  "download_time": "2026-03-03T15:17:43.802542",
   "package_url": "https://pypi.org/project/better-exchook/"
 }

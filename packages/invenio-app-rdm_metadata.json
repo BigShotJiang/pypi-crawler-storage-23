@@ -1,0 +1,11 @@
+{
+  "name": "invenio-app-rdm",
+  "version": "13.0.8",
+  "summary": "Invenio Research Data Management.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-app-rdm",
+  "download_filename": "invenio_app_rdm-13.0.8.tar.gz",
+  "download_time": "2026-03-03T15:18:09.344928",
+  "package_url": "https://pypi.org/project/invenio-app-rdm/"
+}
