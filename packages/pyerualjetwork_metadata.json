@@ -1,11 +1,11 @@
 {
   "name": "pyerualjetwork",
-  "version": "5.64",
+  "version": "5.65",
   "summary": "PyereualJetwork is a GPU-accelerated + Parallel Threading Supported machine learning library in Python for professionals and researchers. It features PLAN, MLP, Deep Learning training, and ENE (Eugenic NeuroEvolution) for genetic optimization, applicable to genetic algorithms or Reinforcement Learning (RL). The library includes data pre-processing, visualizations, model saving/loading, prediction, evaluation, training, and detailed or simplified memory management.",
   "author": "Hasan Can Beydili",
   "license": null,
   "home_page": null,
-  "download_filename": "pyerualjetwork-5.64.tar.gz",
-  "download_time": "2026-03-01T23:48:23.560092",
+  "download_filename": "pyerualjetwork-5.65.tar.gz",
+  "download_time": "2026-03-03T11:25:19.774693",
   "package_url": "https://pypi.org/project/pyerualjetwork/"
 }

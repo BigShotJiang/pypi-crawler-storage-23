@@ -1,11 +1,11 @@
 {
   "name": "bugsink",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "summary": "Self-hosted Error Tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bugsink-2.0.13.tar.gz",
-  "download_time": "2026-02-21T19:44:58.605596",
+  "download_filename": "bugsink-2.0.14.tar.gz",
+  "download_time": "2026-03-03T11:25:34.105195",
   "package_url": "https://pypi.org/project/bugsink/"
 }

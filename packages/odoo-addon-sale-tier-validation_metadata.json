@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-tier-validation",
+  "version": "18.0.1.0.0.7",
+  "summary": "Extends the functionality of Sale Orders to support a tier validation process.",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_tier_validation-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2026-03-03T11:25:44.025182",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-tier-validation/"
+}

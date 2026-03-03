@@ -1,0 +1,11 @@
+{
+  "name": "polyread",
+  "version": "1.0.0",
+  "summary": "PolyRead TTS SDK — ElevenLabs-compatible Python client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyread-1.0.0.tar.gz",
+  "download_time": "2026-03-03T11:25:09.435554",
+  "package_url": "https://pypi.org/project/polyread/"
+}

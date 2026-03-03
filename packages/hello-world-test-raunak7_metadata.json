@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-test-raunak7",
+  "version": "0.0.2",
+  "summary": "A minimal hello world package for testing PyPI publishing",
+  "author": "Test Author",
+  "license": null,
+  "home_page": "https://github.com/test/hello-world-test-pkg",
+  "download_filename": "hello_world_test_raunak7-0.0.2.tar.gz",
+  "download_time": "2026-03-03T11:24:55.772571",
+  "package_url": "https://pypi.org/project/hello-world-test-raunak7/"
+}

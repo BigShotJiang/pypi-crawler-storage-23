@@ -1,0 +1,11 @@
+{
+  "name": "BoolDog",
+  "version": "0.1.0",
+  "summary": "A Python package for analyses of Boolean and semi-quantitative Boolean networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "booldog-0.1.0.tar.gz",
+  "download_time": "2026-03-03T11:25:27.397259",
+  "package_url": "https://pypi.org/project/BoolDog/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "liblaf-peach",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liblaf_peach-0.8.1.tar.gz",
-  "download_time": "2026-02-22T01:25:05.183740",
+  "download_filename": "liblaf_peach-0.9.0.tar.gz",
+  "download_time": "2026-03-03T11:25:41.305606",
   "package_url": "https://pypi.org/project/liblaf-peach/"
 }

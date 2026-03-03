@@ -1,0 +1,11 @@
+{
+  "name": "eatlocal",
+  "version": "1.2.2",
+  "summary": "Tool to solve Pybites Platform exercices locally.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eatlocal-1.2.2.tar.gz",
+  "download_time": "2026-03-03T11:24:53.236283",
+  "package_url": "https://pypi.org/project/eatlocal/"
+}

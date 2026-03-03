@@ -1,0 +1,11 @@
+{
+  "name": "gnk_fastasort",
+  "version": "0.1.0",
+  "summary": "A package to create a preferred order of a FASTA scaffolds, useful for PretextSnapshot and SAMTOOLS reordering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnk_fastasort-0.1.0.tar.gz",
+  "download_time": "2026-03-03T11:25:18.146202",
+  "package_url": "https://pypi.org/project/gnk_fastasort/"
+}
