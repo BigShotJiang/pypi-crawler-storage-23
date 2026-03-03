@@ -1,11 +1,11 @@
 {
   "name": "carbonfiles-client",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "A client library for accessing CarbonFiles API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carbonfiles_client-0.1.5.tar.gz",
-  "download_time": "2026-03-03T22:33:25.233937",
+  "download_filename": "carbonfiles_client-0.2.0.tar.gz",
+  "download_time": "2026-03-03T23:22:54.560241",
   "package_url": "https://pypi.org/project/carbonfiles-client/"
 }

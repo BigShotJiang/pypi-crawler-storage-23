@@ -1,0 +1,11 @@
+{
+  "name": "protocol-proxy",
+  "version": "2.0.0rc2",
+  "summary": "A system for launching and communicating with a proxy application for network communication which runs in a separate process..",
+  "author": "The VOLTTRON Development Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/lib-protocol-proxy",
+  "download_filename": "protocol_proxy-2.0.0rc2.tar.gz",
+  "download_time": "2026-03-03T23:23:17.214598",
+  "package_url": "https://pypi.org/project/protocol-proxy/"
+}

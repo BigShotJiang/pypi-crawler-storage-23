@@ -1,0 +1,11 @@
+{
+  "name": "swiss-finance-data",
+  "version": "0.1.0",
+  "summary": "Python package for Swiss financial data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swiss_finance_data-0.1.0.tar.gz",
+  "download_time": "2026-03-03T23:23:00.603873",
+  "package_url": "https://pypi.org/project/swiss-finance-data/"
+}

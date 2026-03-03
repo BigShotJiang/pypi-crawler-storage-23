@@ -1,0 +1,11 @@
+{
+  "name": "dakhara",
+  "version": "0.0.3",
+  "summary": "A simple Telegram bot library.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourname/teiebot",
+  "download_filename": "dakhara-0.0.3.tar.gz",
+  "download_time": "2026-03-03T23:22:46.095480",
+  "package_url": "https://pypi.org/project/dakhara/"
+}

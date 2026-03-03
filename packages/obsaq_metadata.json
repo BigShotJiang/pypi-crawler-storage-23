@@ -1,0 +1,11 @@
+{
+  "name": "obsaq",
+  "version": "0.0.3",
+  "summary": "An open-source framework for fast and scalable air pollution data retrieval",
+  "author": "Jinhui Yu",
+  "license": "MIT",
+  "home_page": "https://github.com/envdes/obsaq",
+  "download_filename": "obsaq-0.0.3.tar.gz",
+  "download_time": "2026-03-03T23:22:39.933325",
+  "package_url": "https://pypi.org/project/obsaq/"
+}

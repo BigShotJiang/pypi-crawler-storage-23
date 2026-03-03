@@ -1,11 +1,11 @@
 {
   "name": "jleechanorg-pr-automation",
-  "version": "0.2.167",
+  "version": "0.2.168",
   "summary": "GitHub PR automation system with safety limits and actionable counting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jleechanorg_pr_automation-0.2.167.tar.gz",
-  "download_time": "2026-03-03T10:47:22.283446",
+  "download_filename": "jleechanorg_pr_automation-0.2.168.tar.gz",
+  "download_time": "2026-03-03T23:23:13.664398",
   "package_url": "https://pypi.org/project/jleechanorg-pr-automation/"
 }

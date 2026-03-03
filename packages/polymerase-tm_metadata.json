@@ -1,11 +1,11 @@
 {
   "name": "polymerase-tm",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "summary": "NEB Tm Calculator + Base Changer: PCR primer Tm/Ta and site-directed mutagenesis primer design for all NEB polymerases",
   "author": "Dioskurides",
   "license": null,
   "home_page": null,
-  "download_filename": "polymerase_tm-2.0.0.tar.gz",
-  "download_time": "2026-03-03T21:59:16.568519",
+  "download_filename": "polymerase_tm-2.0.3.tar.gz",
+  "download_time": "2026-03-03T23:23:03.489051",
   "package_url": "https://pypi.org/project/polymerase-tm/"
 }

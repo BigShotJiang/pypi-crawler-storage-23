@@ -1,11 +1,11 @@
 {
   "name": "vercel-ai-sdk",
-  "version": "0.0.1.dev4",
+  "version": "0.0.1.dev6",
   "summary": "The AI Toolkit for Python",
   "author": "Andrey Buzin",
   "license": null,
   "home_page": null,
-  "download_filename": "vercel_ai_sdk-0.0.1.dev4.tar.gz",
-  "download_time": "2026-02-18T20:56:41.399237",
+  "download_filename": "vercel_ai_sdk-0.0.1.dev6.tar.gz",
+  "download_time": "2026-03-03T23:23:01.895727",
   "package_url": "https://pypi.org/project/vercel-ai-sdk/"
 }

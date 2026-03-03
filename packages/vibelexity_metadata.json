@@ -1,0 +1,11 @@
+{
+  "name": "vibelexity",
+  "version": "0.5.0",
+  "summary": "Cognitive complexity analyzer for Python, TypeScript, and Go source files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibelexity-0.5.0.tar.gz",
+  "download_time": "2026-03-03T23:23:14.659328",
+  "package_url": "https://pypi.org/project/vibelexity/"
+}

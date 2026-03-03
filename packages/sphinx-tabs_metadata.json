@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-tabs",
+  "version": "3.5.0",
+  "summary": "Tabbed views for Sphinx",
+  "author": "djungelorm",
+  "license": "MIT",
+  "home_page": "https://github.com/executablebooks/sphinx-tabs",
+  "download_filename": "sphinx_tabs-3.5.0.tar.gz",
+  "download_time": "2026-03-03T23:23:15.936933",
+  "package_url": "https://pypi.org/project/sphinx-tabs/"
+}

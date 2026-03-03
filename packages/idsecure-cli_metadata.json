@@ -1,11 +1,11 @@
 {
   "name": "idsecure-cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Python SDK and CLI tool for the IDSecure API",
   "author": "Tulio Amancio",
   "license": null,
   "home_page": null,
-  "download_filename": "idsecure_cli-0.1.3.tar.gz",
-  "download_time": "2026-03-03T22:56:57.086142",
+  "download_filename": "idsecure_cli-0.1.4.tar.gz",
+  "download_time": "2026-03-03T23:22:48.015613",
   "package_url": "https://pypi.org/project/idsecure-cli/"
 }

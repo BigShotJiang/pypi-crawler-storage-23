@@ -1,11 +1,11 @@
 {
   "name": "cityseer",
-  "version": "4.23.1",
+  "version": "4.23.3",
   "summary": "Computational tools for network-based pedestrian-scale urban analysis",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "cityseer-4.23.1.tar.gz",
-  "download_time": "2026-03-03T20:27:54.017916",
+  "download_filename": "cityseer-4.23.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-03-03T23:22:59.930603",
   "package_url": "https://pypi.org/project/cityseer/"
 }

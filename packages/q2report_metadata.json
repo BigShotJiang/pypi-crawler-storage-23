@@ -1,11 +1,11 @@
 {
   "name": "q2report",
-  "version": "0.1.56",
+  "version": "0.1.57",
   "summary": null,
   "author": "Andrei Puchko",
   "license": null,
   "home_page": null,
-  "download_filename": "q2report-0.1.56.tar.gz",
-  "download_time": "2026-02-25T19:46:58.332113",
+  "download_filename": "q2report-0.1.57.tar.gz",
+  "download_time": "2026-03-03T23:23:22.553084",
   "package_url": "https://pypi.org/project/q2report/"
 }
