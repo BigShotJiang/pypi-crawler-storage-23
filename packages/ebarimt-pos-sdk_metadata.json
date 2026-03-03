@@ -1,0 +1,11 @@
+{
+  "name": "ebarimt-pos-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for Ebarimt POS API 3.0",
+  "author": "SenergyTech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ebarimt_pos_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-03T07:58:25.930586",
+  "package_url": "https://pypi.org/project/ebarimt-pos-sdk/"
+}

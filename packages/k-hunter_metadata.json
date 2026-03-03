@@ -1,11 +1,11 @@
 {
   "name": "k-hunter",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Keyboard typing trainer app ",
   "author": "Rivkat Karimov",
   "license": null,
   "home_page": null,
-  "download_filename": "k_hunter-0.3.0.tar.gz",
-  "download_time": "2026-03-01T13:17:36.813525",
+  "download_filename": "k_hunter-0.3.1.tar.gz",
+  "download_time": "2026-03-03T07:58:25.421116",
   "package_url": "https://pypi.org/project/k-hunter/"
 }

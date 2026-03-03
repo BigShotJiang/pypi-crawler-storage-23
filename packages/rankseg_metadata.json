@@ -1,0 +1,11 @@
+{
+  "name": "rankseg",
+  "version": "0.0.4",
+  "summary": "RankSEG: A Statistically Consistent Segmentation Prediction Solver for Dice and IoU Metrics Optimization",
+  "author": "['Ben Dai', 'Zixun Wang']",
+  "license": null,
+  "home_page": "https://rankseg.readthedocs.io/en/latest/",
+  "download_filename": "rankseg-0.0.4.tar.gz",
+  "download_time": "2026-03-03T07:58:42.415459",
+  "package_url": "https://pypi.org/project/rankseg/"
+}

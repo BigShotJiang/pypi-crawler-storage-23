@@ -1,11 +1,11 @@
 {
   "name": "konigle",
-  "version": "0.28.1",
+  "version": "0.28.2",
   "summary": "Python SDK for Konigle platform",
   "author": "Konigle Developers",
   "license": null,
   "home_page": null,
-  "download_filename": "konigle-0.28.1.tar.gz",
-  "download_time": "2026-03-03T07:16:21.718495",
+  "download_filename": "konigle-0.28.2.tar.gz",
+  "download_time": "2026-03-03T07:58:38.307952",
   "package_url": "https://pypi.org/project/konigle/"
 }

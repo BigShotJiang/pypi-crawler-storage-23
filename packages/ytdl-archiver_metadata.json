@@ -1,11 +1,11 @@
 {
   "name": "ytdl-archiver",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "Modern Python CLI for archiving YouTube playlists with media-server metadata support",
   "author": "Ben Chitty",
   "license": null,
   "home_page": null,
-  "download_filename": "ytdl_archiver-0.3.2.tar.gz",
-  "download_time": "2026-03-03T07:16:11.245805",
+  "download_filename": "ytdl_archiver-0.3.6.tar.gz",
+  "download_time": "2026-03-03T07:57:56.082272",
   "package_url": "https://pypi.org/project/ytdl-archiver/"
 }

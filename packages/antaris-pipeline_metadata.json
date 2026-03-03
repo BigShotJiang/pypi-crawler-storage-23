@@ -1,11 +1,11 @@
 {
   "name": "antaris-pipeline",
-  "version": "4.9.0",
+  "version": "4.9.2",
   "summary": "Unified orchestration pipeline for Antaris Analytics Suite",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "antaris_pipeline-4.9.0.tar.gz",
-  "download_time": "2026-03-03T06:10:22.373402",
+  "download_filename": "antaris_pipeline-4.9.2.tar.gz",
+  "download_time": "2026-03-03T07:58:39.853484",
   "package_url": "https://pypi.org/project/antaris-pipeline/"
 }

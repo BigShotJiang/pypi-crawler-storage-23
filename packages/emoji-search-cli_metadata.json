@@ -1,0 +1,11 @@
+{
+  "name": "emoji-search-cli",
+  "version": "0.1.2",
+  "summary": "Search and copy emojis directly from the terminal",
+  "author": "RAJA K",
+  "license": null,
+  "home_page": null,
+  "download_filename": "emoji_search_cli-0.1.2.tar.gz",
+  "download_time": "2026-03-03T07:58:33.176817",
+  "package_url": "https://pypi.org/project/emoji-search-cli/"
+}

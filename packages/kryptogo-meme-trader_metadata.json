@@ -1,0 +1,11 @@
+{
+  "name": "kryptogo-meme-trader",
+  "version": "2.5.5",
+  "summary": "KryptoGO MCP server for Solana meme coin analysis and trading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kryptogo_meme_trader-2.5.5.tar.gz",
+  "download_time": "2026-03-03T07:58:22.848303",
+  "package_url": "https://pypi.org/project/kryptogo-meme-trader/"
+}
