@@ -1,0 +1,11 @@
+{
+  "name": "modelbaker",
+  "version": "2.5.0",
+  "summary": "The full model baker core",
+  "author": "Dave Signer",
+  "license": null,
+  "home_page": "https://github.com/opengisch/QgisModelBakerLibrary",
+  "download_filename": "modelbaker-2.5.0.tar.gz",
+  "download_time": "2026-03-04T14:02:56.803060",
+  "package_url": "https://pypi.org/project/modelbaker/"
+}

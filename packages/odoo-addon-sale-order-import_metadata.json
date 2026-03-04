@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-import",
+  "version": "18.0.1.0.1",
+  "summary": "Import RFQ or sale orders from files",
+  "author": "Akretion, Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_sale_order_import-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-04T14:03:22.656722",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-import/"
+}

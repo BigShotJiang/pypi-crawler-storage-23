@@ -1,11 +1,11 @@
 {
   "name": "pytrilogy",
-  "version": "0.3.181",
+  "version": "0.3.183",
   "summary": "Declarative, typed query language that compiles to SQL.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytrilogy-0.3.181.tar.gz",
-  "download_time": "2026-03-01T19:20:25.478212",
+  "download_filename": "pytrilogy-0.3.183.tar.gz",
+  "download_time": "2026-03-04T14:03:22.123022",
   "package_url": "https://pypi.org/project/pytrilogy/"
 }

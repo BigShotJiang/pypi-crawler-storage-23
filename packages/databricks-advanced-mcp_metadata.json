@@ -1,11 +1,11 @@
 {
   "name": "databricks-advanced-mcp",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Advanced MCP server for Databricks workspace intelligence — dependency scanning, impact analysis, notebook review, and job/pipeline operations.",
   "author": "Henry Bravo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "databricks_advanced_mcp-0.0.3.tar.gz",
-  "download_time": "2026-03-04T07:31:38.569866",
+  "download_filename": "databricks_advanced_mcp-0.0.6.tar.gz",
+  "download_time": "2026-03-04T14:02:46.514168",
   "package_url": "https://pypi.org/project/databricks-advanced-mcp/"
 }

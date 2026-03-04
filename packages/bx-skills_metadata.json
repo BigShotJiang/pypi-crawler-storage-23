@@ -1,11 +1,11 @@
 {
   "name": "bx-skills",
-  "version": "1.2.6",
+  "version": "1.2.11",
   "summary": "TUI for installing AI coding assistant skills",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bx_skills-1.2.6.tar.gz",
-  "download_time": "2026-02-19T16:14:09.137894",
+  "download_filename": "bx_skills-1.2.11.tar.gz",
+  "download_time": "2026-03-04T14:03:26.310062",
   "package_url": "https://pypi.org/project/bx-skills/"
 }

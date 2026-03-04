@@ -1,11 +1,11 @@
 {
   "name": "python-package-folder",
-  "version": "8.0.0",
+  "version": "8.4.0",
   "summary": "Python package to automatically package and build a folder, fetching all relevant dependencies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_package_folder-8.0.0.tar.gz",
-  "download_time": "2026-03-04T12:07:37.594023",
+  "download_filename": "python_package_folder-8.4.0.tar.gz",
+  "download_time": "2026-03-04T14:03:21.600464",
   "package_url": "https://pypi.org/project/python-package-folder/"
 }

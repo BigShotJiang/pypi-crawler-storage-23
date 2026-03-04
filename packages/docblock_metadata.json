@@ -1,0 +1,11 @@
+{
+  "name": "docblock",
+  "version": "0.1.7",
+  "summary": "Reads and parses documentation from header files in pure Python.",
+  "author": "Niels Wouda",
+  "license": "MIT",
+  "home_page": "https://github.com/N-Wouda/docblock",
+  "download_filename": "docblock-0.1.7.tar.gz",
+  "download_time": "2026-03-04T14:03:07.036715",
+  "package_url": "https://pypi.org/project/docblock/"
+}
