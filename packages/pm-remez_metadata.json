@@ -1,0 +1,11 @@
+{
+  "name": "pm-remez",
+  "version": "0.3.0",
+  "summary": "Parks-McClellan Remez FIR design algorithm",
+  "author": null,
+  "license": null,
+  "home_page": "https://maia-sdr.org/",
+  "download_filename": "pm_remez-0.3.0.tar.gz",
+  "download_time": "2026-03-04T10:02:37.210729",
+  "package_url": "https://pypi.org/project/pm-remez/"
+}

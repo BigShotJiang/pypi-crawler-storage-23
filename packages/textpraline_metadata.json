@@ -1,0 +1,11 @@
+{
+  "name": "textpraline",
+  "version": "0.1.1",
+  "summary": "TextPraline is a text normalization and refinement engine designed to prepare raw extracted content for reliable downstream processing. It cleans and stabilizes text coming from: PDF extractors , OCR pipelines, HTML scrapers. Praline removes structural noise and invisible corruption without altering meaning.",
+  "author": "Sacha Cassereau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textpraline-0.1.1.tar.gz",
+  "download_time": "2026-03-04T10:03:03.070798",
+  "package_url": "https://pypi.org/project/textpraline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "programgarden",
-  "version": "1.11.1",
+  "version": "1.15.1",
   "summary": "ProgramGarden - 노드 기반 자동매매 DSL 실행 엔진",
   "author": "프로그램동산",
   "license": null,
   "home_page": null,
-  "download_filename": "programgarden-1.11.1.tar.gz",
-  "download_time": "2026-02-24T05:15:19.680267",
+  "download_filename": "programgarden-1.15.1.tar.gz",
+  "download_time": "2026-03-04T10:03:15.582278",
   "package_url": "https://pypi.org/project/programgarden/"
 }

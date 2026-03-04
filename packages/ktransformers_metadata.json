@@ -1,0 +1,11 @@
+{
+  "name": "ktransformers",
+  "version": "0.5.2.post2",
+  "summary": "KTransformers: CPU-GPU heterogeneous inference framework for LLMs",
+  "author": "kvcache-ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ktransformers-0.5.2.post2-py3-none-any.whl",
+  "download_time": "2026-03-04T10:02:47.889427",
+  "package_url": "https://pypi.org/project/ktransformers/"
+}

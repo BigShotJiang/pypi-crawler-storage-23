@@ -1,0 +1,11 @@
+{
+  "name": "freel00p-colored-logger",
+  "version": "0.1.0",
+  "summary": "Simple ANSI-colored console logger with optional file output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freel00p_colored_logger-0.1.0.tar.gz",
+  "download_time": "2026-03-04T10:02:56.080493",
+  "package_url": "https://pypi.org/project/freel00p-colored-logger/"
+}

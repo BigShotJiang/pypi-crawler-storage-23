@@ -1,0 +1,11 @@
+{
+  "name": "tap-pipedrive",
+  "version": "2.0.0",
+  "summary": "Singer.io tap for extracting data from the Pipedrive API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "http://singer.io",
+  "download_filename": "tap_pipedrive-2.0.0.tar.gz",
+  "download_time": "2026-03-04T10:02:33.130803",
+  "package_url": "https://pypi.org/project/tap-pipedrive/"
+}

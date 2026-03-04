@@ -1,0 +1,11 @@
+{
+  "name": "channel-access.common",
+  "version": "0.1.2",
+  "summary": "Channel Access common library",
+  "author": "André Althaus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "channel_access_common-0.1.2.tar.gz",
+  "download_time": "2026-03-04T10:03:00.444090",
+  "package_url": "https://pypi.org/project/channel-access.common/"
+}

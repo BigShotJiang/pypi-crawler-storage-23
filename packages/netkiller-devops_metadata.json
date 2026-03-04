@@ -1,0 +1,11 @@
+{
+  "name": "netkiller-devops",
+  "version": "0.7.15",
+  "summary": "DevOps of useful deployment and automation",
+  "author": "Neo Chen",
+  "license": null,
+  "home_page": "https://www.netkiller.cn",
+  "download_filename": "netkiller_devops-0.7.15.tar.gz",
+  "download_time": "2026-03-04T10:02:53.112184",
+  "package_url": "https://pypi.org/project/netkiller-devops/"
+}

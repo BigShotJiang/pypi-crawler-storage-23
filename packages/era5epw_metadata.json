@@ -1,11 +1,11 @@
 {
   "name": "era5epw",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A tool to convert ERA5/ECMWF data to EnergyPlus Weather (EPW) format",
   "author": "Antoine Galataud",
   "license": null,
   "home_page": null,
-  "download_filename": "era5epw-0.5.0.tar.gz",
-  "download_time": "2026-02-27T12:37:44.188297",
+  "download_filename": "era5epw-0.6.0.tar.gz",
+  "download_time": "2026-03-04T10:03:07.850615",
   "package_url": "https://pypi.org/project/era5epw/"
 }

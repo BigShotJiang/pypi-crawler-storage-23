@@ -1,0 +1,11 @@
+{
+  "name": "sendok",
+  "version": "0.1.2",
+  "summary": "Scaffolding Engine for Nimble Documentation Organizer Kit: Generator folder dokumentasi proyek yang simpel dan cepat.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sendok-0.1.2.tar.gz",
+  "download_time": "2026-03-04T10:03:11.038790",
+  "package_url": "https://pypi.org/project/sendok/"
+}
