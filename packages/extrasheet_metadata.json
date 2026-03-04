@@ -1,0 +1,11 @@
+{
+  "name": "extrasheet",
+  "version": "0.3.0",
+  "summary": "File-based Google Sheets representation library for LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "extrasheet-0.3.0.tar.gz",
+  "download_time": "2026-03-04T12:07:36.573487",
+  "package_url": "https://pypi.org/project/extrasheet/"
+}

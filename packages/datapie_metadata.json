@@ -1,0 +1,11 @@
+{
+  "name": "datapie",
+  "version": "0.6.2",
+  "summary": "Time series and data management for macroeconomic modeling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapie-0.6.2.tar.gz",
+  "download_time": "2026-03-04T12:08:09.892636",
+  "package_url": "https://pypi.org/project/datapie/"
+}

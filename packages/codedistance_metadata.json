@@ -1,0 +1,11 @@
+{
+  "name": "codedistance",
+  "version": "0.0.1",
+  "summary": "Code and Circuit Distance Algorithms.",
+  "author": "Mark Webster",
+  "license": "GNUv3",
+  "home_page": null,
+  "download_filename": "codedistance-0.0.1.tar.gz",
+  "download_time": "2026-03-04T12:08:01.773623",
+  "package_url": "https://pypi.org/project/codedistance/"
+}

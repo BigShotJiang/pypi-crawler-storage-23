@@ -1,0 +1,11 @@
+{
+  "name": "fmlpack",
+  "version": "0.3.0",
+  "summary": "fmlpack: A tool to convert file trees to/from TEXT, ideal for working with LLM and a lot of files (using Filesystem Markup Language -FML-).",
+  "author": "fedenunez",
+  "license": "MIT",
+  "home_page": "https://github.com/fedenunez/fmlpack",
+  "download_filename": "fmlpack-0.3.0.tar.gz",
+  "download_time": "2026-03-04T12:08:00.230278",
+  "package_url": "https://pypi.org/project/fmlpack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "valiqor",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Find why your AI app fails — trace, evaluate, analyze failures, and secure your LLM applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "valiqor-0.0.16-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-03-04T11:50:27.076295",
+  "download_filename": "valiqor-0.0.17-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-03-04T12:08:10.941627",
   "package_url": "https://pypi.org/project/valiqor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-timesheet-time-type-non-billable",
+  "version": "17.0.1.0.0.2",
+  "summary": "Helpdesk Timesheet Time Type Non Billable",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_timesheet_time_type_non_billable-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-04T12:07:33.447005",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-timesheet-time-type-non-billable/"
+}

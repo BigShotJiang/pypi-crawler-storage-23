@@ -1,0 +1,11 @@
+{
+  "name": "ai-cli-runner",
+  "version": "0.1.0",
+  "summary": "Shared async Python package for calling AI CLI tools (Claude, Gemini, Cursor) via subprocess",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_cli_runner-0.1.0.tar.gz",
+  "download_time": "2026-03-04T12:08:10.401794",
+  "package_url": "https://pypi.org/project/ai-cli-runner/"
+}

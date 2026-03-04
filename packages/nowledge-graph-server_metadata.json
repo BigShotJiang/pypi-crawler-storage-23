@@ -1,0 +1,11 @@
+{
+  "name": "nowledge-graph-server",
+  "version": "0.6.6",
+  "summary": "Nowledge Graph MCP Server - Local-first personal memory management",
+  "author": "Nowledge Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nowledge_graph_server-0.6.6.tar.gz",
+  "download_time": "2026-03-04T12:07:39.415957",
+  "package_url": "https://pypi.org/project/nowledge-graph-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deeppresenter",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "An Agentic Framework for Reflective PowerPoint Generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deeppresenter-1.0.6.tar.gz",
-  "download_time": "2026-03-04T11:50:00.011639",
+  "download_filename": "deeppresenter-1.0.8.tar.gz",
+  "download_time": "2026-03-04T12:07:37.083536",
   "package_url": "https://pypi.org/project/deeppresenter/"
 }

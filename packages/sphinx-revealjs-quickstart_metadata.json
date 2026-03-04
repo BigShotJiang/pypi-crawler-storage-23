@@ -1,11 +1,11 @@
 {
   "name": "sphinx-revealjs-quickstart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Quickstart CLI to scaffold Sphinx + sphinx-revealjs presentation projects",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "sphinx_revealjs_quickstart-0.0.2.tar.gz",
-  "download_time": "2026-02-25T11:54:52.806764",
+  "download_filename": "sphinx_revealjs_quickstart-0.0.3.tar.gz",
+  "download_time": "2026-03-04T12:07:58.697528",
   "package_url": "https://pypi.org/project/sphinx-revealjs-quickstart/"
 }

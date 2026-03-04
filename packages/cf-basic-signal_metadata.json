@@ -1,0 +1,11 @@
+{
+  "name": "cf-basic-signal",
+  "version": "0.2.0",
+  "summary": "Cogniflow signal processing step package (FIFO windowing and averages) implemented in C++.",
+  "author": "Cogniflow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_basic_signal-0.2.0.tar.gz",
+  "download_time": "2026-03-04T12:08:13.539604",
+  "package_url": "https://pypi.org/project/cf-basic-signal/"
+}

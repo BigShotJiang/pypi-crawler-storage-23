@@ -1,0 +1,11 @@
+{
+  "name": "geostudio",
+  "version": "0.1.4",
+  "summary": "A Geospatial Exploration and Orchestration Studio (GEOStudio) SDK for Python.",
+  "author": "Geostudio Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geostudio-0.1.4.tar.gz",
+  "download_time": "2026-03-04T12:07:59.206987",
+  "package_url": "https://pypi.org/project/geostudio/"
+}
