@@ -1,11 +1,11 @@
 {
   "name": "airflow-unfactor",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "summary": "MCP server for LLM-assisted conversion of Apache Airflow DAGs to Prefect flows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "airflow_unfactor-0.2.0.tar.gz",
-  "download_time": "2026-02-25T19:47:47.826629",
+  "download_filename": "airflow_unfactor-1.0.0.tar.gz",
+  "download_time": "2026-03-04T20:00:16.232587",
   "package_url": "https://pypi.org/project/airflow-unfactor/"
 }

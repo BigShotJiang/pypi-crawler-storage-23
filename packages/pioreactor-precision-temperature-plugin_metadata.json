@@ -1,0 +1,11 @@
+{
+  "name": "pioreactor-precision-temperature-plugin",
+  "version": "0.2.8",
+  "summary": "Precision temperature automation for Pioreactor using FIR + MLX90632",
+  "author": "Cam Davidson-Pilon",
+  "license": null,
+  "home_page": "https://github.com/Pioreactor/pioreactor-precision-temperature-plugin",
+  "download_filename": "pioreactor_precision_temperature_plugin-0.2.8.tar.gz",
+  "download_time": "2026-03-04T20:00:42.564335",
+  "package_url": "https://pypi.org/project/pioreactor-precision-temperature-plugin/"
+}

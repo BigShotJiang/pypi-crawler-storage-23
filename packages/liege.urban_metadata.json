@@ -1,11 +1,11 @@
 {
   "name": "liege.urban",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "summary": "Liège urban profile",
   "author": "Simon Delcourt",
   "license": "GPL version 2",
   "home_page": "https://pypi.python.org/pypi/liege.urban",
-  "download_filename": "liege_urban-2.0.3.tar.gz",
-  "download_time": "2026-02-26T21:28:01.505358",
+  "download_filename": "liege_urban-2.0.5.tar.gz",
+  "download_time": "2026-03-04T20:00:21.000844",
   "package_url": "https://pypi.org/project/liege.urban/"
 }

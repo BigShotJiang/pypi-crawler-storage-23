@@ -1,0 +1,11 @@
+{
+  "name": "methXsort",
+  "version": "0.2.0",
+  "summary": "Sort bisulfite-/enzymatic-converted reads from xenograft experiments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "methxsort-0.2.0.tar.gz",
+  "download_time": "2026-03-04T20:00:51.176598",
+  "package_url": "https://pypi.org/project/methXsort/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-preprocessor",
+  "version": "0.2.0",
+  "summary": "Automated feature engineering: target-encodes strings, text-mines high-cardinality columns, and imputes missing values with cross-variable predictions.",
+  "author": "Jason Karpeles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "model_preprocessor-0.2.0.tar.gz",
+  "download_time": "2026-03-04T20:00:23.822878",
+  "package_url": "https://pypi.org/project/model-preprocessor/"
+}

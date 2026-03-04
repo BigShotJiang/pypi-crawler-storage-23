@@ -1,11 +1,11 @@
 {
   "name": "authmcp-gateway",
-  "version": "1.2.19",
+  "version": "1.2.23",
   "summary": "Universal Authentication Gateway for MCP (Model Context Protocol) Servers",
   "author": "AuthMCP Gateway Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "authmcp_gateway-1.2.19.tar.gz",
-  "download_time": "2026-02-22T22:49:50.216078",
+  "download_filename": "authmcp_gateway-1.2.23.tar.gz",
+  "download_time": "2026-03-04T20:00:24.390827",
   "package_url": "https://pypi.org/project/authmcp-gateway/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "foxtail-blog",
+  "version": "0.24.5",
+  "summary": "A simple blog for Django ",
+  "author": "Luke Rogers",
+  "license": null,
+  "home_page": "https://github.com/dmptrluke/foxtail-blog",
+  "download_filename": "foxtail_blog-0.24.5.tar.gz",
+  "download_time": "2026-03-04T20:00:21.564336",
+  "package_url": "https://pypi.org/project/foxtail-blog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "listo-mcp-ip-guard",
+  "version": "0.3.0",
+  "summary": "IP allowlist guard for MCP servers. Ships with OpenAI/ChatGPT egress IP ranges and Azure public cloud ranges for ChatGPT developer mode. Zero dependencies.",
+  "author": "Listo Labs Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "listo_mcp_ip_guard-0.3.0.tar.gz",
+  "download_time": "2026-03-04T20:00:20.431271",
+  "package_url": "https://pypi.org/project/listo-mcp-ip-guard/"
+}

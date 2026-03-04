@@ -1,11 +1,11 @@
 {
   "name": "taxontabletools2",
-  "version": "2.1.4",
+  "version": "2.2.2",
   "summary": "Taxontabletools2 - A comprehensive, platform-independent graphical user interface software to explore and visualise DNA metabarcoding data",
   "author": "Till-Hendrik Macher",
   "license": "MIT",
   "home_page": "https://pypi.org/project/taxontabletools2",
-  "download_filename": "taxontabletools2-2.1.4.tar.gz",
-  "download_time": "2026-02-26T10:32:13.216982",
+  "download_filename": "taxontabletools2-2.2.2.tar.gz",
+  "download_time": "2026-03-04T20:01:00.416455",
   "package_url": "https://pypi.org/project/taxontabletools2/"
 }

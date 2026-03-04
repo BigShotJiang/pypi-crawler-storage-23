@@ -1,0 +1,11 @@
+{
+  "name": "msk-modelling-python",
+  "version": "0.3.5",
+  "summary": "A Python package for musculoskeletal modelling (version 0.3.5)",
+  "author": "Bas",
+  "license": null,
+  "home_page": "https://github.com/your_username/msk_modelling_python",
+  "download_filename": "msk_modelling_python-0.3.5.tar.gz",
+  "download_time": "2026-03-04T20:00:14.747682",
+  "package_url": "https://pypi.org/project/msk-modelling-python/"
+}
