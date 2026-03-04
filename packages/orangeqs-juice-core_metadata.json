@@ -1,11 +1,11 @@
 {
   "name": "orangeqs-juice-core",
-  "version": "26.9.0",
+  "version": "26.10.0",
   "summary": "Framework for running quantum computing experiments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orangeqs_juice_core-26.9.0.tar.gz",
-  "download_time": "2026-02-23T15:32:18.522814",
+  "download_filename": "orangeqs_juice_core-26.10.0.tar.gz",
+  "download_time": "2026-03-04T09:08:14.838175",
   "package_url": "https://pypi.org/project/orangeqs-juice-core/"
 }

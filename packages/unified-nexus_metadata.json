@@ -1,0 +1,11 @@
+{
+  "name": "unified-nexus",
+  "version": "0.1.2",
+  "summary": "One decorator. Two interfaces. Build FastAPI + MCP backends with a single source of truth.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unified_nexus-0.1.2.tar.gz",
+  "download_time": "2026-03-04T09:08:45.311737",
+  "package_url": "https://pypi.org/project/unified-nexus/"
+}

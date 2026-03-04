@@ -1,0 +1,11 @@
+{
+  "name": "openforis-whisp",
+  "version": "3.0.0a12",
+  "summary": "Whisp (What is in that plot) is an open-source solution which helps to produce relevant forest monitoring information and support compliance with deforestation-related regulations.",
+  "author": "Andy Arnell",
+  "license": "MIT",
+  "home_page": "https://github.com/forestdatapartnership/whisp",
+  "download_filename": "openforis_whisp-3.0.0a12.tar.gz",
+  "download_time": "2026-03-04T09:08:12.691047",
+  "package_url": "https://pypi.org/project/openforis-whisp/"
+}

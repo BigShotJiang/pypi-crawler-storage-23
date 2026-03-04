@@ -1,11 +1,11 @@
 {
   "name": "gsheetstables",
-  "version": "3.1.1",
+  "version": "3.1.4",
   "summary": "Access the Tables of your Google Sheets as Pandas Dataframes and write them to a database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gsheetstables-3.1.1.tar.gz",
-  "download_time": "2026-02-27T10:01:19.574801",
+  "download_filename": "gsheetstables-3.1.4.tar.gz",
+  "download_time": "2026-03-04T09:08:51.526331",
   "package_url": "https://pypi.org/project/gsheetstables/"
 }

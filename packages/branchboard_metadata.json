@@ -1,0 +1,11 @@
+{
+  "name": "branchboard",
+  "version": "0.1.7",
+  "summary": "A terminal dashboard for tracking Git branches and GitHub PRs across all your repos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "branchboard-0.1.7.tar.gz",
+  "download_time": "2026-03-04T09:08:44.035929",
+  "package_url": "https://pypi.org/project/branchboard/"
+}

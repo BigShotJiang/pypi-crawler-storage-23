@@ -1,0 +1,11 @@
+{
+  "name": "autoite",
+  "version": "2.2.1",
+  "summary": "Individual Treatment Effect estimation via Intrinsic Causal Geometry (ICG-HVRT cone + ICG-HART pyramid)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoite-2.2.1.tar.gz",
+  "download_time": "2026-03-04T09:08:03.950909",
+  "package_url": "https://pypi.org/project/autoite/"
+}
