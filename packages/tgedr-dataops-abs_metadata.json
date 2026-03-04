@@ -1,11 +1,11 @@
 {
   "name": "tgedr-dataops-abs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "data operations related code - abstractions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgedr_dataops_abs-0.0.5.tar.gz",
-  "download_time": "2026-03-04T20:29:36.473722",
+  "download_filename": "tgedr_dataops_abs-0.0.6.tar.gz",
+  "download_time": "2026-03-04T21:00:09.392402",
   "package_url": "https://pypi.org/project/tgedr-dataops-abs/"
 }

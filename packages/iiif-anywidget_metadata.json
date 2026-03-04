@@ -1,11 +1,11 @@
 {
   "name": "iiif-anywidget",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "Widgets to view images served from IIIF sources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iiif_anywidget-0.5.0-py2.py3-none-any.whl",
-  "download_time": "2026-02-28T00:00:09.678273",
+  "download_filename": "iiif_anywidget-0.7.0-py2.py3-none-any.whl",
+  "download_time": "2026-03-04T21:00:39.417766",
   "package_url": "https://pypi.org/project/iiif-anywidget/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tui-ascii-art",
+  "version": "0.1.1",
+  "summary": "Programmatic ASCII art generation for TUIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tui_ascii_art-0.1.1.tar.gz",
+  "download_time": "2026-03-04T21:00:11.480714",
+  "package_url": "https://pypi.org/project/tui-ascii-art/"
+}

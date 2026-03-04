@@ -1,0 +1,11 @@
+{
+  "name": "clibib",
+  "version": "1.0.2",
+  "summary": "Fetch BibTeX entries from a URL, DOI, ISBN, PMID, or arXiv ID",
+  "author": "Delip Rao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clibib-1.0.2.tar.gz",
+  "download_time": "2026-03-04T21:00:05.177653",
+  "package_url": "https://pypi.org/project/clibib/"
+}

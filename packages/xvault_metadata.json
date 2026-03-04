@@ -1,11 +1,11 @@
 {
   "name": "xvault",
-  "version": "0.0.21",
+  "version": "0.0.25",
   "summary": "Secure storage vault for secrets in git repositories (SOPS alike)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xvault-0.0.21.tar.gz",
-  "download_time": "2026-03-04T17:07:44.052756",
+  "download_filename": "xvault-0.0.25.tar.gz",
+  "download_time": "2026-03-04T21:00:36.276848",
   "package_url": "https://pypi.org/project/xvault/"
 }

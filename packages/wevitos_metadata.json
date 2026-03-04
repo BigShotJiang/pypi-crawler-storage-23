@@ -1,0 +1,11 @@
+{
+  "name": "wevitos",
+  "version": "0.1.1",
+  "summary": "Lightweight error tracking client for Wevitos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wevitos-0.1.1.tar.gz",
+  "download_time": "2026-03-04T21:00:04.112234",
+  "package_url": "https://pypi.org/project/wevitos/"
+}
