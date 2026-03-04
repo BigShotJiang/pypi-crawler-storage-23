@@ -1,0 +1,11 @@
+{
+  "name": "isage-agentic-tooluse-sias",
+  "version": "0.1.1.5",
+  "summary": "SAGE Tool Use SIAS - Sample-Importance-Aware Selection for tool selection and agent training",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_agentic_tooluse_sias-0.1.1.5.tar.gz",
+  "download_time": "2026-03-04T03:39:18.952378",
+  "package_url": "https://pypi.org/project/isage-agentic-tooluse-sias/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "discussionset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "一个存储王梓明写的论述的包",
   "author": "王梓明",
   "license": null,
   "home_page": null,
-  "download_filename": "discussionset-0.0.2.tar.gz",
-  "download_time": "2026-02-21T18:20:55.883026",
+  "download_filename": "discussionset-0.0.3.tar.gz",
+  "download_time": "2026-03-04T03:39:21.047660",
   "package_url": "https://pypi.org/project/discussionset/"
 }

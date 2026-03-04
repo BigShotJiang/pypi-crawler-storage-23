@@ -1,0 +1,11 @@
+{
+  "name": "emodpy-malaria",
+  "version": "5.0.3",
+  "summary": "IDM's malaria-specific EMOD-API binding code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emodpy_malaria-5.0.3.tar.gz",
+  "download_time": "2026-03-04T03:39:08.632010",
+  "package_url": "https://pypi.org/project/emodpy-malaria/"
+}

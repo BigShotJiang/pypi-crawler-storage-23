@@ -1,11 +1,11 @@
 {
   "name": "nodemodulescleaner",
-  "version": "1.0.0.1",
+  "version": "1.1.1",
   "summary": "Automatic cleanup of forgotten node_modules directories",
   "author": "Heitor Bisneto",
   "license": null,
   "home_page": "https://github.com/hbisneto/NodeModulesCleaner",
-  "download_filename": "nodemodulescleaner-1.0.0.1.tar.gz",
-  "download_time": "2026-03-01T21:57:58.700789",
+  "download_filename": "nodemodulescleaner-1.1.1.tar.gz",
+  "download_time": "2026-03-04T03:39:13.784997",
   "package_url": "https://pypi.org/project/nodemodulescleaner/"
 }

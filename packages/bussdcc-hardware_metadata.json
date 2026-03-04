@@ -1,11 +1,11 @@
 {
   "name": "bussdcc-hardware",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "Hardware device integrations for the BussDCC cybernetic runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc_hardware-0.4.0.tar.gz",
-  "download_time": "2026-03-03T22:33:52.157049",
+  "download_filename": "bussdcc_hardware-0.7.0.tar.gz",
+  "download_time": "2026-03-04T03:38:44.679619",
   "package_url": "https://pypi.org/project/bussdcc-hardware/"
 }

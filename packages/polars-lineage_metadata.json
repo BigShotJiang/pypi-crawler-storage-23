@@ -1,11 +1,11 @@
 {
   "name": "polars-lineage",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Extract column-level lineage from Polars LazyFrame transformations.",
   "author": "David Zucker",
   "license": null,
   "home_page": null,
-  "download_filename": "polars_lineage-0.1.2.tar.gz",
-  "download_time": "2026-03-02T00:00:48.229877",
+  "download_filename": "polars_lineage-0.1.5.tar.gz",
+  "download_time": "2026-03-04T03:39:04.421974",
   "package_url": "https://pypi.org/project/polars-lineage/"
 }

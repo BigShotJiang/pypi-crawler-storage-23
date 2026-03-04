@@ -1,11 +1,11 @@
 {
   "name": "ascend-tools",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Ascend CLI, SDK, MCP.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ascend-io/ascend-tools",
-  "download_filename": "ascend_tools-0.3.0.tar.gz",
-  "download_time": "2026-03-03T03:46:25.741961",
+  "download_filename": "ascend_tools-0.5.0.tar.gz",
+  "download_time": "2026-03-04T03:39:06.579502",
   "package_url": "https://pypi.org/project/ascend-tools/"
 }

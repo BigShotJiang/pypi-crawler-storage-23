@@ -1,0 +1,11 @@
+{
+  "name": "cyberseal6x",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for CyberSeal6x Prompt Security API",
+  "author": "CyberSeal6x",
+  "license": "MIT",
+  "home_page": "https://github.com/cyberseal6x/python-sdk",
+  "download_filename": "cyberseal6x-1.0.0.tar.gz",
+  "download_time": "2026-03-04T03:39:02.878457",
+  "package_url": "https://pypi.org/project/cyberseal6x/"
+}

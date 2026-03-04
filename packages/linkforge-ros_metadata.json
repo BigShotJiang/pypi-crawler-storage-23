@@ -1,0 +1,11 @@
+{
+  "name": "linkforge-ros",
+  "version": "0.0.1",
+  "summary": "Placeholder – ROS 2 adapter for LinkForge (coming soon)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "linkforge_ros-0.0.1.tar.gz",
+  "download_time": "2026-03-04T03:39:10.174569",
+  "package_url": "https://pypi.org/project/linkforge-ros/"
+}

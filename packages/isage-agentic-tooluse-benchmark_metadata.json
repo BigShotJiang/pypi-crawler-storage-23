@@ -1,11 +1,11 @@
 {
   "name": "isage-agentic-tooluse-benchmark",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "SAGE Tool Use Benchmark - Tool selection and use evaluation framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isage_agentic_tooluse_benchmark-0.1.5.tar.gz",
-  "download_time": "2026-03-03T18:32:24.534233",
+  "download_filename": "isage_agentic_tooluse_benchmark-0.1.6.tar.gz",
+  "download_time": "2026-03-04T03:39:16.907177",
   "package_url": "https://pypi.org/project/isage-agentic-tooluse-benchmark/"
 }
