@@ -1,11 +1,11 @@
 {
   "name": "noxton",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noxton-0.1.0.tar.gz",
-  "download_time": "2026-02-21T21:15:27.565400",
+  "download_filename": "noxton-0.1.2.tar.gz",
+  "download_time": "2026-03-04T20:29:48.349899",
   "package_url": "https://pypi.org/project/noxton/"
 }

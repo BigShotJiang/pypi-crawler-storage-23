@@ -1,0 +1,11 @@
+{
+  "name": "abess",
+  "version": "0.4.11",
+  "summary": "abess: Fast Best Subset Selection",
+  "author": "Jin Zhu, Kangkang Jiang, ",
+  "license": "GPL-3",
+  "home_page": "https://abess.readthedocs.io",
+  "download_filename": "abess-0.4.11.tar.gz",
+  "download_time": "2026-03-04T20:29:31.825895",
+  "package_url": "https://pypi.org/project/abess/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-survey-and-report",
+  "version": "1.4.12",
+  "summary": "A django survey app that can export results as CSV or PDF using your native language.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "django_survey_and_report-1.4.12.tar.gz",
+  "download_time": "2026-03-04T20:29:45.279543",
+  "package_url": "https://pypi.org/project/django-survey-and-report/"
+}

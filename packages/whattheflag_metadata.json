@@ -1,0 +1,11 @@
+{
+  "name": "whattheflag",
+  "version": "0.1.2",
+  "summary": "Lightweight CLI tool for instantly explaining command-line flags without digging through man pages",
+  "author": "Lucas Bringsken",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whattheflag-0.1.2.tar.gz",
+  "download_time": "2026-03-04T20:29:23.328958",
+  "package_url": "https://pypi.org/project/whattheflag/"
+}

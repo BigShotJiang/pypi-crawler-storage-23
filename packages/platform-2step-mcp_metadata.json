@@ -1,11 +1,11 @@
 {
   "name": "platform-2step-mcp",
-  "version": "0.7.0",
+  "version": "0.8.1",
   "summary": "MCP server for Platform-2Step API with human-in-the-loop confirmation",
   "author": "AgendaPro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "platform_2step_mcp-0.7.0.tar.gz",
-  "download_time": "2026-02-19T20:22:28.529859",
+  "download_filename": "platform_2step_mcp-0.8.1.tar.gz",
+  "download_time": "2026-03-04T20:29:29.577436",
   "package_url": "https://pypi.org/project/platform-2step-mcp/"
 }

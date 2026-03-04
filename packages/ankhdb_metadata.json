@@ -1,11 +1,11 @@
 {
   "name": "ankhdb",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "The official Python SDK for AnkhDB - Real-time Multi-tenant BaaS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ankhdb-2.0.0.tar.gz",
-  "download_time": "2026-03-04T03:38:51.394865",
+  "download_filename": "ankhdb-2.0.2.tar.gz",
+  "download_time": "2026-03-04T20:29:25.976335",
   "package_url": "https://pypi.org/project/ankhdb/"
 }

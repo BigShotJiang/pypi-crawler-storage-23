@@ -1,0 +1,11 @@
+{
+  "name": "bingx-trading-sdk",
+  "version": "0.1.1",
+  "summary": "Tribulnation SDK implementation for BingX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bingx_trading_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-04T20:29:54.005959",
+  "package_url": "https://pypi.org/project/bingx-trading-sdk/"
+}

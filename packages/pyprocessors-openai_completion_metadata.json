@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-openai_completion",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "summary": "OpenAICompletion processor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyprocessors_openai_completion-0.6.3.tar.gz",
-  "download_time": "2026-03-04T15:29:43.090171",
+  "download_filename": "pyprocessors_openai_completion-0.6.5.tar.gz",
+  "download_time": "2026-03-04T20:29:25.462975",
   "package_url": "https://pypi.org/project/pyprocessors-openai_completion/"
 }

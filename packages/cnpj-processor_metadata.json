@@ -1,11 +1,11 @@
 {
   "name": "cnpj-processor",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "summary": "Sistema de Processamento de Dados CNPJ da Receita Federal do Brasil",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cnpj_processor-4.4.2.tar.gz",
-  "download_time": "2026-03-03T15:17:43.264782",
+  "download_filename": "cnpj_processor-4.4.3.tar.gz",
+  "download_time": "2026-03-04T20:29:51.930046",
   "package_url": "https://pypi.org/project/cnpj-processor/"
 }
