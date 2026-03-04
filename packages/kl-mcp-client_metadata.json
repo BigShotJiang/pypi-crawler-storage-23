@@ -1,0 +1,11 @@
+{
+  "name": "kl-mcp-client",
+  "version": "2.1.18",
+  "summary": "MCP Client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kl_mcp_client-2.1.18.tar.gz",
+  "download_time": "2026-03-04T05:06:08.023640",
+  "package_url": "https://pypi.org/project/kl-mcp-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "y_agent_environment",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Environmental Abstraction for General Agent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "y_agent_environment-0.4.1.tar.gz",
-  "download_time": "2026-03-02T13:08:39.301868",
+  "download_filename": "y_agent_environment-0.4.2.tar.gz",
+  "download_time": "2026-03-04T05:06:32.112627",
   "package_url": "https://pypi.org/project/y_agent_environment/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentref",
+  "version": "1.0.3",
+  "summary": "Official Python SDK for the AgentRef Affiliate API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentref-1.0.3.tar.gz",
+  "download_time": "2026-03-04T05:05:55.403028",
+  "package_url": "https://pypi.org/project/agentref/"
+}

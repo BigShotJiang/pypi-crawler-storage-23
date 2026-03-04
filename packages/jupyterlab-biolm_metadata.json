@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-biolm",
+  "version": "1.4.1",
+  "summary": "JupyterLab extension for BioLM API integration",
+  "author": "BioLM",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jupyterlab_biolm-1.4.1.tar.gz",
+  "download_time": "2026-03-04T05:06:09.066377",
+  "package_url": "https://pypi.org/project/jupyterlab-biolm/"
+}

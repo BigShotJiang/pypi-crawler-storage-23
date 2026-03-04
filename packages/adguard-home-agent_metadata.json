@@ -1,11 +1,11 @@
 {
   "name": "adguard-home-agent",
-  "version": "0.2.22",
+  "version": "0.2.25",
   "summary": "AdGuard Home MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adguard_home_agent-0.2.22.tar.gz",
-  "download_time": "2026-02-28T08:53:07.469110",
+  "download_filename": "adguard_home_agent-0.2.25.tar.gz",
+  "download_time": "2026-03-04T05:06:03.348943",
   "package_url": "https://pypi.org/project/adguard-home-agent/"
 }

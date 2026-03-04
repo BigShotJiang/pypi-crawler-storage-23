@@ -1,0 +1,11 @@
+{
+  "name": "xiaohongshu-search",
+  "version": "0.2.0",
+  "summary": "小红书搜索工具 - 企业级实现",
+  "author": "叶浩",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xiaohongshu_search-0.2.0.tar.gz",
+  "download_time": "2026-03-04T05:06:30.036721",
+  "package_url": "https://pypi.org/project/xiaohongshu-search/"
+}

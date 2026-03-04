@@ -1,11 +1,11 @@
 {
   "name": "searxng-mcp",
-  "version": "0.1.25",
+  "version": "0.1.27",
   "summary": "SearXNG Search Engine MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "searxng_mcp-0.1.25.tar.gz",
-  "download_time": "2026-03-02T06:11:11.590547",
+  "download_filename": "searxng_mcp-0.1.27.tar.gz",
+  "download_time": "2026-03-04T05:05:58.606845",
   "package_url": "https://pypi.org/project/searxng-mcp/"
 }

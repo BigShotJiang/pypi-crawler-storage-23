@@ -1,0 +1,11 @@
+{
+  "name": "tfads-o-builder",
+  "version": "0.0.262",
+  "summary": "Helper functions used to build data as tfads-o format.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
+  "download_filename": "tfads_o_builder-0.0.262.tar.gz",
+  "download_time": "2026-03-04T05:06:22.190475",
+  "package_url": "https://pypi.org/project/tfads-o-builder/"
+}

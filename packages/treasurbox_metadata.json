@@ -1,11 +1,11 @@
 {
   "name": "treasurbox",
-  "version": "1.0.42",
+  "version": "1.0.48",
   "summary": "A small example package",
   "author": "Alan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "treasurbox-1.0.42-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-02T06:11:37.751613",
+  "download_filename": "treasurbox-1.0.48-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-04T05:05:54.329644",
   "package_url": "https://pypi.org/project/treasurbox/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "inspectica-workflow-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python SDK for Inspectica Workflow Server - Activity worker implementation",
   "author": "Inspectica Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inspectica_workflow_sdk-1.0.2.tar.gz",
-  "download_time": "2026-03-02T08:40:35.089162",
+  "download_filename": "inspectica_workflow_sdk-1.0.3.tar.gz",
+  "download_time": "2026-03-04T05:05:52.767207",
   "package_url": "https://pypi.org/project/inspectica-workflow-sdk/"
 }
