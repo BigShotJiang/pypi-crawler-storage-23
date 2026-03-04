@@ -1,0 +1,11 @@
+{
+  "name": "kubed",
+  "version": "2.3.1",
+  "summary": "97% fewer tokens for AI agents to understand infra — layout index for Kubernetes, Docker, Terraform, Helm plus shell completions",
+  "author": "Dale Yarborough",
+  "license": "MIT",
+  "home_page": "https://cmds.daleyarborough.com",
+  "download_filename": "kubed-2.3.1.tar.gz",
+  "download_time": "2026-03-04T22:01:44.083751",
+  "package_url": "https://pypi.org/project/kubed/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "altimate-engine",
-  "version": "0.1.4",
-  "summary": "Python engine for Altimate Code — SQL analysis, lineage, dbt integration",
+  "version": "0.2.0",
+  "summary": "Python engine for Altimate CLI - lineage, SQL execution, dbt integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "altimate_engine-0.1.4.tar.gz",
-  "download_time": "2026-03-02T04:16:19.288692",
+  "download_filename": "altimate_engine-0.2.0.tar.gz",
+  "download_time": "2026-03-04T22:00:55.707602",
   "package_url": "https://pypi.org/project/altimate-engine/"
 }

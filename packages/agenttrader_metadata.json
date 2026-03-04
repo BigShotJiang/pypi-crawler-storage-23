@@ -1,11 +1,11 @@
 {
   "name": "agenttrader",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Prediction market strategy research, backtesting, and paper trading toolkit",
   "author": "Finn Fujimura",
   "license": null,
   "home_page": null,
-  "download_filename": "agenttrader-0.4.0.tar.gz",
-  "download_time": "2026-03-03T06:10:32.177605",
+  "download_filename": "agenttrader-0.4.1.tar.gz",
+  "download_time": "2026-03-04T22:01:42.334240",
   "package_url": "https://pypi.org/project/agenttrader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "geointel",
+  "version": "0.2.0",
+  "summary": "AI-powered geolocation analysis using Google Gemini 3 with multi-model support",
+  "author": "Atilla",
+  "license": null,
+  "home_page": "https://github.com/atiilla/geointel",
+  "download_filename": "geointel-0.2.0.tar.gz",
+  "download_time": "2026-03-04T22:01:28.849764",
+  "package_url": "https://pypi.org/project/geointel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flash-mlm",
+  "version": "1.0.5",
+  "summary": "Triton-based Flash MLM attention kernels for PyTorch",
+  "author": "Victor Mao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flash_mlm-1.0.5.tar.gz",
+  "download_time": "2026-03-04T22:01:19.461892",
+  "package_url": "https://pypi.org/project/flash-mlm/"
+}

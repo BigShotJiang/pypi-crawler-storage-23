@@ -1,11 +1,11 @@
 {
   "name": "rowbase",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Rowbase SDK — declare data pipelines as Python functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rowbase-0.2.3.tar.gz",
-  "download_time": "2026-03-04T18:42:05.098356",
+  "download_filename": "rowbase-0.2.5.tar.gz",
+  "download_time": "2026-03-04T22:00:56.294874",
   "package_url": "https://pypi.org/project/rowbase/"
 }
