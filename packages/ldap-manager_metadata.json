@@ -1,11 +1,11 @@
 {
   "name": "ldap-manager",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "CLI power tools for sysadmins who run OpenLDAP and refuse to touch a web UI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ldap_manager-1.0.17.tar.gz",
-  "download_time": "2026-03-03T11:25:36.284645",
+  "download_filename": "ldap_manager-1.0.18.tar.gz",
+  "download_time": "2026-03-04T14:41:14.925318",
   "package_url": "https://pypi.org/project/ldap-manager/"
 }

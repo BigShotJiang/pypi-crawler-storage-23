@@ -1,11 +1,11 @@
 {
   "name": "xorfice",
-  "version": "0.1.34",
+  "version": "0.1.51",
   "summary": "SOTA Omni-Modal Personal AI Orchestrator & Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xorfice-0.1.34.tar.gz",
-  "download_time": "2026-03-03T08:37:26.927999",
+  "download_filename": "xorfice-0.1.51.tar.gz",
+  "download_time": "2026-03-04T14:40:42.468022",
   "package_url": "https://pypi.org/project/xorfice/"
 }

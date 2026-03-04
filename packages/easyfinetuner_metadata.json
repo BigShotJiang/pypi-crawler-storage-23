@@ -1,0 +1,11 @@
+{
+  "name": "easyfinetuner",
+  "version": "0.1.1",
+  "summary": "Dead simple LLM fine-tuning with Unsloth",
+  "author": "Hariharan Suthan",
+  "license": "MIT",
+  "home_page": "https://github.com/HariharanSuthan-A/easy-fine-tuner",
+  "download_filename": "easyfinetuner-0.1.1.tar.gz",
+  "download_time": "2026-03-04T14:40:44.594074",
+  "package_url": "https://pypi.org/project/easyfinetuner/"
+}

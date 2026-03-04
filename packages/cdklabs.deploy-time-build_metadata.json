@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.deploy-time-build",
+  "version": "0.0.9",
+  "summary": "Run build on CDK deployment time.",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/deploy-time-build.git",
+  "download_filename": "cdklabs_deploy_time_build-0.0.9.tar.gz",
+  "download_time": "2026-03-04T14:40:47.169466",
+  "package_url": "https://pypi.org/project/cdklabs.deploy-time-build/"
+}

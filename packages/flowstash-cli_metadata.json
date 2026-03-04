@@ -1,11 +1,11 @@
 {
   "name": "flowstash-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CLI for the flowstash Managed Platform",
   "author": "juraj.bezdek@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "flowstash_cli-0.1.1.tar.gz",
-  "download_time": "2026-03-04T10:02:48.931554",
+  "download_filename": "flowstash_cli-0.1.2.tar.gz",
+  "download_time": "2026-03-04T14:40:50.900302",
   "package_url": "https://pypi.org/project/flowstash-cli/"
 }

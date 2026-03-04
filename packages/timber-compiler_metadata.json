@@ -1,11 +1,11 @@
 {
   "name": "timber-compiler",
-  "version": "0.1.0",
-  "summary": "Classical ML Inference Compiler — compiles trained ML models into optimized native inference binaries",
+  "version": "0.4.0",
+  "summary": "Classical ML Inference Compiler — compiles XGBoost, LightGBM, sklearn, CatBoost, and ONNX models to optimized C99 / LLVM IR / WASM inference artifacts",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "timber_compiler-0.1.0.tar.gz",
-  "download_time": "2026-02-27T23:48:12.384428",
+  "download_filename": "timber_compiler-0.4.0.tar.gz",
+  "download_time": "2026-03-04T14:41:04.995694",
   "package_url": "https://pypi.org/project/timber-compiler/"
 }

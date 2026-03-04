@@ -1,11 +1,11 @@
 {
   "name": "browser-agent-bridge",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Browser Bridge server and CLI for controlling a Chrome extension over WebSocket",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "browser_agent_bridge-0.2.1.tar.gz",
-  "download_time": "2026-03-04T06:40:33.079507",
+  "download_filename": "browser_agent_bridge-0.2.2.tar.gz",
+  "download_time": "2026-03-04T14:40:51.975609",
   "package_url": "https://pypi.org/project/browser-agent-bridge/"
 }
