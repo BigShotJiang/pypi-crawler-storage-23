@@ -1,0 +1,11 @@
+{
+  "name": "dotsuite",
+  "version": "0.9.1b0",
+  "summary": "A meta-package to install the complete dot ecosystem.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotsuite-0.9.1b0.tar.gz",
+  "download_time": "2026-03-04T05:59:21.539945",
+  "package_url": "https://pypi.org/project/dotsuite/"
+}

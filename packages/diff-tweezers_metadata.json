@@ -1,11 +1,11 @@
 {
   "name": "diff-tweezers",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Interactive terminal diff chunk splitter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "diff_tweezers-0.2.2.tar.gz",
-  "download_time": "2026-03-03T21:59:10.403048",
+  "download_filename": "diff_tweezers-0.2.4.tar.gz",
+  "download_time": "2026-03-04T05:59:03.301886",
   "package_url": "https://pypi.org/project/diff-tweezers/"
 }

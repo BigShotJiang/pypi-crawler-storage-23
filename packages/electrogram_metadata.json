@@ -1,0 +1,11 @@
+{
+  "name": "electrogram",
+  "version": "0.3.223.1",
+  "summary": "Telegram MTProto API framework in Python, designed for fluid user and bot interactions.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "electrogram-0.3.223.1.tar.gz",
+  "download_time": "2026-03-04T05:58:55.050606",
+  "package_url": "https://pypi.org/project/electrogram/"
+}

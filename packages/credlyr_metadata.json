@@ -1,0 +1,11 @@
+{
+  "name": "credlyr",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Credlyr API",
+  "author": "Credlyr",
+  "license": "MIT",
+  "home_page": "https://github.com/credlyr/sdk-python",
+  "download_filename": "credlyr-1.0.0.tar.gz",
+  "download_time": "2026-03-04T05:59:29.891967",
+  "package_url": "https://pypi.org/project/credlyr/"
+}

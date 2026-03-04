@@ -1,11 +1,11 @@
 {
   "name": "clawagents",
-  "version": "5.10.1",
+  "version": "5.12.2",
   "summary": "Python port of the ClawAgents framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawagents-5.10.1.tar.gz",
-  "download_time": "2026-03-03T22:57:14.455049",
+  "download_filename": "clawagents-5.12.2.tar.gz",
+  "download_time": "2026-03-04T05:58:59.311662",
   "package_url": "https://pypi.org/project/clawagents/"
 }

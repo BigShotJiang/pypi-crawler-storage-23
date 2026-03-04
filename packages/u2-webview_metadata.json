@@ -1,0 +1,11 @@
+{
+  "name": "u2-webview",
+  "version": "0.1.0",
+  "summary": "An extension for uiautomator2 to support WebView automation via DrissionPage",
+  "author": "YuYoungG",
+  "license": null,
+  "home_page": "https://github.com/YuYoungG/uiautomator2-webview",
+  "download_filename": "u2_webview-0.1.0.tar.gz",
+  "download_time": "2026-03-04T05:59:41.437601",
+  "package_url": "https://pypi.org/project/u2-webview/"
+}

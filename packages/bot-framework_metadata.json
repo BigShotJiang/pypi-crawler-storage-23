@@ -1,11 +1,11 @@
 {
   "name": "bot-framework",
-  "version": "0.7.0",
+  "version": "0.8.2",
   "summary": "Reusable Telegram bot framework with Clean Architecture",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bot_framework-0.7.0.tar.gz",
-  "download_time": "2026-02-28T13:51:24.020118",
+  "download_filename": "bot_framework-0.8.2.tar.gz",
+  "download_time": "2026-03-04T05:59:29.254954",
   "package_url": "https://pypi.org/project/bot-framework/"
 }

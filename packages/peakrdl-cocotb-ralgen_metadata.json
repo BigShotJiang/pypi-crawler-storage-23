@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl-cocotb-ralgen",
+  "version": "0.1.9",
+  "summary": "Generate RAL tests from systemRDL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peakrdl_cocotb_ralgen-0.1.9.tar.gz",
+  "download_time": "2026-03-04T05:59:33.750603",
+  "package_url": "https://pypi.org/project/peakrdl-cocotb-ralgen/"
+}

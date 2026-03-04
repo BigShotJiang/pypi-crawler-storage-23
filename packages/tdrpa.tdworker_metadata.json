@@ -1,11 +1,11 @@
 {
   "name": "tdrpa.tdworker",
-  "version": "1.3.0.1",
+  "version": "1.3.0.2",
   "summary": "tdworker for tdrpa developers. supports python3.8+, windows x64",
   "author": "vx:RPA_CREATOR",
   "license": "Apache 2.0",
   "home_page": "https://gitee.com/tdworker/command/wikis",
-  "download_filename": "tdrpa_tdworker-1.3.0.1-py310-none-win_amd64.whl",
-  "download_time": "2026-03-03T07:16:28.438976",
+  "download_filename": "tdrpa_tdworker-1.3.0.2-py310-none-win_amd64.whl",
+  "download_time": "2026-03-04T05:59:46.509731",
   "package_url": "https://pypi.org/project/tdrpa.tdworker/"
 }
