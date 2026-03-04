@@ -1,11 +1,11 @@
 {
   "name": "b64t",
-  "version": "0.1.67",
+  "version": "0.1.71",
   "summary": "Python bindings for b64t (requires system package)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "b64t-0.1.67.tar.gz",
-  "download_time": "2026-03-03T06:10:03.205857",
+  "download_filename": "b64t-0.1.71.tar.gz",
+  "download_time": "2026-03-04T23:01:57.354189",
   "package_url": "https://pypi.org/project/b64t/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "radix-local",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Radix Local — free GPU orchestration for your desktop",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "radix_local-2.0.1.tar.gz",
-  "download_time": "2026-03-04T01:12:32.042038",
+  "download_filename": "radix_local-2.0.2.tar.gz",
+  "download_time": "2026-03-04T23:01:35.281106",
   "package_url": "https://pypi.org/project/radix-local/"
 }

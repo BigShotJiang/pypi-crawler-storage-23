@@ -1,0 +1,11 @@
+{
+  "name": "fluidattacks_batch_job_sdk",
+  "version": "0.1.1",
+  "summary": "AWS Batch job execution SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluidattacks_batch_job_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-04T23:01:52.255462",
+  "package_url": "https://pypi.org/project/fluidattacks_batch_job_sdk/"
+}
