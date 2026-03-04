@@ -1,0 +1,11 @@
+{
+  "name": "foil-sdk",
+  "version": "0.6.0",
+  "summary": "Foil SDK for monitoring and logging AI model invocations",
+  "author": "Foil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "foil_sdk-0.6.0.tar.gz",
+  "download_time": "2026-03-04T08:32:51.186543",
+  "package_url": "https://pypi.org/project/foil-sdk/"
+}

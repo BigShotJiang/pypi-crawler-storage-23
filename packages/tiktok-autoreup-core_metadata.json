@@ -1,11 +1,11 @@
 {
   "name": "tiktok-autoreup-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Core auto-reup logic for TikTok bots (DB + fetch + auto monitor + auto reup)",
-  "author": "moi",
+  "author": "ngdnguyen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tiktok_autoreup_core-0.1.0-cp313-cp313-manylinux_2_42_aarch64.whl",
-  "download_time": "2026-03-03T20:28:00.320469",
+  "download_filename": "tiktok_autoreup_core-0.1.1-cp313-cp313-manylinux_2_42_aarch64.whl",
+  "download_time": "2026-03-04T08:33:19.563982",
   "package_url": "https://pypi.org/project/tiktok-autoreup-core/"
 }

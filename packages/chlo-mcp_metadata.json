@@ -1,11 +1,11 @@
 {
   "name": "chlo-mcp",
-  "version": "0.1.14",
+  "version": "0.1.17",
   "summary": "MCP server for Chlo — connect your codebase to Claude Code, Cursor, and other AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chlo_mcp-0.1.14.tar.gz",
-  "download_time": "2026-03-03T07:16:41.343754",
+  "download_filename": "chlo_mcp-0.1.17.tar.gz",
+  "download_time": "2026-03-04T08:33:04.050781",
   "package_url": "https://pypi.org/project/chlo-mcp/"
 }

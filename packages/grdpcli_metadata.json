@@ -1,0 +1,11 @@
+{
+  "name": "grdpcli",
+  "version": "2.1.9",
+  "summary": "Gitlab Rapid Development Platform CLI client",
+  "author": "Anton Marusenko",
+  "license": null,
+  "home_page": "https://onix-systems.com",
+  "download_filename": "grdpcli-2.1.9.tar.gz",
+  "download_time": "2026-03-04T08:33:12.825930",
+  "package_url": "https://pypi.org/project/grdpcli/"
+}

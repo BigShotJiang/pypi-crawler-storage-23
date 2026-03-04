@@ -1,11 +1,11 @@
 {
   "name": "tikhub-xiaohongshu",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "TikHub 小红书 API Python SDK",
-  "author": "yehao20",
+  "author": "叶浩",
   "license": null,
   "home_page": null,
-  "download_filename": "tikhub_xiaohongshu-0.1.0.tar.gz",
-  "download_time": "2026-03-04T03:38:43.140892",
+  "download_filename": "tikhub_xiaohongshu-0.1.2.tar.gz",
+  "download_time": "2026-03-04T08:32:53.750975",
   "package_url": "https://pypi.org/project/tikhub-xiaohongshu/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zhongli",
+  "version": "2026.3.4",
+  "summary": "Bot to boost/reblog posts with specified tags",
+  "author": "marvin8",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "zhongli-2026.3.4.tar.gz",
+  "download_time": "2026-03-04T08:32:55.807921",
+  "package_url": "https://pypi.org/project/zhongli/"
+}
