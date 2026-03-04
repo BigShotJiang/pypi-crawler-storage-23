@@ -1,11 +1,11 @@
 {
   "name": "vllm-playground",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A web interface for managing and interacting with vLLM servers",
   "author": "micytao",
   "license": null,
   "home_page": null,
-  "download_filename": "vllm_playground-0.1.5.tar.gz",
-  "download_time": "2026-03-03T07:58:30.606038",
+  "download_filename": "vllm_playground-0.1.7.tar.gz",
+  "download_time": "2026-03-04T22:27:40.585108",
   "package_url": "https://pypi.org/project/vllm-playground/"
 }

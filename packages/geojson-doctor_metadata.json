@@ -1,0 +1,11 @@
+{
+  "name": "geojson-doctor",
+  "version": "0.1.1",
+  "summary": "A toolset for validating, repairing, and transforming GeoJSON data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geojson_doctor-0.1.1.tar.gz",
+  "download_time": "2026-03-04T22:27:34.164222",
+  "package_url": "https://pypi.org/project/geojson-doctor/"
+}

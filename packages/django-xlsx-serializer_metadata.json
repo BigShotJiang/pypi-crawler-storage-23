@@ -1,0 +1,11 @@
+{
+  "name": "django-xlsx-serializer",
+  "version": "1.2.0",
+  "summary": "Load/dump Django models from/to Excel 2007+ workbooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_xlsx_serializer-1.2.0.tar.gz",
+  "download_time": "2026-03-04T22:27:13.859955",
+  "package_url": "https://pypi.org/project/django-xlsx-serializer/"
+}

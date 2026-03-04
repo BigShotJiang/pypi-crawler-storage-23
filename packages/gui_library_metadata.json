@@ -1,11 +1,11 @@
 {
   "name": "gui_library",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "A library of useful tkinter GUI windows",
   "author": "dbruce-ae05",
   "license": null,
   "home_page": null,
-  "download_filename": "gui_library-0.9.2.tar.gz",
-  "download_time": "2026-03-04T21:00:17.831153",
+  "download_filename": "gui_library-0.9.3.tar.gz",
+  "download_time": "2026-03-04T22:27:19.244240",
   "package_url": "https://pypi.org/project/gui_library/"
 }

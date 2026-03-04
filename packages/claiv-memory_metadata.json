@@ -1,11 +1,11 @@
 {
   "name": "claiv-memory",
-  "version": "0.3.0",
-  "summary": "Official Python SDK for the Claiv Memory API (V3 - Priority Memory + Retention + Feedback)",
+  "version": "0.6.0",
+  "summary": "Official Python SDK for the Claiv Memory API (V6 - Catalog Memory + Deterministic Routing)",
   "author": "Claiv",
   "license": null,
   "home_page": null,
-  "download_filename": "claiv_memory-0.3.0.tar.gz",
-  "download_time": "2026-02-20T12:02:54.309454",
+  "download_filename": "claiv_memory-0.6.0.tar.gz",
+  "download_time": "2026-03-04T22:27:37.672653",
   "package_url": "https://pypi.org/project/claiv-memory/"
 }

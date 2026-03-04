@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-amgi-sqs-event-source-mapping",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry instrumentation for AMGI SQS event source mapping",
+  "author": "jack.burridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_amgi_sqs_event_source_mapping-0.60b1.tar.gz",
+  "download_time": "2026-03-04T22:27:29.066343",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-amgi-sqs-event-source-mapping/"
+}

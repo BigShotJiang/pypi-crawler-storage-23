@@ -1,0 +1,11 @@
+{
+  "name": "BranchContext",
+  "version": "0.2.0",
+  "summary": "Unified branching for speculative execution: filesystem, process, and memory",
+  "author": "Cong Wang",
+  "license": null,
+  "home_page": "https://github.com/multikernel/branching",
+  "download_filename": "branchcontext-0.2.0.tar.gz",
+  "download_time": "2026-03-04T22:26:59.683372",
+  "package_url": "https://pypi.org/project/BranchContext/"
+}

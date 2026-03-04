@@ -1,0 +1,11 @@
+{
+  "name": "garf-google-ads",
+  "version": "1.1.4",
+  "summary": "Garf implementation for Google Ads API",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "garf_google_ads-1.1.4.tar.gz",
+  "download_time": "2026-03-04T22:27:39.274041",
+  "package_url": "https://pypi.org/project/garf-google-ads/"
+}

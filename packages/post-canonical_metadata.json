@@ -1,0 +1,11 @@
+{
+  "name": "post-canonical",
+  "version": "2.2.0",
+  "summary": "Post Canonical Systems - A Python implementation of Emil Post's formal string rewriting systems",
+  "author": "Post Canonical Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "post_canonical-2.2.0.tar.gz",
+  "download_time": "2026-03-04T22:27:03.449843",
+  "package_url": "https://pypi.org/project/post-canonical/"
+}
