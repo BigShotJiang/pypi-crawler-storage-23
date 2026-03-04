@@ -1,0 +1,11 @@
+{
+  "name": "kerf",
+  "version": "0.1.1",
+  "summary": "Declarative workflow engine where the LLM is a pluggable, disposable step",
+  "author": "Derek Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kerf-0.1.1.tar.gz",
+  "download_time": "2026-03-04T07:31:18.501219",
+  "package_url": "https://pypi.org/project/kerf/"
+}

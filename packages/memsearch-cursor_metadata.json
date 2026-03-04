@@ -1,0 +1,11 @@
+{
+  "name": "memsearch-cursor",
+  "version": "0.1.2",
+  "summary": "Semantic memory search for Cursor IDE — fork of memsearch with Cursor transcript support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memsearch_cursor-0.1.2.tar.gz",
+  "download_time": "2026-03-04T07:31:27.456472",
+  "package_url": "https://pypi.org/project/memsearch-cursor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ratethrottle",
+  "version": "1.2.2",
+  "summary": "Advanced rate limiting and DDoS protection for Python web applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ratethrottle-1.2.2.tar.gz",
+  "download_time": "2026-03-04T07:31:22.541787",
+  "package_url": "https://pypi.org/project/ratethrottle/"
+}

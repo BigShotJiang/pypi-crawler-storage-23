@@ -1,11 +1,11 @@
 {
   "name": "alikafka-management-tool",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Aliyun Kafka Management Tool - Manage Kafka resources using YAML",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alikafka_management_tool-0.2.2.tar.gz",
-  "download_time": "2026-03-03T10:05:39.605432",
+  "download_filename": "alikafka_management_tool-0.2.3.tar.gz",
+  "download_time": "2026-03-04T07:31:56.238751",
   "package_url": "https://pypi.org/project/alikafka-management-tool/"
 }

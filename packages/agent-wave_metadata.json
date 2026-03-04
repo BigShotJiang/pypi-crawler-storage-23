@@ -1,0 +1,11 @@
+{
+  "name": "agent-wave",
+  "version": "0.1.1",
+  "summary": "Agent Wave: orchestrate parallel git worktree workflow for AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_wave-0.1.1.tar.gz",
+  "download_time": "2026-03-04T07:31:32.990960",
+  "package_url": "https://pypi.org/project/agent-wave/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "styrene",
-  "version": "0.13.33",
+  "version": "0.13.35",
   "summary": "Styrene mesh networking suite — daemon, TUI, and tools for Reticulum networks",
   "author": "Vanderlyn Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "styrene-0.13.33.tar.gz",
-  "download_time": "2026-03-04T06:40:25.199340",
+  "download_filename": "styrene-0.13.35.tar.gz",
+  "download_time": "2026-03-04T07:31:35.257631",
   "package_url": "https://pypi.org/project/styrene/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "symbolfyi",
+  "version": "0.1.0",
+  "summary": "Pure Python symbol & character encoding toolkit — 11 encoding formats, Unicode properties, HTML entities.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbolfyi-0.1.0.tar.gz",
+  "download_time": "2026-03-04T07:31:41.913448",
+  "package_url": "https://pypi.org/project/symbolfyi/"
+}

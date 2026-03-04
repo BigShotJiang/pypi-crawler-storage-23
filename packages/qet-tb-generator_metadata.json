@@ -1,0 +1,11 @@
+{
+  "name": "qet-tb-generator",
+  "version": "2.0.0",
+  "summary": "Script that generates terminal blocks & connectors for QElectroTech",
+  "author": "Raul Roda",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "qet_tb_generator-2.0.0.tar.gz",
+  "download_time": "2026-03-04T07:31:46.309590",
+  "package_url": "https://pypi.org/project/qet-tb-generator/"
+}

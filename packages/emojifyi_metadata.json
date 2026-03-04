@@ -1,0 +1,11 @@
+{
+  "name": "emojifyi",
+  "version": "0.1.0",
+  "summary": "Pure Python emoji toolkit — encoding, lookup, search, 3,781 emojis from Unicode Emoji 16.0.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "emojifyi-0.1.0.tar.gz",
+  "download_time": "2026-03-04T07:31:42.440992",
+  "package_url": "https://pypi.org/project/emojifyi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "yuichan",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "summary": "Yui Programming Language",
   "author": "Kimio Kuramitsu's Laboratory",
   "license": null,
   "home_page": null,
-  "download_filename": "yuichan-0.5.0.tar.gz",
-  "download_time": "2026-02-21T15:16:16.742364",
+  "download_filename": "yuichan-0.5.3.tar.gz",
+  "download_time": "2026-03-04T07:31:49.073288",
   "package_url": "https://pypi.org/project/yuichan/"
 }
