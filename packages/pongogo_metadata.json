@@ -1,11 +1,11 @@
 {
   "name": "pongogo",
-  "version": "0.3.60",
+  "version": "0.3.62",
   "summary": "AI agent knowledge routing system for software development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pongogo-0.3.60.tar.gz",
-  "download_time": "2026-03-04T23:01:38.422196",
+  "download_filename": "pongogo-0.3.62.tar.gz",
+  "download_time": "2026-03-04T23:56:09.377595",
   "package_url": "https://pypi.org/project/pongogo/"
 }

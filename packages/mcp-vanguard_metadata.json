@@ -1,0 +1,11 @@
+{
+  "name": "mcp-vanguard",
+  "version": "1.0.2",
+  "summary": "Security proxy and verification layer for the Model Context Protocol (MCP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_vanguard-1.0.2.tar.gz",
+  "download_time": "2026-03-04T23:55:56.478713",
+  "package_url": "https://pypi.org/project/mcp-vanguard/"
+}

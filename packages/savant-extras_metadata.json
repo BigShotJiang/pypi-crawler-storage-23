@@ -1,11 +1,11 @@
 {
   "name": "savant-extras",
-  "version": "0.3.0",
-  "summary": "Baseball Savant leaderboard data — complements pybaseball with 15+ leaderboards",
+  "version": "0.3.2",
+  "summary": "Baseball Savant leaderboard data — complements pybaseball with 16+ leaderboards",
   "author": "yasumorishima",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "savant_extras-0.3.0.tar.gz",
-  "download_time": "2026-02-23T07:42:43.663680",
+  "download_filename": "savant_extras-0.3.2.tar.gz",
+  "download_time": "2026-03-04T23:55:35.681108",
   "package_url": "https://pypi.org/project/savant-extras/"
 }

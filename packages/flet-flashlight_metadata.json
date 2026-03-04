@@ -1,11 +1,11 @@
 {
   "name": "flet-flashlight",
-  "version": "0.81.0",
+  "version": "0.82.0",
   "summary": "Control device torch/flashlight from Flet apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet_flashlight-0.81.0.tar.gz",
-  "download_time": "2026-03-01T18:27:04.755985",
+  "download_filename": "flet_flashlight-0.82.0.tar.gz",
+  "download_time": "2026-03-04T23:55:37.306743",
   "package_url": "https://pypi.org/project/flet-flashlight/"
 }
