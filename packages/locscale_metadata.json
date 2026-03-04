@@ -1,0 +1,11 @@
+{
+  "name": "locscale",
+  "version": "2.3.1.post5",
+  "summary": "Contrast optimization for cryo-EM maps",
+  "author": "Alok Bharadwaj, Arjen J. Jakobi, Reinier de Bruin",
+  "license": "3-clause BSD",
+  "home_page": "https://github.com/cryoTUD/locscale",
+  "download_filename": "locscale-2.3.1.post5.tar.gz",
+  "download_time": "2026-03-04T10:37:24.088579",
+  "package_url": "https://pypi.org/project/locscale/"
+}

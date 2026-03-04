@@ -1,11 +1,11 @@
 {
   "name": "kdotnet-dump",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "CLI tool for dumping dotnet processes running in kubernetes pods",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kdotnet_dump-0.1.0.tar.gz",
-  "download_time": "2026-02-26T11:15:55.046132",
+  "download_filename": "kdotnet_dump-0.1.3.tar.gz",
+  "download_time": "2026-03-04T10:37:21.544219",
   "package_url": "https://pypi.org/project/kdotnet-dump/"
 }

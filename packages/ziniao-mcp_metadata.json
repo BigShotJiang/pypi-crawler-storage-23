@@ -1,11 +1,11 @@
 {
   "name": "ziniao-mcp",
-  "version": "0.1.12",
+  "version": "0.1.15",
   "summary": "紫鸟浏览器 MCP 服务器 - 让 AI Agent 操控紫鸟店铺",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ziniao_mcp-0.1.12.tar.gz",
-  "download_time": "2026-03-04T08:33:21.617842",
+  "download_filename": "ziniao_mcp-0.1.15.tar.gz",
+  "download_time": "2026-03-04T10:37:30.714633",
   "package_url": "https://pypi.org/project/ziniao-mcp/"
 }

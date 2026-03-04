@@ -1,0 +1,11 @@
+{
+  "name": "tap-gitlab",
+  "version": "1.0.0",
+  "summary": "Singer.io tap for extracting data from the GitLab API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "https://singer.io",
+  "download_filename": "tap_gitlab-1.0.0.tar.gz",
+  "download_time": "2026-03-04T10:37:26.120673",
+  "package_url": "https://pypi.org/project/tap-gitlab/"
+}

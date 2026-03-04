@@ -1,0 +1,11 @@
+{
+  "name": "dsp-graph",
+  "version": "0.1.8",
+  "summary": "Visual graph editor, inspector, and debugger for gen-dsp signal graphs",
+  "author": "Shakeeb Alireza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dsp_graph-0.1.8.tar.gz",
+  "download_time": "2026-03-04T10:37:10.127657",
+  "package_url": "https://pypi.org/project/dsp-graph/"
+}

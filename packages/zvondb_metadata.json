@@ -1,11 +1,11 @@
 {
   "name": "zvondb",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Python SDK for the ML Artifact Registry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zvondb-0.3.1.tar.gz",
-  "download_time": "2026-03-03T08:37:24.760679",
+  "download_filename": "zvondb-0.3.3.tar.gz",
+  "download_time": "2026-03-04T10:36:54.150863",
   "package_url": "https://pypi.org/project/zvondb/"
 }

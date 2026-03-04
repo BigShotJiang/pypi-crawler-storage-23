@@ -1,11 +1,11 @@
 {
   "name": "jarviscore-framework",
-  "version": "0.4.0",
-  "summary": "Build autonomous AI agents in 3 lines of code. Production-ready orchestration with P2P mesh networking.",
+  "version": "1.0.2",
+  "summary": "Orchestrate multi-agent systems with peer-to-peer coordination, unified memory, and built-in auth.",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jarviscore_framework-0.4.0.tar.gz",
-  "download_time": "2026-02-19T08:09:10.088557",
+  "download_filename": "jarviscore_framework-1.0.2.tar.gz",
+  "download_time": "2026-03-04T10:36:52.617815",
   "package_url": "https://pypi.org/project/jarviscore-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "venturalitica",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "summary": "Frictionless Governance for AI. Enforce policies in your ML training with one line of code.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "venturalitica-0.5.0.tar.gz",
-  "download_time": "2026-02-19T12:39:08.309791",
+  "download_filename": "venturalitica-0.5.3.tar.gz",
+  "download_time": "2026-03-04T10:37:22.054866",
   "package_url": "https://pypi.org/project/venturalitica/"
 }
