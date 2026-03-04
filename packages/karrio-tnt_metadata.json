@@ -1,11 +1,11 @@
 {
   "name": "karrio-tnt",
-  "version": "2026.1.16",
+  "version": "2026.1.18",
   "summary": "Karrio - TNT Shipping extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_tnt-2026.1.16-py3-none-any.whl",
-  "download_time": "2026-03-02T16:13:25.636205",
+  "download_filename": "karrio_tnt-2026.1.18-py3-none-any.whl",
+  "download_time": "2026-03-04T17:07:49.178567",
   "package_url": "https://pypi.org/project/karrio-tnt/"
 }

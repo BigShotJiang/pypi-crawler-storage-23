@@ -1,0 +1,11 @@
+{
+  "name": "haiku-skills-web",
+  "version": "0.7.0",
+  "summary": "Web search and page fetching skill for haiku.skills",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haiku_skills_web-0.7.0.tar.gz",
+  "download_time": "2026-03-04T17:07:41.551555",
+  "package_url": "https://pypi.org/project/haiku-skills-web/"
+}

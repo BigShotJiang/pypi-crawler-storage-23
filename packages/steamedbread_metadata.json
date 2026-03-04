@@ -1,0 +1,11 @@
+{
+  "name": "steamedbread",
+  "version": "1.0.0",
+  "summary": "馒头的第三方库",
+  "author": "馒头",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/neihanshenshou/SteamedBread",
+  "download_filename": "steamedbread-1.0.0.tar.gz",
+  "download_time": "2026-03-04T17:08:10.262758",
+  "package_url": "https://pypi.org/project/steamedbread/"
+}

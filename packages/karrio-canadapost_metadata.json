@@ -1,11 +1,11 @@
 {
   "name": "karrio-canadapost",
-  "version": "2026.1.12",
+  "version": "2026.1.18",
   "summary": "Karrio - Canada Post Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_canadapost-2026.1.12-py3-none-any.whl",
-  "download_time": "2026-02-20T23:04:05.131091",
+  "download_filename": "karrio_canadapost-2026.1.18-py3-none-any.whl",
+  "download_time": "2026-03-04T17:08:23.430161",
   "package_url": "https://pypi.org/project/karrio-canadapost/"
 }

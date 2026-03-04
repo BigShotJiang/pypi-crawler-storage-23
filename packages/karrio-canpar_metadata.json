@@ -1,11 +1,11 @@
 {
   "name": "karrio-canpar",
-  "version": "2026.1.12",
+  "version": "2026.1.18",
   "summary": "Karrio - Canpar Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_canpar-2026.1.12-py3-none-any.whl",
-  "download_time": "2026-02-20T23:04:04.550622",
+  "download_filename": "karrio_canpar-2026.1.18-py3-none-any.whl",
+  "download_time": "2026-03-04T17:08:22.841682",
   "package_url": "https://pypi.org/project/karrio-canpar/"
 }
