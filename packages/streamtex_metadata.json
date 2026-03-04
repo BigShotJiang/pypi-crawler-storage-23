@@ -1,11 +1,11 @@
 {
   "name": "streamtex",
-  "version": "0.3.2.post1",
+  "version": "0.3.2.post6",
   "summary": "AI-powered content framework for Streamlit — create presentations, courses, and web-books with Claude or Cursor, no coding required.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "streamtex-0.3.2.post1.tar.gz",
-  "download_time": "2026-03-04T11:50:11.042801",
+  "download_filename": "streamtex-0.3.2.post6.tar.gz",
+  "download_time": "2026-03-04T19:32:08.884239",
   "package_url": "https://pypi.org/project/streamtex/"
 }

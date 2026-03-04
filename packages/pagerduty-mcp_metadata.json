@@ -1,11 +1,11 @@
 {
   "name": "pagerduty-mcp",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "summary": "PagerDuty's official local MCP (Model Context Protocol) server which provides tools to interact with your PagerDuty account directly from your MCP-enabled client.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pagerduty_mcp-0.14.0.tar.gz",
-  "download_time": "2026-03-03T20:28:01.358915",
+  "download_filename": "pagerduty_mcp-0.15.0.tar.gz",
+  "download_time": "2026-03-04T19:32:06.440533",
   "package_url": "https://pypi.org/project/pagerduty-mcp/"
 }

@@ -1,18 +1,11 @@
 {
-  "download_time": "2026-03-04T18:42:30.412611",
+  "download_time": "2026-03-04T19:32:09.385124",
   "total_packages_downloaded": 87,
-  "total_size_mb": 38.77,
+  "total_size_mb": 6.6,
   "packages": [
-    "devs-common",
-    "octo-agent",
-    "dundun-agent",
-    "niobe",
-    "SyMBac",
-    "torch-slices",
-    "ApkPatcherX",
-    "operator-ai",
     "lager-cli",
     "netbox-custom-widget",
+    "ApkPatcherX",
     "pulse-os",
     "composio-openai-agents",
     "composio-openai",
@@ -89,6 +82,13 @@
     "agentmd-gen",
     "dioptas",
     "cloakllm-mcp",
-    "modalflow"
+    "modalflow",
+    "devs-webhook",
+    "weavecode",
+    "pagerduty-mcp",
+    "devs-cli",
+    "cloakllm",
+    "devs-common",
+    "streamtex"
   ]
 }
