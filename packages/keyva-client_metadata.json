@@ -1,0 +1,11 @@
+{
+  "name": "keyva-client",
+  "version": "0.1.0",
+  "summary": "Python client for the Keyva.dev license management API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keyva_client-0.1.0.tar.gz",
+  "download_time": "2026-03-04T06:40:11.623447",
+  "package_url": "https://pypi.org/project/keyva-client/"
+}

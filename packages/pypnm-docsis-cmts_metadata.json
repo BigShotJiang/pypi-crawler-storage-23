@@ -1,11 +1,11 @@
 {
   "name": "pypnm-docsis-cmts",
-  "version": "0.2.10.0",
+  "version": "0.2.12.0",
   "summary": "DOCSIS CMTS tools built on the PyPNM toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypnm_docsis_cmts-0.2.10.0.tar.gz",
-  "download_time": "2026-02-28T20:19:07.173286",
+  "download_filename": "pypnm_docsis_cmts-0.2.12.0.tar.gz",
+  "download_time": "2026-03-04T06:40:19.946853",
   "package_url": "https://pypi.org/project/pypnm-docsis-cmts/"
 }

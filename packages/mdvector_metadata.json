@@ -1,0 +1,11 @@
+{
+  "name": "mdvector",
+  "version": "1.0.4",
+  "summary": "Sync markdown files to vector databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdvector-1.0.4.tar.gz",
+  "download_time": "2026-03-04T06:40:26.790651",
+  "package_url": "https://pypi.org/project/mdvector/"
+}

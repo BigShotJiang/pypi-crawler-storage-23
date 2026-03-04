@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-views",
+  "version": "1.5.0",
+  "summary": "FastAPI Class Views and utilities",
+  "author": "RaRhAeu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_views-1.5.0.tar.gz",
+  "download_time": "2026-03-04T06:40:23.636165",
+  "package_url": "https://pypi.org/project/fastapi-views/"
+}

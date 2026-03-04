@@ -1,0 +1,11 @@
+{
+  "name": "nobox",
+  "version": "0.2.1",
+  "summary": "JSON and YAML key-value storage utilities with CRUD operations via CLI",
+  "author": "Jeff Mirabile",
+  "license": null,
+  "home_page": "https://github.com/jmmirabile/nobox",
+  "download_filename": "nobox-0.2.1.tar.gz",
+  "download_time": "2026-03-04T06:40:30.937400",
+  "package_url": "https://pypi.org/project/nobox/"
+}

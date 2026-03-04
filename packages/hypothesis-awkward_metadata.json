@@ -1,11 +1,11 @@
 {
   "name": "hypothesis-awkward",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Hypothesis strategies for Awkward Array",
   "author": "Tai Sakuma",
   "license": null,
   "home_page": null,
-  "download_filename": "hypothesis_awkward-0.7.1.tar.gz",
-  "download_time": "2026-03-03T21:18:50.426505",
+  "download_filename": "hypothesis_awkward-0.7.2.tar.gz",
+  "download_time": "2026-03-04T06:40:18.905557",
   "package_url": "https://pypi.org/project/hypothesis-awkward/"
 }
