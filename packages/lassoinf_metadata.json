@@ -1,0 +1,11 @@
+{
+  "name": "lassoinf",
+  "version": "0.1.1",
+  "summary": "Selective inference tools",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lassoinf-0.1.1.tar.gz",
+  "download_time": "2026-03-04T01:12:26.728038",
+  "package_url": "https://pypi.org/project/lassoinf/"
+}

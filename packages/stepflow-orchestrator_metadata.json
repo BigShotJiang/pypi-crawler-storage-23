@@ -1,0 +1,11 @@
+{
+  "name": "stepflow-orchestrator",
+  "version": "0.11.1",
+  "summary": "Stepflow orchestrator binary distribution - launch Stepflow server as a subprocess",
+  "author": "DataStax Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stepflow_orchestrator-0.11.1-py3-none-win_amd64.whl",
+  "download_time": "2026-03-04T01:12:36.292608",
+  "package_url": "https://pypi.org/project/stepflow-orchestrator/"
+}

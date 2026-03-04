@@ -1,0 +1,11 @@
+{
+  "name": "chibi-elasticsearch",
+  "version": "1.0.0",
+  "summary": "Package with templates and snippets for elasticsearch",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_elasticsearch",
+  "download_filename": "chibi_elasticsearch-1.0.0.tar.gz",
+  "download_time": "2026-03-04T01:12:24.069008",
+  "package_url": "https://pypi.org/project/chibi-elasticsearch/"
+}

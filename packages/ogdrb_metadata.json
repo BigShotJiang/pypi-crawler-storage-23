@@ -1,11 +1,11 @@
 {
   "name": "ogdrb",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "OpenGD77 + RepeaterBook",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ogdrb-0.6.0.tar.gz",
-  "download_time": "2026-03-03T22:57:06.573818",
+  "download_filename": "ogdrb-0.6.1.tar.gz",
+  "download_time": "2026-03-04T01:12:25.642074",
   "package_url": "https://pypi.org/project/ogdrb/"
 }

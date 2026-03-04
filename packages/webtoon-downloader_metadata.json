@@ -1,0 +1,11 @@
+{
+  "name": "webtoon-downloader",
+  "version": "2.3.0",
+  "summary": "A fast scrapper ⚡ for downloading comics from the Webtoons platform.",
+  "author": "Ali Taibi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webtoon_downloader-2.3.0.tar.gz",
+  "download_time": "2026-03-04T01:12:27.769280",
+  "package_url": "https://pypi.org/project/webtoon-downloader/"
+}

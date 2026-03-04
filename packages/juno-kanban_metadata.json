@@ -1,11 +1,11 @@
 {
   "name": "juno-kanban",
-  "version": "1.28.0",
+  "version": "1.30.0",
   "summary": "A shell-based kanban task manager with NDJSON storage and high-performance search",
   "author": "Juno AI",
   "license": null,
   "home_page": "https://github.com/askbudi/juno-mono",
-  "download_filename": "juno_kanban-1.28.0.tar.gz",
-  "download_time": "2026-02-22T21:47:00.753801",
+  "download_filename": "juno_kanban-1.30.0.tar.gz",
+  "download_time": "2026-03-04T01:12:30.390756",
   "package_url": "https://pypi.org/project/juno-kanban/"
 }
