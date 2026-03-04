@@ -1,11 +1,11 @@
 {
   "name": "gcp-pipeline-transform",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Transform library for GCP data pipelines (dbt macros)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcp_pipeline_transform-1.0.4.tar.gz",
-  "download_time": "2026-03-01T22:55:20.885423",
+  "download_filename": "gcp_pipeline_transform-1.0.5.tar.gz",
+  "download_time": "2026-03-04T11:09:24.066915",
   "package_url": "https://pypi.org/project/gcp-pipeline-transform/"
 }

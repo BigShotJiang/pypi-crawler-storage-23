@@ -1,0 +1,11 @@
+{
+  "name": "mariadb",
+  "version": "1.1.14",
+  "summary": "Python MariaDB extension",
+  "author": "Georg Richter",
+  "license": "LGPL 2.1",
+  "home_page": "https://www.github.com/mariadb-corporation/mariadb-connector-python",
+  "download_filename": "mariadb-1.1.14.tar.gz",
+  "download_time": "2026-03-04T11:09:57.583911",
+  "package_url": "https://pypi.org/project/mariadb/"
+}

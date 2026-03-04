@@ -1,0 +1,11 @@
+{
+  "name": "langchain-openai-thinking-agui",
+  "version": "0.2.2",
+  "summary": "LangChain chat model wrappers that expose reasoning/thinking content in ag-ui-langgraph compatible format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_openai_thinking_agui-0.2.2.tar.gz",
+  "download_time": "2026-03-04T11:09:45.272648",
+  "package_url": "https://pypi.org/project/langchain-openai-thinking-agui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "checkup-dbt",
+  "version": "0.2.0",
+  "summary": "dbt metrics for checkup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkup_dbt-0.2.0.tar.gz",
+  "download_time": "2026-03-04T11:09:48.362282",
+  "package_url": "https://pypi.org/project/checkup-dbt/"
+}

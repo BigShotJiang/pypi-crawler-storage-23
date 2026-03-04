@@ -1,0 +1,11 @@
+{
+  "name": "hora-graph-core",
+  "version": "1.0.0",
+  "summary": "Bio-inspired embedded knowledge graph engine — pure Rust, zero runtime deps",
+  "author": "Vivien Martin",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "hora_graph_core-1.0.0.tar.gz",
+  "download_time": "2026-03-04T11:10:03.239205",
+  "package_url": "https://pypi.org/project/hora-graph-core/"
+}

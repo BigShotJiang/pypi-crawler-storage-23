@@ -1,11 +1,11 @@
 {
   "name": "tokvera",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Lightweight multi-provider (OpenAI, Anthropic, Gemini) analytics tracking wrapper",
   "author": "Tokvera",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tokvera-0.2.0.tar.gz",
-  "download_time": "2026-03-02T06:11:35.131556",
+  "download_filename": "tokvera-0.2.1.tar.gz",
+  "download_time": "2026-03-04T11:09:54.507568",
   "package_url": "https://pypi.org/project/tokvera/"
 }

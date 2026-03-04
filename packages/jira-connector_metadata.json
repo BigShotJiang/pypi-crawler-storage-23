@@ -1,0 +1,11 @@
+{
+  "name": "jira-connector",
+  "version": "1.0.2",
+  "summary": "A flexible and powerful Python connector for interacting with Jira API",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/jira-connector",
+  "download_filename": "jira_connector-1.0.2.tar.gz",
+  "download_time": "2026-03-04T11:09:52.973695",
+  "package_url": "https://pypi.org/project/jira-connector/"
+}
