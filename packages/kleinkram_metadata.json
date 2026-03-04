@@ -1,11 +1,11 @@
 {
   "name": "kleinkram",
-  "version": "0.57.0",
+  "version": "0.58.0",
   "summary": "give me your bags",
   "author": "Cyrill Püntener, Dominique Garmier, Johann Schwabe",
   "license": null,
   "home_page": null,
-  "download_filename": "kleinkram-0.57.0.tar.gz",
-  "download_time": "2026-02-23T18:41:02.877369",
+  "download_filename": "kleinkram-0.58.0.tar.gz",
+  "download_time": "2026-03-04T16:08:19.850421",
   "package_url": "https://pypi.org/project/kleinkram/"
 }

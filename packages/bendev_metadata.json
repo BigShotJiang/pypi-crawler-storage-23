@@ -1,0 +1,11 @@
+{
+  "name": "bendev",
+  "version": "0.3.4",
+  "summary": "Control module for Bentham Instruments Ltd SCPI devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/BenthamInstruments/bendev",
+  "download_filename": "bendev-0.3.4.tar.gz",
+  "download_time": "2026-03-04T16:07:59.968024",
+  "package_url": "https://pypi.org/project/bendev/"
+}

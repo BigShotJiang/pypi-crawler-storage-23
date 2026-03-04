@@ -1,0 +1,11 @@
+{
+  "name": "gepa-adk",
+  "version": "1.0.0",
+  "summary": "Evolutionary optimization for Google ADK agents",
+  "author": "Alberto-Codes",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gepa_adk-1.0.0.tar.gz",
+  "download_time": "2026-03-04T16:08:23.503560",
+  "package_url": "https://pypi.org/project/gepa-adk/"
+}

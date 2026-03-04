@@ -1,11 +1,11 @@
 {
   "name": "pyfs-watcher",
-  "version": "0.1.1",
-  "summary": "Rust-powered filesystem toolkit: fast walk, parallel hashing, bulk copy, file watching, and deduplication.",
+  "version": "0.2.0",
+  "summary": "Rust-powered filesystem toolkit: fast walk, parallel hashing, bulk copy, file watching, deduplication, content search, directory diff/sync, snapshots, disk usage, and batch rename.",
   "author": "Pratyush Sharma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfs_watcher-0.1.1.tar.gz",
-  "download_time": "2026-02-23T01:11:53.040245",
+  "download_filename": "pyfs_watcher-0.2.0.tar.gz",
+  "download_time": "2026-03-04T16:08:05.190489",
   "package_url": "https://pypi.org/project/pyfs-watcher/"
 }

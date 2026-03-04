@@ -1,0 +1,11 @@
+{
+  "name": "cf-pipeline-report",
+  "version": "0.0.1",
+  "summary": "HTML pipeline report renderer for Cogniflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_pipeline_report-0.0.1.tar.gz",
+  "download_time": "2026-03-04T16:08:11.008490",
+  "package_url": "https://pypi.org/project/cf-pipeline-report/"
+}

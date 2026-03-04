@@ -1,0 +1,11 @@
+{
+  "name": "requests-ml-min",
+  "version": "3.45",
+  "summary": "A lightweight alternative to requests for use in regulated and restricted environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "requests_ml_min-3.45.tar.gz",
+  "download_time": "2026-03-04T16:08:15.672836",
+  "package_url": "https://pypi.org/project/requests-ml-min/"
+}

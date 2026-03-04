@@ -1,0 +1,11 @@
+{
+  "name": "brainunit",
+  "version": "0.2.0",
+  "summary": "Physical Units and Unit-Aware Mathematical System for General-Purpose Brain Dynamics Modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainunit-0.2.0.tar.gz",
+  "download_time": "2026-03-04T16:08:04.144883",
+  "package_url": "https://pypi.org/project/brainunit/"
+}
