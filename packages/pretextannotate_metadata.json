@@ -1,11 +1,11 @@
 {
   "name": "pretextannotate",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A package to annotate a pretext snapshot with size and chromosome information",
   "author": "Sanger-ToL",
   "license": null,
   "home_page": null,
-  "download_filename": "pretextannotate-1.1.1.tar.gz",
-  "download_time": "2026-03-04T12:07:53.021824",
+  "download_filename": "pretextannotate-1.1.2.tar.gz",
+  "download_time": "2026-03-04T15:29:33.797134",
   "package_url": "https://pypi.org/project/pretextannotate/"
 }

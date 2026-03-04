@@ -1,11 +1,11 @@
 {
   "name": "flux-config-shared",
-  "version": "0.9.9",
+  "version": "0.10.0",
   "summary": "Shared protocol and configuration definitions for Flux Config packages",
   "author": "David White",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "flux_config_shared-0.9.9.tar.gz",
-  "download_time": "2026-03-03T09:13:31.747277",
+  "download_filename": "flux_config_shared-0.10.0.tar.gz",
+  "download_time": "2026-03-04T15:29:44.616030",
   "package_url": "https://pypi.org/project/flux-config-shared/"
 }

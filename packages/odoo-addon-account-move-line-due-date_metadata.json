@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-line-due-date",
+  "version": "18.0.1.0.0.1",
+  "summary": "Shows Date Maturity on Journal Entries Lines",
+  "author": "Sygel",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-account-financial-tools",
+  "download_filename": "odoo_addon_account_move_line_due_date-18.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2026-03-04T15:29:31.177438",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-line-due-date/"
+}

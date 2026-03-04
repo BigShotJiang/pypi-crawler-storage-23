@@ -1,0 +1,11 @@
+{
+  "name": "bsn-cloud-api",
+  "version": "1.2.0",
+  "summary": "A comprehensive Python library for the BrightSign Network (BSN) Cloud API",
+  "author": "Tobiasz Gans",
+  "license": "MIT",
+  "home_page": "https://github.com/TobiaszGans/py_BSN_Cloud_API",
+  "download_filename": "bsn_cloud_api-1.2.0.tar.gz",
+  "download_time": "2026-03-04T15:29:17.415504",
+  "package_url": "https://pypi.org/project/bsn-cloud-api/"
+}

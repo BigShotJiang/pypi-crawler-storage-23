@@ -1,0 +1,11 @@
+{
+  "name": "odoo-rest-api",
+  "version": "0.2.2",
+  "summary": "Decorator-based REST API framework for Odoo modules",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "odoo_rest_api-0.2.2.tar.gz",
+  "download_time": "2026-03-04T15:29:06.256309",
+  "package_url": "https://pypi.org/project/odoo-rest-api/"
+}

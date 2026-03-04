@@ -1,0 +1,11 @@
+{
+  "name": "planutils",
+  "version": "0.10.25",
+  "summary": "General library for setting up linux-based environments for developing, running, and evaluating planners.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/AI-Planning/planutils",
+  "download_filename": "planutils-0.10.25.tar.gz",
+  "download_time": "2026-03-04T15:29:29.126801",
+  "package_url": "https://pypi.org/project/planutils/"
+}

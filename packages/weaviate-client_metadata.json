@@ -1,11 +1,11 @@
 {
   "name": "weaviate-client",
-  "version": "4.19.4",
+  "version": "4.20.2",
   "summary": "A python native Weaviate client",
   "author": "Weaviate",
   "license": "BSD 3-clause",
   "home_page": "https://github.com/weaviate/weaviate-python-client",
-  "download_filename": "weaviate_client-4.19.4.tar.gz",
-  "download_time": "2026-02-20T13:24:05.646771",
+  "download_filename": "weaviate_client-4.20.2.tar.gz",
+  "download_time": "2026-03-04T15:29:00.418877",
   "package_url": "https://pypi.org/project/weaviate-client/"
 }

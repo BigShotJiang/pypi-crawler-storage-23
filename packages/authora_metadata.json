@@ -1,0 +1,11 @@
+{
+  "name": "authora",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the Authora agent identity and authorization platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authora-0.2.0.tar.gz",
+  "download_time": "2026-03-04T15:29:07.858013",
+  "package_url": "https://pypi.org/project/authora/"
+}

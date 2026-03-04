@@ -1,0 +1,11 @@
+{
+  "name": "kitops",
+  "version": "1.5.0",
+  "summary": "A package for managing KitOps ModelKits and Kitfiles",
+  "author": "Jacob Fuss",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kitops-1.5.0.tar.gz",
+  "download_time": "2026-03-04T15:29:15.231163",
+  "package_url": "https://pypi.org/project/kitops/"
+}

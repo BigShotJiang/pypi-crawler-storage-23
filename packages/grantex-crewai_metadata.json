@@ -1,11 +1,11 @@
 {
   "name": "grantex-crewai",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "CrewAI integration for the Grantex delegated authorization protocol — scope-enforced, audited agent tools",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "grantex_crewai-0.1.2.tar.gz",
-  "download_time": "2026-03-01T15:21:37.639767",
+  "download_filename": "grantex_crewai-0.1.3.tar.gz",
+  "download_time": "2026-03-04T15:29:40.525157",
   "package_url": "https://pypi.org/project/grantex-crewai/"
 }

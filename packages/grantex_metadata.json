@@ -1,11 +1,11 @@
 {
   "name": "grantex",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "Python SDK for the Grantex delegated authorization protocol — OAuth 2.0 for AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "grantex-0.1.8.tar.gz",
-  "download_time": "2026-03-01T15:48:29.226369",
+  "download_filename": "grantex-0.2.1.tar.gz",
+  "download_time": "2026-03-04T15:29:41.037707",
   "package_url": "https://pypi.org/project/grantex/"
 }
