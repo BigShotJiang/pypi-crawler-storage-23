@@ -1,0 +1,11 @@
+{
+  "name": "vyper-language-server",
+  "version": "0.2.2",
+  "summary": "Language server for Vyper, a pythonic smart contract language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vyper_language_server-0.2.2.tar.gz",
+  "download_time": "2026-03-04T11:50:12.577424",
+  "package_url": "https://pypi.org/project/vyper-language-server/"
+}

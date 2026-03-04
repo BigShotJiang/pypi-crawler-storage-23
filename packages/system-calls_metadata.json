@@ -1,0 +1,11 @@
+{
+  "name": "system-calls",
+  "version": "6.19.0",
+  "summary": "Python module to check for system call number/name and availability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "system_calls-6.19.0.tar.gz",
+  "download_time": "2026-03-04T11:49:57.358991",
+  "package_url": "https://pypi.org/project/system-calls/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spark-nlp",
+  "version": "6.3.2",
+  "summary": "John Snow Labs Spark NLP is a natural language processing library built on top of Apache Spark ML. It provides simple, performant & accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.",
+  "author": "John Snow Labs",
+  "license": null,
+  "home_page": "https://github.com/JohnSnowLabs/spark-nlp",
+  "download_filename": "spark_nlp-6.3.2.tar.gz",
+  "download_time": "2026-03-04T11:49:54.665653",
+  "package_url": "https://pypi.org/project/spark-nlp/"
+}

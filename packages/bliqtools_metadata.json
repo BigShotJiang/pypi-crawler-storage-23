@@ -1,0 +1,11 @@
+{
+  "name": "bliqtools",
+  "version": "1.1.10",
+  "summary": "A simple module for testing used at Bliq Photonics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bliqtools-1.1.10.tar.gz",
+  "download_time": "2026-03-04T11:50:14.653715",
+  "package_url": "https://pypi.org/project/bliqtools/"
+}

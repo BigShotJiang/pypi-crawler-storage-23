@@ -1,0 +1,11 @@
+{
+  "name": "mariadb-binary",
+  "version": "2.0.0rc1",
+  "summary": "Python MariaDB extension",
+  "author": "Georg Richter",
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "mariadb_binary-2.0.0rc1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-03-04T11:49:55.254150",
+  "package_url": "https://pypi.org/project/mariadb-binary/"
+}

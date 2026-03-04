@@ -1,11 +1,11 @@
 {
   "name": "vectrix",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "summary": "Zero-config time series forecasting & analysis library. 30+ models with built-in Rust engine for blazing-fast performance.",
   "author": "eddmpython",
   "license": null,
   "home_page": null,
-  "download_filename": "vectrix-0.0.11.tar.gz",
-  "download_time": "2026-03-04T05:59:23.477767",
+  "download_filename": "vectrix-0.0.13.tar.gz",
+  "download_time": "2026-03-04T11:50:41.479972",
   "package_url": "https://pypi.org/project/vectrix/"
 }

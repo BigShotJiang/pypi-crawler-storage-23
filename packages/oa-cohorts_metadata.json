@@ -1,11 +1,11 @@
 {
   "name": "oa-cohorts",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "Serialisation utilities for OMOP CDM cohorts and CQI builder",
   "author": "Georgie Kennedy",
   "license": null,
   "home_page": null,
-  "download_filename": "oa_cohorts-0.3.8.tar.gz",
-  "download_time": "2026-03-04T07:31:46.837282",
+  "download_filename": "oa_cohorts-0.3.10.tar.gz",
+  "download_time": "2026-03-04T11:50:41.991960",
   "package_url": "https://pypi.org/project/oa-cohorts/"
 }

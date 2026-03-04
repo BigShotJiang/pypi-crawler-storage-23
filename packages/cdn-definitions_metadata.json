@@ -1,0 +1,11 @@
+{
+  "name": "cdn-definitions",
+  "version": "3.5.0",
+  "summary": "Data definitions for Red Hat's content delivery network",
+  "author": "Rohan McGovern",
+  "license": "GNU General Public License",
+  "home_page": "https://github.com/release-engineering/cdn-definitions",
+  "download_filename": "cdn_definitions-3.5.0-py3-none-any.whl",
+  "download_time": "2026-03-04T11:49:56.828877",
+  "package_url": "https://pypi.org/project/cdn-definitions/"
+}

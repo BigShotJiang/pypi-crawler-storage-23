@@ -1,11 +1,11 @@
 {
   "name": "traqo",
-  "version": "0.2.0",
+  "version": "0.7.1",
   "summary": "Structured tracing for applications. JSONL files, hierarchical spans, zero infrastructure.",
   "author": "Cecuro",
   "license": null,
   "home_page": null,
-  "download_filename": "traqo-0.2.0.tar.gz",
-  "download_time": "2026-02-25T08:29:27.525452",
+  "download_filename": "traqo-0.7.1.tar.gz",
+  "download_time": "2026-03-04T11:50:38.410046",
   "package_url": "https://pypi.org/project/traqo/"
 }

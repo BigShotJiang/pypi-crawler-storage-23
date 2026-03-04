@@ -1,11 +1,11 @@
 {
   "name": "bitcoincash-oauth-django",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Bitcoin Cash OAuth authentication for Django and Django REST Framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitcoincash_oauth_django-0.2.3.tar.gz",
-  "download_time": "2026-03-04T11:09:35.529518",
+  "download_filename": "bitcoincash_oauth_django-0.2.5.tar.gz",
+  "download_time": "2026-03-04T11:50:23.482915",
   "package_url": "https://pypi.org/project/bitcoincash-oauth-django/"
 }

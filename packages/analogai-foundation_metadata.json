@@ -1,11 +1,11 @@
 {
   "name": "analogai-foundation",
-  "version": "0.1.249",
+  "version": "0.1.250",
   "summary": "AnalogAI Foundation - A foundation framework for AI agents",
   "author": "AnalogAI Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "analogai_foundation-0.1.249.tar.gz",
-  "download_time": "2026-03-04T11:09:55.020060",
+  "download_filename": "analogai_foundation-0.1.250.tar.gz",
+  "download_time": "2026-03-04T11:50:12.066756",
   "package_url": "https://pypi.org/project/analogai-foundation/"
 }
