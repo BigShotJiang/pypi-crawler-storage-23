@@ -1,0 +1,11 @@
+{
+  "name": "agentmd-gen",
+  "version": "0.3.0",
+  "summary": "Analyze codebases and generate optimized context files for AI coding agents (Claude Code, Codex, Cursor, Copilot)",
+  "author": "mikiships",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentmd_gen-0.3.0.tar.gz",
+  "download_time": "2026-03-04T18:42:28.362281",
+  "package_url": "https://pypi.org/project/agentmd-gen/"
+}

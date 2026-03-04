@@ -1,0 +1,11 @@
+{
+  "name": "ethspecify",
+  "version": "0.3.8",
+  "summary": "A utility for processing Ethereum specification tags.",
+  "author": "Justin Traglia",
+  "license": null,
+  "home_page": "https://github.com/jtraglia/ethspecify",
+  "download_filename": "ethspecify-0.3.8.tar.gz",
+  "download_time": "2026-03-04T18:42:24.708626",
+  "package_url": "https://pypi.org/project/ethspecify/"
+}

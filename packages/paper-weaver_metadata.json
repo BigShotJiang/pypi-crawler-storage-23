@@ -1,0 +1,11 @@
+{
+  "name": "paper-weaver",
+  "version": "1.2.1",
+  "summary": "Weave academic paper data from various sources (DBLP, Semantic Scholar) into graph databases.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paper_weaver-1.2.1.tar.gz",
+  "download_time": "2026-03-04T18:42:03.035302",
+  "package_url": "https://pypi.org/project/paper-weaver/"
+}

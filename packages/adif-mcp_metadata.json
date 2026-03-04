@@ -1,0 +1,11 @@
+{
+  "name": "adif-mcp",
+  "version": "0.6.0",
+  "summary": "ADIF MCP core service with eQSL demo tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adif_mcp-0.6.0.tar.gz",
+  "download_time": "2026-03-04T18:42:12.774942",
+  "package_url": "https://pypi.org/project/adif-mcp/"
+}

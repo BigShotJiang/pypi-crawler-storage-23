@@ -1,0 +1,11 @@
+{
+  "name": "buelon",
+  "version": "1.0.77",
+  "summary": "A scripting language to simply manage a very large amount of i/o heavy workloads. Such as API calls for your ETL, ELT or any program needing Python and/or SQL",
+  "author": "Daniel Olson",
+  "license": null,
+  "home_page": "https://github.com/daniel-olson-code/buelon",
+  "download_filename": "buelon-1.0.77.tar.gz",
+  "download_time": "2026-03-04T18:42:08.160570",
+  "package_url": "https://pypi.org/project/buelon/"
+}

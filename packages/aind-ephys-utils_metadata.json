@@ -1,0 +1,11 @@
+{
+  "name": "aind-ephys-utils",
+  "version": "0.1.0",
+  "summary": "Helpful methods for exploring in vivo electrophysiology data",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_ephys_utils-0.1.0.tar.gz",
+  "download_time": "2026-03-04T18:42:13.297674",
+  "package_url": "https://pypi.org/project/aind-ephys-utils/"
+}

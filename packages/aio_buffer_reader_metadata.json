@@ -1,0 +1,11 @@
+{
+  "name": "aio_buffer_reader",
+  "version": "0.0.2",
+  "summary": "A StreamReader Extension for asyncio",
+  "author": "Kevin Chen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aio_buffer_reader-0.0.2.tar.gz",
+  "download_time": "2026-03-04T18:42:23.678725",
+  "package_url": "https://pypi.org/project/aio_buffer_reader/"
+}

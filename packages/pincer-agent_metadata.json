@@ -1,11 +1,11 @@
 {
   "name": "pincer-agent",
-  "version": "0.1.0",
+  "version": "0.7.1",
   "summary": "Your personal AI agent. Text it on WhatsApp. It does stuff. 🦀",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pincer_agent-0.1.0.tar.gz",
-  "download_time": "2026-02-25T18:54:37.211506",
+  "download_filename": "pincer_agent-0.7.1-py3-none-any.whl",
+  "download_time": "2026-03-04T18:42:15.917362",
   "package_url": "https://pypi.org/project/pincer-agent/"
 }

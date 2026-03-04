@@ -1,0 +1,11 @@
+{
+  "name": "shopyo-auth",
+  "version": "1.5.1",
+  "summary": "Base module containing jinja macros and templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shopyo_auth-1.5.1.tar.gz",
+  "download_time": "2026-03-04T18:42:10.722838",
+  "package_url": "https://pypi.org/project/shopyo-auth/"
+}
