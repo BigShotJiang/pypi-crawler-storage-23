@@ -1,11 +1,11 @@
 {
   "name": "api-engine-xin",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "接口测试平台测试用例执行引擎",
   "author": "Shawn",
   "license": null,
   "home_page": "https://pypi.org/project/api_engine_xin/",
-  "download_filename": "api_engine_xin-0.0.10.tar.gz",
-  "download_time": "2026-02-28T09:49:04.041639",
+  "download_filename": "api_engine_xin-0.0.12.tar.gz",
+  "download_time": "2026-03-05T08:35:16.353250",
   "package_url": "https://pypi.org/project/api-engine-xin/"
 }

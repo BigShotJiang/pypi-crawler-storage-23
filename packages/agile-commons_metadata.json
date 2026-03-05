@@ -1,11 +1,11 @@
 {
   "name": "agile-commons",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A simple Python package for demonstration",
   "author": "Eric",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agile_commons-0.1.4.tar.gz",
-  "download_time": "2026-02-28T09:49:38.632885",
+  "download_filename": "agile_commons-0.1.6.tar.gz",
+  "download_time": "2026-03-05T08:34:43.914286",
   "package_url": "https://pypi.org/project/agile-commons/"
 }

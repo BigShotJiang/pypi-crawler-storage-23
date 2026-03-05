@@ -1,0 +1,11 @@
+{
+  "name": "screenitshot",
+  "version": "0.7.4",
+  "summary": "Convert various file formats to high-quality screenshots",
+  "author": "screenitshot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "screenitshot-0.7.4.tar.gz",
+  "download_time": "2026-03-05T08:35:18.101968",
+  "package_url": "https://pypi.org/project/screenitshot/"
+}

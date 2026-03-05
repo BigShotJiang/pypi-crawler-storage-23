@@ -1,0 +1,11 @@
+{
+  "name": "utility-mcp-server",
+  "version": "0.1.2",
+  "summary": "A utility Model Context Protocol (MCP) server",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "utility_mcp_server-0.1.2.tar.gz",
+  "download_time": "2026-03-05T08:35:03.267637",
+  "package_url": "https://pypi.org/project/utility-mcp-server/"
+}

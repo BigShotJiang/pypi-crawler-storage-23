@@ -1,0 +1,11 @@
+{
+  "name": "meca-restapi-managers-token",
+  "version": "1.0.0",
+  "summary": "令牌管理接口",
+  "author": "dqlr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meca_restapi_managers_token-1.0.0.tar.gz",
+  "download_time": "2026-03-05T08:35:01.346373",
+  "package_url": "https://pypi.org/project/meca-restapi-managers-token/"
+}

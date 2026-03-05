@@ -1,0 +1,11 @@
+{
+  "name": "adbpg-mcp-server",
+  "version": "2.0.3",
+  "summary": "AnalyticDB PostgreSQL MCP Server serves as a universal interface between AI Agents and AnalyticDB PostgreSQL databases. It enables seamless communication between AI Agents and AnalyticDB PostgreSQL, helping AI Agents retrieve database metadata and execute SQL operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adbpg_mcp_server-2.0.3.tar.gz",
+  "download_time": "2026-03-05T08:34:56.314243",
+  "package_url": "https://pypi.org/project/adbpg-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-menu-tui",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "This project implements a keyboard-controlled text user interface (TUI) for the terminal that allows users to navigate menus and nested subsections using simple key inputs (w, s, Enter, Esc). It provides a lightweight framework for building interactive CLI applications with features like menu navigation, dynamic subsections, progress bars, and confirmation prompts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_menu_tui-0.2.0.tar.gz",
-  "download_time": "2026-03-05T07:59:12.958821",
+  "download_filename": "py_menu_tui-0.2.2.tar.gz",
+  "download_time": "2026-03-05T08:35:22.527163",
   "package_url": "https://pypi.org/project/py-menu-tui/"
 }

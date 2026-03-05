@@ -1,0 +1,11 @@
+{
+  "name": "idli",
+  "version": "0.2.0",
+  "summary": "Nag-free PostgreSQL ORM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idli-0.2.0.tar.gz",
+  "download_time": "2026-03-05T08:34:49.930949",
+  "package_url": "https://pypi.org/project/idli/"
+}

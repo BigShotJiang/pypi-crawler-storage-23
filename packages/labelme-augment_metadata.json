@@ -1,0 +1,11 @@
+{
+  "name": "labelme-augment",
+  "version": "2.0.1",
+  "summary": "Advanced data augmentation tool for LabelMe annotated datasets",
+  "author": "Jakhongir Nodirov",
+  "license": "MIT",
+  "home_page": "https://github.com/jakhon37/labelme-augmentor",
+  "download_filename": "labelme_augment-2.0.1.tar.gz",
+  "download_time": "2026-03-05T08:34:55.097771",
+  "package_url": "https://pypi.org/project/labelme-augment/"
+}

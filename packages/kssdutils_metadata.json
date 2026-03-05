@@ -1,0 +1,11 @@
+{
+  "name": "kssdutils",
+  "version": "1.1.8",
+  "summary": "kssdutils is a Python package for genome analysis, such as sketch, dist.",
+  "author": "Hang Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kssdutils-1.1.8.tar.gz",
+  "download_time": "2026-03-05T08:34:31.852044",
+  "package_url": "https://pypi.org/project/kssdutils/"
+}

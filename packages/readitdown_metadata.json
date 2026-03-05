@@ -1,0 +1,11 @@
+{
+  "name": "readitdown",
+  "version": "0.1.1",
+  "summary": "문서 파일을 마크다운으로 변환하는 라이브러리 및 CLI",
+  "author": "정우창",
+  "license": null,
+  "home_page": null,
+  "download_filename": "readitdown-0.1.1.tar.gz",
+  "download_time": "2026-03-05T08:35:07.313689",
+  "package_url": "https://pypi.org/project/readitdown/"
+}

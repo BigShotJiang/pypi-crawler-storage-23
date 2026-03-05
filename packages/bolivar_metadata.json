@@ -1,11 +1,11 @@
 {
   "name": "bolivar",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "Fast PDF content extraction, written in Rust with Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bolivar-1.6.0.tar.gz",
-  "download_time": "2026-03-04T14:03:19.028143",
+  "download_filename": "bolivar-1.6.1.tar.gz",
+  "download_time": "2026-03-05T08:34:46.699332",
   "package_url": "https://pypi.org/project/bolivar/"
 }

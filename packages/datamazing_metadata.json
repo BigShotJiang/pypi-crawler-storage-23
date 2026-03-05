@@ -1,0 +1,11 @@
+{
+  "name": "datamazing",
+  "version": "7.0.2",
+  "summary": "Package for working with pandas Dataset, but with specialized functions used for Energinet",
+  "author": "Team Enigma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datamazing-7.0.2.tar.gz",
+  "download_time": "2026-03-05T08:35:24.264264",
+  "package_url": "https://pypi.org/project/datamazing/"
+}

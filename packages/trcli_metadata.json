@@ -1,11 +1,11 @@
 {
   "name": "trcli",
-  "version": "1.13.2",
+  "version": "1.13.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trcli-1.13.2.tar.gz",
-  "download_time": "2026-02-24T11:07:33.895484",
+  "download_filename": "trcli-1.13.3.tar.gz",
+  "download_time": "2026-03-05T08:35:26.844026",
   "package_url": "https://pypi.org/project/trcli/"
 }

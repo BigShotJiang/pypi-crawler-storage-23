@@ -1,0 +1,11 @@
+{
+  "name": "configsync-lite",
+  "version": "0.1.2",
+  "summary": "A lightweight configuration sync utility with environment variable interpolation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "configsync_lite-0.1.2.tar.gz",
+  "download_time": "2026-03-05T08:34:45.709272",
+  "package_url": "https://pypi.org/project/configsync-lite/"
+}
