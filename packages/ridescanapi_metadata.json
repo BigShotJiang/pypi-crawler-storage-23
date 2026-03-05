@@ -1,0 +1,11 @@
+{
+  "name": "ridescanapi",
+  "version": "2.1.1",
+  "summary": "Official Python SDK for the RideScan Safety Layer API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ridescanapi-2.1.1.tar.gz",
+  "download_time": "2026-03-05T19:13:31.102214",
+  "package_url": "https://pypi.org/project/ridescanapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "universal-automl-lib",
+  "version": "0.1.0",
+  "summary": "Universal AutoML Library – end-to-end ML/DL pipelines with a single call.",
+  "author": "Mickey2004",
+  "license": null,
+  "home_page": null,
+  "download_filename": "universal_automl_lib-0.1.0.tar.gz",
+  "download_time": "2026-03-05T19:13:41.230630",
+  "package_url": "https://pypi.org/project/universal-automl-lib/"
+}

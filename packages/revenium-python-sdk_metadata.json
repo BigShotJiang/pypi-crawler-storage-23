@@ -1,0 +1,11 @@
+{
+  "name": "revenium-python-sdk",
+  "version": "0.1.0",
+  "summary": "The official Revenium Python SDK — unified AI metering middleware for OpenAI, Anthropic, Google, Ollama, LiteLLM, and Perplexity.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "revenium_python_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-05T19:13:38.305176",
+  "package_url": "https://pypi.org/project/revenium-python-sdk/"
+}

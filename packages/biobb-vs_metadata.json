@@ -1,0 +1,11 @@
+{
+  "name": "biobb-vs",
+  "version": "5.2.1",
+  "summary": "Biobb_vs is the Biobb module collection to perform virtual screening studies.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_vs",
+  "download_filename": "biobb_vs-5.2.1.tar.gz",
+  "download_time": "2026-03-05T19:13:25.169136",
+  "package_url": "https://pypi.org/project/biobb-vs/"
+}

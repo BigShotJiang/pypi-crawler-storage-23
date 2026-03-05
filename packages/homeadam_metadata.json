@@ -1,0 +1,11 @@
+{
+  "name": "homeadam",
+  "version": "0.1.3",
+  "summary": "HomeAdam(W): Adam and AdamW optimizers that sometimes go home to SGD for better generalization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "homeadam-0.1.3.tar.gz",
+  "download_time": "2026-03-05T19:13:54.980257",
+  "package_url": "https://pypi.org/project/homeadam/"
+}

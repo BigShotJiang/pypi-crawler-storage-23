@@ -1,0 +1,11 @@
+{
+  "name": "ccs-llmconnector",
+  "version": "1.2.2",
+  "summary": "Lightweight wrapper around different LLM provider Python SDK Responses APIs.",
+  "author": "CCS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccs_llmconnector-1.2.2.tar.gz",
+  "download_time": "2026-03-05T19:13:34.689415",
+  "package_url": "https://pypi.org/project/ccs-llmconnector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "biobb-pytorch",
+  "version": "5.2.2",
+  "summary": "biobb_pytorch is the Biobb module collection to create and train ML & DL models.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_pytorch",
+  "download_filename": "biobb_pytorch-5.2.2.tar.gz",
+  "download_time": "2026-03-05T19:13:40.651393",
+  "package_url": "https://pypi.org/project/biobb-pytorch/"
+}

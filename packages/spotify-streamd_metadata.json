@@ -1,0 +1,11 @@
+{
+  "name": "spotify-streamd",
+  "version": "1.0.0",
+  "summary": "CLI toolkit for exploring and analyzing your Spotify listening data",
+  "author": "prabhask5",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_streamd-1.0.0.tar.gz",
+  "download_time": "2026-03-05T19:13:09.490296",
+  "package_url": "https://pypi.org/project/spotify-streamd/"
+}

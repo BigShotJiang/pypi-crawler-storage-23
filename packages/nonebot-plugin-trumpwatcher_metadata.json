@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-trumpwatcher",
+  "version": "1.0.3",
+  "summary": "监控特朗普 Truth Social 动态并推送到订阅群",
+  "author": "StuGRua",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_trumpwatcher-1.0.3.tar.gz",
+  "download_time": "2026-03-05T19:13:46.018349",
+  "package_url": "https://pypi.org/project/nonebot-plugin-trumpwatcher/"
+}

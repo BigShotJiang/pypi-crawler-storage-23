@@ -1,0 +1,11 @@
+{
+  "name": "fyipedia",
+  "version": "0.1.1",
+  "summary": "Unified CLI for FYIPedia developer tools — color, emoji, symbol, unicode, font, distance, time, name, unit, holiday.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fyipedia-0.1.1.tar.gz",
+  "download_time": "2026-03-05T19:13:58.421652",
+  "package_url": "https://pypi.org/project/fyipedia/"
+}

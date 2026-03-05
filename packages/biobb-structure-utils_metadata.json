@@ -1,0 +1,11 @@
+{
+  "name": "biobb-structure-utils",
+  "version": "5.2.1",
+  "summary": "biobb_structure_utils is the Biobb module collection to perform basic manipulations on 3d structures.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_structure_utils",
+  "download_filename": "biobb_structure_utils-5.2.1.tar.gz",
+  "download_time": "2026-03-05T19:13:32.281430",
+  "package_url": "https://pypi.org/project/biobb-structure-utils/"
+}

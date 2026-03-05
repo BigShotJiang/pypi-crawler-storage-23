@@ -1,0 +1,11 @@
+{
+  "name": "wdm-wavelet",
+  "version": "0.3.0",
+  "summary": "A Python package for Wilson-Daubechies-Meyer (WDM) wavelet from coherentWaveBurst",
+  "author": "Yumeng Xu",
+  "license": null,
+  "home_page": "https://git.ligo.org/yumeng.xu/wdm-wavelet",
+  "download_filename": "wdm_wavelet-0.3.0.tar.gz",
+  "download_time": "2026-03-05T19:13:44.204851",
+  "package_url": "https://pypi.org/project/wdm-wavelet/"
+}

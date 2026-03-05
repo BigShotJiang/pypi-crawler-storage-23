@@ -1,0 +1,11 @@
+{
+  "name": "hieuxyz-rpc",
+  "version": "0.0.2",
+  "summary": "A powerful Discord Rich Presence library for Python",
+  "author": "hieuxyz",
+  "license": null,
+  "home_page": "https://github.com/hieuxyz00/hieuxyz_rpc_py",
+  "download_filename": "hieuxyz_rpc-0.0.2.tar.gz",
+  "download_time": "2026-03-05T19:13:24.589346",
+  "package_url": "https://pypi.org/project/hieuxyz-rpc/"
+}
