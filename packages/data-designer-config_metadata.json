@@ -1,11 +1,11 @@
 {
   "name": "data-designer-config",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Configuration layer for DataDesigner synthetic data generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "data_designer_config-0.5.1.tar.gz",
-  "download_time": "2026-02-20T21:16:23.462965",
+  "download_filename": "data_designer_config-0.5.2.tar.gz",
+  "download_time": "2026-03-05T05:10:19.342459",
   "package_url": "https://pypi.org/project/data-designer-config/"
 }

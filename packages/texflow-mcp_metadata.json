@@ -1,11 +1,11 @@
 {
   "name": "texflow-mcp",
-  "version": "1.5.1",
+  "version": "1.6.1",
   "summary": "LaTeX document compiler with MCP interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "texflow_mcp-1.5.1.tar.gz",
-  "download_time": "2026-03-05T03:42:35.684943",
+  "download_filename": "texflow_mcp-1.6.1.tar.gz",
+  "download_time": "2026-03-05T05:09:40.341137",
   "package_url": "https://pypi.org/project/texflow-mcp/"
 }

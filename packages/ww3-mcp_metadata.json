@@ -1,0 +1,11 @@
+{
+  "name": "ww3-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for NOAA GFS-Wave (WAVEWATCH III) forecasts and NDBC buoy observations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ww3_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-05T05:09:54.060439",
+  "package_url": "https://pypi.org/project/ww3-mcp/"
+}

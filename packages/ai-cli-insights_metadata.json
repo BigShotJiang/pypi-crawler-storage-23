@@ -1,0 +1,11 @@
+{
+  "name": "ai-cli-insights",
+  "version": "0.1.2",
+  "summary": "Cross-tool usage analytics for Claude Code and Codex CLI",
+  "author": "ai-cli-insights contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_cli_insights-0.1.2.tar.gz",
+  "download_time": "2026-03-05T05:10:14.091860",
+  "package_url": "https://pypi.org/project/ai-cli-insights/"
+}

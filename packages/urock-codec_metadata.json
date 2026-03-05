@@ -1,11 +1,11 @@
 {
   "name": "urock-codec",
-  "version": "0.1.0",
+  "version": "1.5.4",
   "summary": "Python bindings for Urock Codec - compression library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "urock_codec-0.1.0-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-03T05:12:23.320453",
+  "download_filename": "urock_codec-1.5.4-cp38-abi3-win_amd64.whl",
+  "download_time": "2026-03-05T05:10:07.638549",
   "package_url": "https://pypi.org/project/urock-codec/"
 }

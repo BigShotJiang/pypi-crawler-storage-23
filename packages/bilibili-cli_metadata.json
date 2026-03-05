@@ -1,11 +1,11 @@
 {
   "name": "bilibili-cli",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A CLI for Bilibili — browse videos, users, favorites from the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bilibili_cli-0.3.1.tar.gz",
-  "download_time": "2026-03-04T15:29:45.126775",
+  "download_filename": "bilibili_cli-0.3.2.tar.gz",
+  "download_time": "2026-03-05T05:09:49.321894",
   "package_url": "https://pypi.org/project/bilibili-cli/"
 }

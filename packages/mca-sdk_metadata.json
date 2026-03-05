@@ -1,11 +1,11 @@
 {
   "name": "mca-sdk",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "Model Collector Agent SDK for OpenTelemetry monitoring",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mca_sdk-0.6.2.tar.gz",
-  "download_time": "2026-03-03T21:59:49.838465",
+  "download_filename": "mca_sdk-0.6.5.tar.gz",
+  "download_time": "2026-03-05T05:10:03.990461",
   "package_url": "https://pypi.org/project/mca-sdk/"
 }
