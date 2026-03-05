@@ -1,0 +1,11 @@
+{
+  "name": "console-default-encoding",
+  "version": "0.0.1",
+  "summary": "get default encoding in current console in python.",
+  "author": "GGN_2015",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "console_default_encoding-0.0.1.tar.gz",
+  "download_time": "2026-03-05T12:41:38.117369",
+  "package_url": "https://pypi.org/project/console-default-encoding/"
+}

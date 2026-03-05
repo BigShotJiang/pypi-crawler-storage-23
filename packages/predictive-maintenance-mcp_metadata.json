@@ -1,0 +1,11 @@
+{
+  "name": "predictive-maintenance-mcp",
+  "version": "0.5.0",
+  "summary": "Proof of Concept: AI-Powered Predictive Maintenance & Fault Diagnosis MCP Server - Industrial machinery condition monitoring, vibration analysis, bearing diagnostics, and ML-based anomaly detection through Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "predictive_maintenance_mcp-0.5.0-py3-none-any.whl",
+  "download_time": "2026-03-05T12:41:53.298235",
+  "package_url": "https://pypi.org/project/predictive-maintenance-mcp/"
+}

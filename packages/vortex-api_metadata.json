@@ -1,11 +1,11 @@
 {
   "name": "vortex-api",
-  "version": "2.0.6",
+  "version": "2.1.2",
   "summary": "Vortex APIs to place orders in Rupeezy application",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vortex_api-2.0.6.tar.gz",
-  "download_time": "2026-03-02T13:08:56.929052",
+  "download_filename": "vortex_api-2.1.2.tar.gz",
+  "download_time": "2026-03-05T12:41:56.423456",
   "package_url": "https://pypi.org/project/vortex-api/"
 }

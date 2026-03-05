@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-parent-due-auto",
+  "version": "19.0.1.0.0.2",
+  "summary": "Recalculates parent task's due date when child task changes",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_parent_due_auto-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-05T12:41:40.250837",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-parent-due-auto/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "msv4-utils",
+  "version": "0.0.1",
+  "summary": "Utility methods for reasoning about Measurement Set v4 Datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msv4_utils-0.0.1.tar.gz",
+  "download_time": "2026-03-05T12:41:36.550399",
+  "package_url": "https://pypi.org/project/msv4-utils/"
+}

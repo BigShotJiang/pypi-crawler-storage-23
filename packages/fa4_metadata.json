@@ -1,0 +1,11 @@
+{
+  "name": "fa4",
+  "version": "4.0.0b3",
+  "summary": "Flash Attention CUTE (CUDA Template Engine) implementation",
+  "author": "Tri Dao",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "fa4-4.0.0b3.tar.gz",
+  "download_time": "2026-03-05T12:41:55.385650",
+  "package_url": "https://pypi.org/project/fa4/"
+}

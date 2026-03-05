@@ -1,0 +1,11 @@
+{
+  "name": "py-jura",
+  "version": "0.1.0",
+  "summary": "A Python library for interacting with Jura coffee machines over Bluetooth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_jura-0.1.0.tar.gz",
+  "download_time": "2026-03-05T12:41:52.268997",
+  "package_url": "https://pypi.org/project/py-jura/"
+}
