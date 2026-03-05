@@ -1,0 +1,11 @@
+{
+  "name": "openbb",
+  "version": "4.7.0",
+  "summary": "Investment research for everyone, anywhere.",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb-4.7.0.tar.gz",
+  "download_time": "2026-03-05T03:43:08.588452",
+  "package_url": "https://pypi.org/project/openbb/"
+}

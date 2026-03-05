@@ -1,11 +1,11 @@
 {
   "name": "webu",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Web Utils for browsing and scraping",
   "author": "Hansimov",
   "license": null,
   "home_page": null,
-  "download_filename": "webu-0.9.0.tar.gz",
-  "download_time": "2026-03-04T22:27:20.311358",
+  "download_filename": "webu-0.10.0.tar.gz",
+  "download_time": "2026-03-05T03:42:41.797783",
   "package_url": "https://pypi.org/project/webu/"
 }

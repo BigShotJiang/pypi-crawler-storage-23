@@ -1,11 +1,11 @@
 {
   "name": "Jarvis-HEP",
-  "version": "1.6.4",
+  "version": "1.6.6",
   "summary": "Jarvis-HEP: likelihood-driven HEP scanning framework",
   "author": "Jarvis-HEP Developers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jarvis_hep-1.6.4.tar.gz",
-  "download_time": "2026-03-03T11:25:21.986409",
+  "download_filename": "jarvis_hep-1.6.6.tar.gz",
+  "download_time": "2026-03-05T03:42:42.896210",
   "package_url": "https://pypi.org/project/Jarvis-HEP/"
 }

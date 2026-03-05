@@ -1,0 +1,11 @@
+{
+  "name": "cc-team",
+  "version": "0.1.0",
+  "summary": "Python library + CLI for Claude Code multi-agent team orchestration",
+  "author": "Pan Fan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_team-0.1.0.tar.gz",
+  "download_time": "2026-03-05T03:43:08.043505",
+  "package_url": "https://pypi.org/project/cc-team/"
+}

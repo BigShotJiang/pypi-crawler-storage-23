@@ -1,11 +1,11 @@
 {
   "name": "fiftyone-devicedetection-onpremise",
-  "version": "4.5.25",
+  "version": "4.5.26",
   "summary": "This project contains 51Degrees Device Detection OnPremise engine that can be used with the 51Degrees Pipeline API. The Pipeline is a generic web request intelligence and data processing solution with the ability to add a range of 51Degrees and/or custom plug ins (Engines)",
   "author": "51Degrees Engineering",
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "fiftyone_devicedetection_onpremise-4.5.25.tar.gz",
-  "download_time": "2026-03-04T03:38:49.336141",
+  "download_filename": "fiftyone_devicedetection_onpremise-4.5.26.tar.gz",
+  "download_time": "2026-03-05T03:42:36.234688",
   "package_url": "https://pypi.org/project/fiftyone-devicedetection-onpremise/"
 }

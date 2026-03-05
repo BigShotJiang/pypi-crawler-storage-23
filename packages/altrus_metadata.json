@@ -1,0 +1,11 @@
+{
+  "name": "altrus",
+  "version": "0.1.12",
+  "summary": "Fault-Tolerant Intent-Driven Middleware for Modular Robots",
+  "author": "Vihanga Mallawaarachchi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "altrus-0.1.12.tar.gz",
+  "download_time": "2026-03-05T03:42:47.350798",
+  "package_url": "https://pypi.org/project/altrus/"
+}
