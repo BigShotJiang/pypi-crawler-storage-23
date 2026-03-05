@@ -1,0 +1,11 @@
+{
+  "name": "aiofastnet",
+  "version": "0.0.2",
+  "summary": "Fast transport/protocol networking for asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiofastnet-0.0.2.tar.gz",
+  "download_time": "2026-03-05T17:54:57.243539",
+  "package_url": "https://pypi.org/project/aiofastnet/"
+}

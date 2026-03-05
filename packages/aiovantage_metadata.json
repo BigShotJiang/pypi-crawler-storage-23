@@ -1,0 +1,11 @@
+{
+  "name": "aiovantage",
+  "version": "0.22.8",
+  "summary": "Interact with and control Vantage InFusion home automation controllers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiovantage-0.22.8.tar.gz",
+  "download_time": "2026-03-05T17:54:38.430125",
+  "package_url": "https://pypi.org/project/aiovantage/"
+}

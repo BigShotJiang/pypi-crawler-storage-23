@@ -1,0 +1,11 @@
+{
+  "name": "chunkmate",
+  "version": "0.2.0",
+  "summary": "Intelligent text and document chunking library with automatic format detection and AI-powered metadata generation for RAG, LLMs, and text processing pipelines",
+  "author": "Giannis Vrentzos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunkmate-0.2.0.tar.gz",
+  "download_time": "2026-03-05T17:54:56.191867",
+  "package_url": "https://pypi.org/project/chunkmate/"
+}

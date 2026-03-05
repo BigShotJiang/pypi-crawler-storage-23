@@ -1,0 +1,11 @@
+{
+  "name": "interloper-pandas",
+  "version": "0.2.0",
+  "summary": "Interloper pandas integration: DataFrame normalizer and adapter",
+  "author": "Guillaume Onfroy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interloper_pandas-0.2.0.tar.gz",
+  "download_time": "2026-03-05T17:55:16.907518",
+  "package_url": "https://pypi.org/project/interloper-pandas/"
+}

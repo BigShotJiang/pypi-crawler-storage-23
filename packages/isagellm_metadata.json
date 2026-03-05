@@ -1,11 +1,11 @@
 {
   "name": "isagellm",
-  "version": "0.5.4.24",
+  "version": "0.5.4.58",
   "summary": "sageLLM: Modular LLM inference engine with PD separation for domestic computing power",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm-0.5.4.24.tar.gz",
-  "download_time": "2026-03-03T15:17:50.232148",
+  "download_filename": "isagellm-0.5.4.58.tar.gz",
+  "download_time": "2026-03-05T17:54:42.370285",
   "package_url": "https://pypi.org/project/isagellm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ode-filters",
-  "version": "0.4.10",
+  "version": "0.4.12",
   "summary": "Basic ODE filtering and smooting implementation.",
   "author": "Paul Fischer",
   "license": null,
   "home_page": null,
-  "download_filename": "ode_filters-0.4.10.tar.gz",
-  "download_time": "2026-02-25T16:50:18.801330",
+  "download_filename": "ode_filters-0.4.12.tar.gz",
+  "download_time": "2026-03-05T17:54:45.031222",
   "package_url": "https://pypi.org/project/ode-filters/"
 }

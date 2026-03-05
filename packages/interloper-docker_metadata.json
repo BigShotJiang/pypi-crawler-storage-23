@@ -1,0 +1,11 @@
+{
+  "name": "interloper-docker",
+  "version": "0.2.0",
+  "summary": "Interloper Docker integration",
+  "author": "Guillaume Onfroy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interloper_docker-0.2.0.tar.gz",
+  "download_time": "2026-03-05T17:55:19.474683",
+  "package_url": "https://pypi.org/project/interloper-docker/"
+}

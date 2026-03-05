@@ -1,11 +1,11 @@
 {
   "name": "django-unfold",
-  "version": "0.83.0",
+  "version": "0.83.1",
   "summary": "Modern Django admin theme",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_unfold-0.83.0.tar.gz",
-  "download_time": "2026-03-05T11:27:04.969149",
+  "download_filename": "django_unfold-0.83.1.tar.gz",
+  "download_time": "2026-03-05T17:55:13.323373",
   "package_url": "https://pypi.org/project/django-unfold/"
 }

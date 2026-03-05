@@ -1,0 +1,11 @@
+{
+  "name": "qlog-cli",
+  "version": "0.2.1",
+  "summary": "Lightning-fast local log search and analysis",
+  "author": "Cosmo",
+  "license": "MIT",
+  "home_page": "https://github.com/Cosm00/qlog",
+  "download_filename": "qlog_cli-0.2.1.tar.gz",
+  "download_time": "2026-03-05T17:54:59.808021",
+  "package_url": "https://pypi.org/project/qlog-cli/"
+}

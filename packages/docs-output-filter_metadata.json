@@ -1,0 +1,11 @@
+{
+  "name": "docs-output-filter",
+  "version": "0.2.0",
+  "summary": "Filter documentation build output (MkDocs, Sphinx) to show only warnings and errors with nice formatting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docs_output_filter-0.2.0.tar.gz",
+  "download_time": "2026-03-05T17:55:14.347902",
+  "package_url": "https://pypi.org/project/docs-output-filter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-taskly",
+  "version": "0.1.0",
+  "summary": "A reusable Django app for monitoring and administering Django 6.0 Tasks API jobs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_taskly-0.1.0.tar.gz",
+  "download_time": "2026-03-05T17:55:11.779555",
+  "package_url": "https://pypi.org/project/django-taskly/"
+}

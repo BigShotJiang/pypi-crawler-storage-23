@@ -1,0 +1,11 @@
+{
+  "name": "subtr-actor-py",
+  "version": "0.1.13",
+  "summary": "Python bindings for the Rocket League replay processing library subtr-actor.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "subtr_actor_py-0.1.13.tar.gz",
+  "download_time": "2026-03-05T17:55:06.646104",
+  "package_url": "https://pypi.org/project/subtr-actor-py/"
+}
