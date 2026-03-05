@@ -1,0 +1,11 @@
+{
+  "name": "cirrus-toolkit",
+  "version": "1.0.0",
+  "summary": "A Python automation class for shell commands, zipping, and SMTP mailing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cirrus_toolkit-1.0.0.tar.gz",
+  "download_time": "2026-03-05T21:11:47.151218",
+  "package_url": "https://pypi.org/project/cirrus-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dagster-duckdb-pandas",
-  "version": "0.28.15",
+  "version": "0.28.18",
   "summary": "Package for storing Pandas DataFrames in DuckDB.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_duckdb_pandas-0.28.15.tar.gz",
-  "download_time": "2026-02-20T19:06:09.669406",
+  "download_filename": "dagster_duckdb_pandas-0.28.18.tar.gz",
+  "download_time": "2026-03-05T21:11:56.148409",
   "package_url": "https://pypi.org/project/dagster-duckdb-pandas/"
 }

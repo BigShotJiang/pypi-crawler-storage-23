@@ -1,0 +1,11 @@
+{
+  "name": "dagster-databricks",
+  "version": "0.28.18",
+  "summary": "Package for Databricks-specific Dagster framework op and resource components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_databricks-0.28.18.tar.gz",
+  "download_time": "2026-03-05T21:12:31.232687",
+  "package_url": "https://pypi.org/project/dagster-databricks/"
+}

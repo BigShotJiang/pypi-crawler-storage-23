@@ -1,11 +1,11 @@
 {
   "name": "dagster-airflow",
-  "version": "1.12.15",
+  "version": "1.12.18",
   "summary": "Airflow plugin for Dagster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_airflow-1.12.15.tar.gz",
-  "download_time": "2026-02-20T19:06:19.515454",
+  "download_filename": "dagster_airflow-1.12.18.tar.gz",
+  "download_time": "2026-03-05T21:12:07.546093",
   "package_url": "https://pypi.org/project/dagster-airflow/"
 }

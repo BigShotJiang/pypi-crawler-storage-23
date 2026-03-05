@@ -1,11 +1,11 @@
 {
   "name": "dagster-pandas",
-  "version": "0.28.15",
+  "version": "0.28.18",
   "summary": "Utilities and examples for working with pandas and dagster, an opinionated framework for expressing data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_pandas-0.28.15.tar.gz",
-  "download_time": "2026-02-20T19:06:02.922664",
+  "download_filename": "dagster_pandas-0.28.18.tar.gz",
+  "download_time": "2026-03-05T21:12:13.961741",
   "package_url": "https://pypi.org/project/dagster-pandas/"
 }

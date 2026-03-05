@@ -1,0 +1,11 @@
+{
+  "name": "soda-sqlserver",
+  "version": "4.1.1",
+  "summary": "Soda SQL Server V4",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "soda_sqlserver-4.1.1.tar.gz",
+  "download_time": "2026-03-05T21:11:57.170391",
+  "package_url": "https://pypi.org/project/soda-sqlserver/"
+}
