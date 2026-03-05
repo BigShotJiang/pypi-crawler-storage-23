@@ -1,0 +1,11 @@
+{
+  "name": "git-weekly",
+  "version": "0.4.0",
+  "summary": "Generate weekly reports from Git commit history, with optional AI summary",
+  "author": "woaichilajiaochaorou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_weekly-0.4.0.tar.gz",
+  "download_time": "2026-03-05T09:12:49.552175",
+  "package_url": "https://pypi.org/project/git-weekly/"
+}

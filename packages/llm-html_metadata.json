@@ -1,11 +1,11 @@
 {
   "name": "llm-html",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "LLM-optimized HTML cleaning: hydration extraction, token budgets, multiple output formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_html-0.1.10.tar.gz",
-  "download_time": "2026-03-04T05:06:13.225758",
+  "download_filename": "llm_html-0.1.13.tar.gz",
+  "download_time": "2026-03-05T09:12:37.606807",
   "package_url": "https://pypi.org/project/llm-html/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cibuildwheel",
+  "version": "3.4.0",
+  "summary": "Build Python wheels on CI with minimal configuration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cibuildwheel-3.4.0.tar.gz",
+  "download_time": "2026-03-05T09:13:02.924066",
+  "package_url": "https://pypi.org/project/cibuildwheel/"
+}

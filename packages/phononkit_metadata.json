@@ -1,0 +1,11 @@
+{
+  "name": "phononkit",
+  "version": "0.2.0",
+  "summary": "A clean, modular Python library for phonon analysis",
+  "author": "Hexu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phononkit-0.2.0.tar.gz",
+  "download_time": "2026-03-05T09:13:04.482382",
+  "package_url": "https://pypi.org/project/phononkit/"
+}

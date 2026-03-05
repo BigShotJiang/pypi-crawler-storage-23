@@ -1,0 +1,11 @@
+{
+  "name": "prompt-security-utils",
+  "version": "1.0.0",
+  "summary": "Prompt injection protection for LLM applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_security_utils-1.0.0.tar.gz",
+  "download_time": "2026-03-05T09:13:19.425747",
+  "package_url": "https://pypi.org/project/prompt-security-utils/"
+}

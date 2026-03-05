@@ -1,0 +1,11 @@
+{
+  "name": "sqlcycli",
+  "version": "2.2.0",
+  "summary": "Fast MySQL driver build in Cython (Sync and Async).",
+  "author": "Jiefu Chen",
+  "license": "MIT license",
+  "home_page": "https://github.com/AresJef/SQLCyCli",
+  "download_filename": "sqlcycli-2.2.0.tar.gz",
+  "download_time": "2026-03-05T09:12:48.526627",
+  "package_url": "https://pypi.org/project/sqlcycli/"
+}

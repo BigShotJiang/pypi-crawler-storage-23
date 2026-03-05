@@ -1,11 +1,11 @@
 {
   "name": "fitstable-cli",
-  "version": "0.1.1b0",
+  "version": "0.1.2b0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/cds-astro/cds-fitstable-rust/tree/main/crates/cli",
-  "download_filename": "fitstable_cli-0.1.1b0-py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2026-03-04T21:00:13.700193",
+  "download_filename": "fitstable_cli-0.1.2b0-py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-03-05T09:13:00.357310",
   "package_url": "https://pypi.org/project/fitstable-cli/"
 }

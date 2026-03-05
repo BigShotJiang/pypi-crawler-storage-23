@@ -1,0 +1,11 @@
+{
+  "name": "build-your-own",
+  "version": "0.1.6",
+  "summary": "Implement any technology from scratch — Git, Redis, Shell, Docker, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "build_your_own-0.1.6.tar.gz",
+  "download_time": "2026-03-05T09:12:44.392384",
+  "package_url": "https://pypi.org/project/build-your-own/"
+}

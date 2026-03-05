@@ -1,0 +1,11 @@
+{
+  "name": "saltext.dockermod",
+  "version": "0.1.1",
+  "summary": "Salt Extension for interacting with Dockermod",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "saltext_dockermod-0.1.1.tar.gz",
+  "download_time": "2026-03-05T09:13:03.946866",
+  "package_url": "https://pypi.org/project/saltext.dockermod/"
+}

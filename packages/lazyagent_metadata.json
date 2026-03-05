@@ -1,11 +1,11 @@
 {
   "name": "lazyagent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Textual TUI for managing coding agents across git worktrees",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazyagent-0.1.0.tar.gz",
-  "download_time": "2026-03-03T11:25:10.522083",
+  "download_filename": "lazyagent-0.2.0.tar.gz",
+  "download_time": "2026-03-05T09:13:18.914061",
   "package_url": "https://pypi.org/project/lazyagent/"
 }

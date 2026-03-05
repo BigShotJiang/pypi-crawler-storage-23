@@ -1,0 +1,11 @@
+{
+  "name": "pydatahub",
+  "version": "2.25.9",
+  "summary": "Datahub Python SDK",
+  "author": "panjinxing.pjx",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/aliyun-datahub-sdk-python",
+  "download_filename": "pydatahub-2.25.9.tar.gz",
+  "download_time": "2026-03-05T09:12:45.936607",
+  "package_url": "https://pypi.org/project/pydatahub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zowe-apiml-onboarding-enabler-python",
+  "version": "3.2.4",
+  "summary": "Python enabler for Zowe API Mediation Layer",
+  "author": "Zowe Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zowe_apiml_onboarding_enabler_python-3.2.4.tar.gz",
+  "download_time": "2026-03-05T09:13:10.170253",
+  "package_url": "https://pypi.org/project/zowe-apiml-onboarding-enabler-python/"
+}

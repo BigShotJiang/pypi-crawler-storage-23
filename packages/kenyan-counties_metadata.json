@@ -1,0 +1,11 @@
+{
+  "name": "kenyan-counties",
+  "version": "0.2.0",
+  "summary": "A lightweight, performant, and scalable Python package for Kenyan counties, constituencies, and wards, optimized for FastAPI and Django.",
+  "author": "Nick Langat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kenyan_counties-0.2.0.tar.gz",
+  "download_time": "2026-03-05T09:12:43.367374",
+  "package_url": "https://pypi.org/project/kenyan-counties/"
+}

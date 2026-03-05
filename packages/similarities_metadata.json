@@ -1,0 +1,11 @@
+{
+  "name": "similarities",
+  "version": "1.2.4",
+  "summary": "Similarities is a toolkit for compute similarity scores between texts, performing text searches.",
+  "author": "XuMing",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/shibing624/similarities",
+  "download_filename": "similarities-1.2.4.tar.gz",
+  "download_time": "2026-03-05T09:12:52.633320",
+  "package_url": "https://pypi.org/project/similarities/"
+}
