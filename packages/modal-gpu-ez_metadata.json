@@ -1,0 +1,11 @@
+{
+  "name": "modal-gpu-ez",
+  "version": "1.0.0",
+  "summary": "Modal 서버리스 GPU + HuggingFace 모델을 원라이너로 사용하는 Python 라이브러리",
+  "author": "modal-gpu-ez contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modal_gpu_ez-1.0.0.tar.gz",
+  "download_time": "2026-03-05T07:14:39.148883",
+  "package_url": "https://pypi.org/project/modal-gpu-ez/"
+}

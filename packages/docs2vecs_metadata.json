@@ -1,0 +1,11 @@
+{
+  "name": "docs2vecs",
+  "version": "0.0.13",
+  "summary": "A library/cli that allows you to vectorize your data, enabling you to create RAG powered applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docs2vecs-0.0.13.tar.gz",
+  "download_time": "2026-03-05T07:14:56.531961",
+  "package_url": "https://pypi.org/project/docs2vecs/"
+}

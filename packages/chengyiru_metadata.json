@@ -1,0 +1,11 @@
+{
+  "name": "chengyiru",
+  "version": "0.1.0",
+  "summary": "一个简单的文本情感分析工具",
+  "author": "新手练习",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chengyiru-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-05T07:15:06.402339",
+  "package_url": "https://pypi.org/project/chengyiru/"
+}

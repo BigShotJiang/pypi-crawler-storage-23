@@ -1,0 +1,11 @@
+{
+  "name": "aether-kernel",
+  "version": "0.3.0",
+  "summary": "Aether — AI-native pipeline language and kernel",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aether_kernel-0.3.0-py3-none-win_amd64.whl",
+  "download_time": "2026-03-05T07:14:52.853555",
+  "package_url": "https://pypi.org/project/aether-kernel/"
+}

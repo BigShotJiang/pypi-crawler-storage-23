@@ -1,0 +1,11 @@
+{
+  "name": "scienceon-mcp",
+  "version": "1.0.0",
+  "summary": "ScienceON-MCP Server - MCP server for KISTI ScienceON OpenAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scienceon_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-05T07:15:14.703783",
+  "package_url": "https://pypi.org/project/scienceon-mcp/"
+}
