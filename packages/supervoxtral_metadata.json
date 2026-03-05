@@ -1,11 +1,11 @@
 {
   "name": "supervoxtral",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "CLI/GUI audio recorder with 2-step pipeline: transcription (Voxtral) then text transformation (LLM).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "supervoxtral-0.6.0.tar.gz",
-  "download_time": "2026-02-20T14:59:26.734927",
+  "download_filename": "supervoxtral-0.8.0.tar.gz",
+  "download_time": "2026-03-05T21:55:22.134714",
   "package_url": "https://pypi.org/project/supervoxtral/"
 }

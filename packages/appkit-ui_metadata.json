@@ -1,11 +1,11 @@
 {
   "name": "appkit-ui",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "summary": "Add your description here",
   "author": "Jens Rehpöhler",
   "license": null,
   "home_page": null,
-  "download_filename": "appkit_ui-1.6.3.tar.gz",
-  "download_time": "2026-02-28T09:59:43.530439",
+  "download_filename": "appkit_ui-1.7.0.tar.gz",
+  "download_time": "2026-03-05T21:54:57.605267",
   "package_url": "https://pypi.org/project/appkit-ui/"
 }

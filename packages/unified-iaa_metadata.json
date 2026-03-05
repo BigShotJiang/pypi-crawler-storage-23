@@ -1,0 +1,11 @@
+{
+  "name": "unified-iaa",
+  "version": "0.1.0",
+  "summary": "Unified IAA inference SDK (PIAA + GIAA prior)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unified_iaa-0.1.0.tar.gz",
+  "download_time": "2026-03-05T21:55:16.894907",
+  "package_url": "https://pypi.org/project/unified-iaa/"
+}

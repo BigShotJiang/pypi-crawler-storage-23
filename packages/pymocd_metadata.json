@@ -1,11 +1,11 @@
 {
   "name": "pymocd",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymocd-2.0.0.tar.gz",
-  "download_time": "2026-03-05T12:42:00.054427",
+  "download_filename": "pymocd-2.0.2.tar.gz",
+  "download_time": "2026-03-05T21:55:04.495344",
   "package_url": "https://pypi.org/project/pymocd/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "magsim",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "summary": "A simulator for Magical Athlete",
   "author": "Philipp Schoneville",
   "license": null,
   "home_page": null,
-  "download_filename": "magsim-1.0.7.tar.gz",
-  "download_time": "2026-02-24T11:56:21.280517",
+  "download_filename": "magsim-1.1.0.tar.gz",
+  "download_time": "2026-03-05T21:54:41.530469",
   "package_url": "https://pypi.org/project/magsim/"
 }
