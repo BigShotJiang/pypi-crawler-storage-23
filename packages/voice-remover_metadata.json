@@ -1,0 +1,11 @@
+{
+  "name": "voice-remover",
+  "version": "0.1.0",
+  "summary": "Local vocal removal / audio source separation",
+  "author": "Felipe Infantino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voice_remover-0.1.0.tar.gz",
+  "download_time": "2026-03-05T11:27:05.500232",
+  "package_url": "https://pypi.org/project/voice-remover/"
+}

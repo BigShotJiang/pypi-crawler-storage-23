@@ -1,0 +1,11 @@
+{
+  "name": "alembic-git-revisions",
+  "version": "5",
+  "summary": "Automatic Alembic migration chaining based on git commit history",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alembic_git_revisions-5.tar.gz",
+  "download_time": "2026-03-05T11:27:16.858431",
+  "package_url": "https://pypi.org/project/alembic-git-revisions/"
+}

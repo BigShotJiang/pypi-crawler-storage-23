@@ -1,0 +1,11 @@
+{
+  "name": "chuangpip",
+  "version": "1.0.3",
+  "summary": "chuang的第一个测试包（包含add_one和helloworld函数）",
+  "author": "chuang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chuangpip-1.0.3.tar.gz",
+  "download_time": "2026-03-05T11:27:56.111461",
+  "package_url": "https://pypi.org/project/chuangpip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "croc-ui",
+  "version": "1.0.3",
+  "summary": "A Python library for building beautiful static websites using Python — no HTML/CSS required.",
+  "author": "Swarup Kumar Sahoo",
+  "license": "MIT",
+  "home_page": "https://github.com/swarup-kumar-sahoo/croc",
+  "download_filename": "croc_ui-1.0.3.tar.gz",
+  "download_time": "2026-03-05T11:27:30.918929",
+  "package_url": "https://pypi.org/project/croc-ui/"
+}

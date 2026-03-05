@@ -1,0 +1,11 @@
+{
+  "name": "vecmindb",
+  "version": "0.2.0",
+  "summary": "High-performance vector database with auto-tuning capabilities",
+  "author": null,
+  "license": null,
+  "home_page": "https://vecmindb.io",
+  "download_filename": "vecmindb-0.2.0-cp312-cp312-manylinux_2_38_x86_64.whl",
+  "download_time": "2026-03-05T11:27:13.673704",
+  "package_url": "https://pypi.org/project/vecmindb/"
+}
