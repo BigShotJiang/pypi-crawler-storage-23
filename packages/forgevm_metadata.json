@@ -1,0 +1,11 @@
+{
+  "name": "forgevm",
+  "version": "0.1.0",
+  "summary": "Python SDK for ForgeVM — self-hosted microVM sandboxes for LLMs",
+  "author": "DohaerisAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forgevm-0.1.0.tar.gz",
+  "download_time": "2026-03-05T07:59:00.551079",
+  "package_url": "https://pypi.org/project/forgevm/"
+}

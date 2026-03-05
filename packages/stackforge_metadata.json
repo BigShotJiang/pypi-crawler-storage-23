@@ -1,11 +1,11 @@
 {
   "name": "stackforge",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "High-performance network packet manipulation with Rust and Python",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/LaBackDoor/stackforge",
-  "download_filename": "stackforge-0.6.5.tar.gz",
-  "download_time": "2026-03-05T07:15:18.908082",
+  "download_filename": "stackforge-0.6.6.tar.gz",
+  "download_time": "2026-03-05T07:59:07.811550",
   "package_url": "https://pypi.org/project/stackforge/"
 }

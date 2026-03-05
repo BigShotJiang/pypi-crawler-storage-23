@@ -1,0 +1,11 @@
+{
+  "name": "fvgtools",
+  "version": "0.2.2",
+  "summary": "Data processing tools for Fundamental Vision Group (FVG) of SenseTime Co, Ltd.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fvgtools-0.2.2.tar.gz",
+  "download_time": "2026-03-05T07:59:21.268142",
+  "package_url": "https://pypi.org/project/fvgtools/"
+}

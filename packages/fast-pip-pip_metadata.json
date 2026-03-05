@@ -1,0 +1,11 @@
+{
+  "name": "fast-pip-pip",
+  "version": "0.1.0",
+  "summary": "Генератор FastAPI проектов",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_pip_pip-0.1.0.tar.gz",
+  "download_time": "2026-03-05T07:58:52.840623",
+  "package_url": "https://pypi.org/project/fast-pip-pip/"
+}

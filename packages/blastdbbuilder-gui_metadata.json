@@ -1,11 +1,11 @@
 {
   "name": "blastdbbuilder-gui",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "GUI for blastdbbuilder",
   "author": "M. Asaduzzaman Prodhan",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "blastdbbuilder_gui-1.0.4.tar.gz",
-  "download_time": "2026-03-05T05:09:57.201314",
+  "download_filename": "blastdbbuilder_gui-1.0.6.tar.gz",
+  "download_time": "2026-03-05T07:59:11.931297",
   "package_url": "https://pypi.org/project/blastdbbuilder-gui/"
 }

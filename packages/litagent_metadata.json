@@ -1,0 +1,11 @@
+{
+  "name": "litagent",
+  "version": "0.0.2",
+  "summary": "A minimal, general-purpose AI agent harness.",
+  "author": "Yi Gao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litagent-0.0.2.tar.gz",
+  "download_time": "2026-03-05T07:59:25.872581",
+  "package_url": "https://pypi.org/project/litagent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "clawquant",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "Quantitative trading research infrastructure for AI Agents",
   "author": "duolaAmeng",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawquant-0.1.0.tar.gz",
-  "download_time": "2026-03-04T17:07:53.631326",
+  "download_filename": "clawquant-0.3.1.tar.gz",
+  "download_time": "2026-03-05T07:58:57.991646",
   "package_url": "https://pypi.org/project/clawquant/"
 }

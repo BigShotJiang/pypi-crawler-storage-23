@@ -1,0 +1,11 @@
+{
+  "name": "canyonjs-playwright",
+  "version": "0.1.1",
+  "summary": "Istanbul 覆盖率收集 for Playwright Python，类似 @canyonjs/playwright",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canyonjs_playwright-0.1.1.tar.gz",
+  "download_time": "2026-03-05T07:59:19.201826",
+  "package_url": "https://pypi.org/project/canyonjs-playwright/"
+}
