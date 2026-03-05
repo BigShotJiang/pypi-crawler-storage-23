@@ -1,0 +1,11 @@
+{
+  "name": "syngular",
+  "version": "0.6.0",
+  "summary": "An Object-Oriented Python Interface and Extension to Singular",
+  "author": "Giuseppe De Laurentis",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/GDeLaurentis/syngular",
+  "download_filename": "syngular-0.6.0.tar.gz",
+  "download_time": "2026-03-05T20:06:11.658218",
+  "package_url": "https://pypi.org/project/syngular/"
+}

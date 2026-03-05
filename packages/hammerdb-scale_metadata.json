@@ -1,0 +1,11 @@
+{
+  "name": "hammerdb-scale",
+  "version": "2.0.1",
+  "summary": "CLI for orchestrating parallel HammerDB database benchmarks at scale on Kubernetes",
+  "author": "Andrew Sillifant, Anthony Nocentino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hammerdb_scale-2.0.1.tar.gz",
+  "download_time": "2026-03-05T20:05:51.965553",
+  "package_url": "https://pypi.org/project/hammerdb-scale/"
+}

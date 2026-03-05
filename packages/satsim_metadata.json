@@ -1,0 +1,11 @@
+{
+  "name": "satsim",
+  "version": "0.23.1",
+  "summary": "Satellite observation and scene simulator.",
+  "author": "Alex Cabello",
+  "license": null,
+  "home_page": "https://github.com/ssc-ai/satsim",
+  "download_filename": "satsim-0.23.1.tar.gz",
+  "download_time": "2026-03-05T20:06:31.985834",
+  "package_url": "https://pypi.org/project/satsim/"
+}

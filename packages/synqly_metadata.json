@@ -1,11 +1,11 @@
 {
   "name": "synqly",
-  "version": "1.0.68",
+  "version": "1.0.74",
   "summary": "SDK for Synqly APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synqly-1.0.68.tar.gz",
-  "download_time": "2026-02-19T23:52:06.070181",
+  "download_filename": "synqly-1.0.74.tar.gz",
+  "download_time": "2026-03-05T20:05:47.128102",
   "package_url": "https://pypi.org/project/synqly/"
 }

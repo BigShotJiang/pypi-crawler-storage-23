@@ -1,11 +1,11 @@
 {
   "name": "ibm-watsonx-orchestrate",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "IBM watsonx.orchestrate SDK",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "ibm_watsonx_orchestrate-2.5.0.tar.gz",
-  "download_time": "2026-02-27T20:22:21.950809",
+  "download_filename": "ibm_watsonx_orchestrate-2.5.1.tar.gz",
+  "download_time": "2026-03-05T20:06:29.393723",
   "package_url": "https://pypi.org/project/ibm-watsonx-orchestrate/"
 }

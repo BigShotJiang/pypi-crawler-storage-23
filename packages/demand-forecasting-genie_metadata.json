@@ -1,0 +1,11 @@
+{
+  "name": "demand-forecasting-genie",
+  "version": "0.1.1",
+  "summary": "One-command deployment of a Databricks Genie space for logistics demand forecasting & inventory management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "demand_forecasting_genie-0.1.1.tar.gz",
+  "download_time": "2026-03-05T20:06:35.118095",
+  "package_url": "https://pypi.org/project/demand-forecasting-genie/"
+}

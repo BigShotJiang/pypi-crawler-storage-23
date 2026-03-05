@@ -1,11 +1,11 @@
 {
   "name": "FRANKENSTEIN-MODEL",
-  "version": "4.0.7",
+  "version": "4.0.9",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/FRANKENSTEIN",
-  "download_filename": "frankenstein_model-4.0.7.tar.gz",
-  "download_time": "2026-03-04T18:42:07.643516",
+  "download_filename": "frankenstein_model-4.0.9.tar.gz",
+  "download_time": "2026-03-05T20:06:06.455351",
   "package_url": "https://pypi.org/project/FRANKENSTEIN-MODEL/"
 }

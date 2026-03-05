@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.core-mcp-server",
+  "version": "1.0.25",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for aswlabs Core MCP Server",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_core_mcp_server-1.0.25.tar.gz",
+  "download_time": "2026-03-05T20:05:50.920765",
+  "package_url": "https://pypi.org/project/awslabs.core-mcp-server/"
+}

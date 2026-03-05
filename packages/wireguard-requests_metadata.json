@@ -1,0 +1,11 @@
+{
+  "name": "wireguard-requests",
+  "version": "0.0.3",
+  "summary": "Drop-in socket replacement for transparent WireGuard tunneling in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wireguard_requests-0.0.3-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-05T20:05:45.306608",
+  "package_url": "https://pypi.org/project/wireguard-requests/"
+}

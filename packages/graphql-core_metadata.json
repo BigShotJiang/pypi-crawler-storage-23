@@ -1,0 +1,11 @@
+{
+  "name": "graphql-core",
+  "version": "3.2.8",
+  "summary": "GraphQL implementation for Python, a port of GraphQL.js, the JavaScript reference implementation for GraphQL.",
+  "author": "Christoph Zwerschke",
+  "license": "MIT license",
+  "home_page": "https://github.com/graphql-python/graphql-core",
+  "download_filename": "graphql_core-3.2.8.tar.gz",
+  "download_time": "2026-03-05T20:06:25.244468",
+  "package_url": "https://pypi.org/project/graphql-core/"
+}

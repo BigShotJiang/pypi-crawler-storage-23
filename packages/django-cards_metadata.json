@@ -1,11 +1,11 @@
 {
   "name": "django-cards",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Django app that allows you make cards",
   "author": "Thomas Turner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cards-1.0.4.tar.gz",
-  "download_time": "2026-03-05T19:13:10.146060",
+  "download_filename": "django_cards-1.0.6.tar.gz",
+  "download_time": "2026-03-05T20:06:20.461192",
   "package_url": "https://pypi.org/project/django-cards/"
 }

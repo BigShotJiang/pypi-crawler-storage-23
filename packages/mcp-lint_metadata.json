@@ -1,0 +1,11 @@
+{
+  "name": "mcp-lint",
+  "version": "0.1.0",
+  "summary": "A production-quality linter for MCP (Model Context Protocol) servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_lint-0.1.0.tar.gz",
+  "download_time": "2026-03-05T20:06:04.364539",
+  "package_url": "https://pypi.org/project/mcp-lint/"
+}

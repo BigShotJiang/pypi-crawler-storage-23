@@ -1,0 +1,11 @@
+{
+  "name": "rocm-origami",
+  "version": "0.0.1.dev0",
+  "summary": "Analytical GEMM Solution Selection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rocm_origami-0.0.1.dev0.tar.gz",
+  "download_time": "2026-03-05T20:06:12.193536",
+  "package_url": "https://pypi.org/project/rocm-origami/"
+}
