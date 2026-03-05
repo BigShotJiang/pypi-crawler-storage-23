@@ -1,11 +1,11 @@
 {
   "name": "xOgYwlT-loki-logger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A python loggin library for Grafana Loki",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xogywlt_loki_logger-1.0.1.tar.gz",
-  "download_time": "2026-03-05T05:09:36.060802",
+  "download_filename": "xogywlt_loki_logger-1.0.3.tar.gz",
+  "download_time": "2026-03-05T06:07:43.440694",
   "package_url": "https://pypi.org/project/xOgYwlT-loki-logger/"
 }

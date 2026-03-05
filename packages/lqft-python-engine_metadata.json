@@ -1,11 +1,11 @@
 {
   "name": "lqft-python-engine",
-  "version": "0.3.0",
-  "summary": "LQFT Engine: Memory Circuit Breaker & Strict Type Safety (v5.0 Stable)",
+  "version": "0.9.1",
+  "summary": "LQFT Engine: Custom Arena Allocator & O(1) Fast-Path (v0.9.1 Stable)",
   "author": "Parjad Minooei",
   "license": "MIT",
   "home_page": "https://github.com/ParjadM/Log-Quantum-Fractal-Tree-LQFT-",
-  "download_filename": "lqft_python_engine-0.3.0.tar.gz",
-  "download_time": "2026-03-02T20:30:27.786319",
+  "download_filename": "lqft_python_engine-0.9.1.tar.gz",
+  "download_time": "2026-03-05T06:07:27.636570",
   "package_url": "https://pypi.org/project/lqft-python-engine/"
 }

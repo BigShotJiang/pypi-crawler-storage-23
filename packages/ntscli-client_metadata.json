@@ -1,0 +1,11 @@
+{
+  "name": "ntscli-client",
+  "version": "3.2.1",
+  "summary": "NTS-CLI",
+  "author": "eco-eai@netflix.com",
+  "license": null,
+  "home_page": "https://docs.nrd.netflix.com/docs/nrdp/cert/ntscli/",
+  "download_filename": "ntscli_client-3.2.1-py3-none-any.whl",
+  "download_time": "2026-03-05T06:08:06.346115",
+  "package_url": "https://pypi.org/project/ntscli-client/"
+}

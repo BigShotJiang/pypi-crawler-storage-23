@@ -1,11 +1,11 @@
 {
   "name": "pyperliquidity",
-  "version": "0.1.4",
+  "version": "0.2.3",
   "summary": "Off-chain HIP-2 Hyperliquidity market maker for Hyperliquid spot markets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyperliquidity-0.1.4.tar.gz",
-  "download_time": "2026-03-04T05:58:59.951733",
+  "download_filename": "pyperliquidity-0.2.3.tar.gz",
+  "download_time": "2026-03-05T06:07:23.202051",
   "package_url": "https://pypi.org/project/pyperliquidity/"
 }

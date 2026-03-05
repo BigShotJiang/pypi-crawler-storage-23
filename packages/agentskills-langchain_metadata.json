@@ -1,0 +1,11 @@
+{
+  "name": "agentskills-langchain",
+  "version": "0.2.3",
+  "summary": "LangChain integration for the Agent Skills format (https://agentskills.io)",
+  "author": "Pratik Panda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentskills_langchain-0.2.3.tar.gz",
+  "download_time": "2026-03-05T06:07:38.470794",
+  "package_url": "https://pypi.org/project/agentskills-langchain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "icd10-am",
+  "version": "0.1.1",
+  "summary": "Lightweight query interface for the ICD-10 AM code hierarchy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icd10_am-0.1.1.tar.gz",
+  "download_time": "2026-03-05T06:07:14.493624",
+  "package_url": "https://pypi.org/project/icd10-am/"
+}

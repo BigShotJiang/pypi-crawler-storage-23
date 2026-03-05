@@ -1,0 +1,11 @@
+{
+  "name": "magion",
+  "version": "1.0.0",
+  "summary": "MAGION: Magnetospheric Ionization & Galactic Interaction Observational Network",
+  "author": "Samir Baladi",
+  "license": "CC BY 4.0",
+  "home_page": "https://magion.space",
+  "download_filename": "magion-1.0.0.tar.gz",
+  "download_time": "2026-03-05T06:07:21.269046",
+  "package_url": "https://pypi.org/project/magion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentping",
+  "version": "0.1.0",
+  "summary": "MCP server that bridges AI coding agents to developers via AgentPing",
+  "author": "Saadman Soor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentping-0.1.0.tar.gz",
+  "download_time": "2026-03-05T06:07:45.182321",
+  "package_url": "https://pypi.org/project/agentping/"
+}
