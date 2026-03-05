@@ -1,0 +1,11 @@
+{
+  "name": "rincon",
+  "version": "1.0.0",
+  "summary": "Python client library for the Rincon service registry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rincon-1.0.0.tar.gz",
+  "download_time": "2026-03-05T01:15:02.706539",
+  "package_url": "https://pypi.org/project/rincon/"
+}

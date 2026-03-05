@@ -1,11 +1,11 @@
 {
   "name": "local-wallet-standard",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Python native bindings for the Lightweight Wallet Signer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "local_wallet_standard-0.2.9-cp312-cp312-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-04T22:27:04.526152",
+  "download_filename": "local_wallet_standard-0.2.10-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-05T01:15:11.419226",
   "package_url": "https://pypi.org/project/local-wallet-standard/"
 }

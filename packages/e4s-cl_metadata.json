@@ -1,0 +1,11 @@
+{
+  "name": "e4s-cl",
+  "version": "1.0.7",
+  "summary": "A command-line utility to run MPI projects in E4S containers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e4s_cl-1.0.7.tar.gz",
+  "download_time": "2026-03-05T01:15:22.585827",
+  "package_url": "https://pypi.org/project/e4s-cl/"
+}

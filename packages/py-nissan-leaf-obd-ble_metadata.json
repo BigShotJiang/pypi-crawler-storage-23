@@ -1,0 +1,11 @@
+{
+  "name": "py-nissan-leaf-obd-ble",
+  "version": "0.1.0",
+  "summary": "Python hardware API for Nissan Leaf OBD BLE dongles (BLE + ELM327 over CAN), extracted from the Home Assistant integration.",
+  "author": "Paul Butterworth",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "py_nissan_leaf_obd_ble-0.1.0.tar.gz",
+  "download_time": "2026-03-05T01:14:59.409688",
+  "package_url": "https://pypi.org/project/py-nissan-leaf-obd-ble/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FireWorks",
+  "version": "2.0.9",
+  "summary": "FireWorks workflow software",
+  "author": "Anubhav Jain",
+  "license": "modified BSD",
+  "home_page": "https://github.com/materialsproject/fireworks",
+  "download_filename": "fireworks-2.0.9.tar.gz",
+  "download_time": "2026-03-05T01:15:16.585097",
+  "package_url": "https://pypi.org/project/FireWorks/"
+}

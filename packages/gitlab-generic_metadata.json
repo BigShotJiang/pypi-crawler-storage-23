@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-generic",
+  "version": "0.1.0",
+  "summary": "GitLab Generic Package Registry tools",
+  "author": "Cyber Assessment Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitlab_generic-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-05T01:14:51.184700",
+  "package_url": "https://pypi.org/project/gitlab-generic/"
+}

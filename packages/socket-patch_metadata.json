@@ -1,0 +1,11 @@
+{
+  "name": "socket-patch",
+  "version": "1.6.3",
+  "summary": "CLI tool for applying security patches to dependencies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "socket_patch-1.6.3-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-05T01:15:20.852924",
+  "package_url": "https://pypi.org/project/socket-patch/"
+}
