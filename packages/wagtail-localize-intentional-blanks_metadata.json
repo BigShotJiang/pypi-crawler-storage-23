@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-localize-intentional-blanks",
+  "version": "0.3.0",
+  "summary": "Allow translators to mark wagtail-localize segments as 'do not translate'",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wagtail_localize_intentional_blanks-0.3.0.tar.gz",
+  "download_time": "2026-03-05T23:45:15.628096",
+  "package_url": "https://pypi.org/project/wagtail-localize-intentional-blanks/"
+}

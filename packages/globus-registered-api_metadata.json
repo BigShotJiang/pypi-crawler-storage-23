@@ -1,11 +1,11 @@
 {
   "name": "globus-registered-api",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "Manage Registered APIs in the Globus Flows service",
   "author": "Kurt McKee",
   "license": null,
   "home_page": null,
-  "download_filename": "globus_registered_api-0.3.0.tar.gz",
-  "download_time": "2026-03-03T23:23:13.018533",
+  "download_filename": "globus_registered_api-0.4.1.tar.gz",
+  "download_time": "2026-03-05T23:45:22.074423",
   "package_url": "https://pypi.org/project/globus-registered-api/"
 }

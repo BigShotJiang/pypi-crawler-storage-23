@@ -1,0 +1,11 @@
+{
+  "name": "duckframework",
+  "version": "1.0.2",
+  "summary": "Duck is a powerful, open-source, full-fledged Python-based web server, framework, and reverse proxy designed for building modern, customizable web applications — from small sites to large-scale platforms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckframework-1.0.2.tar.gz",
+  "download_time": "2026-03-05T23:44:44.455816",
+  "package_url": "https://pypi.org/project/duckframework/"
+}

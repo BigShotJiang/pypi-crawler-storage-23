@@ -1,0 +1,11 @@
+{
+  "name": "wevitos-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Wevitos error tracking — lets AI coding assistants list, inspect, resolve, and comment on errors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wevitos_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-05T23:45:10.135651",
+  "package_url": "https://pypi.org/project/wevitos-mcp/"
+}

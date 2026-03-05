@@ -1,0 +1,11 @@
+{
+  "name": "openmsistream",
+  "version": "1.8.4",
+  "summary": "Python applications for materials data streaming using Apache Kafka. Developed for Open MSI (NSF DMREF award #1921959)",
+  "author": "OpenMSIStream",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openmsistream-1.8.4.tar.gz",
+  "download_time": "2026-03-05T23:44:54.957847",
+  "package_url": "https://pypi.org/project/openmsistream/"
+}

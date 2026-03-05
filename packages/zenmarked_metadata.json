@@ -1,0 +1,11 @@
+{
+  "name": "zenmarked",
+  "version": "0.1.2",
+  "summary": "Standalone markdown editor with live preview and image support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenmarked-0.1.2.tar.gz",
+  "download_time": "2026-03-05T23:45:04.276137",
+  "package_url": "https://pypi.org/project/zenmarked/"
+}

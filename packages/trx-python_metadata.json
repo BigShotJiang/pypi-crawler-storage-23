@@ -1,0 +1,11 @@
+{
+  "name": "trx-python",
+  "version": "0.4.0",
+  "summary": "A community-oriented file format for tractography",
+  "author": "The TRX developers",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "trx_python-0.4.0.tar.gz",
+  "download_time": "2026-03-05T23:45:22.651768",
+  "package_url": "https://pypi.org/project/trx-python/"
+}

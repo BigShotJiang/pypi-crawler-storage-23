@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-alloydb-connector",
+  "version": "1.12.1",
+  "summary": "A Python client library for connecting securely to your Google Cloud AlloyDB instances.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_cloud_alloydb_connector-1.12.1.tar.gz",
+  "download_time": "2026-03-05T23:45:05.433000",
+  "package_url": "https://pypi.org/project/google-cloud-alloydb-connector/"
+}

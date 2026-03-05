@@ -1,0 +1,11 @@
+{
+  "name": "sqlmodel-graphql",
+  "version": "0.1.0",
+  "summary": "GraphQL SDL generation and query optimization for SQLModel",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlmodel_graphql-0.1.0.tar.gz",
+  "download_time": "2026-03-05T23:44:59.603372",
+  "package_url": "https://pypi.org/project/sqlmodel-graphql/"
+}

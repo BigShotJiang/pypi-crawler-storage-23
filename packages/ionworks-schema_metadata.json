@@ -1,0 +1,11 @@
+{
+  "name": "ionworks-schema",
+  "version": "0.1.6",
+  "summary": "Pydantic schemas for building Ionworks pipeline configurations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ionworks_schema-0.1.6.tar.gz",
+  "download_time": "2026-03-05T23:45:08.981624",
+  "package_url": "https://pypi.org/project/ionworks-schema/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "splatlog",
+  "version": "0.4.0",
+  "summary": "Python logger that accepts ** values and prints 'em out.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splatlog-0.4.0.tar.gz",
+  "download_time": "2026-03-05T23:44:47.364206",
+  "package_url": "https://pypi.org/project/splatlog/"
+}
