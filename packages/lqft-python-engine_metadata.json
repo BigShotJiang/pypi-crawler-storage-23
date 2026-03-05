@@ -1,11 +1,11 @@
 {
   "name": "lqft-python-engine",
-  "version": "0.9.2",
-  "summary": "LQFT Engine: Vectorized Hashing, Zero-Copy Batching, & L1 Cache Locality (v0.9.2 Stable)",
+  "version": "0.9.4",
+  "summary": "LQFT Engine: Billion-Scale Persistence & Vectorized 13M-Search (v0.9.4 Stable)",
   "author": "Parjad Minooei",
   "license": "MIT",
   "home_page": "https://github.com/ParjadM/Log-Quantum-Fractal-Tree-LQFT-",
-  "download_filename": "lqft_python_engine-0.9.2.tar.gz",
-  "download_time": "2026-03-05T13:53:54.056291",
+  "download_filename": "lqft_python_engine-0.9.4.tar.gz",
+  "download_time": "2026-03-05T14:44:55.445211",
   "package_url": "https://pypi.org/project/lqft-python-engine/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "st-seqviz",
+  "version": "0.1.4",
+  "summary": "DNA, RNA, and protein sequence viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "st_seqviz-0.1.4.tar.gz",
+  "download_time": "2026-03-05T14:44:32.217147",
+  "package_url": "https://pypi.org/project/st-seqviz/"
+}

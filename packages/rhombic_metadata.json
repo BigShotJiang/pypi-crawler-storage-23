@@ -1,11 +1,11 @@
 {
   "name": "rhombic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lattice topology benchmarks: what happens when you replace the cube",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rhombic-0.1.1.tar.gz",
-  "download_time": "2026-03-05T10:09:41.815531",
+  "download_filename": "rhombic-0.1.2.tar.gz",
+  "download_time": "2026-03-05T14:44:28.356094",
   "package_url": "https://pypi.org/project/rhombic/"
 }

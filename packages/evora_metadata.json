@@ -1,0 +1,11 @@
+{
+  "name": "evora",
+  "version": "0.2.2",
+  "summary": "A reliability-first event processing runtime for Python microservices.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evora-0.2.2.tar.gz",
+  "download_time": "2026-03-05T14:44:45.747326",
+  "package_url": "https://pypi.org/project/evora/"
+}

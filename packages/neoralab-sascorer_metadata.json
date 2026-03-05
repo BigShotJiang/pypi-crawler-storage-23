@@ -1,0 +1,11 @@
+{
+  "name": "neoralab-sascorer",
+  "version": "0.1.4",
+  "summary": "Synthetic accessibility scoring from RDKit Contrib SA_Score",
+  "author": "RDKit contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "neoralab_sascorer-0.1.4.tar.gz",
+  "download_time": "2026-03-05T14:45:04.402919",
+  "package_url": "https://pypi.org/project/neoralab-sascorer/"
+}

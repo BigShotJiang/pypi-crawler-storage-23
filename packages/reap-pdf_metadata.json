@@ -1,11 +1,11 @@
 {
   "name": "reap-pdf",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Rust-first PDF text extraction with geometry-aware search and optional Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/kennipj/reap",
-  "download_filename": "reap_pdf-0.1.6.tar.gz",
-  "download_time": "2026-02-27T17:07:39.466360",
+  "download_filename": "reap_pdf-0.1.8.tar.gz",
+  "download_time": "2026-03-05T14:44:56.902760",
   "package_url": "https://pypi.org/project/reap-pdf/"
 }
