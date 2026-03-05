@@ -1,0 +1,11 @@
+{
+  "name": "ai-data-preprocessing-queue",
+  "version": "1.7.1",
+  "summary": "Can be used to pre process data before ai processing",
+  "author": "Samhammer AG",
+  "license": "MIT",
+  "home_page": "https://github.com/SamhammerAG/ai_data_preprocessing_queue",
+  "download_filename": "ai_data_preprocessing_queue-1.7.1.tar.gz",
+  "download_time": "2026-03-05T13:53:53.006657",
+  "package_url": "https://pypi.org/project/ai-data-preprocessing-queue/"
+}

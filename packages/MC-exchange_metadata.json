@@ -1,0 +1,11 @@
+{
+  "name": "MC-exchange",
+  "version": "1.0.2",
+  "summary": "MC Bond Exchange for LAMMPS Simulations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mc_exchange-1.0.2.tar.gz",
+  "download_time": "2026-03-05T13:54:03.049592",
+  "package_url": "https://pypi.org/project/MC-exchange/"
+}

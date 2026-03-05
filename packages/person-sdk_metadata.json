@@ -1,11 +1,11 @@
 {
   "name": "person-sdk",
-  "version": "1.0.3",
+  "version": "1.0.14",
   "summary": "Python SDK for the person.run API",
   "author": "person.run",
   "license": null,
   "home_page": null,
-  "download_filename": "person_sdk-1.0.3.tar.gz",
-  "download_time": "2026-02-28T14:58:17.084245",
+  "download_filename": "person_sdk-1.0.14.tar.gz",
+  "download_time": "2026-03-05T13:53:38.560376",
   "package_url": "https://pypi.org/project/person-sdk/"
 }

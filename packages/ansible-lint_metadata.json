@@ -1,0 +1,11 @@
+{
+  "name": "ansible-lint",
+  "version": "26.3.0",
+  "summary": "Checks playbooks for practices and behavior that could potentially be improved",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_lint-26.3.0.tar.gz",
+  "download_time": "2026-03-05T13:53:28.976644",
+  "package_url": "https://pypi.org/project/ansible-lint/"
+}

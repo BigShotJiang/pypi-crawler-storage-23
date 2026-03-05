@@ -1,11 +1,11 @@
 {
   "name": "londonaicentre-mesa-local",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Serve MESA models locally",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "londonaicentre_mesa_local-1.4.2.tar.gz",
-  "download_time": "2026-03-01T15:48:04.914771",
+  "download_filename": "londonaicentre_mesa_local-1.4.3.tar.gz",
+  "download_time": "2026-03-05T13:53:47.649467",
   "package_url": "https://pypi.org/project/londonaicentre-mesa-local/"
 }

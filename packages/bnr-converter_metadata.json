@@ -1,0 +1,11 @@
+{
+  "name": "bnr-converter",
+  "version": "0.1.1",
+  "summary": "MCP server for BNR exchange rate conversions to RON",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bnr_converter-0.1.1.tar.gz",
+  "download_time": "2026-03-05T13:54:12.890272",
+  "package_url": "https://pypi.org/project/bnr-converter/"
+}

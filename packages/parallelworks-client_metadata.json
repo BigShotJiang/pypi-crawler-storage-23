@@ -1,11 +1,11 @@
 {
   "name": "parallelworks-client",
-  "version": "7.12.5",
+  "version": "7.13.0",
   "summary": "Official Python SDK for Parallel Works ACTIVATE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parallelworks_client-7.12.5.tar.gz",
-  "download_time": "2026-03-03T03:46:43.784383",
+  "download_filename": "parallelworks_client-7.13.0.tar.gz",
+  "download_time": "2026-03-05T13:54:01.000409",
   "package_url": "https://pypi.org/project/parallelworks-client/"
 }

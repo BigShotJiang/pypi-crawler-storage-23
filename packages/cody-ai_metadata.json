@@ -1,11 +1,11 @@
 {
   "name": "cody-ai",
-  "version": "1.6.0",
-  "summary": "AI coding assistant with RPC support, dynamic skills, and MCP integration",
+  "version": "1.7.3",
+  "summary": "Open-source AI Coding Agent framework with SDK, Skills, and MCP integration",
   "author": "GouChao",
   "license": null,
   "home_page": null,
-  "download_filename": "cody_ai-1.6.0.tar.gz",
-  "download_time": "2026-03-04T11:50:09.000338",
+  "download_filename": "cody_ai-1.7.3.tar.gz",
+  "download_time": "2026-03-05T13:54:15.450974",
   "package_url": "https://pypi.org/project/cody-ai/"
 }

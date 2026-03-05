@@ -1,0 +1,11 @@
+{
+  "name": "quietzero",
+  "version": "0.1.0",
+  "summary": "Neural Architecture Search with Swarm Intelligence Algorithms",
+  "author": "Tashin Ahmed",
+  "license": "MIT",
+  "home_page": "https://github.com/TashinAhmed/QuietZero",
+  "download_filename": "quietzero-0.1.0.tar.gz",
+  "download_time": "2026-03-05T13:53:42.858862",
+  "package_url": "https://pypi.org/project/quietzero/"
+}

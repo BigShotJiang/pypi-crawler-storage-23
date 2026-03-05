@@ -1,11 +1,11 @@
 {
   "name": "engram-mem",
-  "version": "0.5.15",
-  "summary": "Memory traces for AI agents - Think like human",
+  "version": "0.5.19",
+  "summary": "Dual-memory system (episodic vector + semantic graph) with LLM reasoning for AI agents. CLI, MCP, HTTP API, WebSocket interfaces.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "engram_mem-0.5.15.tar.gz",
-  "download_time": "2026-03-05T11:59:32.630684",
+  "download_filename": "engram_mem-0.5.19.tar.gz",
+  "download_time": "2026-03-05T13:53:39.624661",
   "package_url": "https://pypi.org/project/engram-mem/"
 }

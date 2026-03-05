@@ -1,0 +1,11 @@
+{
+  "name": "wayflowcore",
+  "version": "26.1.1",
+  "summary": "Package defining the WayFlow core library and the assistant abstractions.",
+  "author": "Oracle",
+  "license": "APACHE-2.0 OR UPL-1.0",
+  "home_page": "https://github.com/oracle/wayflow",
+  "download_filename": "wayflowcore-26.1.1-py3-none-any.whl",
+  "download_time": "2026-03-05T13:54:01.512716",
+  "package_url": "https://pypi.org/project/wayflowcore/"
+}

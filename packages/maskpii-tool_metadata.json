@@ -1,0 +1,11 @@
+{
+  "name": "maskpii-tool",
+  "version": "0.1.0",
+  "summary": "Detect and mask PII (email, phone, Aadhaar, PAN, credit card, IPv4) in logs/text.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maskpii_tool-0.1.0.tar.gz",
+  "download_time": "2026-03-05T13:53:56.861484",
+  "package_url": "https://pypi.org/project/maskpii-tool/"
+}
