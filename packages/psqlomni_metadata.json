@@ -1,11 +1,11 @@
 {
   "name": "psqlomni",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "LLM-powered chat interface to your Postgres database - (psql powered with Natural Language)",
   "author": "emmakodes",
   "license": null,
   "home_page": null,
-  "download_filename": "psqlomni-0.1.3.tar.gz",
-  "download_time": "2026-03-05T10:09:36.617862",
+  "download_filename": "psqlomni-0.1.4.tar.gz",
+  "download_time": "2026-03-05T10:49:56.227477",
   "package_url": "https://pypi.org/project/psqlomni/"
 }

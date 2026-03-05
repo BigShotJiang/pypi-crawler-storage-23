@@ -1,0 +1,11 @@
+{
+  "name": "pysdfgen",
+  "version": "0.2.4",
+  "summary": "SDFGen for Python",
+  "author": "iory",
+  "license": "MIT",
+  "home_page": "https://github.com/iory/pySDFGen",
+  "download_filename": "pysdfgen-0.2.4.tar.gz",
+  "download_time": "2026-03-05T10:49:23.808295",
+  "package_url": "https://pypi.org/project/pysdfgen/"
+}
