@@ -1,0 +1,11 @@
+{
+  "name": "asharp",
+  "version": "0.1.0",
+  "summary": "A# programming language",
+  "author": "Intel",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "asharp-0.1.0.tar.gz",
+  "download_time": "2026-03-05T22:42:17.558046",
+  "package_url": "https://pypi.org/project/asharp/"
+}

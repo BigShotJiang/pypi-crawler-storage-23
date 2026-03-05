@@ -1,11 +1,11 @@
 {
   "name": "overcast-sql",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Rust-backed Okta SQL querying for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "overcast_sql-0.1.2.tar.gz",
-  "download_time": "2026-03-05T21:55:11.757897",
+  "download_filename": "overcast_sql-0.1.4.tar.gz",
+  "download_time": "2026-03-05T22:42:51.218823",
   "package_url": "https://pypi.org/project/overcast-sql/"
 }

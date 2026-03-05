@@ -1,11 +1,11 @@
 {
   "name": "claude-history",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "CLI tool to explore and inspect past Claude Code conversations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_history-0.7.1.tar.gz",
-  "download_time": "2026-02-21T19:44:53.883503",
+  "download_filename": "claude_history-0.8.0.tar.gz",
+  "download_time": "2026-03-05T22:42:58.433387",
   "package_url": "https://pypi.org/project/claude-history/"
 }

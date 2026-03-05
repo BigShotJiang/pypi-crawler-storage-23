@@ -1,11 +1,11 @@
 {
   "name": "linecast",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Terminal weather, solar arc, and tide visualizations",
   "author": "Andrew Shuttleworth Fowler",
   "license": null,
   "home_page": null,
-  "download_filename": "linecast-1.0.2.tar.gz",
-  "download_time": "2026-03-05T20:44:27.799217",
+  "download_filename": "linecast-1.0.6.tar.gz",
+  "download_time": "2026-03-05T22:42:36.322123",
   "package_url": "https://pypi.org/project/linecast/"
 }

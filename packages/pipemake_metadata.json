@@ -1,11 +1,11 @@
 {
   "name": "pipemake",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "summary": "Pipemake: A pipeline creation tool using Snakemake",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/kocherlab/pipemake",
-  "download_filename": "pipemake-1.4.0.tar.gz",
-  "download_time": "2026-03-05T21:11:45.551025",
+  "download_filename": "pipemake-1.4.2.tar.gz",
+  "download_time": "2026-03-05T22:42:16.434915",
   "package_url": "https://pypi.org/project/pipemake/"
 }

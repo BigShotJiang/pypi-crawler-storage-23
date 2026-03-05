@@ -1,0 +1,11 @@
+{
+  "name": "TimeLined",
+  "version": "0.0.1",
+  "summary": "A data analysis tool to ingest various types of data from multiple source such as facebook data, photo gallery, gps data, telephony/communication data, financial data and many more to build a timeline to get valuable insight into activities, pattern, profiling and so on...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timelined-0.0.1.tar.gz",
+  "download_time": "2026-03-05T22:42:42.901079",
+  "package_url": "https://pypi.org/project/TimeLined/"
+}

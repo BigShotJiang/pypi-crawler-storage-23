@@ -1,0 +1,11 @@
+{
+  "name": "clmgr",
+  "version": "1.1.0",
+  "summary": "Copyright License Manager",
+  "author": "Enovation Group",
+  "license": "MIT",
+  "home_page": "https://github.com/enovationgroup/copyright-license-manager",
+  "download_filename": "clmgr-1.1.0.tar.gz",
+  "download_time": "2026-03-05T22:42:21.784789",
+  "package_url": "https://pypi.org/project/clmgr/"
+}

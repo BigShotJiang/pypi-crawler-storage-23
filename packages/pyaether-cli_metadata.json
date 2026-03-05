@@ -1,0 +1,11 @@
+{
+  "name": "pyaether-cli",
+  "version": "0.0.6",
+  "summary": "A CLI to build and run dev server for Aether apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyaether_cli-0.0.6.tar.gz",
+  "download_time": "2026-03-05T22:42:24.148422",
+  "package_url": "https://pypi.org/project/pyaether-cli/"
+}

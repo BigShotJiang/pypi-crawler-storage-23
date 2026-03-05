@@ -1,0 +1,11 @@
+{
+  "name": "PySyncThru",
+  "version": "0.10.1",
+  "summary": "Automated JSON API based communication with Samsung SyncThru Web Service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysyncthru-0.10.1.tar.gz",
+  "download_time": "2026-03-05T22:42:45.185899",
+  "package_url": "https://pypi.org/project/PySyncThru/"
+}
