@@ -1,0 +1,11 @@
+{
+  "name": "phd-deepread-workflow",
+  "version": "0.1.0",
+  "summary": "Transform academic PDFs into structured literature notes and critical-thinking canvases for Obsidian",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phd_deepread_workflow-0.1.0.tar.gz",
+  "download_time": "2026-03-05T20:45:09.392135",
+  "package_url": "https://pypi.org/project/phd-deepread-workflow/"
+}

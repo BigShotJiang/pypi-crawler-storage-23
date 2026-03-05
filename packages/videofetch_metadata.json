@@ -1,0 +1,11 @@
+{
+  "name": "videofetch",
+  "version": "0.6.6",
+  "summary": "Videodl: A lightweight video downloader written in pure python",
+  "author": "Zhenchao Jin",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": "https://github.com/CharlesPikachu/videodl",
+  "download_filename": "videofetch-0.6.6.tar.gz",
+  "download_time": "2026-03-05T20:45:14.563137",
+  "package_url": "https://pypi.org/project/videofetch/"
+}

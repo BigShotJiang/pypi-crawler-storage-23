@@ -1,0 +1,11 @@
+{
+  "name": "rill-agent-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for RillCoin AI agent operations — Proof of Conduct reputation on L1",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rill_agent_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-05T20:45:01.622268",
+  "package_url": "https://pypi.org/project/rill-agent-sdk/"
+}

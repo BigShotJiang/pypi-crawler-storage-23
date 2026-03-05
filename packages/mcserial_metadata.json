@@ -1,0 +1,11 @@
+{
+  "name": "mcserial",
+  "version": "2026.3.5",
+  "summary": "MCP Serial Port Server - FastMCP server for serial port access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcserial-2026.3.5.tar.gz",
+  "download_time": "2026-03-05T20:45:07.338853",
+  "package_url": "https://pypi.org/project/mcserial/"
+}

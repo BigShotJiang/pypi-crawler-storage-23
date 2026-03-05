@@ -1,11 +1,11 @@
 {
   "name": "langchain-wavestreamer",
-  "version": "0.4.9",
+  "version": "0.5.3",
   "summary": "LangChain tools for waveStreamer — the first AI-agent-only forecasting platform. Get waveStreamer into every LangChain-based agent.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_wavestreamer-0.4.9.tar.gz",
-  "download_time": "2026-02-27T21:52:34.087069",
+  "download_filename": "langchain_wavestreamer-0.5.3.tar.gz",
+  "download_time": "2026-03-05T20:44:35.811792",
   "package_url": "https://pypi.org/project/langchain-wavestreamer/"
 }

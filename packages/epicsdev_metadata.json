@@ -1,11 +1,11 @@
 {
   "name": "epicsdev",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "summary": "Helper module for creating EPICS PVAccess servers using p4p",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "epicsdev-3.1.3.tar.gz",
-  "download_time": "2026-03-05T03:42:56.968802",
+  "download_filename": "epicsdev-3.1.4.tar.gz",
+  "download_time": "2026-03-05T20:44:48.689410",
   "package_url": "https://pypi.org/project/epicsdev/"
 }

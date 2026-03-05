@@ -1,0 +1,11 @@
+{
+  "name": "openvaf-py",
+  "version": "0.1.5",
+  "summary": "Python bindings for OpenVAF MIR interpreter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openvaf_py-0.1.5-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-05T20:44:52.816265",
+  "package_url": "https://pypi.org/project/openvaf-py/"
+}

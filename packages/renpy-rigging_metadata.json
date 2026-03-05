@@ -1,11 +1,11 @@
 {
   "name": "renpy-rigging",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "A 2D skeletal rigging, posing, and animation system",
   "author": "Aaron",
   "license": null,
   "home_page": null,
-  "download_filename": "renpy_rigging-0.4.2.tar.gz",
-  "download_time": "2026-02-24T21:58:13.492231",
+  "download_filename": "renpy_rigging-0.5.1.tar.gz",
+  "download_time": "2026-03-05T20:44:51.771619",
   "package_url": "https://pypi.org/project/renpy-rigging/"
 }

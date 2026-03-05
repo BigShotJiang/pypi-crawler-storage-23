@@ -1,11 +1,11 @@
 {
   "name": "dpetl",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "summary": null,
   "author": "Gabriel Dornas",
   "license": null,
-  "home_page": null,
-  "download_filename": "dpetl-0.4.2.tar.gz",
-  "download_time": "2026-02-27T01:10:43.700933",
+  "home_page": "https://github.com/gabrielbdornas/dpetl",
+  "download_filename": "dpetl-0.6.0.tar.gz",
+  "download_time": "2026-03-05T20:44:58.538083",
   "package_url": "https://pypi.org/project/dpetl/"
 }
