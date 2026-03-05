@@ -1,0 +1,11 @@
+{
+  "name": "qhronology",
+  "version": "1.0.3",
+  "summary": "A Python package for studying quantum models of closed timelike curves and simulating general quantum information processing & computation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qhronology-1.0.3.tar.gz",
+  "download_time": "2026-03-05T10:09:13.317770",
+  "package_url": "https://pypi.org/project/qhronology/"
+}

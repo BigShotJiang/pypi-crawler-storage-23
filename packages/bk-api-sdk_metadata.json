@@ -1,0 +1,11 @@
+{
+  "name": "bk-api-sdk",
+  "version": "1.0.0",
+  "summary": "The Boku Direct Payments API is a payment gateway API that enables merchants to accept payments through local payment methods such as digital wallets and carrier/mobile billing. It acts as a bridge between merchants and payment issuers (wallets, mobile carriers, etc.).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bk_api_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-05T10:09:24.699543",
+  "package_url": "https://pypi.org/project/bk-api-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloakbrowser-human",
+  "version": "0.1.0",
+  "summary": "Human-like mouse, keyboard, and scroll for CloakBrowser. Drop-in Playwright wrapper that defeats behavioral bot detection.",
+  "author": "evelaa123",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloakbrowser_human-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-05T10:09:52.401847",
+  "package_url": "https://pypi.org/project/cloakbrowser-human/"
+}

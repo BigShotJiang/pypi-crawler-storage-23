@@ -1,0 +1,11 @@
+{
+  "name": "shelcolors.ansi",
+  "version": "0.1.9",
+  "summary": "ANSI color helper. ANSI(color, text, type), get_colors() and clear_screen().",
+  "author": "Sheldon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shelcolors_ansi-0.1.9.tar.gz",
+  "download_time": "2026-03-05T10:09:34.905034",
+  "package_url": "https://pypi.org/project/shelcolors.ansi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "finwise-python",
+  "version": "2.1.0",
+  "summary": "Unofficial Python SDK for the FinWise API",
+  "author": "Rameez Khan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finwise_python-2.1.0.tar.gz",
+  "download_time": "2026-03-05T10:09:34.325570",
+  "package_url": "https://pypi.org/project/finwise-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mapchete",
-  "version": "2026.2.2",
+  "version": "2026.3.0",
   "summary": "Tile-based geodata processing using rasterio & Fiona",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mapchete-2026.2.2.tar.gz",
-  "download_time": "2026-02-27T08:33:06.161121",
+  "download_filename": "mapchete-2026.3.0.tar.gz",
+  "download_time": "2026-03-05T10:09:33.747210",
   "package_url": "https://pypi.org/project/mapchete/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blackduck-heatmap-metrics",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "Black Duck scan heatmap metrics analyzer with interactive visualizations",
   "author": "Jouni Lehto",
   "license": null,
   "home_page": "https://github.com/lejouni/blackduck-heatmap-metrics",
-  "download_filename": "blackduck_heatmap_metrics-0.1.16.tar.gz",
-  "download_time": "2026-03-04T11:09:43.230550",
+  "download_filename": "blackduck_heatmap_metrics-0.1.17.tar.gz",
+  "download_time": "2026-03-05T10:09:15.002808",
   "package_url": "https://pypi.org/project/blackduck-heatmap-metrics/"
 }

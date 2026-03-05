@@ -1,0 +1,11 @@
+{
+  "name": "mesalab",
+  "version": "2.1.2",
+  "summary": null,
+  "author": "Dora Tarczay-Nehez",
+  "license": null,
+  "home_page": "https://github.com/tnehezd/mesa_blue_loop",
+  "download_filename": "mesalab-2.1.2.tar.gz",
+  "download_time": "2026-03-05T10:09:35.479222",
+  "package_url": "https://pypi.org/project/mesalab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "S2Generator",
+  "version": "0.0.9",
+  "summary": "A series-symbol (S2) dual-modality data generation mechanism, enabling the unrestricted creation of high-quality time series data paired with corresponding symbolic representations.",
+  "author": "whenxuan, johnfan12, changewam",
+  "license": null,
+  "home_page": "https://github.com/wwhenxuan/S2Generator",
+  "download_filename": "s2generator-0.0.9.tar.gz",
+  "download_time": "2026-03-05T10:09:38.344648",
+  "package_url": "https://pypi.org/project/S2Generator/"
+}

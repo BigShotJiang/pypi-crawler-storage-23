@@ -1,0 +1,11 @@
+{
+  "name": "cronrun",
+  "version": "1.0.0",
+  "summary": "Run commands with a cron expression or loop mode",
+  "author": "Tanaka Masayuki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cronrun-1.0.0.tar.gz",
+  "download_time": "2026-03-05T10:09:56.599525",
+  "package_url": "https://pypi.org/project/cronrun/"
+}
