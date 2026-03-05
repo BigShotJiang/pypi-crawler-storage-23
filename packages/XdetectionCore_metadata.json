@@ -1,0 +1,11 @@
+{
+  "name": "XdetectionCore",
+  "version": "0.1.2",
+  "summary": "Core ephys and behavior processing utilities for the Akrami Lab.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xdetectioncore-0.1.2.tar.gz",
+  "download_time": "2026-03-05T15:39:54.837994",
+  "package_url": "https://pypi.org/project/XdetectionCore/"
+}

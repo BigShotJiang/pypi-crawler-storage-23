@@ -1,0 +1,11 @@
+{
+  "name": "vibesrails",
+  "version": "2.2.2",
+  "summary": "Security guardrails for AI-assisted development",
+  "author": "SM",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vibesrails-2.2.2.tar.gz",
+  "download_time": "2026-03-05T15:39:41.207102",
+  "package_url": "https://pypi.org/project/vibesrails/"
+}

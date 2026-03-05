@@ -1,11 +1,11 @@
 {
   "name": "testit-adapter-behave",
-  "version": "3.12.3",
+  "version": "4.0.0",
   "summary": "Behave adapter for Test IT",
   "author": "Integration team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/testit-tms/adapters-python/",
-  "download_filename": "testit_adapter_behave-3.12.3.tar.gz",
-  "download_time": "2026-02-26T08:54:12.627169",
+  "download_filename": "testit_adapter_behave-4.0.0.tar.gz",
+  "download_time": "2026-03-05T15:40:30.304481",
   "package_url": "https://pypi.org/project/testit-adapter-behave/"
 }

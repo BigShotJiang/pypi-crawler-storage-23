@@ -1,0 +1,11 @@
+{
+  "name": "cynric",
+  "version": "1.7.0",
+  "summary": "Cynric is a package for validating and uploading data to the Wessex SDE",
+  "author": "Ben Sale, Michael George, Cai Davis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cynric-1.7.0.tar.gz",
+  "download_time": "2026-03-05T15:39:50.465275",
+  "package_url": "https://pypi.org/project/cynric/"
+}

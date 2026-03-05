@@ -1,0 +1,11 @@
+{
+  "name": "pysigma-backend-logpoint",
+  "version": "1.0.0",
+  "summary": "pySigma Logpoint backend",
+  "author": "Surya Majhi",
+  "license": "LGPL-2.1-only",
+  "home_page": null,
+  "download_filename": "pysigma_backend_logpoint-1.0.0.tar.gz",
+  "download_time": "2026-03-05T15:39:56.698967",
+  "package_url": "https://pypi.org/project/pysigma-backend-logpoint/"
+}

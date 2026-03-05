@@ -1,0 +1,11 @@
+{
+  "name": "smart-log-reader",
+  "version": "1.0.2",
+  "summary": "Intelligent, extensible log reader and analyzer with color-coded output and smart error grouping.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smart_log_reader-1.0.2.tar.gz",
+  "download_time": "2026-03-05T15:39:46.571998",
+  "package_url": "https://pypi.org/project/smart-log-reader/"
+}
