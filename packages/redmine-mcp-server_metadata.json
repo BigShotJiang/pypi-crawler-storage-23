@@ -1,0 +1,11 @@
+{
+  "name": "redmine-mcp-server",
+  "version": "0.12.1",
+  "summary": "Production-ready MCP server for Redmine with security, pagination, and enterprise features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redmine_mcp_server-0.12.1.tar.gz",
+  "download_time": "2026-03-05T11:59:18.099297",
+  "package_url": "https://pypi.org/project/redmine-mcp-server/"
+}

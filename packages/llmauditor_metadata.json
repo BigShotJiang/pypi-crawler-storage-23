@@ -1,11 +1,11 @@
 {
   "name": "llmauditor",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "LLMAuditor is an execution-based evaluation and monitoring framework for LLM, GenAI, and agentic AI applications, providing hallucination detection, cost tracking, and governance auditing.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llmauditor-1.1.8.tar.gz",
-  "download_time": "2026-03-05T09:13:08.633269",
+  "download_filename": "llmauditor-1.1.9.tar.gz",
+  "download_time": "2026-03-05T11:59:43.398589",
   "package_url": "https://pypi.org/project/llmauditor/"
 }

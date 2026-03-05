@@ -1,0 +1,11 @@
+{
+  "name": "ratiopath",
+  "version": "1.2.0",
+  "summary": "A library for efficient processing and analysis of whole-slide pathology images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ratiopath-1.2.0.tar.gz",
+  "download_time": "2026-03-05T11:59:35.803194",
+  "package_url": "https://pypi.org/project/ratiopath/"
+}

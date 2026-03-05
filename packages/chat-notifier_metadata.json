@@ -1,0 +1,11 @@
+{
+  "name": "chat-notifier",
+  "version": "0.1.3",
+  "summary": "Google Chat notifier for MLflow and Ray jobs",
+  "author": "milan,vyom,neel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chat_notifier-0.1.3.tar.gz",
+  "download_time": "2026-03-05T11:59:24.542073",
+  "package_url": "https://pypi.org/project/chat-notifier/"
+}

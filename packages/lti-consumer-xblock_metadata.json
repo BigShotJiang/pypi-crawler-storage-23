@@ -1,0 +1,11 @@
+{
+  "name": "lti-consumer-xblock",
+  "version": "9.14.5",
+  "summary": "This XBlock implements the consumer side of the LTI specification.",
+  "author": "Open edX project",
+  "license": null,
+  "home_page": "https://github.com/openedx/xblock-lti-consumer",
+  "download_filename": "lti_consumer_xblock-9.14.5.tar.gz",
+  "download_time": "2026-03-05T11:59:26.718306",
+  "package_url": "https://pypi.org/project/lti-consumer-xblock/"
+}

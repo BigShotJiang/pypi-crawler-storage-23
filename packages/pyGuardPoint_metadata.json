@@ -1,11 +1,11 @@
 {
   "name": "pyGuardPoint",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "summary": "Python wrapper for GuardPoint 10 Access Control System",
   "author": "John Owen",
   "license": null,
   "home_page": null,
-  "download_filename": "pyguardpoint-1.9.8.tar.gz",
-  "download_time": "2026-03-02T16:12:45.665280",
+  "download_filename": "pyguardpoint-1.9.9.tar.gz",
+  "download_time": "2026-03-05T11:59:35.264931",
   "package_url": "https://pypi.org/project/pyGuardPoint/"
 }

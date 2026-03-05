@@ -1,0 +1,11 @@
+{
+  "name": "biobb-chemistry",
+  "version": "5.2.1",
+  "summary": "Biobb_chemistry is the Biobb module collection to perform chemistry over molecular dynamics simulations.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_chemistry",
+  "download_filename": "biobb_chemistry-5.2.1.tar.gz",
+  "download_time": "2026-03-05T11:59:23.993297",
+  "package_url": "https://pypi.org/project/biobb-chemistry/"
+}

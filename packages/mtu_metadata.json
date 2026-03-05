@@ -1,0 +1,11 @@
+{
+  "name": "mtu",
+  "version": "1.1.1",
+  "summary": "A CLI tool to upload GeoJSON, TopoJSON, Shapefile, GeoPackage, and other GIS formats to Mapbox as vector tilesets",
+  "author": "Elvis Ayiemba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtu-1.1.1.tar.gz",
+  "download_time": "2026-03-05T11:59:07.235924",
+  "package_url": "https://pypi.org/project/mtu/"
+}

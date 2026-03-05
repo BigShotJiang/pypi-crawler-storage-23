@@ -1,0 +1,11 @@
+{
+  "name": "spetlr-tools",
+  "version": "0.1.73",
+  "summary": "Supplements to the python SPark ETL libRary (SPETLR) for Databricks.",
+  "author": "Spetlr.Org",
+  "license": null,
+  "home_page": "https://github.com/spetlr-org/spetlr-tools",
+  "download_filename": "spetlr_tools-0.1.73.tar.gz",
+  "download_time": "2026-03-05T11:59:07.772530",
+  "package_url": "https://pypi.org/project/spetlr-tools/"
+}

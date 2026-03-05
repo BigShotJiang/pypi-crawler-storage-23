@@ -1,11 +1,11 @@
 {
   "name": "snaft",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Semantic Network-Aware Firewall for Trust — behavioral firewall for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snaft-0.2.0.tar.gz",
-  "download_time": "2026-03-05T08:34:56.953719",
+  "download_filename": "snaft-0.4.0.tar.gz",
+  "download_time": "2026-03-05T11:59:46.655463",
   "package_url": "https://pypi.org/project/snaft/"
 }

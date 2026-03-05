@@ -1,0 +1,11 @@
+{
+  "name": "brainus-ai",
+  "version": "0.1.7",
+  "summary": "Official Python SDK for Brainus AI - RAG-powered educational content API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brainus_ai-0.1.7.tar.gz",
+  "download_time": "2026-03-05T11:59:06.160785",
+  "package_url": "https://pypi.org/project/brainus-ai/"
+}

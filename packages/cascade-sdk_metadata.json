@@ -1,11 +1,11 @@
 {
   "name": "cascade-sdk",
-  "version": "0.2.0b19",
+  "version": "0.2.0b21",
   "summary": "Agent observability SDK for tracking AI agent execution",
   "author": "Cascade",
   "license": null,
   "home_page": null,
-  "download_filename": "cascade_sdk-0.2.0b19.tar.gz",
-  "download_time": "2026-03-04T21:00:18.342114",
+  "download_filename": "cascade_sdk-0.2.0b21.tar.gz",
+  "download_time": "2026-03-05T11:59:33.697564",
   "package_url": "https://pypi.org/project/cascade-sdk/"
 }
