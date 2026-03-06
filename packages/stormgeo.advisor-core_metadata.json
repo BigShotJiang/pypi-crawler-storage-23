@@ -1,0 +1,11 @@
+{
+  "name": "stormgeo.advisor-core",
+  "version": "1.5.0",
+  "summary": "SDK to access the advisor core API.",
+  "author": "climatempo",
+  "license": "MIT",
+  "home_page": "https://github.com/StormGeo/advisor-sdk",
+  "download_filename": "stormgeo_advisor_core-1.5.0.tar.gz",
+  "download_time": "2026-03-06T19:54:40.395100",
+  "package_url": "https://pypi.org/project/stormgeo.advisor-core/"
+}

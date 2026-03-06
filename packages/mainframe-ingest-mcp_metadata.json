@@ -1,0 +1,11 @@
+{
+  "name": "mainframe-ingest-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for ingesting COBOL mainframe codebases — classifies files, resolves dependencies, maps CICS transactions to REST routes",
+  "author": "Rohan Nair",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mainframe_ingest_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-06T19:54:26.065298",
+  "package_url": "https://pypi.org/project/mainframe-ingest-mcp/"
+}

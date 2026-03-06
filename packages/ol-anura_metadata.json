@@ -1,0 +1,11 @@
+{
+  "name": "ol-anura",
+  "version": "0.0.7",
+  "summary": "Schemas and core utilities for Anura projects",
+  "author": "Optilogic",
+  "license": "MIT",
+  "home_page": "https://optilogic.com",
+  "download_filename": "ol_anura-0.0.7.tar.gz",
+  "download_time": "2026-03-06T19:53:54.899401",
+  "package_url": "https://pypi.org/project/ol-anura/"
+}

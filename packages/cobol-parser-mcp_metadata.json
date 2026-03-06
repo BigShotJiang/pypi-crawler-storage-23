@@ -1,0 +1,11 @@
+{
+  "name": "cobol-parser-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server that parses COBOL programs — extracts divisions, SQL, CICS commands, and generates AI-powered business logic summaries via any LLM",
+  "author": "Rohan Nair",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cobol_parser_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-06T19:54:07.076901",
+  "package_url": "https://pypi.org/project/cobol-parser-mcp/"
+}

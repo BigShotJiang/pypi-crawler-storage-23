@@ -1,0 +1,11 @@
+{
+  "name": "sbti-finance-tool",
+  "version": "1.2.5",
+  "summary": "This package implements V1 of the CDP/WWF Temperature Rating Methodology and calculates portfolio coverage for SBTi near-term targets. The portfolio coverage notebook can also be used for climate alignment assessment under the FINZ Standard.",
+  "author": "sbti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbti_finance_tool-1.2.5.tar.gz",
+  "download_time": "2026-03-06T19:54:39.763910",
+  "package_url": "https://pypi.org/project/sbti-finance-tool/"
+}

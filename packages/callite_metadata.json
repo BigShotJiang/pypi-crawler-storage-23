@@ -1,11 +1,11 @@
 {
   "name": "callite",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Slim Redis RPC implementation",
   "author": "Emrah Gozcu",
   "license": "Proprietary",
   "home_page": "https://github.com/gri-ai/callite",
-  "download_filename": "callite-1.0.4.tar.gz",
-  "download_time": "2026-02-27T21:52:58.597198",
+  "download_filename": "callite-1.0.6.tar.gz",
+  "download_time": "2026-03-06T19:54:04.952362",
   "package_url": "https://pypi.org/project/callite/"
 }

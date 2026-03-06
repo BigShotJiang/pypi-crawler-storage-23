@@ -1,0 +1,11 @@
+{
+  "name": "aiobedrock",
+  "version": "1.0.0",
+  "summary": "AWS boto3 bedrock client in async",
+  "author": "Phicks",
+  "license": null,
+  "home_page": "https://github.com/Phicks-debug/aiobedrock",
+  "download_filename": "aiobedrock-1.0.0.tar.gz",
+  "download_time": "2026-03-06T19:54:23.110899",
+  "package_url": "https://pypi.org/project/aiobedrock/"
+}
