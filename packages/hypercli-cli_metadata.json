@@ -1,11 +1,11 @@
 {
   "name": "hypercli-cli",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "summary": "CLI for HyperCLI - GPU orchestration and LLM API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hypercli_cli-1.0.4.tar.gz",
-  "download_time": "2026-03-04T06:40:21.550044",
+  "download_filename": "hypercli_cli-1.0.9.tar.gz",
+  "download_time": "2026-03-06T06:12:14.541170",
   "package_url": "https://pypi.org/project/hypercli-cli/"
 }

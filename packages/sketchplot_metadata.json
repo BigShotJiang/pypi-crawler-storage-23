@@ -1,0 +1,11 @@
+{
+  "name": "sketchplot",
+  "version": "0.1.0",
+  "summary": "A small Python library for rendering plots as plain text to stdout",
+  "author": "Niru Maheswaranathan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sketchplot-0.1.0.tar.gz",
+  "download_time": "2026-03-06T06:11:51.808196",
+  "package_url": "https://pypi.org/project/sketchplot/"
+}

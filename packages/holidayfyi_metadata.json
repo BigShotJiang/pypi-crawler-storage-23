@@ -1,0 +1,11 @@
+{
+  "name": "holidayfyi",
+  "version": "0.1.2",
+  "summary": "Pure Python holiday engine — Easter dates, public holidays, nth weekday finder. Zero dependencies core.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "holidayfyi-0.1.2.tar.gz",
+  "download_time": "2026-03-06T06:12:34.619543",
+  "package_url": "https://pypi.org/project/holidayfyi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "claw-log-sh",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Automated Career Log using generative AI and Git diffs (fork of claw-log, original by Kim Woohyuck)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claw_log_sh-1.1.2.tar.gz",
-  "download_time": "2026-02-27T09:12:03.413755",
+  "download_filename": "claw_log_sh-1.2.0.tar.gz",
+  "download_time": "2026-03-06T06:12:35.129510",
   "package_url": "https://pypi.org/project/claw-log-sh/"
 }

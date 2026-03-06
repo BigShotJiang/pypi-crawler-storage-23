@@ -1,0 +1,11 @@
+{
+  "name": "kody-clientsdk-python",
+  "version": "1.7.34",
+  "summary": "Kody API client",
+  "author": "Kody Tech Team",
+  "license": "MIT",
+  "home_page": "https://github.com/KodyPay/kody-clientsdk-python",
+  "download_filename": "kody_clientsdk_python-1.7.34.tar.gz",
+  "download_time": "2026-03-06T06:12:00.602516",
+  "package_url": "https://pypi.org/project/kody-clientsdk-python/"
+}

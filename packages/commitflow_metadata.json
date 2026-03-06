@@ -1,11 +1,11 @@
 {
   "name": "commitflow",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "CLI tool for maintaining consistent Git commits automatically",
   "author": "Abhinav Kumar Singh",
-  "license": null,
-  "home_page": null,
-  "download_filename": "commitflow-1.0.0.tar.gz",
-  "download_time": "2026-03-05T11:27:32.609651",
+  "license": "MIT",
+  "home_page": "https://github.com/abhinav9444/commitflow",
+  "download_filename": "commitflow-1.0.4.tar.gz",
+  "download_time": "2026-03-06T06:12:20.748377",
   "package_url": "https://pypi.org/project/commitflow/"
 }

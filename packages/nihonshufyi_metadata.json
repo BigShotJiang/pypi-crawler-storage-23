@@ -1,0 +1,11 @@
+{
+  "name": "nihonshufyi",
+  "version": "0.1.2",
+  "summary": "Sake knowledge API client — search sake grades, breweries, and terms from NihonshuFYI.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nihonshufyi-0.1.2.tar.gz",
+  "download_time": "2026-03-06T06:12:29.495707",
+  "package_url": "https://pypi.org/project/nihonshufyi/"
+}

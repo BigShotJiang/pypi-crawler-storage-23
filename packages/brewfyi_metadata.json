@@ -1,0 +1,11 @@
+{
+  "name": "brewfyi",
+  "version": "0.1.2",
+  "summary": "Coffee knowledge API client — search coffee varieties, brew methods, and terms from BrewFYI.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brewfyi-0.1.2.tar.gz",
+  "download_time": "2026-03-06T06:12:31.540628",
+  "package_url": "https://pypi.org/project/brewfyi/"
+}
