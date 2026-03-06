@@ -1,11 +1,11 @@
 {
   "name": "blockapi",
-  "version": "2.5.0",
+  "version": "2.5.2",
   "summary": "BlockAPI library",
   "author": "Devmons s.r.o.",
   "license": "MIT",
   "home_page": "https://github.com/crypkit/blockapi",
-  "download_filename": "blockapi-2.5.0.tar.gz",
-  "download_time": "2026-03-02T19:54:48.257441",
+  "download_filename": "blockapi-2.5.2.tar.gz",
+  "download_time": "2026-03-06T11:39:15.869343",
   "package_url": "https://pypi.org/project/blockapi/"
 }

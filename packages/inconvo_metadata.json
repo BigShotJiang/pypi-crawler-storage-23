@@ -1,11 +1,11 @@
 {
   "name": "inconvo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "The official Python library for the inconvo API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "inconvo-0.0.5.tar.gz",
-  "download_time": "2026-03-03T11:25:44.566729",
+  "download_filename": "inconvo-0.0.6.tar.gz",
+  "download_time": "2026-03-06T11:39:31.747572",
   "package_url": "https://pypi.org/project/inconvo/"
 }

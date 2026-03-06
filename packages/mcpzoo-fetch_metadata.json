@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-fetch",
+  "version": "0.1.0",
+  "summary": "MCP tool: 抓取指定 URL 的网页内容并返回纯文本",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_fetch-0.1.0.tar.gz",
+  "download_time": "2026-03-06T11:39:05.007701",
+  "package_url": "https://pypi.org/project/mcpzoo-fetch/"
+}

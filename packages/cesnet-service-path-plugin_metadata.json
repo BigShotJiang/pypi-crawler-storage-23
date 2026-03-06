@@ -1,0 +1,11 @@
+{
+  "name": "cesnet-service-path-plugin",
+  "version": "6.0.1",
+  "summary": "Adds ability to create, edit and view service paths in the network.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cesnet_service_path_plugin-6.0.1.tar.gz",
+  "download_time": "2026-03-06T11:39:38.057948",
+  "package_url": "https://pypi.org/project/cesnet-service-path-plugin/"
+}

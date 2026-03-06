@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-cidr",
+  "version": "0.1.0",
+  "summary": "MCP tool: 计算 CIDR 网段的 IP 范围和主机数",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_cidr-0.1.0.tar.gz",
+  "download_time": "2026-03-06T11:39:27.118244",
+  "package_url": "https://pypi.org/project/mcpzoo-cidr/"
+}

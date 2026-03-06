@@ -1,0 +1,11 @@
+{
+  "name": "stefano-pytgvoip",
+  "version": "0.0.9.0",
+  "summary": "Telegram VoIP Library for Python",
+  "author": "Sanji78",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/Sanji78/stefano-pytgvoip",
+  "download_filename": "stefano_pytgvoip-0.0.9.0-cp313-cp313-musllinux_1_2_aarch64.whl",
+  "download_time": "2026-03-06T11:39:11.750407",
+  "package_url": "https://pypi.org/project/stefano-pytgvoip/"
+}

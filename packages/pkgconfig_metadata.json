@@ -1,0 +1,11 @@
+{
+  "name": "pkgconfig",
+  "version": "1.6.0",
+  "summary": "Interface Python with pkg-config",
+  "author": "Matthias Vogelgesang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pkgconfig-1.6.0.tar.gz",
+  "download_time": "2026-03-06T11:39:38.569419",
+  "package_url": "https://pypi.org/project/pkgconfig/"
+}

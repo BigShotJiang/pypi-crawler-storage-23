@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-dns",
+  "version": "0.1.0",
+  "summary": "MCP tool: 查询域名的 DNS 解析记录",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_dns-0.1.0.tar.gz",
+  "download_time": "2026-03-06T11:39:07.050772",
+  "package_url": "https://pypi.org/project/mcpzoo-dns/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-file-info",
+  "version": "0.1.0",
+  "summary": "MCP tool: 获取文件的大小修改时间等元信息",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_file_info-0.1.0.tar.gz",
+  "download_time": "2026-03-06T11:39:02.451352",
+  "package_url": "https://pypi.org/project/mcpzoo-file-info/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gradium",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "summary": "Python client for Gradium API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradium-0.5.10.tar.gz",
-  "download_time": "2026-03-05T22:42:18.831725",
+  "download_filename": "gradium-0.5.11.tar.gz",
+  "download_time": "2026-03-06T11:39:36.387069",
   "package_url": "https://pypi.org/project/gradium/"
 }

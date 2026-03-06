@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-pulumi-logfire",
+  "version": "0.1.2",
+  "summary": "A Pulumi package for creating and managing logfire cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydantic_pulumi_logfire-0.1.2.tar.gz",
+  "download_time": "2026-03-06T11:38:52.040465",
+  "package_url": "https://pypi.org/project/pydantic-pulumi-logfire/"
+}

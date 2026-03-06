@@ -1,0 +1,11 @@
+{
+  "name": "sequential-shap-explainer",
+  "version": "0.1.2",
+  "summary": "An innovative approach to improve the interpretability of the SHAP method for sequential multi-class classification.",
+  "author": "Ahmet Yalcin",
+  "license": null,
+  "home_page": "https://github.com/ahmtylcinn/sequential-shap",
+  "download_filename": "sequential_shap_explainer-0.1.2.tar.gz",
+  "download_time": "2026-03-06T11:39:31.237320",
+  "package_url": "https://pypi.org/project/sequential-shap-explainer/"
+}
