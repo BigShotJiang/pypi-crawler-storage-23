@@ -1,0 +1,11 @@
+{
+  "name": "vikingbot",
+  "version": "0.1.3",
+  "summary": "A lightweight personal AI assistant framework",
+  "author": "vikingbot contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vikingbot-0.1.3.tar.gz",
+  "download_time": "2026-03-06T07:57:03.043812",
+  "package_url": "https://pypi.org/project/vikingbot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "advlog-core",
+  "version": "0.2.0",
+  "summary": "Advanced logging library with Rich features, progress tracking, and ML training utilities",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "advlog_core-0.2.0.tar.gz",
+  "download_time": "2026-03-06T07:57:22.649032",
+  "package_url": "https://pypi.org/project/advlog-core/"
+}

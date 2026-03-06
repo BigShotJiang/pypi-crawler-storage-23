@@ -1,0 +1,11 @@
+{
+  "name": "PSI-QPOT",
+  "version": "0.1.1",
+  "summary": "PSI-QPOT: Post-Selection Inference for Sparse Estimators Cast as Quadratic Programs after Domain Adaptation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psi_qpot-0.1.1.tar.gz",
+  "download_time": "2026-03-06T07:57:27.246548",
+  "package_url": "https://pypi.org/project/PSI-QPOT/"
+}

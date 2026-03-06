@@ -1,11 +1,11 @@
 {
   "name": "ssb-nudb-config",
-  "version": "2026.3.0",
+  "version": "2026.3.2",
   "summary": "The config for NUDB - Nasjonal utdanningsdatabase",
   "author": "Markus Storeide",
   "license": null,
   "home_page": null,
-  "download_filename": "ssb_nudb_config-2026.3.0.tar.gz",
-  "download_time": "2026-03-02T12:06:22.689992",
+  "download_filename": "ssb_nudb_config-2026.3.2.tar.gz",
+  "download_time": "2026-03-06T07:57:20.026996",
   "package_url": "https://pypi.org/project/ssb-nudb-config/"
 }

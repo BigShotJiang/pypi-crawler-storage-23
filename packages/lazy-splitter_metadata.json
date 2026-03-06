@@ -1,0 +1,11 @@
+{
+  "name": "lazy-splitter",
+  "version": "0.2.1",
+  "summary": "A collection of intelligent file splitting tools - PDF chapters, videos, audio, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lazy_splitter-0.2.1.tar.gz",
+  "download_time": "2026-03-06T07:57:19.003484",
+  "package_url": "https://pypi.org/project/lazy-splitter/"
+}

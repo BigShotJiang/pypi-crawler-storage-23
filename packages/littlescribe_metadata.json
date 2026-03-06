@@ -1,0 +1,11 @@
+{
+  "name": "littlescribe",
+  "version": "1.2.0",
+  "summary": "Real-time audio transcription with AI summarization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "littlescribe-1.2.0.tar.gz",
+  "download_time": "2026-03-06T07:56:49.946377",
+  "package_url": "https://pypi.org/project/littlescribe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spec-driver",
-  "version": "0.6.1",
+  "version": "0.6.12",
   "summary": "Specification-driving development toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spec_driver-0.6.1.tar.gz",
-  "download_time": "2026-03-03T22:33:43.471961",
+  "download_filename": "spec_driver-0.6.12.tar.gz",
+  "download_time": "2026-03-06T07:56:48.254772",
   "package_url": "https://pypi.org/project/spec-driver/"
 }

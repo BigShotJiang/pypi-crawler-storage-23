@@ -1,11 +1,11 @@
 {
   "name": "thehouse",
-  "version": "2.6.0",
+  "version": "2.7.2",
   "summary": "A text-based horror game",
   "author": "Davide Di Criscito",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "thehouse-2.6.0.tar.gz",
-  "download_time": "2026-03-06T07:13:09.991975",
+  "download_filename": "thehouse-2.7.2.tar.gz",
+  "download_time": "2026-03-06T07:56:53.708610",
   "package_url": "https://pypi.org/project/thehouse/"
 }
