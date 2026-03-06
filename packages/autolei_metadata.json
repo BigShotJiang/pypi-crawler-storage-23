@@ -1,0 +1,11 @@
+{
+  "name": "autolei",
+  "version": "1.0.3.260305",
+  "summary": "A GUI for electron diffraction data analysis",
+  "author": "Lei Wang",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "autolei-1.0.3.260305-py3-none-any.whl",
+  "download_time": "2026-03-06T14:28:50.034142",
+  "package_url": "https://pypi.org/project/autolei/"
+}

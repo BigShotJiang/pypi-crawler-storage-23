@@ -1,0 +1,11 @@
+{
+  "name": "lips",
+  "version": "0.6.0",
+  "summary": "Lorentz Invariant Phase Space",
+  "author": "Giuseppe De Laurentis",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/GDeLaurentis/lips",
+  "download_filename": "lips-0.6.0.tar.gz",
+  "download_time": "2026-03-06T14:28:43.147311",
+  "package_url": "https://pypi.org/project/lips/"
+}

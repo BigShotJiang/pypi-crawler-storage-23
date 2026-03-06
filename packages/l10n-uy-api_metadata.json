@@ -1,0 +1,11 @@
+{
+  "name": "l10n-uy-api",
+  "version": "2.0.20",
+  "summary": "Libreria para localizacion Uruguaya",
+  "author": "BLUEORANGE GROUP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "l10n_uy_api-2.0.20.tar.gz",
+  "download_time": "2026-03-06T14:28:38.395052",
+  "package_url": "https://pypi.org/project/l10n-uy-api/"
+}

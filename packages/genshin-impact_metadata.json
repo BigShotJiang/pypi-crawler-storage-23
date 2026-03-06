@@ -1,0 +1,11 @@
+{
+  "name": "genshin-impact",
+  "version": "0.1.6",
+  "summary": "A static library of Genshin item/char info. (WIP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genshin_impact-0.1.6.tar.gz",
+  "download_time": "2026-03-06T14:28:25.374879",
+  "package_url": "https://pypi.org/project/genshin-impact/"
+}

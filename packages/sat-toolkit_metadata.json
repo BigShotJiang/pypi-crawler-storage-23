@@ -1,0 +1,11 @@
+{
+  "name": "sat-toolkit",
+  "version": "0.6.2",
+  "summary": "Tool for manipulating CNF formulas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sat_toolkit-0.6.2.tar.gz",
+  "download_time": "2026-03-06T14:28:44.776730",
+  "package_url": "https://pypi.org/project/sat-toolkit/"
+}

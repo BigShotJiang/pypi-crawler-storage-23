@@ -1,0 +1,11 @@
+{
+  "name": "OpenFisca-France-Data",
+  "version": "3.8.6",
+  "summary": "OpenFisca-France-Data module to work with French survey data",
+  "author": "OpenFisca Team",
+  "license": "http://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": "https://github.com/openfisca/openfisca-france-data",
+  "download_filename": "openfisca_france_data-3.8.6.tar.gz",
+  "download_time": "2026-03-06T14:28:24.331055",
+  "package_url": "https://pypi.org/project/OpenFisca-France-Data/"
+}

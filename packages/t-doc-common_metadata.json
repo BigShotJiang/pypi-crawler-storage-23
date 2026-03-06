@@ -1,11 +1,11 @@
 {
   "name": "t-doc-common",
-  "version": "0.69",
+  "version": "0.70",
   "summary": "Common functionality for t-doc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "t_doc_common-0.69.tar.gz",
-  "download_time": "2026-02-21T16:18:56.105186",
+  "download_filename": "t_doc_common-0.70.tar.gz",
+  "download_time": "2026-03-06T14:28:22.250688",
   "package_url": "https://pypi.org/project/t-doc-common/"
 }
