@@ -1,0 +1,11 @@
+{
+  "name": "gp-hub",
+  "version": "0.1.1",
+  "summary": "A tiny local-first package manager demo with build/publish/install commands",
+  "author": "notmmao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gp_hub-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-06T07:12:57.391478",
+  "package_url": "https://pypi.org/project/gp-hub/"
+}

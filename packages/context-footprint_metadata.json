@@ -1,0 +1,11 @@
+{
+  "name": "context-footprint",
+  "version": "0.1.2",
+  "summary": "A static analysis tool for measuring architectural context exposure in codebases.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "context_footprint-0.1.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-06T07:13:34.016850",
+  "package_url": "https://pypi.org/project/context-footprint/"
+}

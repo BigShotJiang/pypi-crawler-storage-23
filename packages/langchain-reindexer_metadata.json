@@ -1,0 +1,11 @@
+{
+  "name": "langchain-reindexer",
+  "version": "0.1.5",
+  "summary": "Reindexer vector store integration for LangChain",
+  "author": "Parviz Mirzoev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_reindexer-0.1.5.tar.gz",
+  "download_time": "2026-03-06T07:13:19.388869",
+  "package_url": "https://pypi.org/project/langchain-reindexer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cmdop-coder",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "CMDOP skill — code analysis with tree-sitter AST parsing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmdop_coder-0.1.10.tar.gz",
-  "download_time": "2026-03-05T09:12:39.656974",
+  "download_filename": "cmdop_coder-0.1.13.tar.gz",
+  "download_time": "2026-03-06T07:12:57.910415",
   "package_url": "https://pypi.org/project/cmdop-coder/"
 }

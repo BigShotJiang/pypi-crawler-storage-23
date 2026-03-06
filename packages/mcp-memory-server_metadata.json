@@ -1,11 +1,11 @@
 {
   "name": "mcp-memory-server",
-  "version": "0.2.1",
-  "summary": "Intelligent memory MCP server for AI assistants — auto-save, semantic search, RL-powered retrieval, and knowledge graphs",
-  "author": "ihwoo",
+  "version": "1.1.0",
+  "summary": "MCP server that exposes Project AI Memory (memory.md) as resources and tools for Cursor, Claude, and other MCP clients",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_memory_server-0.2.1.tar.gz",
-  "download_time": "2026-02-28T15:38:52.242430",
+  "download_filename": "mcp_memory_server-1.1.0.tar.gz",
+  "download_time": "2026-03-06T07:13:12.088902",
   "package_url": "https://pypi.org/project/mcp-memory-server/"
 }

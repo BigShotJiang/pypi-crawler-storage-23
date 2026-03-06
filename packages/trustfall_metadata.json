@@ -1,11 +1,11 @@
 {
   "name": "trustfall",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A query engine for any combination of data sources. Query your files and APIs as if they were databases!",
   "author": "Predrag Gruevski",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "trustfall-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-03-05T08:35:19.468599",
+  "download_filename": "trustfall-0.3.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-06T07:13:31.389550",
   "package_url": "https://pypi.org/project/trustfall/"
 }

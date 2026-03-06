@@ -1,0 +1,11 @@
+{
+  "name": "milvus-cli",
+  "version": "1.2.1",
+  "summary": "CLI for Milvus",
+  "author": "Milvus Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/zilliztech/milvus_cli",
+  "download_filename": "milvus_cli-1.2.1.tar.gz",
+  "download_time": "2026-03-06T07:13:03.174283",
+  "package_url": "https://pypi.org/project/milvus-cli/"
+}
