@@ -1,0 +1,11 @@
+{
+  "name": "hop3-installer",
+  "version": "0.4.0b4",
+  "summary": "Installer scripts for Hop3 CLI and Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hop3_installer-0.4.0b4.tar.gz",
+  "download_time": "2026-03-06T10:33:01.666318",
+  "package_url": "https://pypi.org/project/hop3-installer/"
+}

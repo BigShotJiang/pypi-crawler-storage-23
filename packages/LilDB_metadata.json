@@ -1,0 +1,11 @@
+{
+  "name": "LilDB",
+  "version": "0.6.0",
+  "summary": "LilDB provides a simplified wrapper for SQLite3.",
+  "author": "Anton Panteleev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lildb-0.6.0.tar.gz",
+  "download_time": "2026-03-06T10:32:40.133230",
+  "package_url": "https://pypi.org/project/LilDB/"
+}

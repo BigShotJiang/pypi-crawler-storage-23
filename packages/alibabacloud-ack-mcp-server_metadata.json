@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ack-mcp-server",
+  "version": "1.0.2",
+  "summary": "AlibabaCloud Container Service MCP Server (ack-mcp-server)",
+  "author": "AlibabaCloud",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-ack-mcp-server",
+  "download_filename": "alibabacloud_ack_mcp_server-1.0.2-py3-none-any.whl",
+  "download_time": "2026-03-06T10:32:49.307668",
+  "package_url": "https://pypi.org/project/alibabacloud-ack-mcp-server/"
+}

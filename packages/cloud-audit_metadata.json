@@ -1,11 +1,11 @@
 {
   "name": "cloud-audit",
-  "version": "0.5.0",
-  "summary": "Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.",
+  "version": "0.5.2",
+  "summary": "Open-source AWS security scanner. 45 checks, each with a ready-to-use fix.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloud_audit-0.5.0.tar.gz",
-  "download_time": "2026-03-05T21:55:12.788479",
+  "download_filename": "cloud_audit-0.5.2.tar.gz",
+  "download_time": "2026-03-06T10:32:16.536583",
   "package_url": "https://pypi.org/project/cloud-audit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hop3-tui",
+  "version": "0.4.0b4",
+  "summary": "Terminal User Interface for Hop3 PaaS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hop3_tui-0.4.0b4.tar.gz",
+  "download_time": "2026-03-06T10:33:00.136882",
+  "package_url": "https://pypi.org/project/hop3-tui/"
+}

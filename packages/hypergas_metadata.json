@@ -1,0 +1,11 @@
+{
+  "name": "hypergas",
+  "version": "0.6.1",
+  "summary": "Python package for hyperspectral satellite imaging of trace gases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypergas-0.6.1.tar.gz",
+  "download_time": "2026-03-06T10:32:31.177090",
+  "package_url": "https://pypi.org/project/hypergas/"
+}

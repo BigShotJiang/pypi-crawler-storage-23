@@ -1,0 +1,11 @@
+{
+  "name": "patchpyro",
+  "version": "2.1.0",
+  "summary": "A modified pyromod by a.devh.in",
+  "author": "Cezar H. & adityaprasad502",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/adityaprasad502/patchpyro",
+  "download_filename": "patchpyro-2.1.0.tar.gz",
+  "download_time": "2026-03-06T10:32:38.605035",
+  "package_url": "https://pypi.org/project/patchpyro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-termii",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A clean Python SDK for the Termii API (SMS, Voice, and OTP)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_termii-0.1.0.tar.gz",
-  "download_time": "2026-03-05T17:54:52.348224",
+  "download_filename": "python_termii-0.1.1.tar.gz",
+  "download_time": "2026-03-06T10:32:23.818828",
   "package_url": "https://pypi.org/project/python-termii/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "numcodecs-random-projection",
-  "version": "0.1.0a2",
+  "version": "0.1.0a4",
   "summary": "Random projection codec for the `numcodecs` buffer compression API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "numcodecs_random_projection-0.1.0a2.tar.gz",
-  "download_time": "2026-02-26T10:32:43.814864",
+  "download_filename": "numcodecs_random_projection-0.1.0a4.tar.gz",
+  "download_time": "2026-03-06T10:32:21.272717",
   "package_url": "https://pypi.org/project/numcodecs-random-projection/"
 }

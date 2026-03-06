@@ -1,0 +1,11 @@
+{
+  "name": "sloki-agent",
+  "version": "0.1.1",
+  "summary": "A professional, multi-agent AI system for rule-driven, surgical code editing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sloki_agent-0.1.1.tar.gz",
+  "download_time": "2026-03-06T10:32:19.675497",
+  "package_url": "https://pypi.org/project/sloki-agent/"
+}

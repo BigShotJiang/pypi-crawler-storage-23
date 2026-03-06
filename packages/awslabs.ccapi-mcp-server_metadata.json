@@ -1,11 +1,11 @@
 {
   "name": "awslabs.ccapi-mcp-server",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "summary": "An AWS Labs Model Context Protocol (MCP) server for managing AWS resources via Cloud Control API",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "awslabs_ccapi_mcp_server-1.0.16.tar.gz",
-  "download_time": "2026-03-05T20:06:22.058398",
+  "download_filename": "awslabs_ccapi_mcp_server-1.0.17.tar.gz",
+  "download_time": "2026-03-06T10:32:54.478563",
   "package_url": "https://pypi.org/project/awslabs.ccapi-mcp-server/"
 }

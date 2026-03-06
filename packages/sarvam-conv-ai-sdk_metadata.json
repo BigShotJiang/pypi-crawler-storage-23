@@ -1,0 +1,11 @@
+{
+  "name": "sarvam-conv-ai-sdk",
+  "version": "1.0.16",
+  "summary": "The Sarvam Conversational AI SDK is a Python package that helps developers build and extend conversational agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sarvam_conv_ai_sdk-1.0.16.tar.gz",
+  "download_time": "2026-03-06T10:32:41.152139",
+  "package_url": "https://pypi.org/project/sarvam-conv-ai-sdk/"
+}

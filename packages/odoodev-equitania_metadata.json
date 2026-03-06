@@ -1,11 +1,11 @@
 {
   "name": "odoodev-equitania",
-  "version": "0.4.6",
+  "version": "0.4.11",
   "summary": "Unified CLI tool for native Odoo development environment management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoodev_equitania-0.4.6.tar.gz",
-  "download_time": "2026-03-05T15:40:00.829794",
+  "download_filename": "odoodev_equitania-0.4.11.tar.gz",
+  "download_time": "2026-03-06T10:32:53.967244",
   "package_url": "https://pypi.org/project/odoodev-equitania/"
 }

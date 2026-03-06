@@ -1,0 +1,11 @@
+{
+  "name": "hop3-testing",
+  "version": "0.4.0b4",
+  "summary": "Testing utilities for Hop3",
+  "author": "Stefane Fermigier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hop3_testing-0.4.0b4.tar.gz",
+  "download_time": "2026-03-06T10:33:00.646097",
+  "package_url": "https://pypi.org/project/hop3-testing/"
+}

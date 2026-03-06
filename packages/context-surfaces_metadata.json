@@ -1,0 +1,11 @@
+{
+  "name": "context-surfaces",
+  "version": "0.0.1",
+  "summary": "Python client for the Context Surfaces API — manage context surfaces, Redis instances, and invoke MCP tools. Includes an optional CLI (ctxctl).",
+  "author": "Redis AI Services Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_surfaces-0.0.1.tar.gz",
+  "download_time": "2026-03-06T10:32:42.690523",
+  "package_url": "https://pypi.org/project/context-surfaces/"
+}

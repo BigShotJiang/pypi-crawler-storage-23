@@ -1,0 +1,11 @@
+{
+  "name": "langchain-linkup",
+  "version": "0.2.0",
+  "summary": "A Langchain integration for the Linkup API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_linkup-0.2.0.tar.gz",
+  "download_time": "2026-03-06T10:32:39.624204",
+  "package_url": "https://pypi.org/project/langchain-linkup/"
+}

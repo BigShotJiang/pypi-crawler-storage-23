@@ -1,11 +1,11 @@
 {
   "name": "awslabs.cfn-mcp-server",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "An AWS Labs Model Context Protocol (MCP) server for doing common cloudformation tasks and for managing your resources in your AWS account",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "awslabs_cfn_mcp_server-1.0.17.tar.gz",
-  "download_time": "2026-03-05T20:06:21.527301",
+  "download_filename": "awslabs_cfn_mcp_server-1.0.18.tar.gz",
+  "download_time": "2026-03-06T10:32:51.860276",
   "package_url": "https://pypi.org/project/awslabs.cfn-mcp-server/"
 }
