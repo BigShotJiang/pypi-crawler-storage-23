@@ -1,0 +1,11 @@
+{
+  "name": "chalk-pypi",
+  "version": "0.2.2",
+  "summary": "Explains lecture slides using Claude. For when you have the slides but not the lecture.",
+  "author": "fadli0029",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chalk_pypi-0.2.2.tar.gz",
+  "download_time": "2026-03-06T01:42:49.716065",
+  "package_url": "https://pypi.org/project/chalk-pypi/"
+}

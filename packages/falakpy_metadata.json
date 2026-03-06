@@ -1,0 +1,11 @@
+{
+  "name": "falakpy",
+  "version": "1.0.3",
+  "summary": "A Python toolkit for Islamic Astronomy (Ilm al-Falak): Qibla, Prayer Times, and Lunar Observation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "falakpy-1.0.3.tar.gz",
+  "download_time": "2026-03-06T01:43:01.831129",
+  "package_url": "https://pypi.org/project/falakpy/"
+}

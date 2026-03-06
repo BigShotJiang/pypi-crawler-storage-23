@@ -1,0 +1,11 @@
+{
+  "name": "clowl",
+  "version": "0.2.0",
+  "summary": "CLowl - A structured communication language for AI agent-to-agent messaging",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clowl-0.2.0.tar.gz",
+  "download_time": "2026-03-06T01:42:53.535714",
+  "package_url": "https://pypi.org/project/clowl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rmqadm",
+  "version": "0.1.0",
+  "summary": "RabbitMQ Management CLI Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmqadm-0.1.0.tar.gz",
+  "download_time": "2026-03-06T01:43:02.375370",
+  "package_url": "https://pypi.org/project/rmqadm/"
+}

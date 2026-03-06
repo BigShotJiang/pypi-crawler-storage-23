@@ -1,11 +1,11 @@
 {
   "name": "saferaise",
-  "version": "0.0.1a5",
+  "version": "0.0.1a7",
   "summary": "Checked exceptions for Python. Declare what your functions raise, and let saferaise enforce it - using your existing try/except blocks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saferaise-0.0.1a5.tar.gz",
-  "download_time": "2026-03-05T23:45:04.851547",
+  "download_filename": "saferaise-0.0.1a7.tar.gz",
+  "download_time": "2026-03-06T01:42:17.324155",
   "package_url": "https://pypi.org/project/saferaise/"
 }

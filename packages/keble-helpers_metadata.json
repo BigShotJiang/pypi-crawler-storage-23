@@ -1,11 +1,11 @@
 {
   "name": "keble-helpers",
-  "version": "1.11.6",
+  "version": "1.11.8",
   "summary": null,
   "author": "zhenhao-ma",
   "license": null,
   "home_page": null,
-  "download_filename": "keble_helpers-1.11.6.tar.gz",
-  "download_time": "2026-03-05T06:07:16.931356",
+  "download_filename": "keble_helpers-1.11.8.tar.gz",
+  "download_time": "2026-03-06T01:42:47.511693",
   "package_url": "https://pypi.org/project/keble-helpers/"
 }

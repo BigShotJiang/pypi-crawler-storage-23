@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-all",
+  "version": "0.3.0",
+  "summary": "CLI audio transcription via Groq Whisper with optional speaker diarization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transcribe_all-0.3.0.tar.gz",
+  "download_time": "2026-03-06T01:42:19.651625",
+  "package_url": "https://pypi.org/project/transcribe-all/"
+}

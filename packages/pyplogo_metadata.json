@@ -1,0 +1,11 @@
+{
+  "name": "pyplogo",
+  "version": "0.1.2",
+  "summary": "A professional tool for protein secondary structure analysis and visualization. Offers a complete solution from structure extraction, multi-theme customization to high-quality publication-ready plotting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyplogo-0.1.2.tar.gz",
+  "download_time": "2026-03-06T01:42:54.079822",
+  "package_url": "https://pypi.org/project/pyplogo/"
+}

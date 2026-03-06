@@ -1,0 +1,11 @@
+{
+  "name": "xbrl-core",
+  "version": "0.1.2",
+  "summary": "Lightweight XBRL 2.1 / iXBRL 1.1 parser and structured data extraction library",
+  "author": "nezow",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "xbrl_core-0.1.2.tar.gz",
+  "download_time": "2026-03-06T01:42:31.949774",
+  "package_url": "https://pypi.org/project/xbrl-core/"
+}

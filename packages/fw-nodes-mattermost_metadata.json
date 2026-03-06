@@ -1,0 +1,11 @@
+{
+  "name": "fw-nodes-mattermost",
+  "version": "0.0.1a2",
+  "summary": "Mattermost nodes for Flowire workflow automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_nodes_mattermost-0.0.1a2.tar.gz",
+  "download_time": "2026-03-06T01:43:07.330727",
+  "package_url": "https://pypi.org/project/fw-nodes-mattermost/"
+}

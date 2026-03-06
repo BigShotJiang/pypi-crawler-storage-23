@@ -1,0 +1,11 @@
+{
+  "name": "msrashed-prometheus-mcp-server",
+  "version": "0.3.0",
+  "summary": "Read-only Prometheus/Thanos MCP server for metrics querying, cardinality analysis, and monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "msrashed_prometheus_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-03-06T01:42:26.356534",
+  "package_url": "https://pypi.org/project/msrashed-prometheus-mcp-server/"
+}
