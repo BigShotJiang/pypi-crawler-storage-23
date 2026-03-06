@@ -1,0 +1,11 @@
+{
+  "name": "sleap-io",
+  "version": "0.6.5",
+  "summary": "Standalone utilities for working with pose data from SLEAP and other tools.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sleap_io-0.6.5.tar.gz",
+  "download_time": "2026-03-06T21:00:08.024670",
+  "package_url": "https://pypi.org/project/sleap-io/"
+}

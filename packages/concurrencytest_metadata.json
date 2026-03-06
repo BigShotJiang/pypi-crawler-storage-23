@@ -1,0 +1,11 @@
+{
+  "name": "concurrencytest",
+  "version": "0.1.6",
+  "summary": "Python testtools extension for running unittest test suites concurrently",
+  "author": "Corey Goldberg",
+  "license": "GNU GPLv2+",
+  "home_page": "https://github.com/cgoldberg/concurrencytest",
+  "download_filename": "concurrencytest-0.1.6.tar.gz",
+  "download_time": "2026-03-06T21:00:16.970730",
+  "package_url": "https://pypi.org/project/concurrencytest/"
+}

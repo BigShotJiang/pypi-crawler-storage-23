@@ -1,11 +1,11 @@
 {
   "name": "aiohomeconnect",
-  "version": "0.29.0",
+  "version": "0.31.0",
   "summary": "An asyncio client for the Home Connect API.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "aiohomeconnect-0.29.0.tar.gz",
-  "download_time": "2026-03-02T09:36:55.878685",
+  "download_filename": "aiohomeconnect-0.31.0.tar.gz",
+  "download_time": "2026-03-06T21:00:19.640082",
   "package_url": "https://pypi.org/project/aiohomeconnect/"
 }

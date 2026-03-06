@@ -1,0 +1,11 @@
+{
+  "name": "pygobuildinfo",
+  "version": "0.1.28",
+  "summary": "A utility to extract go build info information fro go executables and shared libraries",
+  "author": "Mike Moore",
+  "license": "MIT",
+  "home_page": "https://github.com/Mikemoore63/pybuildInfo",
+  "download_filename": "pygobuildinfo-0.1.28.tar.gz",
+  "download_time": "2026-03-06T20:59:37.120169",
+  "package_url": "https://pypi.org/project/pygobuildinfo/"
+}

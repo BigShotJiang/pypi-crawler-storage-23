@@ -1,11 +1,11 @@
 {
   "name": "piercloud-mcp",
-  "version": "0.2.1",
-  "summary": "A scalable MCP server with clean architecture",
+  "version": "0.3.2",
+  "summary": "MCP server for Pier Cloud - query cloud costs and optimization rules",
   "author": "Pier Team",
   "license": "MIT",
   "home_page": "https://github.com/piercloud/piercloud-mcp",
-  "download_filename": "piercloud_mcp-0.2.1.tar.gz",
-  "download_time": "2026-03-06T19:53:59.033153",
+  "download_filename": "piercloud_mcp-0.3.2.tar.gz",
+  "download_time": "2026-03-06T20:59:36.594350",
   "package_url": "https://pypi.org/project/piercloud-mcp/"
 }

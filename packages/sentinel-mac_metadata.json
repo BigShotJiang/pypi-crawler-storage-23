@@ -1,11 +1,11 @@
 {
   "name": "sentinel-mac",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "AI Agent Security Guardian for macOS — monitors system health and AI agent behavior (file access, network connections, risky commands) with smart alerts",
   "author": "raunplaymore",
   "license": null,
   "home_page": null,
-  "download_filename": "sentinel_mac-0.3.2.tar.gz",
-  "download_time": "2026-03-06T20:26:50.952644",
+  "download_filename": "sentinel_mac-0.3.3.tar.gz",
+  "download_time": "2026-03-06T21:00:04.853219",
   "package_url": "https://pypi.org/project/sentinel-mac/"
 }

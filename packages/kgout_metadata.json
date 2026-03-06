@@ -1,0 +1,11 @@
+{
+  "name": "kgout",
+  "version": "1.0.1",
+  "summary": "Auto-sync Kaggle notebook outputs to Google Drive or local machine via ngrok",
+  "author": "Vybhav Chaturvedi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kgout-1.0.1.tar.gz",
+  "download_time": "2026-03-06T20:59:47.565870",
+  "package_url": "https://pypi.org/project/kgout/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orient_express",
+  "version": "2.4.0",
+  "summary": "A library to simplify model deployment to Vertex AI",
+  "author": "Alexey Zankevich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orient_express-2.4.0.tar.gz",
+  "download_time": "2026-03-06T21:00:21.719518",
+  "package_url": "https://pypi.org/project/orient_express/"
+}
