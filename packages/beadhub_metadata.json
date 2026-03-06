@@ -1,0 +1,11 @@
+{
+  "name": "beadhub",
+  "version": "0.3.1",
+  "summary": "Multi-agent coordination server for AI teams. Workspace claims, presence, escalations, policies, and Beads integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beadhub-0.3.1.tar.gz",
+  "download_time": "2026-03-06T19:17:18.485694",
+  "package_url": "https://pypi.org/project/beadhub/"
+}

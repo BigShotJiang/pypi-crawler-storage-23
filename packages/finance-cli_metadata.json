@@ -1,0 +1,11 @@
+{
+  "name": "finance-cli",
+  "version": "1.0.1",
+  "summary": "Personal finance CLI: bank statement import, transaction categorization, budgets, and net worth tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finance_cli-1.0.1.tar.gz",
+  "download_time": "2026-03-06T19:17:00.009599",
+  "package_url": "https://pypi.org/project/finance-cli/"
+}

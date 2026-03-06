@@ -1,0 +1,11 @@
+{
+  "name": "notion-upload",
+  "version": "2.0.0",
+  "summary": "A simple library that handles uploading files to Notion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notion_upload-2.0.0.tar.gz",
+  "download_time": "2026-03-06T19:17:16.577403",
+  "package_url": "https://pypi.org/project/notion-upload/"
+}

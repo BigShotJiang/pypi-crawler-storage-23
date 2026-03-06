@@ -1,0 +1,11 @@
+{
+  "name": "gofile2",
+  "version": "2.0.1",
+  "summary": "An API wrapper for Gofile API",
+  "author": "Itz-fork, Codec04",
+  "license": "MIT",
+  "home_page": "https://github.com/Itz-fork/Gofile2",
+  "download_filename": "gofile2-2.0.1.tar.gz",
+  "download_time": "2026-03-06T19:17:23.331648",
+  "package_url": "https://pypi.org/project/gofile2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xchem-fragalysis",
+  "version": "1.0.0",
+  "summary": "Python module to interact with Fragalysis",
+  "author": "Diamond Light Source / Informatics Matters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xchem_fragalysis-1.0.0.tar.gz",
+  "download_time": "2026-03-06T19:17:05.095463",
+  "package_url": "https://pypi.org/project/xchem-fragalysis/"
+}

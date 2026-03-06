@@ -1,0 +1,11 @@
+{
+  "name": "qrl",
+  "version": "4.0.6",
+  "summary": "Quantum Resistant Ledger Node",
+  "author": "The Quantum Resistant Ledger Team",
+  "license": "MIT",
+  "home_page": "https://theqrl.org",
+  "download_filename": "qrl-4.0.6.tar.gz",
+  "download_time": "2026-03-06T19:17:24.542026",
+  "package_url": "https://pypi.org/project/qrl/"
+}

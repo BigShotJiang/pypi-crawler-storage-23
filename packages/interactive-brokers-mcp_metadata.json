@@ -1,0 +1,11 @@
+{
+  "name": "interactive-brokers-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server for Interactive Brokers Gateway — 6 tools for market data and account access via Claude",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interactive_brokers_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-06T19:17:34.542671",
+  "package_url": "https://pypi.org/project/interactive-brokers-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spider-browser",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Browser automation client for Spider's pre-warmed browser fleet with smart retry and browser switching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spider_browser-0.2.4.tar.gz",
-  "download_time": "2026-03-05T17:54:40.032640",
+  "download_filename": "spider_browser-0.2.5.tar.gz",
+  "download_time": "2026-03-06T19:17:30.271959",
   "package_url": "https://pypi.org/project/spider-browser/"
 }

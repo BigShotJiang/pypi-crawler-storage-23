@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-zen-mode",
+  "version": "0.1.0",
+  "summary": "Zen Mode toggle for MkDocs Material — distraction-free reading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_zen_mode-0.1.0.tar.gz",
+  "download_time": "2026-03-06T19:16:32.157513",
+  "package_url": "https://pypi.org/project/mkdocs-zen-mode/"
+}

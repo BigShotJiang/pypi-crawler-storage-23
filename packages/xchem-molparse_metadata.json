@@ -1,0 +1,11 @@
+{
+  "name": "xchem-molparse",
+  "version": "1.0.0",
+  "summary": "Package for parsing, writing, and modifying molecular structure files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xchem_molparse-1.0.0.tar.gz",
+  "download_time": "2026-03-06T19:17:13.469611",
+  "package_url": "https://pypi.org/project/xchem-molparse/"
+}

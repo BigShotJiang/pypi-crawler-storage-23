@@ -1,0 +1,11 @@
+{
+  "name": "rcan",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the RCAN robot communication protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rcan-0.2.0.tar.gz",
+  "download_time": "2026-03-06T19:17:26.440253",
+  "package_url": "https://pypi.org/project/rcan/"
+}
