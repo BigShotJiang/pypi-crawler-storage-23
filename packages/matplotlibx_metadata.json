@@ -1,0 +1,11 @@
+{
+  "name": "matplotlibx",
+  "version": "0.1.2",
+  "summary": "Enhanced Matplotlib wrapper with publication-quality styling and colorblind accessibility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matplotlibx-0.1.2.tar.gz",
+  "download_time": "2026-03-06T11:06:33.280451",
+  "package_url": "https://pypi.org/project/matplotlibx/"
+}

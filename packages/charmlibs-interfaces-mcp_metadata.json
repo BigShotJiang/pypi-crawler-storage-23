@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-interfaces-mcp",
+  "version": "0.1.2",
+  "summary": "Charm library for the MCP (Model Context Protocol) Juju interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_interfaces_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-06T11:06:30.714895",
+  "package_url": "https://pypi.org/project/charmlibs-interfaces-mcp/"
+}

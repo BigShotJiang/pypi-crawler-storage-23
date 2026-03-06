@@ -1,0 +1,11 @@
+{
+  "name": "starling-sdk",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python wrapper for the Starling Bank API",
+  "author": "Okoya Usman",
+  "license": null,
+  "home_page": "https://github.com/okoyausman/starling-python-sdk",
+  "download_filename": "starling_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-06T11:06:08.487717",
+  "package_url": "https://pypi.org/project/starling-sdk/"
+}

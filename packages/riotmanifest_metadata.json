@@ -1,11 +1,11 @@
 {
   "name": "riotmanifest",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "Riot manifest parsing, concurrent downloader, and manifest/WAD diff toolkit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "riotmanifest-2.2.1.tar.gz",
-  "download_time": "2026-03-05T07:59:17.158637",
+  "download_filename": "riotmanifest-2.2.2.tar.gz",
+  "download_time": "2026-03-06T11:05:59.773261",
   "package_url": "https://pypi.org/project/riotmanifest/"
 }

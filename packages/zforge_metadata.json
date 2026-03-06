@@ -1,11 +1,11 @@
 {
   "name": "zforge",
-  "version": "2.1.53",
+  "version": "2.1.55",
   "summary": "Official CLI for building, validating, and publishing Agent Zero skills to the ZeroForge marketplace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zforge-2.1.53.tar.gz",
-  "download_time": "2026-03-05T11:27:51.858485",
+  "download_filename": "zforge-2.1.55.tar.gz",
+  "download_time": "2026-03-06T11:06:29.177063",
   "package_url": "https://pypi.org/project/zforge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stefano-tgcrypto",
+  "version": "1.4.5",
+  "summary": "Fast and Portable Cryptography Extension Library for Pyrogram",
+  "author": "Sanji78",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/Sanji78/stefano-tgcrypto",
+  "download_filename": "stefano_tgcrypto-1.4.5-cp313-cp313-musllinux_1_2_aarch64.whl",
+  "download_time": "2026-03-06T11:06:28.665098",
+  "package_url": "https://pypi.org/project/stefano-tgcrypto/"
+}

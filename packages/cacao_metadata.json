@@ -1,11 +1,11 @@
 {
   "name": "cacao",
-  "version": "2.0.10",
+  "version": "2.0.15",
   "summary": "High-performance reactive web framework for Python. Build dashboards, internal tools, and data apps with a Streamlit-like API but 10x faster.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cacao-2.0.10.tar.gz",
-  "download_time": "2026-03-05T07:14:43.312343",
+  "download_filename": "cacao-2.0.15.tar.gz",
+  "download_time": "2026-03-06T11:05:59.239881",
   "package_url": "https://pypi.org/project/cacao/"
 }

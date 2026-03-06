@@ -1,11 +1,11 @@
 {
   "name": "xmovsystemmonitor",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "summary": "A Python library for xmov systemmonitor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xmovsystemmonitor-1.4.6.tar.gz",
-  "download_time": "2026-03-05T08:34:30.668559",
+  "download_filename": "xmovsystemmonitor-1.4.7.tar.gz",
+  "download_time": "2026-03-06T11:06:24.571787",
   "package_url": "https://pypi.org/project/xmovsystemmonitor/"
 }

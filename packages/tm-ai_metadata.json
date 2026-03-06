@@ -1,11 +1,11 @@
 {
   "name": "tm-ai",
-  "version": "1.8.41",
+  "version": "1.8.42",
   "summary": "Time Machine for AI Agents — Cognitive Version Control for LLM context",
   "author": "CVC Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tm_ai-1.8.41-py3-none-any.whl",
-  "download_time": "2026-03-06T10:32:56.013127",
+  "download_filename": "tm_ai-1.8.42-py3-none-any.whl",
+  "download_time": "2026-03-06T11:06:35.843692",
   "package_url": "https://pypi.org/project/tm-ai/"
 }

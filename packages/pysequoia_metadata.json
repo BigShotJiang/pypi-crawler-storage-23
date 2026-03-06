@@ -1,0 +1,11 @@
+{
+  "name": "pysequoia",
+  "version": "0.1.31",
+  "summary": "Provides OpenPGP facilities using Sequoia-PGP library",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/wiktor-k/pysequoia",
+  "download_filename": "pysequoia-0.1.31.tar.gz",
+  "download_time": "2026-03-06T11:06:16.212554",
+  "package_url": "https://pypi.org/project/pysequoia/"
+}
