@@ -1,0 +1,11 @@
+{
+  "name": "generaltranslation-icu-messageformat-parser",
+  "version": "0.0.0",
+  "summary": "ICU MessageFormat parser with whitespace-preserving AST and string reconstruction",
+  "author": "General Translation, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generaltranslation_icu_messageformat_parser-0.0.0.tar.gz",
+  "download_time": "2026-03-06T04:32:40.533641",
+  "package_url": "https://pypi.org/project/generaltranslation-icu-messageformat-parser/"
+}

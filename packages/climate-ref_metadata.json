@@ -1,0 +1,11 @@
+{
+  "name": "climate-ref",
+  "version": "0.12.2",
+  "summary": "Application which runs the CMIP Rapid Evaluation Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "climate_ref-0.12.2.tar.gz",
+  "download_time": "2026-03-06T04:32:48.443305",
+  "package_url": "https://pypi.org/project/climate-ref/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "torrent-search-mcp",
+  "version": "2.3.0",
+  "summary": "Torrent Search MCP Server",
+  "author": "philogicae",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torrent_search_mcp-2.3.0.tar.gz",
+  "download_time": "2026-03-06T04:32:52.095107",
+  "package_url": "https://pypi.org/project/torrent-search-mcp/"
+}

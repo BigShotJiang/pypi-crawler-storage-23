@@ -1,0 +1,11 @@
+{
+  "name": "nicknames",
+  "version": "1.0.1",
+  "summary": "Hand-curated dataset of English names and nicknames.",
+  "author": "Carlton Northern, Nick Crews",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nicknames-1.0.1.tar.gz",
+  "download_time": "2026-03-06T04:32:46.369932",
+  "package_url": "https://pypi.org/project/nicknames/"
+}

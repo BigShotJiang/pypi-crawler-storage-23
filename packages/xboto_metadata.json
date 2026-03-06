@@ -1,0 +1,11 @@
+{
+  "name": "xboto",
+  "version": "1.2.1",
+  "summary": "Easy lazy dependency injection for boto3 clients/resources.",
+  "author": "Josh Orr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xboto-1.2.1.tar.gz",
+  "download_time": "2026-03-06T04:33:07.256354",
+  "package_url": "https://pypi.org/project/xboto/"
+}

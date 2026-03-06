@@ -1,11 +1,11 @@
 {
   "name": "fray",
-  "version": "3.0.1",
+  "version": "3.2.0",
   "summary": "Open-source WAF Security Testing Platform — 5,500+ attack payloads, 25 WAF fingerprints, beautiful CLI output",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fray-3.0.1.tar.gz",
-  "download_time": "2026-03-05T14:44:47.335560",
+  "download_filename": "fray-3.2.0.tar.gz",
+  "download_time": "2026-03-06T04:33:12.983948",
   "package_url": "https://pypi.org/project/fray/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mnemos-memory",
+  "version": "0.1.0",
+  "summary": "Biomimetic memory architectures for LLMs — surprisal-gated encoding, mutable RAG, affective routing, sleep consolidation, and spreading activation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mnemos_memory-0.1.0.tar.gz",
+  "download_time": "2026-03-06T04:33:05.693890",
+  "package_url": "https://pypi.org/project/mnemos-memory/"
+}

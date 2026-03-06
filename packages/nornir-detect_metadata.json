@@ -1,0 +1,11 @@
+{
+  "name": "nornir-detect",
+  "version": "0.2.0",
+  "summary": "Nornir plugin for automatic network device detection using device-detect module",
+  "author": "Mohamed RABAH",
+  "license": "MIT",
+  "home_page": "https://github.com/mdrbh/nornir-detect",
+  "download_filename": "nornir_detect-0.2.0.tar.gz",
+  "download_time": "2026-03-06T04:33:11.939419",
+  "package_url": "https://pypi.org/project/nornir-detect/"
+}
