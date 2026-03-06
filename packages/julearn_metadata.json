@@ -1,0 +1,11 @@
+{
+  "name": "julearn",
+  "version": "0.3.5",
+  "summary": "Juelich Machine Learning Library",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "julearn-0.3.5.tar.gz",
+  "download_time": "2026-03-06T15:12:27.898614",
+  "package_url": "https://pypi.org/project/julearn/"
+}

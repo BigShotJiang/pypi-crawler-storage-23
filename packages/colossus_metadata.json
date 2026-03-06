@@ -1,0 +1,11 @@
+{
+  "name": "colossus",
+  "version": "1.3.13",
+  "summary": "Cosmology, halo, and large-scale structure tools",
+  "author": "Benedikt Diemer",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/bdiemer/colossus",
+  "download_filename": "colossus-1.3.13-py2.py3-none-any.whl",
+  "download_time": "2026-03-06T15:12:28.985402",
+  "package_url": "https://pypi.org/project/colossus/"
+}

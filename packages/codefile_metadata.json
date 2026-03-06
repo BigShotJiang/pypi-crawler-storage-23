@@ -1,0 +1,11 @@
+{
+  "name": "codefile",
+  "version": "1.0.2",
+  "summary": "A CLI tool to bundle entire projects into a single AI-friendly context file.",
+  "author": "Anthroberc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codefile-1.0.2.tar.gz",
+  "download_time": "2026-03-06T15:12:37.792541",
+  "package_url": "https://pypi.org/project/codefile/"
+}

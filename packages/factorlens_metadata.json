@@ -1,0 +1,11 @@
+{
+  "name": "factorlens",
+  "version": "0.1.1",
+  "summary": "Python wrapper for the FactorLens Rust CLI",
+  "author": "FactorLens",
+  "license": null,
+  "home_page": null,
+  "download_filename": "factorlens-0.1.1.tar.gz",
+  "download_time": "2026-03-06T15:12:21.697937",
+  "package_url": "https://pypi.org/project/factorlens/"
+}

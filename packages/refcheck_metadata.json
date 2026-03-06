@@ -1,0 +1,11 @@
+{
+  "name": "refcheck",
+  "version": "0.4.3",
+  "summary": "Tool for finding broken references and links in Markdown files.",
+  "author": "Sebastian Flum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "refcheck-0.4.3.tar.gz",
+  "download_time": "2026-03-06T15:12:23.252343",
+  "package_url": "https://pypi.org/project/refcheck/"
+}

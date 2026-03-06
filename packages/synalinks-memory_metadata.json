@@ -1,11 +1,11 @@
 {
   "name": "synalinks-memory",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Python SDK for the Synalinks Memory API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synalinks_memory-0.0.8.tar.gz",
-  "download_time": "2026-03-06T13:46:45.609985",
+  "download_filename": "synalinks_memory-0.0.9.tar.gz",
+  "download_time": "2026-03-06T15:12:25.312563",
   "package_url": "https://pypi.org/project/synalinks-memory/"
 }

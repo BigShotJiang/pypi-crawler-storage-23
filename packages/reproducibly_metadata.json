@@ -1,0 +1,11 @@
+{
+  "name": "reproducibly",
+  "version": "0.0.21",
+  "summary": "Reproducibly build Python packages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reproducibly-0.0.21.tar.gz",
+  "download_time": "2026-03-06T15:12:06.239463",
+  "package_url": "https://pypi.org/project/reproducibly/"
+}

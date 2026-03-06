@@ -1,0 +1,11 @@
+{
+  "name": "qpher",
+  "version": "1.0.0",
+  "summary": "Official Python SDK and CLI for the Qpher Post-Quantum Cryptography API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qpher-1.0.0.tar.gz",
+  "download_time": "2026-03-06T15:12:13.302250",
+  "package_url": "https://pypi.org/project/qpher/"
+}

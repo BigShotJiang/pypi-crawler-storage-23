@@ -1,0 +1,11 @@
+{
+  "name": "neuralbase",
+  "version": "0.1.1",
+  "summary": "Official Python client for the NeuralBase memory and ingest API.",
+  "author": "NeuralBase",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralbase-0.1.1.tar.gz",
+  "download_time": "2026-03-06T15:12:01.964998",
+  "package_url": "https://pypi.org/project/neuralbase/"
+}

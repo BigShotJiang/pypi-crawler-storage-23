@@ -1,0 +1,11 @@
+{
+  "name": "codebase-cortex",
+  "version": "0.1.0",
+  "summary": "AI-powered documentation autopilot — commit code, docs update themselves. Five LangGraph agents analyze diffs, find related code via FAISS embeddings, and sync Notion pages through MCP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codebase_cortex-0.1.0.tar.gz",
+  "download_time": "2026-03-06T15:12:34.701229",
+  "package_url": "https://pypi.org/project/codebase-cortex/"
+}

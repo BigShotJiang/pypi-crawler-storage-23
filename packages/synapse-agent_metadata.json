@@ -1,0 +1,11 @@
+{
+  "name": "synapse-agent",
+  "version": "0.2.3",
+  "summary": "Connect your AI CLI tools to Synapse — access Copilot, Claude, Gemini & more from anywhere",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synapse_agent-0.2.3.tar.gz",
+  "download_time": "2026-03-06T15:12:11.651499",
+  "package_url": "https://pypi.org/project/synapse-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "btc-cycles",
+  "version": "0.4.1",
+  "summary": "Track Bitcoin price over halving cycles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "btc_cycles-0.4.1.tar.gz",
+  "download_time": "2026-03-06T15:12:20.596757",
+  "package_url": "https://pypi.org/project/btc-cycles/"
+}

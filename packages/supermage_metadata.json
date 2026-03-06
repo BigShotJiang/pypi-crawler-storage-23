@@ -1,0 +1,11 @@
+{
+  "name": "supermage",
+  "version": "0.6.0",
+  "summary": "A gas dynamics simulator for galaxies, and so much more.",
+  "author": "Michael James Yantovski Barth",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "supermage-0.6.0.tar.gz",
+  "download_time": "2026-03-06T15:12:11.141802",
+  "package_url": "https://pypi.org/project/supermage/"
+}

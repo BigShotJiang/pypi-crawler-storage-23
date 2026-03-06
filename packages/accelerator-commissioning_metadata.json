@@ -1,0 +1,11 @@
+{
+  "name": "accelerator-commissioning",
+  "version": "1.1.0",
+  "summary": "A Python Simulated Commissioning toolkit for synchrotrons (inspired by https://github.com/ThorstenHellert/SC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "accelerator_commissioning-1.1.0.tar.gz",
+  "download_time": "2026-03-06T15:12:10.621588",
+  "package_url": "https://pypi.org/project/accelerator-commissioning/"
+}

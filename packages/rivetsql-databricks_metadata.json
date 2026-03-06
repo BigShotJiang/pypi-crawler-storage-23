@@ -1,11 +1,11 @@
 {
   "name": "rivetsql-databricks",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Databricks and Unity Catalog plugin for Rivet SQL",
   "author": "Rivet Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rivetsql_databricks-0.1.4.tar.gz",
-  "download_time": "2026-03-06T14:28:27.994210",
+  "download_filename": "rivetsql_databricks-0.1.6.tar.gz",
+  "download_time": "2026-03-06T15:12:52.685402",
   "package_url": "https://pypi.org/project/rivetsql-databricks/"
 }
