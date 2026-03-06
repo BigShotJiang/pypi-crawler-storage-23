@@ -1,11 +1,11 @@
 {
   "name": "mitre-emb3d",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "MITRE EMB3D: A Python library for working with the MITRE EMB3D framework.",
   "author": "Sachdeva, Kapil",
   "license": null,
   "home_page": null,
-  "download_filename": "mitre_emb3d-0.0.1.tar.gz",
-  "download_time": "2026-03-04T21:00:26.759056",
+  "download_filename": "mitre_emb3d-0.1.0.tar.gz",
+  "download_time": "2026-03-06T17:58:57.604078",
   "package_url": "https://pypi.org/project/mitre-emb3d/"
 }

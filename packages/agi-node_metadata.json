@@ -1,11 +1,11 @@
 {
   "name": "agi-node",
-  "version": "2026.2.27",
+  "version": "2026.3.6",
   "summary": "Distributed worker orchestration and execution support library for AGILAB",
   "author": null,
-  "license": "BSD-3-Clause",
+  "license": null,
   "home_page": null,
-  "download_filename": "agi_node-2026.2.27.tar.gz",
-  "download_time": "2026-02-27T14:28:33.127793",
+  "download_filename": "agi_node-2026.3.6.tar.gz",
+  "download_time": "2026-03-06T17:58:47.259922",
   "package_url": "https://pypi.org/project/agi-node/"
 }

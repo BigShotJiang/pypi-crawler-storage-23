@@ -1,11 +1,11 @@
 {
   "name": "odoo-apps-Odoo-Apps-Project",
-  "version": "16.0.20260304.0",
+  "version": "16.0.20260306.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_apps_odoo_apps_project-16.0.20260304.0-py3-none-any.whl",
-  "download_time": "2026-03-04T11:09:53.484539",
+  "download_filename": "odoo_apps_odoo_apps_project-16.0.20260306.0-py3-none-any.whl",
+  "download_time": "2026-03-06T17:59:11.668466",
   "package_url": "https://pypi.org/project/odoo-apps-Odoo-Apps-Project/"
 }

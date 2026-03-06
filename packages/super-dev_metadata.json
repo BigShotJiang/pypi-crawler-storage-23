@@ -1,11 +1,11 @@
 {
   "name": "super-dev",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "summary": "Super Dev - Pipeline AI Coding Assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "super_dev-2.0.4.tar.gz",
-  "download_time": "2026-03-06T17:11:51.181574",
+  "download_filename": "super_dev-2.0.6.tar.gz",
+  "download_time": "2026-03-06T17:59:21.523704",
   "package_url": "https://pypi.org/project/super-dev/"
 }

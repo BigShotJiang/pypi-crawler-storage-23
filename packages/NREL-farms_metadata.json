@@ -1,0 +1,11 @@
+{
+  "name": "NREL-farms",
+  "version": "1.0.7",
+  "summary": "The Fast All-sky Radiation Model for Solar applications (FARMS)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nrel_farms-1.0.7.tar.gz",
+  "download_time": "2026-03-06T17:58:39.408381",
+  "package_url": "https://pypi.org/project/NREL-farms/"
+}

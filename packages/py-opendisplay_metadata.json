@@ -1,11 +1,11 @@
 {
   "name": "py-opendisplay",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "summary": "Python library for OpenDisplay BLE e-paper displays",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_opendisplay-5.3.0.tar.gz",
-  "download_time": "2026-03-06T17:11:50.658706",
+  "download_filename": "py_opendisplay-5.4.0.tar.gz",
+  "download_time": "2026-03-06T17:59:15.806593",
   "package_url": "https://pypi.org/project/py-opendisplay/"
 }

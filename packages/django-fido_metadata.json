@@ -1,0 +1,11 @@
+{
+  "name": "django-fido",
+  "version": "1.4.2",
+  "summary": "Django application for FIDO protocol",
+  "author": "Vlastimil Zíma",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CZ-NIC/django-fido",
+  "download_filename": "django_fido-1.4.2.tar.gz",
+  "download_time": "2026-03-06T17:59:22.548997",
+  "package_url": "https://pypi.org/project/django-fido/"
+}

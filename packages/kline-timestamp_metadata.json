@@ -1,0 +1,11 @@
+{
+  "name": "kline-timestamp",
+  "version": "0.3.0",
+  "summary": "KlineTimestamp is a Python library designed to efficiently handle timestamps within discrete time intervals (klines/candlesticks), commonly used in financial data analysis.",
+  "author": "nand0san",
+  "license": null,
+  "home_page": "https://github.com/nand0san/kline_timestamp",
+  "download_filename": "kline_timestamp-0.3.0.tar.gz",
+  "download_time": "2026-03-06T17:59:06.025496",
+  "package_url": "https://pypi.org/project/kline-timestamp/"
+}

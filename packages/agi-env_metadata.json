@@ -1,11 +1,11 @@
 {
   "name": "agi-env",
-  "version": "2026.2.27",
+  "version": "2026.3.6",
   "summary": "Environment bootstrap package for AGILAB with virtualenv, path, and runtime helpers",
   "author": null,
-  "license": "BSD-3-Clause",
+  "license": null,
   "home_page": null,
-  "download_filename": "agi_env-2026.2.27.tar.gz",
-  "download_time": "2026-02-27T14:28:33.647969",
+  "download_filename": "agi_env-2026.3.6.tar.gz",
+  "download_time": "2026-03-06T17:58:47.772555",
   "package_url": "https://pypi.org/project/agi-env/"
 }

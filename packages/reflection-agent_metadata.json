@@ -1,11 +1,11 @@
 {
   "name": "reflection-agent",
-  "version": "2.0.31",
+  "version": "2.0.35",
   "summary": "Enterprise Multi-Tenant AI Companion Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflection_agent-2.0.31.tar.gz",
-  "download_time": "2026-03-04T22:01:10.185849",
+  "download_filename": "reflection_agent-2.0.35.tar.gz",
+  "download_time": "2026-03-06T17:58:58.637151",
   "package_url": "https://pypi.org/project/reflection-agent/"
 }
