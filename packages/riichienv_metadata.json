@@ -1,11 +1,11 @@
 {
   "name": "riichienv",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "A High-Performance Research Environment for Riichi Mahjong",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "riichienv-0.3.5.tar.gz",
-  "download_time": "2026-03-02T18:06:47.718473",
+  "download_filename": "riichienv-0.3.7.tar.gz",
+  "download_time": "2026-03-06T10:00:37.800817",
   "package_url": "https://pypi.org/project/riichienv/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp-lazarus",
-  "version": "0.11.2",
+  "version": "0.13",
   "summary": "Mechanistic interpretability MCP server wrapping chuk-lazarus",
   "author": "Christopher Hay",
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_mcp_lazarus-0.11.2.tar.gz",
-  "download_time": "2026-03-05T23:44:40.717223",
+  "download_filename": "chuk_mcp_lazarus-0.13.tar.gz",
+  "download_time": "2026-03-06T10:00:51.453531",
   "package_url": "https://pypi.org/project/chuk-mcp-lazarus/"
 }

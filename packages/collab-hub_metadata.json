@@ -1,0 +1,11 @@
+{
+  "name": "collab-hub",
+  "version": "0.2.0",
+  "summary": "Unified MCP server for cross-platform multi-model AI collaboration",
+  "author": "pure-maple",
+  "license": null,
+  "home_page": null,
+  "download_filename": "collab_hub-0.2.0.tar.gz",
+  "download_time": "2026-03-06T10:00:53.613972",
+  "package_url": "https://pypi.org/project/collab-hub/"
+}

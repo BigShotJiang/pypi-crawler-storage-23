@@ -1,0 +1,11 @@
+{
+  "name": "PhaseIV-API",
+  "version": "0.1.0b0",
+  "summary": "Python async API client and REST server for the Phase IV film lending library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phaseiv_api-0.1.0b0.tar.gz",
+  "download_time": "2026-03-06T10:01:01.964932",
+  "package_url": "https://pypi.org/project/PhaseIV-API/"
+}

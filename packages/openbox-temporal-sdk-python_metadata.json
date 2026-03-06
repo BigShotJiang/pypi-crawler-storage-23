@@ -1,0 +1,11 @@
+{
+  "name": "openbox-temporal-sdk-python",
+  "version": "1.0.21",
+  "summary": "OpenBox SDK - Governance and observability for Temporal workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openbox_temporal_sdk_python-1.0.21.tar.gz",
+  "download_time": "2026-03-06T10:00:53.077188",
+  "package_url": "https://pypi.org/project/openbox-temporal-sdk-python/"
+}

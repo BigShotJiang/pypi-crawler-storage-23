@@ -1,11 +1,11 @@
 {
   "name": "gh-inspector",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A CLI tool using gh to rapidly locate and inspect files in remote GitHub repositories without cloning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gh_inspector-0.3.0.tar.gz",
-  "download_time": "2026-03-05T22:42:42.356319",
+  "download_filename": "gh_inspector-0.4.0.tar.gz",
+  "download_time": "2026-03-06T10:00:29.549931",
   "package_url": "https://pypi.org/project/gh-inspector/"
 }

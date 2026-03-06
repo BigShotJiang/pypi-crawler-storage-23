@@ -1,0 +1,11 @@
+{
+  "name": "open-stock-data",
+  "version": "0.1.0",
+  "summary": "Core library for stock/crypto data with multi-source failover",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_stock_data-0.1.0.tar.gz",
+  "download_time": "2026-03-06T10:00:22.422789",
+  "package_url": "https://pypi.org/project/open-stock-data/"
+}

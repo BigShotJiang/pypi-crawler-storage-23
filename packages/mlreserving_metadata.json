@@ -1,11 +1,11 @@
 {
   "name": "mlreserving",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Model-agnostic Probabilistic Machine Learning Reserving",
   "author": "T. Moudiki",
   "license": null,
   "home_page": "https://github.com/Techtonique/mlreserving",
-  "download_filename": "mlreserving-0.3.2.tar.gz",
-  "download_time": "2026-03-01T15:48:25.234152",
+  "download_filename": "mlreserving-0.4.0.tar.gz",
+  "download_time": "2026-03-06T10:00:15.216851",
   "package_url": "https://pypi.org/project/mlreserving/"
 }

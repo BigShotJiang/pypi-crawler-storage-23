@@ -1,11 +1,11 @@
 {
   "name": "pydantypes",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "The missing types for Pydantic — cloud, DevOps, web, and data engineering.",
   "author": "Oliver Borchers",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantypes-1.0.1.tar.gz",
-  "download_time": "2026-03-02T08:03:08.259205",
+  "download_filename": "pydantypes-1.1.0.tar.gz",
+  "download_time": "2026-03-06T10:00:54.786900",
   "package_url": "https://pypi.org/project/pydantypes/"
 }

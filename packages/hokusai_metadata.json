@@ -1,0 +1,11 @@
+{
+  "name": "hokusai",
+  "version": "3.3.0",
+  "summary": "Artsy Docker development toolkit",
+  "author": "Isac Petruzzi",
+  "license": "MIT",
+  "home_page": "http://github.com/artsy/hokusai",
+  "download_filename": "hokusai-3.3.0.tar.gz",
+  "download_time": "2026-03-06T10:01:04.103144",
+  "package_url": "https://pypi.org/project/hokusai/"
+}

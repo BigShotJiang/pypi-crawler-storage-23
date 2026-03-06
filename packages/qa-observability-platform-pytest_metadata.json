@@ -1,0 +1,11 @@
+{
+  "name": "qa-observability-platform-pytest",
+  "version": "1.0.0",
+  "summary": "QOP Pytest reporter - Real-time test observability with WebSocket streaming",
+  "author": "QOP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qa_observability_platform_pytest-1.0.0.tar.gz",
+  "download_time": "2026-03-06T10:00:17.911561",
+  "package_url": "https://pypi.org/project/qa-observability-platform-pytest/"
+}

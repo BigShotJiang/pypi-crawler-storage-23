@@ -1,0 +1,11 @@
+{
+  "name": "telecom-mcp",
+  "version": "0.1.4",
+  "summary": "Model Context Protocol server for telecom observability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telecom_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-06T10:00:50.911949",
+  "package_url": "https://pypi.org/project/telecom-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keboola.component",
+  "version": "1.9.4",
+  "summary": "General library for Python applications running in Keboola Connection environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keboola_component-1.9.4.tar.gz",
+  "download_time": "2026-03-06T10:00:29.012377",
+  "package_url": "https://pypi.org/project/keboola.component/"
+}
