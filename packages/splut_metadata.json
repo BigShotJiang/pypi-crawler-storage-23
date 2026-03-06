@@ -1,0 +1,11 @@
+{
+  "name": "splut",
+  "version": "28",
+  "summary": "Actor model for Python",
+  "author": "foyono",
+  "license": null,
+  "home_page": "https://pypi.org/project/splut/",
+  "download_filename": "splut-28.tar.gz",
+  "download_time": "2026-03-06T22:59:40.315136",
+  "package_url": "https://pypi.org/project/splut/"
+}

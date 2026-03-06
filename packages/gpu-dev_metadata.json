@@ -1,11 +1,11 @@
 {
   "name": "gpu-dev",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "CLI tool for PyTorch GPU developer server reservations",
   "author": "PyTorch Team",
   "license": null,
   "home_page": null,
-  "download_filename": "gpu_dev-0.3.8.tar.gz",
-  "download_time": "2026-03-06T19:16:31.521120",
+  "download_filename": "gpu_dev-0.3.9.tar.gz",
+  "download_time": "2026-03-06T22:59:44.648210",
   "package_url": "https://pypi.org/project/gpu-dev/"
 }

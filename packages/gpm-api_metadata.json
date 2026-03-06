@@ -1,0 +1,11 @@
+{
+  "name": "gpm-api",
+  "version": "0.4.0",
+  "summary": "Python Package for the Global Precipitation Measurement (GPM) Mission Data Archive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpm_api-0.4.0.tar.gz",
+  "download_time": "2026-03-06T22:59:33.441084",
+  "package_url": "https://pypi.org/project/gpm-api/"
+}

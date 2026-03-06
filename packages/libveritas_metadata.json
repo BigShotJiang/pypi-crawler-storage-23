@@ -1,11 +1,11 @@
 {
   "name": "libveritas",
-  "version": "0.0.0.dev20260306204058",
+  "version": "0.0.0.dev20260306224722",
   "summary": "Stateless verification for Bitcoin handles using the Spaces protocol",
   "author": "spacesprotocol",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "libveritas-0.0.0.dev20260306204058-py3-none-win_amd64.whl",
-  "download_time": "2026-03-06T21:00:18.546232",
+  "download_filename": "libveritas-0.0.0.dev20260306224722-py3-none-win_amd64.whl",
+  "download_time": "2026-03-06T22:59:13.885841",
   "package_url": "https://pypi.org/project/libveritas/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sage-solver-core",
+  "version": "0.1.1",
+  "summary": "SAGE core engine — solver wrappers, model building, file I/O, and result explanation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sage_solver_core-0.1.1.tar.gz",
+  "download_time": "2026-03-06T22:59:17.017865",
+  "package_url": "https://pypi.org/project/sage-solver-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blocks-agent",
+  "version": "0.1.0",
+  "summary": "AI coding agent with ReAct pattern and tool calling.",
+  "author": "BlocksOrg",
+  "license": "AGPL",
+  "home_page": "https://github.com/BlocksOrg/react-agent",
+  "download_filename": "blocks_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-06T22:59:43.598275",
+  "package_url": "https://pypi.org/project/blocks-agent/"
+}

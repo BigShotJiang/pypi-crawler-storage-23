@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-sesv2",
+  "version": "1.42.63",
+  "summary": "Type annotations for boto3 SESV2 1.42.63 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_sesv2-1.42.63.tar.gz",
+  "download_time": "2026-03-06T22:59:22.881726",
+  "package_url": "https://pypi.org/project/mypy-boto3-sesv2/"
+}

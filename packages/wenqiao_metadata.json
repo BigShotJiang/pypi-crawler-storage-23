@@ -1,0 +1,11 @@
+{
+  "name": "wenqiao",
+  "version": "0.1.0",
+  "summary": "Wenqiao (文桥): Markdown as the canonical source for academic writing / 以 Markdown 为唯一真源的学术写作工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wenqiao-0.1.0.tar.gz",
+  "download_time": "2026-03-06T22:59:38.747175",
+  "package_url": "https://pypi.org/project/wenqiao/"
+}

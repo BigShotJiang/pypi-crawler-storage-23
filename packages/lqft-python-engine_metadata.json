@@ -1,11 +1,11 @@
 {
   "name": "lqft-python-engine",
-  "version": "1.0.9",
-  "summary": "LQFT Engine: native C extension with bounded-depth lookups and structural sharing",
+  "version": "1.1.6",
+  "summary": "LQFT Engine: native C extension exposing LQFT and MutableLQFT with improved mutable and native-backed performance",
   "author": "Parjad Minooei",
   "license": "MIT",
   "home_page": "https://github.com/ParjadM/Log-Quantum-Fractal-Tree-LQFT-",
-  "download_filename": "lqft_python_engine-1.0.9.tar.gz",
-  "download_time": "2026-03-06T15:59:15.490138",
+  "download_filename": "lqft_python_engine-1.1.6.tar.gz",
+  "download_time": "2026-03-06T22:59:15.452517",
   "package_url": "https://pypi.org/project/lqft-python-engine/"
 }

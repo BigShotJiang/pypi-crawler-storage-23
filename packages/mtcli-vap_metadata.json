@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-vap",
+  "version": "1.2.2",
+  "summary": "Plugin mtcli do Volume At Price",
+  "author": "Valmir França",
+  "license": null,
+  "home_page": "https://github.com/vfranca/mtcli-vap",
+  "download_filename": "mtcli_vap-1.2.2.tar.gz",
+  "download_time": "2026-03-06T22:59:06.517932",
+  "package_url": "https://pypi.org/project/mtcli-vap/"
+}
