@@ -1,11 +1,11 @@
 {
   "name": "warn-scraper",
-  "version": "1.2.139",
+  "version": "1.2.141",
   "summary": "Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs from state government websites",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warn_scraper-1.2.139.tar.gz",
-  "download_time": "2026-02-22T21:47:06.251503",
+  "download_filename": "warn_scraper-1.2.141.tar.gz",
+  "download_time": "2026-03-06T23:24:58.280356",
   "package_url": "https://pypi.org/project/warn-scraper/"
 }

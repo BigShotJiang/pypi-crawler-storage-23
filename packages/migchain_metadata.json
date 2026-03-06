@@ -1,0 +1,11 @@
+{
+  "name": "migchain",
+  "version": "2.0.1",
+  "summary": "Database migration management tool with dependency graph analysis, phased execution, and batch tracking for yoyo-migrations",
+  "author": "AlanLatte",
+  "license": null,
+  "home_page": null,
+  "download_filename": "migchain-2.0.1.tar.gz",
+  "download_time": "2026-03-06T23:25:06.013457",
+  "package_url": "https://pypi.org/project/migchain/"
+}

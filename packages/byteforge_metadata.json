@@ -1,11 +1,11 @@
 {
   "name": "byteforge",
-  "version": "0.1.0",
+  "version": "0.0.5",
   "summary": "Encode and decode numbers as unsigned integer bit patterns",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "byteforge-0.1.0.tar.gz",
-  "download_time": "2026-03-06T04:32:37.888192",
+  "download_filename": "byteforge-0.0.5.tar.gz",
+  "download_time": "2026-03-06T23:24:57.746816",
   "package_url": "https://pypi.org/project/byteforge/"
 }

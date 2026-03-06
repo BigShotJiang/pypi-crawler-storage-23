@@ -1,11 +1,11 @@
 {
   "name": "sleap-nn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Neural network backend for training and inference for animal pose estimation.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "sleap_nn-0.1.1-py3-none-any.whl",
-  "download_time": "2026-03-05T01:15:12.056406",
+  "download_filename": "sleap_nn-0.1.2-py3-none-any.whl",
+  "download_time": "2026-03-06T23:24:49.485899",
   "package_url": "https://pypi.org/project/sleap-nn/"
 }

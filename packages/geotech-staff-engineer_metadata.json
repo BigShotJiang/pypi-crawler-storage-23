@@ -1,11 +1,11 @@
 {
   "name": "geotech-staff-engineer",
-  "version": "3.5.0",
+  "version": "3.7.0",
   "summary": "Python toolkit for LLM-based geotechnical engineering agents — 37 analysis modules covering foundations, piles, slopes, seismic, FEM, PDF/DXF import, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geotech_staff_engineer-3.5.0.tar.gz",
-  "download_time": "2026-03-05T01:14:53.513524",
+  "download_filename": "geotech_staff_engineer-3.7.0.tar.gz",
+  "download_time": "2026-03-06T23:25:08.590115",
   "package_url": "https://pypi.org/project/geotech-staff-engineer/"
 }

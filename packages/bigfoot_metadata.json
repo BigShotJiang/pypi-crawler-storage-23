@@ -1,11 +1,11 @@
 {
   "name": "bigfoot",
-  "version": "0.5.0",
-  "summary": "A pluggable interaction auditor for Python tests.",
+  "version": "0.10.1",
+  "summary": "Every call recorded. Every field asserted. Zero guesswork.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bigfoot-0.5.0.tar.gz",
-  "download_time": "2026-03-06T07:57:09.204858",
+  "download_filename": "bigfoot-0.10.1.tar.gz",
+  "download_time": "2026-03-06T23:24:47.418435",
   "package_url": "https://pypi.org/project/bigfoot/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rusty-bacnet",
-  "version": "0.5.4",
+  "version": "0.6.2",
   "summary": "Python bindings for the Rusty BACnet protocol stack (ASHRAE 135-2020)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusty_bacnet-0.5.4-cp311-cp311-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-06T02:56:36.347843",
+  "download_filename": "rusty_bacnet-0.6.2.tar.gz",
+  "download_time": "2026-03-06T23:24:55.679780",
   "package_url": "https://pypi.org/project/rusty-bacnet/"
 }

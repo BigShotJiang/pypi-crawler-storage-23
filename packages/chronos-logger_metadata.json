@@ -1,11 +1,11 @@
 {
   "name": "chronos-logger",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chronos_logger-0.5.0.tar.gz",
-  "download_time": "2026-03-05T01:14:58.243849",
+  "download_filename": "chronos_logger-0.7.0.tar.gz",
+  "download_time": "2026-03-06T23:25:01.884374",
   "package_url": "https://pypi.org/project/chronos-logger/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agent-skills-installer",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Copy agent skills from git repos into local directories for coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_skills_installer-0.1.1.tar.gz",
-  "download_time": "2026-03-06T22:59:00.269577",
+  "download_filename": "agent_skills_installer-0.2.0.tar.gz",
+  "download_time": "2026-03-06T23:25:27.788584",
   "package_url": "https://pypi.org/project/agent-skills-installer/"
 }

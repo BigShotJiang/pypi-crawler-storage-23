@@ -1,0 +1,11 @@
+{
+  "name": "codeboard",
+  "version": "0.1.1",
+  "summary": "Git repository dashboard for your local codebase",
+  "author": "Shaoyi Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeboard-0.1.1.tar.gz",
+  "download_time": "2026-03-06T23:25:08.076226",
+  "package_url": "https://pypi.org/project/codeboard/"
+}
