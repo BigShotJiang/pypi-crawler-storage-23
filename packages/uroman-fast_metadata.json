@@ -1,0 +1,11 @@
+{
+  "name": "uroman-fast",
+  "version": "0.1.0b0",
+  "summary": "Fast Python wrapper for uroman-rs universal romanizer",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/YOUR_USERNAME/uroman-fast",
+  "download_filename": "uroman_fast-0.1.0b0.tar.gz",
+  "download_time": "2026-03-06T15:59:58.743828",
+  "package_url": "https://pypi.org/project/uroman-fast/"
+}

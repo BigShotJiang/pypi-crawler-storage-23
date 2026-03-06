@@ -1,0 +1,11 @@
+{
+  "name": "datops-agent-sdk",
+  "version": "0.1.1",
+  "summary": "Drop-in trust enforcement for AI agent frameworks — LangChain, CrewAI, OpenAI, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datops_agent_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-06T15:59:18.391833",
+  "package_url": "https://pypi.org/project/datops-agent-sdk/"
+}

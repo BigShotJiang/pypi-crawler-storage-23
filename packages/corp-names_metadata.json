@@ -1,11 +1,11 @@
 {
   "name": "corp-names",
-  "version": "0.2.1",
-  "summary": "Person name normalization: strip titles, suffixes, resolve nicknames to canonical forms",
+  "version": "0.3.0",
+  "summary": "Person and company name normalization: strip titles, suffixes, legal forms, resolve nicknames to canonical forms",
   "author": "Neil Ellis",
   "license": null,
   "home_page": null,
-  "download_filename": "corp_names-0.2.1.tar.gz",
-  "download_time": "2026-03-06T14:28:11.030448",
+  "download_filename": "corp_names-0.3.0.tar.gz",
+  "download_time": "2026-03-06T15:59:52.632040",
   "package_url": "https://pypi.org/project/corp-names/"
 }

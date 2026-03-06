@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-mlx",
+  "version": "0.1.4",
+  "summary": "Audio transcription CLI using MLX Whisper",
+  "author": "Felipe Infantino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transcribe_mlx-0.1.4.tar.gz",
+  "download_time": "2026-03-06T15:59:25.646142",
+  "package_url": "https://pypi.org/project/transcribe-mlx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "octorules-wirefilter",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Wirefilter expression parser FFI bindings for octorules",
   "author": "Martin Simon, Doctena S.A.",
   "license": null,
   "home_page": "https://github.com/doctena-org/octorules-wirefilter",
-  "download_filename": "octorules_wirefilter-0.3.0.tar.gz",
-  "download_time": "2026-03-06T11:06:13.642123",
+  "download_filename": "octorules_wirefilter-0.3.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-06T15:59:26.201306",
   "package_url": "https://pypi.org/project/octorules-wirefilter/"
 }

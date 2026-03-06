@@ -1,11 +1,11 @@
 {
   "name": "fenix-mcp",
-  "version": "2.12.0",
+  "version": "2.13.0",
   "summary": "Fênix Cloud MCP server implemented in Python",
   "author": "Fenix Inc",
   "license": null,
   "home_page": null,
-  "download_filename": "fenix_mcp-2.12.0.tar.gz",
-  "download_time": "2026-03-06T13:47:03.622831",
+  "download_filename": "fenix_mcp-2.13.0.tar.gz",
+  "download_time": "2026-03-06T15:59:12.199092",
   "package_url": "https://pypi.org/project/fenix-mcp/"
 }

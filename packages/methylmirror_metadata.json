@@ -1,0 +1,11 @@
+{
+  "name": "methylmirror",
+  "version": "0.1.0",
+  "summary": "Deep-learning and analysis toolkit for DNA methylation modification workflows",
+  "author": "MethylMirror Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "methylmirror-0.1.0.tar.gz",
+  "download_time": "2026-03-06T15:59:41.533351",
+  "package_url": "https://pypi.org/project/methylmirror/"
+}

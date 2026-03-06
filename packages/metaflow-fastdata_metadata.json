@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-fastdata",
+  "version": "0.1.0.dev0",
+  "summary": "Metaflow FastData - OSS high-performance data access for Hive/Iceberg tables",
+  "author": "Netflix Metaflow Developers",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "metaflow_fastdata-0.1.0.dev0.tar.gz",
+  "download_time": "2026-03-06T15:59:57.651277",
+  "package_url": "https://pypi.org/project/metaflow-fastdata/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xmas-app",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "summary": "The XLeitstelle model-driven application schema app.",
   "author": "Tobias Kraft",
   "license": "EUPL-1.2-or-later",
   "home_page": null,
-  "download_filename": "xmas_app-0.17.1.tar.gz",
-  "download_time": "2026-03-05T08:35:28.606780",
+  "download_filename": "xmas_app-0.17.2.tar.gz",
+  "download_time": "2026-03-06T15:59:59.291921",
   "package_url": "https://pypi.org/project/xmas-app/"
 }

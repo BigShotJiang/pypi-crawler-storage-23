@@ -1,0 +1,11 @@
+{
+  "name": "staramr",
+  "version": "0.12.1",
+  "summary": "Scans genome contigs against ResFinder, PlasmidFinder, and PointFinder databases",
+  "author": "Aaron Petkau",
+  "license": "Apache v2.0",
+  "home_page": "https://github.com/phac-nml/staramr",
+  "download_filename": "staramr-0.12.1.tar.gz",
+  "download_time": "2026-03-06T15:59:41.003394",
+  "package_url": "https://pypi.org/project/staramr/"
+}
