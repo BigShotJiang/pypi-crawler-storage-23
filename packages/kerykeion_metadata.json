@@ -1,11 +1,11 @@
 {
   "name": "kerykeion",
-  "version": "5.10.1",
+  "version": "5.11.1",
   "summary": "A Python library for astrological calculations, including natal charts, houses, planetary aspects, and SVG chart generation.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "kerykeion-5.10.1.tar.gz",
-  "download_time": "2026-03-02T11:48:47.479725",
+  "download_filename": "kerykeion-5.11.1.tar.gz",
+  "download_time": "2026-03-06T12:04:12.721311",
   "package_url": "https://pypi.org/project/kerykeion/"
 }

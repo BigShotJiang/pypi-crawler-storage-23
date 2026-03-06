@@ -1,11 +1,11 @@
 {
   "name": "plexe",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "summary": "An agentic framework for building ML models from natural language",
   "author": "Marcello De Bernardi",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "plexe-1.4.2.tar.gz",
-  "download_time": "2026-03-03T01:15:02.097305",
+  "download_filename": "plexe-1.4.4.tar.gz",
+  "download_time": "2026-03-06T12:04:26.499337",
   "package_url": "https://pypi.org/project/plexe/"
 }

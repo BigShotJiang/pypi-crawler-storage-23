@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-06T11:39:41.142727
-- **Total Packages**: 96
-- **Total Size**: 58.45 MB
+- **Download Time**: 2026-03-06T12:04:59.443212
+- **Total Packages**: 94
+- **Total Size**: 15.27 MB
 
 ## Packages List
+- fyle-integrations-platform-connector
+- fastapi-domain-monitor
+- http2py
+- TofuByte
+- django-email-learning
+- nordea-analytics
+- pysear
+- axm-memory
+- axm-corpus
+- axm-knowledge
+- ravendb-test-driver
+- llama-index-vector-stores-yugabytedb
+- axm-hub
+- axm-office
+- axm-forge
+- llama-index-vector-stores-lantern
+- massscriber
+- kerykeion
+- pybiolib
+- mflux
+- riszotto
+- jcodemunch-cli
+- censo
+- mnase-classifier
+- AMR
+- codeapi-client
+- xaitimesynth
+- mrok
+- LilDB
+- tcheckerpy
+- mip-data-validator
+- mosaic-search
+- edri
+- cascade-lattice
+- devlife-quotes
+- stormlog
+- netbox-cesnet-services-plugin
+- modelmux
+- plexe
+- gisolate
+- dextrusion
+- storypy
+- responseiq
+- odoo-addon-l10n-it-edi-sender-partner
+- veltix
+- llms-dev
 - ansys-systemcoupling-core
 - corio
 - pytket
@@ -47,7 +93,6 @@
 - reviewd
 - langchain-arabic
 - stefano-pytgvoip
-- fitz-bundle-abhimanyu
 - lfp-types
 - liger-kernel-nightly
 - dorian-astro
@@ -55,50 +100,3 @@
 - alberta-framework
 - aframexr
 - blockapi
-- tilebox-datasets
-- medimgkit
-- tilebox-workflows
-- toolforge-weld
-- tilebox-storage
-- tilebox-grpc
-- fastapi-domain-monitor
-- asknews
-- audiotown
-- tp-shared
-- fere-sdk
-- biomdp
-- invisibles-py
-- torchx-nightly
-- nvidia-nat-ragaai
-- lazurite
-- lodu-code
-- mcpzoo-cot
-- nvidia-nat-test
-- mcpzoo-classify-prompt
-- mcpzoo-cidr
-- mcpzoo-calc
-- mcpzoo-base64
-- local-moonie
-- datashare-python
-- cornerdatastore-mcp
-- CondenSimAdapter
-- torchft-nightly
-- sequential-shap-explainer
-- inconvo
-- dcert
-- tiktok-autoreup-core
-- pigclasspyn
-- mssql-django
-- django-email-learning
-- varicon-observability
-- ert
-- module-qc-database-tools
-- gradium
-- gabm
-- snail-tech-mcp
-- cesnet-service-path-plugin
-- pkgconfig
-- devils-advocate
-- pixell-sdk
-- rsf
-- torch-named-linops

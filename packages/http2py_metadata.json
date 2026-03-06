@@ -1,0 +1,11 @@
+{
+  "name": "http2py",
+  "version": "0.1.31",
+  "summary": "Tools to create python binders to http web services.",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://github.com/i2mint/http2py",
+  "download_filename": "http2py-0.1.31.tar.gz",
+  "download_time": "2026-03-06T12:04:01.661798",
+  "package_url": "https://pypi.org/project/http2py/"
+}

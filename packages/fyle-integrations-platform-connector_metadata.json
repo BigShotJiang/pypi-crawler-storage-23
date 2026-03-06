@@ -1,0 +1,11 @@
+{
+  "name": "fyle-integrations-platform-connector",
+  "version": "2.9.1",
+  "summary": "A common platform connector for all the Fyle Integrations to interact with Fyle Platform APIs",
+  "author": "Shwetabh Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/fylein/fyle-integrations-platform-connector",
+  "download_filename": "fyle_integrations_platform_connector-2.9.1.tar.gz",
+  "download_time": "2026-03-06T12:04:00.357855",
+  "package_url": "https://pypi.org/project/fyle-integrations-platform-connector/"
+}

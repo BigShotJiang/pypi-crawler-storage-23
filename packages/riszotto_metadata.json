@@ -1,0 +1,11 @@
+{
+  "name": "riszotto",
+  "version": "0.1.0",
+  "summary": "CLI tool for searching and reading papers from a local Zotero library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "riszotto-0.1.0.tar.gz",
+  "download_time": "2026-03-06T12:04:14.689998",
+  "package_url": "https://pypi.org/project/riszotto/"
+}
