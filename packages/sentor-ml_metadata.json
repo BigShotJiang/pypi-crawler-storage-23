@@ -1,0 +1,11 @@
+{
+  "name": "sentor-ml",
+  "version": "1.5.0",
+  "summary": "A Python SDK for interacting with the Sentor ML API for sentiment analysis",
+  "author": "NIKX Technologies",
+  "license": null,
+  "home_page": "https://github.com/NIKX-Tech/sentor-ml-python-sdk",
+  "download_filename": "sentor_ml-1.5.0.tar.gz",
+  "download_time": "2026-03-06T02:56:40.038461",
+  "package_url": "https://pypi.org/project/sentor-ml/"
+}

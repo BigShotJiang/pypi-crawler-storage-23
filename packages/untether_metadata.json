@@ -1,11 +1,11 @@
 {
   "name": "untether",
-  "version": "0.27.0",
-  "summary": "Run AI coding agents from your phone. Bridges Claude Code, Codex, OpenCode, and Pi to Telegram with interactive permissions, voice notes, and live progress.",
+  "version": "0.32.0",
+  "summary": "Run AI coding agents from your phone. Bridges Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp to Telegram with interactive permissions, voice input, cost tracking, and live progress.",
   "author": "Little Bear Apps",
   "license": null,
   "home_page": null,
-  "download_filename": "untether-0.27.0.tar.gz",
-  "download_time": "2026-03-01T10:21:11.123783",
+  "download_filename": "untether-0.32.0.tar.gz",
+  "download_time": "2026-03-06T02:57:15.970337",
   "package_url": "https://pypi.org/project/untether/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapis-requests",
+  "version": "2.32.5",
+  "summary": "Python HTTP for Humans.",
+  "author": "Andrew Walker",
+  "license": null,
+  "home_page": "https://requests.readthedocs.io",
+  "download_filename": "fastapis_requests-2.32.5.tar.gz",
+  "download_time": "2026-03-06T02:57:22.266787",
+  "package_url": "https://pypi.org/project/fastapis-requests/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "numpygrad",
+  "version": "0.1.0",
+  "summary": "A NumPy-only autograd and neural network library with a PyTorch-like API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numpygrad-0.1.0.tar.gz",
+  "download_time": "2026-03-06T02:56:57.435542",
+  "package_url": "https://pypi.org/project/numpygrad/"
+}

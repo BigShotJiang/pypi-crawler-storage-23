@@ -1,11 +1,11 @@
 {
   "name": "mineralML",
-  "version": "0.0.3.1",
+  "version": "0.0.3.3",
   "summary": "mineralML",
   "author": "Sarah C. Shi",
   "license": null,
   "home_page": "https://github.com/sarahshi/mineralML",
-  "download_filename": "mineralml-0.0.3.1.tar.gz",
-  "download_time": "2026-02-28T23:16:57.310225",
+  "download_filename": "mineralml-0.0.3.3.tar.gz",
+  "download_time": "2026-03-06T02:56:41.139813",
   "package_url": "https://pypi.org/project/mineralML/"
 }

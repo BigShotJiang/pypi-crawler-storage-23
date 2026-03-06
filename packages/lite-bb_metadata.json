@@ -1,0 +1,11 @@
+{
+  "name": "lite-bb",
+  "version": "0.1.6",
+  "summary": "A gh-style CLI for Bitbucket — PR management for humans, scripts, and LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lite_bb-0.1.6.tar.gz",
+  "download_time": "2026-03-06T02:56:42.192852",
+  "package_url": "https://pypi.org/project/lite-bb/"
+}

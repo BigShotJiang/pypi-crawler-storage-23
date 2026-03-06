@@ -1,0 +1,11 @@
+{
+  "name": "owl-proxy",
+  "version": "0.1.0",
+  "summary": "MITM proxy with CA certificate management - server, client, and certificate tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owl_proxy-0.1.0.tar.gz",
+  "download_time": "2026-03-06T02:57:10.163800",
+  "package_url": "https://pypi.org/project/owl-proxy/"
+}

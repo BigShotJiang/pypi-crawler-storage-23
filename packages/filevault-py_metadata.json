@@ -1,0 +1,11 @@
+{
+  "name": "filevault-py",
+  "version": "1.0.1",
+  "summary": "Encrypt and decrypt files in place using AES-256-GCM and a password. No new files are created.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filevault_py-1.0.1.tar.gz",
+  "download_time": "2026-03-06T02:56:52.199577",
+  "package_url": "https://pypi.org/project/filevault-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ptipython-metapackage",
+  "version": "2.11.0",
+  "summary": "ptipython metapackage",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ptipython_metapackage-2.11.0.tar.gz",
+  "download_time": "2026-03-06T02:56:53.240290",
+  "package_url": "https://pypi.org/project/ptipython-metapackage/"
+}

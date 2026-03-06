@@ -1,0 +1,11 @@
+{
+  "name": "goes-mcp",
+  "version": "0.1.2",
+  "summary": "NOAA GOES satellite imagery via STAR CDN — visible, infrared, and water vapor images from GOES-18/19",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "goes_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-06T02:57:03.811876",
+  "package_url": "https://pypi.org/project/goes-mcp/"
+}

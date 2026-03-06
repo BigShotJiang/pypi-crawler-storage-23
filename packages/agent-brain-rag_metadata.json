@@ -1,0 +1,11 @@
+{
+  "name": "agent-brain-rag",
+  "version": "7.0.0",
+  "summary": "Agent Brain RAG - Intelligent document indexing and semantic search server that gives AI agents long-term memory",
+  "author": "Spillwave Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/SpillwaveSolutions/agent-brain",
+  "download_filename": "agent_brain_rag-7.0.0.tar.gz",
+  "download_time": "2026-03-06T02:57:16.490705",
+  "package_url": "https://pypi.org/project/agent-brain-rag/"
+}
