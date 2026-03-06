@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ssd1677",
+  "version": "1.0.0",
+  "summary": "CircuitPython `displayio` driver for SSD1677-based ePaper displays",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ssd1677-1.0.0.tar.gz",
+  "download_time": "2026-03-06T16:46:02.376115",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ssd1677/"
+}

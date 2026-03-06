@@ -1,0 +1,11 @@
+{
+  "name": "dfjimu",
+  "version": "0.3.0",
+  "summary": "Drift-free IMU-based joint kinematics estimation (Weygers & Kok, 2020)",
+  "author": "Daniel Oliver Martin Weber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dfjimu-0.3.0.tar.gz",
+  "download_time": "2026-03-06T16:45:36.928857",
+  "package_url": "https://pypi.org/project/dfjimu/"
+}

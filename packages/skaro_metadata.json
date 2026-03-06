@@ -1,11 +1,11 @@
 {
   "name": "skaro",
-  "version": "0.1.26",
+  "version": "0.2.0",
   "summary": "AI-powered SDLC orchestration platform",
   "author": "Skaro Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "skaro-0.1.26.tar.gz",
-  "download_time": "2026-03-05T15:40:11.546363",
+  "download_filename": "skaro-0.2.0.tar.gz",
+  "download_time": "2026-03-06T16:45:31.971548",
   "package_url": "https://pypi.org/project/skaro/"
 }

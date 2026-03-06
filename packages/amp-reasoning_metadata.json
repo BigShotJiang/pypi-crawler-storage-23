@@ -1,0 +1,11 @@
+{
+  "name": "amp-reasoning",
+  "version": "0.1.1",
+  "summary": "Two AIs argue. You get a better answer. Multi-agent emergent reasoning engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amp_reasoning-0.1.1.tar.gz",
+  "download_time": "2026-03-06T16:45:26.778736",
+  "package_url": "https://pypi.org/project/amp-reasoning/"
+}

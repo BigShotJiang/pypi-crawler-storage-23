@@ -1,0 +1,11 @@
+{
+  "name": "xchem-frag",
+  "version": "1.2.0",
+  "summary": "Library for fragment based analysis",
+  "author": "Max Winokan",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/xchem/frag.git",
+  "download_filename": "xchem_frag-1.2.0.tar.gz",
+  "download_time": "2026-03-06T16:45:59.803123",
+  "package_url": "https://pypi.org/project/xchem-frag/"
+}

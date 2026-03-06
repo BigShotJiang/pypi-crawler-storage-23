@@ -1,11 +1,11 @@
 {
   "name": "pigeon-tem-comms",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "summary": "Pigeon messages for the next generation TEM imaging system.",
   "author": null,
   "license": "BSD 3 Clause",
   "home_page": null,
-  "download_filename": "pigeon_tem_comms-2.1.4.tar.gz",
-  "download_time": "2026-02-25T16:50:06.448792",
+  "download_filename": "pigeon_tem_comms-2.2.0.tar.gz",
+  "download_time": "2026-03-06T16:45:24.083738",
   "package_url": "https://pypi.org/project/pigeon-tem-comms/"
 }

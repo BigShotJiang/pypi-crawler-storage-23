@@ -1,0 +1,11 @@
+{
+  "name": "pyoptima",
+  "version": "0.0.8",
+  "summary": "Portfolio optimization with a sklearn-style API and config-driven workflows. Multiple objectives, constraints, and solvers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoptima-0.0.8.tar.gz",
+  "download_time": "2026-03-06T16:45:34.533166",
+  "package_url": "https://pypi.org/project/pyoptima/"
+}

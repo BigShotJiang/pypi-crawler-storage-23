@@ -1,0 +1,11 @@
+{
+  "name": "cylinder",
+  "version": "0.1.0",
+  "summary": "A web application micro framework based werkzeug",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cylinder-0.1.0.tar.gz",
+  "download_time": "2026-03-06T16:45:59.291973",
+  "package_url": "https://pypi.org/project/cylinder/"
+}
