@@ -1,0 +1,11 @@
+{
+  "name": "dof-sdk",
+  "version": "0.1.0",
+  "summary": "Deterministic Observability Framework — formal governance for multi-agent LLM systems",
+  "author": "Juan Carlos Quiceno Vasquez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dof_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-06T13:47:05.690152",
+  "package_url": "https://pypi.org/project/dof-sdk/"
+}

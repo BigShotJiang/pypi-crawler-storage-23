@@ -1,0 +1,11 @@
+{
+  "name": "extrator-xml-fiscal",
+  "version": "1.1.0",
+  "summary": "Biblioteca para extrair dados de documentos fiscais XML",
+  "author": "luizelias8",
+  "license": "MIT",
+  "home_page": "https://github.com/luizelias8/extrator-xml-fiscal",
+  "download_filename": "extrator_xml_fiscal-1.1.0.tar.gz",
+  "download_time": "2026-03-06T13:47:20.560975",
+  "package_url": "https://pypi.org/project/extrator-xml-fiscal/"
+}

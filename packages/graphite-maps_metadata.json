@@ -1,0 +1,11 @@
+{
+  "name": "graphite-maps",
+  "version": "0.0.7",
+  "summary": "Ensemble based data assimilation learning graph informed triangular ensemble-to-posterior transport maps from data",
+  "author": "Berent Lunde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphite_maps-0.0.7-cp311-cp311-macosx_10_9_x86_64.macosx_15_0_arm64.whl",
+  "download_time": "2026-03-06T13:47:00.535801",
+  "package_url": "https://pypi.org/project/graphite-maps/"
+}

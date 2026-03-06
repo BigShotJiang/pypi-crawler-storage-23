@@ -1,0 +1,11 @@
+{
+  "name": "polyglot-gpu",
+  "version": "1.0.4",
+  "summary": "Local GPU translation Python library + MCP server — TranslateGemma via Ollama, 57 languages, zero cloud dependency",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyglot_gpu-1.0.4.tar.gz",
+  "download_time": "2026-03-06T13:46:46.120258",
+  "package_url": "https://pypi.org/project/polyglot-gpu/"
+}

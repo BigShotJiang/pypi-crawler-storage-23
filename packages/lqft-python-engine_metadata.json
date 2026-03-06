@@ -1,11 +1,11 @@
 {
   "name": "lqft-python-engine",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "LQFT Engine: 14.3M Ops/sec O(1) Time | O(Σ) Space Data Structure",
   "author": "Parjad Minooei",
   "license": "MIT",
   "home_page": "https://github.com/ParjadM/Log-Quantum-Fractal-Tree-LQFT-",
-  "download_filename": "lqft_python_engine-1.0.6.tar.gz",
-  "download_time": "2026-03-06T04:32:41.056194",
+  "download_filename": "lqft_python_engine-1.0.7.tar.gz",
+  "download_time": "2026-03-06T13:46:36.032042",
   "package_url": "https://pypi.org/project/lqft-python-engine/"
 }

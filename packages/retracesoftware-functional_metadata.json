@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-functional",
-  "version": "0.3.19",
+  "version": "0.3.21",
   "summary": "High-performance functional utilities implemented as a Python C/C++ extension",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_functional-0.3.19-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-02T15:44:07.329226",
+  "download_filename": "retracesoftware_functional-0.3.21-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-06T13:47:16.985176",
   "package_url": "https://pypi.org/project/retracesoftware-functional/"
 }

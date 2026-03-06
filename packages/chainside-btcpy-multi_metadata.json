@@ -1,0 +1,11 @@
+{
+  "name": "chainside-btcpy-multi",
+  "version": "0.2.83",
+  "summary": "A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion.",
+  "author": "chainside srl",
+  "license": null,
+  "home_page": "https://github.com/bitpanda-labs/btcpy",
+  "download_filename": "chainside_btcpy_multi-0.2.83.tar.gz",
+  "download_time": "2026-03-06T13:46:32.841369",
+  "package_url": "https://pypi.org/project/chainside-btcpy-multi/"
+}

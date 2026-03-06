@@ -1,0 +1,11 @@
+{
+  "name": "fireflyalgorithm",
+  "version": "0.4.7",
+  "summary": "Implementation of Firefly Algorithm in Python",
+  "author": "Iztok Fister Jr.",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/FireflyAlgorithm",
+  "download_filename": "fireflyalgorithm-0.4.7.tar.gz",
+  "download_time": "2026-03-06T13:46:53.321382",
+  "package_url": "https://pypi.org/project/fireflyalgorithm/"
+}

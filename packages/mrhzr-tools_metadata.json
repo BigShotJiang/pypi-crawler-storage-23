@@ -1,11 +1,11 @@
 {
   "name": "mrhzr-tools",
-  "version": "1.0.0",
-  "summary": "習作を兼ねた使い回し用のツール群",
+  "version": "1.1.0",
+  "summary": "習作を兼ねた使い回し用のツール群。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mrhzr_tools-1.0.0.tar.gz",
-  "download_time": "2026-03-06T11:38:51.511761",
+  "download_filename": "mrhzr_tools-1.1.0.tar.gz",
+  "download_time": "2026-03-06T13:47:19.540089",
   "package_url": "https://pypi.org/project/mrhzr-tools/"
 }
