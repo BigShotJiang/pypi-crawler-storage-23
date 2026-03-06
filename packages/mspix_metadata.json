@@ -1,0 +1,11 @@
+{
+  "name": "mspix",
+  "version": "1.0.4",
+  "summary": "Mass spectrometry imaging file format mspix, designed to be an efficient storage and analysis format for mass spectrometry imaging data produced using time-of-flight mass spectrometetry, with an emphasis on being highly space and access-time efficient when working with large numbers (>5 million) of pixels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mspix-1.0.4.tar.gz",
+  "download_time": "2026-03-06T12:47:29.748917",
+  "package_url": "https://pypi.org/project/mspix/"
+}

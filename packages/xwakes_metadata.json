@@ -1,0 +1,11 @@
+{
+  "name": "xwakes",
+  "version": "0.2.8",
+  "summary": "Wake and impedance toolbox",
+  "author": "M. Rognlien, L. Giacomel, D. Amorim, E. Vik, G. Iadarola and N. Mounet",
+  "license": "Apache 2.0",
+  "home_page": "https://xsuite.web.cern.ch/",
+  "download_filename": "xwakes-0.2.8.tar.gz",
+  "download_time": "2026-03-06T12:47:49.269203",
+  "package_url": "https://pypi.org/project/xwakes/"
+}

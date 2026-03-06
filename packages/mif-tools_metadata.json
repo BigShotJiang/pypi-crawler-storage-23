@@ -1,0 +1,11 @@
+{
+  "name": "mif-tools",
+  "version": "0.2.1",
+  "summary": "MIF (Memory Interchange Format) — vendor-neutral memory portability for AI agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mif_tools-0.2.1.tar.gz",
+  "download_time": "2026-03-06T12:47:21.956860",
+  "package_url": "https://pypi.org/project/mif-tools/"
+}

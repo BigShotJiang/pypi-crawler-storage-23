@@ -1,11 +1,11 @@
 {
   "name": "authease",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "Authease is a lightweight and flexible authentication package for Django, offering essential tools for secure user authentication, including JWT support, with minimal setup required.",
   "author": "Oluwaseyi Ajayi",
   "license": null,
   "home_page": "https://github.com/Oluwatemmy/authease",
-  "download_filename": "authease-3.2.1.tar.gz",
-  "download_time": "2026-03-05T14:45:12.388884",
+  "download_filename": "authease-3.2.2.tar.gz",
+  "download_time": "2026-03-06T12:47:19.400905",
   "package_url": "https://pypi.org/project/authease/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langmail",
+  "version": "0.5.0",
+  "summary": "Email preprocessing for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langmail-0.5.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-06T12:47:13.087926",
+  "package_url": "https://pypi.org/project/langmail/"
+}

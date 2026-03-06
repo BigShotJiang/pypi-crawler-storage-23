@@ -1,0 +1,11 @@
+{
+  "name": "generaptor",
+  "version": "15.3.0",
+  "summary": "A generator for Velociraptor-based offline collectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "generaptor-15.3.0-py3-none-any.whl",
+  "download_time": "2026-03-06T12:47:47.220718",
+  "package_url": "https://pypi.org/project/generaptor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-scoring-engine",
-  "version": "0.4.1",
+  "version": "0.7.1",
   "summary": "Scoring engine for MCP server quality assessment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_scoring_engine-0.4.1.tar.gz",
-  "download_time": "2026-03-05T01:14:46.093060",
+  "download_filename": "mcp_scoring_engine-0.7.1.tar.gz",
+  "download_time": "2026-03-06T12:47:44.136960",
   "package_url": "https://pypi.org/project/mcp-scoring-engine/"
 }

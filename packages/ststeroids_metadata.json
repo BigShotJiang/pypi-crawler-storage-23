@@ -1,0 +1,11 @@
+{
+  "name": "ststeroids",
+  "version": "1.0.1",
+  "summary": "A framework supercharging Streamlit for building advanced multi-page applications",
+  "author": "ponsoc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ststeroids-1.0.1.tar.gz",
+  "download_time": "2026-03-06T12:47:49.782342",
+  "package_url": "https://pypi.org/project/ststeroids/"
+}
