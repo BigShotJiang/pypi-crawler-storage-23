@@ -1,11 +1,11 @@
 {
   "name": "pyrestoolbox",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "pyResToolbox - A collection of Reservoir Engineering Utilities",
   "author": "Mark W. Burgoyne",
   "license": "GNU General Public License v3 or later (GPLv3+)",
   "home_page": "https://github.com/mwburgoyne/pyResToolbox",
-  "download_filename": "pyrestoolbox-3.0.2.tar.gz",
-  "download_time": "2026-03-06T04:33:11.420433",
+  "download_filename": "pyrestoolbox-3.0.3.tar.gz",
+  "download_time": "2026-03-06T05:36:19.826073",
   "package_url": "https://pypi.org/project/pyrestoolbox/"
 }

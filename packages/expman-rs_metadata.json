@@ -1,11 +1,11 @@
 {
   "name": "expman-rs",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "High-performance experiment manager with Rust backend",
   "author": null,
   "license": "MIT",
   "home_page": "https://lokeshmohanty.github.io/expman-rs/",
-  "download_filename": "expman_rs-0.3.4.tar.gz",
-  "download_time": "2026-03-06T04:33:00.407815",
+  "download_filename": "expman_rs-0.3.6.tar.gz",
+  "download_time": "2026-03-06T05:36:09.027155",
   "package_url": "https://pypi.org/project/expman-rs/"
 }

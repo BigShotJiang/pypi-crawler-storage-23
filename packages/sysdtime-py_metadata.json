@@ -1,0 +1,11 @@
+{
+  "name": "sysdtime-py",
+  "version": "0.1.2",
+  "summary": "A vibe-coded pure Python implementation for parsing systemd.time(7)",
+  "author": "geckyzz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sysdtime_py-0.1.2.tar.gz",
+  "download_time": "2026-03-06T05:36:26.570403",
+  "package_url": "https://pypi.org/project/sysdtime-py/"
+}

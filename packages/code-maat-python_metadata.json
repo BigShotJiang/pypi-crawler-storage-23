@@ -1,0 +1,11 @@
+{
+  "name": "code-maat-python",
+  "version": "0.1.0",
+  "summary": "Modern Python tool for mining and analyzing version control system data",
+  "author": "Cameron Yick",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "code_maat_python-0.1.0.tar.gz",
+  "download_time": "2026-03-06T05:36:30.700459",
+  "package_url": "https://pypi.org/project/code-maat-python/"
+}
