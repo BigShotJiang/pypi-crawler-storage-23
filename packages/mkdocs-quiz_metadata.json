@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-quiz",
+  "version": "1.6.1",
+  "summary": "A MkDocs plugin to create interactive quizzes in your markdown.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkdocs_quiz-1.6.1.tar.gz",
+  "download_time": "2026-03-06T17:12:23.638455",
+  "package_url": "https://pypi.org/project/mkdocs-quiz/"
+}

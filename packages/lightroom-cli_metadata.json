@@ -1,0 +1,11 @@
+{
+  "name": "lightroom-cli",
+  "version": "1.2.0",
+  "summary": "CLI tool for Adobe Lightroom Classic -- 107 commands for full Lightroom control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightroom_cli-1.2.0.tar.gz",
+  "download_time": "2026-03-06T17:11:47.528613",
+  "package_url": "https://pypi.org/project/lightroom-cli/"
+}

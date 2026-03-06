@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale_timesheet_report_group_invoice_type",
+  "version": "16.0.1.0.0",
+  "summary": "Group timehsheet entries by invoice type on timesheet report.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_sale_timesheet_report_group_invoice_type-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-06T17:11:54.312509",
+  "package_url": "https://pypi.org/project/odoo-addon-sale_timesheet_report_group_invoice_type/"
+}

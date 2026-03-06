@@ -1,11 +1,11 @@
 {
   "name": "odoo-apps-Odoo-Apps-Sale-Workflow",
-  "version": "18.0.20260304.0",
+  "version": "18.0.20260306.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_apps_odoo_apps_sale_workflow-18.0.20260304.0-py3-none-any.whl",
-  "download_time": "2026-03-04T08:32:42.749826",
+  "download_filename": "odoo_apps_odoo_apps_sale_workflow-18.0.20260306.0-py3-none-any.whl",
+  "download_time": "2026-03-06T17:11:53.266668",
   "package_url": "https://pypi.org/project/odoo-apps-Odoo-Apps-Sale-Workflow/"
 }

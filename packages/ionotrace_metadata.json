@@ -1,11 +1,11 @@
 {
   "name": "ionotrace",
-  "version": "0.5.4",
+  "version": "0.5.7",
   "summary": "High-performance ionospheric ray tracing engine — Python bindings for the Rust ionotrace crate",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ionotrace-0.5.4.tar.gz",
-  "download_time": "2026-03-06T16:45:15.276761",
+  "download_filename": "ionotrace-0.5.7.tar.gz",
+  "download_time": "2026-03-06T17:11:49.614264",
   "package_url": "https://pypi.org/project/ionotrace/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyratatui",
+  "version": "0.2.0",
+  "summary": "🚀🍀 PyRatatui — Professional Python bindings for ratatui 0.29 🦀🤩 | 💥🔥 High-performance Rust TUI engine for building rich terminal applications, interactive CLIs, dashboards, and text-based UIs 💯✨",
+  "author": "PyRatatui contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyratatui-0.2.0.tar.gz",
+  "download_time": "2026-03-06T17:12:08.456194",
+  "package_url": "https://pypi.org/project/pyratatui/"
+}

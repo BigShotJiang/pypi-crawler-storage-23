@@ -1,11 +1,11 @@
 {
   "name": "pypkgview",
-  "version": "0.1.10",
+  "version": "0.1.14",
   "summary": "Python package introspection and analysis tool",
   "author": "Azema Shaik",
   "license": null,
   "home_page": null,
-  "download_filename": "pypkgview-0.1.10.tar.gz",
-  "download_time": "2026-03-02T19:54:56.930398",
+  "download_filename": "pypkgview-0.1.14.tar.gz",
+  "download_time": "2026-03-06T17:12:04.807545",
   "package_url": "https://pypi.org/project/pypkgview/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mammos",
+  "version": "0.12.0",
+  "summary": "A multiphyscis simulation suite for magnetic materials.",
+  "author": "Andrea Petrocchi, Swapneel Amit Pathak, Samuel Holt, Martin Lang, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos-0.12.0.tar.gz",
+  "download_time": "2026-03-06T17:11:45.442845",
+  "package_url": "https://pypi.org/project/mammos/"
+}

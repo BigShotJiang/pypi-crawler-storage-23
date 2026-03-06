@@ -1,0 +1,11 @@
+{
+  "name": "scholarly2",
+  "version": "2.0.0",
+  "summary": "Simple access to Google Scholar authors and citations",
+  "author": "Ji Ma",
+  "license": "Unlicense",
+  "home_page": "https://github.com/ma-ji/scholarly2",
+  "download_filename": "scholarly2-2.0.0.tar.gz",
+  "download_time": "2026-03-06T17:12:25.190677",
+  "package_url": "https://pypi.org/project/scholarly2/"
+}
