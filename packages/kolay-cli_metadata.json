@@ -1,11 +1,11 @@
 {
   "name": "kolay-cli",
-  "version": "0.9.1",
+  "version": "0.9.4",
   "summary": "Command-line interface for Kolay IK (https://apidocs.kolayik.com)",
   "author": "Tunc Aucer",
   "license": null,
   "home_page": null,
-  "download_filename": "kolay_cli-0.9.1.tar.gz",
-  "download_time": "2026-03-06T17:58:44.594196",
+  "download_filename": "kolay_cli-0.9.4.tar.gz",
+  "download_time": "2026-03-06T20:27:04.931962",
   "package_url": "https://pypi.org/project/kolay-cli/"
 }

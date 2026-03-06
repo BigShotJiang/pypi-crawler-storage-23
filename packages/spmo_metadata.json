@@ -1,0 +1,11 @@
+{
+  "name": "spmo",
+  "version": "2.0.12",
+  "summary": "SPMO collect some userful python Class And Function",
+  "author": "SpunkMars++",
+  "license": "BSD",
+  "home_page": "https://github.com/spunkmars/spmo",
+  "download_filename": "spmo-2.0.12.tar.gz",
+  "download_time": "2026-03-06T20:27:05.465746",
+  "package_url": "https://pypi.org/project/spmo/"
+}

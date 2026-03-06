@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-wandb",
+  "version": "2.0.4",
+  "summary": "Weights & Biases plugin for Flyte",
+  "author": "Flyte Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_wandb-2.0.4-py3-none-any.whl",
+  "download_time": "2026-03-06T20:26:54.734798",
+  "package_url": "https://pypi.org/project/flyteplugins-wandb/"
+}

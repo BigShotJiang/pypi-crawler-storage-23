@@ -1,0 +1,11 @@
+{
+  "name": "odoo-backup-manager",
+  "version": "1.7.0",
+  "summary": "A comprehensive backup and restore utility for Odoo instances",
+  "author": "Jim Steil",
+  "license": "MIT",
+  "home_page": "https://github.com/jpsteil/odoo-backup-manager",
+  "download_filename": "odoo_backup_manager-1.7.0.tar.gz",
+  "download_time": "2026-03-06T20:26:46.050557",
+  "package_url": "https://pypi.org/project/odoo-backup-manager/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pycheckem",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Snapshot and diff Python runtime environments — catch package, config, and OS mismatches across dev, staging, prod, and containers",
   "author": "marci",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycheckem-0.4.0.tar.gz",
-  "download_time": "2026-03-06T05:36:28.133341",
+  "download_filename": "pycheckem-0.4.1.tar.gz",
+  "download_time": "2026-03-06T20:26:47.655712",
   "package_url": "https://pypi.org/project/pycheckem/"
 }

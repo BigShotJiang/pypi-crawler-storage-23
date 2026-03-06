@@ -1,0 +1,11 @@
+{
+  "name": "canonada",
+  "version": "0.6.6",
+  "summary": "Canonada is a data science framework that helps you build production-ready streaming pipelines for data processing in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "canonada-0.6.6.tar.gz",
+  "download_time": "2026-03-06T20:27:30.412629",
+  "package_url": "https://pypi.org/project/canonada/"
+}

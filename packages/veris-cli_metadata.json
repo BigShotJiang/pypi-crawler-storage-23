@@ -1,11 +1,11 @@
 {
   "name": "veris-cli",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "CLI to connect local agents to the Veris backend",
   "author": "Veris",
   "license": null,
   "home_page": null,
-  "download_filename": "veris_cli-2.5.0.tar.gz",
-  "download_time": "2026-03-04T21:00:01.425354",
+  "download_filename": "veris_cli-2.6.0.tar.gz",
+  "download_time": "2026-03-06T20:27:06.523118",
   "package_url": "https://pypi.org/project/veris-cli/"
 }

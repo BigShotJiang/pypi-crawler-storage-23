@@ -1,0 +1,11 @@
+{
+  "name": "numpy-rolling-ball",
+  "version": "1.0.0",
+  "summary": "Now function returns both result image and subtracted background",
+  "author": "Maksym Balatsko adapted by Alberto Lencina",
+  "license": "MIT License",
+  "home_page": "https://github.com/alencina-faa/numpy-rolling-ball",
+  "download_filename": "numpy_rolling_ball-1.0.0.tar.gz",
+  "download_time": "2026-03-06T20:27:00.650521",
+  "package_url": "https://pypi.org/project/numpy-rolling-ball/"
+}

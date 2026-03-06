@@ -1,0 +1,11 @@
+{
+  "name": "sota-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server for Summits on the Air — summit lookup, spots, alerts, nearby summits",
+  "author": "Greg Beam, KI7MT",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sota_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-06T20:27:23.780423",
+  "package_url": "https://pypi.org/project/sota-mcp/"
+}
