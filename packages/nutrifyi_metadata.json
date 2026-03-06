@@ -1,0 +1,11 @@
+{
+  "name": "nutrifyi",
+  "version": "0.1.0",
+  "summary": "Nutrition data and food composition API client — nutrifyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nutrifyi-0.1.0.tar.gz",
+  "download_time": "2026-03-06T09:08:25.706008",
+  "package_url": "https://pypi.org/project/nutrifyi/"
+}

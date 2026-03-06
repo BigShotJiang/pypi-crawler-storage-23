@@ -1,0 +1,11 @@
+{
+  "name": "agentest",
+  "version": "0.2.0",
+  "summary": "Universal agent testing and evaluation toolkit - record, replay, mock, and benchmark AI agents",
+  "author": "Agentest Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentest-0.2.0.tar.gz",
+  "download_time": "2026-03-06T09:08:24.419648",
+  "package_url": "https://pypi.org/project/agentest/"
+}

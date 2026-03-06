@@ -1,0 +1,11 @@
+{
+  "name": "trainfyi",
+  "version": "0.1.0",
+  "summary": "Railway stations and train routes API client — trainfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trainfyi-0.1.0.tar.gz",
+  "download_time": "2026-03-06T09:08:20.743585",
+  "package_url": "https://pypi.org/project/trainfyi/"
+}

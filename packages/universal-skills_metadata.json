@@ -1,11 +1,11 @@
 {
   "name": "universal-skills",
-  "version": "0.1.22",
+  "version": "0.1.26",
   "summary": "A collection of universal skills for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "universal_skills-0.1.22.tar.gz",
-  "download_time": "2026-03-04T05:06:14.273092",
+  "download_filename": "universal_skills-0.1.26.tar.gz",
+  "download_time": "2026-03-06T09:07:36.448834",
   "package_url": "https://pypi.org/project/universal-skills/"
 }

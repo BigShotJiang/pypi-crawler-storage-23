@@ -1,0 +1,11 @@
+{
+  "name": "pillfyi",
+  "version": "0.1.0",
+  "summary": "Pill identification and FDA drug database API client — pillfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pillfyi-0.1.0.tar.gz",
+  "download_time": "2026-03-06T09:08:28.072385",
+  "package_url": "https://pypi.org/project/pillfyi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "torchada",
-  "version": "0.1.37",
+  "version": "0.1.38",
   "summary": "Adapter package for torch_musa to act exactly like PyTorch CUDA",
   "author": "torchada contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torchada-0.1.37.tar.gz",
-  "download_time": "2026-03-03T10:05:40.663313",
+  "download_filename": "torchada-0.1.38.tar.gz",
+  "download_time": "2026-03-06T09:07:58.207457",
   "package_url": "https://pypi.org/project/torchada/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mazeengine",
+  "version": "0.1.3",
+  "summary": "A maze generator stand-alone module that will generate a maze based on config",
+  "author": "aymel-ha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mazeengine-0.1.3.tar.gz",
+  "download_time": "2026-03-06T09:08:02.685268",
+  "package_url": "https://pypi.org/project/mazeengine/"
+}

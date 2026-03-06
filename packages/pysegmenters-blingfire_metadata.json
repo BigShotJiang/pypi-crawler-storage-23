@@ -1,0 +1,11 @@
+{
+  "name": "pysegmenters-blingfire",
+  "version": "0.6.20",
+  "summary": "Segmenter based on BlingFire",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysegmenters_blingfire-0.6.20.tar.gz",
+  "download_time": "2026-03-06T09:08:06.788412",
+  "package_url": "https://pypi.org/project/pysegmenters-blingfire/"
+}

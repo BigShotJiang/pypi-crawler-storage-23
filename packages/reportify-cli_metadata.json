@@ -1,11 +1,11 @@
 {
   "name": "reportify-cli",
-  "version": "0.1.9",
+  "version": "0.1.15",
   "summary": "CLI wrapper for Reportify SDK - Access Reportify API through command line",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reportify_cli-0.1.9.tar.gz",
-  "download_time": "2026-03-04T03:39:09.661236",
+  "download_filename": "reportify_cli-0.1.15.tar.gz",
+  "download_time": "2026-03-06T09:07:35.733898",
   "package_url": "https://pypi.org/project/reportify-cli/"
 }

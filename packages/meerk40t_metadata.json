@@ -1,0 +1,11 @@
+{
+  "name": "meerk40t",
+  "version": "0.9.9100",
+  "summary": "MeerK40t LaserCutter Software",
+  "author": "jpirnay",
+  "license": "MIT",
+  "home_page": "https://github.com/meerk40t/meerk40t",
+  "download_filename": "meerk40t-0.9.9100.tar.gz",
+  "download_time": "2026-03-06T09:08:28.848222",
+  "package_url": "https://pypi.org/project/meerk40t/"
+}

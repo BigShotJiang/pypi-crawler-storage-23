@@ -1,0 +1,11 @@
+{
+  "name": "more-sso-auth",
+  "version": "1.5.0",
+  "summary": "A lightweight and extensible Single Sign-On (SSO) authentication library for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "more_sso_auth-1.5.0.tar.gz",
+  "download_time": "2026-03-06T09:07:47.394897",
+  "package_url": "https://pypi.org/project/more-sso-auth/"
+}
