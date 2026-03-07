@@ -1,0 +1,11 @@
+{
+  "name": "djangouiapp",
+  "version": "0.11800000000000001",
+  "summary": "Very simple quick way to deploy Django Application",
+  "author": "Wan Bae, Seattle University",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/django-ui/djangoui.git",
+  "download_filename": "djangouiapp-0.11800000000000001.tar.gz",
+  "download_time": "2026-03-07T01:13:03.906776",
+  "package_url": "https://pypi.org/project/djangouiapp/"
+}

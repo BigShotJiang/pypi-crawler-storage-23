@@ -1,11 +1,11 @@
 {
   "name": "siege-utilities",
-  "version": "3.8.1",
+  "version": "3.8.3",
   "summary": "A comprehensive Python utilities package with enhanced auto-discovery",
   "author": "Dheeraj Chand",
-  "license": null,
+  "license": "AGPL-3.0-only OR commercial license",
   "home_page": "https://github.com/siege-analytics/siege_utilities",
-  "download_filename": "siege_utilities-3.8.1.tar.gz",
-  "download_time": "2026-03-04T20:29:54.520797",
+  "download_filename": "siege_utilities-3.8.3.tar.gz",
+  "download_time": "2026-03-07T01:12:34.468476",
   "package_url": "https://pypi.org/project/siege-utilities/"
 }

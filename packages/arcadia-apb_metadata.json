@@ -1,0 +1,11 @@
+{
+  "name": "arcadia-apb",
+  "version": "0.3.0",
+  "summary": "General purpose toolkit for applied protein biology.",
+  "author": "Evan Kiefl, Keith Cheveralls",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcadia_apb-0.3.0.tar.gz",
+  "download_time": "2026-03-07T01:13:04.450098",
+  "package_url": "https://pypi.org/project/arcadia-apb/"
+}

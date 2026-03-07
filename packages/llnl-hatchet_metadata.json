@@ -1,0 +1,11 @@
+{
+  "name": "llnl-hatchet",
+  "version": "2026.1.0",
+  "summary": "A Python library for analyzing hierarchical performance data",
+  "author": "Stephanie Brink",
+  "license": "MIT",
+  "home_page": "https://github.com/llnl/hatchet",
+  "download_filename": "llnl_hatchet-2026.1.0.tar.gz",
+  "download_time": "2026-03-07T01:12:35.682250",
+  "package_url": "https://pypi.org/project/llnl-hatchet/"
+}

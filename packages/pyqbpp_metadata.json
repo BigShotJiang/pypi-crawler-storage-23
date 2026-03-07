@@ -1,11 +1,11 @@
 {
   "name": "pyqbpp",
-  "version": "2026.3.5",
+  "version": "2026.3.6.2",
   "summary": "Python QUBO++ Symbolic Computation Library (C++ backend)",
   "author": "Koji Nakano",
   "license": "QUBO++ License",
   "home_page": "https://nakanocs.github.io/qbpp/",
-  "download_filename": "pyqbpp-2026.3.5-py3-none-manylinux_2_31_x86_64.whl",
-  "download_time": "2026-03-05T07:14:57.052407",
+  "download_filename": "pyqbpp-2026.3.6.2-py3-none-manylinux_2_31_aarch64.whl",
+  "download_time": "2026-03-07T01:12:16.453511",
   "package_url": "https://pypi.org/project/pyqbpp/"
 }

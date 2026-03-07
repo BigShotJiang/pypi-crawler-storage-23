@@ -1,0 +1,11 @@
+{
+  "name": "schwab-sdk-unofficial",
+  "version": "0.3.1",
+  "summary": "Cliente ligero para API de Schwab: OAuth, REST y Streaming WebSocket",
+  "author": "Schwab SDK Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "schwab_sdk_unofficial-0.3.1.tar.gz",
+  "download_time": "2026-03-07T01:12:32.695129",
+  "package_url": "https://pypi.org/project/schwab-sdk-unofficial/"
+}

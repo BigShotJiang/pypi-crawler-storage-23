@@ -1,0 +1,11 @@
+{
+  "name": "aita-core",
+  "version": "0.1.0",
+  "summary": "Shared core for AI Teaching Assistant (AITA) chatbots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aita_core-0.1.0.tar.gz",
+  "download_time": "2026-03-07T01:12:45.252031",
+  "package_url": "https://pypi.org/project/aita-core/"
+}
