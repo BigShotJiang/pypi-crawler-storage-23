@@ -1,0 +1,11 @@
+{
+  "name": "zeroshot-sdk",
+  "version": "0.0.3",
+  "summary": "ZeroShot SDK - AI System Testing CLI and Client Library",
+  "author": "Lab42 Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zeroshot_sdk-0.0.3.tar.gz",
+  "download_time": "2026-03-07T03:31:08.006697",
+  "package_url": "https://pypi.org/project/zeroshot-sdk/"
+}

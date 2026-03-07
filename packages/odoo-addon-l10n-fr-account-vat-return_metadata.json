@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-account-vat-return",
+  "version": "16.0.8.1.0.1",
+  "summary": "VAT return for France: CA3, 3310-A, 3519",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_account_vat_return-16.0.8.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-07T03:31:32.306028",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-account-vat-return/"
+}

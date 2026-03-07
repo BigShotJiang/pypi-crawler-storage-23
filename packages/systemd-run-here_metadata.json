@@ -1,0 +1,11 @@
+{
+  "name": "systemd-run-here",
+  "version": "1.0.0",
+  "summary": "Start a systemd service and display log output directly in the shell",
+  "author": "readwithai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "systemd_run_here-1.0.0.tar.gz",
+  "download_time": "2026-03-07T03:31:29.015593",
+  "package_url": "https://pypi.org/project/systemd-run-here/"
+}

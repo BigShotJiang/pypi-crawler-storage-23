@@ -1,11 +1,11 @@
 {
   "name": "hippocampus-sharp-memory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Brain-inspired memory for AI agents. Ebbinghaus forgetting + Kanerva SDM + spaced recall. Sub-microsecond semantic lookup. Only remembers what matters.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hippocampus_sharp_memory-1.0.1.tar.gz",
-  "download_time": "2026-03-06T09:07:44.274047",
+  "download_filename": "hippocampus_sharp_memory-1.0.2.tar.gz",
+  "download_time": "2026-03-07T03:31:40.867988",
   "package_url": "https://pypi.org/project/hippocampus-sharp-memory/"
 }

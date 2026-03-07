@@ -1,0 +1,11 @@
+{
+  "name": "benchify",
+  "version": "1.1.0",
+  "summary": "The official Python library for the formalize API",
+  "author": "Formalize",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "benchify-1.1.0.tar.gz",
+  "download_time": "2026-03-07T03:31:39.776098",
+  "package_url": "https://pypi.org/project/benchify/"
+}

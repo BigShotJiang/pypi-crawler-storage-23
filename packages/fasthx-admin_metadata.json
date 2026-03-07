@@ -1,11 +1,11 @@
 {
   "name": "fasthx-admin",
-  "version": "0.2.4",
+  "version": "0.3.9",
   "summary": "FastAPI + HTMX + Jinja2 admin interface framework — a modern replacement for Flask-Admin",
   "author": "talbiston",
   "license": null,
   "home_page": null,
-  "download_filename": "fasthx_admin-0.2.4.tar.gz",
-  "download_time": "2026-03-05T21:55:01.833102",
+  "download_filename": "fasthx_admin-0.3.9.tar.gz",
+  "download_time": "2026-03-07T03:31:12.314528",
   "package_url": "https://pypi.org/project/fasthx-admin/"
 }

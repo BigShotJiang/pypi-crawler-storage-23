@@ -1,11 +1,11 @@
 {
   "name": "tokenusage",
-  "version": "1.2.6",
+  "version": "1.3.1",
   "summary": "Fast Rust CLI/TUI/GUI token usage tracker for Codex, Claude Code, and Antigravity usage.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokenusage-1.2.6.tar.gz",
-  "download_time": "2026-03-05T14:45:03.859328",
+  "download_filename": "tokenusage-1.3.1.tar.gz",
+  "download_time": "2026-03-07T03:31:05.692646",
   "package_url": "https://pypi.org/project/tokenusage/"
 }

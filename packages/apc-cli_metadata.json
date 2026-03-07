@@ -1,0 +1,11 @@
+{
+  "name": "apc-cli",
+  "version": "0.1.1",
+  "summary": "AI Personal Context — sync AI agent configs across machines and tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apc_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-07T03:31:15.942227",
+  "package_url": "https://pypi.org/project/apc-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dockerfile-doctor",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Lint, analyze, and auto-fix Dockerfiles for best practices, security, and performance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dockerfile_doctor-0.1.2.tar.gz",
-  "download_time": "2026-03-06T16:45:34.018169",
+  "download_filename": "dockerfile_doctor-0.1.4.tar.gz",
+  "download_time": "2026-03-07T03:31:15.414904",
   "package_url": "https://pypi.org/project/dockerfile-doctor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ha-mcp-dev",
-  "version": "6.7.2.dev240",
+  "version": "6.7.2.dev243",
   "summary": "Home Assistant MCP Server - Complete control of Home Assistant through MCP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ha_mcp_dev-6.7.2.dev240.tar.gz",
-  "download_time": "2026-03-06T13:46:47.668947",
+  "download_filename": "ha_mcp_dev-6.7.2.dev243.tar.gz",
+  "download_time": "2026-03-07T03:31:25.890423",
   "package_url": "https://pypi.org/project/ha-mcp-dev/"
 }

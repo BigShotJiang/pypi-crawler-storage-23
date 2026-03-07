@@ -1,0 +1,11 @@
+{
+  "name": "structui",
+  "version": "0.2.0",
+  "summary": "A format-agnostic, schema-driven, hierarchical configuration UI.",
+  "author": "structui contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "structui-0.2.0.tar.gz",
+  "download_time": "2026-03-07T03:31:18.539940",
+  "package_url": "https://pypi.org/project/structui/"
+}

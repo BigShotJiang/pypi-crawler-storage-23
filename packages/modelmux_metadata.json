@@ -1,11 +1,11 @@
 {
   "name": "modelmux",
-  "version": "0.28.0",
+  "version": "0.29.0",
   "summary": "Model multiplexer — unified MCP server for cross-platform multi-model AI collaboration",
   "author": "pure-maple",
   "license": null,
   "home_page": null,
-  "download_filename": "modelmux-0.28.0.tar.gz",
-  "download_time": "2026-03-07T01:13:07.744678",
+  "download_filename": "modelmux-0.29.0.tar.gz",
+  "download_time": "2026-03-07T03:31:21.218452",
   "package_url": "https://pypi.org/project/modelmux/"
 }
